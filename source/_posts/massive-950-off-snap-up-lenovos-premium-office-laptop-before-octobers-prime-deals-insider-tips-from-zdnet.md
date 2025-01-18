@@ -1,7 +1,7 @@
 ---
 title: "Massive $950 Off: Snap Up Lenovo's Premium Office Laptop Before October's Prime Deals - Insider Tips From ZDNet"
-date: 2025-01-06T17:17:19.914Z
-updated: 2025-01-12T20:34:37.129Z
+date: 2025-01-11T18:24:38.779Z
+updated: 2025-01-18T17:27:12.509Z
 tags:
   - laptops
 categories:
@@ -38,7 +38,7 @@ This laptop isn't solely for business professionals. Everybody can enjoy the dev
 Right now is the best time to buy this device. The [Lenovo Gen 12 ThinkPad X1 Carbon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D1D5J1J1%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cddc033e3-08fa-42b2-b4fe-eb896d4675a3%7Cdtp&dtb=1) is currently on sale at Amazon for $1,500\. That is almost $1,000 off the original price. I should also mention that there is a variant of the laptop with a 2.8K OLED display, which is the model [I tested back in February](https://www.zdnet.com/article/the-thinkpad-i-recommend-for-hybrid-workers-is-not-lenovos-newest-model/). The [OLED version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D5SNKGZ4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cddc033e3-08fa-42b2-b4fe-eb896d4675a3%7Cdtp&dtb=1) is much more expensive, but I recommend it as an alternative if you can afford it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -75,22 +75,24 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-adjusting-story-video-playback-rate-on-instagram/"><u>[New] Adjusting Story Video Playback Rate on Instagram</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-scouting-the-best-screenshot-and-recorders-of-today/"><u>[Updated] 2024 Approved Scouting the Best Screenshot & Recorders of Today</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-screen-spectaculor-the-premier-6-hdmi-21-models-reviewed-for-2024/"><u>[Updated] Screen Spectaculor The Premier 6 HDMI 2.1 Models Reviewed for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-optimizing-facebook-videos-for-hd-broadcasts-and-beyond/"><u>2024 Approved Optimizing Facebook Videos for HD Broadcasts and Beyond</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Motorola Razr 40 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-nokia-c210-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Nokia C210 Phone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/quick-windows-data-assessment-tutorial-for-2024/"><u>Quick Windows Data Assessment Tutorial for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/ready-set-delete-top-windows-redundancies-you-can-eliminate/"><u>Ready, Set, Delete: Top Windows Redundancies You Can Eliminate</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/scorching-discount-alert-up-to-170-off-amazons-popular-fire-tv-qled-series-act-fast-on-this-exclusive-offer-full-details-zdnet/"><u>Scorching Discount Alert: Up to $170 Off Amazon's Popular Fire TV QLED Series! Act Fast on This Exclusive Offer - Full Details | ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/snag-your-dream-lg-oled-television-for-a-bargain-exclusive-labor-day-offer-with-savings-of-up-to-80-cups-check-out-the-latest-reviews-on-zdnet/"><u>Snag Your Dream LG OLED Television for a Bargain: Exclusive Labor Day Offer with Savings of up to $80 Cups! Check Out the Latest Reviews on ZDNET</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-setting-up-airplay-technology-for-hdtv-viewing-experience/"><u>Step-by-Step Tutorial: Setting Up AirPlay Technology for HDTV Viewing Experience</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-non-branded-soundbar-beats-bose-and-sony-in-our-review-insights-from-zdnet/"><u>Top Non-Branded Soundbar Beats Bose and Sony in Our Review - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-ranked-roku-devices-comprehensive-reviews-and-testing-by-tech-experts-digital-trends/"><u>Top-Ranked Roku Devices : Comprehensive Reviews & Testing by Tech Experts | Digital Trends</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-ranking-roku-devices-expert-picks-for-the-ultimate-streaming-experience-zdnet/"><u>Top-Ranking Roku Devices: Expert Picks for the Ultimate Streaming Experience - ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-4k-television-models-comprehensive-reviews-by-tech-specialists-pcmag/"><u>Top-Rated 4K Television Models - Comprehensive Reviews by Tech Specialists | PCMag</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/transform-your-iphone-into-an-intuitive-tv-control-device-with-these-expert-tips-by-zdnet/"><u>Transform Your iPhone Into an Intuitive TV Control Device with These Expert Tips by ZDNET</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-unresponsive-file-explorer-in-windows-10-tips-and-fixes/"><u>Troubleshooting Unresponsive File Explorer in Windows 10 – Tips and Fixes</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-captivating-video-content-tips-for-pinterest-boards/"><u>[New] In 2024, Captivating Video Content Tips for Pinterest Boards</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-instagram-tv-disable-guide/"><u>[Updated] 2024 Approved Instagram TV Disable Guide</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-the-ultimate-tutorial-for-apple-music-and-video-mix/"><u>[Updated] The Ultimate Tutorial for Apple Music & Video Mix</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/500-and-below-top-pick-and-secret-bargain-cyber-monday-laptops-ultimate-guide/"><u>$500 and Below: Top Pick & Secret Bargain Cyber Monday Laptops Ultimate Guide!</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-infinix-hot-40i-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/beat-the-heat-and-save-on-hot-deals-snag-the-hp-victus-15-gaming-laptop-for-only-530-during-anti-prime-day-sale-best-buy-insights/"><u>Beat the Heat & Save on Hot Deals: Snag the HP Victus 15 Gaming Laptop for Only $530 During Anti-Prime Day Sale @ Best Buy Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-overview-of-newly-launched-galaxy-devices-from-samsungs-unpacked-showcase-cnet/"><u>Complete Overview of Newly Launched Galaxy Devices From Samsung's Unpacked Showcase | CNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-meta-quest-3-512gb-onyx-offers-top-picks-for-octobers-prime-day-vr-blowout-now-on-zdnet/"><u>Exclusive Meta Quest 3 512GB Onyx Offers - Top Picks for October's Prime Day VR Blowout, Now on ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/getting-closed-captions-back-on-your-roku-device-a-guide/"><u>Getting Closed Captions Back on Your Roku Device - A Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-enhancing-your-playtime-non-gamebar-video-recording-options/"><u>In 2024, Enhancing Your Playtime Non-GameBar Video Recording Options</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/iphone-16-vs-ipad-mini-why-smart-tech-choices-spark-greater-enthusiasm/"><u>IPhone 16 Vs. IPad Mini: Why Smart Tech Choices Spark Greater Enthusiasm</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-high-performance-computers-with-toms-tech-advisor/"><u>Navigating the World of High-Performance Computers with Tom's Tech Advisor</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-picks-for-lightweight-business-laptops-non-apple-and-non-dell-options/"><u>Top Picks for Lightweight Business Laptops - Non-Apple and Non-Dell Options</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-streaming-webcams-of-2024-comprehensive-reviews-and-expert-insights-techradar/"><u>Top-Rated Streaming Webcams of 2024: Comprehensive Reviews & Expert Insights | TechRadar</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/transform-your-laptop-with-effortless-dual-4k-compatible-with-non-supportive-hardware-discover-how-product-name-changes-the-game/"><u>Transform Your Laptop with Effortless Dual 4K: Compatible with Non-Supportive Hardware! Discover How [Product Name] Changes the Game</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/translingual-impact-on-the-fabric-of-eng/"><u>Translingual Impact on the Fabric of ENG</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unleashing-potential-in-subtlety-how-asus-delivers-a-laptop-with-impressive-features-for-creatives-spotted/"><u>Unleashing Potential in Subtlety - How Asus Delivers a Laptop with Impressive Features for Creatives, Spotted</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/unparalleled-free-console-reproduction-software/"><u>Unparalleled Free Console Reproduction Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/your-go-to-ipad-pro-accessory-solution-with-the-new-usb-c-hub-insights-from-zdnet/"><u>Your Go-To iPad Pro Accessory Solution with the New USB-C Hub – Insights From ZDNET</u></a></li>
 </ul></div>
 

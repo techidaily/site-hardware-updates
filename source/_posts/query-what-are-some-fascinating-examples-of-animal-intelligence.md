@@ -1,7 +1,7 @@
 ---
 title: "[Query]: What Are some Fascinating Examples of Animal Intelligence?"
-date: 2025-01-11T00:21:39.704Z
-updated: 2025-01-13T01:20:56.267Z
+date: 2025-01-12T17:45:58.430Z
+updated: 2025-01-18T20:17:41.961Z
 tags:
   - laptops
 categories:
@@ -20,7 +20,7 @@ This week, Microsoft held its fall Microsoft Surface launch event where the comp
 Surface remains one of Microsoft's most popular products, with revenue increasing 3% year-over-year by $226 million in the fourth quarter of its [2022 financial year](https://www.microsoft.com/en-us/Investor/earnings/FY-2022-Q3/more-personal-computing-performance#:~:text=Surface%20revenue%20increased%20%24195%20million,increased%20%24305%20million%20or%207%25.&text=Gross%20margin%20increased%20%24755%20million,and%20Search%20and%20news%20advertising.). But that wasn't always the case, and Surface represents a big shift in Microsoft's business over the last decade. Here is how the Surface earned its spot as one of Microsoft's best sellers. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Windows
@@ -119,19 +119,18 @@ Microsoft has to make sure that it continues to upgrade its Surface lineup to st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-achieve-higher-interactions-mastering-the-art-of-square-videos-for-2024/"><u>[New] Achieve Higher Interactions Mastering the Art of Square Videos for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-iphoneandroid-autoplay-continuous-youtube-access/"><u>[New] IPhone/Android AutoPlay Continuous YouTube Access</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-resolve-instagrams-video-problems-swiftly/"><u>[New] Resolve Instagram's Video Problems Swiftly</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-saving-on-cameras-the-best-value-of-cheap-action-choices/"><u>[New] Saving on Cameras The Best Value of Cheap ACTION Choices</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-enhancing-content-discovery-via-thumbnails/"><u>[Updated] 2024 Approved Enhancing Content Discovery via Thumbnails</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-the-ultimate-checklist-for-adding-effective-on-screen-captions-to-your-videos/"><u>[Updated] 2024 Approved The Ultimate Checklist for Adding Effective On-Screen Captions to Your Videos</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/anticipated-release-latest-rumors-suggest-new-ipad-models-due-in-early-spring-of-2024-tech-news/"><u>Anticipated Release: Latest Rumors Suggest New iPad Models Due in Early Spring of 2024 | Tech News</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/best-lenovo-laptops-tailored-for-the-modern-hybrid-worker-save-big/"><u>Best Lenovo Laptops Tailored for the Modern Hybrid Worker - Save Big!</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/cutting-edge-practices-for-subtle-audio-reduction-on-lumafusion/"><u>Cutting-Edge Practices for Subtle Audio Reduction on Lumafusion</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-the-best-of-copilotplus-a-peek-into-the-gaming-ready-laptops-debuted-at-ifa-2024-tech-analysis-by-zdnet/"><u>Exploring the Best of Copilot+: A Peek Into the Gaming-Ready Laptops Debuted at IFA 2024 | Tech Analysis by ZDNET</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/revolutionize-your-productivity-with-lenovos-innovative-dual-screen-laptop-a-game-changer-for-modern-workflows/"><u>Revolutionize Your Productivity with Lenovo's Innovative Dual-Screen Laptop - A Game Changer for Modern Workflows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-cyber-monday-computers-bargains-exclusive-october-2024-guide/"><u>Top-Rated Cyber Monday Computers Bargains: Exclusive October 2024 Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-scoring-amazing-savings-on-laptops-for-the-october-premier-shopping-extravaganza-exclusive/"><u>Ultimate Guide to Scoring Amazing Savings on Laptops for the October Premier Shopping Extravaganza Exclusive</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unbelievable-bargain-alert-255-chromebook-steals-the-show-at-octobers-prime-day-extravaganza/"><u>Unbelievable Bargain Alert: $255 Chromebook Steals the Show at October's Prime Day Extravaganza!</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-uncovering-old-facebook-stories-with-ease/"><u>[New] 2024 Approved Uncovering Old Facebook Stories with Ease</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-protectly-copy-youtube-tracks-for-free/"><u>[New] In 2024, How to Protectly Copy Youtube Tracks for Free</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-a-novices-choice-ideal-game-recording-and-editing-tools/"><u>[Updated] 2024 Approved A Novice’s Choice Ideal Game Recording & Editing Tools</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-collageknights-syncing-videos-across-devices-for-2024/"><u>[Updated] CollageKnights Syncing Videos Across Devices for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-poco-m6-pro-4g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Poco M6 Pro 4G</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-full-functionality-of-your-epson-v39-by-downloading-the-correct-drivers-for-windows-systems-v7-10/"><u>Ensure Full Functionality of Your Epson V39 by Downloading the Correct Drivers for Windows Systems (V7-10)</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/full-guide-to-unlock-your-nokia-g42-5g-by-drfone-android/"><u>Full Guide to Unlock Your Nokia G42 5G</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-hp-officejet-3830-driver-and-installation-help-on-windows-pc/"><u>Get the Latest HP OfficeJet 3830 Driver & Installation Help on Windows PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-epson-ds-530-printer-drivers-on-a-64-bit-windows-10-machine/"><u>How to Install Epson DS-530 Printer Drivers on a 64-Bit Windows 10 Machine</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-the-essential-driver-suite-for-your-hp-printer-today/"><u>Install the Essential Driver Suite for Your HP Printer Today!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-canon-mp250-printer-driver-installation-and-version-enhancement/"><u>Latest Canon MP250 Printer Driver Installation and Version Enhancement</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/solved-how-to-restore-functionality-of-a-non-working-logitech-g433-mic/"><u>Solved! How to Restore Functionality of a Non-Working Logitech G433 Mic</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-windows-11s-cloud-storage-functionality/"><u>Streamlining Windows 11'S Cloud Storage Functionality</u></a></li>
 </ul></div>
 

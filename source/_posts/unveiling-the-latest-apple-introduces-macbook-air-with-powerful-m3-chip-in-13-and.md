@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Latest: Apple Introduces MacBook Air with Powerful M3 Chip in 13 &"
-date: 2025-01-08T18:04:00.506Z
-updated: 2025-01-13T01:59:32.439Z
+date: 2025-01-17T18:27:07.839Z
+updated: 2025-01-18T19:19:10.870Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ That's right. Apple said the "A" word, and it's not being shy about it, as my af
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Apple is _officially_ in the AI PC race
@@ -55,7 +55,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 Apple also wants you to know that it's _been_ in the [AI PC race](https://www.zdnet.com/article/what-is-an-ai-pc-and-should-you-buy-one/) since the very beginning, with just about every Mac model now carrying neural engines for machine learning. The new MacBook Air is "the best consumer laptop for AI," the company touts in its Monday press release, but we'll have to see for ourselves when we put the 13- and 15-inch models through the wringer soon.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. I can finally recommend the Midnight color
@@ -67,7 +67,7 @@ AI aside, there is one subtle design change to the new MacBooks that I really di
 Considering how easy it was to get smudges and marks on the original Midnight color of the MacBook Air -- which made lighter hue options look like rockstars -- this is a welcome change. Having fumbled with the MacBooks for a quick 10-minute photo-op, the fingerprints were noticeable, though not as bad as I remembered on the M2 Air. For me, this makes the Midnight variant recommendable again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Dual-monitor support is a bigger deal than it seems
@@ -110,21 +110,17 @@ All in all, the changes to the newest line of MacBook Air feel subtle on paper b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/oost-your-videos-impact-with-top-ranking-software-solutions/"><u>[New] Boost Your Videos' Impact with Top-Ranking Software Solutions</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-upload-youtube-shorts-detailed-instructions-from-desktopmobile-for-2024/"><u>[Updated] Upload YouTube Shorts Detailed Instructions From Desktop/Mobile for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/iso-mp3ac3wav/"><u>最新の無料オンラインソフトでISO画像から高品質音声へ - MP3、AC3、WAVなど変換ガイド</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-advice-how-to-allow-website-cookies-in-your-browsers/"><u>Expert Advice: How to Allow Website Cookies in Your Browsers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-get-the-brother-hl-l2340dw-printing-software-installer-on-your-windows-computer/"><u>How to Get the Brother HL-L2340DW Printing Software Installer on Your Windows Computer</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-prime-techniques-converting-visual-content-on-pinterest-to-mp3s/"><u>In 2024, Prime Techniques Converting Visual Content on Pinterest To MP3s</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leverage-ai-to-automate-your-typistits-in-microsoft-word/"><u>Leverage AI to Automate Your Typist'its in Microsoft Word</u></a></li>
-<li><a href="https://extra-information.techidaily.com/leveraging-zooms-full-spectrum-of-live-video-capabilities/"><u>Leveraging Zoom's Full Spectrum of Live Video Capabilities</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-essential-guide-to-flushing-out-your-tvs-memory-boost-performance-and-privacy/"><u>The Essential Guide to Flushing Out Your TV's Memory: Boost Performance & Privacy</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-president-has-the-power-to-veto-legislation-which-can-be-overridden-only-by-a-two-thirds-majority-in-both-houses/"><u>The President Has the Power to Veto Legislation, Which Can Be Overridden only by a Two-Thirds Majority in Both Houses.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-5-premium-8k-television-models-unveiled-techradar/"><u>Top 5 Premium 8K Television Models Unveiled | TechRadar</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-6-audiobook-apps-and-players-for-pc-users/"><u>Top 6 Audiobook Apps & Players for PC Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-ranked-2024-roku-streaming-devices-reviewed-by-tech-experts-zdnet-insights/"><u>Top-Ranked 2024 Roku Streaming Devices Reviewed by Tech Experts | ZDNet Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-ranked-sony-televisions-comprehensive-reviews-and-ratings-by-tech-experts-zdnet/"><u>Top-Ranked Sony Televisions : Comprehensive Reviews and Ratings by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-ranking-non-vizio-non-jbl-soundbar-delivers-ultimate-audio-experience/"><u>Top-Ranking Non-Vizio, Non-JBL Soundbar Delivers Ultimate Audio Experience</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-ranking-roku-devices-and-streaming-sticks-expert-reviews-by-techradar/"><u>Top-Ranking Roku Devices & Streaming Sticks - Expert Reviews by TechRadar</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-re-establishing-offline-and-online-links-in-cod-cold-war/"><u>[FIXING]: Re-Establishing Offline & Online Links in CoD Cold War</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/aming-the-black-screen-demon-of-youtube/"><u>[New] Taming the Black Screen Demon of YouTube</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-unraveling-the-purpose-behind-a-common-symbol-on-fb-chat/"><u>[New] Unraveling the Purpose Behind a Common Symbol on FB Chat</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-unveiling-the-art-of-reshaping-your-tiktok-avatar/"><u>2024 Approved Unveiling the Art of Reshaping Your TikTok Avatar</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-magic-the-innovative-origami-laptop-sleeve-a-journey-into-convenience-and-creativity/"><u>Discover the Magic: The Innovative Origami Laptop Sleeve - A Journey Into Convenience and Creativity</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-discover-the-ultimate-list-of-top-dell-deals-for-black-friday-and-cyber-monday-across-platforms-such-as-best-buy-and-amazon-gizmodo/"><u>Exclusive: Discover the Ultimate List of Top Dell Deals for Black Friday and Cyber Monday Across Platforms Such as Best Buy & Amazon | Gizmodo</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-ultimate-creators-setup-at-half-price-dramatic-1100-discount-on-high-performance-computers-for-gamers-and-producers-spotted-first-on-zdnet/"><u>Get the Ultimate Creator's Setup at Half Price! Dramatic $1,100 Discount on High-Performance Computers for Gamers and Producers – Spotted First on ZDNet.</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-honor-100-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Honor 100? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-14-without-losing-any-content-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 14 without Losing Any Content? | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-pixelated-past-x-era-selfies-with-iphone-x/"><u>In 2024, Pixelated Past X-Era Selfies with iPhone X</u></a></li>
+<li><a href="https://extra-support.techidaily.com/is-auroras-hdr-enhancing-your-viewing-experience-in-2024/"><u>Is Aurora's HDR Enhancing Your Viewing Experience, In 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/limited-time-offer-the-alluring-deal-of-the-season-hp-envy-x360-touchscreen-laptop-at-40-off-for-only-499-shop-smart/"><u>Limited-Time Offer: The Alluring Deal of the Season – HP Envy X360 Touchscreen Laptop at 40% Off for Only $499 | Shop Smart !</u></a></li>
 </ul></div>
 

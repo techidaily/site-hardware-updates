@@ -1,7 +1,7 @@
 ---
 title: Unleashing Potential in Subtlety - How Asus Delivers a Laptop with Impressive Features for Creatives, Spotted
-date: 2025-01-08T21:52:02.724Z
-updated: 2025-01-13T01:40:54.559Z
+date: 2025-01-15T19:23:04.875Z
+updated: 2025-01-18T17:18:30.264Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -73,7 +73,7 @@ Asus' Vivobook Pro 15 does a good job playing media. Hi-res videos look stunning
 In line with my initial impression, the device is a little on the bulky side, but the extra heft is not a big deal because it's lightweight and the extra room allows for a wide array of ports. You get two USB-Cs, a pair of USB-A inputs that support transfer speeds of up to 5GBPS, HDMI, an ethernet port, and an SD card slot.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -112,22 +112,22 @@ If you want something more powerful, I suggest checking out the MSI Creator Z16 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-elevate-visual-storytelling-with-windows-photos-and-story-remix-techniques-for-2024/"><u>[New] Elevate Visual Storytelling with Windows Photos & Story Remix Techniques for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/nhance-engagement-with-effective-yt-summary-writing-for-2024/"><u>[New] Enhance Engagement with Effective YT Summary Writing for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-pushing-past-vimeos-limits-with-top-10-editors-for-2024/"><u>[Updated] Pushing Past Vimeo's Limits with Top 10 Editors for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-high-end-cameras-for-stunning-4k-content-top-18/"><u>2024 Approved High-End Cameras for Stunning 4K Content (Top 18)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/affordably-elite-the-top-notch-display-on-this-budget-laptop-that-exceeds-expectations/"><u>Affordably Elite: The Top-Notch Display on This Budget Laptop That Exceeds Expectations</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exclusive-scoop-best-buys-top-picks-for-october-prime-day-2024-still-going-strong/"><u>Exclusive Scoop: Best Buy's Top Picks for October Prime Day 2024 Still Going Strong</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/exploring-hardware-integration-a-step-by-nstep-guide-in-the-system-settings-control-panel-with-yl-computing-solutions/"><u>Exploring Hardware Integration: A Step-by-nStep Guide in the System Settings (Control Panel) with YL Computing Solutions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/half-price-hp-pavilion-laptops-on-cyber-monday-202n-save-big-with-a-450-deal-at-50-off-zdnet/"><u>Half-Price HP Pavilion Laptops on Cyber Monday 202N - Save Big with a $450 Deal at 50% Off! | ZDNet</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Nokia 105 Classic? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-proven-strategies-against-photos-app-issues-on-windows-11/"><u>In 2024, Proven Strategies Against Photos App Issues on Windows 11</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-script-zip-up-creating-srt-from-video-archives-fastly/"><u>In 2024, Script Zip-Up Creating SRT From Video Archives Fastly</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/macbook-air-with-m1-chip-at-unbeatable-649-price-exclusive-deal/"><u>MacBook Air with M1 Chip at Unbeatable $649 Price – Exclusive Deal !</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-ai-integration-incorporating-gpt-3-into-your-python-projects/"><u>Mastering AI Integration: Incorporating GPT-3 Into Your Python Projects</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/returning-students-rejoice-save-big-with-samsung-deals-on-tech-gear-for-class/"><u>Returning Students Rejoice: Save Big with Samsung Deals on Tech Gear for Class!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-the-premier-linux-laptops-of-2024-meticulously-tested-for-performance-and-reliability/"><u>Ultimate Guide to the Premier Linux Laptops of 2024, Meticulously Tested for Performance and Reliability</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlock-stunning-visual-delights-with-our-top-rated-thin-and-light-laptop-exclusive-sale-alert-tech-savvy-today/"><u>Unlock Stunning Visual Delights with Our Top-Rated Thin & Light Laptop - Exclusive Sale Alert! | Tech Savvy Today</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unmissable-savings-on-apple-products-for-july-202-find-the-latest-iphone-discounts-apple-watch-bargains-and-budget-friendly-ipads-now-gadgetzone/"><u>Unmissable Savings on Apple Products for July 202#: Find the Latest iPhone Discounts, Apple Watch Bargains, and Budget-Friendly iPads Now | GadgetZone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-secrets-to-effortless-obs-broadcasts-on-fb/"><u>[New] In 2024, Secrets to Effortless OBS Broadcasts on FB</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-the-secret-art-of-hidden-streaming-instagrams-anonymous-spectators-guide/"><u>[New] The Secret Art of Hidden Streaming Instagram's Anonymous Spectators Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-color-grading-integrating-free-lut-resources/"><u>2024 Approved Innovative Color Grading Integrating FREE LUT Resources</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-navigating-the-world-of-asmr-video-content/"><u>2024 Approved Navigating the World of ASMR Video Content</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-steps-to-correct-your-realtek-rtl8723be-driver-malfunction/"><u>Comprehensive Steps to Correct Your Realtek RTL8723BE Driver Malfunction</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/direct-download-link-to-rtx-2080-super-nvidia-drivers-up-to-date-for-windows-11/"><u>Direct Download Link to RTX 2080 Super NVIDIA Drivers - Up-to-Date for Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-freshly-released-broadcom-bluetooth-drivers-for-windows-operating-systems-xp-vista/"><u>Get Your Freshly Released Broadcom Bluetooth Drivers for Windows Operating Systems (XP, Vista)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-wirelessnetwork-adapters-updated-driver-software-for-windows-operating-systems/"><u>HP Wireless/Network Adapters: Updated Driver Software for Windows Operating Systems</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-logitech-steering-wheel-software-on-windows-versions-7810/"><u>Install Logitech Steering Wheel Software on Windows (Versions 7/8/10)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-nvidia16-3d-vision-drivers-on-your-window-system-without-cost/"><u>Installing Nvidia'16 3D Vision Drivers on Your Window System Without Cost</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-nvidia-quadro-windows-11-drivers-download-and-installation-steps/"><u>Latest NVIDIA Quadro Windows 11 Drivers - Download & Installation Steps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/speedy-download-and-install-of-samsung-m2070fw-printing-software/"><u>Speedy Download & Install of Samsung M2070FW Printing Software</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/step-by-step-guide-removing-files-in-windows-os-tech-tips-from-yl-computing/"><u>Step-by-Step Guide: Removing Files in Windows OS - Tech Tips From YL Computing</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/transform-your-tiktok-footage-with-enlarged-characters-for-2024/"><u>Transform Your TikTok Footage with Enlarged Characters for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-for-resolving-hulu-error-rununk13/"><u>Troubleshooting Steps for Resolving Hulu ERROR RUNUNK13</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-xiaomi-redmi-note-12t-pro-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Xiaomi Redmi Note 12T Pro IMEI without Root A Comprehensive Guide</u></a></li>
 </ul></div>
 

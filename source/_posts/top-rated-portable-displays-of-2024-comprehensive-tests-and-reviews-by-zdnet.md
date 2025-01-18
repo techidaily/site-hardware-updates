@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated Portable Displays of 2024: Comprehensive Tests & Reviews by ZDNet"
-date: 2025-01-01T06:40:46.880Z
-updated: 2025-01-06T05:59:29.772Z
+date: 2025-01-11T17:37:29.619Z
+updated: 2025-01-18T19:25:33.390Z
 tags:
   - laptops
 categories:
@@ -24,17 +24,9 @@ All of the ultraportable laptops on this list sport cutting-edge form factors, a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What's the best lightweight laptop right now?
 
 Our overall top pick for the best lightweight laptop has to go to the [Apple MacBook Air M3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX24JRLR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C668fdd14-62fe-4f5f-ab26-348748ed1dd8%7Cdtp&dtb=1). In terms of portability, sleek form factor, solid battery life, and AI-capabilities, the MacBook Air M3 reigns supreme among the lightest of the light. It might not be the best pick for you, however, so we included other options that round out the spectrum of common use cases. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The best ultraportable laptops of 2024
 
@@ -54,6 +46,10 @@ Cons
 * Built-in speakers could be stronger
 
 ## Apple MacBook Air M3
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best lightweight laptop overall
 
@@ -83,6 +79,10 @@ Cons
 * Generic design
 * Loud fans
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Acer Swift Go 14
 
 ### Best lightweight laptop for AI
@@ -110,6 +110,10 @@ Pros
 Cons 
 * Compact size means it can run hot
 * Comes pre-loaded with bloatware
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Asus ROG Zephyrus G14
 
@@ -144,10 +148,6 @@ Cons
 
 ## LG Gram Pro 17
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best lightweight laptop with a 17" display
 
 The LG Gram Pro 17 takes portability to the extreme. At just half an inch thick and weighing barely over three pounds, the Gram Pro 17 not only holds a Guinness record, but achieved something that at one time was thought to be impossible for a 17" laptop.
@@ -179,10 +179,6 @@ Cons
 
 ## Lenovo ThinkPad X1 Carbon
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best lightweight laptop for work
 
 Lenovo's ThinkPad laptop series has been popular with professionals seeking durable Windows machines for years now, and the X1 Carbon is no exception. This is an elegant, lightweight workhorse of a laptop designed with the working professional in mind, and comes with a host of powerful hardware to back it up. 
@@ -198,7 +194,7 @@ It also comes with an 8MP webcam that can shoot in 4K, perfect for presenting a 
 Show Expert Take Show less 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is the best lightweight laptop?
@@ -225,10 +221,6 @@ The best lightweight laptop for you depends on what you want to get out of it. L
 | LG Gram Pro 17                      | The lightest, thinnest 17-inch laptop on the market, no matter the cost.                 |
 | Lenovo X1 Carbon                    | A durable, powerful laptop for work.                                                     |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How we test lightweight laptops
 
 Kyle Kucharski/ZDNET
@@ -253,6 +245,10 @@ These laptops all offer solid performance in their own right, but paired with th
 * **Battery life:** In order to be considered for this list, I considered machines with better-than-average battery life. This is one metric that will vary significantly based on use case, but all of these laptops will easily last an entire workday (eight hours) on one charge, even while undergoing demanding workloads
 * **Price:** Cost is an important factor and will make or break many consumers' choices. The reality is that ultraportability does come at a cost, as none of these laptops would be considered "budget" by any rate. The Acer Swift Go 14, however, is still quite affordable, starting at $800, though upgrades will move that number more in line with the others on this list.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why does having a lightweight laptop matter?
 
 The answer to this question is simple: laptops are made to be carried around, and no one wants to carry a heavy computer. Having a thin, lightweight machine opens up its usability and lets you take it places you normally wouldn't consider possible. 
@@ -260,6 +256,10 @@ The answer to this question is simple: laptops are made to be carried around, an
 Ultraportability does come with tradeoffs, however, both in terms of design and cost. When talking about design, the constraints on manufacturers to squeeze value out of every square inch of space in the laptop means that certain elements may be smaller, lighter, or in non-conventional locations. This especially refers to the laptop's battery, its display, or the laptop's keyboard. 
 
 In terms of cost, ultraportable laptops are often made with high-end, special lightweight materials that are going to cost more to produce and manufacture than simple plastic or aluminum. All of the laptops on this list were chosen for their well-designed, functional form factors and use of lightweight materials.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How much does a typical laptop weigh?
 
@@ -269,10 +269,6 @@ Most laptops today weigh between two and a half and five pounds, with a five-pou
 
 The heaviest laptops on this list are the Asus ROG Zephyrus G14 and the 15-inch MacBook Air M3, each weighing just 3.3 pounds. In the laptop world, that's light. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What slim laptop backpack do we recommend?
 
 We love lightweight laptops because they're easy to carry around. But the backpack you carry it in is just as important. There are many great backpacks out there for transporting your laptop, but here are a few we recommend.
@@ -280,6 +276,10 @@ We love lightweight laptops because they're easy to carry around. But the backpa
 **Also: [From everyday use to travel, these are the best backpacks](https://www.zdnet.com/home-and-office/best-backpack/)**
 
 [ZDNET RECOMMENDS Matein Travel Laptop Backpack Packed with travel-friendly features like a luggage strap and an anti-theft back pocket that protects your valuables, the Matein travel laptop is an inexpensive and solid travel backpack for your laptop. A bonus feature is an external USB charging port for easy charging on the go. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBackpack-Business-Charging-Resistant-Computer%2Fdp%2FB06XZTZ7GB%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C668fdd14-62fe-4f5f-ab26-348748ed1dd8%7Cdtp&dtb=1)[ZDNET RECOMMENDS Herschel Little America Backpack Herschel backpacks have a timeless design that's comfortable to wear thanks to the contoured padded back straps. It comes in two sizes which can hold up to a 13-inch laptop or a 15-inch laptop. Its drawstring closure expands to create extra storage space while the magnetic front straps secure what's inside. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB00838TCGO%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C668fdd14-62fe-4f5f-ab26-348748ed1dd8%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Which operating system should you choose: Windows, MacOS, Chrome OS, or Linux?
 
@@ -335,19 +335,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/astering-youtube-channel-building-essentials/"><u>[New] Mastering YouTube Channel-Building Essentials</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-audio-visual-converters-forum/"><u>[Updated] 2024 Approved Audio Visual Converters Forum</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-strategies-for-storing-real-time-webcam-talks/"><u>[Updated] 2024 Approved Strategies for Storing Real-Time Webcam Talks</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-melodic-migration-6-preferred-free-apps-for-moving-youtube-audio-on-android-for-2024/"><u>[Updated] Melodic Migration 6 Preferred Free Apps for Moving YouTube Audio on Android for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-vivo-s18e-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Vivo S18e | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-downloads-of-logiteches-driving-force-pro-wheel-software-works-with-win-7810/"><u>Free Downloads of Logiteche's Driving Force Pro Wheel Software - Works with Win 7/8/10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-nvidia-geforce-rtx-groovy-drivers-download-now-for-win-10-8-and-7/"><u>Latest NVIDIA GeForce RTX Groovy Drivers - Download Now for Win 10, 8 & 7</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-comparing-titans-in-digital-audio-workstations-is-magix-samplitude-at-the-pinnacle-in-2024/"><u>New Comparing Titans in Digital Audio Workstations Is MAGIX Samplitude at the Pinnacle, In 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-windows-11-installation-error-fixing-error-code-80240020-once-and-for-all/"><u>Resolving Windows 11 Installation Error: Fixing Error Code 80240020 Once and for All</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/revamp-audio-quality-quickly-with-the-newest-nahimic-driver-update/"><u>Revamp Audio Quality Quickly with the Newest Nahimic Driver Update</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/speedy-download-the-ultimate-guide-to-installing-your-dell-latitude-e620-drivers/"><u>Speedy Download: The Ultimate Guide to Installing Your Dell Latitude E6#20 Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-comprehensive-gadget-digest-inside-look-by-toms-tech-vault/"><u>The Comprehensive Gadget Digest: Inside Look by Tom's Tech Vault</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-mystery-behind-immortals-fenyx-risings-postponement-is-finally-solved/"><u>The Mystery Behind Immortals: Fenyx Rising's Postponement Is Finally Solved</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-ultimate-streaming-showdown-fb-live-yt-live-tweetspaces-for-2024/"><u>The Ultimate Streaming Showdown FB Live, YT Live, TweetSpaces for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-diving-into-instagrams-visual-story-segments/"><u>[New] In 2024, Diving Into Instagram's Visual Story Segments</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-instagram-storytelling-infuse-your-videos-and-stories-with-tunes/"><u>[New] In 2024, Instagram Storytelling Infuse Your Videos & Stories with Tunes</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-uncovering-the-dynamics-of-youtubes-post-upload-system/"><u>[Updated] Uncovering the Dynamics of YouTube's Post-Upload System</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-unlocking-youtube-success-elite-video-tagging-secrets/"><u>2024 Approved Unlocking YouTube Success Elite Video Tagging Secrets</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-itel-a60-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Itel A60 FRP</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/access-the-newest-drivers-for-your-hp-officejet-975c-all-in-one-printer/"><u>Access the Newest Drivers for Your HP OfficeJet 975C All-in-One Printer</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722971488664-effortless-intel-nvme-driver-update-secure-and-swift-downloads-ready/"><u>Effortless Intel NVME Driver Update - Secure & Swift Downloads Ready</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/essential-tips-for-using-tiktok-on-macwindows-systems-for-2024/"><u>Essential Tips for Using TikTok on Mac/Windows Systems for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hassle-free-guide-to-downloading-and-installing-hp-printer-drivers/"><u>Hassle-Free Guide to Downloading and Installing HP Printer Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-successfully-update-your-pc-with-epson-wf-3540-printer-drivers-for-windows-operating-systems/"><u>How to Successfully Update Your PC With Epson WF-3540 Printer Drivers for Windows Operating Systems</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/shop-bitraser-the-definitive-solution-to-quick-and-safe-drive-cleaning/"><u>Shop BitRaser: The Definitive Solution to Quick and Safe Drive Cleaning</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-usb-to-serial-communication-ch340g-drivers-for-windows-11/"><u>Update Your USB-to-Serial Communication: CH340g Drivers for Windows 11</u></a></li>
 </ul></div>
 

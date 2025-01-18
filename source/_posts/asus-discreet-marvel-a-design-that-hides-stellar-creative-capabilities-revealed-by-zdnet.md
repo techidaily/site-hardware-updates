@@ -1,7 +1,7 @@
 ---
 title: "Asus' Discreet Marvel: A Design That Hides Stellar Creative Capabilities Revealed by ZDNet"
-date: 2025-01-10T19:23:19.594Z
-updated: 2025-01-12T18:33:00.474Z
+date: 2025-01-13T17:27:44.039Z
+updated: 2025-01-18T19:33:05.151Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -73,7 +73,7 @@ Asus' Vivobook Pro 15 does a good job playing media. Hi-res videos look stunning
 In line with my initial impression, the device is a little on the bulky side, but the extra heft is not a big deal because it's lightweight and the extra room allows for a wide array of ports. You get two USB-Cs, a pair of USB-A inputs that support transfer speeds of up to 5GBPS, HDMI, an ethernet port, and an SD card slot.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -112,15 +112,19 @@ If you want something more powerful, I suggest checking out the MSI Creator Z16 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-video-streamers-essentials-ultimate-hd-camera-guide/"><u>[New] 2024 Approved Video Streamers' Essentials – Ultimate HD Camera Guide</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-community-resource-playing-games-without-limits-for-2024/"><u>[New] Community Resource Playing Games without Limits for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-srt-to-sub-streamlining-your-video-captions/"><u>[New] SRT to SUB Streamlining Your Video Captions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amazons-8tb-samsung-t5-ssd-remains-discounted-by-36-post-october-prime-deals-insights-for-tech-enthusiasts-on-zdnet/"><u>Amazon's 8TB Samsung T5 SSD Remains Discounted by 36% Post-October Prime Deals - Insights for Tech Enthusiasts on ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-how-to-upgrade-your-tech-game-with-our-new-ar-laptop-100-inch-display-no-additional-monitor-required-learn-more-on-zdnet/"><u>Discover How to Upgrade Your Tech Game with Our New AR Laptop: 100-Inch Display, No Additional Monitor Required - Learn More on ZDNET</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Tecno Spark 10 4G? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Nokia G42 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-16-unbeatable-christmas-promotions-on-hp-laptops-and-desktops-exclusive-offers/"><u>Top 16 Unbeatable Christmas Promotions on HP Laptops & Desktops: Exclusive Offers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unleashing-creative-potential-discover-the-hidden-powerhouse-in-this-understated-asus-laptop-exclusive-zdnet-review/"><u>Unleashing Creative Potential: Discover the Hidden Powerhouse in This Understated Asus Laptop - Exclusive ZDNet Review</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-mac-video-creator-effortless-video-production-for-beginners-and-pros/"><u>Updated In 2024, Mac Video Creator Effortless Video Production for Beginners and Pros</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-financial-flourishing-with-glamour-vlogs/"><u>[Updated] 2024 Approved Financial Flourishing with Glamour Vlogs</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-economical-action-cams-for-savvy-shoppers/"><u>[Updated] In 2024, Economical Action Cams for Savvy Shoppers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-gpodcs-best-channels-guide/"><u>2024 Approved In-Depth GPodC's Best Channels Guide</u></a></li>
+<li><a href="https://win-best.techidaily.com/3sd/"><u>3ステップで救う:フォーマットされたSDメモリにある情報を再生化</u></a></li>
+<li><a href="https://app-tips.techidaily.com/asia-spearheads-the-surge-in-non-cash-payments-forecasted-reach-of-16-trillion/"><u>Asia Spearheads the Surge in Non-Cash Payments: Forecasted Reach of $1.6 Trillion</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/compare-organisms/"><u>Compare Organisms</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-pci-card-drivers-compatible-with-windows-11-10-8-and-7/"><u>Download PCI Card Drivers Compatible with Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-low-code-tech-enhances-workplace-desirabve-a-zdnet-perspective/"><u>How Low-Code Tech Enhances Workplace Desirabve - A ZDNet Perspective</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-and-update-epson-et-3760-drivers-on-microsoft-windows-systems/"><u>How to Get & Update Epson ET-3760 Drivers on Microsoft Windows Systems</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-tips-for-transforming-twitter-videos-into-audio-songs-mp3/"><u>In 2024, Tips for Transforming Twitter Videos Into Audio Songs (MP3)</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-vcruntime1-dll-missing-on-windows-11-comprehensive-troubleshooting-guide-solved/"><u>Resolving VCRUNTIME1^ DLL Missing on Windows 11 - Comprehensive Troubleshooting Guide [Solved]</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/roku-upgrades-perfect-synchronization-of-audio-and-video/"><u>Roku Upgrades: Perfect Synchronization of Audio & Video</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-updating-your-dell-camera-driver-properly/"><u>Step-by-Step Guide: Updating Your Dell Camera Driver Properly</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-hp-printer-software-on-windows-download-latest-drivers-for-w10-and-w11/"><u>Update Your HP Printer Software on Windows: Download Latest Drivers for W10 & W11</u></a></li>
 </ul></div>
 

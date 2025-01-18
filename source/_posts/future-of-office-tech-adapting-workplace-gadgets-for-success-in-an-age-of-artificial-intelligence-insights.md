@@ -1,7 +1,7 @@
 ---
 title: "Future of Office Tech: Adapting Workplace Gadgets for Success in an Age of Artificial Intelligence - Insights"
-date: 2025-01-12T02:52:18.745Z
-updated: 2025-01-12T21:16:16.623Z
+date: 2025-01-11T18:05:22.902Z
+updated: 2025-01-18T18:49:37.028Z
 tags:
   - laptops
 categories:
@@ -31,7 +31,7 @@ Because AI tasks that run locally on a PC are typically executed by the CPU (cen
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### User requirements remain focused on hybrid work
@@ -69,7 +69,7 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -81,7 +81,7 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -134,22 +134,20 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-female-gamers-faction-yts-10-stars/"><u>[New] In 2024, Female Gamers Faction YT's #10 Stars</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-securely-connect-a-step-by-step-guide-to-discord-calls/"><u>[Updated] 2024 Approved Securely Connect A Step-by-Step Guide to Discord Calls</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1-upgrade-your-tech-game-with-the-affordable-499-lenovo-chromebook-plus-a-smart-investment-over-expensive-laptops-insights-from-zdnet/"><u>1. Upgrade Your Tech Game with the Affordable $499 Lenovo Chromebook Plus: A Smart Investment Over Expensive Laptops - Insights From ZDNet</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-the-instagram-elite-discover-the-leading-25-influential-souls/"><u>2024 Approved The Instagram Elite Discover the Leading 25 Influential Souls</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/asus-unleashed-the-stylish-and-potent-laptop-that-delights-creatives-according-to-zdnet-reviews/"><u>Asus Unleashed: The Stylish and Potent Laptop that Delights Creatives, According to ZDNet Reviews</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-7-incredible-cost-free-educational-apps-to-boost-your-childs-back-to-school-success/"><u>Discover 7 Incredible, Cost-Free Educational Apps to Boost Your Child’s Back-to-School Success</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-the-ultimate-budget-college-laptop-that-outshines-macbooks-and-thinkpads-for-students-now-with-a-sweet-200-off-deal-zdnet-reviews/"><u>Discover the Ultimate Budget College Laptop That Outshines MacBooks and ThinkPads for Students - Now With a Sweet 200 Off Deal! | ZDNET Reviews</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/experiencing-the-extraordinary-how-a-3k-dell-gaming-rig-turned-expectations-upside-down-zdnet/"><u>Experiencing the Extraordinary: How a $3K Dell Gaming Rig Turned Expectations Upside Down | ZDNet</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-8-plus-with-imei-code-by-drfone-ios/"><u>How to Unlock Apple iPhone 8 Plus with IMEI Code?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-itel-s23plus-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Itel S23+ to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-asus-rog-phone-8-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Asus ROG Phone 8 FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-vivavideo-app-review/"><u>In 2024, VivaVideo App Review</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/samsung-t5-8tb-external-ssd-steals-the-spotlight-with-36-discount-post-prime-day-on-amazon-tech-insights/"><u>Samsung T5 8TB External SSD Steals the Spotlight with 36% Discount Post-Prime Day on Amazon - Tech Insights</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/speeding-up-your-pc-made-easy-a-step-by-step-guide-by-yl-software-experts/"><u>Speeding Up Your PC Made Easy: A Step-by-Step Guide by YL Software Experts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/tearful-triumph-experiencing-the-power-of-the-latest-m2-macbook-air-reviews/"><u>Tearful Triumph: Experiencing the Power of the Latest M2 MacBook Air Reviews</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-performing-productivity-laptops-beyond-lenovo-and-macbooks-revealed-by-zdnet/"><u>Top-Performing Productivity Laptops: Beyond Lenovo and MacBooks Revealed by ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/zdnet-unveils-why-dell-inspiron-stands-out-as-a-premier-all-rounder-laptop-for-your-needs/"><u>ZDNet Unveils Why Dell Inspiron Stands Out as a Premier All-Rounder Laptop for Your Needs</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-achieve-clear-and-smooth-video-outputs-with-these-logitech-camera-insights/"><u>[Updated] 2024 Approved Achieve Clear & Smooth Video Outputs with These Logitech Camera Insights</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-custom-logo-blueprints-draw-your-identity-from-free-formats/"><u>[Updated] Custom Logo Blueprints Draw Your Identity From Free Formats</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-upgrading-your-shoot-must-have-film-tech-for-creators/"><u>[Updated] In 2024, Upgrading Your Shoot Must-Have Film Tech for Creators</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-prime-online-communities-eclipsing-twitterenasity/"><u>2024 Approved Prime Online Communities Eclipsing Twitter'enasity</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/beat-the-delays-effective-ways-to-fix-dota-2-latency-problems/"><u>Beat the Delays: Effective Ways to Fix Dota 2 Latency Problems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-fast-windows-compatible-usb-to-serial-cable-driver-tool/"><u>Download Fast: Windows-Compatible USB to Serial Cable Driver Tool</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-nvidia-3d-vision-drivers-for-windows-no-cost-option/"><u>Download Nvidia 3D Vision Drivers for Windows - No Cost Option</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-avi-images-to-graphics-a-complete-filmora-walkthrough-for-2024/"><u>From AVI Images to Graphics A Complete Filmora Walkthrough for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fully-compatible-sades-headset-drivers-for-windows-a-complete-safe-download-guide/"><u>Fully Compatible Sades Headset Drivers for Windows: A Complete, Safe Download Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-firmware-for-your-samsung-960-evo-ssd-download-and-update-instructions-for-windows-devices/"><u>Get the Latest Firmware for Your Samsung 960 EVO SSD - Download and Update Instructions for Windows Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/getting-your-epson-wf-3540-ready-for-printing-in-windows-with-driver-download/"><u>Getting Your Epson WF-3540 Ready for Printing in Windows with Driver Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-download-tutorial-essential-logitech-drivers-for-windows-computers/"><u>Quick Download Tutorial: Essential Logitech Drivers for Windows Computers</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/send-smiles-wide-step-by-step-for-sharing-gifs-on-snapchat-for-2024/"><u>Send Smiles Wide Step-by-Step for Sharing Gifs on Snapchat for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/usb-detection-errors-on-windows-11-discover-proven-methods-to-get-device-recognition-back-online/"><u>USB Detection Errors on Windows 11? Discover Proven Methods to Get Device Recognition Back Online</u></a></li>
 </ul></div>
 

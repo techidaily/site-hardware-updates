@@ -1,7 +1,7 @@
 ---
 title: Returning to Campus? Score Big Savings on Laptops, Tablets From Samsung | Student Deals
-date: 2025-01-07T16:08:08.658Z
-updated: 2025-01-12T19:00:25.802Z
+date: 2025-01-16T16:41:36.415Z
+updated: 2025-01-18T19:35:22.013Z
 tags:
   - laptops
 categories:
@@ -51,7 +51,7 @@ If you want to shop around, Samsung isn't the only brand offering student discou
 * [Razer Education Purchase Program](https://razer.a9yw.net/c/159047/642901/10229?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.razer.com%2Feducation%3F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -90,22 +90,20 @@ However, stock may expire at any time. ZDNET remains committed to finding, shari
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-elevating-effects-a-tiktok-guide/"><u>[New] In 2024, Elevating Effects A TikTok Guide</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/3-ways-to-erase-iphone-14-pro-max-when-its-locked-within-seconds-by-drfone-ios/"><u>3 Ways to Erase iPhone 14 Pro Max When Its Locked Within Seconds</u></a></li>
-<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-vivo-y28-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Vivo Y28 5G | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-realme-narzo-60-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Realme Narzo 60 5G to iPhone | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/expert-strategies-for-live-streaming-using-obs-for-2024/"><u>Expert Strategies for Live Streaming Using OBS for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-enhancing-outreach-with-strategic-partner-selection-on-youtube/"><u>In 2024, Enhancing Outreach with Strategic Partner Selection on YouTube</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-setting-up-your-first-livestream-successfully/"><u>In 2024, Setting Up Your First Livestream Successfully</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/streamline-operations-ranking-the-top-8-facebook-task-managers/"><u>Streamline Operations Ranking the Top 8 Facebook Task Managers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-enhancing-your-affordable-98-inch-televisions-visual-and-audio-performance/"><u>Ultimate Guide: Enhancing Your Affordable 98-Inch Television's Visual & Audio Performance</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unbeatable-4th-of-july-television-offers-featured-by-zdnet/"><u>Unbeatable 4Th of July Television Offers Featured by ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unbeatable-deal-alert-secure-your-discounted-amazon-fire-tv-omni-qled-for-just-150-less-exclusive-zdnet-insight/"><u>Unbeatable Deal Alert! Secure Your Discounted Amazon Fire TV Omni QLED for Just $150 Less – Exclusive ZDNET Insight!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unbeatable-independence-day-television-promotions-enjoy-quality-viewing-with-spectacular-savings/"><u>Unbeatable Independence Day Television Promotions - Enjoy Quality Viewing with Spectacular Savings!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unbeatable-quality-samsung-s90c-oled-marked-as-samsungs-finest-ever-now-at-an-unbelievable-discount-discover-howzdnet/"><u>Unbeatable Quality: Samsung S90C OLED Marked as Samsung's Finest Ever, Now at an Unbelievable Discount – Discover How![ZDNet]</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/uncovering-the-top-rated-non-sony-non-samsung-gaming-monitor-expert-reviews-and-insights/"><u>Uncovering the Top-Rated Non-Sony, Non-Samsung Gaming Monitor: Expert Reviews & Insights</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/unfolding-wonders-your-practical-guide-to-travel-vlogging-for-2024/"><u>Unfolding Wonders Your Practical Guide to Travel Vlogging for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlock-free-upgrade-the-latest-high-end-enhancement-coming-soon-to-your-roku-tv-techadvantage/"><u>Unlock Free Upgrade: The Latest High-End Enhancement Coming Soon to Your Roku TV | TechAdvantage</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-new-features-how-apples-latest-tvos-update-enhances-facetime-and-revolutionizes-your-tv-experience/"><u>Unveiling the New Features: How Apple's Latest tvOS Update Enhances FaceTime & Revolutionizes Your TV Experience</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-advanced-techniques-for-live-action-sims-playback/"><u>[Updated] Advanced Techniques for Live-Action Sims Playback</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-7-best-zero-cost-web-based-film-makers/"><u>[Updated] In 2024, 7 Best Zero-Cost Web-Based Film Makers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/2024s-ultimate-guide-to-premium-m-2-solid-state-drives-in-depth-analysis-and-ratings/"><u>2024'S Ultimate Guide to Premium M. 2 Solid State Drives: In-Depth Analysis & Ratings</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-oppo-a1x-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-ultimate-guide-to-best-visual-voicemail-apps/"><u>Discover The Ultimate Guide to Best Visual Voicemail Apps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-installation-get-your-latest-drivers-for-hp-devices-now/"><u>Easy Installation: Get Your Latest Drivers for HP Devices Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/elo-touch-screen-driver-download-for-windows/"><u>Elo Touch Screen Driver Download for Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ethernet-alternatives-establishing-a-stable-wired-home-internet-connection-without-standard-cables/"><u>Ethernet Alternatives - Establishing a Stable Wired Home Internet Connection Without Standard Cables</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-canon-d530-camera-software-full-guide-on-downloads-and-updates/"><u>Free Canon D530 Camera Software: Full Guide on Downloads and Updates</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-contacts-from-apple-iphone-14-pro-to-iphone-quickly-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Contacts from Apple iPhone 14 Pro to iPhone Quickly | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/massive-950-off-snap-up-lenovos-premium-office-laptop-before-octobers-prime-deals-insider-tips-from-zdnet/"><u>Massive $950 Off: Snap Up Lenovo's Premium Office Laptop Before October's Prime Deals - Insider Tips From ZDNet</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/proven-pathways-to-peeling-away-pesky-backdrops-with-affinity-photo-tools-for-2024/"><u>Proven Pathways to Peeling Away Pesky Backdrops with Affinity Photo Tools for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/samsung-unveils-upgraded-copilotplus-pc-featuring-enhanced-ai-capabilities-exclusive-tech-news/"><u>Samsung Unveils Upgraded Copilot+ PC Featuring Enhanced AI Capabilities - Exclusive Tech News</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-showdown-deciding-whether-to-go-for-a-macbook-pro-or-macbook-air-cnets-latest-review/"><u>The Ultimate Showdown: Deciding Whether to Go for a MacBook Pro or MacBook Air | CNET's Latest Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-110-unmissable-christmas-bargains-on-tech-and-entertainment-gear-including-smartphones-televisions-computers-zdnet/"><u>Top 110 Unmissable Christmas Bargains on Tech & Entertainment Gear – Including Smartphones, Televisions, Computers | ZDNet</u></a></li>
 </ul></div>
 

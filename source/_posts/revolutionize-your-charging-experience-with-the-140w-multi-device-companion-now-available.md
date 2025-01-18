@@ -1,7 +1,7 @@
 ---
 title: Revolutionize Your Charging Experience with the 140W Multi-Device Companion - Now Available!
-date: 2025-01-07T16:36:43.405Z
-updated: 2025-01-12T19:44:14.171Z
+date: 2025-01-13T20:15:45.216Z
+updated: 2025-01-18T16:11:25.820Z
 tags:
   - laptops
 categories:
@@ -41,7 +41,7 @@ Here are some of the most interesting features I saw during my hands-on briefing
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Smart Share
@@ -61,7 +61,7 @@ Kyle Kucharski/ZDNET
 Besides the Smart Share features, there are four different "modes" that activate various features. You can toggle each feature on or off individually, to avoid being bombarded with different prompts. Here are the most impactful ones I saw during my time trying the new laptops.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Shield Mode
@@ -70,7 +70,7 @@ Besides the Smart Share features, there are four different "modes" that activate
 * The VPN auto-launch feature will start your preferred VPN automatically upon connecting to any public Wi-Fi network, a handy function if you spend a lot of time working in coffee shops.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Attention Mode
@@ -80,7 +80,7 @@ Besides the Smart Share features, there are four different "modes" that activate
 Kyle Kucharski/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Collaboration Mode
@@ -88,7 +88,7 @@ Kyle Kucharski/ZDNET
 * Designed mostly for virtual meetings, activating this mode enables your preset camera features, such as background blur, low light enhancer, or touch ups.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Wellness Mode
@@ -133,18 +133,20 @@ We'll definitely be doing some additional testing of the smart modes when we get
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/gnite-conversations-top-10-creative-reaction-insights-for-videos/"><u>[New] Ignite Conversations Top 10 Creative Reaction Insights for Videos</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-significant-strategies-for-modifying-playback-speed-on-spotify/"><u>[Updated] In 2024, Significant Strategies for Modifying Playback Speed on Spotify</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-free-digital-asset-valuation-tools/"><u>2024 Approved Free Digital Asset Valuation Tools</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/are-artificial-intelligence-and-deepfakes-fueling-misinformation-campaigns/"><u>Are Artificial Intelligence and Deepfakes Fueling Misinformation Campaigns?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exclusive-picks-top-discounts-and-bargains-on-amazons-october-prime-day-2prise-limited-stock/"><u>Exclusive Picks: Top Discounts & Bargains on Amazon's October Prime Day 2Prise - Limited Stock!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exclusive-apple-m2-powered-macbook-air-deals-at-just-749-during-amazons-prime-day-bonanza-insights-from-zdnet/"><u>Exclusive: Apple M2-Powered MacBook Air Deals at Just $749 During Amazon's Prime Day Bonanza - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-unprecedented-flexibility-with-the-worlds-tiniest-webcam-insights-and-review/"><u>Exploring Unprecedented Flexibility with the World's Tiniest Webcam - Insights & Review</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/inside-look-at-how-t-mobile-operates-seamless-domestic-roaming-for-customers/"><u>Inside Look at How T-Mobile Operates Seamless Domestic Roaming for Customers</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-top-meme-maker-apps-for-android-and-ios-devices-updated-2023/"><u>New Top Meme Maker Apps for Android and iOS Devices (Updated 2023)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/samsung-unveils-galaxy-s23-and-tab-s3-pro-a-glimpse-into-the-future-of-tech-innovation-zdnet/"><u>Samsung Unveils Galaxy S23 and Tab S3 Pro: A Glimpse Into the Future of Tech Innovation | ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-2-in-1-business-laptops-alternatives-to-dell-and-lenovo-thinkpads-insider-picks-by-zdnet/"><u>Top 2-in-1 Business Laptops: Alternatives to Dell and Lenovo ThinkPads - Insider Picks by ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-prime-day-computer-bargains-the-ultimate-shopping-guide-for-october-2024-insights-from-zdnet/"><u>Top Prime Day Computer Bargains: The Ultimate Shopping Guide for October 2024 - Insights From ZDNet</u></a></li>
-<li><a href="https://techtrends.techidaily.com/understanding-the-difference-do-retweets-and-re-tweets-mean-the-same-thing/"><u>Understanding the Difference: Do 'Retweets' And 'Re-Tweets' Mean the Same Thing?</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-dive-deep-into-detail-advanced-zooming-tips-for-videoleap-for-2024/"><u>[Updated] Dive Deep Into Detail Advanced Zooming Tips for VideoLeap for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-virtual-vanguards-the-leading-ladies-of-gaming/"><u>[Updated] In 2024, Virtual Vanguards The Leading Ladies of Gaming</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-capture-kings-face-off/"><u>2024 Approved Capture Kings Face-Off</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-perfecting-live-photo-your-ios-journey/"><u>2024 Approved Perfecting Live Photo Your iOS Journey</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-installation-of-epson-wf-2750-printer-driver-free-download-now/"><u>Easy Installation of Epson WF-2750 Printer Driver – Free Download Now!</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/free-solutions-converting-mkv-files-for-iphone-viewing/"><u>Free Solutions: Converting MKV Files for iPhone Viewing</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-epson-wf-3620-driver-update-for-pcs-running-windows-1087-free-download/"><u>Get the Newest Epson WF-3620 Driver Update for PCs Running Windows 10/8/7 - Free Download!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-logitech-g-pro-drivers-for-windows-now-supports-windows-111087/"><u>Get Your Logitech G Pro Drivers for Windows Now - Supports Windows 11/10/8/7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-updated-hp-laserjet-1320-printer-software-and-drivers-on-windows-systems/"><u>Install Updated HP LaserJet 1320 Printer Software & Drivers on Windows Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolving-issues-with-microsofts-compliant-battery-driver-under-the-acpi-framework/"><u>Resolving Issues with Microsoft's Compliant Battery Driver Under the ACPI Framework</u></a></li>
+<li><a href="https://extra-support.techidaily.com/revive-faded-iphone-hdri-select-4-effective-methods-in-premiere-pro-for-2024/"><u>Revive Faded iPhone HDRI Select 4 Effective Methods in Premiere Pro for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamless-integration-download-and-setup-for-top-tier-intel-thunderbolt-controller-drivers/"><u>Seamless Integration: Download & Setup for Top-Tier Intel Thunderbolt Controller Drivers!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722974274506-secure-your-asrock-ab350-pro4-with-free-windows-drivers-download-made-easy/"><u>Secure Your ASRock AB350 Pro4 with Free Windows Drivers – Download Made Easy</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-compact-guide-to-amazon-echo-dot-3rd-generation-all-alexa-features-in-one-small-speaker/"><u>The Ultimate Compact Guide to Amazon Echo Dot (3Rd Generation): All Alexa Features in One Small Speaker</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-how-to-fix-gta-v-online-connectivity-issues/"><u>Troubleshooting: How to Fix GTA V Online Connectivity Issues</u></a></li>
 </ul></div>
 

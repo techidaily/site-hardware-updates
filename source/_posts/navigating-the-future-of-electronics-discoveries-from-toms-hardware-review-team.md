@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Future of Electronics: Discoveries From Tom's Hardware Review Team"
-date: 2024-08-19T05:54:34.709Z
-updated: 2024-08-20T05:54:34.709Z
+date: 2025-01-13T16:59:36.865Z
+updated: 2025-01-18T20:08:29.468Z
 tags:
   - cpu
 categories:
@@ -27,6 +27,10 @@ AMD’s near-ancient 3DNow! instructions have faded even further into obscurity.
 
  _This is being done as a predecessor towards general removal of MMX register usage. Since there is almost no usage of the 3DNow! intrinsics, and no modern hardware even implements them, simple removal seems like the best option.”_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -39,14 +43,11 @@ AMD’s near-ancient 3DNow! instructions have faded even further into obscurity.
 
  Developers who need to write for old AMD processors can still use 3DNow! instructions in Assembly, including inline Assembly code with LLVM. Other than that, anything related to 3DNow! should be considered deprecated and no longer used.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -55,8 +56,16 @@ AMD’s near-ancient 3DNow! instructions have faded even further into obscurity.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-return-artisan-set/"><u>[New] Return Artisan Set</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-a-complete-rundown-reels-vs-stories-on-instagram/"><u>[Updated] 2024 Approved A Complete Rundown Reels vs Stories on Instagram</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-bargains-on-amazons-prime-day-2024-top-october-offers-still-in-stock-tech-insights/"><u>Best Bargains on Amazon's Prime Day 2024 - Top October Offers Still in Stock | Tech Insights</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/crystal-clear-comparison-rating-the-best-8k-tvs-of-year/"><u>Crystal Clear Comparison Rating the Best 8K TVs of Year</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-fixes-how-to-recover-forgotten-icloud-password-on-your-iphone-6s-plus-by-drfone-ios/"><u>Easy Fixes How To Recover Forgotten iCloud Password On your iPhone 6s Plus</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-deal-on-intel-arc-gpu-powered-systems-with-over-450-in-gaming-titles-zdnet/"><u>Exclusive Deal on Intel Arc GPU-Powered Systems with Over $450 in Gaming Titles - ZDNet</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-it-motorola-moto-g24-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Motorola Moto G24 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/slash-priced-tech-combo-alert-dual-protection-with-nordvpn-and-ms-office-365-for-just-40-dont-miss-out-on-this-limited-offer-now/"><u>Slash-Priced Tech Combo Alert: Dual Protection with NordVPN and MS Office 365 for Just $40 – Don’t Miss Out on This Limited Offer Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-ranking-apple-bargains-in-july-2024-iphone-apple-watch-and-ipad-discounts/"><u>Top-Ranking Apple Bargains in July 2024: IPhone, Apple Watch & iPad Discounts</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->

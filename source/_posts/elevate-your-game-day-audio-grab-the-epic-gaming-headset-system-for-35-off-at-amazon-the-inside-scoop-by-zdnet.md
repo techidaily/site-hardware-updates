@@ -1,7 +1,7 @@
 ---
 title: "Elevate Your Game Day Audio: Grab the Epic Gaming Headset System for 35%% Off at Amazon - The Inside Scoop by ZDNET"
-date: 2025-01-05T16:54:50.653Z
-updated: 2025-01-12T17:30:23.342Z
+date: 2025-01-12T16:29:36.064Z
+updated: 2025-01-18T19:29:15.162Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an AMD Radeon RX 6550M graphics card and a screen capable of a 144Hz
 With 8GB of RAM, a 512GB SSD, and an AMD Ryzen 5 7000 series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,20 +63,18 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-mastering-digital-conversion-old-photos-to-video/"><u>[New] 2024 Approved Mastering Digital Conversion Old Photos to Video</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-instagrams-visual-spectacle-becoming-a-reel-wizard/"><u>[New] Instagram's Visual Spectacle Becoming a Reel Wizard</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-peer-to-peer-fb-video-grabber/"><u>[Updated] Peer-to-Peer FB Video Grabber</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-shortcuts-to-excellent-iphone-time-lapse-videos/"><u>[Updated] Shortcuts to Excellent iPhone Time Lapse Videos</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/adonit-nest-usb-hub-unbeatable-price-at-just-65-for-remote-professionals-exclusive-insight/"><u>Adonit Nest USB Hub - Unbeatable Price at Just $65 for Remote Professionals! Exclusive Insight</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/boost-your-teams-voice-chat-experience-with-these-solutions-to-squad-mic-malfunctions-the-2024-edition/"><u>Boost Your Team's Voice Chat Experience with These Solutions to Squad Mic Malfunctions - The 2024 Edition</u></a></li>
-<li><a href="https://win11.techidaily.com/cease-unwanted-windows-update-restarts/"><u>Cease Unwanted Windows Update Restarts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ergonomics-revolutionized-one-week-of-using-a-split-keyboard-reshaped-my-peripheral-experience-gizmoguide/"><u>Ergonomics Revolutionized: One Week of Using a Split Keyboard Reshaped My Peripheral Experience | GizmoGuide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/samsungs-newest-flagship-laptop-a-serious-contender-against-the-macbook-pro-tech-digest/"><u>Samsung's Newest Flagship Laptop: A Serious Contender Against the MacBook Pro | Tech Digest</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/seeking-out-facebooks-streamed-movies-and-shows-for-2024/"><u>Seeking Out Facebook's Streamed Movies & Shows for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/rt-of-making-youtube-thumbnails-on-the-go-mobile-for-2024/"><u>The Art of Making YouTube Thumbnails on the Go (Mobile) for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-october-prime-day-offer-meta-unveils-exceptional-512gb-quest-3-virtual-reality-bundle-exclusive-sale/"><u>Top October Prime Day Offer: Meta Unveils Exceptional 512GB Quest 3 Virtual Reality Bundle - Exclusive Sale !</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-all-round-champion-of-laptops-a-crowds-favorite-with-robust-hardware-features-expert-review/"><u>Unveiling the All-Round Champion of Laptops: A Crowd's Favorite with Robust Hardware Features | Expert Review</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/winter-woes-understanding-the-reasons-behind-device-charge-failures-in-cold-weather-ipad-macbook-iphone/"><u>Winter Woes: Understanding the Reasons Behind Device Charge Failures in Cold Weather (iPad, MacBook, iPhone)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/zerogpt-and-detectors-can-they-be-trusted-completely/"><u>ZeroGPT & Detectors: Can They Be Trusted Completely?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-voice-modification-gear-top-picks-for-creators/"><u>[New] Voice Modification Gear Top Picks for Creators</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/crafting-musical-instagram-narratives-without/"><u>Crafting Musical Instagram Narratives (Without)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722971221209-easy-solutions-to-samsung-printer-driver-issues-in-windows-fixed/"><u>Easy Solutions to Samsung Printer Driver Issues in Windows - Fixed</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/harmonizing-visuals-and-sound-in-instagram-videos-for-2024/"><u>Harmonizing Visuals & Sound in Instagram Videos for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-update-network-drivers-and-wireless-card-software-in-windows-1110/"><u>How to Update Network Drivers and Wireless Card Software in Windows 11/10</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-vivo-y36-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Vivo Y36?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Xiaomi Redmi A2+? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-motorola-moto-g34-5g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Motorola Moto G34 5G To Phone | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-hp-ethernet-card-drivers-compatible-with-windows-1087-systems-download/"><u>Latest HP Ethernet Card Drivers: Compatible with Windows 10/8/7 Systems Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/lg-display-driver-troubleshooting-for-windows-users-fixes-for-win11-win7-and-win81/"><u>LG Display Driver Troubleshooting for Windows Users: Fixes for Win11, Win7 & Win8.1</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-ditch-windows-10-photos-explore-these-8-superior-image-editing-tools-for-2024/"><u>New Ditch Windows 10 Photos Explore These 8 Superior Image Editing Tools for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/reviving-your-samsung-blu-ray-how-to-fix-common-playback-issues/"><u>Reviving Your Samsung Blu-Ray: How to Fix Common Playback Issues</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-the-ultimate-guide-to-hand-drawing-whiteboard-animation-makers/"><u>Updated In 2024, The Ultimate Guide to Hand Drawing Whiteboard Animation Makers</u></a></li>
 </ul></div>
 

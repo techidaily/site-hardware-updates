@@ -1,7 +1,7 @@
 ---
 title: "Get Smart Savings on Tech: Save $80 When You Purchase the Ideal Lenovo"
-date: 2025-01-10T20:33:10.399Z
-updated: 2025-01-12T21:04:41.453Z
+date: 2025-01-17T20:17:18.800Z
+updated: 2025-01-18T16:16:17.897Z
 tags:
   - laptops
 categories:
@@ -23,7 +23,7 @@ Adrian Kingsley-Hughes/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -43,7 +43,7 @@ One tool I've found to be quite effective is the [StarTech.com Universal Laptop 
 [ZDNET RECOMMENDS StarTech.com Universal Laptop Lock This anti-theft laptop locking system features a push-to-lock system that allows for quick-lock without a key. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fexec%2Fobidos%2FASIN%2FB0CG9WXC8P%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1543b5d4-da8c-4f2b-8aec-3447eb62e023%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The specs
@@ -97,7 +97,7 @@ Adrian Kingsley-Hughes/ZDNET
 All in all, this is a tough lock that's well-designed to keep your stuff secured. The only real downside: a steel cable weighing some 5.2 oz (147 g) is a fair weight to lug around with you if you plan on using this when out and about.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -134,18 +134,18 @@ While a determined or skilled attacker could potentially overcome this lock, suc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-updates.techidaily.com/2024s-elite-selection-of-gaming-pcs-reviewed-unveiling-the-pros-and-cons-of-brands-like-razer-acer-msi-with-expert-analysis-at-zdnet/"><u>2024'S Elite Selection of Gaming PCs Reviewed: Unveiling the Pros and Cons of Brands Like Razer, Acer, MSI with Expert Analysis at ZDNET</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/astonishing-save-get-hp-victus-15-at-an-unbeatable-price-of-515-during-best-buys-prime-day-sale-featured/"><u>Astonishing Save! Get HP Victus 15 at an Unbeatable Price of $515 During Best Buy's Prime Day Sale - Featured</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/best-budget-laptop-picks-under-1k-in-depth-expert-analysis-by-zdnet/"><u>Best Budget Laptop Picks (Under $1K) - In-Depth Expert Analysis by ZDNET</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/comparing-screen-recorders-the-leader-vs-contenders-for-2024/"><u>Comparing Screen Recorders The Leader Vs. Contenders for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/crafting-the-perfect-gamers-paradise-insider-secrets-for-an-unbeatable-setup/"><u>Crafting The Perfect Gamer's Paradise: Insider Secrets for an Unbeatable Setup</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-the-top-benefits-how-chromebooks-outshine-traditional-laptops-for-everyone-techexplorers/"><u>Discover the Top Benefits: How Chromebooks Outshine Traditional Laptops for Everyone | TechExplorers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhancing-diet-quality-through-ai-assistance/"><u>Enhancing Diet Quality Through AI Assistance</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-a-deep-dive-into-youtubes-income-models/"><u>In 2024, A Deep Dive Into YouTube’s Income Models</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/lighten-up-with-funny-images-in-adobe-for-2024/"><u>Lighten Up with Funny Images in Adobe for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/providing-exceptional-customer-service-across-all-channels-including-online-support-in-person-interactions-and-post-purchase-follow-ups/"><u>Providing Exceptional Customer Service Across All Channels, Including Online Support, In-Person Interactions, and Post-Purchase Follow-Ups.</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/recording-your-mac-experience-for-free-for-2024/"><u>Recording Your Mac Experience for FREE for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Vivo X100? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-determining-the-right-price-point-for-youtubers/"><u>[New] 2024 Approved Determining the Right Price Point for YouTubers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-perfecting-titles-on-footage-step-by-step-tutorial-for-windows-photos-app/"><u>[New] 2024 Approved Perfecting Titles on Footage Step-by-Step Tutorial for Windows Photos App</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-updated-amd-radeon-pro-w5700-driver-for-enhanced-performance-on-windows-11-10-and-7/"><u>Download Updated AMD Radeon Pro W5700 Driver for Enhanced Performance on Windows 11, 10 & 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-install-logitech-wireless-mouse-driver-download-for-windows-pcs/"><u>Easy Install: Logitech Wireless Mouse Driver Download for Windows PCs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-compatibility-downloading-updated-drivers-for-your-hp-officejet-pro-9015-printer/"><u>Ensure Compatibility: Downloading Updated Drivers for Your HP OfficeJet Pro 9015 Printer</u></a></li>
+<li><a href="https://games-able.techidaily.com/get-smarter-with-corsairs-icue-link-why-upgrade-now/"><u>Get Smarter with Corsair's iCUE Link: Why Upgrade Now?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-most-recent-driver-support-for-your-hp-printer-on-windows-10-11/"><u>How to Get the Most Recent Driver Support for Your HP Printer on Windows 10, 11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-7-ways-to-unlock-a-locked-oppo-reno-11f-5g-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Oppo Reno 11F 5G Phone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-fingerprint-driver-software-free-download-and-updates-for-pc/"><u>Latest Fingerprint Driver Software: Free Download and Updates for PC</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/robust-iphone-data-rescue-software-regain-lost-photos-contacts-and-more-with-assurance/"><u>Robust iPhone Data Rescue Software: Regain Lost Photos, Contacts, and More with Assurance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/these-7-apps-are-integrating-gpt-4-but-how-do-they-work/"><u>These 7 Apps Are Integrating GPT-4, But How Do They Work?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-your-logitech-g9ns-headset-a-guide-for-windriver-fixes/"><u>Troubleshooting Your Logitech G9n_s Headset: A Guide for WinDriver Fixes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-the-full-potential-of-kodi-with-our-expert-picks-for-premier-vpn-solutions-in-2020/"><u>Unlock the Full Potential of Kodi with Our Expert Picks for Premier VPN Solutions in 2020</u></a></li>
 </ul></div>
 

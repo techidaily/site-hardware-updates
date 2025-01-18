@@ -1,7 +1,7 @@
 ---
 title: "Inside Look: Microsoft Surface Laptop 5 - Satisfied but Unimpressed | ZDNet Tech Reviews"
-date: 2025-01-11T17:42:07.994Z
-updated: 2025-01-12T23:22:10.431Z
+date: 2025-01-12T18:07:12.199Z
+updated: 2025-01-18T19:04:35.933Z
 tags:
   - laptops
 categories:
@@ -41,7 +41,7 @@ All of the precision-machined cases and blazing-fast performance here couldn't m
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -56,6 +56,10 @@ All of the precision-machined cases and blazing-fast performance here couldn't m
 | Connectivity    | Wi-Fi 6, Bluetooth 5.1                                                                     |
 | Ports           | 1 x USB-C 4.0/Thunderbolt 4, 1 x USB-A 3.1, 3.5mm headphone jack, 1 x Surface Connect Port |
 | Size and weight | 12.1 L x 8.8 W x .57 H inches, 2.8 lbs                                                     |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How's the build quality?
 
@@ -75,10 +79,6 @@ Michael Gariffo/ZDNET
 
 **More: [The best laptops: Does Apple take the crown?](https://www.zdnet.com/article/best-laptop/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Features and ports
 
 That one on the top is the Surface Connect Port, not an SD card reader slot, which it so closely resembles.
@@ -86,10 +86,6 @@ That one on the top is the Surface Connect Port, not an SD card reader slot, whi
 Michael Gariffo/ZDNET
 
 Microsoft's port selection on the Surface Laptop 5 is very middle-of-the-road. That's a good thing. It acknowledges that plenty of USB-A peripherals still exist, so it includes a single USB-A port. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -143,6 +139,10 @@ This might be forgivable in a budget model. But even the base config [Surface La
 
 **More: [The 10 best webcams: Join your next Zoom call in HD](https://www.zdnet.com/article/best-webcam/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Performance and battery life
 
 Unlike on many other laptops I've tested recently, the keyboard deck remained entirely cool, no matter how hard I pushed the laptop.
@@ -166,7 +166,7 @@ Overall, I'd have no qualms about leaving my charger at home and expecting to ge
 [Microsoft Surface Laptop 5 $1,117 at Walmart](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F1738938556&subId1=zd-__COM_CLICK_ID__-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -176,7 +176,7 @@ I may seem like I had high standards for this review, and I did. This is a flags
 If you never videoconference or if wasted space around your display doesn't bother you, you're looking at the best Windows laptop you could buy right now. Even if those things do irk a bit, I'd recommend balancing them against the exceptional performance, build, and aesthetics. The Surface Laptop 5 is frustratingly close to being that universal leader among Windows portables that Microsoft wants it to be. But, if Microsoft wants that crown, I hope it updates the components that held this generation back when it comes time to design the Surface Laptop 6.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -227,24 +227,19 @@ Dell's latest entry in the XPS 13 lineup looks like it comes from further down t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-methods-for-converting-twitter-videos-into-mp3-format/"><u>[New] 2024 Approved Methods for Converting Twitter Videos Into MP3 Format</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-mastering-windows-pc-live-tv-recording-tips-and-tricks/"><u>[New] Mastering Windows PC Live TV Recording Tips & Tricks</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unbeatable-deals-on-top-quality-budget-friendly-asmr-mics/"><u>[Updated] Unbeatable Deals on Top Quality, Budget-Friendly ASMR Mics</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unraveling-the-itunes-radio-download-process/"><u>2024 Approved Unraveling the iTunes Radio Download Process</u></a></li>
-<li><a href="https://win-forum.techidaily.com/wavmpg-movavi/"><u>免費在线WAV至MPG转换 - 利用Movavi提�지取得效果更好</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ace-your-tech-upgrade-with-primes-finest-exclusive-laptop-bargains-in-october-2er-zdnet/"><u>Ace Your Tech Upgrade with Prime's Finest - Exclusive Laptop Bargains in October 2Er | ZDNET</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevate-ai-communications-with-these-7-key-techniques-for-better-chatgpt-replies/"><u>Elevate AI Communications with These 7 Key Techniques for Better ChatGPT Replies</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-apple-iphone-14-pro-max-to-factory-settings-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Reset Apple iPhone 14 Pro Max to Factory Settings? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hunt-the-best-deals-on-laptops-for-under-500-this-cyber-monday-plus-a-bonus-just-for-you-at-an-unbelievable-price-of-99/"><u>Hunt the Best Deals on Laptops for Under $500 This Cyber Monday, Plus a Bonus Just for You At an Unbelievable Price of $99!</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-4k-visionary-review-blades-spectrum-expansion/"><u>In 2024, 4K Visionary Review Blade's Spectrum Expansion</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/macbook-showdown-determining-whether-the-macbook-pro-or-macbook-air-suits-your-needs-better-insights-from-tech-experts/"><u>MacBook Showdown: Determining Whether the MacBook Pro or MacBook Air Suits Your Needs Better - Insights From Tech Experts</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastering-the-art-of-video-editing-on-vita-in-depth-analysis-2024/"><u>Mastering the Art of Video Editing on Vita In-Depth Analysis, 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/maximize-savings-with-this-essential-50-gadget-discover-how-it-could-slash-costs-for-tech-enthusiasts/"><u>Maximize Savings with This Essential $50 Gadget: Discover How It Could Slash Costs for Tech Enthusiasts!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/slash-priced-asus-laptop-deal-get-the-15-model-for-a-steal-at-250-from-walmart-all-ports-included/"><u>Slash-Priced ASUS Laptop Deal! Get the 15 Model for a Steal at $250 From Walmart, All Ports Included.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/snap-up-the-deal-8tb-samsung-t5-ssd-available-at-a-steep-36-discount-on-amazon-insights/"><u>Snap Up the Deal: 8TB Samsung T5 SSD Available at a Steep 36% Discount on Amazon - Insights</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/spreading-twitter-vid-facebook-integration-methods-for-2024/"><u>Spreading Twitter Vid Facebook Integration Methods for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-44-discounts-on-seasonal-memory-units-and-solid-state-drives-insights/"><u>Top 44 Discounts on Seasonal Memory Units & Solid-State Drives - Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-ranking-student-laptops-in-depth-tests-and-reviews-by-tech-experts/"><u>Top-Ranking Student Laptops: In-Depth Tests & Reviews by Tech Experts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlock-the-best-gaming-savings-of-early-prime-day-october-2024-with-our-insider-tips/"><u>Unlock the Best Gaming Savings of Early Prime Day October 2024 with Our Insider Tips</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-facebook-cover-video-widthheight-guide/"><u>[New] 2024 Approved Facebook Cover Video Width/Height Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-ultimate-guide-selecting-8-exquisite-weddings-vids/"><u>[New] Ultimate Guide Selecting 8 Exquisite Weddings - Vids</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-guide-free-dell-thunderbolt-tb16-portable-expansion-dock-drivers/"><u>Download and Update Guide: Free Dell Thunderbolt TB16 Portable Expansion Dock Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fresh-driver-release-enhance-your-graphics-with-the-newest-amd-radeon-pro-w5700-windows-11107-drivers/"><u>Fresh Driver Release: Enhance Your Graphics with the Newest AMD Radeon Pro W5700 Windows 11/10/7 Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-ensure-full-usb-c-functionality-on-your-windows-11-pc-download-the-right-drivers-now/"><u>How to Ensure Full USB-C Functionality on Your Windows 11 PC - Download the Right Drivers Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-resolve-issues-when-dts-surround-sound-is-not-working-with-specific-devices/"><u>How to Resolve Issues When DTS Surround Sound Is Not Working with Specific Devices</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-network-locked-nubia-z50-ultra-phone-by-drfone-android/"><u>How to Unlock a Network Locked Nubia Z50 Ultra Phone?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-on-iphone-14-plus-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account On iPhone 14 Plus?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximizing-business-efficiency-top-8-strategies-with-chatgpt/"><u>Maximizing Business Efficiency: Top 8 Strategies with ChatGPT</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/simple-steps-get-your-system-upgraded-with-amd-ryzen-5-2600-chip-download-the-latest-drivers-now/"><u>Simple Steps: Get Your System Upgraded with AMD Ryzen 5 2600 Chip - Download the Latest Drivers Now</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transforming-online-meetings-with-ai-helpdesk-solutions/"><u>Transforming Online Meetings with AI Helpdesk Solutions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/ultra-fast-conversion-official-platinum-winx-dvd-ripper-for-speedy-dvd-to-264hevc-mp4-ripping-in-minutes/"><u>Ultra-Fast Conversion: [OFFICIAL] Platinum WinX DVD Ripper for Speedy DVD to 264/HEVC MP4 Ripping in Minutes!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-apples-strongest-iphone-protection-with-an-innovative-safety-edge-a-comprehensive-review-by-your-name/"><u>Unveiling Apple's Strongest iPhone Protection with an Innovative Safety Edge - A Comprehensive Review by [Your Name]</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-now-enhanced-performance-with-new-usb-32-ethernet-driver-software-on-windows-systems/"><u>Update Now: Enhanced Performance with New USB 3.^2 Ethernet Driver Software on Windows Systems</u></a></li>
 </ul></div>
 

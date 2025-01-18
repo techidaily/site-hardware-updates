@@ -1,7 +1,7 @@
 ---
 title: Score the Ultimate Deal with a 36%% Off, 8TB Capacity Samsung T5 SSD in Flash Storage | Exclusive Offer Highlights by ZDNET
-date: 2025-01-11T21:26:00.054Z
-updated: 2025-01-12T16:11:38.416Z
+date: 2025-01-11T17:47:12.015Z
+updated: 2025-01-18T16:03:50.596Z
 tags:
   - laptops
 categories:
@@ -28,7 +28,7 @@ With a truly impressive amount of storage space, you'll get read and write speed
 Along with great read and write speeds and more reliable data transfers, the [Samsung T5 Evo](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Portable-External-MU-PH8T0S-AM%2Fdp%2FB0CMDGGJTZ%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C33ee016c-dd9f-4cb0-8ad7-84030c6cbaaa%7Cdtp&dtb=1) also features 256-bit AES encryption to keep your personal data and sensitive information safe from unauthorized access. Its outer casing is drop- and shock-resistant and can withstand falls up to six feet, making it perfect for on-location photographers and other mobile professionals who need a tough storage drive for offloading raw photos from camera storage or transferring important projects and documents between their home office and mobile work location. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -65,18 +65,19 @@ While the Amazon listing for the Samsung T5 Evo portable SSD does not have a cou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-captivate-audiences-with-perfectly-tailored-youtube-descriptions/"><u>[New] 2024 Approved Captivate Audiences with Perfectly Tailored Youtube Descriptions</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ddressed-hidden-shorters-now-visible/"><u>[New] Addressed Hidden Shorters, Now Visible</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-enter-the-world-of-funimate-with-ease/"><u>[New] Enter the World of Funimate with Ease</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/eading-7-video-streaming-apps-to-enhance-your-youtube-mobile-experience/"><u>[New] Leading 7 Video Streaming Apps to Enhance Your YouTube Mobile Experience</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-disable-non-specific-youtube-video-alerts/"><u>[Updated] 2024 Approved Disable Non-Specific YouTube Video Alerts</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-sustaining-a-day-job-while-building-your-online-presence/"><u>[Updated] In 2024, Sustaining a Day Job While Building Your Online Presence</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-honor-90-gt-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Honor 90 GT | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/beyond-size-limits-unveiling-an-exceptionally-adaptable-chromebook-amongst-the-tiniest-ones-reviewed-by-zdnet/"><u>Beyond Size Limits: Unveiling an Exceptionally Adaptable Chromebook Amongst the Tiniest Ones Reviewed by ZDNET</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/camtasia-9-unlock-the-art-of-ken-burns-easing/"><u>Camtasia 9 Unlock the Art of Ken Burns Easing</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-the-superior-features-of-the-asus-laptop-the-ideal-alternative-to-macbook-unveiled/"><u>Exploring the Superior Features of the Asus Laptop - The Ideal Alternative to MacBook Unveiled</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-modern-ar-laptops-without-displays-are-outshining-their-predecessors-in-both-features-and-price-zdnet-insights/"><u>How Modern AR Laptops Without Displays Are Outshining Their Predecessors in Both Features and Price | ZDNET Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/macbook-showdown-deciding-between-air-and-pro-models-a-detailed-analysis/"><u>MacBook Showdown: Deciding Between Air and Pro Models - A Detailed Analysis</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/uncover-the-ultimate-tech-deals-the-top-16-items-at-walmart-revealed/"><u>Uncover the Ultimate Tech Deals: The Top 16 Items at Walmart Revealed</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-crafting-professional-focus-mastering-teamblend-background-artistry-for-2024/"><u>[New] Crafting Professional Focus Mastering Teamblend Background Artistry for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-mastering-youtube-shorts-key-facts/"><u>[New] Mastering YouTube Shorts Key Facts</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-elevate-your-mobile-game-skills-a-deep-dive-into-kinemaster-review/"><u>[Updated] Elevate Your Mobile Game Skills A Deep Dive Into KineMaster Review</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-resounding-beats-audio-studio-mac/"><u>[Updated] In 2024, Resounding Beats Audio Studio Mac</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-essential-lenovo-x1-carbon-drivers-optimized-for-windows-10windows-7-operating-systems/"><u>Download Essential Lenovo X1 Carbon Drivers - Optimized for Windows 10/Windows 7 Operating Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-hp-photosmart-absolutely-free-driver-software-now/"><u>Get Your HP Photosmart Absolutely Free Driver Software Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-securely-download-and-install-updated-razer-control-software-for-older-windows-operating-systems-7-xp-vista/"><u>How to Securely Download and Install Updated Razer Control Software for Older Windows Operating Systems (7, XP, Vista)</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-best-practices-recording-on-ios-devices/"><u>In 2024, Best Practices Recording on iOS Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-reno-10-proplus-5gfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo Reno 10 Pro+ 5GFRP Lock</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722959444546-latest-compatible-drivers-for-samsung-850-evo-storage-device-instant-access/"><u>Latest Compatible Drivers for Samsung 850 EVO Storage Device – Instant Access</u></a></li>
+<li><a href="https://common-error.techidaily.com/solutions-for-when-your-diagnostic-system-fails-to-run-correctly/"><u>Solutions for When Your Diagnostic System Fails to Run Correctly</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-fresh-driver-installation-for-targus-displaylink-across-various-windows-versions/"><u>Step-by-Step: Fresh Driver Installation for Targus DisplayLink Across Various Windows Versions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/tips-for-unlocking-youtube-video-comments/"><u>Tips for Unlocking YouTube Video Comments</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-hp-officejet-4655-get-new-drivers-here/"><u>Update Your HP Officejet 4655 - Get New Drivers Here!</u></a></li>
 </ul></div>
 

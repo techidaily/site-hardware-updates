@@ -1,7 +1,7 @@
 ---
 title: "MSI's High-Performance Gaming Display Now Huge Sale: Save Nearly $300 on Newegg - Exclusive Report"
-date: 2025-01-05T07:00:50.739Z
-updated: 2025-01-05T22:26:45.539Z
+date: 2025-01-14T19:29:16.630Z
+updated: 2025-01-18T18:30:47.517Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Taylor Clemons/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the deal?
@@ -31,7 +31,7 @@ You can pick up a new [MSI Stealth 14 Studio gaming laptop](https://shop-links.c
 **Also:** [**The best gaming laptops**](https://www.zdnet.com/article/best-gaming-laptop/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended:
@@ -65,7 +65,7 @@ Speaking of which: I absolutely adore the MUX switch, which is what lets you cho
 Taylor Clemons/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## My only real complaint
@@ -81,7 +81,7 @@ Taylor Clemons/ZDNET
 The laptop also has a decently fast charging time, taking about an hour to reach full charge from completely dead. This is perfect for situations when you forget to charge overnight or need to quickly top up the laptop during a lunch break or meeting. As with all fast-charging devices, you'll notice a slowdown in power transfer as the battery approaches full charge. This helps prevent damage from overcharging, which can shorten the overall life and performance of the battery.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How it handles gaming
@@ -95,7 +95,7 @@ Taylor Clemons/ZDNET
 The laptop even was able to handle the [ARMA III](https://store.steampowered.com/app/107410/Arma%5F3/) base game, which is notorious for requiring Herculean efforts from graphics cards and CPUs to even be able to load you into a server. I'd bought ARMA III years ago to play with friends over Discord, and this was the first time I'd been able to just load into the lobby and mess around with controls, settings, and mods before _finally_ being able to play a match after all this time. So the Stealth 14 Studio gets extra points in my book for letting me spend time with and stay connected to friends I don't get to see very often in-person. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### A worthy investment
@@ -140,24 +140,19 @@ _Correction: This review has been edited to reflect accurate information as prov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-best-tools-to-create-stunning-igtv-video-edits/"><u>[Updated] 2024 Approved Best Tools to Create Stunning IGTV Video Edits</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-kinemaster-edition-creating-polished-transitions-in-filmmaking/"><u>[Updated] 2024 Approved Kinemaster Edition Creating Polished Transitions in Filmmaking</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-religious-ringtones-for-daily-devotion-and-driving/"><u>[Updated] Religious Ringtones for Daily Devotion and Driving</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-top-quality-sd-card-for-sony-alpha-7s-ii/"><u>[Updated] Top-Quality SD Card for Sony Alpha 7S II</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-step-by-step-guide-to-mobile-snapchat-screen-recording/"><u>2024 Approved Step-by-Step Guide to Mobile Snapchat Screen Recording</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apples-vision-of-a-domestic-robotic-helper-shaping-our-homes-with-ai/"><u>Apple's Vision of a Domestic Robotic Helper - Shaping Our Homes with AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-in-action-6-analytical-applications-unveiled/"><u>ChatGPT in Action: 6 Analytical Applications Unveiled</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722970659933-constraint-b-include-direct-quotes-from-bill-jones-ensuring-to-rephrase-them-as-cooking-tips-or-wisdom/"><u>Constraint B: Include Direct Quotes From Bill Jones, Ensuring to Rephrase Them as Cooking Tips or Wisdom</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-latest-intel-wireless-ac-7260-network-adapter-driver-now/"><u>Download the Latest Intel Wireless-AC ^7260 Network Adapter Driver Now!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/eradicate-diagonal-line-skew/"><u>Eradicate Diagonal Line Skew</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-amds-new-zen-grower-architecture-achieves-an-unparalleled-density-of-8315-billion-transistors-per-die-marking-a-significant-28-improvement/"><u>How AMD's New Zen Grower Architecture Achieves an Unparalleled Density of 8.315 Billion Transistors per Die, Marking a Significant 28% Improvement</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Motorola Moto G24 | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/how-to-optimize-your-presence-on-spotify-ads/"><u>How to Optimize Your Presence on Spotify Ads</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hp-beats-audio-driver-issue-in-windows-1187-solved/"><u>HP Beats Audio Driver Issue in Windows 11/8/7 [Solved]</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hp-officejet-pro-8710-driver-installation-guide-and-download-for-pcs/"><u>HP Officejet Pro 8710 Driver Installation Guide and Download for PCs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/revitalize-your-pc-learn-how-to-refresh-ati-radeon-drivers-on-a-windows-system/"><u>Revitalize Your PC: Learn How to Refresh ATI Radeon Drivers on a Windows System</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/simplify-your-pc-updates-seamless-driver-installation-with-windows-update/"><u>Simplify Your PC Updates: Seamless Driver Installation with Windows Update</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-how-to-install-nvme-drivers-on-your-windows-pc/"><u>Step-by-Step Guide: How to Install NVMe Drivers on Your Windows PC</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-your-zebra-zp450-printing-device-a-step-by-step-download-guide/"><u>Update Your Zebra ZP450 Printing Device: A Step-by-Step Download Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-simplified-design-guide-add-your-own-style-to-your-video-shorts/"><u>[New] 2024 Approved Simplified Design Guide Add Your Own Style to Your Video Shorts</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-art-of-playback-anarchy-youtube-playlists-unordered-again/"><u>[New] The Art of Playback Anarchy YouTube Playlists Unordered Again</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-excellence-exchange-global-creators/"><u>[Updated] Excellence Exchange Global Creators</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-newest-dolby-sound-enhancement-drivers-for-windows-11-10-and-81/"><u>Download the Newest Dolby Sound Enhancement Drivers for Windows 11, 10, and 8.1</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-hd-video-capture-secure-free-logiteche-webcam-drivers-for-winows-users/"><u>Effortless HD Video Capture: Secure Free Logiteche Webcam Drivers for Winows Users</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/hard-disk-heroics-stellars-remarkable-recovery/"><u>Hard Disk Heroics: Stellar's Remarkable Recovery</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-newest-amd-radeon-hd-amzradeon-7870-drivers-and-upgrades-on-windows-10-system/"><u>How to Get the Newest AMD Radeon HD Amz Radeon 7870 Drivers & Upgrades on Windows 10 System</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-samsung-galaxy-m34-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Samsung Galaxy M34 Phone Pattern Lock</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-transform-your-tiktok-experience-with-new-user-numbers/"><u>In 2024, Transform Your TikTok Experience with New User Numbers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-updated-drivers-for-your-hp-all-in-one-deskjet-3755-supports-win-111087-platforms/"><u>Install Updated Drivers for Your HP All-in-One DeskJet #3755 - Supports Win 11/10/8/7 Platforms</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/is-broadcasting-facebook-videos-a-reality-yet-in-2024/"><u>Is Broadcasting Facebook Videos a Reality Yet, In 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722977807121-obtain-your-eveo-bluetooth-device-drivers-here-instant-download-available/"><u>Obtain Your Eveo Bluetooth Device Drivers Here – Instant Download Available!</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-art-of-immersive-play-optimizing-ss-blu-ray-feats/"><u>The Art of Immersive Play: Optimizing S's Blu-Ray Feats</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-stability-of-a-scaffold-involves-calculations-for-overturning-sliding-resistance-and-even-load-distribution/"><u>The Stability of a Scaffold Involves Calculations for Overturning, Sliding Resistance, and Even Load Distribution.</u></a></li>
 </ul></div>
 

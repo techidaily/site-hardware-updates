@@ -1,7 +1,7 @@
 ---
 title: "Future-Proof Your Job Tools as Artificial Intelligence Progresses: Experts Weigh In (ZDNet)"
-date: 2025-01-03T01:18:09.189Z
-updated: 2025-01-06T12:25:29.235Z
+date: 2025-01-11T18:05:58.077Z
+updated: 2025-01-18T16:50:01.911Z
 tags:
   - laptops
 categories:
@@ -31,7 +31,7 @@ Because AI tasks that run locally on a PC are typically executed by the CPU (cen
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### User requirements remain focused on hybrid work
@@ -69,7 +69,7 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -81,7 +81,7 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -134,20 +134,16 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-unleashing-the-potential-of-instavids-planning-for-success/"><u>[New] Unleashing the Potential of InstaVids Planning for Success</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-musicreactionvids10-discovering-2023s-stars/"><u>[Updated] In 2024, MusicReactionVids10 Discovering 2023'S Stars</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-cut-down-catch-more-the-best-url-reducers-for-youtube/"><u>2024 Approved Cut Down, Catch More The Best URL Reducers for YouTube</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-proven-youtube-seo-methods-for-video-rankings/"><u>2024 Approved Proven YouTube SEO Methods for Video Rankings</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/bokeh-magic-the-best-ios-and-android-apps-for-creative-blur-effects/"><u>Bokeh Magic The Best iOS and Android Apps for Creative Blur Effects</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/elevate-your-content-secrets-to-becoming-a-staff-favorite-at-vimeo-for-2024/"><u>Elevate Your Content Secrets to Becoming a Staff Favorite at Vimeo for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/enhance-gameplay-with-the-latest-nvidia-geforce-rtx-2080-ti-graphics-card-drivers/"><u>Enhance Gameplay with the Latest NVIDIA GeForce RTX 2080 Ti Graphics Card Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/fixing-compatibility-issues-between-newest-thinkpad-models-and-the-updated-thunderbolt-3-docking-software/"><u>Fixing Compatibility Issues Between Newest ThinkPad Models and the Updated Thunderbolt 3 Docking Software</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-version-of-intel-hd-graphics-4400-drivers-now/"><u>Get the Latest Version of Intel® HD Graphics 4400 Drivers Now!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722976167411-get-updated-epson-wf-3640-drivers-for-windows-operating-systems-here/"><u>Get Updated Epson WF-3640 Drivers for Windows Operating Systems Here!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-the-latest-hp-4605e-laserjet-pro-m127fn-printer-drivers-compatible-with-all-systems/"><u>Install the Latest HP 4605E (LaserJet Pro M127FN) Printer Drivers - Compatible with All Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-driver-updates-for-your-windows-10-webcam-a-comprehensive-guide/"><u>Mastering Driver Updates for Your Windows 10 Webcam - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/multiversus-no-more-master-the-art-of-fixing-crashes-with-our-top-8/"><u>MultiVersus No More! Master the Art of Fixing Crashes with Our Top 지정된 8 해결책</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-how-to-fix-windows-cant-find-an-appropriate-printer-driver/"><u>Resolved: How to Fix 'Windows Can't Find an Appropriate Printer Driver'</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-your-epson-l3150-printer-drivers-to-support-windows-11-8-and-7-download-now/"><u>Update Your Epson L3150 Printer Drivers to Support Windows 11, 8 & 7 - Download Now</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-videos-top-windows-phones-video-apps/"><u>[New] Mastering Videos Top Windows Phones Video Apps</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-five-to-fiveteen-tactics-against-oculus-discomfort/"><u>[Updated] Five to Fiveteen Tactics Against Oculus Discomfort</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-infinix-hot-40-pro-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/diagnosis/"><u>Diagnosis</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-instructions-for-installing-latest-ati-radeon-driver-updates-in-windows-os/"><u>Easy Instructions for Installing Latest ATI Radeon Driver Updates in Windows OS</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-integration-tutorial-how-to-set-up-chatgpt-extensions/"><u>Easy Integration Tutorial: How to Set Up ChatGPT Extensions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fixing-ralink-rt3290-drivers-troubleshooting-on-windows-10-8-and-7/"><u>Fixing Ralink RT3290 Drivers: Troubleshooting on Windows 10, 8 & 7</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-base-to-pro-gopro-hero5-blacks-clash-with-hero4-silver/"><u>In 2024, From Base to Pro GoPro Hero5 Black's Clash with Hero4 Silver</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/silent-sounds-elegant-dimming-in-garageband-projects/"><u>Silent Sounds Elegant Dimming in Garageband Projects</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-trigger-startup-success-for-windows-index-service/"><u>Strategies to Trigger Startup Success for Windows Index Service</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlock-optimal-gaming-performance-on-nvidias-gtx-1660-ti-with-driver-upgrades/"><u>Unlock Optimal Gaming Performance on NVIDIA's GTX 1660 Ti with Driver Upgrades</u></a></li>
 </ul></div>
 

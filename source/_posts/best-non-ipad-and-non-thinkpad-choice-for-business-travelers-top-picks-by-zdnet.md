@@ -1,7 +1,7 @@
 ---
 title: "Best Non-iPad and Non-ThinkPad Choice for Business Travelers: Top Picks by ZDNet"
-date: 2025-01-10T00:12:40.218Z
-updated: 2025-01-13T04:20:31.686Z
+date: 2025-01-16T20:18:53.491Z
+updated: 2025-01-18T19:01:00.528Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Ed Bott/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -83,7 +83,7 @@ Cesar Cadenas/ZDNET
 And for one of the best qualities of this laptop: battery life is absolutely phenomenal. I [performed our usual test](https://www.zdnet.com/article/how-we-test-laptops/) of running a YouTube livestream at 720p and 50% brightness. At its peak, the Surface Pro lasted just under 13 hours on a single charge. That's just shy of Microsoft's purported 14-hour battery life. In practical usage, this is a device that will easily last multiple days on a single charge. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -122,17 +122,14 @@ Prices for the device start at $999.99\. My review unit with the 12-core Snapdra
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-protecting-melodies-on-instagram/"><u>[Updated] 2024 Approved Protecting Melodies on Instagram</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-expert-director-of-visuals-and-music/"><u>2024 Approved Expert Director of Visuals and Music</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/anticipated-announcements-at-apples-upcoming-october-showcase-the-new-m4-mac-mini-advanced-ipads-and-latest-innovations-in-siri-technology-insights-by-zdnet25/"><u>Anticipated Announcements at Apple's Upcoming October Showcase: The New M4 Mac Mini, Advanced iPads, and Latest Innovations in Siri Technology - Insights by ZDNet</u></a></li>
-<li><a href="https://media-tips.techidaily.com/converting-video-file-formats-from-mpeg-to-crisp-mp3-soundtracks/"><u>Converting Video File Formats: From MPEG to Crisp MP3 Soundtracks</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hunt-for-the-best-unlocking-spectacular-savings-on-newest-laptops-during-octobers-prime-deals-bonanza-gadgetguru/"><u>Hunt for the Best: Unlocking Spectacular Savings on Newest Laptops During October's Prime Deals Bonanza | GadgetGuru</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-spoof-ballads-and-jests-the-funniest-sounds/"><u>In 2024, Spoof Ballads & Jests The Funniest Sounds</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/innovative-mobile-multimedia-tools-to-transform-photos/"><u>Innovative Mobile Multimedia Tools to Transform Photos</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-to-rectify-malfunctioning-discord-game-checker-on-windows/"><u>Tips to Rectify Malfunctioning Discord Game Checker on Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-gaming-headsets-2024-comprehensive-reviews-by-tech-experts/"><u>Top Rated Gaming Headsets 2024 - Comprehensive Reviews by Tech Experts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unleashing-productivity-how-the-hp-copilotplus-notebook-empowers-distance-working-a-real-life-test-by-zdnet/"><u>Unleashing Productivity: How the HP Copilot+ Notebook Empowers Distance Working - A Real-Life Test by ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-apple-m3-macbook-air-top-3-impressive-upgrades-explored-techspot/"><u>Unveiling the Apple M3 MacBook Air - Top 3 Impressive Upgrades Explored | TechSpot</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-minimal-effort-maximum-recovery-for-deleted-posts-for-2024/"><u>[New] Minimal Effort, Maximum Recovery for Deleted Posts for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-essential-techniques-in-youtube-movie-production/"><u>2024 Approved Essential Techniques in YouTube Movie Production</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-epson-wf-2750-drivers-complete-guide/"><u>Download & Install Epson WF-2750 Drivers – Complete Guide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-analysis-of-the-linksys-wrt32x-advanced-wifi-router-cutting-edge-smart-connectivity-unleashed/"><u>Expert Analysis of the Linksys WRT32X Advanced WiFi Router: Cutting-Edge Smart Connectivity Unleashed</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-device-ready-broadcoms-bluetooth-drivers-for-windows-platforms-xpvista/"><u>Get Your Device Ready: Broadcom's Bluetooth Drivers for Windows Platforms (XP/Vista)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-asus-vg248qe-graphics-card-drivers-for-windows-free-and-fast-downloads/"><u>Latest Asus VG248QE Graphics Card Drivers for Windows: Free and Fast Downloads</u></a></li>
+<li><a href="https://win-blog.techidaily.com/online-mp2-naar-mp4-konvertor-bereikbaarheid-geavanceerde-functies-movavi-gratis/"><u>Online MP2 Naar MP4 Konvertor Bereikbaarheid Geavanceerde Functies - Movavi Gratis</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/optimize-your-pc-geforce-rtx-3090-driver-download-for-win-10-8-and-7/"><u>Optimize Your PC: GeForce RTX 3090 Driver Download for Win 10, 8 & 7</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-reviving-a-broken-shift-key-on-your-computer/"><u>Step-by-Step Guide To Reviving A Broken Shift Key On Your Computer</u></a></li>
 </ul></div>
 

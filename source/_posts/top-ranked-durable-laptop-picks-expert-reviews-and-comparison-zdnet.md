@@ -1,7 +1,7 @@
 ---
 title: "Top-Ranked Durable Laptop Picks : Expert Reviews & Comparison - ZDNet"
-date: 2025-01-11T22:35:15.443Z
-updated: 2025-01-12T17:31:22.387Z
+date: 2025-01-11T18:17:51.395Z
+updated: 2025-01-18T17:50:23.627Z
 tags:
   - laptops
 categories:
@@ -21,6 +21,10 @@ You can even find rugged laptops with enterprise-level security software, which 
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is the best rugged laptop right now?
 
@@ -42,7 +46,15 @@ Cons
 * Very expensive
 * Not consumer grade
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Getac S510
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best rugged laptop overall
 
@@ -71,6 +83,10 @@ Cons
 
 ## Panasonic ToughBook 40 Mk2
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best rugged laptop for battery life
 
 When you're working on location or traveling for your job, you need a laptop that can keep up, even when you can't reliably plug in to recharge. The Panasonic ToughBook 40 Mk2 allows you to configure it with either a single or dual battery, giving you up to 22 hours of use on a single charge. This makes it perfect for mobile professionals who may need to visit work sites for inspections or scout new locations for construction.
@@ -97,14 +113,10 @@ Cons
 * Can't upgrade RAM or storage
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Acer Chromebook Spin 512
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best rugged laptop for students
 
@@ -133,14 +145,10 @@ Cons
 * On the heavy side
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Asus ZenBook Pro Duo 15 OLED
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best rugged laptop splurge
 
@@ -174,10 +182,6 @@ Cons
 
 ## Asus TUF A14
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best rugged laptop for gaming
 
 If you're a gamer looking for a durable laptop that can handle commutes to tournaments, daily wear-and-tear, and the occasional spill, the Asus TUF A14 is a great option. It's built to MIL-STD-810 standards for shock and drop resistance, which means that if it falls off your desk or gets knocked around in your backpack, you won't have to worry. The keyboard is also spill-resistant, saving delicate electronics from accidental water or soda splashes. 
@@ -200,10 +204,6 @@ I chose the Getac S510 as the best rugged laptop for its highly customizable con
 | Asus ZenBook Pro Duo 15 OLED | $1,700              | 1TB SSD       | Intel Core i7-12700H          |
 | Asus TUF A14                 | $1,400              | 1TB SSD       | AMD Ryzen 7 8845HS            |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Which rugged laptop is right for you?
 
 Beyond the usual laptop features -- like screen size and price -- you get to choose just how durable you'd like your rugged laptop to be. Manufacturers try to make the choice easier by dividing systems into "semi-rugged" and "rugged" -- the former meeting many everyday durability requirements, while the latter provides additional levels of protection for the harshest conditions. 
@@ -221,6 +221,10 @@ Don't forget to research the brand's ecosystem if you're going to need docks, mo
 | Panasonic Toughbook 40 Mk2       | A rugged laptop with an extreme battery life. You can configure the Toughbook 40 Mk2 with either a single or dual batteries to give you up to 22 hours of use on a single charge.                                                                  |
 | Asus ZenBook Pro Duo 15 OLED     | A tough, high-end laptop. It features Asus' revolutionary dual-screen design, giving you a 15.6-inch main 4K OLED display and a secondary 4K ScreenPad.                                                                                            |
 | Asus TUF A14                     | A tough laptop for gaming. The Asus TUF A14 has a CNC-machined aluminum lid as well as hinges for enhanced durability as well as enhanced airflow and a full-width heatsink for better power efficiency.                                           |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How did we choose these rugged laptops?
 
@@ -244,10 +248,6 @@ Laptops meant for military use are more rigorously tested against a laundry list
 
 At the time of writing, Apple does not have a ruggedized version of any of their MacBooks for sale, either through their official store or authorized sellers. You can, however, purchase rugged cases like the [Urban Armor Gear](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FURBAN-ARMOR-GEAR-Feather-Light-Translucent%2Fdp%2FB08M5KWNW4%2F%3Ftag-zdnet-deals-20%3D%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C33ed1665-c75f-493e-a7dc-8956497c6575%7Cdtp&dtb=1) for the 13-inch MacBook Pro, the [Ibenezer case](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB07D848J6V%2F%3Ftag-zdnet-deals-20%3D%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C33ed1665-c75f-493e-a7dc-8956497c6575%7Cdtp&dtb=1) for the 13-inch MacBook Air, or the [Pelican 1085](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPelican-1095CC-Laptop-Case-Liner%2Fdp%2FB006C21MCU%2F%3Ftag-zdnet-deals-20%3D%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C33ed1665-c75f-493e-a7dc-8956497c6575%7Cdtp&dtb=1) hardshell carrying case.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## More rugged laptops to consider
 
 Show less 
@@ -268,6 +268,10 @@ Show less
 
 Full Review [Read Full Review](https://www.zdnet.com/article/best-rugged-laptop/Design: Mini Listicle)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Getac B360
 
 I got the chance to test out the Getac B360 and saw first-hand just how tough it really is. Weighing in at a hefty 5.1 pounds, it's both MIL-STD-810H and MIL-STD-416G certified for shock and moisture resistance and can be customized for salt fog and Class I electrical hazard certification. 
@@ -279,10 +283,6 @@ Show less
 [View now at Panasonic](https://connect.na.panasonic.com/toughbook/rugged-computers/toughbook-55)
 
 Full Review [Read Full Review](https://www.zdnet.com/article/best-rugged-laptop/Design: Mini Listicle)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Panasonic Toughbook 55
 
@@ -330,18 +330,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-mobile-mastery-using-phone-as-a-camera-for-recording-for-2024/"><u>[Updated] Mobile Mastery Using Phone as a Camera for Recording for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/adapting-office-technology-navigating-device-innovations-in-the-age-of-artificial-intelligence-insights-from-zdnet/"><u>Adapting Office Technology: Navigating Device Innovations in the Age of Artificial Intelligence - Insights From ZDNet</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/-unwanted-interrucier-top-7-selective-android-adblockers-reviewed-for-2024/"><u>Avoid Unwanted Interrucier Top 7 Selective Android AdBlockers Reviewed for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/best-black-friday-bargains-of-2022-revealed-ideal-shopping-times-and-locations-tips/"><u>Best Black Friday Bargains of 2022 Revealed: Ideal Shopping Times and Locations | Tips</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exclusive-scoop-on-the-ultimate-15-inch-notebooks-of-2024-authoritative-assessments-and-rankings/"><u>Exclusive Scoop on the Ultimate 15-Inch Notebooks of 2024: Authoritative Assessments & Rankings</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-15-by-drfone-ios/"><u>How to Unlock Apple iPhone 15?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-motorola-moto-g04-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Motorola Moto G04 FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-expressive-satire-kapwings-memetic-tool/"><u>In 2024, Expressive Satire Kapwing’s Memetic Tool</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-selecting-the-prime-sky-vault-for-firms/"><u>In 2024, Selecting the Prime Sky Vault for Firms</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/in-depth-analysis-and-rankings-of-leading-windows-computers-expert-insights-zdnet/"><u>In-Depth Analysis & Rankings of Leading Windows Computers - Expert Insights | ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/in-depth-analysis-of-lenovos-newcomer-thinkpad-z16-outstanding-functionalities-with-a-few-visual-drawbacks/"><u>In-Depth Analysis of Lenovo's Newcomer ThinkPad Z16: Outstanding Functionalities with a Few Visual Drawbacks</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/instagram-video-ads-mastery-a-guide-to-creating-viral-content-for-2024/"><u>Instagram Video Ads Mastery A Guide to Creating Viral Content for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-virtual-reality-bargain-meta-offers-premium-512gb-quest-3-package-exclusive-insights/"><u>Top Virtual Reality Bargain: Meta Offers Premium 512GB Quest 3 Package - Exclusive Insights</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-unveiling-the-secrets-of-effective-video-captioning-for-tiktoks-for-2024/"><u>[New] Unveiling the Secrets of Effective Video Captioning for TikToks for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-mastering-youtube-video-cuts-a-beginners-guide/"><u>[Updated] Mastering YouTube Video Cuts A Beginner's Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-access-to-up-to-date-kodak-printer-drivers-download-now/"><u>Easy Access to Up-to-Date Kodak Printer Drivers – Download Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-download-complete-guide-and-amd-gpio-device-driver/"><u>Free Download: Complete Guide & AMD GPIO Device Driver</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/guide-converting-copy-protected-macos-dvds-into-editable-formats/"><u>Guide: Converting Copy-Protected MacOS DVDs Into Editable Formats</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-free-mindset-tunes-no-copyrights/"><u>In 2024, Free Mindset Tunes - No Copyrights</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-issue-of-a-missing-cursor-on-your-windows-11-touchpad/"><u>Resolving the Issue of a Missing Cursor on Your Windows 11 Touchpad</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamless-installation-of-nvidia-1080-drivers-on-windows-10-step-by-step-process/"><u>Seamless Installation of Nvidia 1080 Drivers on Windows 10: Step by Step Process</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-to-downloading-and-installing-steelseries-windows-software/"><u>Step-by-Step Guide to Downloading & Installing SteelSeries Windows Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-connecting-a-ps5-controller-to-your-pc/"><u>Step-by-Step: Connecting a PS5 Controller to Your PC</u></a></li>
+<li><a href="https://discover-best.techidaily.com/top-6-proven-artificial-intelligence-tools-for-superior-video-enhancement/"><u>Top 6 Proven Artificial Intelligence Tools for Superior Video Enhancement</u></a></li>
 </ul></div>
 

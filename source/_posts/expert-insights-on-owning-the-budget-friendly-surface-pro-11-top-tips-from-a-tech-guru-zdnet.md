@@ -1,7 +1,7 @@
 ---
 title: Expert Insights on Owning the Budget-Friendly Surface Pro 11 - Top Tips From a Tech Guru | ZDNet
-date: 2025-01-05T21:25:46.430Z
-updated: 2025-01-12T20:04:25.242Z
+date: 2025-01-14T17:25:38.299Z
+updated: 2025-01-18T20:15:50.587Z
 tags:
   - laptops
 categories:
@@ -19,10 +19,6 @@ Ed Bott/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -49,7 +45,7 @@ My original plan was to use the new Surface Pro as a secondary mobile device, wh
 How did this happen? Let's dive in.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The experience is familiar
@@ -65,7 +61,7 @@ The big difference is that this next-gen device is extremely cool and quiet. Aft
 Of course, this new device also embodies everything you like and/or dislike about the Surface Pro design. If you're expecting a radical shift that will suddenly make the kickstand comfortable in your lap, I'm sorry to report you will be disappointed. If, however, you're comfortable with that design, you'll find this iteration completely familiar.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Battery life is a huge win
@@ -83,6 +79,10 @@ In real-world usage, the Surface Pro 11 battery lasts twice as long as an equiva
 Screenshot by Ed Bott/ZDNET
 
 At an average of more than 10 hours of actual, observed battery life, this Surface Pro is able to run for well over twice as long as my Intel-based Surface Pro 9\. That's also at least as long as the [M2 MacBook Air](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/) in my office.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Compatibility is good but not perfect
 
@@ -121,7 +121,7 @@ I had no hardware problems to speak of. My 10-year-old Logitech C930 webcam just
 Your mileage may vary, of course, especially if you have exotic hardware like video capture cards and ancient multifunction printers that require custom driver packs and won't work with the in-box Windows drivers. Thankfully, I have none of those.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The AI story is incomplete
@@ -145,7 +145,7 @@ The real question is whether those features are powerful enough to make you swit
 Even if you avoid the AI features completely, though, there's more than enough power in this [budget PC](https://www.zdnet.com/article/best-laptops-under-500/). Plus, as long as your apps and hardware requirements aren't exotic, you'll appreciate its cool, quiet operation.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test laptops
@@ -192,22 +192,17 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-innovative-ways-to-record-and-tweak-videos-using-the-adobe-connect-platform/"><u>[New] Innovative Ways to Record & Tweak Videos Using the Adobe Connect Platform</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-halo-series-screen-grabs-made-simple-for-2024/"><u>[Updated] Halo Series Screen Grabs Made Simple for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-culinary-connoisseurs-must-watch-food-content/"><u>[Updated] In 2024, Culinary Connoisseurs Must-Watch Food Content</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-the-unmatched-versattile-performance-of-dells-latest-gaming-laptop-ideal-for-office-use-too-exclusive-review-by-zdnet/"><u>Discover the Unmatched Versattile Performance of Dell's Latest Gaming Laptop - Ideal For Office Use Too! Exclusive Review by ZDNET</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-picks-for-ultimate-portable-monitors-of-2024-in-depth-analysis-and-ratings-zdnet/"><u>Expert Picks for Ultimate Portable Monitors of 2024: In-Depth Analysis and Ratings | ZDNet</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/facil-e-gratuito-convertendo-arquivos-de-video-mkv-para-audio-wav-online-com-a-ferramenta-da-movavi/"><u>Fácil E Gratuito: Convertendo Arquivos De Vídeo MKV Para Áudio WAV Online Com a Ferramenta Da Movavi</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-for-effortless-apple-podcast-acquisition-swift-and-smooth-for-2024/"><u>How-To for Effortless Apple Podcast Acquisition – Swift & Smooth for 2024</u></a></li>
-<li><a href="https://discover-great.techidaily.com/partitionverluste-wiederholen-methoden-zur-wiederherstellung-verlorener-daten-auf-einem-usb-stick/"><u>Partitionverluste Wiederholen: Methoden Zur Wiederherstellung Verlorener Daten Auf Einem USB-Stick</u></a></li>
-<li><a href="https://extra-support.techidaily.com/pierce-through-darkness-essential-techniques-to-brighten-iphone-vids-for-2024/"><u>Pierce Through Darkness Essential Techniques to Brighten iPhone Vids for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/revolutionizing-productivity-lenovo-enhances-key-functionality-in-latest-2-in-1-thinkpad-for-professionals-insights-by-zdnet/"><u>Revolutionizing Productivity: Lenovo Enhances Key Functionality in Latest 2-in-1 ThinkPad for Professionals - Insights by ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-to-integrating-chatgpt-widget/"><u>Step-by-Step to Integrating ChatGPT Widget</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-perfect-way-to-add-linktree-to-tiktok-bio/"><u>The Perfect Way to Add Linktree to TikTok Bio</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-ranked-non-microsoft-non-lenovo-tablet-triumphs-as-ideal-companion-for-business-travelers-insights-from-a-comprehensive-review/"><u>Top-Ranked Non-Microsoft, Non-Lenovo Tablet Triumphs as Ideal Companion for Business Travelers – Insights From a Comprehensive Review</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-ranking-student-notebooks-a-comprehensive-test-and-analysis-by-experts/"><u>Top-Ranking Student Notebooks: A Comprehensive Test & Analysis by Experts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unbeatable-value-how-this-compact-laptop-delivers-top-notch-visual-performance-at-an-unbelievably-low-price-digital-gadgets-review/"><u>Unbeatable Value: How This Compact Laptop Delivers Top-Notch Visual Performance at an Unbelievably Low Price | Digital Gadgets Review</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unleash-ultimate-gaming-audio-bliss-top-rated-sound-systems-now-discounted-at-best-buy/"><u>Unleash Ultimate Gaming Audio Bliss: Top-Rated Sound Systems Now Discounted at Best Buy!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlock-unmatched-value-with-the-newly-discounted-apple-m2-macbook-air-for-799-pre-prime-day-beating-octobers-big-sales-event-insider-info/"><u>Unlock Unmatched Value with the Newly Discounted Apple M2 MacBook Air for $799 Pre-Prime Day, Beating October's Big Sales Event Insider Info!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-cutting-edge-or-just-another-app-discover-vida-inside-out/"><u>[New] Cutting Edge or Just Another App? Discover Vida Inside Out</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/best-free-video-editing-software-top-10-picks-for-windows-and-macos/"><u>Best Free Video Editing Software: Top 10 Picks for Windows & macOS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-printer-software-upgrade-find-and-install-latest-drivers-for-windows-10-and-11/"><u>HP Printer Software Upgrade: Find and Install Latest Drivers for Windows 10 & 11</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-14-pro-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>In 2024, iPhone 14 Pro Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-the-newest-logitech-brio-webcam-driver-for-seamless-integration-with-windows-systems-w11-w8-w7/"><u>Install the Newest Logitech Brio Webcam Driver for Seamless Integration with Windows Systems (W11, W8, W7)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/official-epson-workforce-ds-30-printer-driver-download-compatible-with-windows-10-8-and-7/"><u>Official Epson WorkForce DS-30 Printer Driver Download | Compatible with Windows 10, 8 & 7</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-call-misses-during-runtime-error-in-malwarebytes-software/"><u>Resolving Call Misses During Runtime Error in Malwarebytes Software</u></a></li>
+<li><a href="https://blog-min.techidaily.com/step-by-step-guide-video-editing-using-the-built-in-windows-11-photos-editor/"><u>Step-by-Step Guide: Video Editing Using the Built-In Windows 11 Photos Editor</u></a></li>
+<li><a href="https://apple-account.techidaily.com/the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-apple-iphone-12-mini-by-drfone-ios/"><u>The Easy Way to Remove an Apple ID from Your MacBook For your Apple iPhone 12 mini</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-canon-mg3000-step-by-step-guide-to-downloading-drivers/"><u>Update Your Canon MG3000: Step-by-Step Guide to Downloading Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-pc-with-the-newest-intel-wi-fi-ac-9560-drivers-for-optimal-performance/"><u>Update Your PC with the Newest Intel Wi-Fi AC 9560 Drivers for Optimal Performance</u></a></li>
 </ul></div>
 

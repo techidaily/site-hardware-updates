@@ -1,7 +1,7 @@
 ---
 title: AMD's Newest Powerhouse, Ryzen 9 9950X, Breaks Records with a Staggering Overclock to 6.7 GHz Using Liquid Nitrogen Chillers
-date: 2024-08-19T05:53:57.784Z
-updated: 2024-08-20T05:53:57.784Z
+date: 2025-01-11T16:28:19.228Z
+updated: 2025-01-18T17:58:27.164Z
 tags:
   - cpu
 categories:
@@ -31,6 +31,10 @@ Every new AMD generation seems to bring newly broken world records, and the dawn
 
  Ryzen 9 9950X’s performance boosts over the 7950X are nothing to scoff at. While some overclocking headroom is lost over the 7950X, AMD’s own[benchmarks](https://www.tomshardware.com/tag/benchmark) and[recent leaked tests in the wild](https://www.tomshardware.com/pc-components/cpus/amds-new-zen-5-flagship-gets-benchmarked-ryzen-9-9950x-engineering-sample-isnt-as-impressive-in-blender-at-maximum-power-settings) show a 30% increase in performance for the same wattage. For more details from Zen 5 Tech Day about the entire Granite Ridge lineup and Strix Point,[see our full coverage of the event](https://www.tomshardware.com/pc-components/cpus/amd-deep-dives-zen-5-ryzen-9000-and-strix-point-cpu-rdna-35-gpu-and-xdna-2-architectures) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -39,14 +43,11 @@ Every new AMD generation seems to bring newly broken world records, and the dawn
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -55,8 +56,21 @@ Every new AMD generation seems to bring newly broken world records, and the dawn
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-editorprime-design/"><u>[New] 2024 Approved EditorPrime Design</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-sparking-social-media-stories-facebook-fame-techniques/"><u>[New] In 2024, Sparking Social Media Stories Facebook Fame Techniques</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-tricks-to-clear-up-screenshots-of-fuzzy-fb-videos-for-2024/"><u>[New] Tricks to Clear Up Screenshots of Fuzzy FB Videos for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-complete-guide-to-oem-unlocking-on-lava-yuva-2-pro-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Lava Yuva 2 Pro</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-value-hard-drive-and-ssd-offers-for-festive-season-202-the-ultimate-guide/"><u>Best Value Hard Drive and SSD Offers for Festive Season 202#: The Ultimate Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/costcos-hottest-cyber-monday-offers-still-going-strong-score-great-prices-on-tvs-computers-and-tablets-insider-tips/"><u>Costco's Hottest Cyber Monday Offers Still Going Strong! Score Great Prices on TVs, Computers, and Tablets Insider Tips</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/fix-incorrect-aspect-ratio-issues-in-makemkm-get-help-and-solutions/"><u>Fix Incorrect Aspect Ratio Issues in MakeMKM - Get Help and Solutions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/gift-ideas-galore-score-last-minute-deals-with-best-buys-comprehensive-discount-bonanza-zdnet/"><u>Gift Ideas Galore! Score Last-Minute Deals with Best Buy's Comprehensive Discount Bonanza | ZDNET</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-nokia-c12-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Nokia C12 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/msis-premium-gaming-display-hits-a-steal-with-300-off-on-newegg-insights-and-analysis-from-zdnet/"><u>MSI's Premium Gaming Display Hits a Steal with $300 Off on Newegg – Insights and Analysis From ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/persuasive-proposal-strategies-unveiled-enhance-your-skills-with-chatgpt-assistance/"><u>Persuasive Proposal Strategies Unveiled: Enhance Your Skills With ChatGPT Assistance</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/resolving-disneyplus-streaming-hiccups-comprehensive-guide-for-all-known-troubleshooting/"><u>Resolving Disney+ Streaming Hiccups: Comprehensive Guide for All Known Troubleshooting</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/tear-down-your-walls-and-see-whats-left/"><u>Tear Down Your Walls (And See What's Left)</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-asus-ax6e6000-rt-ax88u-router-mastering-wi-fi-6-with-cutting-edge-features/"><u>The Ultimate Guide to Asus AX6e6000 RT-AX88U Router: Mastering Wi-Fi 6 with Cutting-Edge Features</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->

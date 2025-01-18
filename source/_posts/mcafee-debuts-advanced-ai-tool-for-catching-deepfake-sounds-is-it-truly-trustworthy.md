@@ -1,7 +1,7 @@
 ---
 title: McAfee Debuts Advanced AI Tool for Catching Deepfake Sounds - Is It Truly Trustworthy?
-date: 2024-12-30T06:47:02.266Z
-updated: 2025-01-05T20:40:07.958Z
+date: 2025-01-14T17:25:54.816Z
+updated: 2025-01-18T20:05:26.179Z
 tags:
   - laptops
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to configure specific DNS servers on your Chromebook
@@ -47,7 +47,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 **What you'll need:** The only thing you'll need for this is a Chromebook with an updated version of Chrome OS. Make sure to always keep your operating system up-to-date, so you always have the latest features and (more importantly) the latest security and bug fixes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open Settings
@@ -61,7 +61,7 @@ Screenshot by Jack Wallen/ZDNET
 **Also: [How to connect to a network share from your Chromebook](https://www.zdnet.com/home-and-office/work-life/how-to-connect-to-a-network-share-from-your-chromebook/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Disable automatic IP address configuration
@@ -73,7 +73,7 @@ By default, Chrome OS uses DHCP to acquire IP addresses. To use a specific DNS s
 Screenshot by Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Change the Name Servers
@@ -120,18 +120,17 @@ And that's all you need to do to give your Chromebook a speed and security boost
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-bridge-the-gap-transferring-files-from-pc-to-ios/"><u>[New] Bridge the Gap Transferring Files From PC to iOS</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-top-picks-premium-iphone-tune-selectors-for-2024/"><u>[New] Top Picks Premium iPhone Tune Selectors for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-comprehensive-guide-to-photo-to-video-conversion-via-pixiz/"><u>2024 Approved Comprehensive Guide to Photo-to-Video Conversion via Pixiz</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-iphone-filming-software-list/"><u>2024 Approved Exclusive iPhone Filming Software List</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/discover-the-latest-innovations-must-have-iphone-12-updates/"><u>Discover the Latest Innovations: Must-Have iPhone 12 Updates</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ensure-best-performance-latest-intel-iris-xe-drivers-for-modern-windows-os/"><u>Ensure Best Performance: Latest Intel Iris Xe Drivers for Modern Windows OS</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-motorola-edge-2023-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Motorola Edge 2023 to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-itel-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Itel A05s | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/maximize-visuals-in-games-the-benefits-of-upgrading-to-an-asus-nvidia-gtx-1660-ti-gpu/"><u>Maximize Visuals in Games: The Benefits of Upgrading to an ASUS NVIDIA GTX 1660 Ti GPU</u></a></li>
-<li><a href="https://win-answers.techidaily.com/optimize-your-videos-proven-techniques-to-shrink-megabytes-while-preserving-clarity/"><u>Optimize Your Videos: Proven Techniques to Shrink Megabytes While Preserving Clarity</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/outperforming-intels-core-i9-14900k-ryzen-9-7950x-speeds-ahead-with-a-slender-250w-consumption/"><u>Outperforming Intel's Core I9-14900K: Ryzen 9 7950X Speeds Ahead with a Slender 250W Consumption</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/troubleshooting-made-simple-latest-scansnap-ix500-drivers-installation-on-windows/"><u>Troubleshooting Made Simple: Latest ScanSnap iX500 Drivers Installation on Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-walkthrough-setting-up-toshiba-print-software-in-windows/"><u>Ultimate Walkthrough: Setting Up Toshiba Print Software in Windows</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-evaluating-the-benefits-of-instagrams-selfie-credentials/"><u>[Updated] Evaluating the Benefits of Instagram’s Selfie Credentials</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-comparing-recording-quality-the-pros-and-cons-of-30fps-and-60fps/"><u>[Updated] In 2024, Comparing Recording Quality The Pros & Cons of 30Fps and 60Fps</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-navigating-twitters-promotional-features-for-2024/"><u>[Updated] Navigating Twitter's Promotional Features for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-streamline-your-content-upload-instagram-videos-from-desktop-for-2024/"><u>[Updated] Streamline Your Content Upload Instagram Videos From Desktop for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722976007333-download-free-asrock-ab350-pro4-graphics-card-drivers-for-windows-instantly/"><u>Download Free ASRock AB350 Pro4 Graphics Card Drivers for Windows - Instantly!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-access-to-high-speed-ft232r-driver-downloads-start-immediately/"><u>Easy Access to High-Speed FT232R Driver Downloads: Start Immediately!</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-realme-12-5g-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-virtual-realms-on-screen-comprehensive-techniques-for-gameplay-recording/"><u>In 2024, Virtual Realms on Screen Comprehensive Techniques for Gameplay Recording</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavi-transformacao-livre-webp-em-jpeg-na-web/"><u>Movavi: Transformação Livre WebP Em JPEG Na Web</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/ntbackup-funktion-erklart-praktische-anleitung-zur-nutzung-auf-windows-versionen-10-8-und-7/"><u>NTBackup Funktion Erklärt: Praktische Anleitung Zur Nutzung Auf Windows-Versionen 10, 8 Und 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-brother-l2350dw-printer-download-the-newest-drivers-today/"><u>Update Your Brother L2350DW Printer: Download the Newest Drivers Today</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-pc-download-and-upgrade-to-the-latest-geforce-gtx-1650-supers-driver-for-windows/"><u>Update Your PC: Download & Upgrade to the Latest GeForce GTX 1650 Supers Driver for WINDOWS</u></a></li>
 </ul></div>
 

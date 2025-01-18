@@ -1,7 +1,7 @@
 ---
 title: Top 2023 Deals on SSDs & Holiday Savings - Find the Latest Offers!
-date: 2025-01-10T22:10:18.235Z
-updated: 2025-01-12T16:48:55.569Z
+date: 2025-01-14T16:45:42.304Z
+updated: 2025-01-18T20:20:10.897Z
 tags:
   - laptops
 categories:
@@ -26,10 +26,6 @@ I've scoured the site to find the best deals on everything from gaming PCs and S
 
 ![An MSI Modern 14 laptop on a blue background](https://www.zdnet.com/a/img/resize/5c8bdb145c79b7395c0743cd9d856b4df611cb4d/2023/11/17/7bcdb4cf-3869-419a-bb3b-03b2acc9be6b/msi-modern-14.jpg?auto=webp&width=1280)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 MSI/ZDNET
 
 * [Gigabyte GeForce RTX 3070](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fgigabyte-geforce-rtx-3070-gv-n3070gaming-oc-8gd%252Fp%252FN82E16814932449%253FItem%253DN82E16814932449): $440 (save $130)
@@ -42,10 +38,6 @@ MSI/ZDNET
 * [AOC Agon tournament grade RGB Cherry MX Blue](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fp%252FN82E16823626002): $45 (save $55)
 * [Epos Adapt 661](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fepos-adapt-661-black%252Fp%252FN82E16826443005): $319 (save $166)
 * [EVGA XR1 Pro capture card](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fevga-144-u1-cb21-lr-usb-3-1-type-c%252Fp%252FN82E16815101015): $90 (save $130)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Newegg holiday desktop deals
 
@@ -61,7 +53,7 @@ MSI/ZDNET
 * [MSI Pro DP10](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fmsi-pro-dp10-13m-057us-business-desktops-workstations%252Fp%252FN82E16883151296): $849 (save $400)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Newegg holiday gaming laptop deals
@@ -81,6 +73,10 @@ Dell/ZDNET
 * [Lenovo LOQ 15](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fstorm-grey-lenovo-loq-15irh8-82xv00lfus-gaming%252Fp%252F1TS-000E-18JS3): $700 (save $400)
 * [Gigabyte G5](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fp%252FN82E16834233559): $750 (save $349)
 * [Acer Nitro 5:](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fobsidian-black-acer-nitro-5-an515-58-73rs-gaming%252Fp%252F2WC-000K-027V4) $860 (save $320)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Newegg Holiday PC component deals
 
@@ -110,7 +106,7 @@ Dell/ZDNET
 * [Acer Predator X45 45-inch curved monitor](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fp%252FN82E16824011463): $1200 (save $400)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When is Black Friday 2023?
@@ -118,6 +114,10 @@ Dell/ZDNET
 In the United States, the popular shopping day known as Black Friday takes place the day after Thanksgiving. This year, Black Friday will be November 24\. And if you aren't able to keep an eye on digital sales events or make it to a store in person: many retailers like [Amazon](https://www.zdnet.com/home-and-office/the-best-early-black-friday-2023-amazon-deals/), [Best Buy](https://www.zdnet.com/home-and-office/the-best-early-best-buy-black-friday-2023-deals/), and Walmart extend sales and deals events through the weekend and into the Monday or even Tuesday after Thanksgiving. This is typically known as the Cyber 5 event, with each day having a loose theme for sales purposes: Black Friday, Small Business Saturday (for shopping at local stores), Cyber Sunday/Monday (focusing on internet retailers like Amazon), and Giving Tuesday (focusing on charitable donations). 
 
 Newegg is running their Black Friday sales event through November 25th, backed by their Black Friday price guarantee to automatically refund you the difference if the price drops on what you bought before the 25th.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How did we choose these early Black Friday deals?
 
@@ -129,13 +129,13 @@ We also looked over customer reviews to find out what matters to real people who
 
  My choice for the [best gaming PC](https://www.zdnet.com/home-and-office/home-entertainment/best-gaming-pc/) is the Alienware Aurora R15 for its liquid cooling system, dual storage drives, and range of configuration options. You can create your own build with either an Intel or AMD-based chipset, and with up to an RTX 4080 graphics card for all the power you need to play the latest triple-A PC games. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Does Newegg have a Black Friday price guarantee?
 
 Newegg launched their [Black Friday price guarantee](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.newegg.com%2Fpromotions%2Fnepro%2F23-1613%2Findex.html%23%3A%7E%3Atext%3DThe%2520Program%2520guarantees%2520that%2520our%2Cthrough%2520Nov.%252016%252C%25202023.) policy back in 2021, which applies to products sold and shipped by Newegg themselves. Products that are eligible for the program have a special badge on their store page, guaranteeing that you're getting the best price. And if the price drops before Black Friday, Newegg will automatically refund you the difference. No claim ticket or price tracking necessary. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the best early Black Friday deals right now?
 
@@ -203,20 +203,16 @@ ZDNET's experts have been searching for early Black Friday deals across sites li
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-updates.techidaily.com/a-top-pick-ultraportable-notebook-the-ideal-companion-for-digital-nomads-pcmag/"><u>A Top-Pick Ultraportable Notebook: The Ideal Companion for Digital Nomads | PCMag</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amazon-now-offering-zdnet-top-picks-at-a-sweet-deal-save-500-before-october-prime-day-check-out-the-list/"><u>Amazon Now Offering ZDNet Top Picks at a Sweet Deal: Save $500 Before October Prime Day – Check Out the List!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/bargain-hunters-gem-snag-a-30-discount-on-the-durable-anker-er-737-power-bank-deals-curated/"><u>Bargain Hunter’s Gem: Snag a $30 Discount on the Durable Anker Er 737 Power Bank | Deals Curated</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-best-5-apps-for-making-new-friends-easily/"><u>Discover the Best 5 Apps for Making New Friends Easily</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/gpt-4-in-action-unveiling-how-these-7-cutting-edge-applications-are-leveraging-its-capabilities/"><u>GPT-4 in Action: Unveiling How These 7 Cutting-Edge Applications Are Leveraging Its Capabilities</u></a></li>
-<li><a href="https://win-trending.techidaily.com/how-to-ensure-your-gpu-works-with-your-mainboard-a-guide-from-yl-software-solutions/"><u>How to Ensure Your GPU Works with Your Mainboard: A Guide From YL Software Solutions</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-10plus-best-free-webcam-software-for-windows-10/"><u>In 2024, 10+ Best Free Webcam Software for Windows 10</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-earnings-explosion-boosting-your-youtube-channels-income-via-mobile/"><u>In 2024, Earnings Explosion Boosting Your YouTube Channel's Income via Mobile</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/ipad-air-4-versus-galaxy-tab-s7plus-which-premium-tablet-reigns-supreme/"><u>IPad Air 4 Versus Galaxy Tab S7+ - Which Premium Tablet Reigns Supreme?</u></a></li>
-<li><a href="https://driver-download.techidaily.com/obtaining-and-installing-the-newest-canon-mx490-driver-for-windows-117/"><u>Obtaining and Installing the Newest Canon MX490 Driver for Windows 11/7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/snag-your-bargain-today-metas-quest-3-with-512gb-storage-tops-october-prime-deals-exclusive-insight/"><u>Snag Your Bargain Today! Meta’s Quest 3 with 512GB Storage Tops October Prime Deals – Exclusive Insight.</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-asus-rog-flow-x13-an-expert-evaluation-of-its-sizable-display-amidst-other-tradeoffs/"><u>The ASUS ROG Flow X13: An Expert Evaluation of Its Sizable Display Amidst Other Tradeoffs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-touchscreen-laptop-picks-in-depth-analysis-and-ratings-techradar/"><u>Top-Rated Touchscreen Laptop Picks: In-Depth Analysis and Ratings | TechRadar</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unboxing-lenovo-thinkpad-x1-fold-a-curious-blend-of-playful-innovation-and-premium-pricing-explored/"><u>Unboxing Lenovo ThinkPad X1 Fold: A Curious Blend of Playful Innovation & Premium Pricing Explored</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unparalleled-display-quality-meets-exceptional-deal-discover-this-thin-and-light-laptop-at-a-steal-zdnet/"><u>Unparalleled Display Quality Meets Exceptional Deal - Discover This Thin & Light Laptop at a Steal! | ZDNet</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-tailored-interventions-for-2024/"><u>[New] Tailored Interventions for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-quiet-curator-of-online-chronicles-for-2024/"><u>[Updated] Quiet Curator of Online Chronicles for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlocking-screen-clarity-advanced-zoom-techniques/"><u>[Updated] Unlocking Screen Clarity Advanced Zoom Techniques</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-effortless-integration-uploading-and-showcasing-imovie-videos-to-vimeo/"><u>2024 Approved Effortless Integration Uploading and Showcasing iMovie Videos to Vimeo</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/broadcom-bluetooth-driver-downloads-for-enhanced-connectivity-in-windows-11-8-and-tldr7/"><u>Broadcom Bluetooth Driver Downloads for Enhanced Connectivity in Windows 11, 8 & Tldr;7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-epson-stylus-nx420-printer-driver-for-windows-7-8-and-10-latest-version/"><u>Download Epson Stylus NX420 Printer Driver for Windows 7, 8 & 10 - Latest Version</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-installer-asus-screen-drivers-get-them-now/"><u>Easy Installer: ASUS Screen Drivers - Get Them Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-iphone-se-2020-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your iPhone SE (2020) Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/izing-impact-with-customized-youtube-audiences/"><u>Maximizing Impact with Customized Youtube Audiences</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/streamlined-mpow-bluetooth-driver-update-and-installation-guide-for-windows-users-11-8-and-7/"><u>Streamlined MPOW Bluetooth Driver Update & Installation Guide for Windows Users (11, 8, and 7)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-essential-guide-to-8-premium-free-roku-channels-2024-edition/"><u>The Essential Guide to 8 Premium Free Roku Channels - 2024 Edition</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Big Unveilings at CES 2023 Day 3: Special Focus on HTC, Google Announcements, and Top Industry Stories | ZDNET"
-date: 2025-01-07T19:32:43.600Z
-updated: 2025-01-12T21:23:37.384Z
+date: 2025-01-16T18:11:54.232Z
+updated: 2025-01-18T20:14:42.774Z
 tags:
   - laptops
 categories:
@@ -39,6 +39,10 @@ Cons
 * Poor battery
 * Limited charging
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Razer Blade 17
 
 ### Best gaming laptop overall
@@ -65,6 +69,10 @@ Pros
 Cons 
 * Not so portable
 * Loud fans
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Acer Nitro 5
 
@@ -95,10 +103,6 @@ Cons
 
 ## Asus ROG Zephyrus G14
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best ultra-portable gaming laptop
 
 **Asus ROG Zephyrus G14 specs: Processor:** AMD Ryzen 9 8945HS | **Screen size:** 14 inches | **Graphics:** Nvidia GeForce RTX 4060 GPU | **Operating system:** Windows 11 Home
@@ -123,14 +127,10 @@ Cons
 * Plastic construction
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## HP Victus 15
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best HP gaming laptop
 
@@ -157,6 +157,10 @@ Cons
 * Expensive
 * Very heavy
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## MSI GT77 Titan
 
 ### Best 17-inch gaming laptop
@@ -170,10 +174,6 @@ It starts with a super-fast 13th-Generation Intel Core i9-13980HX processor. Fro
 The NVIDIA GeForce RTX 4080 graphics card will do your games justice and works in hand with the Cherry MX Ultra Low Profile mechanical keyboard. Connectivity is great with options for Thunderbolt 4 and USB-Type C ports. Meanwhile, MSI OverBoost Ultra technology pushes for maximum performance while preventing overheating through its Cooler Boost Titan system. 
 
 Show Expert Take Show less 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is the best gaming laptop?
 
@@ -203,10 +203,6 @@ That's where I can help. Before you buy the best gaming laptop, consider these s
 | HP Victus 15                     | A popular gaming laptop with a clear 1080p display and wide-viewing panels. The battery also lasts up to eight hours.                                               |
 | MSI GT77 Titan                   | A powerhouse gaming laptop with market-leading mini-LED display technology and an upgraded i9 processor.                                                            |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How did I choose these gaming laptops?
 
 Before you buy a gaming laptop, take a moment to reflect on these considerations.
@@ -217,7 +213,7 @@ Before you buy a gaming laptop, take a moment to reflect on these considerations
 * **Price:** The cost of a good gaming laptop can vary significantly, with the difference ranging several thousands of dollars. Things like your processor, graphics card, and memory can all impact the price, so keep these things in mind when shopping. To help give you an idea of what to expect, we found that the best gaming laptops range from $650 to more than $3,800 in price.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which brand is best for gaming laptops?
@@ -227,6 +223,10 @@ When shopping for gaming laptops, you will find that there are many options avai
 ## Can you buy a gaming laptop for $1,000?
 
 It is easy to spend several thousand dollars on a gaming laptop, but it is possible to find a great gaming[laptop under $1,000](https://www.zdnet.com/article/best-laptop-under-1000/) when you are on a budget. With the Acer Nitro 5 and HP Victus 15 priced around $650, you can easily purchase a quality laptop under $1,000 without sacrificing key features. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How much RAM do I need in a gaming laptop?
 
@@ -280,17 +280,17 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-emotionally-enhanced-youtube-commentary-for-2024/"><u>[New] Emotionally-Enhanced YouTube Commentary for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-adapt-video-ratios-through-web-interface/"><u>[Updated] Adapt Video Ratios Through Web Interface</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-top-asmr-sounds-promoting-deep-sleep/"><u>2024 Approved Top ASMR Sounds Promoting Deep Sleep</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/in-2024-your-next-favorite-youtuber-might-be-just-a-test-away-six-categories-explored/"><u>In 2024, Your Next Favorite YouTuber Might Be Just a Test Away Six Categories Explored</u></a></li>
-<li><a href="https://win-blog.techidaily.com/preventing-darkest-dungeon-2-pc-instability-and-sudden-closes-a-complete-guide/"><u>Preventing Darkest Dungeon 2 PC Instability and Sudden Closes: A Complete Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/scorching-deal-alert-snag-your-85-inch-tcl-television-for-25-less-labor-day-countdown-begins-find-exclusive-offers-on-zdnet/"><u>Scorching Deal Alert: Snag Your 85-Inch TCL Television for 25% Less - Labor Day Countdown Begins | Find Exclusive Offers on ZDNET</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/score-unbeatable-prime-day-bargains-get-your-samsung-frame-tv-at-40-off-shop-now-for-top-deals/"><u>Score Unbeatable Prime Day Bargains: Get Your Samsung Frame TV at 40% Off - Shop Now for Top Deals!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/security-updates-rolled-out-in-new-apple-ios-1ve-651-release-exclusive-details-on-zdnet/"><u>Security Updates Rolled Out in New Apple iOS 1Ve-6.5.1 Release | Exclusive Details on ZDNET</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/struggling-with-muffled-dialogues-on-your-tv-discover-3-essential-tips-for-crystal-clear-audio-plus-2-bonus-free-solutions/"><u>Struggling with Muffled Dialogues on Your TV? Discover 3 Essential Tips for Crystal Clear Audio - Plus 2 Bonus Free Solutions!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-iconic-japanese-brand-panasonic-unveils-three-cutting-edge-problem-write-an-equation-for-the-following-statement-and-then-solve-it-a-number-added-to-its236/"><u>The Iconic Japanese Brand Panasonic Unveils Three Cutting-Edge # Problem: Write an Equation for the Following Statement and Then Solve It: A Number Added to Itself Plus Four Times the Same Number Equals 90. What Is the Original Number?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-methods-for-catching-nfl-games-in-real-time-tips-and-tricks-from-zdnet/"><u>The Ultimate Methods for Catching NFL Games in Real Time - Tips & Tricks From ZDNet!</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/be-video-creation-secrets-of-the-professionals-unveiled/"><u>YouTube Video Creation Secrets of the Professionals Unveiled</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-innovations-arena-top-titles-for-each-vr-headset/"><u>[Updated] In 2024, Innovation's Arena Top Titles for Each VR Headset</u></a></li>
+<li><a href="https://blog-min.techidaily.com/dvd-mp3aac/"><u>「無料のDVDからオーディオを取り出せる最高のソフトウェアランキング - MP3/AACへ簡単変換」</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ogmvob-movavi/"><u>線上無障礙的OGM到VOB換格器服務 – Movavi提供支持</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/explore-lenovos-latest-upgrades-to-the-thinkpad-x1-series-a-comprehensive-review-by-zdnet/"><u>Explore Lenovo's Latest Upgrades to the ThinkPad X1 Series: A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/fcp-voice-over-essentials-mastering-the-basics/"><u>FCP Voice Over Essentials Mastering the Basics</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-samsung-galaxy-a54-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Samsung Galaxy A54 5G</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-google-pixel-8-pro-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Google Pixel 8 Pro via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/pro-video-tech-selecting-advanced-recording-software/"><u>Pro Video Tech Selecting Advanced Recording Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/tech-horizons-explored-insights-on-future-gadgets-with-samsungs-latest-offerings-galaxy-s23-and-flip-3-pro-analysis/"><u>Tech Horizons Explored: Insights on Future Gadgets with Samsung's Latest Offerings, Galaxy S23 and Flip 3 Pro | Analysis</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-verdict-on-acers-chromebook-516ge-for-cloud-gamers-expert-reviews-by-zdnet/"><u>The Ultimate Verdict on Acer's Chromebook ^516GE for Cloud Gamers | Expert Reviews by ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-the-best-lenovo-notebooks-in-202-in-depth-analysis-and-comparisons/"><u>Ultimate Guide to the Best Lenovo Notebooks in 202지 - In-Depth Analysis and Comparisons</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Vivo V30? | Dr.fone</u></a></li>
 </ul></div>
 

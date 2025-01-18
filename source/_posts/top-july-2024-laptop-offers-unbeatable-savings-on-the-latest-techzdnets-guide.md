@@ -1,7 +1,7 @@
 ---
 title: Top July 2024 Laptop Offers - Unbeatable Savings on the Latest Tech![ZDNet's Guide]
-date: 2025-01-10T19:29:03.803Z
-updated: 2025-01-12T17:46:56.860Z
+date: 2025-01-11T17:37:54.281Z
+updated: 2025-01-18T19:30:00.447Z
 tags:
   - laptops
 categories:
@@ -111,10 +111,6 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 [ASUS ROG Strix Scar 15 gaming laptop deal for $1749 (save $250) $1,749 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09RMW1L7Y%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7416397a-03d3-4af7-ac08-8fcae75ad900%7Cdtp&dtb=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Walmart laptop deals
 
 [ASUS Vivobook 16-inch laptop deal for $499 (save $200) $499 at Walmart](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FASUS-Vivobook-16-PC-Laptop-Intel-Core-i7-1255U-16GB-512GB-Win-11-Home-Black-F1605ZA-WS74%2F5023779612&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
@@ -137,10 +133,6 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 [ASUS Zenbook 14-inch OLED touchscreen laptop deal for $1,300 (save $200) $1,300 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-zenbook-14-120hz-oled-touch-laptop-evo-intel-13-gen-core-i9-with-32gb-memory-nvidia-geforece-rtx-3050-1tb-ssd-gray%2F6548463.p%3FskuId%3D6548463&publisher_slug=itechdaily19598&exclusive=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Apple MacBook deals
 
 [Apple MacBook Air, 15-inch, M2 chip, 1TB deal for $1,599 (save $300) $1,599 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-macbook-air-15-laptop-m2-chip-16gb-memory-1tb-ssd-midnight%2F6382794.p%3FskuId%3D6382794&publisher%5Fslug=zdnet&article%5Fname=the%20best%20laptop%20deals%20of%20july%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
@@ -154,7 +146,7 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 [Apple MacBook Air, 2023, refurbished, 13.3-inch deal for $340 (save $660) $340 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-geek-squad-certified-refurbished-macbook-air-13-3-display-intel-core-i5-8gb-memory-128gb-flash-storage-silver%2F6530194.p&publisher%5Fslug=zdnet&article%5Fname=the%20best%20laptop%20deals%20of%20july%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How did we choose these laptop deals?
@@ -169,6 +161,10 @@ When compiling the list of the best deals, we considered the following:
 * **Features**: We included a range of laptops with features sure to appeal to you, including different screen sizes, processors, memory options, and storage. Furthermore, these laptops include varying levels of security, parental lock options, and display resolutions.
 * **Use cases**: At ZDNET, we also took into account different use cases. You might be in the market for a budget-friendly, basic laptop for a child, for example, or you may need a future-proof laptop suitable for work. Or, it might be a gaming device you're after. So, we have compiled a set of recommendations based on different purposes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What specifications do I need to look for in a laptop?
 
 The right specs depend on your needs and how you intend to use your new laptop -- whether for gaming, studies, video calling, or simply daily internet surfing. We break it down for you below:
@@ -179,16 +175,12 @@ The right specs depend on your needs and how you intend to use your new laptop -
 * **RAM**: In conjunction with the CPU, RAM is used to help the computer multi-task and is vital to running programs. ZDNET expert Adrian Kingsley-Hughes breaks down [RAM needs here](https://www.zdnet.com/article/how-much-ram-does-your-windows-10-pc-need/), but at minimum, especially for working, you should opt for around 8GB, and gamers will potentially want more.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Do I need a gaming laptop or a "regular" laptop?
 
 Again, it depends on your needs. Those who _aren't_ gamers can opt for a regular laptop with high specs, but content creators or those who work with heavy editing software should opt for a designer's laptop or a gaming laptop. Not because, of course, you want to have the best gaming specs on the side, but because those laptops come with powerful CPUs, GPUs, and high RAM to handle the heavy requirements that software needs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How much should I pay for a good laptop?
 
@@ -196,9 +188,17 @@ When you're considering your budget for a new laptop, you have to consider what 
 
 If you're a gamer who needs a high-spec laptop with a decent graphics card, top-of-the-range display and high refresh rate, you should expect to pay more than $500 - $600 -- and potentially beyond $1,000\. However, if you need a laptop for basic tasks, studying, and streaming, you can easily get away with a basic laptop for a few hundred dollars. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What are the best deals right now?
 
 ZDNET experts split out the latest and greatest deals for you below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best deals by retailer
 
@@ -257,24 +257,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-zoom-class-chronicling/"><u>[New] In 2024, Zoom Class Chronicling</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-punpals-create-hilarious-memes-now/"><u>[Updated] In 2024, PunPals - Create Hilarious Memes Now</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-apple-iphone-15-plus-without-a-passcode-drfone-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your Apple iPhone 15 Plus Without a Passcode | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amazons-8tb-samsung-t5-drive-remains-36-cheaper-post-prime-day-insights-from-zdnet/"><u>Amazon's 8TB Samsung T5 Drive Remains 36% Cheaper Post-Prime Day - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/behind-closed-doors-how-microsofts-revolutionary-chip-could-outshine-the-iconic-macbook-zdnet-report/"><u>Behind Closed Doors: How Microsoft's Revolutionary Chip Could Outshine the Iconic MacBook | ZDNET Report</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/facebook-fb-upload-strategies-for-mobile-and-desktop-for-2024/"><u>Facebook FB Upload Strategies for Mobile & Desktop for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-a-discounted-acer-nitro-5-for-your-gaming-needs-save-250-deal/"><u>Get a Discounted Acer Nitro 5 for Your Gaming Needs | Save $250 Deal!</u></a></li>
-<li><a href="https://fox-links.techidaily.com/harmonyhub-combining-ios-and-macos-photo-videos/"><u>HarmonyHub Combining iOS & macOS Photo-Videos</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-12-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 12 to other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-5-solutions-for-poco-m6-5g-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Poco M6 5G Unlock Without Password</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-2020-without-passcode-by-drfone-ios/"><u>In 2024, How to Unlock iPhone SE (2020) Without Passcode?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/last-opportunity-snap-up-stellar-game-discounts-on-best-prime-days-of-october-2024-save-big-with-max-1k-off/"><u>Last Opportunity: Snap Up Stellar Game Discounts on Best Prime Days of October 2024 – Save Big with Max $1K Off!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/still-on-sale-top-bargains-of-amazon-prime-day-2024-in-october-techradar/"><u>Still on Sale - Top Bargains of Amazon Prime Day 2024 in October | TechRadar</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-5-exciting-new-copilotplus-powered-laptops-unveiled-at-ifa-202n4-featuring-a-special-selection-for-gamers/"><u>Top 5 Exciting New Copilot+ Powered Laptops Unveiled at IFA 202N4, Featuring a Special Selection for Gamers</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/top-8-mobile-mosaics-best-blend-of-affordable-and-premium-android-videomosaic-apps-for-2024/"><u>Top 8 Mobile Mosaics Best Blend of Affordable and Premium Android Videomosaic Apps for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-highlights-from-ces-2024-expert-recommendations-analysts/"><u>Top Highlights From CES 2024: Expert Recommendations Analysts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-picks-the-ultimate-guide-to-choosing-the-perfect-lightweight-laptop-for-effortless-remote-working/"><u>Top Picks: The Ultimate Guide to Choosing the Perfect Lightweight Laptop for Effortless Remote Working</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/triple-display-setup-made-simple-how-the-ugreen-dock-enhances-your-m1-mac-experience-zdnet-guide/"><u>Triple Display Setup Made Simple: How the Ugreen Dock Enhances Your M1 Mac Experience - ZDNet Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/zdnets-insider-tip-score-the-samsung-odyssey-neo-g8-at-a-steep-550-off-limited-time-offer-from-best-buy-for-prime-shoppers/"><u>ZDNET's Insider Tip: Score the Samsung Odyssey Neo G8 at a Steep $550 Off - Limited Time Offer From Best Buy for Prime Shoppers!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-easy-tutorial-uploading-youtube-shorts-video-via-computer-and-phone/"><u>[New] In 2024, Easy Tutorial Uploading YouTube Shorts Video via Computer & Phone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-million-viewer-milestone-and-associated-income-levels/"><u>[Updated] 2024 Approved Million-Viewer Milestone and Associated Income Levels</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-stages-of-change-for-2024/"><u>[Updated] Stages of Change for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-syncing-sonata-to-still-images-in-the-cyberrealm/"><u>[Updated] Syncing Sonata to Still Images in the Cyberrealm</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-transforming-spaces-the-art-of-metaphysical-marketing/"><u>[Updated] Transforming Spaces The Art of Metaphysical Marketing</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/arbitration-awards-are-final-and-binding-meaning-there-is-typically-no-avenue-for-appeal-which-can-lead-to-quicker-resolution-compared-to-court-judgments/"><u>Arbitration Awards Are Final and Binding, Meaning There Is Typically No Avenue for Appeal, Which Can Lead to Quicker Resolution Compared to Court Judgments</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/can-you-rely-on-windows-defender-alone-for-robust-antivirus-protection-expert-insights-from-yl-computing/"><u>Can You Rely on Windows Defender Alone for Robust Antivirus Protection? Expert Insights From YL Computing</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/diagnosing-and-repairing-non-detectable-tl-wn722n-wireless-card-under-windows-os/"><u>Diagnosing and Repairing Non-Detectable TL-WN722N Wireless Card Under Windows OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722970942947-download-the-latest-hp-deskjet-2652-printer-drivers-compatible-with-windows-11-10-8-and-7/"><u>Download the Latest HP Deskjet 2652 Printer Drivers Compatible with Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-installation-arduino-mega-2560-software-drivers-available-here/"><u>Effortless Installation: Arduino Mega 2560 Software Drivers Available Here!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/elevate-your-virtual-racetrack-with-logitechs-premium-momo-steering-wheel-downloading-drivers-made-simple/"><u>Elevate Your Virtual Racetrack with Logitech's Premium MOMO Steering Wheel - Downloading Drivers Made Simple</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-7-to-other-iphone-11-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 7 To Other iPhone 11 devices? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/kyocera-printer-drivers-download-and-install-for-windows/"><u>KYOCERA Printer Drivers Download and Install for Windows</u></a></li>
+<li><a href="https://driver-download.techidaily.com/solving-the-problem-of-unresponsive-logitech-g433-microphones/"><u>Solving the Problem of Unresponsive Logitech G433 Microphones</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/the-ultimate-guide-to-selling-ad-space-on-your-blog-via-buysellads/"><u>The Ultimate Guide to Selling Ad Space on Your Blog via BuySellAds</u></a></li>
 </ul></div>
 

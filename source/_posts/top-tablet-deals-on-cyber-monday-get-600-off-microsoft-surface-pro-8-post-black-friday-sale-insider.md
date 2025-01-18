@@ -1,7 +1,7 @@
 ---
 title: "Top Tablet Deals on Cyber Monday: Get $600 Off Microsoft Surface Pro 8 Post-Black Friday Sale Insider"
-date: 2025-01-12T00:47:01.945Z
-updated: 2025-01-12T20:01:12.825Z
+date: 2025-01-11T20:11:37.340Z
+updated: 2025-01-18T19:21:36.281Z
 tags:
   - laptops
 categories:
@@ -32,7 +32,7 @@ The lowest price point available is $799 for a platinum model with an Intel Evo 
 **Read on:** [Microsoft Surface Pro 8 for Business review: Still in love](https://www.zdnet.com/article/microsoft-surface-pro-8-for-business-review/) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -77,19 +77,22 @@ ZDNET is also keeping an eye out for other tablet deals on the market in the run
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-a-closer-examination-the-finest-mac-recording-software/"><u>[New] A Closer Examination The Finest Mac Recording Software</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-swift-and-simple-acquiring-itunes-radio-episodes/"><u>[Updated] In 2024, Swift and Simple Acquiring iTunes Radio Episodes</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-iphone-hdr-techniques-and-tips/"><u>[Updated] The Ultimate Guide to iPhone HDR Techniques & Tips</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/2024s-elite-selection-of-85-inch-tvs-ranked-and-analyzed-professional-expert-reviews-you-can-trust-pcmag/"><u>2024'S Elite Selection of 85-Inch TVs Ranked & Analyzed: Professional Expert Reviews You Can Trust | PCMag</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723009193597-corrupted-game-files-heres-how-to-repair-and-get-back-into-the-action-by-2024/"><u>Corrupted Game Files? Here's How to Repair and Get Back Into the Action by 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ensure-that-the-words-algorithm-chest-x-rays-and-oxford-university-are-included-in-separate-lines-within-the-poem-maintaining-their-original-context-but-rei238/"><u>Ensure that the Words Algorithm, Chest X-Rays, and Oxford University Are Included in Separate Lines Within the Poem, Maintaining Their Original Context but Reinterpreted Astrologically.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exclusive-top-tv-discounts-awaiting-you-this-labor-day-2n4-dont-miss-out-on-these-spectacular-savings-for-mature-audiences/"><u>Exclusive: Top TV Discounts Awaiting You This Labor Day 2N4! Don't Miss Out on These Spectacular Savings for Mature Audiences</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-what-to-do-when-your-pc-runs-on-windows-11-and-crashes/"><u>Expert Advice: What to Do When Your PC Runs on Windows 11 and Crashes</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/leading-free-internet-phone-calls-software-ranked-you-cant-miss/"><u>Leading Free Internet Phone Calls Software Ranked You Can't Miss</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/maximizing-value-expert-tips-for-elevating-the-cheapest-98-inch-tv-to-elite-quality/"><u>Maximizing Value: Expert Tips for Elevating the Cheapest 98-Inch TV to Elite Quality!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/must-watch-tv-series-and-films-on-hulu-disneyplus-and-more-this-march-our-expert-guide-by-zdnet/"><u>Must-Watch TV Series and Films on Hulu, Disney+, and More This March: Our Expert Guide by ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigate-the-future-of-television-with-our-pros-guide-to-premium-32-inch-screens-zdnet-insights/"><u>Navigate the Future of Television with Our Pros' Guide to Premium 32-Inch Screens | ZDNET Insights</u></a></li>
-<li><a href="https://win11.techidaily.com/seamless-typography-across-languages-on-windows-pcs/"><u>Seamless Typography Across Languages on Windows PCs</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-updating-your-windows-10-hardware-drivers-easily/"><u>Step-by-Step Guide: Updating Your Windows 10 Hardware Drivers Easily</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-comprehensive-guide-to-youtube-video-editing-tools-for-2024/"><u>[Updated] Comprehensive Guide to YouTube Video Editing Tools for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-discover-the-leading-free-srt-translators-of-today-for-2024/"><u>[Updated] Discover the Leading Free SRT Translators of Today for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-embrace-the-vivid-world-editing-and-viewing-hd-with-windows-hdr/"><u>[Updated] In 2024, Embrace the Vivid World Editing & Viewing HD with Windows HDR</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-techniques-for-smoothing-meetings-backgrounds-in-teams/"><u>[Updated] In 2024, Techniques for Smoothing Meetings' Backgrounds in Teams</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/apples-upcoming-october-unveiling-anticipating-the-m4-mac-mini-latest-ipad-models-and-advancements-in-ai/"><u>Apple's Upcoming October Unveiling: Anticipating the M4 Mac Mini, Latest iPad Models & Advancements in AI</u></a></li>
+<li><a href="https://win-popular.techidaily.com/boost-your-music-library-management-with-pcdj-and-songbookdb-start-for-free/"><u>Boost Your Music Library Management with PCDJ & SongbookDB - Start for Free!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-is-personal-data-at-risk/"><u>ChatGPT: Is Personal Data at Risk?</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/ensuring-safety-while-acquiring-no-cost-vlc-player-for-mac-os-for-2024/"><u>Ensuring Safety While Acquiring No-Cost VLC Player for Mac OS for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-a-new-rtx-eby9baefc4f-8b15-49d3-a6c4-e9c21d1d8bb0-exclusive-220-discount-now-tech-deals-at-zdnet/"><u>Get a New RTX Eby_9baefc4f-8b15-49d3-A6c4-E9c21d1d8bb0! Exclusive $220 Discount Now | Tech Deals at ZDNET!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ideal-thinkpad-for-the-modern-hybrid-professional-a-look-beyond-lenovos-latest-laptop/"><u>Ideal ThinkPad for the Modern Hybrid Professional: A Look Beyond Lenovo's Latest Laptop</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-pro-freefire-compiling-premier-gaming-vids-and-hashtags/"><u>In 2024, Pro-FreeFire Compiling Premier Gaming Vids and Hashtags</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/revolutionize-your-charging-experience-with-the-140w-multi-device-companion-now-available/"><u>Revolutionize Your Charging Experience with the 140W Multi-Device Companion - Now Available!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/snag-a-stellar-bargain-for-creative-professionals-get-500-off-the-ideal-monitor-for-photo-and-video-editing-exclusive-offer-from-samsung/"><u>Snag a Stellar Bargain for Creative Professionals: Get $500 Off the Ideal Monitor for Photo & Video Editing - Exclusive Offer From Samsung !</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/testing-the-honor-magicbook-14-the-best-budget-14inch-laptop-with-dedicated-gpu-for-productivity/"><u>Testing the Honor MagicBook 14 - The Best Budget 14Inch Laptop with Dedicated GPU for Productivity</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/transform-your-laptop-into-a-powerhouse-the-ultimate-discreet-docking-station-reviewed-by-tech-expert-zdnet/"><u>Transform Your Laptop Into a Powerhouse: The Ultimate Discreet Docking Station Reviewed by Tech Expert - ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-choosing-the-perfect-graphics-workstation-pc-industry-insights-from-experts-cnet-review/"><u>Ultimate Guide to Choosing the Perfect Graphics Workstation PC: Industry Insights From Experts | CNET Review</u></a></li>
+<li><a href="https://driver-download.techidaily.com/updated-and-optimized-driver-packages-for-hp-designjet-7800-series/"><u>Updated & Optimized Driver Packages for HP Designjet 7800 Series</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Explore the Year's Finest Tech Marvels: Leading Gizmos and Tools of 2E23 Spotlighted by ZDNet"
-date: 2025-01-02T23:00:05.427Z
-updated: 2025-01-05T20:36:59.006Z
+date: 2025-01-13T16:21:33.129Z
+updated: 2025-01-18T17:59:15.580Z
 tags:
   - laptops
 categories:
@@ -31,7 +31,7 @@ Because AI tasks that run locally on a PC are typically executed by the CPU (cen
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### User requirements remain focused on hybrid work
@@ -69,7 +69,7 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -81,7 +81,7 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -134,16 +134,16 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-how-to-overlay-photos-on-computer-desktop-and-online/"><u>[Updated] 2024 Approved How to Overlay Photos on Computer (Desktop & Online)</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-metaversal-journey-versus-omniverse-quest/"><u>2024 Approved Metaversal Journey Versus Omniverse Quest</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/asus-pce-ac56-driver-issues-in-windows-1087-solved/"><u>ASUS PCE-AC56 Driver Issues in Windows 10/8/7 [SOLVED]</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-your-apple-iphone-xr-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From your Apple iPhone XR</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-tutorial-on-acquiring-asus-atk01-00-acpi-drivers/"><u>Comprehensive Tutorial on Acquiring ASUS ATK01 00 ACPI Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-official-nvidia-geforce-rtx-3070-ti-drivers-compatible-with-windows-1087/"><u>Download Official NVIDIA GeForce RTX 3070 Ti Drivers Compatible with Windows 10/8/7</u></a></li>
-<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-oneplus-nord-n30-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your OnePlus Nord N30 5G Location Settings | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-hp-laserjet-p1007-drivers-install-guide-get-your-printer-running-smoothly/"><u>Latest HP LaserJet P1007 Drivers Install Guide - Get Your Printer Running Smoothly!</u></a></li>
-<li><a href="https://games-able.techidaily.com/screen-and-sanctuary-packing-essentials-for-travel-gamers/"><u>Screen & Sanctuary: Packing Essentials for Travel Gamers</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/tailoring-youtube-video-sharing-preferences/"><u>Tailoring YouTube Video Sharing Preferences</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-0x80072efd-problem-on-your-pc-with-windows-10/"><u>Troubleshooting the 0X80072EFD Problem on Your PC with Windows 10</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-convert-any-instagram-video-in-minutes-best-free-tools-windowsmac/"><u>[Updated] Convert Any Instagram Video in Minutes Best Free Tools (Windows/Mac)</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/chuckles-on-the-clouds-designing-hits-for-fb-and-instagram-meme-culture/"><u>Chuckles on the Clouds Designing Hits for FB & Instagram Meme Culture</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-fix-the-apple-iphone-11-pro-gps-not-working-issue-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix the Apple iPhone 11 Pro GPS not Working Issue | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installation-guide-epson-ds-530-driver-on-windows-11-64-bit-version/"><u>Installation Guide: Epson DS- 530 Driver on Windows 11 (64-Bit Version)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/premium-picks-where-to-grab-classical-ringtones/"><u>Premium Picks Where to Grab Classical Ringtones</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolve-elgato-hd60-control-board-problems-fast-a-simple-guide/"><u>Resolve Elgato HD60 Control Board Problems Fast: A Simple Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-fetching-and-setting-up-broadcoms-bluetooth-driver-for-windows-11-8-or-7/"><u>Step-by-Step Tutorial: Fetching & Setting up Broadcom's Bluetooth Driver for Windows 11, 8, or 7</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-gaming-rig-the-newly-released-minisforums-lightweight-laptop-with-a-stunning-156-screen-144hz-refresh-rate-and-ultra-hd-resolution-at-unbelie71/"><u>Transform Your Gaming Rig: The Newly Released Minisforum's Lightweight Laptop with a Stunning 15.6 Screen, 144Hz Refresh Rate & Ultra HD Resolution at Unbelievable Price of $189</u></a></li>
+<li><a href="https://games-able.techidaily.com/unwind-to-top-10-blissful-free-mobile-gaming-titles/"><u>Unwind to Top 10 Blissful Free Mobile Gaming Titles</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upgrade-to-windows-11-8-or-7-get-the-perfect-match-brother-mfc-7360n-printer-drivers-installed-in-a-flash/"><u>Upgrade to Windows 11, 8, or 7? Get the Perfect Match: Brother MFC-7360N Printer Drivers Installed in a Flash</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/windows-users-get-the-new-creative-webcam-drivers-and-ensure-seamless-video-calls-and-recording/"><u>Windows Users! Get the New Creative Webcam Drivers and Ensure Seamless Video Calls & Recording</u></a></li>
 </ul></div>
 

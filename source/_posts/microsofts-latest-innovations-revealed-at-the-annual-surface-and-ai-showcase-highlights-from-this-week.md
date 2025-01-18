@@ -1,7 +1,7 @@
 ---
 title: "Microsoft's Latest Innovations Revealed at the Annual Surface and AI Showcase: Highlights From This Week"
-date: 2025-01-10T20:55:36.428Z
-updated: 2025-01-13T02:58:04.758Z
+date: 2025-01-14T16:51:14.982Z
+updated: 2025-01-18T19:47:38.281Z
 tags:
   - laptops
 categories:
@@ -25,7 +25,7 @@ After months of [speculation](https://www.zdnet.com/article/microsofts-october-1
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Featured
@@ -42,7 +42,7 @@ Here's everything that the company announced during its October event.
 **Also: [How did Microsoft manage to get it right with Surface?](https://www.zdnet.com/article/how-did-microsoft-manage-to-get-it-right-with-surface/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Surface Laptop 5 gets a splash of color
@@ -62,7 +62,7 @@ What's different about the new Surface Laptop starts with the 12th-generation In
 The Surface Laptop 5 will be available in select markets beginning on Oct. 25 with a [starting price of $999](https://www.microsoft.com/en-us/store/configure/Surface-Laptop-5/8XN49V61S1BN?) for the i5, 8GB of RAM, and 256GB model. The laptop will be available in classic Platinum, Black, and Sandstone colorways, as well as a new leafy "Sage" option. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Goodbye Surface Pro X, hello Surface Pro 9
@@ -83,6 +83,10 @@ Not-so-big news: The rest is a standard Surface Pro affair; 2-in-1 design with a
 
 As far as pricing goes, the Intel-based Surface Pro 9 starts at [$999](https://www.microsoft.com/en-us/store/configure/Surface-Pro-9/93VKD8NP4FVK?) (i5, 8GB RAM, 128GB), and the ARM-based model starts at [$1,299](https://www.microsoft.com/en-us/store/configure/Surface-Pro-9/93VKD8NP4FVK?) (SQ3, 8GB RAM, 128GB). The former comes in Platinum, Graphite, Forest, and Sapphire, while the latter only comes in Platinum. Preorders start today. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The aptly-named Surface Studio 2+
 
 The Surface Studio 2+ looks nearly identical to the Surface Studio 2.
@@ -97,10 +101,6 @@ For all the performance gains that you're getting, Microsoft is making you pay t
 
 [Buy the Surface Studio 2+ View now at Microsoft](https://www.microsoft.com/en-us/store/configure/Surface-Studio-2/8VLFQC3597K4?)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Microsoft Presenter+ and Audio Dock
 
 The Microsoft Presenter+.
@@ -114,7 +114,7 @@ Releasing alongside the new Surface products are the Microsoft Presenter+ and Mi
 The Microsoft Audio Dock is both a docking station with four ports (HDMI, 2x USB-C, and USB-A) and a speaker for audio input and output. For $249, which is not cheap for either of its two functions, Microsoft promises "premium sound" and noise-reducing microphones that will help you "be heard clearly in your next online meeting."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Microsoft Designer takes on Canva
@@ -163,21 +163,15 @@ Microsoft officials say that Designer is targeted at consumers more than anyone 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-exploring-inshot-is-it-the-pinnacle-of-editing-for-2024/"><u>[Updated] Exploring InShot Is It the Pinnacle of Editing for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/anker-737-battery-sale-slash-30-off-with-this-compact-charger-exclusive-offer/"><u>Anker 737 Battery Sale: Slash $30 Off with This Compact Charger - Exclusive Offer</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/audiences-rave-about-highly-adaptable-laptop-featuring-robust-build-and-performance-an-in-depth-review-by-techexpert/"><u>Audiences Rave About Highly Adaptable Laptop Featuring Robust Build and Performance: An In-Depth Review by TechExpert</u></a></li>
-<li><a href="https://blog-min.techidaily.com/beyond-silver-and-space-gray-why-apple-should-embrace-vibrant-hues-for-their-pro-line/"><u>Beyond Silver and Space Gray: Why Apple Should Embrace Vibrant Hues for Their Pro Line</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-your-iphone-7-plus-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From your iPhone 7 Plus</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-vivo-s18-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Vivo S18 Pro | Dr.fone</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/implementation-simple-dun-service-de-sauvegarde-pour-le-serveur-windows-server-2019-etapes-faciles-a-suivre/"><u>Implémentation Simple D'un Service De Sauvegarde Pour Le Serveur Windows Server 2019 : Étapes Faciles À Suivre</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/limited-offer-snag-the-premium-lg-gram-17-notebook-on-cyber-monday-for-huge-savings-up-to-400-discounted-price-at-dznet/"><u>Limited Offer! Snag the Premium LG Gram 17 Notebook on Cyber Monday for Huge Savings - Up to $400 Discounted Price at DZNET!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mac-mastery-how-to-reroute-the-control-and-command-buttons-effortlessly-gizmoguides/"><u>Mac Mastery: How To Reroute The Control & Command Buttons Effortlessly | GizmoGuides</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/next-gen-workhorse-laptops-arrive-discover-why-lenovos-newly-released-ai-thinkpads-are-a-game-changer-for-businesses-tech-analysis/"><u>Next-Gen Workhorse Laptops Arrive: Discover Why Lenovo's Newly Released AI ThinkPads Are a Game-Changer for Businesses Tech Analysis</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-network-reestablished-windows-7/"><u>Printer Network Reestablished, Windows 7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-98-cyber-monday-bargains-of-2022-exclusive-picks-from-zdnet/"><u>Top 98 Cyber Monday Bargains of 2022 - Exclusive Picks From ZDNet</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/top-iphones-and-androids-ultimate-tiktok-marker-erasers-for-2024/"><u>Top iPhones & Androids Ultimate TikTok Marker Erasers for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/transforming-images-into-engaging-animation-projects/"><u>Transforming Images Into Engaging Animation Projects</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-asus-rog-phone-8-pro-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Asus ROG Phone 8 Pro IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unbelievable-black-friday-aftermath-deals-on-microsoft-tablets-cyber-monday-savings-of-up-to-600-off-ms-surface-pro-8-find-your-purchase/"><u>Unbelievable Black Friday Aftermath Deals on Microsoft Tablets | Cyber Monday Savings of Up to $600 Off MS Surface Pro 8 - Find Your Purchase</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-a-closer-look-at-the-m1-pro-versus-m1-max-in-apple-devices/"><u>[New] A Closer Look at the M1 Pro Versus M1 Max in Apple Devices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-smartphone-security-iphone-xs-face-id-versus-galaxy-recognition-for-2024/"><u>[New] Smartphone Security IPhone X’s Face ID Versus Galaxy Recognition for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/7-top-ai-programs-for-email-composing-and-messaging/"><u>7 Top AI Programs for Email Composing and Messaging</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-breakthrough-preparing-for-a-new-era-with-gpt-4-in-do-it-yourself-ventures/"><u>AI Breakthrough: Preparing for a New Era with GPT-4 in Do-It-Yourself Ventures</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/bluetooth-device-not-recognized-on-windows-10-comprehensive-guide-to-solving-this-issue/"><u>Bluetooth Device Not Recognized on Windows 10 - Comprehensive Guide to Solving This Issue</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/dubai-expo-2020-shaping-global-polyglots/"><u>Dubai Expo 2020: Shaping Global Polyglots</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortlessly-install-acer-bluetooth-driver-with-our-quick-guide-and-download/"><u>Effortlessly Install Acer Bluetooth Driver with Our Quick Guide and Download</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-bridging-the-gap-between-real-and-virtual-worlds-with-spark-ar-luts/"><u>In 2024, Bridging the Gap Between Real and Virtual Worlds with Spark AR LUTs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/master-class-on-repairing-logitech-f710-drivers-for-windows-xp-vista-7-8-and-beyond/"><u>Master Class on Repairing Logitech F710 Drivers for Windows XP, Vista, 7, 8, and Beyond</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolving-hp-speaker-sound-problems-on-windows-11-8-and-7/"><u>Resolving HP Speaker Sound Problems on Windows 11, 8 & 7</u></a></li>
 </ul></div>
 

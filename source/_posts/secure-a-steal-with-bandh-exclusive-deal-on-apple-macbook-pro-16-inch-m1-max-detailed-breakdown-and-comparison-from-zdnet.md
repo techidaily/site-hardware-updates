@@ -1,7 +1,7 @@
 ---
 title: "Secure a Steal with B&H: Exclusive Deal on Apple MacBook Pro 16-Inch M1 Max - Detailed Breakdown & Comparison From ZDNet"
-date: 2025-01-05T02:11:57.216Z
-updated: 2025-01-06T05:05:43.876Z
+date: 2025-01-17T17:31:47.082Z
+updated: 2025-01-18T16:58:22.133Z
 tags:
   - laptops
 categories:
@@ -43,7 +43,7 @@ For a recap of all the products unveiled during Apple's "Scary Fast" event -- an
 ## What products did get announced
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## M3 chips in all sizes
@@ -66,10 +66,6 @@ Much like the M2 processors that classify Apple's latest Mac computers by perfor
 * M3 Pro: Starting at 12 main processing cores (six performance and six efficiency) and 18 graphics cores
 * M3 Max: Starting at 16 main processing cores (12 performance and four efficiency) and 40 graphics cores, and now supports up to 128GB of unified memory
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. 14-inch and 16-inch MacBook Pro
 
 June Wan/ZDNET
@@ -86,6 +82,10 @@ What hasn't changed is the form factors of the new MacBook Pros, with Liquid Ret
 
 The 14- and 16-inch MacBook Pros are available for preorder right now, starting at $1,599 and $2,499, respectively, with the M3 and M3 Pro models seeing earlier ship times (as soon as next week), and the M3 Max models being slated for late November.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. iMac with M3
 
 Jason Hiner/ZDNET
@@ -99,13 +99,13 @@ Apple says the M3 chip allows the new 24-inch iMac to perform at twice the speed
 The 24-inch iMac is now available for preorder starting at $1,299 and will begin shipping next week.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What products didn't get announced
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. 13-inch MacBook Pro
@@ -118,6 +118,10 @@ It's not unreasonable to assume that it may be the end of the line for Apple's f
 
 If there was any time for the company to further the gap between its old laptops and the new, Apple's "Scary Fast" event just made the most sense.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Magic Keyboard and Mouse with USB-C
 
 Apple/ZDNET
@@ -127,10 +131,6 @@ With the iPhone being the last major product to transition over from Lightning t
 **Also: [Best USB-C chargers and accessories for iPhone 15 Pro: Expert tested](https://www.zdnet.com/article/best-usb-c-and-wireless-chargers-and-accessories-for-iphone-15-pro/)**
 
 With the new 24-inch iMac, Apple will continue to bundle Lightning-equipped Magic Keyboard and Mouse peripherals, giving some users reasons to retain their cables.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to rewatch Apple's 'Scary Fast' event
 
@@ -166,21 +166,17 @@ The keynote presentation began on Monday, Oct. 30, 2023, at 5 p.m. PT (8 p.m. ET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-save-call-transcript-review-for-2024/"><u>[New] Save Call Transcript Review for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-key-methods-for-gathering-high-end-video-backdrops/"><u>[Updated] 2024 Approved Key Methods for Gathering High-End Video Backdrops</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-cutting-edge-tiktok-techniques-for-new-video-borders/"><u>[Updated] Cutting-Edge TikTok Techniques for New Video Borders</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-dreamy-narratives-reviewing-childrens-story-videos-for-sleep/"><u>[Updated] Dreamy Narratives Reviewing Children's Story Videos for Sleep</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-dos-and-donts-of-mixing-music-in-instagram-videos/"><u>2024 Approved The Do's and Don'ts of Mixing Music in Instagram Videos</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/dell-computers-new-sm-bus-controller-driver-version-release/"><u>Dell Computers - New SM Bus Controller Driver Version Release</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/elevate-your-social-storytelling-with-added-musicality/"><u>Elevate Your Social Storytelling with Added Musicality</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/-screening-pacts-how-to-choose-a-cms/"><u>Elite Screening Pacts How to Choose a CMS</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ensure-smooth-printing-with-updated-epson-l3150-drivers-on-windows-11-8-and-7-secure-your-free-download-now/"><u>Ensure Smooth Printing with Updated Epson L3150 Drivers on Windows 11, 8 & 7 - Secure Your Free Download Now</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-the-most-recent-fingerprint-scanning-tools-on-your-pc-windows/"><u>Install the Most Recent Fingerprint Scanning Tools on Your PC (Windows)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-m-audio-driver-installers-for-windows-107881-users/"><u>Latest M-Audio Driver Installers for Windows 10/7/8/8.1 Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-radeon-rx-470-graphics-card-drivers-easy-download-and-updates/"><u>Latest Radeon RX 470 Graphics Card Drivers: Easy Download & Updates</u></a></li>
-<li><a href="https://article-posts.techidaily.com/mastering-bg-removal-in-figma-designs-for-2024/"><u>Mastering BG Removal in Figma Designs for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-computer-review-top-gadgets-and-tech-news/"><u>Tom's Computer Review: Top Gadgets and Tech News</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-pc-freezes-in-forza-horizon-5-steps-to-prevent-game-crashes/"><u>Troubleshooting PC Freezes in Forza Horizon 5: Steps to Prevent Game Crashes</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-your-asus-laptops-drivers-download-and-installation-tips/"><u>Update Your ASUS Laptop's Drivers - Download & Installation Tips</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ransform-youtube-performance-leading-tracking-apps-revealed/"><u>[New] Transform YouTube Performance - Leading Tracking Apps Revealed</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-how-to-effortlessly-eradicate-unwanted-youtube-post-comments/"><u>[Updated] How to Effortlessly Eradicate Unwanted Youtube Post-Comments</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/acer-bluetooth-driver-installation-made-easy-expert-tips-and-immediate-access-downloads/"><u>Acer Bluetooth Driver Installation Made Easy: Expert Tips & Immediate Access Downloads</u></a></li>
+<li><a href="https://program-issues.techidaily.com/connecting-to-steam-servers-successfully-tips-and-tricks/"><u>Connecting to Steam Servers Successfully: Tips and Tricks</u></a></li>
+<li><a href="https://win-net.techidaily.com/1728469591260-nvme-ssd/"><u>NVMe SSDをアップグレードする方法：転置・交換によるダブルキャスト手順</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-refreshing-your-samsung-smartphones-usb-drivers/"><u>Step-by-Step Guide: Refreshing Your Samsung Smartphone's USB Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722975372315-streamlined-setup-expert-tips-for-quickly-downloading-and-installing-your-hp-driver-needs/"><u>Streamlined Setup: Expert Tips for Quickly Downloading & Installing Your HP Driver Needs</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-best-budget-case-for-your-macbook-pro-13-inside-look-at-procases-offering/"><u>The Best Budget Case for Your MacBook Pro 13? Inside Look at ProCase's Offering</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-ranked-mac-system-tidier-software-of-2022-revealed-the-ultimate-selection-from-zdnet/"><u>Top-Ranked Mac System Tidier Software of 2022 Revealed: The Ultimate Selection From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-to-enhanced-performance-msi-x470-gamingplus-driver-downloads-available/"><u>Update to Enhanced Performance: MSI X470 Gaming+ Driver Downloads Available</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-home-movie-magic-simple-yet-effective-video-editing-techniques/"><u>Updated Home Movie Magic Simple yet Effective Video Editing Techniques</u></a></li>
+<li><a href="https://extra-information.techidaily.com/vhs-classic-check-goofy-and-his-gangs-joke-time/"><u>VHS Classic Check Goofy and His Gang's Joke Time</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Get the Ultimate Creator's Setup at Half Price! Dramatic $1,100 Discount on High-Performance Computers for Gamers and Producers – Spotted First on ZDNet.
-date: 2025-01-07T19:37:49.017Z
-updated: 2025-01-12T19:36:49.026Z
+date: 2025-01-15T16:49:10.399Z
+updated: 2025-01-18T19:59:37.869Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Taylor Clemons/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET takeaways
@@ -79,7 +79,7 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -91,7 +91,7 @@ And if you're simply looking for a reliable set of PC speakers, the [Arena 3](ht
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does this deal expire?
@@ -128,19 +128,24 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-updates.techidaily.com/1726809475279-6x-90/"><u> [6X = 90 </u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-expert-picks-of-premium-timelapse-capture-software-for-2024/"><u>[Updated] Expert Picks of Premium Timelapse Capture Software for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-how-to-remove-image-background-with-photopea/"><u>[Updated] How to Remove Image Background With Photopea</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-understanding-and-implementing-discord-text-styles/"><u>[Updated] Understanding & Implementing Discord Text Styles</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-rectifying-the-curved-illusion-in-your-gopro-videos/"><u>2024 Approved Rectifying the Curved Illusion in Your GoPro Videos</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-tecno-spark-20-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Tecno Spark 20 Pro to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/achieve-ultimate-clarity-3-key-projector-adjustments-guaranteed-by-experts-at-zdnet/"><u>Achieve Ultimate Clarity: 3 Key Projector Adjustments Guaranteed by Experts at ZDNet</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/guidelines-pour-capturer-facilement-le-contenu-video-avec-audio-et-camera-grace-a-winx-movie-editor/"><u>Guidelines Pour Capturer Facilement Le Contenu Vidéo Avec Audio Et Caméra Grâce À WinX Movie Editor</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-honor-magic-5-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Honor Magic 5 | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mastering-heartfelt-communication-in-hungarys-dialect/"><u>Mastering Heartfelt Communication in Hungary's Dialect</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unbeatable-deal-alert-save-200-on-the-stunning-58-hisense-4k-fire-tv-now-at-just-349-shop-today/"><u>Unbeatable Deal Alert: Save $200 on the Stunning 58 Hisense 4K Fire TV, Now at Just $349 - Shop Today!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unexpected-audio-marvels-my-top-pick-for-an-immersive-sound-system-outside-of-bose-and-sonos-reviewed-on-zdnet/"><u>Unexpected Audio Marvels: My Top Pick for an Immersive Sound System Outside of Bose & Sonos, Reviewed on ZDNET</u></a></li>
-<li><a href="https://article-tips.techidaily.com/unique-content-creation-the-ultimate-guide-to-6-video-types-for-2024/"><u>Unique Content Creation The Ultimate Guide to 6 Video Types for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/upgrade-your-television-display-with-simple-adjustments-top-5-settings-to-elevate-picture-quality/"><u>Upgrade Your Television Display with Simple Adjustments: Top 5 Settings to Elevate Picture Quality</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-mastering-tv-saves-win-friendly-options-available/"><u>[New] 2024 Approved Mastering TV Saves Win-Friendly Options Available</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-game-recording-a-comprehensive-review-for-2024/"><u>[New] In-Game Recording A Comprehensive Review for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-simplified-processes-generating-your-podcasts-rss-feed/"><u>[Updated] 2024 Approved Simplified Processes Generating Your Podcast's RSS Feed</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-top-trending-ig-filters-ranked/"><u>[Updated] 2024 Approved Top Trending IG Filters Ranked</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/2024s-elite-picks-for-windows-power-laptops-expert-insights-and-evaluations-zdnet/"><u>2024'S Elite Picks for Windows Power Laptops: Expert Insights and Evaluations | ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-buy-anti-prime-day-alert-secure-your-discounted-hp-victus-515-gaming-laptop-deal-unveiled-by-zdnet/"><u>Best Buy Anti-Prime Day Alert! Secure Your Discounted HP Victus 지킷랄로피 ($515) - Gaming Laptop Deal Unveiled by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/dell-unveils-innovative-concept-luna-disassembling-like-lego-bricks-a-glimpse-into-tomorrows-computing/"><u>Dell Unveils Innovative Concept Luna: Disassembling Like LEGO Bricks - A Glimpse Into Tomorrow’s Computing</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/design-the-ultimate-gaming-rig-with-these-proven-strategies-by-zdnet-experts/"><u>Design the Ultimate Gaming Rig with These Proven Strategies by ZDNet Experts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-ultimate-gift-guide-12-must-have-items-for-hackers-as-recommended/"><u>Discover the Ultimate Gift Guide: 12 Must-Have Items for Hackers, as Recommended</u></a></li>
+<li><a href="https://win-news.techidaily.com/effortless-file-and-folder-synchronization-across-multiple-pcs/"><u>Effortless File and Folder Synchronization Across Multiple PCs</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-the-windows-7-bsod-issue-guide-to-resolve-error-code-0x0000007e/"><u>Fixing the Windows 7 BSOD Issue: Guide to Resolve Error Code 0X0000007E</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-apple-id-activation-lock-on-apple-iphone-se-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID Activation Lock On Apple iPhone SE?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maximizing-connectivity-top-techniques-for-expanding-ports-on-macbook-and-ipad-pro-zdnet/"><u>Maximizing Connectivity: Top Techniques for Expanding Ports on MacBook & iPad Pro - ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/outperforming-apple-how-lg-gram-pro-surpasses-the-macbook-air-across-three-key-areas-insights-from-a-comprehensive-review-zdnet/"><u>Outperforming Apple: How LG Gram Pro Surpasses the MacBook Air Across Three Key Areas - Insights From a Comprehensive Review | ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/prime-day-alert-unbeatable-price-on-highly-rated-lenovo-and-dell-alternative-2-in-1-laptop-s-top-picks/"><u>Prime Day Alert: Unbeatable Price on Highly Rated Lenovo and Dell Alternative 2-in-1 Laptop 'S Top Picks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/should-you-update-your-iphone-to-ios-the-fairbanks-is-a-semi-automatic-pistol-designed-in-the-united-states-it-was-manufactured-by-fairbanks-morse-and-compa14/"><u>Should You Update Your iPhone to iOS The '''Fairbanks''' Is a Semi-Automatic Pistol Designed in the United States. It Was Manufactured by Fairbanks, Morse & Company of Philadelphia From About 1908 Through 1927.</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/the-essential-guide-for-embedding-links-in-tiktok-bios-for-2024/"><u>The Essential Guide for Embedding Links in TikTok Bios for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-science-of-how-virtual-assistants-talk-like-us-exploring-conversation-simulation-in-ai/"><u>The Science of How Virtual Assistants Talk Like Us: Exploring Conversation Simulation in AI</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unleash-your-productivity-with-the-ultimate-docking-station-bundle-now-available-for-a-steep-discount/"><u>Unleash Your Productivity with the Ultimate Docking Station Bundle, Now Available for a Steep Discount !</u></a></li>
 </ul></div>
 

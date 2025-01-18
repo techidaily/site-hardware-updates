@@ -1,7 +1,7 @@
 ---
 title: Do Dual-Screen Laptops Have a Future? Examining the Impact of Lenovo's Yoga Book ˈ
-date: 2024-12-30T20:40:44.977Z
-updated: 2025-01-06T07:11:23.229Z
+date: 2025-01-15T17:34:47.025Z
+updated: 2025-01-18T16:55:32.386Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kerry Wan/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -45,7 +45,7 @@ A laptop with two screens is perhaps one of the tamest designs it has come up wi
 It's given me a chance to revisit the idea of having two screens on my laptop, and once again, it's tempting me to switch away from my boring-in-comparison MacBook Pro.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications (as reviewed)
@@ -61,10 +61,6 @@ It's given me a chance to revisit the idea of having two screens on my laptop, a
 | Price                 | Starting at [$1,980](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-12-Core-i7-1360P-Fingerprint-Thunderbolt4%2Fdp%2FB0CR9S1KFL%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce845ede1-ee85-4120-861a-f59772cdb93b%7Cdtp&dtb=1) |
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Living with a dual-screen laptop
 
@@ -107,7 +103,7 @@ To power the Yoga Book 9i, Lenovo includes an 80W battery that's rated for about
 Charging the laptop is as straightforward as it comes. There's a Rapid Charge adapter in the box that gives you about two hours of runtime with just 15 minutes of charging. I found this mostly to be true, although you have to shut the lid if you want charging speeds to really pick up.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Evaluating Lenovo's dual-screen software
@@ -131,7 +127,7 @@ It's weird; I've had apps like Chrome and Spotify show up on the lower display w
 I'll give Lenovo credit, the new Yoga Book 9i feels smoother than the old one did. I don't notice as much scruff or weird glitches with the software, and the bundled Bluetooth keyboard doesn't produce nearly as many double-key entries as before. Still, it's not a perfect experience, which is something to keep in mind if you're going to spend $2,000 on a laptop.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## One thing to keep in mind
@@ -143,6 +139,10 @@ Max Buondonno/ZDNET
 When I'm working on my MacBook or -- quite frankly -- any other laptop in my arsenal, all I have to do is close the lid and load it into my backpack when I'm finished. With the Yoga Book 9i, I have to close the laptop > collapse the kickstand > place the keyboard inside the collapsed kickstand > stack the keyboard/kickstand combo, mouse, and stylus on top of the laptop > shove it all in my bag and pray I can find it later when it's time to go back to work.
 
 Of course, you'll eventually get used to it, but it'll never be as convenient as shutting your laptop lid and moving on with your day.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ZDNET's buying advice
 
@@ -182,24 +182,17 @@ If none of that matters to you and you're cool with living with the Yoga Book 9i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-ranked-your-must-have-5-iphones-for-excellent-podcasting/"><u>[New] Ranked Your Must-Have 5 iPhones for Excellent Podcasting</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-tweet-to-facebook-a-step-by-step-guide/"><u>[Updated] 2024 Approved Tweet to Facebook A Step-by-Step Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-strategies-for-structuring-an-efficient-collaborative-office-environment/"><u>[Updated] Strategies for Structuring an Efficient, Collaborative Office Environment</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-how-algorithm-changes-shape-your-youtube-visibility/"><u>2024 Approved How Algorithm Changes Shape Your YouTube Visibility</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/comparative-analysis-of-windows-toolsets-chkdsk-sfc-and-dissect/"><u>Comparative Analysis of Windows Toolsets: CHKDSK, SFC, & Dissect</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-set-up-insignia-vga-to-usb-connector-software/"><u>Download and Set Up Insignia VGA-to-USB Connector Software</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-latest-hp-deskjet-2755e-drivers-compatible-with-windows-step-by-step-guide/"><u>Download the Latest HP DeskJet 2755E Drivers Compatible with Windows: Step by Step Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-steps-to-upgrade-your-canon-pixma-mg2522-with-newest-drivers/"><u>Easy Steps to Upgrade Your Canon PIXMA MG2522 with Newest Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortlessly-update-your-lenovo-x1-carbon-free-driver-downloads-for-optimal-performance-on-windows-11-and-windows-asterisk-7/"><u>Effortlessly Update Your Lenovo X1 Carbon - Free Driver Downloads for Optimal Performance on Windows 11 and Windows Asterisk 7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/experience-the-future-of-processing-with-amds-newly-released-ryzen-series-equipped-with-advanced-strix-halo-and-kraken-point-features/"><u>Experience the Future of Processing with AMD's Newly Released Ryzen Series - Equipped with Advanced Strix Halo & Kraken Point Features</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/explore-the-ultimate-cpu-discounts-of-202n4-capitalize-on-superior-offers-from-top-brands-amd-and-intel/"><u>Explore the Ultimate CPU Discounts of 202N4: Capitalize on Superior Offers From Top Brands AMD & Intel</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-most-recent-realtek-bluetooth-drivers-for-your-pc-windows-11-and-10-supported/"><u>Get the Most Recent Realtek Bluetooth Drivers for Your PC: Windows 11 and 10 Supported</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-14-pro-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover iPhone 14 Pro Data From iTunes? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-honor-magic-6-pro-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Honor Magic 6 Pro</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-professional-photography-meets-social-media-dslr-and-computer-syncopation/"><u>In 2024, Professional Photography Meets Social Media DSLR and Computer Syncopation</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/masterful-platformers-the-top-6-super-mario-bros-games-to-play-on-windows-and-mac/"><u>Masterful Platformers: The Top 6 Super Mario Bros Games to Play on Windows and Mac</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-pick-tech-exploring-toms-hardware/"><u>Top Pick Tech: Exploring Tom's Hardware</u></a></li>
-<li><a href="https://facebook.techidaily.com/us-regulatory-shift-a-new-era-for-big-tech-companies/"><u>US Regulatory Shift: A New Era for Big Tech Companies</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/xbox-wireless-adapter-driver-download-quick-simple-and-effective/"><u>Xbox Wireless Adapter Driver Download: Quick, Simple & Effective</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-amplify-your-voice-on-youtube-mastery-through-tubebuddy/"><u>[New] 2024 Approved Amplify Your Voice on YouTube - Mastery Through TubeBuddy</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-expert-tips-on-producing-high-quality-facebook-video/"><u>2024 Approved Expert Tips on Producing High-Quality Facebook Video</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-guide-installing-razer-drivers-across-windows-vista-xp-7-8-and-10/"><u>Complete Guide: Installing Razer Drivers Across Windows Vista, XP, 7, 8 & 10</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-intel-reliable-array-raid-controller-drivers-for-windows-111087/"><u>Download and Update Intel Reliable Array (RAID) Controller Drivers for Windows 11/10/8/7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-the-world-of-gadgets-with-toms-equipment-analysis-and-reviews/"><u>Exploring the World of Gadgets with Tom's Equipment Analysis & Reviews</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-logitech-c525-hd-webcam-up-and-running-on-windows-with-driver-installation-guide/"><u>Get Your Logitech C525 HD Webcam Up & Running on Windows with Driver Installation Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/intel-hd-graphics-driver-troubleshooting-for-windows-users-now-fixed/"><u>Intel HD Graphics Driver Troubleshooting for Windows Users - Now Fixed</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/successful-huion-tablet-installation-find-download-and-keep-your-windows-drivers-updated-today/"><u>Successful Huion Tablet Installation: Find, Download, and Keep Your Windows Drivers Updated Today!</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/the-virtual-reality-archivists-handbook-for-game-recordings-for-2024/"><u>The Virtual Reality Archivist's Handbook for Game Recordings for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-boom-microphones-a-comprehensive-guide/"><u>Top-Rated Boom Microphones : A Comprehensive Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transitioning-smoothly-the-technology-enhancers-handbook-for-2024/"><u>Transitioning Smoothly The Technology Enhancer's Handbook for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unboxing the Apple M3 MacBook Air: Top 3 Surprising Features Explored - Detailed Review by ZDNet"
-date: 2025-01-03T09:00:22.731Z
-updated: 2025-01-06T14:06:04.604Z
+date: 2025-01-16T16:39:41.532Z
+updated: 2025-01-18T18:26:01.817Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ That's right. Apple said the "A" word, and it's not being shy about it, as my af
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Apple is _officially_ in the AI PC race
@@ -55,7 +55,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 Apple also wants you to know that it's _been_ in the [AI PC race](https://www.zdnet.com/article/what-is-an-ai-pc-and-should-you-buy-one/) since the very beginning, with just about every Mac model now carrying neural engines for machine learning. The new MacBook Air is "the best consumer laptop for AI," the company touts in its Monday press release, but we'll have to see for ourselves when we put the 13- and 15-inch models through the wringer soon.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. I can finally recommend the Midnight color
@@ -67,7 +67,7 @@ AI aside, there is one subtle design change to the new MacBooks that I really di
 Considering how easy it was to get smudges and marks on the original Midnight color of the MacBook Air -- which made lighter hue options look like rockstars -- this is a welcome change. Having fumbled with the MacBooks for a quick 10-minute photo-op, the fingerprints were noticeable, though not as bad as I remembered on the M2 Air. For me, this makes the Midnight variant recommendable again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Dual-monitor support is a bigger deal than it seems
@@ -110,15 +110,21 @@ All in all, the changes to the newest line of MacBook Air feel subtle on paper b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-immerse-projects-in-audible-experience-via-premiere-pro/"><u>[New] In 2024, Immerse Projects in Audible Experience via Premiere Pro</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-step-by-step-method-for-stunning-igtv-backgrounds/"><u>[Updated] In 2024, Step-By-Step Method for Stunning IGTV Backgrounds</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-explore-best-15-cost-free-photo-editors/"><u>2024 Approved Explore Best 15 Cost-Free Photo Editors</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/boost-your-speakers-swiftly-update-acers-sound-drivers-today/"><u>Boost Your Speakers Swiftly - Update Acer's Sound Drivers Today</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/cross-play-compatibility-can-your-favorite-ps4-games-work-on-ps5/"><u>Cross-Play Compatibility: Can Your Favorite PS4 Games Work On PS5?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-download-complete-guide-to-the-behringer-usb-audio-interface-drivers/"><u>Free Download: Complete Guide to the Behringer USB Audio Interface Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-install-or-update-your-epson-l3150-driver-on-windows-1187/"><u>How to Install or Update Your Epson L3150 Driver on Windows 11/8/7</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/prime-screen-grabs-for-film-enthusiasts-for-2024/"><u>Prime Screen Grabs for Film Enthusiasts for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/save-battery-life-and-enhance-efficiency-with-macos-montereys-power-saving-mode-tips-by-zdnet/"><u>Save Battery Life and Enhance Efficiency with MacOS Monterey's Power Saving Mode - Tips by ZDNET</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-your-dell-pc-with-the-latest-bluetooth-drivers-designed-for-windows-users/"><u>Update Your Dell PC with the Latest Bluetooth Drivers Designed for Windows Users</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-essential-tags-for-tiktok-fame-and-viral-potential/"><u>[New] 2024 Approved Essential Tags for TikTok Fame and Viral Potential</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-crafting-self-narratives-100-unique-instagram-captions/"><u>[Updated] 2024 Approved Crafting Self-Narratives - 100 Unique Instagram Captions</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-elevating-selfies-advanced-techniques-in-snapchat-photography-for-2024/"><u>[Updated] Elevating Selfies Advanced Techniques in Snapchat Photography for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-your-hid-keyboard-drivers-with-simple-steps/"><u>Download & Update Your HID Keyboard Drivers with Simple Steps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-your-samsung-nvme-drivers-fast-a-step-by-step-approach/"><u>Download Your Samsung NVMe Drivers Fast – A Step-by-Step Approach!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-fast-and-secure-the-top-choice-of-thunderbolt-driver-software-for-windows-users/"><u>Get Fast and Secure: The Top Choice of Thunderbolt Driver Software for Windows Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/guide-to-fixing-ralink-rt3290-wifi-drivers-in-windows-1187-step-by-step-solutions/"><u>Guide to Fixing Ralink RT3290 WiFi Drivers in Windows 11/8/7: Step-by-Step Solutions</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-honor-100-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-resolve-initialization-problems-for-monster-hunter-stories-2-wings-of-ruin/"><u>How to Resolve Initialization Problems for Monster Hunter Stories 2: Wings of Ruin</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-gionee-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Gionee</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-xiaomi-redmi-note-12-pro-4g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Xiaomi Redmi Note 12 Pro 4G to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-infinix-zero-30-5g-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Infinix Zero 30 5G Phone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-eveos-updated-bluetooth-adapter-support-software-for-optimal-performance/"><u>Install EVEO's Updated Bluetooth Adapter Support Software for Optimal Performance</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-ditch-pinnacle-studio-top-mac-video-editing-software-you-need-to-know/"><u>New 2024 Approved Ditch Pinnacle Studio Top Mac Video Editing Software You Need to Know</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolving-startech-peripheral-driver-problems-for-windows-users-windows-1187/"><u>Resolving StarTech Peripheral Driver Problems for Windows Users (Windows 11/8/7)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/samsung-universal-print-driver-issues-in-windows-solved/"><u>Samsung Universal Print Driver Issues in Windows [SOLVED]</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Massive Savings: Unlock 36%% Discount on the 8TB Samsung Portable SSD - Now Available on Amazon | TechNews by ZDNet"
-date: 2025-01-11T00:36:00.344Z
-updated: 2025-01-12T22:58:30.994Z
+date: 2025-01-12T16:46:49.948Z
+updated: 2025-01-18T19:16:09.260Z
 tags:
   - laptops
 categories:
@@ -28,7 +28,7 @@ With a truly impressive amount of storage space, you'll get read and write speed
 Along with great read and write speeds and more reliable data transfers, the [Samsung T5 Evo](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Portable-External-MU-PH8T0S-AM%2Fdp%2FB0CMDGGJTZ%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C2362e90f-b768-47d7-98bd-3041538b2c7e%7Cdtp&dtb=1) also features 256-bit AES encryption to keep your personal data and sensitive information safe from unauthorized access. Its outer casing is drop- and shock-resistant and can withstand falls up to six feet, making it perfect for on-location photographers and other mobile professionals who need a tough storage drive for offloading raw photos from camera storage or transferring important projects and documents between their home office and mobile work location. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -65,24 +65,20 @@ While the Amazon listing for the Samsung T5 Evo portable SSD does not have a cou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-zero-dollar-mp3-recorders-skype-call-edition-for-2024/"><u>[New] Zero Dollar MP3 Recorders Skype Call Edition for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-amplify-focus-on-the-little-things-with-videoleap-zoom-for-2024/"><u>[Updated] Amplify Focus on the Little Things with VideoLeap Zoom for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-mastering-language-free-top-8-srt-translation-websites/"><u>[Updated] In 2024, Mastering Language Free, Top 8 SRT Translation Websites</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-earning-edge-reached-for-subscribers-above-500/"><u>2024 Approved Earning Edge Reached for Subscribers Above 500</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/early-access-get-the-samsung-t5-solid-state-drive-for-nearly-half-price-on-amazon-ahead-of-octobers-prime-shopping-extravaganza-zdnet/"><u>Early Access: Get the Samsung T5 Solid State Drive for Nearly Half Price On Amazon Ahead of October's Prime Shopping Extravaganza | ZDNET</u></a></li>
-<li><a href="https://change-location.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-vivo-y100-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Vivo Y100 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-locked-iphone-7-without-face-id-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock locked iPhone 7 without Face ID</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-honor-play-8t-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Honor Play 8T</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcome-warzones-dev-error-5573-essential-tips-and-fixes-for-console-and-pc-gamers/"><u>Overcome Warzone's Dev Error #5573: Essential Tips & Fixes for Console & PC Gamers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/pinnacle-phones-the-supreme-choices-in-mobile-video-recording/"><u>Pinnacle Phones The Supreme Choices in Mobile Video Recording</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/snag-your-essential-lenovo-workstation-at-a-1000-deal-this-october-prime-day-expert-recommendation-by-zdnet/"><u>Snag Your Essential Lenovo Workstation at a $1,000 Deal This October Prime Day – Expert Recommendation by ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/snag-your-hp-156-inch-touchscreen-laptop-for-just-230-less-exclusive-offers/"><u>Snag Your HP 15.6-Inch Touchscreen Laptop for Just $230 Less | Exclusive Offers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/snag-your-iphone-for-a-bargain-this-october-get-the-latest-macbook-air-with-m2-processor-on-sale-for-just-749-during-amazons-prime-day-event-insider-details11/"><u>Snag Your iPhone for a Bargain This October! Get the Latest MacBook Air with M2 Processor on Sale for Just $749 During Amazon's Prime Day Event – Insider Details</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-review-why-this-lenovo-2-in-1-reigns-supreme-for-professionals-on-zdnet/"><u>The Ultimate Review: Why This Lenovo 2-in-1 Reigns Supreme for Professionals on ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-6-compelling-advantages-of-choosing-a-chromebook-over-other-laptops-insights-from-zdnet/"><u>Top 6 Compelling Advantages of Choosing a Chromebook Over Other Laptops: Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-durable-and-robust-laptop-picks-comprehensive-guide/"><u>Top Durable and Robust Laptop Picks Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-prime-day-specials-exclusive-october-2024-laptop-offers-on-zdnet/"><u>Top-Rated Prime Day Specials: Exclusive October 2024 Laptop Offers on ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-shotgun-method-for-snapping-pics-of-your-pcmac-screen-dell-lenovo-and-more-learn/"><u>Ultimate Shotgun Method for Snapping Pics of Your PC/Mac Screen: Dell, Lenovo and More - Learn</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unveiling-the-facets-a-thorough-examination-of-imochats-performance/"><u>Unveiling the Facets: A Thorough Examination of ImoChat's Performance</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-comprehensive-guide-to-top-tier-skype-recorder-tech-for-2024/"><u>[New] Comprehensive Guide to Top-Tier Skype Recorder Tech for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-how-to-shoot-vertical-panorama-photos-with-your-smartphone-androidios/"><u>[New] How to Shoot Vertical Panorama Photos with Your Smartphone Android/iOS</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/oom-in-how-to-sequentially-play-youtube-videos-for-free/"><u>[New] Zoom In How to Sequentially Play YouTube Videos for Free</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-apex-alchemy-choosing-the-best-laptops-for-video-wizards/"><u>[Updated] Apex Alchemy Choosing the Best Laptops for Video Wizards</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-stealthy-surveillance-erasing-sensitive-elements-from-footage/"><u>[Updated] In 2024, Stealthy Surveillance Erasing Sensitive Elements From Footage</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-your-surround-sound-setup-effortless-installation-of-updated-nahimic-drivers/"><u>Enhance Your Surround Sound Setup: Effortless Installation of Updated Nahimic Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-optimal-performance-downloading-updated-logitech-g35-drivers-for-windows-7-810/"><u>Ensure Optimal Performance: Downloading Updated Logitech G35 Drivers for Windows 7, 8/10</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-nubia-red-magic-9-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/guide-to-downloading-and-installing-webcam-drivers-on-various-windows-platforms-including-win11win10win8win7/"><u>Guide to Downloading & Installing WebCam Drivers on Various Windows Platforms, Including Win11/Win10/Win8/Win7</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-revolutionized-ios-screenshot-and-recording-methods/"><u>In 2024, Revolutionized iOS Screenshot & Recording Methods</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-realtek-audio-driver-downloads-compatible-with-windows-11107/"><u>Latest Realtek Audio Driver Downloads Compatible with Windows 11/10/7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-guide-simple-methods-for-swift-driver-revisions-on-dell-studio-g7/"><u>Quick Guide: Simple Methods for Swift Driver Revisions on Dell Studio G7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-updating-your-corsair-gaming-headset-drivers-on-windows-pcs/"><u>Step-by-Step Guide: Updating Your Corsair Gaming Headset Drivers on Windows PCs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-beginners-pathway-initiating-and-configuring-auto-gpt-on-an-ubuntu-server/"><u>The Beginner's Pathway: Initiating and Configuring Auto-GPT on an Ubuntu Server</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-hp-scanjet-software-compatible-with-windows-1087-download-now/"><u>Update Your HP Scanjet Software: Compatible with Windows 10/8/7 - Download Now</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Shattering Performance Records: Ryzen 9 9950X Hits 6.7GHz Overclocked With LN2 Cooling"
-date: 2024-08-19T05:57:04.922Z
-updated: 2024-08-20T05:57:04.922Z
+date: 2025-01-11T19:07:12.240Z
+updated: 2025-01-18T17:38:47.923Z
 tags:
   - cpu
 categories:
@@ -31,6 +31,10 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
 
  With all these technologies working in tandem, the overclocker achieved an idle frequency of 5.86 GHz. In stress testing, the maximum single-thread clock speed was 5.758 GHz, with a maximum multi-core frequency of 5.454 GHz operating at 95.2 degrees Celsius at a package power of 172.1 watts.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,14 +45,11 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
 
  SkatterBencher's 5.8 GHz and 6 GHz overclocks represent the highest on the new 9700X. Der8auer and Overclocking.com showcased their respective overclocks on the 9700X but could only eke out 5.4G Hz. The main difference was that both outlets did manual overclocks, whereas SkatterBencher used AMD's plethora of overclocking tools, enabling them to hit higher frequencies.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -57,8 +58,26 @@ Overclockers have no time to get familiar with AMD's Zen 5 CPU architecture and 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-android-and-ios-leaderboard-of-ps2-emulation-software/"><u>[New] 2024 Approved Android & iOS Leaderboard of PS2 Emulation Software</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-avoid-the-quake-optimal-tripod-placement-for-stellar-vlogs/"><u>[New] In 2024, Avoid the Quake Optimal Tripod Placement for Stellar Vlogs</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-eyeonfox-screenshots-and-recordings/"><u>[New] In 2024, EyeOnFox Screenshots & Recordings</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-hitting-a-pixel-snag-a6400s-video-problems/"><u>[Updated] Hitting a Pixel Snag A6400's Video Problems</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-insta-cover-chronicles-top-tier-tech-edition/"><u>[Updated] Insta Cover Chronicles Top-Tier Tech Edition</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/all-day-endurance-expert-strategies-for-extending-macbook-battery-performance/"><u>All-Day Endurance: Expert Strategies for Extending MacBook Battery Performance</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosis-and-solutions-for-when-your-dell-laptops-keyboard-wont-work/"><u>Diagnosis & Solutions for When Your Dell Laptop's Keyboard Won't Work</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expertly-selected-leading-security-devices-for-202e-comprehensive-analysis/"><u>Expertly Selected Leading Security Devices for 202E: Comprehensive Analysis</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-the-best-asus-laptop-that-outperforms-apples-macbook-a-must-read-for-tech-enthusiasts-zdnet/"><u>Exploring the Best Asus Laptop That Outperforms Apple's MacBook - A Must-Read for Tech Enthusiasts | ZDNet</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Honor 80 Pro Straight Screen Edition? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/score-an-extra-200-apple-m3-macbook-pro-now-at-discounted-rates-in-the-epic-spring-promo-on-amazon-coverage/"><u>Score an Extra $200: Apple M3 MacBook Pro Now at Discounted Rates in the Epic Spring Promo on Amazon Coverage</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/rt-of-online-earnings-youtubes-money-matrix/"><u>The Art of Online Earnings YouTube's Money Matrix</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-antivirus-programs-a-comprehensive-guide/"><u>Top-Rated Antivirus Programs - A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-laptops-for-professional-video-editors-comprehensive-reviews-by-industry-experts/"><u>Top-Rated Laptops for Professional Video Editors: Comprehensive Reviews by Industry Experts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/turning-tiktok-hits-into-mobile-ringtones-with-ease/"><u>Turning TikTok Hits Into Mobile Ringtones with Ease</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-buyers-guide-to-the-leading-gaming-gpus-of-2023/"><u>Ultimate Buyer's Guide to the Leading Gaming GPUs of 2023</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-the-highest-quality-portable-monitors-expert-reviews-cnet/"><u>Ultimate Guide to the Highest Quality Portable Monitors : Expert Reviews | CNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-deal-36-discount-on-8tb-samsung-portable-ssd-post-prime-day-spotted-by-zdnet/"><u>Unbeatable Deal: 36% Discount on 8TB Samsung Portable SSD Post-Prime Day - Spotted by ZDNet</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ng-content-creators-microphones-that-speak-to-every-yt-style-and-genre/"><u>Uniting Content Creators Microphones That Speak to Every YT Style and Genre</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

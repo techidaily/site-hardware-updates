@@ -1,7 +1,7 @@
 ---
 title: "Next-Gen AMD Unleashed: The Zen 5 Mobile Chip That Packs Desktop Power at Just 115W - Spotted in Leaked Photos of the Mighty Ryzen Strix Halo with a Whopping 16 Cores & RDNA Graphics"
-date: 2024-08-19T05:53:55.657Z
-updated: 2024-08-20T05:53:55.657Z
+date: 2025-01-11T19:06:24.649Z
+updated: 2025-01-18T18:14:40.044Z
 tags:
   - cpu
 categories:
@@ -34,6 +34,10 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
 
  Speaking of substantial performance advantages of AMD's Zen 5, we cannot omit the single-thread performance of AMD's Ryzen 9000-series processors with 16 cores. Based on leaked CPU-Z benchmark results we have seen so far, the Ryzen 9 9950X is about 15% faster in single-thread workloads. It is about 9% faster in multi-thread workloads than the Ryzen 9 7950X, which is generally in line with performance advantage estimates demonstrated by AMD.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -42,14 +46,11 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -58,8 +59,18 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-strategies-for-enhancing-your-apple-podcast-visibility/"><u>[New] Strategies for Enhancing Your Apple Podcast Visibility</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-capture-the-thrill-choosing-superior-cam-accessories/"><u>[Updated] Capture the Thrill Choosing Superior Cam Accessories</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-clearer-captures-await-with-next-gen-tracker-tech/"><u>[Updated] Clearer Captures Await with Next-Gen Tracker Tech</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-professional-fb-ad-videos-made-simple-free-kit-included/"><u>2024 Approved Professional FB Ad Videos Made Simple – Free Kit Included</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/asus-laptop-steals-the-spotlight-at-best-buys-flash-sale-just-99-dollars-away-on-zdnet/"><u>ASUS Laptop Steals the Spotlight at Best Buy's Flash Sale – Just 99 Dollars Away on ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/budget-friendly-surface-pro-11-insights-from-a-seasoned-microsoft-guru/"><u>Budget-Friendly Surface Pro 11 Insights From a Seasoned Microsoft Guru</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/essential-tools-for-android-and-ios-users-seeking-playlist-extractors-for-2024/"><u>Essential Tools for Android & iOS Users Seeking Playlist Extractors for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-to-use-periscope-the-complete-guide/"><u>How to Use Periscope The Complete Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-18-unbeatable-prime-day-offers-on-hp-apple-razer-and-other-brands-exclusive-deals/"><u>Top 18 Unbeatable Prime Day Offers on HP, Apple, Razer & Other Brands - Exclusive Deals !</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-the-finest-touchpad-computers-professional-evaluations-on-latest-models/"><u>Ultimate Guide to the Finest Touchpad Computers: Professional Evaluations on Latest Models</u></a></li>
+<li><a href="https://win-blog.techidaily.com/windows-10-optimization-steps-to-prevent-game-crashes-in-dragon-age-origins/"><u>Windows 10 Optimization Steps to Prevent Game Crashes in Dragon Age: Origins</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->

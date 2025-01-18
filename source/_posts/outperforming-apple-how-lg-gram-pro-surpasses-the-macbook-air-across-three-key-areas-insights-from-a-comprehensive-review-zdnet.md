@@ -1,7 +1,7 @@
 ---
 title: "Outperforming Apple: How LG Gram Pro Surpasses the MacBook Air Across Three Key Areas - Insights From a Comprehensive Review | ZDNet"
-date: 2025-01-05T20:57:00.434Z
-updated: 2025-01-13T04:18:17.506Z
+date: 2025-01-14T17:03:05.856Z
+updated: 2025-01-18T18:07:56.225Z
 tags:
   - laptops
 categories:
@@ -19,10 +19,6 @@ Ed Bott/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -49,7 +45,7 @@ My original plan was to use the new Surface Pro as a secondary mobile device, wh
 How did this happen? Let's dive in.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The experience is familiar
@@ -65,7 +61,7 @@ The big difference is that this next-gen device is extremely cool and quiet. Aft
 Of course, this new device also embodies everything you like and/or dislike about the Surface Pro design. If you're expecting a radical shift that will suddenly make the kickstand comfortable in your lap, I'm sorry to report you will be disappointed. If, however, you're comfortable with that design, you'll find this iteration completely familiar.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Battery life is a huge win
@@ -85,7 +81,7 @@ Screenshot by Ed Bott/ZDNET
 At an average of more than 10 hours of actual, observed battery life, this Surface Pro is able to run for well over twice as long as my Intel-based Surface Pro 9\. That's also at least as long as the [M2 MacBook Air](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/) in my office.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Compatibility is good but not perfect
@@ -124,6 +120,10 @@ I had no hardware problems to speak of. My 10-year-old Logitech C930 webcam just
 
 Your mileage may vary, of course, especially if you have exotic hardware like video capture cards and ancient multifunction printers that require custom driver packs and won't work with the in-box Windows drivers. Thankfully, I have none of those.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The AI story is incomplete
 
 Every PC in the Copilot+ line includes a powerful neural processing unit designed to accelerate AI-based activities. Because I didn't spring for Microsoft's pricey new [Flex Keyboard](https://www.microsoft.com/en-us/d/surface-pro-flex-keyboard-with-slim-pen/93fzrmtgj6jw) and stuck with my old Type Cover, I didn't get a dedicated Copilot key. Instead, I had to run the [Copilot app](https://www.zdnet.com/article/microsoft-is-turning-windows-copilot-into-a-regular-app-and-heres-why-youll-like-it/), which works exactly like it does on any other Windows 11 PC. If it was chatting faster, I didn't notice.
@@ -145,7 +145,7 @@ The real question is whether those features are powerful enough to make you swit
 Even if you avoid the AI features completely, though, there's more than enough power in this [budget PC](https://www.zdnet.com/article/best-laptops-under-500/). Plus, as long as your apps and hardware requirements aren't exotic, you'll appreciate its cool, quiet operation.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test laptops
@@ -192,20 +192,21 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-boosting-engagement-the-key-to-successful-youtuber-interactions/"><u>[New] Boosting Engagement The Key to Successful YouTuber Interactions</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-elevate-your-storytelling-on-snapchat-top-15-ideas/"><u>[Updated] 2024 Approved Elevate Your Storytelling on Snapchat (Top 15 Ideas)</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-guide-to-saving-real-time-screen-chats/"><u>[Updated] Guide to Saving Real-Time Screen Chats</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ace-your-studies-and-entertainment-with-the-ultimate-dual-purpose-laptop-top-pick-by-your-name-zdnet/"><u>Ace Your Studies & Entertainment with the Ultimate Dual-Purpose Laptop: Top Pick by [Your Name] | ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-review-of-all-new-lenovo-notebooks-unveiled-at-mobile-world-congress-our-top-picks-for-you/"><u>Comprehensive Review of All New Lenovo Notebooks Unveiled at Mobile World Congress - Our Top Picks for You!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/explore-the-best-deals-of-cyber-weekend-save-big-on-tvs-headphones-and-sound-equipment-limited-time-offers/"><u>Explore the Best Deals of Cyber Weekend: Save Big on TVs, Headphones, and Sound Equipment – Limited Time Offers</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-vivo-y02t-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Vivo Y02T Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Xiaomi Civi 3 Disney 100th Anniversary Edition? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/lenovos-innovative-2-in-1-thinkpad-boasts-key-feature-update-to-delight-expert-users-according-to-zdnet-review/"><u>Lenovo's Innovative 2-in-1 ThinkPad Boasts Key Feature Update to Delight Expert Users, According to ZDNET Review</u></a></li>
-<li><a href="https://discover-help.techidaily.com/solutions-for-restoring-damaged-window-os-components-a-step-by-step-guide-from-yl-computing/"><u>Solutions for Restoring Damaged Window OS Components: A Step-by-Step Guide From YL Computing</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/tech-meets-tradition-unleashing-potential-with-laptops-phones-and-bestsellers/"><u>Tech Meets Tradition: Unleashing Potential with Laptops, Phones, & Bestsellers!</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-12-herramientas-de-edicion-de-videoblog-ideales-para-crear-contenido-impactante/"><u>Top 12 Herramientas De Edición De Videoblog Ideales Para Crear Contenido Impactante</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-choice-the-ideal-13-business-travelers-laptop-neither-dell-xps-nor-macbook-according-to-experts/"><u>Top Choice: The Ideal 13 Business Traveler's Laptop - Neither Dell XPS nor MacBook, According to Experts !</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-discounted-laptops-for-black-friday-and-cyber-monday-2024-featured-on-zdnet/"><u>Top-Rated Discounted Laptops for Black Friday & Cyber Monday 2024 - Featured on ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-touchscreen-laptop-picks-thoroughly-evaluated-and-recommended-insights-from-tech-experts-zdnet/"><u>Top-Rated Touchscreen Laptop Picks: Thoroughly Evaluated & Recommended - Insights From Tech Experts | ZDNet</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-pure-to-perfected-enhancing-photo-dynamics-with-illustrator-techniques/"><u>[New] From Pure to Perfected Enhancing Photo Dynamics with Illustrator Techniques</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-how-to-spark-interest-and-boost-views-on-instagram-videos-for-2024/"><u>[New] How to Spark Interest & Boost Views on Instagram Videos for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-step-by-step-for-flawless-audio-transitions-with-audacity/"><u>[Updated] In 2024, Step-by-Step for Flawless Audio Transitions with Audacity</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-the-ultimate-list-best-skype-audio-capture-tools-for-professionals-for-2024/"><u>[Updated] The Ultimate List Best Skype Audio Capture Tools for Professionals for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/13-pivotal-metaverse-experiences-for-deeper-comprehension-for-2024/"><u>13 Pivotal Metaverse Experiences for Deeper Comprehension for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-xiaomi-redmi-note-13-5g-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Xiaomi Redmi Note 13 5G FRP</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/boost-graphics-and-sound-quality-the-key-to-updating-your-dell-gupdate-the-driver-software-of-your-dell-g3-for-enhanced-gaming-performance/"><u>Boost Graphics and Sound Quality: The Key to Updating Your Dell GUpdate the Driver Software of Your Dell G3 for Enhanced Gaming Performance</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722978855293-chronic-headaches-with-neurological-deficits-can-be-associated-with-tumors-strokes-or-demyelinating-diseases-like-multiple-sclerosis/"><u>Chronic Headaches with Neurological Deficits Can Be Associated with Tumors, Strokes, or Demyelinating Diseases Like Multiple Sclerosis.</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/file-funneling-transfer-techniques-for-your-computer-for-2024/"><u>File Funneling Transfer Techniques for Your Computer for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-download-hp-color-laserjet-pro-mfp-m477-all-in-one-printer-driver-pack/"><u>Free Download: HP Color Laserjet Pro MFP M477 All-in-One Printer Driver Pack</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-top-game-graphics-by-updating-to-the-newest-geforce-gtx-1660-ti-software/"><u>Get Top Game Graphics by Updating to the Newest GeForce GTX 1660 Ti Software</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-poco-c51-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Poco C51 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-update-your-windows-pcs-usb-30-gigabit-ethernet-controller-software/"><u>How to Update Your Windows PC's USB 3.0 Gigabit Ethernet Controller Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-epson-gt-s50-printer-driver-on-windows-7-8-or-10-download-now/"><u>Install Epson GT S50 Printer Driver on Windows 7, 8 or 10 - Download Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-instructions-for-installing-new-steelseries-device-drivers-on-your-window-machine/"><u>Step-by-Step Instructions for Installing New SteelSeries Device Drivers on Your Window Machine</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unlock-the-secrets-how-to-get-warframe-up-and-running-again/"><u>Unlock the Secrets: How to Get Warframe Up and Running Again!</u></a></li>
 </ul></div>
 

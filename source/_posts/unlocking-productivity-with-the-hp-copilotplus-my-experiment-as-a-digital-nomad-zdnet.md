@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Productivity with the HP Copilot+: My Experiment as a Digital Nomad | ZDNet"
-date: 2025-01-07T01:02:08.089Z
-updated: 2025-01-12T17:23:22.653Z
+date: 2025-01-13T16:05:46.970Z
+updated: 2025-01-18T18:05:35.037Z
 tags:
   - laptops
 categories:
@@ -42,7 +42,7 @@ This laptop isn't solely for business professionals, though. It's well-rounded e
 Right now is the best time to buy the [Lenovo Gen 12 ThinkPad X1 Carbon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D1D5J1J1%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ccc7251f7-0016-403a-b148-f5d67345d58a%7Cdtp&dtb=1) since it's currently on sale at Amazon for $1,520 -- nearly $1,000 off the original price. I should also mention that there is a variant of the laptop with a 2.8K OLED display, which is the model [I tested back in February](https://www.zdnet.com/article/the-thinkpad-i-recommend-for-hybrid-workers-is-not-lenovos-newest-model/). The [OLED version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D5SNKGZ4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ccc7251f7-0016-403a-b148-f5d67345d58a%7Cdtp&dtb=1) is much more expensive, but I recommend it as an alternative if you can afford it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -79,22 +79,22 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-personalized-and-no-cost-ending-music-samples-available/"><u>[New] 2024 Approved Personalized & No-Cost Ending Music Samples Available</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-fives-finest-tools-for-rapid-video-frame-capturing/"><u>[Updated] 2024 Approved Five's Finest Tools for Rapid Video Frame Capturing</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-precision-zoom-sound-reclaiming-clarity/"><u>2024 Approved Precision Zoom Sound Reclaiming Clarity</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/flvaac-movavi/"><u>FlvからAACへの免責提供 - 動画コンバーターMovaviで簡単に行う方法</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Oppo A56s 5G | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-resolve-the-opengl32dll-missing-error-on-your-pc/"><u>How To Resolve The 'OpenGL32.dll' MISSING ERROR On Your PC</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/schritt-fur-schritt-prozess-zum-in-place-aktualisieren-von-windows-server-2008-r2/"><u>Schritt-Für-Schritt-Prozess Zum In-Place-Aktualisieren Von Windows Server 2008 R2</u></a></li>
-<li><a href="https://extra-support.techidaily.com/srt-file-how-to-open-srt-file-on-windows-or-mac-for-2024/"><u>SRT File How to Open SRT File on Windows or Mac for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-battle-of-flagships-lgs-g4-vs-g3-for-oled-tv-enthusiasts-expert-analysis-at-zdnet/"><u>The Ultimate Battle of Flagships: LG's G4 Vs. G3 for OLED TV Enthusiasts | Expert Analysis at ZDNET</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-samsung-tv-guide-why-the-s90c-oled-is-a-game-changer-and-available-for-less-insider-info-from-zdnet/"><u>The Ultimate Samsung TV Guide: Why the S90C OLED Is a Game-Changer and Available for Less - Insider Info From ZDNET</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-5-versatile-remote-controls-reviewed-smart-choices-for-all-your-devices/"><u>Top 5 Versatile Remote Controls Reviewed – Smart Choices for All Your Devices</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-65-unbeatable-prime-day-television-offers-exclusive-picks-that-are-still-available/"><u>Top 65 Unbeatable Prime Day Television Offers: Exclusive Picks That Are Still Available</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-labor-day-2024-tv-offers-extended-your-ultimate-guide-for-seniors-find-the-best-deals/"><u>Top Labor Day 2024 TV Offers Extended: Your Ultimate Guide for Seniors - Find the Best Deals!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-value-for-money-gaming-displays-a-comprehensive-guide-zdnet/"><u>Top Value-for-Money Gaming Displays : A Comprehensive Guide - ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/transforming-your-budget-achieving-stellar-picture-and-audio-on-a-98-inch-tv-without-breaking-the-bank-zdnet/"><u>Transforming Your Budget: Achieving Stellar Picture & Audio on a 98-Inch TV without Breaking the Bank | ZDNET</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-the-most-effective-indoor-tv-antenna-in-2eplust4-zdnets-in-depth-testing-and-rankings/"><u>Ultimate Guide to the Most Effective Indoor TV Antenna in 2E+t4 - ZDNet's In-Depth Testing and Rankings</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/king-the-potential-of-feast-filled-videography-for-2024/"><u>Unlocking the Potential of Feast-Filled Videography for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-leading-apps-to-create-professional-youtube-intros-for-2024/"><u>[New] 5 Leading Apps to Create Professional YouTube Intros for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-top-15-action-camera-picks-beyond-your-gopro-needs/"><u>[New] Top 15 Action Camera Picks Beyond Your GoPro Needs</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-click-magic-secrets-to-stunning-polished-pics/"><u>[Updated] 2024 Approved Click Magic Secrets to Stunning, Polished Pics</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-navigating-through-windows-11-a-guide-to-automatic-hdr-mode/"><u>[Updated] In 2024, Navigating Through Windows 11 A Guide to Automatic HDR Mode</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/250-asus-15-inch-laptop-with-full-connectivity-sold-at-walmart-top-tech-picks/"><u>$250 ASUS 15-Inch Laptop with Full Connectivity Sold at Walmart - Top Tech Picks</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-learn-money-tricks-top-13-beginner-friendly-income-strategies-on-reddit/"><u>2024 Approved Learn Money Tricks Top 13 Beginner-Friendly Income Strategies on Reddit</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/2024s-elite-lenovo-laptop-lineup-comprehensive-testing-and-insightful-review-zdnet/"><u>2024'S Elite Lenovo Laptop Lineup: Comprehensive Testing and Insightful Review | ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/a-week-with-an-ergonomic-split-keyboard-how-it-transformed-my-pc-setup-insights-from-zdnet/"><u>A Week with an Ergonomic Split Keyboard: How It Transformed My PC Setup - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-apple-m3-macbook-pro-up-to-200-discount-at-amazons-spectacular-spring-deal-insights/"><u>Get the Latest Apple M3 MacBook Pro Up to $200 Discount at Amazon’s Spectacular Spring Deal - Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hps-ultimate-savings-event-discounts-up-to-71-on-monitors-and-laptops-exclusive-deals/"><u>HP's Ultimate Savings Event: Discounts up to 71% on Monitors and Laptops – Exclusive Deals !</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Motorola Moto E13 | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/springs-screen-recorder-unveiled-a-users-perspective-for-2024/"><u>Spring's Screen Recorder Unveiled A User's Perspective for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-next-big-thing-exploring-googles-flagship-chromebook-x-and-what-it-means-for-the-future-of-personal-computing/"><u>The Next Big Thing? Exploring Google's Flagship Chromebook X and What It Means for the Future of Personal Computing</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-portable-displays-featuring-in-depth-reviews-and-comparisons-experts-choice-by-techadvisor/"><u>Top-Rated Portable Displays Featuring In-Depth Reviews & Comparisons - Experts' Choice by TechAdvisor</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-guide-burning-a-flawless-copy-of-dvds-on-your-mac-for-perfect-playback/"><u>Ultimate Guide: Burning a Flawless Copy of DVDs on Your Mac for Perfect Playback</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-student-guide-to-chromebooks-professional-testing-and-reviews-on-the-best-picks-zdnet/"><u>Ultimate Student Guide to Chromebooks: Professional Testing and Reviews on the Best Picks - ZDNet</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/user-created-skins-inspired-by-denon-dn-hc4500-for-dj-deck-controller-step-into-the-design-mode/"><u>User Created Skins Inspired by Denon DN-HC4500 for DJ Deck Controller: Step Into the Design Mode</u></a></li>
 </ul></div>
 

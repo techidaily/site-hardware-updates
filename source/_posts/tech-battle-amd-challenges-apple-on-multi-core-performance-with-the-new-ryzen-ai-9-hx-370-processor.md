@@ -1,7 +1,7 @@
 ---
 title: "Tech Battle: AMD Challenges Apple on Multi-Core Performance with the New Ryzen AI 9 HX 370 Processor"
-date: 2024-08-19T05:53:54.557Z
-updated: 2024-08-20T05:53:54.557Z
+date: 2025-01-17T17:46:40.311Z
+updated: 2025-01-18T16:48:56.782Z
 tags:
   - cpu
 categories:
@@ -34,6 +34,10 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
 
  Speaking of substantial performance advantages of AMD's Zen 5, we cannot omit the single-thread performance of AMD's Ryzen 9000-series processors with 16 cores. Based on leaked CPU-Z benchmark results we have seen so far, the Ryzen 9 9950X is about 15% faster in single-thread workloads. It is about 9% faster in multi-thread workloads than the Ryzen 9 7950X, which is generally in line with performance advantage estimates demonstrated by AMD.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -42,14 +46,11 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -58,8 +59,26 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-engaging-your-audience-with-fb-live-for-2024/"><u>[New] Engaging Your Audience with FB Live for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-diverse-iptv-platforms-integration/"><u>[New] In 2024, Diverse IPTV Platforms Integration</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-thriving-in-the-instagram-economy-a-guide-to-financially-sustaining-content-creation/"><u>[New] Thriving in the Instagram Economy A Guide to Financially Sustaining Content Creation</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/outube-playlist-reordering-simplified-for-2024/"><u>[New] YouTube Playlist Reordering Simplified for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-retro-tech-treasure/"><u>[Updated] 2024 Approved Retro Tech Treasure</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-mastering-gesture-control-a-comprehensive-overview/"><u>[Updated] Mastering Gesture Control A Comprehensive Overview</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-understanding-sns-hdr-pros-features-vs-competitors/"><u>[Updated] Understanding SNS HDR Pro’s Features Vs. Competitors</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amazing-budget-friendly-laptop-for-peak-performance-beats-thinkpads-and-macbooks-sale-exclusive-prime-day-discount/"><u>Amazing Budget-Friendly Laptop for Peak Performance Beats ThinkPads and MacBooks - Sale! Exclusive Prime Day Discount</u></a></li>
+<li><a href="https://article-files.techidaily.com/best-playstation-5-and-xbox-series-x-games-consoles-ranked/"><u>Best PlayStation 5 & Xbox Series X Games Consoles Ranked</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-amazing-deal-on-asus-vivobook-pro-save-300-now-on-amazon-exclusive-sale-covered-by-zdnet/"><u>Discover the Amazing Deal on Asus VivoBook Pro - Save $300 Now on Amazon! Exclusive Sale Covered by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/dont-miss-out-snag-the-discounted-m2-macbook-air-for-just-749-during-amazons-october-prime-day-expert-analysis-by-zdnet/"><u>Don't Miss Out: Snag the Discounted M2 MacBook Air for Just $749 During Amazon's October Prime Day – Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-offer-grab-the-affordable-8-iphone-cam-mount-at-a-steal-cyber-monday-blowout-continues/"><u>Exclusive Offer: Grab the Affordable $8 iPhone Cam Mount at a Steal - Cyber Monday Blowout Continues !</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ideal-thinkpad-models-for-the-modern-hybrid-worker-beyond-lenovos-latest-innovations-techadvice/"><u>Ideal ThinkPad Models for the Modern Hybrid Worker: Beyond Lenovo's Latest Innovations | TechAdvice</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/introducing-lenovos-new-alternative-a-mac-studio-inspired-design-tailored-for-windows-enthusiasts-could-it-surpass-apple-techdigest/"><u>Introducing Lenovo's New Alternative: A Mac Studio-Inspired Design Tailored for Windows Enthusiasts - Could It Surpass Apple? | TechDigest</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/mastering-audio-capture-on-your-mac-with-apowersoft-the-complete-how-to-guide/"><u>Mastering Audio Capture on Your Mac with Apowersoft - The Complete How-To Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-how-to-hide-subtitles-on-prime-video/"><u>Step-by-Step Guide: How to Hide Subtitles on Prime Video</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-quintessential-tech-evolutions-of-2023-that-shifted-the-industry-paradigm-insights-from-zdnet/"><u>The Quintessential Tech Evolutions of 2023 that Shifted the Industry Paradigm | Insights From ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-cyber-monday-promotions-save-massive-discounts-on-razer-blade-14-laptops-up-to-920-off-tech-insights/"><u>Unbeatable Cyber Monday Promotions: Save Massive Discounts on Razer Blade 14 Laptops (Up to $920 Off) | Tech Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-samsung-galaxy-book-pro-the-pinnacle-of-portable-performance-exclusive-insights/"><u>Unveiling Samsung Galaxy Book Pro: The Pinnacle of Portable Performance - Exclusive Insights</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

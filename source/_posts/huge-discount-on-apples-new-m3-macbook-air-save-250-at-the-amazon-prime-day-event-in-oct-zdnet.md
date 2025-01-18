@@ -1,7 +1,7 @@
 ---
 title: Huge Discount on Apple's New M3 MacBook Air - Save $250 at the Amazon Prime Day Event in Oct | ZDNet
-date: 2025-01-07T21:45:45.666Z
-updated: 2025-01-13T00:53:52.230Z
+date: 2025-01-14T19:15:21.377Z
+updated: 2025-01-18T17:00:32.275Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Jason Hiner/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the deal?
@@ -31,7 +31,7 @@ The Apple [M3 MacBook Pro 14"](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FU
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -59,7 +59,7 @@ In addition, with up to 22 hours of battery life, the M3 improves on previous ve
 The [M3 MacBook Pros](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CM5JLWJK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb12ee2ea-4d7b-4e84-84d3-0702024ae9c4%7Cdtp&dtb=1) come in three iconic colors of silver, space gray, and space black, with the all-aluminum body designed to resist scratches and dents, adding to the line's durable reputation. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -98,22 +98,18 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-exploring-the-best-screenshot-apps-for-idevices/"><u>[New] Exploring the Best Screenshot Apps for iDevices</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-chart-your-course-to-adventure-the-comprehensive-guide-to-vr-tours/"><u>[Updated] 2024 Approved Chart Your Course to Adventure The Comprehensive Guide to VR Tours</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-comprehensively-addressed-best-tools-for-efficient-unfollowing-for-2024/"><u>[Updated] Comprehensively Addressed Best Tools for Efficient Unfollowing for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-making-fx-magic-a-novices-step-into-animated-worlds/"><u>2024 Approved Making FX Magic A Novice's Step Into Animated Worlds</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/apple-introduces-the-latest-macbook-air-models-with-advanced-m3-chip-what-to-expect-gizmotechnews/"><u>Apple Introduces the Latest MacBook Air Models with Advanced M3 Chip - What to Expect | GizmoTechNews</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/best-alternative-to-macbook-air-why-the-top-rated-windows-laptop-is-a-must-have-for-everyone-zdnets-picks/"><u>Best Alternative to MacBook Air: Why the Top-Rated Windows Laptop Is a Must-Have for Everyone - ZDNet's Picks</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/best-bargains-before-prime-day-2024-top-saves-and-steals-on-zdnet/"><u>Best Bargains Before Prime Day 2024: Top Saves & Steals on ZDNet</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-samsung-galaxy-a25-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Samsung Galaxy A25 5G? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/find-and-secure-hp-laserjet-p1006-drivers-step-by-step-downloading-tips/"><u>Find and Secure HP LaserJet P1006 Drivers - Step-by-Step Downloading Tips</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-rectify-unmovable-scrolling-in-excel-windows/"><u>How to Rectify Unmovable Scrolling in Excel (Windows)</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-how-to-insert-youtube-playlists-seamlessly-into-a-website/"><u>In 2024, How to Insert YouTube Playlists Seamlessly Into a Website</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-oppo-find-n3-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Oppo Find N3 Phones? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/maximize-productivity-with-a-versatile-10-in-1-dock-now-just-35-cheaper-exclusive-review/"><u>Maximize Productivity with a Versatile 10-in-1 Dock, Now Just 35% Cheaper | Exclusive Review</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-the-ai-revolution-how-our-work-gadgets-are-changing-with-expertise/"><u>Navigating the AI Revolution: How Our Work Gadgets Are Changing with Expertise</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-ultraportable-laptop-with-impressive-all-day-battery-life-a-highlight-from-our-tests/"><u>Top Ultraportable Laptop With Impressive All-Day Battery Life - A Highlight From Our Tests</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-ranking-laptops-for-professional-graphic-artists-in-depth-analysis-and-reviews-by-industry-experts-techadvise/"><u>Top-Ranking Laptops for Professional Graphic Artists: In-Depth Analysis & Reviews by Industry Experts | TechAdvise</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unbeatable-deal-alert-experience-the-ultimate-game-sound-with-top-rated-speakers-now-discounted-at-best-buy-zdnet/"><u>Unbeatable Deal Alert: Experience the Ultimate Game Sound with Top-Rated Speakers Now Discounted at Best Buy - ZDNet</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-secrets-to-effective-vr-game-playback/"><u>[Updated] 2024 Approved Secrets to Effective VR Game Playback</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/1-pro-version-of-horizon-ai-with-enhanced-chakra-ui-and-nextjs-by-creative-tim/"><u>1. Pro Version of Horizon AI with Enhanced Chakra UI and NextJS by Creative Tim</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-wizards-perfect-templates-for-gaming-channel-logos-for-2024/"><u>Design Wizards Perfect Templates for Gaming Channel Logos for 2024</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/el-metodo-optimal-para-transferir-un-imagen-de-volumen-dinamico-al-disco-solido-en-3-pases/"><u>El Método Optimal Para Transferir Un Imagen De Volumen Dinámico Al Disco Sólido en 3 Pases</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-guide-solving-compatibility-issues-with-the-realtek-rtl8811au-device-drivers/"><u>Expert Guide: Solving Compatibility Issues with the Realtek RTL8811AU Device Drivers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exploring-high-definition-sw320-4k-monitor-experience/"><u>Exploring High Definition Sw320 4K Monitor Experience</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-fetch-and-set-up-updated-drivers-for-your-hp-officejet-pro-6970-on-windows/"><u>How to Fetch and Set Up Updated Drivers for Your HP OfficeJet Pro 6970 on Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/microsofts-most-recent-bluetooth-driver-updates-and-downloads-optimized-for-win-11win-10win-8win-7-users/"><u>Microsoft's Most Recent Bluetooth Driver Updates & Downloads - Optimized for Win 11/Win 10/Win 8/Win 7 Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/public-input-is-vital-for-creating-spaces-that-meet-community-needs/"><u>Public Input Is Vital for Creating Spaces that Meet Community Needs.</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-best-in-class-evaluating-the-top-8-sub-to-srt-convertors/"><u>The Best in Class Evaluating the Top 8 Sub to SRT Convertors</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/there-are-five-classes-of-fire-based-on-fuel-type-a-b-c-d-and-k/"><u>There Are Five Classes of Fire Based on Fuel Type: A, B, C, D, and K</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/unveiling-the-syma-x5c-a-beginners-prime-drone-choice-for-2024/"><u>Unveiling the Syma X5C A Beginner’s Prime Drone Choice for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-top-rated-tiktok-watermark-remover-tools-online/"><u>Updated Top Rated TikTok Watermark Remover Tools Online</u></a></li>
 </ul></div>
 

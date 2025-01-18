@@ -1,7 +1,7 @@
 ---
 title: "Meet the Compact Multi-Device Charger: Ideal for Powering Up Laptops, Tablets & Phones"
-date: 2025-01-11T18:19:01.704Z
-updated: 2025-01-13T02:45:45.515Z
+date: 2025-01-16T19:58:37.165Z
+updated: 2025-01-18T16:37:07.510Z
 tags:
   - laptops
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/200bad50912773155a76642b85b00bc52b52d7ab3
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -93,7 +93,7 @@ Compared to a MacBook, one could argue that the Yoga Slim 7x is at least better 
 The MacBook is better suited for the iOS ecosystem, however Lenovo has been making strides in developing a data transfer feature between its laptop and iPhones. So if you're not sure which one to get, the Yoga Slim 7x might be the better long-term investment.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -134,19 +134,24 @@ Creators might also appreciate the fact that Lenovo is also giving [two free mon
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-skyrocket-views-with-these-effective-youtube-methods/"><u>[New] In 2024, Skyrocket Views with These Effective YouTube Methods</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-childs-play-in-the-sky-top-kid-friendly-drones-list/"><u>[Updated] Child's Play in the Sky Top Kid-Friendly Drones List</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-facebook-to-your-screen-top-5-downloader-apps/"><u>[Updated] Facebook to Your Screen Top 5 Downloader Apps</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-highlighting-the-best-ways-to-convert-youtube-to-mp4/"><u>2024 Approved Highlighting the Best Ways to Convert YouTube to MP4</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exclusive-access-securing-your-spot-for-amazons-prime-day-early-bird-offers-complete-guide/"><u>Exclusive Access: Securing Your Spot for Amazon's Prime Day Early Bird Offers - Complete Guide</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-logitech-g35-driver-and-installation-guide-for-various-windows-versions/"><u>Get Logitech G35 Driver and Installation Guide for Various Windows Versions</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>How to Change Netflix Location to Get More Country Version On Apple iPhone 6 Plus | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/is-it-time-to-upgrade-to-an-8k-television-pros-and-cons-decoded-by-a-tech-guru-insights-for-savvy-shoppers/"><u>Is It Time to Upgrade to an 8K Television? Pros and Cons Decoded by a Tech Guru - Insights for Savvy Shoppers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/labor-day-special-score-unbeatable-prices-on-premium-qled-tvs-tested-and-recommended-by-zdnet-now-1k-off/"><u>Labor Day Special: Score Unbeatable Prices on Premium QLED TVs Tested and Recommended by ZDNET, Now $1K Off!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/revolutionize-your-home-cinema-experience-boost-tv-picture-quality-in-5-simple-steps-expert-guide-from-zdnet/"><u>Revolutionize Your Home Cinema Experience! Boost TV Picture Quality in 5 Simple Steps | Expert Guide From ZDNET</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/solving-the-issue-how-to-fix-a-non-responsive-computer-mouse-expert-tips-from-yl-computing/"><u>Solving the Issue: How to Fix a Non-Responsive Computer Mouse - Expert Tips From YL Computing</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unlocking-the-secrets-of-lut-production-for-2024/"><u>Unlocking the Secrets of LUT Production for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/zdnet-reviews-top-immersive-audio-gear-that-beats-both-bose-and-sonos-in-a-head-to-head-comparison/"><u>ZDNet Reviews Top Immersive Audio Gear That Beats Both Bose and Sonos in a Head-to-Head Comparison!</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/44oq44od44kv44ki44od44ox44ov44kh44kk44or5lit44gu5bplusf6kab44gq5oof5acx44gu44g5b6p5ywd5pa55rov/"><u>バックアップファイル中の必要な情報のみ復元方法</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-effective-social-crossposting-from-twitch-to-fb/"><u>[New] Effective Social Crossposting From Twitch to FB</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-picsart-masterclass-full-analysis-tutorial-and-review-for-the-year-2024/"><u>[New] PicsArt Masterclass Full Analysis, Tutorial & Review for the Year 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/he-ultimate-directory-of-freely-licensed-sound-sources-for-2024/"><u>[New] The Ultimate Directory of Freely Licensed Sound Sources for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-pro-gif-maker-software-that-wins-every-time-for-2024/"><u>[Updated] Pro-Gif Maker Software That Wins Every Time for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-decision-making-in-the-workplace-a-neurological-approach-to-efficacy-and-ethics/"><u>2024 Approved Decision-Making in the Workplace A Neurological Approach to Efficacy and Ethics</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-now-focusrites-scarlett-solo-top-quality-usb-microphone-preamp-for-win-1011/"><u>Download Now: Focusrite's Scarlett Solo - Top-Quality USB Microphone Preamp for Win 10/11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-ftdi-ft232r-usb-to-uart-bridge-chip-drivers-fast/"><u>Download the FTDI FT232R USB-to-UART Bridge Chip Drivers Fast</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-steps-keeping-your-epson-printer-up-to-date-with-the-newest-windows-11-drivers/"><u>Easy Steps: Keeping Your Epson Printer Up-to-Date with the Newest Windows 11 Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-to-follow-instructions-get-the-newest-epson-ds-530-driver-for-64-bit-windows-10/"><u>Easy to Follow Instructions: Get the Newest Epson DS-530 Driver for 64-Bit Windows 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-zebra-printing-drivers-for-windows-download-guide/"><u>Get the Newest Zebra Printing Drivers for Windows: Download Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-hands-on-insignia-usbhdd-drives-swift-setup-for-windows-users/"><u>Get Your Hands on Insignia USB/HDD Drives - Swift Setup for Windows Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-windows-10-or-11-bluetooth-driver-from-msi-free-download/"><u>Get Your Windows 10 or 11 Bluetooth Driver From MSi - Free Download</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-most-successful-profit-making-youtuber/"><u>In 2024, Most Successful Profit-Making YouTuber</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-on-iphone-14-pro-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID On iPhone 14 Pro Making It Possible</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-logitech-momo-trackmania-wheel-on-pc-first-time-driver-setup-guide-and-download-link/"><u>Install Logitech MOMO TrackMania Wheel on PC – First-Time Driver Setup Guide and Download Link</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-dragons-dogma-2-performance-issues-tips-to-resolve-lag-and-frame-drops/"><u>Solving Dragon's Dogma 2 Performance Issues: Tips to Resolve Lag & Frame Drops</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-successfully-downloading-your-dell-mouse-driver/"><u>Step-by-Step Guide: Successfully Downloading Your Dell Mouse Driver</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-trick-to-find-and-update-your-sandisk-ssd-drives-necessary-drivers/"><u>Ultimate Trick to Find and Update Your SanDisk SSD Drive's Necessary Drivers</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-tecno-spark-20-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Tecno Spark 20.</u></a></li>
 </ul></div>
 

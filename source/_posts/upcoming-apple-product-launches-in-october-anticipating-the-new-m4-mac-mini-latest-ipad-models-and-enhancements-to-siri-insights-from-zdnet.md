@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Apple Product Launches in October: Anticipating the New M4 Mac Mini, Latest iPad Models & Enhancements to Siri - Insights From ZDNet"
-date: 2025-01-04T07:03:30.718Z
-updated: 2025-01-06T12:24:14.378Z
+date: 2025-01-17T16:02:29.575Z
+updated: 2025-01-18T18:20:00.101Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,14 +118,21 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/1715806247227-2024-approved-detailed-evaluation-razer-kiyo-webcam/"><u>2024 Approved Detailed Evaluation - Razer Kiyo Webcam</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-guide-to-accessing-hp-technical-support-applications/"><u>Comprehensive Guide to Accessing HP Technical Support Applications</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-official-drivers-for-your-new-samsung-tlc-flash-drive/"><u>Download & Install Official Drivers for Your New Samsung TLC Flash Drive</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/1716803484168-in-2024-how-to-make-collab-videos-and-grow-your-channel/"><u>In 2024, How to Make Collab Videos And Grow Your Channel?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/master-your-art-on-iphone-discover-the-8-prime-drawing-tools-for-2024/"><u>Master Your Art on iPhone Discover the 8 Prime Drawing Tools for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/professional-video-editor-and-converter-suite-unlock-premium-features-in-factory-pro/"><u>Professional Video Editor & Converter Suite: Unlock Premium Features in Factory Pro</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-resource-for-computer-enthusiasts-by-toms-hardware/"><u>The Ultimate Resource for Computer Enthusiasts by Tom's Hardware</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/transform-your-brand-with-a-decades-worth-of-smm-wisdom-distilled-into-10-steps/"><u>Transform Your Brand with a Decade's Worth of SMM Wisdom, Distilled Into 10 Steps</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722962379673-update-your-hp-scanjet-printer-for-windows-downloads-for-w10w11w8w7-users/"><u>Update Your HP Scanjet Printer for Windows: Downloads for W10/W11/W8/W7 Users</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-integrating-easy-to-use-timestamps-into-your-youtube-videos/"><u>[Updated] 2024 Approved Integrating Easy-to-Use Timestamps Into Your YouTube Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-live-webcam-streaming-made-easy-top-18-software-highlights/"><u>2024 Approved Live Webcam Streaming Made Easy Top 18 Software Highlights</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/direct-transmission-of-media-files-between-iphones/"><u>Direct Transmission of Media Files Between iPhones</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722975824788-effortless-driver-setup-for-asus-z370-deluxe-get-the-asus-maximus-crosshair-iii-ready/"><u>Effortless Driver Setup for Asus Z370 Deluxe - Get the ASUS Maximus Crosshair III Ready!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-hands-on-the-official-logitech-k400-plus-keyboard-drivers-download-now/"><u>Get Your Hands on the Official Logitech K400 Plus Keyboard Drivers - Download Now!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-sonic-shifts-for-strategic-victories-in-free-fire/"><u>In 2024, Sonic Shifts for Strategic Victories in Free Fire</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722970733572-instant-access-to-your-dell-latitude-e6420-driver-download-fast-simple-techniques/"><u>Instant Access to Your Dell Latitude E6420 Driver Download: Fast, Simple Techniques</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/new-release-compatible-hp-scanjet-drivers-for-windows-operating-systems-11-8-and-e/"><u>New Release: Compatible HP Scanjet Drivers for Windows Operating Systems (11, 8, & E)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/nvidia-driver-updates-free-download-and-installation-guide-for-gamers-on-windows/"><u>NVIDIA Driver Updates - Free Download & Installation Guide for Gamers on Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-and-easy-installation-of-hp-drivers-your-guide/"><u>Quick & Easy Installation of HP Drivers: Your Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/still-using-pattern-locks-with-google-pixel-8-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Google Pixel 8? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/the-ultimate-toolkit-disabling-background-noise-during-gmeets-for-2024/"><u>The Ultimate Toolkit Disabling Background Noise During GMeets for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-notetaking-tablets-of-2024-comprehensive-reviews-and-comparisons/"><u>Top Rated Notetaking Tablets of 2024: Comprehensive Reviews & Comparisons</u></a></li>
+<li><a href="https://techtrends.techidaily.com/uncovering-hidden-contact-details-on-android-how-to-find-and-restore-deleted-phone-numbers/"><u>Uncovering Hidden Contact Details on Android: How to Find and Restore Deleted Phone Numbers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-the-issues-when-iphone-visual-recognition-fails/"><u>Understanding the Issues: When iPhone Visual Recognition Fails</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-to-newest-epson-wf-3640-printer-software-on-your-windows-machine/"><u>Update to Newest Epson WF-3640 Printer Software on Your Windows Machine</u></a></li>
 </ul></div>
 

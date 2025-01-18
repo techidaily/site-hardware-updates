@@ -1,7 +1,7 @@
 ---
 title: Lenovo's Ultimate Portable Secret Revealed! The Ingenious TrackPoint Feature & Extra Tricks Within | Insights
-date: 2025-01-10T20:26:33.125Z
-updated: 2025-01-12T22:48:52.046Z
+date: 2025-01-17T16:37:09.320Z
+updated: 2025-01-18T18:01:06.197Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -77,7 +77,7 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -116,20 +116,24 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/oosting-views-with-analytics-in-youtube-strategy/"><u>[New] Boosting Views with Analytics in YouTube Strategy</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ree-film-resource-highlights-where-to-start-your-search/"><u>[New] Free Film Resource Highlights Where to Start Your Search</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-movavi-screen-recorder-11-for-2024/"><u>[New] Movavi Screen Recorder 11 for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-secrets-of-9-high-quality-webcam-enhancements/"><u>[Updated] Secrets of 9 High-Quality Webcam Enhancements</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-advanced-tactics-for-maximizing-the-use-of-virtual-boards-during-zoom-sessions-desktopiosandroid/"><u>2024 Approved Advanced Tactics for Maximizing the Use of Virtual Boards During Zoom Sessions (Desktop/iOS/Android)</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-taste-titans-must-follow-culinary-creators-online/"><u>2024 Approved Taste Titans Must-Follow Culinary Creators Online</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/a-full-week-with-the-split-ergo-keyboard-how-one-change-revolutionized-my-workspace-insights-from-zdnet/"><u>A Full Week with the Split Ergo-Keyboard: How One Change Revolutionized My Workspace - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/diy-laptop-upgrades-how-to-successfully-boost-ram-insights/"><u>DIY Laptop Upgrades: How to Successfully Boost RAM - Insights</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-oppo-reno-10-5g-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Oppo Reno 10 5G</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/experience-unbeatable-memorial-day-savings-save-550-on-the-ultra-capable-lenovo-notebook-exclusive-deals/"><u>Experience Unbeatable Memorial Day Savings: Save $550 on the Ultra-Capable Lenovo Notebook - Exclusive Deals !</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/save-big-on-macbook-repairs-with-this-revolutionary-laptop-protector-insight/"><u>Save Big on MacBook Repairs with This Revolutionary Laptop Protector Insight</u></a></li>
-<li><a href="https://driver-install.techidaily.com/secure-your-printer-update-officejet-pro-8620-drivers-in-windows/"><u>Secure Your Printer: Update OfficeJet Pro 8620 Drivers in Windows</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/setting-up-bing-images-as-background-in-windows-10/"><u>Setting Up Bing Images as Background in Windows 10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-vpn-providers-comprehensive-reviews-by-tech-experts/"><u>Top-Rated VPN Providers : Comprehensive Reviews by Tech Experts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/zdnets-expert-review-on-panasonic-toughbook-g2-a-robust-and-versatile-laptop-designed-for-harsh-environments/"><u>ZDNet's Expert Review on Panasonic Toughbook G2 - A Robust and Versatile Laptop Designed for Harsh Environments</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-ultimate-choice-10-excellent-camera-lenses/"><u>[New] 2024 Approved Ultimate Choice 10 Excellent Camera Lenses</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-the-rewind-ritual-making-playlists-run-opposite-to-current/"><u>[Updated] In 2024, The Rewind Ritual Making Playlists Run Opposite to Current</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-ultimate-5-aquatic-filter-add-ons-for-gopro-for-2024/"><u>[Updated] Ultimate 5 Aquatic Filter Add-Ons for GoPro for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/boost-your-visual-output-downloading-the-newest-intel-hd-graphics-driver-v396/"><u>Boost Your Visual Output - Downloading the Newest Intel HD Graphics Driver V.3.96</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-set-up-steelseries-graphics-driver-on-your-pc/"><u>Download and Set Up SteelSeries Graphics Driver on Your PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-logitech-m510-driver-update-tutorial-get-started-today/"><u>Easy Logitech M510 Driver Update Tutorial - Get Started Today!</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-review-of-overwatch-competitive-edge-meets-team-tactics-in-shooter-gaming/"><u>Expert Review of Overwatch: Competitive Edge Meets Team Tactics in Shooter Gaming.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-logitech-driving-force-gt-wheel-simulator-downloads-for-pc-windows-7-10-and-11/"><u>Free Logitech Driving Force GT Wheel Simulator Downloads for PC - Windows 7, 10 & 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-download-and-install-hp-wireless-network-drivers-for-windows-computers/"><u>How to Download and Install HP Wireless Network Drivers for Windows Computers</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-the-easy-tricks-for-eliminating-unwanted-youtube-content-pcmobile-for-2024/"><u>Learn the Easy Tricks for Eliminating Unwanted Youtube Content (PC/Mobile) for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/official-logitech-g510-software-installation-guide-supports-windows-7-to-10/"><u>Official Logitech G510 Software Installation Guide - Supports Windows 7 to 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-unexpected-amd-radeon-wattman-configuration-resets-easy-solutions-revealed/"><u>Overcoming Unexpected AMD Radeon Wattman Configuration Resets - Easy Solutions Revealed</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/premier-top-8-4k-blu-ray-playback-machines-for-2024/"><u>Premier Top 8 4K Blu-Ray Playback Machines for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-guide-download-and-update-epson-et-2750-printer-software-for-pcs/"><u>Quick Guide: Download & Update Epson ET-2750 Printer Software for PCs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-driver-installation-for-asus-z370-e-fast-and-simple/"><u>Step-by-Step Driver Installation for ASUS Z370-E - Fast & Simple</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-12-free-movie-streaming-sites-no-downloads-required/"><u>Top 12 Free Movie Streaming Sites – No Downloads Required</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-guide-why-your-pc-doesnt-recognize-tl-wn722n-wifi-adapter/"><u>Troubleshooting Guide: Why Your PC Doesn't Recognize TL-WN722N WiFi Adapter</u></a></li>
+<li><a href="https://win11.techidaily.com/unblock-windows-shared-drive-with-ease/"><u>Unblock Windows Shared Drive with Ease</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/is-the-youtube-highlighted-comment-in-2024/"><u>What Is the YouTube Highlighted Comment, In 2024</u></a></li>
 </ul></div>
 

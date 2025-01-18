@@ -1,7 +1,7 @@
 ---
 title: "Exclusively Invited: Enjoy Windows on Your Chromebook or Mac with Microsoft's Latest Innovation | ZDNet Insider"
-date: 2025-01-11T19:20:31.121Z
-updated: 2025-01-12T17:04:35.808Z
+date: 2025-01-14T18:10:29.898Z
+updated: 2025-01-18T16:06:27.796Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ That's right. Apple said the "A" word, and it's not being shy about it, as my af
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Apple is _officially_ in the AI PC race
@@ -55,7 +55,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 Apple also wants you to know that it's _been_ in the [AI PC race](https://www.zdnet.com/article/what-is-an-ai-pc-and-should-you-buy-one/) since the very beginning, with just about every Mac model now carrying neural engines for machine learning. The new MacBook Air is "the best consumer laptop for AI," the company touts in its Monday press release, but we'll have to see for ourselves when we put the 13- and 15-inch models through the wringer soon.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. I can finally recommend the Midnight color
@@ -67,7 +67,7 @@ AI aside, there is one subtle design change to the new MacBooks that I really di
 Considering how easy it was to get smudges and marks on the original Midnight color of the MacBook Air -- which made lighter hue options look like rockstars -- this is a welcome change. Having fumbled with the MacBooks for a quick 10-minute photo-op, the fingerprints were noticeable, though not as bad as I remembered on the M2 Air. For me, this makes the Midnight variant recommendable again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Dual-monitor support is a bigger deal than it seems
@@ -110,16 +110,16 @@ All in all, the changes to the newest line of MacBook Air feel subtle on paper b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-innovative-techniques-for-video-editing-on-windows-8-movie-maker/"><u>[New] 2024 Approved Innovative Techniques for Video Editing on Windows 8 Movie Maker</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-sharpening-vision-in-depth-hdr-techniques-in-photoshop/"><u>[New] In 2024, Sharpening Vision In-Depth HDR Techniques in PhotoShop</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-exploring-new-dimensions-q500-typhoon-adventure/"><u>[Updated] In 2024, Exploring New Dimensions Q500 Typhoon Adventure</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-innovative-strategies-for-recording-in-audacity/"><u>2024 Approved Innovative Strategies for Recording in Audacity</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-the-hidden-gems-exploring-the-surprising-trackpoint-and-more-in-this-compact-lenovo-notebook-zdnet/"><u>Discover the Hidden Gems: Exploring the Surprising TrackPoint and More in This Compact Lenovo Notebook | ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/essential-cooling-gadget-every-tech-enthusiast-must-have-for-peak-laptop-performance-insights-from-zdnet/"><u>Essential Cooling Gadget Every Tech Enthusiast Must Have for Peak Laptop Performance - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/essential-work-laptop-picks-alternatives-to-dell-and-lenovo-for-optimal-office-productivity/"><u>Essential Work Laptop Picks: Alternatives to Dell & Lenovo for Optimal Office Productivity</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/experiencing-lenovos-clearbook-a-functional-marvel-unveiled-at-mobile-world-congress-insights/"><u>Experiencing Lenovo's Clearbook: A Functional Marvel Unveiled at Mobile World Congress - Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/forging-ethical-boundaries-in-the-ai-landscape/"><u>Forging Ethical Boundaries in the AI Landscape</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-apple-iphone-se-2022-by-drfone-ios/"><u>How Do You Remove Restricted Mode on Apple iPhone SE (2022)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/simplify-your-desktop-resetting-icon-cache-on-win-7-8-and-vista-made-easy/"><u>Simplify Your Desktop: Resetting Icon Cache on Win 7, 8 & Vista Made Easy</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-bridge-gaps-in-distance-mastering-xbox-one-zooming-for-2024/"><u>[New] Bridge Gaps in Distance Mastering Xbox One Zooming for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-streamer-profitability-analysis-and-verification/"><u>[New] In 2024, Streamer Profitability Analysis and Verification</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-a-laugh-away-in-time-the-goofy-movie-remastered/"><u>[Updated] A Laugh Away in Time The 'Goofy Movie' Remastered</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-ions-pro-3-vision-cutting-edge-action-video-recording/"><u>[Updated] ION's Pro 3 Vision Cutting-Edge Action Video Recording</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-advice-how-to-find-and-install-the-latest-acer-aspire-drivers-in-a-windows-environment/"><u>Expert Advice: How to Find and Install the Latest Acer Aspire Drivers in a Windows Environment</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-download-ultimate-guide-to-installing-the-latest-killer-e2500-gigabit-ethernet-controllers/"><u>Free Download: Ultimate Guide to Installing the Latest Killer E2500 Gigabit Ethernet Controllers</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722961491603-install-current-drivers-for-gigabytes-z370-pcie-atx-board-do-it-now/"><u>Install Current Drivers for Gigabyte's Z370 PCIe ATX Board - Do It Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/obtaining-the-latest-logitech-mk710-software-secure-your-downloads-today/"><u>Obtaining the Latest Logitech MK710 Software: Secure Your Downloads Today</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-ultimate-guide-fix-your-unresponsive-facetime-connection-with-these-simple-6-steps/"><u>The Ultimate Guide: Fix Your Unresponsive FaceTime Connection with These Simple 6 Steps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/windows-11-v2004-upgrade-made-easy-using-conexant-drivers/"><u>Windows 11 v2004 Upgrade Made Easy Using Conexant Drivers</u></a></li>
 </ul></div>
 

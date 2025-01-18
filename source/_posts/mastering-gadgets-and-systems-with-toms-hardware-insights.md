@@ -1,7 +1,7 @@
 ---
 title: Mastering Gadgets and Systems with Tom's Hardware Insights
-date: 2024-08-19T05:54:21.770Z
-updated: 2024-08-20T05:54:21.770Z
+date: 2025-01-12T16:16:59.493Z
+updated: 2025-01-18T17:23:47.252Z
 tags:
   - cpu
 categories:
@@ -23,6 +23,10 @@ AMD has listed the new Ryzen 5 9600X for pre-order on its[Canadian Amazon store]
   
  AMD showed the Ryzen 5 9600X crushing Intel's Core i5-14600K by 22% in productivity[benchmarks](https://www.tomshardware.com/tag/benchmark) and 11% in gaming at its Zen 5 Tech Day, with an 88W peak power draw versus Intel's 181W. A lead of this margin for almost half of the power shows strong performance for the bottom of AMD's Zen 5 desktop CPU slate, though as always we need to take manufacturer benchmarks with a spoonful of salt. If AMD prices Ryzen 5 9600X below $300 (which we suspect it will, eventually), it becomes a shoo-in for[our best value CPU](https://www.tomshardware.com/reviews/best-cpus,3986.html#section-value-best-cpu-for-gaming-200-to-250) , a spot currently held by the Ryzen 5 7600X.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -37,8 +41,6 @@ AMD has listed the new Ryzen 5 9600X for pre-order on its[Canadian Amazon store]
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -46,8 +48,22 @@ AMD has listed the new Ryzen 5 9600X for pre-order on its[Canadian Amazon store]
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-download.techidaily.com/download-geforce-rtx-3090-driver-for-windows-11-8-or-7/"><u>[Download] GeForce RTX 3090 Driver for Windows 11, 8 or 7</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-navigating-the-viral-internet-landscape/"><u>[Updated] Navigating the Viral Internet Landscape</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-live-pro-tips-outfitting-with-excellent-webcams/"><u>[Updated] YouTube Live Pro Tips Outfitting with Excellent Webcams</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/timate-android-and-ios-downloading-tools-reviewed/"><u>25 Ultimate Android & iOS Downloading Tools Reviewed</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/adonit-nest-usb-hub-at-unbeatable-price-now-only-65-perfect-for-remote-professionals/"><u>Adonit Nest USB Hub at Unbeatable Price - Now Only $65! Perfect for Remote Professionals</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/assassins-creed-valhalla-evaluation-unveiling-a-thrilling-viking-journey-through-the-medieval-era/"><u>Assassin's Creed: Valhalla Evaluation – Unveiling a Thrilling Viking Journey Through the Medieval Era</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-value-meta-quest-3-snap-up-the-unbeatable-512gb-offer-during-halloween-prime-day-specials-zdnets-guide/"><u>Best Value Meta Quest 3: Snap Up the Unbeatable 512GB Offer During Halloween Prime Day Specials - ZDNet's Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/beyond-compare-microsoft-surface-laptop-vs-macbook-air-triumph-of-copilotplus-in-a-trio-of-metrics-exclusively-for-zdnet-readers/"><u>Beyond Compare: Microsoft Surface Laptop vs MacBook Air – Triumph of Copilot+ in a Trio of Metrics | Exclusively for ZDNet Readers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/deal-alert-asus-15-laptop-available-at-walmart-for-only-250-full-peripheral-support-tech-news-by-zdnet/"><u>Deal Alert: ASUS 15 Laptop Available at Walmart for Only $250 - Full Peripheral Support | Tech News by ZDNet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-iphone-se-2022-camera-roll-photos-and-photo-stream-pictures-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted iPhone SE (2022) Camera Roll Photos and Photo Stream Pictures? | Stellar</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-meizu-21-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ified-guide-instant-deletion-methods-for-youtube-discussions/"><u>Simplified Guide Instant Deletion Methods for Youtube Discussions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-deal-alert-steal-a-high-quality-15-inch-asus-laptop-from-walmart-at-an-unbelievable-price-of-250-featuring-all-essential-connectivity/"><u>Ultimate Deal Alert: Steal a High-Quality 15-Inch ASUS Laptop From Walmart at an Unbelievable Price of $250 - Featuring All Essential Connectivity!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-deal-discounted-8tb-samsung-portable-ssd-post-prime-day-on-amazon/"><u>Unbeatable Deal: Discounted 8TB Samsung Portable SSD Post-Prime Day on Amazon</u></a></li>
+<li><a href="https://fox-http.techidaily.com/whatsapp-narratives-the-sound-factor-for-2024/"><u>WhatsApp Narratives The Sound Factor for 2024</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->

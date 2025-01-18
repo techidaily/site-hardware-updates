@@ -1,7 +1,7 @@
 ---
 title: Windows Fans Rejoice! Lenovo Unveils a Competing Mac Studio, Promising Superior Features | ZDNET
-date: 2025-01-09T20:57:35.167Z
-updated: 2025-01-12T23:10:37.888Z
+date: 2025-01-11T17:32:43.909Z
+updated: 2025-01-18T19:30:11.442Z
 tags:
   - laptops
 categories:
@@ -22,7 +22,7 @@ At [CES 2024](https://www.zdnet.com/topic/ces-2024/), Lenovo plans to show off a
 Without question, the new PC resembles a [Mac Studio](https://www.zdnet.com/article/apple-mac-studio-m2-ultra-review/), coming with a main desktop unit in the shape of a small box alongside a monitor. It houses all of the major components like a neural processing unit, or NPU for short. This utilizes [AI](https://www.zdnet.com/article/what-is-ai-heres-everything-you-need-to-know-about-artificial-intelligence/) to provide a third resource for the computer, improving its overall performance. It can even be upgraded, letting you modulate the device's performance however you want.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Special Feature
@@ -85,18 +85,21 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-impression-making-techniques-crafting-powerful-podcast-logos-for-2024/"><u>[Updated] Impression-Making Techniques Crafting Powerful Podcast Logos for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-step-by-step-freeipodcasts-downloads-on-iphone/"><u>[Updated] In 2024, Step-by-Step FreeiPodcasts Downloads on iPhone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-essential-igtv-feeds-for-modern-viewers/"><u>2024 Approved Essential IGTV Feeds for Modern Viewers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/2024s-leading-gaming-laptops-compared-elite-picks-from-razer-acer-msi-and-beyond-expert-analysis-by-zdnet/"><u>2024'S Leading Gaming Laptops Compared: Elite Picks From Razer, Acer, MSI and Beyond | Expert Analysis by ZDNET</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/a-month-with-a-dell-xps-15-why-i-made-the-switch-from-my-macbook-tech-insights/"><u>A Month with a Dell XPS 15: Why I Made the Switch From My MacBook | Tech Insights</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/advanced-hardware-guides-from-toms-technology-zone/"><u>Advanced Hardware Guides From Tom's Technology Zone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-guide-find-your-ideal-laptop-at-unbeatable-prices-during-the-october-202-query/"><u>Expert Guide: Find Your Ideal Laptop at Unbeatable Prices During the October 202 [Query]</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Huawei Nova Y91 | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-unparalleled-selection-of-8-android-multiparty-tools/"><u>In 2024, Unparalleled Selection of 8 Android Multiparty Tools</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/m3-max-what-buyers-need-to-understand/"><u>M3 Max - What Buyers Need to Understand</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-xiaomi-14-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Xiaomi 14</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-top-rated-portable-computers-perfect-for-telecommuters-as-reviewed-by-zdnet/"><u>Ultimate Guide: Top-Rated Portable Computers Perfect for Telecommuters, as Reviewed by ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/why-go-hybrid-discover-comparable-windows-contenders-to-macbook-air-with-cutting-edge-features-insights/"><u>Why Go Hybrid? Discover Comparable Windows Contenders to MacBook Air with Cutting-Edge Features Insights</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-partitioned-presence-ranking-splittest-cam/"><u>[New] In 2024, Partitioned Presence Ranking Splittest Cam</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-official-nvidia-geforce-rtx-3070-ti-drivers-supports-win-11-8-and-7/"><u>Download Official NVIDIA GeForce RTX 3070 Ti Drivers - Supports Win 11, 8 & 7</u></a></li>
+<li><a href="https://windows11.techidaily.com/easily-overcome-excel-blank-file-glitches-top-advice-for-a-smooth-solution/"><u>Easily Overcome Excel Blank File Glitches: Top Advice for a Smooth Solution</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-access-to-downloading-and-configuring-evga-drivers-on-your-windows-machine/"><u>Easy Access to Downloading and Configuring EVGA Drivers on Your Windows Machine</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-update-and-installation-guide-for-d-link-device-drivers-on-windows/"><u>Free Update and Installation Guide for D-Link Device Drivers on Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-canon-pixma-mg2522-driver-for-enhanced-printing-performance/"><u>Get the Newest Canon PIXMA MG2522 Driver for Enhanced Printing Performance</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/gratuit-comment-transformer-votre-video-mts-en-formats-mp4-efficacement/"><u>Gratuit: Comment Transformer Votre Vidéo MTS En Formats MP4 Efficacement</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-xiaomi-redmi-k70e-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Xiaomi Redmi K70E to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-honor-90-gt-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Honor 90 GT</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-embark-into-the-best-youtube-vr-content-ever/"><u>In 2024, Embark Into the Best YouTube VR Content Ever</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-samsung-galaxy-xcover-6-pro-tactical-edition-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Samsung Galaxy XCover 6 Pro Tactical Edition to New Android? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/secure-and-optimize-your-epson-wf-352t-printer-performance-by-downloading-the-newest-windows-driver-here/"><u>Secure & Optimize Your Epson WF-352t Printer Performance by Downloading the Newest Windows Driver Here</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/solving-audio-issues-effective-strategies-from-yl-softwares-expert-guide/"><u>Solving Audio Issues: Effective Strategies From YL Software’s Expert Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-resource-find-and-update-creative-webcams-with-latest-windows-compatible-drivers/"><u>Ultimate Resource: Find & Update Creative Webcams with Latest Windows-Compatible Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/updated-drivers-for-hp-scanjet-on-windows-1087-get-them-here/"><u>Updated Drivers for HP Scanjet on Windows 10/8/7: Get Them Here!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/xperia-iphone202e/"><u>Xperia に対してiPhoneがどう勝る？最新スマホ202e比較ですべて解明！</u></a></li>
 </ul></div>
 

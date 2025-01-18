@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide to the Best 15-Inch Portable PCs : Rigorous Analysis and Ratings"
-date: 2025-01-09T19:27:07.045Z
-updated: 2025-01-13T02:00:00.924Z
+date: 2025-01-14T18:14:02.968Z
+updated: 2025-01-18T19:26:29.562Z
 tags:
   - laptops
 categories:
@@ -22,13 +22,13 @@ For those of us who'd been working with Linux for some time, that was more a bot
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is the best Linux laptop right now?
 
 We went hands-on with some of the best laptops on the market that can run Linux, testing their performance, battery, and features. Our pick for the best Linux laptop overall is the [Lenovo ThinkPad Z13 Gen 2](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1796374-REG%2Flenovo%5F21jv000dus%5F13%5F3%5Fthinkpad%5Fz13%5Fgen.html) is our top pick due to its more affordable price and customization options. Check out the rest of the list to learn about our other top picks. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The best Linux laptops of 2024
 
@@ -74,14 +74,10 @@ Cons
 * Expensive at higher configurations
 * No fast charge feature
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Dell XPS 15
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best configurable Linux laptop
@@ -111,11 +107,11 @@ Cons
 * May feel fragile to some users
 * Somewhat short battery life
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Acer Swift Edge
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best AMD-based Linux laptop
 
@@ -143,6 +139,10 @@ Cons
 * Expensive
 * No AMD option
 * No 4K or touchscreen display options
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## MSI Stealth Studio AI
 
@@ -174,10 +174,6 @@ Cons
 
 ## Microsoft Surface Laptop Studio 2
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best battery life in a Linux laptop
 
 The [Microsoft Surface Laptop Studio 2](https://www.zdnet.com/article/microsoft-surface-laptop-studio-2-hands-on-review/) offers one of the best battery lives on the market, let alone for a Linux-capable machine. You can get up to 19 hours of use on a full charge. This impressive battery life means you can take it to work with you, tackle your workflow in Windows, and then boot up in Linux at home and tinker with projects until dinner. 
@@ -193,7 +189,7 @@ Both Kerry Wan and Max Buondonno of ZDNET got to try out the Surface Laptop Stud
 Show Expert Take Show less 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is the best Linux laptop?
@@ -233,10 +229,6 @@ What makes a machine worthy of belonging to the best Linux laptop list? Obviousl
 * **Cost:** Since Linux can run on just about any laptop as long as the hardware is supported, you can choose an older model (or even a used one) to load the operating system onto. This means you can save money on upgrades, especially if you're just starting out learning Linux.
 * **Open-source support:** Linux is an open-source operating system. You can find tons of online communities dedicated to learning Linux, tweaking source code, and reporting issues.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How did we choose these Linux laptops?
 
 While we were researching and testing each Linux-compatible laptop on this list, we kept these criteria in mind:
@@ -248,6 +240,10 @@ While we were researching and testing each Linux-compatible laptop on this list,
 ## What is Linux?
 
 Linux is an open-source operating system, created by Linus Torvalds, that is not only suited for desktops and laptops, but for enterprise-grade servers, container deployments, the cloud, and much more. Linux is available as a distribution and can be downloaded and installed for free on as many machines as you need.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Can you run Linux on a Mac?
 
@@ -262,7 +258,7 @@ The biggest hurdles you'll have to face when using Linux over Windows or MacOS a
 **Also:** [**Windows, Mac, or Linux? We compare the pros and cons of these computing platforms**](https://www.zdnet.com/article/windows-mac-or-linux-we-compare-the-pros-and-cons-of-these-computing-platforms/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What does "open-source" mean?
@@ -276,6 +272,10 @@ Linux is popular with programmers since it is open-source, which means that it's
 The great thing about Linux is that it is an open source operating system. Which means there are a lot of different versions out there on forums and also the Internet Archive. And since there are so many different release versions, newcomers looking to save money on their first dedicated or dual-boot Linux machine can pick up a vintage computer at a thrift store, estate sale, or other secondhand store and likely find an operating system version that will run with it.
 
 A thread on the [Linux Mint Forums](https://forums.linuxmint.com/viewtopic.php?t=228393) is full of users who were able to use various versions of Linux Mint as well as Puppy (a version of Linux designed to be run from a flash drive, making it great for hobbyists who restore vintage tech) and Ubuntu on Windows Vista and Windows 98 computers (which intrepid tech hunters may be able to find for a bargain at a thrift store or secondhand online). And Tech Tangents on YouTube, a channel dedicated to restoring and archiving retro computer hardware and software, was able to revive a [TeleVideo 950 terminal](https://www.youtube.com/watch?v=ob7cEzXLxXU) that was originally released in 1980 and use a version of Linux on it. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## More Linux laptops we tested
 
@@ -323,18 +323,17 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-interlinked-networks-transferring-fb-videos-to-whatsapp/"><u>[New] 2024 Approved Interlinked Networks Transferring FB Videos to WhatsApp</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/024-approved-unlocking-your-videos-the-pathway-to-streamlined-cc-and-subtitling-on-youtube/"><u>[New] 2024 Approved Unlocking Your Videos The Pathway to Streamlined CC & Subtitling on YouTube</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-exclusive-sites-for-youtube-content-surge/"><u>2024 Approved Exclusive Sites For YouTube Content Surge</u></a></li>
-<li><a href="https://driver-error.techidaily.com/addressing-and-fixing-invalid-inf-installation-sections/"><u>Addressing and Fixing Invalid INF Installation Sections</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/apple-mulls-budget-friendly-macbook-lineup-in-bid-to-challenge-chromebook-dominance-zdnet/"><u>Apple Mulls Budget-Friendly MacBook Lineup in Bid to Challenge Chromebook Dominance - ZDNet</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/free-youtube-intro-makers-to-create-awesome-intros-for-2024/"><u>Best Free YouTube Intro Makers to Create Awesome Intros for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-ways-to-reduce-cpu-load-when-playing-phasmophobia/"><u>Effective Ways to Reduce CPU Load When Playing Phasmophobia</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1722993318415-experiencing-lag-on-steam-try-these-top-tips/"><u>Experiencing Lag on Steam? Try These Top Tips</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-the-latest-in-tech-at-ces-2023-twisting-rotating-screens-and-advanced-3d-visuals-zdnet-insights/"><u>Exploring the Latest in Tech at CES 2023: Twisting, Rotating Screens and Advanced 3D Visuals | ZDNet Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/limited-time-offer-secure-your-4tb-samsung-t5-ssd-at-half-price-from-amazon-exclusive-deal-revealed/"><u>Limited-Time Offer: Secure Your 4TB Samsung T5 SSD at Half Price From Amazon | Exclusive Deal Revealed</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/next-gen-enhancements-for-dells-elite-laptops-discover-the-updated-xps-15-and-xps-17/"><u>Next-Gen Enhancements for Dell's Elite Laptops: Discover the Updated XPS 15 and XPS 17</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-oppo-reno-8t-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Oppo Reno 8T FRP Bypass</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/upgrade-or-stick-with-your-current-setup-a-detailed-comparison-of-the-latest-m3-and-m1-macbook-pros/"><u>Upgrade or Stick with Your Current Setup? A Detailed Comparison of the Latest M3 & M1 MacBook Pros</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-finding-premium-free-music-without-breaking-copyrights-for-2024/"><u>[New] Finding Premium, Free Music Without Breaking Copyrights for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-premium-downloader-suite-for-vimeo-content/"><u>[Updated] In 2024, Premium Downloader Suite for Vimeo Content</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-the-secret-behind-the-blue-status-update-sticker/"><u>[Updated] In 2024, The Secret Behind the Blue Status Update Sticker</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-pro-monitor-snapshot-software-w10/"><u>[Updated] Pro Monitor Snapshot Software W10</u></a></li>
+<li><a href="https://facebook.techidaily.com/1719152115012-awaiting-the-call-facebook-orders-ruling-on-prohibited-access/"><u>Awaiting the Call: Facebook Orders Ruling on Prohibited Access.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/diy-solutions-to-the-common-problems-with-realteks-rtl8723be-driver/"><u>DIY Solutions to the Common Problems with Realtek's RTL8723BE Driver</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-guide-installing-sony-vaio-drivers-on-your-pc-with-windows-os/"><u>Easy Guide: Installing Sony Vaio Drivers on Your PC with Windows OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/essential-guide-downloading-and-installing-the-epson-wf-3540-driver-on-windows-computers/"><u>Essential Guide: Downloading & Installing the Epson WF-3540 Driver on Windows Computers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-update-or-download-dell-latitude-e6430-drivers-on-windows-step-by-step-guide/"><u>How to Update or Download Dell Latitude E6430 Drivers on Windows: Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/make-a-plan-and-set-goals/"><u>Make A Plan & Set Goals</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-the-quick-fix-tackling-your-logitech-c615-drivers-seamlessly/"><u>Mastering the Quick-Fix: Tackling Your Logitech C615 Drivers Seamlessly</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-htc-u23-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For HTC U23 | Dr.fone</u></a></li>
 </ul></div>
 

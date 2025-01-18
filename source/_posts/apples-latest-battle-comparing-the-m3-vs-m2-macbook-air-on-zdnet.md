@@ -1,7 +1,7 @@
 ---
 title: "Apple's Latest Battle: Comparing the M3 Vs. M2 MacBook Air on ZDNet"
-date: 2025-01-10T04:26:11.251Z
-updated: 2025-01-13T02:36:25.328Z
+date: 2025-01-13T18:09:59.735Z
+updated: 2025-01-18T19:05:29.795Z
 tags:
   - laptops
 categories:
@@ -24,10 +24,6 @@ Recently, I did a thing: I switched my heavyweight Windows PC for a docked [16-i
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### See also
 
 * [Still have a Windows 10 PC? You have 5 options before support ends next year](https://www.zdnet.com/article/have-a-windows-10-pc-that-cant-be-upgraded-you-have-5-options-before-support-ends-next-year/)
@@ -45,10 +41,14 @@ So what if I told you you can remap the Apple keyboard so that the Globe key, wh
 (Even if you've always been a Mac user, and everything I just wrote meant nothing to you, you'll still want to read this. There's a good chance that the following remapping feature will benefit you just as much, too.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to remap the Globe key into the Command key
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Open up Keyboard settings
 
@@ -57,7 +57,7 @@ Let's start by running a Spotlight Search (clicking the magnifying glass on the 
 You can also access this menu by clicking the Apple icon on the top left of the status bar > System Preferences > and then Keyboard.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Open Modifier Keys
@@ -67,7 +67,7 @@ On the bottom right of the Keyboard settings should be a button labeled "Modifie
 Screenshot by June Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Remap the Globe key to Command
@@ -79,7 +79,7 @@ Note: There is a "Control key" on the Mac keyboard but it doesn't function the s
 Screenshot by June Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How this helps
@@ -116,20 +116,19 @@ From a Windows user perspective, being able to still access my usual keyboard sh
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-tips-and-hacks-for-using-instagram-filters-effectively/"><u>[New] In 2024, Tips & Hacks for Using Instagram Filters Effectively</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-instagram-video-reduction-tips-for-mac-users/"><u>[Updated] Instagram Video Reduction Tips for Mac Users</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/a-jargon-primer-for-virtual-experiences/"><u>A Jargon Primer for Virtual Experiences</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ergonomic-revolution-how-a-week-of-using-a-split-keyboard-transformed-my-tech-habits/"><u>Ergonomic Revolution: How a Week of Using a Split Keyboard Transformed My Tech Habits</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/generate-tones-with-ease-5-free-online-options/"><u>Generate Tones with Ease 5 Free Online Options</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-iphone-6-plus-drfone-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on iPhone 6 Plus | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/save-big-with-the-ultimate-list-of-storage-drive-bargains-for-the-festive-season-2023-zdnet/"><u>Save Big with the Ultimate List of Storage Drive Bargains for the Festive Season, 2023 | ZDNET</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-technology-innovations-the-ultimate-list-of-must-have-tech-gadgets-and-devices-from-2n23-zdnet/"><u>Top Technology Innovations: The Ultimate List of Must-Have Tech Gadgets & Devices From 2N23 | ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-value-laptops-find-the-ultimate-windows-powered-machine-under-1k-techspot/"><u>Top Value Laptops: Find the Ultimate Windows-Powered Machine Under $1K | TechSpot</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/troubleshoot-your-sound-card-problems-with-yl-computing-fix-audio-failures-now/"><u>Troubleshoot Your Sound Card Problems with YL Computing - Fix Audio Failures Now!</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/type-i-interferons-ifn-alpha-and-ifn-beta-have-broad-antiviral-activity-while-type-ii-ifn-gamma-is-more-involved-in-cellular-immunity/"><u>Type I Interferons (IFN-Alpha and IFN-Beta) Have Broad Antiviral Activity, While Type II (IFN-Gamma) Is More Involved in Cellular Immunity.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unbeatable-deal-save-60-on-your-preferred-apple-magsafe-charger-today-only-exclusive-offer/"><u>Unbeatable Deal: Save $60 on Your Preferred Apple MagSafe Charger - Today Only! Exclusive Offer</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-the-ultimate-guide-to-real-time-audio-leveling-with-final-cut-pro-xs-autoduck-feature/"><u>Updated In 2024, The Ultimate Guide to Real-Time Audio Leveling with Final Cut Pro Xs AutoDuck Feature</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/upgrade-your-editing-setup-with-50-off-premium-samsung-displays-at-best-buy-dont-miss-this-limited-time-bargain/"><u>Upgrade Your Editing Setup with 50% Off Premium Samsung Displays at Best Buy – Don’t Miss This Limited Time Bargain!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/zdnets-top-pick-how-to-expand-your-workspace-using-this-clever-laptop-holder-and-phone-screen-combo/"><u>ZDNet's Top Pick: How to Expand Your Workspace Using This Clever Laptop Holder & Phone-Screen Combo</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-now-official-amd-graphics-driver-for-radeon-rx-cu3i-6900-xt-supporting-win11win10win8win7/"><u>[Download Now] Official AMD Graphics Driver for Radeon RX Cu3i (6900 XT) Supporting Win11/Win10/Win8/Win7</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-professional-3d-design-apps-top-5-for-youtubers/"><u>[New] In 2024, Professional 3D Design Apps - Top 5 for Youtubers</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-expert-advice-creating-and-uploading-vr-videos-to-boost-fb-visibility-for-2024/"><u>[Updated] Expert Advice Creating & Uploading VR Videos to Boost FB Visibility for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-unlock-the-full-potential-of-your-reels-with-these-6-essentials-for-2024/"><u>[Updated] Unlock the Full Potential of Your Reels with These 6 Essentials for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-solutions-for-playback-problems-with-dropbox-videos-a-step-by-step-guide/"><u>Effortless Solutions for Playback Problems with Dropbox Videos – A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-system-efficiency-with-recent-upgrades-to-the-dell-bus-control-firmware/"><u>Enhance System Efficiency with Recent Upgrades to the Dell Bus Control Firmware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-find-and-download-epson-ds-530-printer-software-for-the-latest-windows-11-update/"><u>How to Find and Download Epson DS-530 Printer Software for the Latest Windows 11 Update</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-oneplus-11r-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on OnePlus 11R?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/inside-look-at-apples-strategic-development-of-a-fortified-operating-system-for-advanced-ai-management-in-data-centers-exclusive-report-by-zdnet/"><u>Inside Look at Apple's Strategic Development of a Fortified Operating System for Advanced AI Management in Data Centers | Exclusive Report by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/newest-thunderbolt-3-dock-controllers-optimizing-your-lenovo-thinkpad-experience/"><u>Newest Thunderbolt 3 Dock Controllers: Optimizing Your Lenovo ThinkPad Experience</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pro-pilots-choice-the-top-5-drone-picks-of-the-year/"><u>Pro Pilot's Choice The Top 5 Drone Picks of the Year</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/speed-boost-alert-update-your-windows-system-for-the-new-and-improved-gigabit-ethernet-driver-supporting-usb-30-technology/"><u>Speed Boost Alert! Update Your Windows System for the New and Improved Gigabit Ethernet Driver Supporting USB 3.0 Technology.</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/tiktok-bgs-exploring-affordable-eye-catching-visuals/"><u>TikTok BGs Exploring Affordable, Eye-Catching Visuals</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/tutorial-trimming-the-ending-removing-last-5-mins-on-windows-pc-w10-and-w11/"><u>Tutorial: Trimming the Ending - Removing Last 5 Mins on Windows PC (W10 & W11)</u></a></li>
 </ul></div>
 

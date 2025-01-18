@@ -1,7 +1,7 @@
 ---
 title: Top 44 Discounts on Seasonal Memory Units & Solid-State Drives - Insights From ZDNet
-date: 2025-01-07T03:13:20.906Z
-updated: 2025-01-12T16:49:14.338Z
+date: 2025-01-13T17:37:09.789Z
+updated: 2025-01-18T18:50:18.201Z
 tags:
   - laptops
 categories:
@@ -28,6 +28,10 @@ Here are some of our favorite Best Buy deals that remain available on the digita
 
 ![galaxy-s24-ultra-2024](https://www.zdnet.com/a/img/resize/01cdf104edbcfc2824d2887471bb859bd9300f88/2024/07/12/02e3a444-211a-4951-92d4-e777f151db7e/galaxy-s24-ultra-2024.jpg?auto=webp&width=1280)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Amazon/ZDNET
 
 * [LG 65-inch Class C4 Series evo 4K for $1,499 (save $1,200)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flg-65-class-c4-series-oled-evo-4k-uhd-smart-webos-tv-2024%2F6578042.p%3FskuId%3D6578042&publisher%5Fslug=zdnet&article%5Fname=top%20best%20buy%20deals%20for%20october%20prime%20day%202024%3A%20still%20available&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fbest-buy-prime-day-deals-2024-10-11%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): The high color accuracy, perfect contrast, and wide viewing angles of this OLED display TV come with a staggering price drop.
@@ -36,6 +40,10 @@ Amazon/ZDNET
 * [Samsung Galaxy Book 4 Edge Copiot+ PC for $849 (save $500)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsamsung-galaxy-book4-edge-copilot-pc-14-amoled-touch-screen-laptop-snapdragon-x-elite-3-4ghz-16gb-memory-512gb-storage-sapphire-blue%2F6583789.p%3FskuId%3D6583789&publisher%5Fslug=zdnet&article%5Fname=top%20best%20buy%20deals%20for%20october%20prime%20day%202024%3A%20still%20available&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fbest-buy-prime-day-deals-2024-10-11%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Optimized for AI, the Copilot+ laptop features a 14-inch touch-screen AMOLED display, 16GB of RAM, and 512GB of storage.
 * [Jabra Elite 10 Earbuds for $199 (save $50)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fjabra-elite-10-dolby-atmos-true-wireless-in-ear-heaphones-titanium-black%2F6553257.p%3FskuId%3D6553257&publisher%5Fslug=zdnet&article%5Fname=top%20best%20buy%20deals%20for%20october%20prime%20day%202024%3A%20still%20available&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fbest-buy-prime-day-deals-2024-10-11%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Jabra's latest wireless earbuds have a comfortable and secure fit, good noise cancellation, and excellent sound quality.
 * [Govee Hexa Wall Light Panels for $99 (save $30)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fgovee-hexa-wall-light-panels-7-panels-multi%2F6503425.p%3FskuId%3D6503425&publisher%5Fslug=zdnet&article%5Fname=top%20best%20buy%20deals%20for%20october%20prime%20day%202024%3A%20still%20available&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fbest-buy-prime-day-deals-2024-10-11%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Create a personalized lighting display with inspiration for your gaming room, living room, bedroom, and more.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best Buy deals under $30
 
@@ -49,6 +57,10 @@ Best Buy/ZDNET
 
 **Also:** [**Best Prime Day deals under $25**](https://www.zdnet.com/article/best-prime-day-deals-under-25-2024-10-07/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best Buy laptop deals
 
 Best Buy/ZDNET
@@ -60,10 +72,6 @@ Best Buy/ZDNET
 * [Dell Inspiron 15-inch Touchscreen Laptop for $399 (save $230)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fdell-inspiron-15-touch-screen-laptop-intel-core-i5-8gb-512gb-ssd-carbon-black%2F6573731.p%3FskuId%3D6573731&publisher%5Fslug=zdnet&article%5Fname=top%20best%20buy%20deals%20for%20october%20prime%20day%202024%3A%20still%20available&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fbest-buy-prime-day-deals-2024-10-11%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This laptop comes with 8GB of high-bandwidth RAM to smoothly run your games and photo- and video-editing applications, as well as multiple programs and browser tabs all at once.
 
 **Also:** [**Best Prime Day laptop deals**](https://www.zdnet.com/article/best-early-prime-day-laptop-deals-2024/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best Buy TV deals
 
@@ -82,7 +90,7 @@ Samsung/ZDNET
 **Also: [Best Prime Day TV deals](https://www.zdnet.com/home-and-office/home-entertainment/best-prime-day-tv-deals-10-07-2024/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Buy appliance deals
@@ -97,23 +105,15 @@ LG/ZDNET
 
 **Also:** [**Best Prime Day kitchen deals**](https://www.zdnet.com/home-and-office/kitchen-household/best-early-prime-day-kitchen-deals-2024-10-07/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQs
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Does Best Buy price match Amazon Prime Day deals?
 
 No. Best Buy's Price Match Guarantee does not apply to discounts that are exclusive to membership or loyalty programs offered by other retailers. Consequently, member-only events such as Amazon's October Prime Day are not eligible for price matching at Best Buy.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How did we choose these Best Buy 48-Hour Flash Sale deals?
 
@@ -187,19 +187,22 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-dive-deep-with-gopro-prochniques-for-capturing-quality-underwater-video/"><u>[New] 2024 Approved Dive Deep with GoPro Prochniques for Capturing Quality Underwater Video</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-advanced-subtitle-editing-unlocking-potential-with-macos/"><u>[Updated] Advanced Subtitle Editing Unlocking Potential with MacOS</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-unveiling-the-secrets-of-automatic-transcription-in-google-docs/"><u>[Updated] In 2024, Unveiling the Secrets of Automatic Transcription in Google Docs</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-quick-start-guide-recording-your-pcs-display-with-hp/"><u>[Updated] Quick Start Guide Recording Your PC's Display with HP</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-guide-to-understanding-the-new-a-grade-apple-m2-processor-insights/"><u>Comprehensive Guide to Understanding the New A-Grade Apple M2 Processor - Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/enhancing-device-functionality-how-to-seamlessly-integrate-additional-ports-into-macbook-and-ipad-pro-units/"><u>Enhancing Device Functionality: How to Seamlessly Integrate Additional Ports Into MacBook and iPad Pro Units</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-issue-when-windows-10s-autoplay-feature-isnt-responding/"><u>Fixing the Issue When Windows 10'S AutoPlay Feature Isn't Responding</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/from-unstable-beginnings-to-revolutionizing-computing-the-microsoft-surface-story/"><u>From Unstable Beginnings to Revolutionizing Computing: The Microsoft Surface Story</u></a></li>
-<li><a href="https://techidaily.com/how-to-install-the-latest-ios-beta-version-on-apple-iphone-15-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS Beta Version on Apple iPhone 15 Plus? | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-best-webcam-tripods-and-stands/"><u>In 2024, Best Webcam Tripods and Stands</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-the-fix-for-critical-freezes-a-simple-walkthrough-of-cxfreeze-recovery/"><u>Mastering the Fix for Critical Freezes - A Simple Walkthrough of Cx_Freeze Recovery</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/savings-on-high-capacity-storage-8tb-samsung-t5-ssds-remain-discounted-post-amazon-prime-day-insights-for-tech-enthusiasts/"><u>Savings on High-Capacity Storage: 8TB Samsung T5 SSDs Remain Discounted Post-Amazon Prime Day - Insights for Tech Enthusiasts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-pick-the-underestimated-dual-function-device-revolutionizing-workspaces-spotted/"><u>Top Pick: The Underestimated Dual-Function Device Revolutionizing Workspaces - Spotted</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unboxing-the-new-2024-dell-xps-14-a-game-changing-laptop-you-need-to-try-zdnet/"><u>Unboxing the New 2024 Dell XPS 14: A Game-Changing Laptop You Need to Try! | ZDNet</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-understanding-and-assessing-cloud-cost-variability-for-2024/"><u>[New] Understanding & Assessing Cloud Cost Variability for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-digging-for-discounted-beauty-in-tiktok-backgrounds/"><u>[Updated] 2024 Approved Digging for Discounted Beauty in TikTok Backgrounds</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1-free-online-converter-turn-wma-audio-files-into-m4r-without-hassle/"><u>1. Free Online Converter: Turn WMA Audio Files Into M4R without Hassle</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/artificial-intelligence-explained-an-overview-of-associated-risks/"><u>Artificial Intelligence Explained: An Overview of Associated Risks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bypass-mic-troubles-optimizing-the-sony-wh-1000xm34-headset-microphone-functionality-on-desktops-and-laptops/"><u>Bypass Mic Troubles: Optimizing the Sony WH-1000XM3/4 Headset Microphone Functionality on Desktops and Laptops</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-geforce-rtx-3070-driver-updates-and-download-for-your-pc-windows-1110-supported/"><u>Get the Newest GeForce RTX 3070 Driver Updates & Download for Your PC (Windows 11/10 Supported)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-download-and-install-the-most-recent-epson-tm-t88v-driver-version-for-your-windows-pc-step-by-step/"><u>How to Download and Install the Most Recent EPSON TM-T88V Driver Version for Your Windows PC - Step by Step</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-15-pro-max-to-other-iphone-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 15 Pro Max To Other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-deskjet-ink-advantage-vehicle-3050a-secure-free-drivers-and-improvements-for-windows-users/"><u>HP Deskjet Ink Advantage Vehicle 3050A - Secure Free Drivers and Improvements for Windows Users</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-unlocking-the-seo-puzzle-strategies-that-elevate-your-podcasts/"><u>In 2024, Unlocking the SEO Puzzle Strategies That Elevate Your Podcasts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-epson-et-3760-printer-setup-and-maintenance-in-windows-downloading-and-keeping-drivers-updated-for-best-results/"><u>Mastering Epson ET-3760 Printer Setup and Maintenance in Windows: Downloading and Keeping Drivers Updated for Best Results</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolving-260-ci-wi-fi-aware-driver-compatibility-with-usb-ports/"><u>Resolving 260 Ci Wi-Fi Aware Driver Compatibility with USB Ports</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamless-installation-of-updated-d-link-drivers-in-windows-expert-tips-and-solutions/"><u>Seamless Installation of Updated D-Link Drivers in Windows - Expert Tips & Solutions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/stop-algorithmic-youtube-video-selections-for-2024/"><u>Stop Algorithmic YouTube Video Selections for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722972442453-the-balance-of-power-and-strategic-interests-are-significant-factors-that-influence-states-decisions-regarding-nuclear-armament-or-disarmament/"><u>The Balance of Power and Strategic Interests Are Significant Factors that Influence States' Decisions Regarding Nuclear Armament or Disarmament.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/updated-dell-inspiron-15-driver-software-for-windows-11-systems/"><u>Updated Dell Inspiron 15 Driver Software for Windows 11 Systems</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/where-to-watch-vr-content/"><u>Where to Watch VR Content</u></a></li>
 </ul></div>
 

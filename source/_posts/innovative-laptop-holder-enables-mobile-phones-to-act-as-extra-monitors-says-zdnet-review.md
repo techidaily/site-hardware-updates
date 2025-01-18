@@ -1,7 +1,7 @@
 ---
 title: Innovative Laptop Holder Enables Mobile Phones to Act as Extra Monitors, Says ZDNet Review
-date: 2025-01-06T03:00:17.515Z
-updated: 2025-01-13T02:24:21.905Z
+date: 2025-01-12T19:00:28.942Z
+updated: 2025-01-18T19:50:26.288Z
 tags:
   - laptops
 categories:
@@ -41,7 +41,7 @@ Here are some of the most interesting features I saw during my hands-on briefing
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Smart Share
@@ -61,7 +61,7 @@ Kyle Kucharski/ZDNET
 Besides the Smart Share features, there are four different "modes" that activate various features. You can toggle each feature on or off individually, to avoid being bombarded with different prompts. Here are the most impactful ones I saw during my time trying the new laptops.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Shield Mode
@@ -70,7 +70,7 @@ Besides the Smart Share features, there are four different "modes" that activate
 * The VPN auto-launch feature will start your preferred VPN automatically upon connecting to any public Wi-Fi network, a handy function if you spend a lot of time working in coffee shops.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Attention Mode
@@ -80,7 +80,7 @@ Besides the Smart Share features, there are four different "modes" that activate
 Kyle Kucharski/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Collaboration Mode
@@ -88,7 +88,7 @@ Kyle Kucharski/ZDNET
 * Designed mostly for virtual meetings, activating this mode enables your preset camera features, such as background blur, low light enhancer, or touch ups.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Wellness Mode
@@ -133,21 +133,24 @@ We'll definitely be doing some additional testing of the smart modes when we get
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-visual-virtuosos-guide-choosing-the-best-6-4k-cameras/"><u>[New] In 2024, Visual Virtuosos Guide Choosing the Best 6 4K Cameras</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-razer-kiyo-webcam-detailed-review-for-2024/"><u>[New] Razer Kiyo Webcam - Detailed Review for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-enhancing-visual-storytelling-with-windows-11s-video-capabilities/"><u>[Updated] Enhancing Visual Storytelling with Windows 11'S Video Capabilities</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-start-your-affordable-webinar-journey-with-youtube/"><u>[Updated] Start Your Affordable Webinar Journey with YouTube</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-searching-for-free-sports-streaming-sites-look-no-further/"><u>2024 Approved Searching for Free Sports Streaming Sites? Look No Further</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exclusive-october-prime-day-sale-picks-at-best-buy-dont-miss-out/"><u>Exclusive October Prime Day Sale Picks at Best Buy - Don't Miss Out !</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-vivo-t2-pro-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Vivo T2 Pro 5G Quickly | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-blending-youtube-audio-features-into-video-projects/"><u>In 2024, Blending YouTube Audio Features Into Video Projects</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-follow-the-leaders-on-igtv-for-inspiration/"><u>In 2024, Follow the Leaders on IGTV for Inspiration</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/schlusselinformationen-fur-die-anschaffung-des-winx-dvd-video-programms-kauf-faq/"><u>Schlüsselinformationen Für Die Anschaffung Des WinX DVD Video-Programms - Kauf FAQ</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/secure-your-samsung-t5-ssd-deal-now-up-to-50-off-before-october-exclusive-amazon-offer-spotted-by-zdnet/"><u>Secure Your Samsung T5 SSD Deal Now: Up to 50% Off Before October - Exclusive Amazon Offer Spotted by ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/shop-the-incredible-discount-apples-macbook-air-with-m2-chip-goes-for-only-749-on-amazons-october-prime-day-spotlight-by-zdnet/"><u>Shop the Incredible Discount: Apple's MacBook Air with M2 Chip Goes for Only $749 on Amazon's October Prime Day – Spotlight by ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/slash-your-expenses-the-50-gadget-that-could-preserve-millions-in-tech-costs-insights-from-zdnet/"><u>Slash Your Expenses: The $50 Gadget That Could Preserve Millions in Tech Costs - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/student-chromebooks-attacked-by-bedbugs-a-recurring-tech-nightmare-in-schools-insights/"><u>Student Chromebooks Attacked by Bedbugs: A Recurring Tech Nightmare in Schools Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-ultrabooks-comprehensive-tests-and-reviews-by-tech-gurus-zdnets-picks/"><u>Top-Rated Ultrabooks : Comprehensive Tests & Reviews by Tech Gurus | ZDNet's Picks</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unexpectedly-impressive-discovering-a-non-macbook-laptop-that-outshines-apples-iconic-design-in-power-and-performance-reviews/"><u>Unexpectedly Impressive: Discovering a Non-MacBook Laptop That Outshines Apple’s Iconic Design in Power and Performance - Reviews</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-cutting-edge-tips-for-elite-instagram-image-editing-for-2024/"><u>[New] Cutting-Edge Tips for Elite Instagram Image Editing for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-unlocking-freenocams-webcam-capturing-capabilities/"><u>2024 Approved Unlocking FreenoCam's Webcam Capturing Capabilities</u></a></li>
+<li><a href="https://extra-information.techidaily.com/androids-technique-for-retroactive-viewing-for-2024/"><u>Android's Technique for Retroactive Viewing for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/decoding-the-shutdown-of-yahoo-messenger-a-comprehensive-guide-to-what-it-was-and-why-it-ended/"><u>Decoding the Shutdown of Yahoo! Messenger: A Comprehensive Guide to What It Was & Why It Ended</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/dishing-up-fun-the-ultimate-critique-of-the-hit-cooking-game-overcooked-2/"><u>Dishing Up Fun: The Ultimate Critique of the Hit Cooking Game, Overcooked! 2</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-epson-xp-420-printer-software-latest-drivers-and-firmware-updates/"><u>Download & Install Epson XP-420 Printer Software: Latest Drivers and Firmware Updates</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-latest-sas-software-on-windows-11-8-or-7-free-updates/"><u>Download & Install Latest SAS Software on Windows 11, 8 or 7 - Free Updates</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/geforce-460-driver-update-seamless-installation-on-windows-machines/"><u>GeForce 460 Driver Update: Seamless Installation on Windows Machines</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-the-latest-iphone-drivers-on-your-windows-10-pc/"><u>How to Install the Latest iPhone Drivers on Your Windows 10 PC</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-poco-x5-pro-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Poco X5 Pro Phone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-konica-minolta-printer-drivers-available-here-windows-111087-downloads/"><u>Latest Konica Minolta Printer Drivers Available Here: Windows 11/10/8/7 Downloads</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/msk-minimum-shift-keying/"><u>MSK (Minimum Shift Keying)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Lenovo ThinkPhone? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722977084738-rapid-access-to-razer-mamba-device-drivers-start-now/"><u>Rapid Access to Razer Mamba Device Drivers - Start Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/razer-mamba-driver-download-swift-and-simple-steps/"><u>Razer Mamba Driver Download: Swift and Simple Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speeding-up-your-pc-adjusting-boot-sequence-timer-in-win11/"><u>Speeding Up Your PC: Adjusting Boot Sequence Timer in Win11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-tutorial-setting-up-your-arduino-by-downloading-the-right-windows-drivers/"><u>The Ultimate Tutorial: Setting Up Your Arduino by Downloading the Right Windows Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/tp-link-80211ac-network-adapter-driver-latest-download-for-windows-10-8-and-7/"><u>TP-Link 802.11Ac Network Adapter Driver | Latest Download | For Windows 10, 8 and 7</u></a></li>
+<li><a href="https://win11.techidaily.com/winfix-methods-to-overcome-missing-msvcrt120dll-errors/"><u>Winfix: Methods to Overcome Missing Msvcrt120dll Errors</u></a></li>
 </ul></div>
 

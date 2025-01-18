@@ -1,7 +1,7 @@
 ---
 title: "The Ideal Companion for Digital Nomads: Our Picks for the Lightest & Best Laptops | ZDNet Reviews"
-date: 2025-01-12T02:16:54.636Z
-updated: 2025-01-12T17:22:58.191Z
+date: 2025-01-14T19:11:23.729Z
+updated: 2025-01-18T17:46:38.999Z
 tags:
   - laptops
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/00d8a989d7a324ab139f90cea816e72b6f2451ab8
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -93,7 +93,7 @@ Compared to a MacBook, one could argue that the Yoga Slim 7x is at least better 
 The MacBook is better suited for the iOS ecosystem, however Lenovo has been making strides in developing a data transfer feature between its laptop and iPhones. So if you're not sure which one to get, the Yoga Slim 7x might be the better long-term investment.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -134,17 +134,19 @@ Creators might also appreciate the fact that Lenovo is also giving [two free mon
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-mini-media-magic-which-social-site-captures-the-crowd-faster-youtubes-or-tiktoks/"><u>[Updated] Mini-Media Magic Which Social Site Captures the Crowd Faster? YouTubes or TikToks?</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-simplified-webinar-recording-methods-for-windows-and-mac-users/"><u>[Updated] Simplified Webinar Recording Methods for Windows & Mac Users</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722853498112-astonishing-emoji-revelations-youll-never-expect-to-know/"><u>Astonishing Emoji Revelations You'll Never Expect to Know</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-the-latest-updates-on-lenovos-newly-revamped-thinkpad-x1-a-deep-dive/"><u>Discover the Latest Updates on Lenovo's Newly Revamped ThinkPad X1: A Deep Dive</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/effective-techniques-to-resolve-csgo-starting-errors-on-pc/"><u>Effective Techniques to Resolve CSGO Starting Errors on PC</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-apple-m3-macbook-air-for-less-save-250-at-amazons-prime-sale-this-october-according-to-zdnet-coverage/"><u>Get Your Apple M3 MacBook Air for Less! Save $250 at Amazon's Prime Sale This October, According to ZDNet Coverage</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-vivo-v29e-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Vivo V29e to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/inside-look-apples-latest-innovation-with-the-m3-macbook-air-and-its-best-in-class-traits-zdnet/"><u>Inside Look: Apple's Latest Innovation with the M3 MacBook Air and Its Best-In-Class Traits | ZDNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-four-reasons-holding-me-back-from-upgrading-to-an-iphone-16-pro-a-detailed-review/"><u>Top Four Reasons Holding Me Back From Upgrading to an iPhone 16 Pro - A Detailed Review</u></a></li>
-<li><a href="https://games-able.techidaily.com/unravel-mysteries-in-browser-based-quests/"><u>Unravel Mysteries in Browser-Based Quests</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-ultimate-match-to-macbook-the-power-of-microsoft-surface-pro-nine-review/"><u>Unveiling the Ultimate Match to MacBook: The Power of Microsoft Surface Pro Nine Review</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/whats-new-with-ps5-slim-find-out-release-dates-pricing-info-and-hardware-capabilities/"><u>What's New with PS5 Slim? Find Out Release Dates, Pricing Info, and Hardware Capabilities!</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-unlocking-the-potential-of-pc-based-tiktok-live-shows/"><u>[New] Unlocking the Potential of PC-Based TikTok Live Shows</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-seizing-screen-time-with-hd-downloads-from-fb-sources/"><u>[Updated] 2024 Approved Seizing Screen Time with HD Downloads From FB Sources</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/all-about-apples-latest-audio-enabled-wearable-expected-retail-price-arrival-date-specs-deep-dive-and-whispered-theories/"><u>All About Apple's Latest Audio-Enabled Wearable: Expected Retail Price, Arrival Date, Specs Deep Dive & Whispered Theories</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-motorola-moto-g-5g-2023-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Motorola Moto G 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/complete-guide-restore-images-from-windows-10-backup-with-myrecover-software/"><u>Complete Guide: Restore Images From Windows 10 Backup with MyRecover Software</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211352278-9791223001424-die-zwolf-seelen/"><u>Die zwölf Seelen | Free Book</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-latest-logitech-g510-gamepad-drivers-compatible-with-windows-7-8-and-10/"><u>Download the Latest Logitech G510 Gamepad Drivers: Compatible with Windows 7, 8 & 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-steps-to-download-and-setup-epson-wf-2750-printer-software/"><u>Easy Steps to Download & Setup Epson WF-2750 Printer Software</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-hold-whole-page-snapshot-image/"><u>In 2024, Hold Whole Page Snapshot Image</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ralink-drivers-download-and-update-for-windows-solved/"><u>Ralink Drivers Download & Update for Windows [SOLVED]</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolving-windows-compatibility-issues-with-the-logitech-f710-controller-on-various-os-versions/"><u>Resolving Windows Compatibility Issues with the Logitech F710 Controller on Various OS Versions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-securing-new-samsung-usb-device-drivers-for-windows-11-users/"><u>Step-by-Step Tutorial: Securing New Samsung USB Device Drivers for Windows 11 Users</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-apple-iphone-12-mini-by-drfone-ios/"><u>Top 11 Free Apps to Check IMEI on Apple iPhone 12 mini</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722976101422-troubleshoot-and-improve-your-pcs-speed-get-the-updated-broadcom-ethernet-driver-for-windows-10-now/"><u>Troubleshoot and Improve Your PC's Speed: Get the Updated Broadcom Ethernet Driver for Windows 10 Now</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Top-Ranking Windows Ultrabooks & Gaming Notebooks , Comprehensive Reviews by Tech Experts | ZDNet
-date: 2024-12-30T06:47:48.697Z
-updated: 2025-01-06T06:41:53.342Z
+date: 2025-01-13T16:55:46.791Z
+updated: 2025-01-18T17:23:02.089Z
 tags:
   - laptops
 categories:
@@ -48,7 +48,7 @@ Cons
 ## Apple MacBook Air M3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best lightweight laptop overall
@@ -82,7 +82,7 @@ Cons
 ## Acer Swift Go 14
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best lightweight laptop for AI
@@ -113,10 +113,6 @@ Cons
 
 ## Asus ROG Zephyrus G14
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best lightweight laptop for gaming
 
 The Asus ROG Zephyrus G14 is a solid gaming machine in its own right, but it's the combination of power and portability together that make it our pick for best lightweight gaming laptop.
@@ -146,15 +142,7 @@ Cons
 * Design tradeoffs for ultra portability
 * Expensive
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## LG Gram Pro 17
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best lightweight laptop with a 17" display
 
@@ -185,6 +173,10 @@ Cons
 * Battery life is not the best
 * Expensive
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Lenovo ThinkPad X1 Carbon
 
 ### Best lightweight laptop for work
@@ -212,6 +204,10 @@ The best lightweight laptop in 2024 is the [Apple MacBook Air M3](https://www.zd
 | ASUS ROG Zephyrus G14 | $1600             | AMD Ryzen 9 8945HS, GeForce RTX 4060             | 16GB, 1TB                   | 3.31             |
 | LG Gram Pro 17        | $1299             | Intel Core Ultra 7 155H, Nvidia GeForce RTX 3050 | 16GB, 1TB                   | 2.7              |
 | Lenovo X1 Carbon      | $2263             | Intel Core Ultra 5 125U, Intel Arc Graphics      | 16GB, up to 1TB             | 2.4              |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Which is the right lightweight laptop for you?
 
@@ -249,6 +245,10 @@ These laptops all offer solid performance in their own right, but paired with th
 * **Battery life:** In order to be considered for this list, I considered machines with better-than-average battery life. This is one metric that will vary significantly based on use case, but all of these laptops will easily last an entire workday (eight hours) on one charge, even while undergoing demanding workloads
 * **Price:** Cost is an important factor and will make or break many consumers' choices. The reality is that ultraportability does come at a cost, as none of these laptops would be considered "budget" by any rate. The Acer Swift Go 14, however, is still quite affordable, starting at $800, though upgrades will move that number more in line with the others on this list.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why does having a lightweight laptop matter?
 
 The answer to this question is simple: laptops are made to be carried around, and no one wants to carry a heavy computer. Having a thin, lightweight machine opens up its usability and lets you take it places you normally wouldn't consider possible. 
@@ -257,10 +257,6 @@ Ultraportability does come with tradeoffs, however, both in terms of design and 
 
 In terms of cost, ultraportable laptops are often made with high-end, special lightweight materials that are going to cost more to produce and manufacture than simple plastic or aluminum. All of the laptops on this list were chosen for their well-designed, functional form factors and use of lightweight materials.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How much does a typical laptop weigh?
 
 Laptops are incredibly thin and light these days, with cutting-edge technology pushing the limit even further each year. Just ten years ago, it wasn't uncommon for laptops to weigh six or seven pounds; today, that seems absurd. 
@@ -268,6 +264,10 @@ Laptops are incredibly thin and light these days, with cutting-edge technology p
 Most laptops today weigh between two and a half and five pounds, with a five-pound laptop being considered on the heavy side. Different configurations change the weight of laptops, as well. More memory and storage will increase the weight -- something to keep in mind when buying. 
 
 The heaviest laptops on this list are the Asus ROG Zephyrus G14 and the 15-inch MacBook Air M3, each weighing just 3.3 pounds. In the laptop world, that's light. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What slim laptop backpack do we recommend?
 
@@ -286,7 +286,7 @@ While every computing platform has its loyal supporters, most people end up usin
 All Windows devices listed here meet the requirements for Windows 11\. If you purchase a device with Windows 10 installed, you will be able to upgrade to Windows 11 if you choose to do so. Note that after October 14, 2025, Windows 10 support will end, and there will be no further security patches or feature updates.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Are there alternative lightweight laptops worth considering?
@@ -335,24 +335,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-long-term-snap-storage-on-androidmac-systems/"><u>[New] Long-Term Snap Storage on Android/Mac Systems</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-embark-on-a-cinematic-journey-step-by-step-tutorial-for-creating-slow-motion-video-from-stills-online/"><u>[Updated] 2024 Approved Embark on a Cinematic Journey Step-by-Step Tutorial for Creating Slow-Motion Video From Stills Online</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-screen-shot-entire-page-view-for-2024/"><u>[Updated] Screen Shot Entire Page View for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-spectral-control-enhancing-image-aesthetics/"><u>2024 Approved Spectral Control Enhancing Image Aesthetics</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/discovering-delight-unveiling-the-joy-of-pokemon-shining-pearl/"><u>Discovering Delight: Unveiling the Joy of Pokémon Shining Pearl</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/domestication-challenges-domesticating-ophiocordyceps-sinensis/"><u>Domestication Challenges: Domesticating Ophiocordyceps Sinensis</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-hp-officejet-4650-printer-drivers-on-windows-os/"><u>Download and Install HP OfficeJet 4650 Printer Drivers on Windows OS</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-official-nvidia-geforce-rtx-3070-ti-drivers-compatible-with-windows-1187/"><u>Download the Official NVIDIA GeForce RTX 3070 Ti Drivers Compatible with Windows 11/8/7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/epson-v500-scanner-software-free-download-and-install-guide/"><u>Epson V500 Scanner Software: FREE Download & Install Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/expert-insights-on-the-ipad-pro-embracing-its-unique-strength-as-a-top-tier-tablet-separate-from-macbook-a-comprehensive-review-by-zdnet/"><u>Expert Insights on the iPad Pro: Embracing Its Unique Strength as a Top-Tier Tablet Separate From MacBook - A Comprehensive Review by ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-hp-m452dn-ready-comprehensive-step-by-step-downloads-for-printing-perfection/"><u>Get Your HP M452dn Ready: Comprehensive Step-by-Step Downloads for Printing Perfection</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-realme-narzo-n53-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Realme Narzo N53 Phone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/inside-conversation-mike-clark-unveils-the-future-with-amds-zen-5-and-compact-core-innovations/"><u>Inside Conversation: Mike Clark Unveils the Future with AMD's Zen-5 & Compact Core Innovations</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/keeping-your-pcs-wireless-connectivity-fresh-with-windows-1110-driver-updates/"><u>Keeping Your PC's Wireless Connectivity Fresh with Windows 11/10 Driver Updates</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/samsung-850-evo-ssd-software-download-the-latest-drivers/"><u>Samsung 850 EVO SSD Software: Download the Latest Drivers</u></a></li>
-<li><a href="https://win11.techidaily.com/unblock-silent-sound-capture-in-obs-tips-and-tricks-for-win-11/"><u>Unblock Silent Sound Capture in OBS - Tips & Tricks for Win 11</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-elevate-your-content-how-to-create-engaging-reaction-videos-with-filmora/"><u>Updated Elevate Your Content How to Create Engaging Reaction Videos with Filmora</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/updated-synaptics-driver-software-for-windows-quick-download-and-installation-tutorials/"><u>Updated Synaptics Driver Software for Windows: Quick Download & Installation Tutorials</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/who-takes-the-crown-in-free-video-playback-vlc-vs-mpc/"><u>Who Takes the Crown in Free Video Playback? VLC Vs. MPC</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-masterclass-softening-auditory-peaks-gently-in-logic-pro/"><u>[New] 2024 Approved Masterclass Softening Auditory Peaks Gently in Logic Pro</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-barely-there-to-top-rated-the-youtube-growth-arc/"><u>[Updated] 2024 Approved From Barely There to Top Rated The Youtube Growth Arc</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-ranked-your-must-have-5-iphones-for-excellent-podcasting/"><u>[Updated] In 2024, Ranked Your Must-Have 5 iPhones for Excellent Podcasting</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/bcm2045a0-driver-problems-heres-how-to-fix-them-fast/"><u>BCM2045A0 Driver Problems? Here's How to Fix Them Fast!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-usb-webcam-drivers-now-fast-and-simple-installation-guide/"><u>Download USB Webcam Drivers Now – Fast and Simple Installation Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-install-iphone-drivers-for-windows-11-devices-and-how-to-get-them/"><u>Easy Install: IPhone Drivers for Windows 11 Devices and How to Get Them</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-setup-of-hp-840-g3-device-with-newest-driver-installation-tutorials/"><u>Effortless Setup of HP 840 G3 Device with Newest Driver Installation Tutorials</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fast-track-tutorial-on-upgrading-synaptics-ps2-touchpad-drivers-with-precision/"><u>Fast Track Tutorial on Upgrading Synaptics PS/2 Touchpad Drivers with Precision</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-dell-g15-driver-software-update-for-your-windows-pc/"><u>Get the Latest Dell G15 Driver Software Update for Your Windows PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-epson-wf-2630-printer-software-for-windows-operating-systems-windows-78110/"><u>Get the Latest Epson WF 2630 Printer Software for Windows Operating Systems (Windows 7/8.1/10)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-nvidia-gtx-student-what-is-the-value-of-x-if-log3xplus7-6/"><u>Get the Newest Nvidia GTX # Student: What Is the Value of $X$ if $ Log(3x+7) = 6$?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-lightning-growth-guide-for-instagram-using-content-likes-and-videos/"><u>In 2024, Lightning Growth Guide for Instagram Using Content, Likes & Videos</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-htc-u23-pro-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing HTC U23 Pro to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Honor Magic V2? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/safaris-picture-in-picture-on-ios-and-ipad-how-to-use/"><u>Safari's Picture-in-Picture on iOS & iPad How to Use</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-walkthrough-revamping-motherboard-drivers-with-windows-operating-system/"><u>The Ultimate Walkthrough: Revamping Motherboard Drivers with Windows Operating System</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/thrustmaster-t150-gamepad-download-the-official-drivers-swiftly/"><u>Thrustmaster T150 Gamepad - Download the Official Drivers Swiftly</u></a></li>
+<li><a href="https://discover-data.techidaily.com/trois-scenarios-complets-pour-transferer-des-fichiers-sur-un-mac-guide-detaille/"><u>Trois Scenarios Complets Pour Transférer Des Fichiers Sur Un Mac : Guide Détaillé</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unleash-the-power-of-words-how-to-enchant-tinder-users-with-a-bio/"><u>Unleash the Power of Words How to Enchant Tinder Users with a Bio</u></a></li>
 </ul></div>
 

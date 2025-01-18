@@ -1,7 +1,7 @@
 ---
 title: "Behind the See-Through Screen: A Deep Dive Into Lenovo's Functional Transparent Laptop Showcase at MWC"
-date: 2025-01-01T05:37:55.943Z
-updated: 2025-01-05T21:03:20.824Z
+date: 2025-01-16T16:36:14.125Z
+updated: 2025-01-18T19:02:54.394Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -67,7 +67,7 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -106,22 +106,18 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-first-rate-6-software-for-visual-text-conversion-for-2024/"><u>[New] First-Rate 6 Software for Visual Text Conversion for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-crafting-visually-striking-fb-ad-videos-for-2024/"><u>[Updated] Crafting Visually Striking FB Ad Videos for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-essential-mp4-software-elevate-your-mac-productions-for-2024/"><u>[Updated] Essential MP4 Software Elevate Your Mac Productions for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/apple-unveils-exciting-software-updates-and-innovations-at-worldwide-developers-conference-get-the-full-lowdown/"><u>Apple Unveils Exciting Software Updates and Innovations at Worldwide Developers Conference - Get the Full Lowdown!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/compatible-intel-irisplus-gpu-driver-version-for-your-windows-growers-guide-understanding-and-applying-soil-amendments-for-improved-plant-health/"><u>Compatible Intel® Iris+ GPU Driver Version for Your Windows Grower's Guide: Understanding and Applying Soil Amendments for Improved Plant Health</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-latest-hp-laptop-driver-updates-for-windows-operating-systems/"><u>Download and Install Latest HP Laptop Driver Updates for Windows Operating Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722961097524-download-corsair-keyboard-software-for-windows-free-and-secure/"><u>Download CORSAIR Keyboard Software for Windows: Free and Secure</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-dell-display-driver-installation-guide/"><u>Effortless Dell Display Driver Installation Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-logitech-g35-onboarded-on-windows-systems-windows-7810/"><u>Get Your Logitech G35 Onboarded on Windows Systems (Windows 7/8/10)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-install-and-update-for-optimal-performance-steelseries-arctis-5-headset-drivers/"><u>How to Install and Update for Optimal Performance: SteelSeries Arctis 5 Headset Drivers</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-popsocket-mounts-for-optimal-video-shooting/"><u>In 2024, PopSocket Mounts for Optimal Video Shooting</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/keeping-your-lenovo-thinkpad-in-top-shape-secure-and-up-to-date-drivers-downloaded/"><u>Keeping Your Lenovo ThinkPad in Top Shape: Secure & Up-to-Date Drivers Downloaded</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/lg-tech-assist-how-to-enjoy-espnplus-channels-via-your-smart-tv/"><u>LG Tech Assist: How to Enjoy ESPN+ Channels via Your Smart TV</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/resolving-startech-driver-conflicts-on-windows-10-8-and-7-solutions-exposed/"><u>Resolving StarTech Driver Conflicts on Windows 10, 8 & 7 - Solutions Exposed</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-windows-11-update-error-code-0xc1900208-step-by-step-solutions/"><u>Resolving Windows 11 Update Error Code 0xC1900208: Step-by-Step Solutions</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/secrets-of-the-pocket-acquiring-no-pay-images-for-2024/"><u>Secrets of the Pocket Acquiring No-Pay Images for 2024</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/startmenu-components-on-your-pc/"><u>Startmenu Components on Your PC</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-eluding-digital-footprints-while-enjoying-instagram-stories-online-for-2024/"><u>[New] Eluding Digital Footprints While Enjoying Instagram Stories Online for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/boost-your-drawing-and-design-workflow-secure-latest-wacom-intuos-3-drivers-for-windows-pcs/"><u>Boost Your Drawing & Design Workflow: Secure Latest Wacom Intuos 3 Drivers for Windows PCs</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-play-mov-files-on-motorola-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can't play .mov files on Motorola</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/free-dj-pro-sb-169-dex-3-skin-download-update-your-equipments-look/"><u>Free DJ Pro SB 16:9 DEX 3 Skin Download - Update Your Equipment's Look</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722975025151-get-your-microsoft-ergonomic-keyboard-4000-up-and-running-with-these-simple-steps/"><u>Get Your Microsoft Ergonomic Keyboard 4000 Up and Running with These Simple Steps!</u></a></li>
+<li><a href="https://win-community.techidaily.com/guide-complet-pour-configurer-lautomatisation-de-sauvegarde-des-messages-de-courriel-en-utilisant-outlook-et-un-stockage-externe/"><u>Guide Complet Pour Configurer L'automatisation De Sauvegarde Des Messages De Courriel en Utilisant Outlook Et Un Stockage Externe</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-easy-steps-to-audit-your-favorite-tiktok-sessions/"><u>In 2024, Easy Steps to Audit Your Favorite TikTok Sessions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/official-nvidia-geforce-rtx-3090-driver-software-for-windows-operating-systems-win7810/"><u>Official NVIDIA GeForce RTX 3090 Driver Software for Windows Operating Systems (Win7/8/10)</u></a></li>
+<li><a href="https://win-help.techidaily.com/restaurar-una-particion-borrada-o-perdida-en-windows-1011-un-paso-a-paso-detallado/"><u>Restaurar Una Partición Borrada O Perdida en Windows 10/11: Un Paso a Paso Detallado</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/revive-your-entertainment-hub-repair-steps-for-malfunctioning-samsung-blu-ray-units/"><u>Revive Your Entertainment Hub: Repair Steps for Malfunctioning Samsung Blu-Ray Units</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-from-iphone-12-pro-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives From iPhone 12 Pro</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/unseen-story-access-top-anonymous-tools/"><u>Unseen Story Access Top Anonymous Tools</u></a></li>
 </ul></div>
 

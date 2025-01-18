@@ -1,7 +1,7 @@
 ---
 title: "Where to Secure Your AMD Ryzen Chips: 9700X and Ryzen 5 9600X Buying Options"
-date: 2024-08-19T05:53:43.826Z
-updated: 2024-08-20T05:53:43.826Z
+date: 2025-01-14T19:05:00.279Z
+updated: 2025-01-18T17:58:53.137Z
 tags:
   - cpu
 categories:
@@ -27,6 +27,10 @@ _"There has been no change to the sales embargo of the 5000XT,"_ an AMD represen
 
  The Ryzen 9 5900XT, on the other hand, should provide a significant upgrade over the current[Ryzen 9 5900X](https://www.tomshardware.com/reviews/amd-ryzen-9-5950x-5900x-zen-3-review) . Weirdly, AMD chose that model name since the Ryzen 9 5900XT is closer to the[Ryzen 9 5950X](https://www.tomshardware.com/reviews/amd-ryzen-9-5950x-5900x-zen-3-review) than the Ryzen 9 5900X. The Ryzen 9 5900XT wields the same 16 Zen 3 cores as the former in addition to the 64MB L3 cache and 105W TDP. The Ryzen 9 5900XT has a 100 MHz lower base and boost clock than the Ryzen 9 5950X.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -37,14 +41,11 @@ _"There has been no change to the sales embargo of the 5000XT,"_ an AMD represen
 
  AMD has kept the pricing under wraps for the Ryzen 9 5900XT and the Ryzen 7 5800XT. However, we should know tomorrow how much the new refreshed chips cost. Don't forget to double back for our review of the two processors and two new 5000XT SKUs.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -53,8 +54,18 @@ _"There has been no change to the sales embargo of the 5000XT,"_ an AMD represen
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-elevate-your-aspects-of-sound-and-sight-in-asmr-recording-for-2024/"><u>[Updated] Elevate Your Aspects of Sound and Sight in ASMR Recording for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-revealing-hidden-pathways-understanding-facebooks-off-activity-tracking/"><u>[Updated] Revealing Hidden Pathways Understanding Facebook's Off-Activity Tracking</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/beat-the-hype-exclusive-550-discount-on-best-buys-samsung-odyssey-neo-g8-for-prime-shoppers-review/"><u>Beat the Hype: Exclusive $550 Discount on Best Buy's Samsung Odyssey Neo G8 for Prime Shoppers Review</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-marvels-of-my-top-pick-an-innovative-origami-designed-laptop-sleeve-for-adventurous-travelers-insights/"><u>Discover the Marvels of My Top Pick: An Innovative Origami-Designed Laptop Sleeve for Adventurous Travelers - Insights</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-functionality-of-your-pcs-built-in-speakers-on-windows-10/"><u>How to Restore Functionality of Your PC's Built-In Speakers on Windows 10</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-on-apple-iphone-se-2022-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID On Apple iPhone SE (2022) without Password?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-unlock-the-full-potential-of-your-video-with-studio-editor/"><u>In 2024, Unlock the Full Potential of Your Video with Studio Editor</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-change-the-look-how-to-modify-video-dimensions-easily/"><u>New In 2024, Change the Look How to Modify Video Dimensions Easily</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/save-big-on-black-friday-zdnet-ranks-the-ultimate-cyber-monday-bargains-for-2er-2022/"><u>Save Big on Black Friday: ZDNet Ranks the Ultimate Cyber Monday Bargains for 2Er 2022</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/starter-guide-to-motion-graphics-mastery/"><u>Starter Guide to Motion Graphics Mastery</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/still-36-cheaper-grab-the-8tb-samsung-t5-ssd-at-a-steep-price-cut-after-prime-day-tech-insights/"><u>Still 36% Cheaper: Grab the 8TB Samsung T5 SSD at a Steep Price Cut After Prime Day | Tech Insights</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->

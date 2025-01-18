@@ -1,7 +1,7 @@
 ---
 title: The Intel 310 CPU Proves That Two P-Cores Can Pack a Powerful Punch
-date: 2024-08-19T05:55:52.446Z
-updated: 2024-08-20T05:55:52.446Z
+date: 2025-01-16T17:23:44.788Z
+updated: 2025-01-18T17:54:00.238Z
 tags:
   - cpu
 categories:
@@ -38,6 +38,10 @@ Intel is continuing the trend of replacing its entry-level processors with the g
 
  The 310's power rating is unknown, however based on the Intel Processor 300's base power of 46W, we suspect the 310 will be the same. If so, power consumption will also be a big differentiation between the two chips, with the i3-13100 able to suck down 60W at a minimum and up to 110W through Intel's modern PL1/PL2 system.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -48,14 +52,11 @@ Intel is continuing the trend of replacing its entry-level processors with the g
 
  Pricing and availability are unknown, but now that its existence has been revealed, we can expect this chip to debut soon.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -64,8 +65,22 @@ Intel is continuing the trend of replacing its entry-level processors with the g
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-instagram-tv-disable-guide/"><u>2024 Approved Instagram TV Disable Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-multi-app-playlists-synchronization-secrets/"><u>2024 Approved Unlocking Multi-App Playlists Synchronization Secrets</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/4-efficaces-facons-de-recuperer-vos-donnees-sur-une-cle-usb-avec-la-commande-cmd-en-francais/"><u>4 Efficaces Façons De Récupérer Vos Données Sur Une Clé USB Avec La Commande Cmd en Français</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/boost-your-traffic-with-the-advanced-cookiebot-solutions/"><u>Boost Your Traffic with the Advanced Cookiebot Solutions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/digiarty-winxdvdwinxvideo-aifaq/"><u>Digiarty WinXDVD・Winxvideo AIの一般FAQ: コンピューター関連の共通問題を掘り下げて解決</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-how-this-versatile-6-port-usb-c-hub-can-transform-your-charger-setup-zdnet/"><u>Discover How This Versatile 6-Port USB-C Hub Can Transform Your Charger Setup | ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/power-user-paradise-discover-the-top-duo-of-innovative-features-in-this-amazing-lenovo-laptop-insights/"><u>Power User Paradise: Discover the Top Duo of Innovative Features in This Amazing Lenovo Laptop - Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/prime-day-countdown-unlock-top-savings-at-best-buy-featured-by-zdnet/"><u>Prime Day Countdown: Unlock Top Savings at Best Buy , Featured by ZDNet</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/samsungs-latest-duel-a-head-to-head-look-at-the-galaxy-s24-ultra-and-s23-ultra-specs/"><u>Samsung's Latest Duel: A Head-to-Head Look at the Galaxy S24 Ultra and S23 Ultra Specs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-5-breakthrough-technology-innovations-in-2n23-that-revolutionized-industries-insights/"><u>Top 5 Breakthrough Technology Innovations in 2N'23 That Revolutionized Industries - Insights</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-free-kodi-extensions-discover-the-best-options-for-watching-movies-and-tv-series-without-payment/"><u>Top Free Kodi Extensions: Discover the Best Options for Watching Movies & TV Series Without Payment</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transform-your-ride-with-ai-tips-for-consulting-chatgpt-on-car-upgrades/"><u>Transform Your Ride with AI: Tips for Consulting ChatGPT on Car Upgrades</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-fall-sale-alert-score-amazing-discounts-on-premium-laptops-this-october-for-upcoming-prime-days-zdnet-picks/"><u>Ultimate Fall Sale Alert! Score Amazing Discounts on Premium Laptops This October for Upcoming Prime Days - ZDNET Picks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-laptop-guide-for-artists-and-designers-featured-picks-from-experts-zdnet/"><u>Ultimate Laptop Guide for Artists & Designers: Featured Picks From Experts | ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbelievable-deal-experience-top-tier-audio-quality-with-the-best-buys-discounted-ultimate-speaker-setup/"><u>Unbelievable Deal: Experience Top-Tier Audio Quality with the Best Buy's Discounted Ultimate Speaker Setup</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "Anticipated Announcements at Apple's Oct Event: The New M4 Mac Mini & Upcoming iPad Releases"
-date: 2025-01-12T01:55:56.955Z
-updated: 2025-01-12T19:33:14.398Z
+date: 2025-01-13T17:16:31.533Z
+updated: 2025-01-18T20:15:33.780Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,16 +118,20 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-youtubes-prime-moments-celebrations-beyond-vidcon/"><u>[New] 2024 Approved Youtube's Prime Moments Celebrations Beyond VidCon</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-stop-in-app-video-buffering-issues/"><u>[New] Stop In-App Video Buffering Issues</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/achieve-synchronicity-with-your-browser-and-fbs-autoplay-feature-for-2024/"><u>Achieve Synchronicity with Your Browser and FB's Autoplay Feature for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-installation-of-epson-wf-3540-printer-software-for-windows-users/"><u>Easy Installation of Epson WF-3540 Printer Software for Windows Users</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-reimagine-your-visuals-three-effective-techniques-for-backdrop-alteration-on-tiktok/"><u>In 2024, Reimagine Your Visuals Three Effective Techniques for Backdrop Alteration on TikTok</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/is-the-lenovo-yoga-book-9i-successful-in-popularizing-dual-screen-laptops-an-in-depth-review-by-zdnet/"><u>Is the Lenovo Yoga Book 9I Successful in Popularizing Dual-Screen Laptops? An In-Depth Review by ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/oct-24-game-deals-alert-prime-day-savings-still-going-strong-cut-costs-by-1000plus/"><u>Oct '24 Game Deals Alert: Prime Day Savings Still Going Strong – Cut Costs by $1,000+</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/revolutionizing-desktop-expansion-how-windows-users-benefit-from-a-special-power-trick-in-new-12-in-1-thunderbolt-hub-spotlight-s-findings/"><u>Revolutionizing Desktop Expansion: How Windows Users Benefit From a Special Power Trick in New 12-in-1 Thunderbolt Hub | Spotlight 'S Findings</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/transform-your-digital-experience-with-windows-free-hp-chromebook-exceptional-savings-of-136-await/"><u>Transform Your Digital Experience with Windows-Free HP Chromebook: Exceptional Savings of $136 Await !</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unleash-your-games-true-potential-with-the-best-immersive-sound-system-available-for-a-bargain-at-amazon-featured-and-reviewed/"><u>Unleash Your Game's True Potential with the Best Immersive Sound System - Available for a Bargain at Amazon, Featured and Reviewed !</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-top-gif-accelerators-online-and-mobile-solutions/"><u>Updated 2024 Approved Top GIF Accelerators Online and Mobile Solutions</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-cloud-savings-showdown-top-costs/"><u>[New] 2024 Approved Cloud Savings Showdown Top Costs</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-exceptional-value-premium-asmr-microphones-at-low-costs/"><u>[New] Exceptional Value Premium ASMR Microphones at Low Costs</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-trending-in-real-time-10-hot-tweets-captivating-audiences-for-2024/"><u>[Updated] Trending in Real Time 10 Hot Tweets Captivating Audiences for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-effective-approaches-to-downloading-hectic-tiktok-archives/"><u>2024 Approved Effective Approaches to Downloading Hectic TikTok Archives</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-simplified-screen-switching-utilizing-pip-mode-on-netflix-for-smooth-viewing/"><u>2024 Approved Simplified Screen Switching Utilizing PIP Mode on Netflix for Smooth Viewing</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-downloading-and-installing-hp-deskjet-inkjet-printer-drivers-for-windows-10-devices/"><u>Easy Guide to Downloading and Installing HP Deskjet Inkjet Printer Drivers for Windows 10 Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-steps-to-downloading-the-right-samsung-adb-driver/"><u>Easy Steps to Downloading the Right Samsung ADB Driver</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-seamless-bluetooth-connectivity-download-microsofts-drivers-for-win-10-11-8-and-7/"><u>Ensure Seamless Bluetooth Connectivity: Download Microsoft's Drivers for Win 10, 11, 8 & 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722967906015-get-your-rtx-2080-gpu-updated-drivers-for-win10-and-win11-available-now/"><u>Get Your RTX 2080 GPU Updated: Drivers for Win10 and Win11 Available Now!</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-the-ultimate-guide-to-valorant-video-thumbnail-artistry/"><u>In 2024, The Ultimate Guide to Valorant Video Thumbnail Artistry</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-the-best-compatible-drivers-for-your-epson-et-2750-printer-on-windows-108x-free-download-options/"><u>Install the Best Compatible Drivers for Your Epson ET-2750 Printer on Windows 10/8.x: Free Download Options</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/meal-prep-mastery-using-chatgpt-to-design-healthful-meal-strategies/"><u>Meal Prep Mastery: Using ChatGPT to Design Healthful Meal Strategies</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quickly-obtain-your-brother-hl-3170cdw-printer-drives/"><u>Quickly Obtain Your Brother HL-3170cdw Printer Drives</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-windows-bar-icon-failures/"><u>Troubleshooting Windows Bar Icon Failures</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/windows-compatible-logitech-g602-driver-installation-guide-and-download/"><u>Windows-Compatible Logitech G602 Driver Installation Guide and Download</u></a></li>
 </ul></div>
 

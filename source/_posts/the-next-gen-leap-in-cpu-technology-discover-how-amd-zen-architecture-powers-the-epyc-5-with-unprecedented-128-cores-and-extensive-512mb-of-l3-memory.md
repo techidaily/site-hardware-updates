@@ -1,7 +1,7 @@
 ---
 title: "The Next-Gen Leap in CPU Technology: Discover How AMD Zen Architecture Powers the EPYC 5 with Unprecedented 128 Cores and Extensive 512MB of L3 Memory"
-date: 2024-08-19T05:55:12.282Z
-updated: 2024-08-20T05:55:12.282Z
+date: 2025-01-12T16:34:57.833Z
+updated: 2025-01-18T18:41:30.599Z
 tags:
   - cpu
 categories:
@@ -31,6 +31,10 @@ Every new AMD generation seems to bring newly broken world records, and the dawn
 
  Ryzen 9 9950X’s performance boosts over the 7950X are nothing to scoff at. While some overclocking headroom is lost over the 7950X, AMD’s own[benchmarks](https://www.tomshardware.com/tag/benchmark) and[recent leaked tests in the wild](https://www.tomshardware.com/pc-components/cpus/amds-new-zen-5-flagship-gets-benchmarked-ryzen-9-9950x-engineering-sample-isnt-as-impressive-in-blender-at-maximum-power-settings) show a 30% increase in performance for the same wattage. For more details from Zen 5 Tech Day about the entire Granite Ridge lineup and Strix Point,[see our full coverage of the event](https://www.tomshardware.com/pc-components/cpus/amd-deep-dives-zen-5-ryzen-9000-and-strix-point-cpu-rdna-35-gpu-and-xdna-2-architectures) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -39,14 +43,11 @@ Every new AMD generation seems to bring newly broken world records, and the dawn
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -55,8 +56,26 @@ Every new AMD generation seems to bring newly broken world records, and the dawn
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-the-best-practices-for-linktree-on-tiktok-profiles/"><u>[New] Unveiling the Best Practices for Linktree on TikTok Profiles</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-loom-downloader-how-to-loom-screen-record-for-2024/"><u>[Updated] Loom Downloader - How to Loom Screen Record for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amazon-flash-sale-high-speed-perfection-with-the-16-in-1-thunderbolt-hub-get-an-immediate-70-discount-tech/"><u>Amazon Flash Sale: High-Speed Perfection with the 16-in-1 Thunderbolt Hub - Get an Immediate $70 Discount Tech</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amazons-exclusive-deal-top-ranked-tech-laptop-from-zdnet-discounted-by-500-before-prime-day-shop-now/"><u>Amazon's Exclusive Deal: Top-Ranked Tech Laptop From ZDNet Discounted by $500 Before Prime Day - Shop Now!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/capture-and-create-with-ease-discover-7-techniques-to-record-laptop-videos-via-movavis-expert-advice/"><u>Capture and Create with Ease: Discover 7 Techniques to Record Laptop Videos via Movavi's Expert Advice</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-coverage-all-you-need-to-know-about-microsofts-latest-innovations-from-the-recent-surface-unveiling-zdnet/"><u>Comprehensive Coverage: All You Need to Know About Microsoft's Latest Innovations From the Recent Surface Unveiling - ZDNet</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/cosmic-communication-chronicles-an-odyssey-through-star-wars-dialogues/"><u>Cosmic Communication Chronicles: An Odyssey Through Star Wars' Dialogues</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/dont-miss-out-secure-your-79-lenovo-chromebook-from-black-friday-blowout-just-in-time-for-cyber-monday-deals-zdnet/"><u>Don't Miss Out: Secure Your $79 Lenovo Chromebook From Black Friday Blowout Just in Time for Cyber Monday Deals | ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/dont-miss-out-save-on-the-sleek-meta-quest-3-with-512gb-storage-best-available-vr-bargains-this-october/"><u>Don't Miss Out! Save on the Sleek Meta Quest 3 with 512GB Storage - Best Available VR Bargains This October!</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/enjoy-immersive-movie-experiences-watch-vr-content-on-netflix-via-ios-device-app/"><u>Enjoy Immersive Movie Experiences: Watch VR Content on Netflix via iOS Device App</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-s17-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo S17 Phone FRP Lock</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/metas-october-exclusive-get-your-hands-on-the-best-prime-day-deal-with-a-512gb-quest-pro-vr-headset-comprehensive-analysis/"><u>Meta's October Exclusive: Get Your Hands on the Best Prime Day Deal with a 512GB Quest Pro VR Headset | Comprehensive Analysis</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/october-prime-day-gaming-extravaganza-top-deals-and-huge-savings-await-act-fast-before-theyre-gone/"><u>October Prime Day Gaming Extravaganza: Top Deals & Huge Savings Await – Act Fast Before They're Gone!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/offers-save-up-to-600-best-black-friday-bargains/"><u>Offers: Save Up To $600 - Best Black Friday Bargains!</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/redefine-gaming-radeons-latest-release/"><u>Redefine Gaming Radeon's Latest Release</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/reinventing-the-personal-computer-the-microsoft-surface-journey-from-unsteady-beginnings-to-industry-disruptor-insights/"><u>Reinventing the Personal Computer: The Microsoft Surface Journey From Unsteady Beginnings to Industry Disruptor - Insights</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1424605-9781780286952-supernatural/"><u>Supernatural | Free Book</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-oneplus-12-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-redmi-k70e-won-t-play-hevc-h-265-media-how-to-fix-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Xiaomi Redmi K70E won’t play HEVC H.265 media, how to fix?</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

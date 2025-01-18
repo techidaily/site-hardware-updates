@@ -1,7 +1,7 @@
 ---
 title: "Beyond ThinkPads and MacBooks: Discovering Exceptional Productivity Laptops for Power Users"
-date: 2025-01-09T20:59:55.543Z
-updated: 2025-01-13T02:20:04.225Z
+date: 2025-01-16T16:07:15.616Z
+updated: 2025-01-18T18:10:43.666Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -95,7 +95,7 @@ Instead, I see the Vivobook S 15 as a primary driver for remote workers or digit
 It also has a "full" keyboard (the number pad on the right side has slightly smaller keys, as typical for sub-16-inch machines), which is satisfying and responsive to typing on. The keyboard has colorful LED backlighting that can be configured in many different lights and effects, but again, this is not something that I would consider high on the priority list when optimizing battery life. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -134,22 +134,20 @@ All things considered, the starting price of $1,299 is quite competitive for thi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-essence-of-virtual-story-delivery/"><u>[New] Essence of Virtual Story Delivery</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-streamlining-the-process-vimeo-to-mp3-conversion/"><u>[New] Streamlining the Process Vimeo to MP3 Conversion</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-masterful-approaches-to-live-sports-video-capture/"><u>2024 Approved Masterful Approaches to Live Sports Video Capture</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/2024s-elite-list-of-windows-powerhouse-laptops-in-depth-analysis-and-professional-ratings/"><u>2024'S Elite List of Windows Powerhouse Laptops: In-Depth Analysis and Professional Ratings</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/desktop-gateway-to-smart-living-navigating-the-google-home-app-on-personal-computers/"><u>Desktop Gateway to Smart Living: Navigating the Google Home App on Personal Computers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-lenovos-top-value-pick-the-2024-749-thinkbook-your-ideal-windows-companion/"><u>Discover Lenovo's Top Value Pick: The 2024 $749 ThinkBook, Your Ideal Windows Companion</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-value-and-performance-my-review-of-the-affordable-surface-pro-11-insights-from-a-microsoft-guru-techzine/"><u>Exploring Value & Performance: My Review of the Affordable Surface Pro 11 - Insights From a Microsoft Guru | TechZine</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-hands-on-the-samsung-t5-ssd-before-october-at-up-to-49-off-expert-analysis-and-deals-for-tech-savvy-shoppers-zdnet/"><u>Get Your Hands on the Samsung T5 SSD Before October at Up to 49% Off | Expert Analysis & Deals for Tech Savvy Shoppers - ZDNET</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hands-on-with-the-magicbook-14-a-compelling-blend-of-work-performance-and-gaming-graphics-at-an-attractive-price-point-bytesavvy/"><u>Hands On With the MagicBook 14: A Compelling Blend of Work Performance and Gaming Graphics at an Attractive Price Point | ByteSavvy</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-motorola-moto-e13-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Motorola Moto E13 Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-vivo-v27-pro-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Vivo V27 Pro Data? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-generative-ai-becoming-a-new-tool-for-disinformation/"><u>Is Generative AI Becoming a New Tool for Disinformation?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/limited-time-offer-score-the-premium-hp-victus-cuatro-de-juego-laptop-for-just-515-with-best-buys-exclusive-anti-prime-deal/"><u>Limited Time Offer: Score the Premium HP Victus Cuatro De Juego Laptop for Just $515 with Best Buy's Exclusive Anti-Prime Deal!</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/wing-down-the-video-platform-wars-youtube-shorts-against-tiktok-for-2024/"><u>Narrowing Down the Video Platform Wars YouTube Shorts Against TikTok for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/swift-updates-to-optimize-your-gpus-nvidia-drivers/"><u>Swift Updates to Optimize Your GPU's Nvidia Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-beginners-choice-of-linux-distributions-thoroughly-evaluated-and-ranked-with-expert-reviews-zdnet/"><u>Ultimate Beginner's Choice of Linux Distributions: Thoroughly Evaluated & Ranked with Expert Reviews | ZDNET</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/zdnets-top-highlights-from-the-best-of-ces-2024-editor-choice-selections/"><u>ZDNet's Top Highlights From the Best of CES 2024 – Editor Choice Selections</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/he-sound-sphere-navigating-music-uploads-for-2024/"><u>[New] The Sound Sphere Navigating Music Uploads for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-unlock-flawless-facetime-call-recordings-a-complete-walkthrough-for-2024/"><u>[New] Unlock Flawless FaceTime Call Recordings A Complete Walkthrough for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ts-best-practices-for-choosing-images-that-drive-view-count-updates/"><u>[New] YT's Best Practices for Choosing Images That Drive View Count Updates</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-unlock-spark-ars-full-potential-with-personalized-lut-implementations/"><u>[Updated] 2024 Approved Unlock Spark AR's Full Potential with Personalized LUT Implementations</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/asus-windows-compatible-graphics-drivers-latest-version-available-now/"><u>ASUS Windows-Compatible Graphics Drivers - Latest Version Available Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-guide-installing-android-file-transfer-on-your-pc/"><u>Complete Guide: Installing Android File Transfer on Your PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-essential-tools-hp-tech-assistance-suite-and-drivers/"><u>Download Essential Tools - HP Tech Assistance Suite & Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/guide-to-repairing-realtek-lan-drivers-on-windows-11-windows-10-and-windows-n7/"><u>Guide to Repairing Realtek LAN Drivers on Windows 11, Windows 10 & Windows N7</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-vivo-y27s-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Vivo Y27s? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-latest-amd-vega-cuatro-docenas-drivers-update-on-your-pc-with-windows-os/"><u>How to Get the Latest AMD Vega Cuatro Docenas Drivers Update on Your PC with Windows OS</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-6-methods-to-mirror-apple-iphone-15-plus-to-your-windows-pc-drfone-by-drfone-ios/"><u>In 2024, 6 Methods to Mirror Apple iPhone 15 Plus to your Windows PC | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-arduino-usb-drivers-compatible-with-windows-systems/"><u>Latest Arduino USB Drivers Compatible with Windows Systems</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/step-by-step-guide-creating-your-nintendo-network-account-on-the-3ds/"><u>Step-by-Step Guide: Creating Your Nintendo Network Account on the 3DS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/updated-amd-driver-pack-tailored-for-windows-10-7-8-and-81-systems/"><u>Updated AMD Driver Pack: Tailored for Windows 10, 7, 8 & 8.1 Systems</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-update-hardware-drivers-on-windows-7-by-drivereasy-guide/"><u>Use Device Manager to update hardware drivers on Windows 7</u></a></li>
 </ul></div>
 

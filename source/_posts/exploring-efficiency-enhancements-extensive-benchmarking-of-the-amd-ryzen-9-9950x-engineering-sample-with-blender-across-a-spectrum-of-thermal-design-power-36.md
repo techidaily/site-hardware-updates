@@ -1,7 +1,7 @@
 ---
 title: "Exploring Efficiency Enhancements: Extensive Benchmarking of the AMD Ryzen 9 9950X Engineering Sample with Blender Across a Spectrum of Thermal Design Power Settings"
-date: 2024-08-19T05:51:55.682Z
-updated: 2024-08-20T05:51:55.682Z
+date: 2025-01-13T19:37:47.549Z
+updated: 2025-01-18T18:55:34.268Z
 tags:
   - cpu
 categories:
@@ -46,6 +46,10 @@ Third-party reviews of the Ryzen 9 9900X have begun to crop up, giving us our fi
 
  3D V-Cache continues to be AMD's magic pill for incredibly efficient gaming performance, providing a generational improvement in performance for chips that take advantage of it. We must wait until the Ryzen 9000 X3D launches before Zen 5 officially dethrones Zen 4 with 3D V-Cache in gaming.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -54,14 +58,11 @@ Third-party reviews of the Ryzen 9 9900X have begun to crop up, giving us our fi
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -70,8 +71,18 @@ Third-party reviews of the Ryzen 9 9900X have begun to crop up, giving us our fi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-gopros-best-underwater-enhancement-filters/"><u>[New] GoPro's Best Underwater Enhancement Filters</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-ipados-paint-the-creme-de-la-creation-apps/"><u>[Updated] In 2024, IPadOS Paint The Crème De La Création Apps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/do-dual-screen-laptops-have-a-future-examining-the-impact-of-lenovos-yoga-book/"><u>Do Dual-Screen Laptops Have a Future? Examining the Impact of Lenovo's Yoga Book ˈ</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/guide-to-diagnosing-hard-drive-issues-with-tools-by-yl-software-solutions/"><u>Guide to Diagnosing Hard Drive Issues with Tools by YL Software Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/illuminated-ideas-a-guide-to-organizing-notes-via-obsidian/"><u>Illuminated Ideas: A Guide to Organizing Notes via Obsidian</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iphone-sideload-procedures-explained-unveiling-the-costs-and-review-system-set-by-apple-zdnet-insights/"><u>IPhone Sideload Procedures Explained: Unveiling the Costs and Review System Set by Apple | ZDNet Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/primeval-deals-discover-the-ultimate-pre-prime-sales-on-zdnet/"><u>Primeval Deals : Discover the Ultimate Pre-Prime Sales on ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-lenovo-laptops-tailored-for-hybrid-professionals-save-big/"><u>Top Lenovo Laptops Tailored for Hybrid Professionals - Save Big!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-portable-displays-of-2024-comprehensive-tests-and-reviews-by-zdnet/"><u>Top-Rated Portable Displays of 2024: Comprehensive Tests & Reviews by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/zdnet-reviews-the-most-ideal-portable-laptop-for-effortless-telecommuting-experience/"><u>ZDNet Reviews the Most Ideal Portable Laptop for Effortless Telecommuting Experience</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->

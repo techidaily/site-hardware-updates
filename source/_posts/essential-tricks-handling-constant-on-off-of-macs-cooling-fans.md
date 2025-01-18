@@ -1,7 +1,7 @@
 ---
 title: "Essential Tricks: Handling Constant On-Off of Mac's Cooling Fans"
-date: 2025-01-04T08:12:23.225Z
-updated: 2025-01-06T10:38:20.644Z
+date: 2025-01-14T19:55:50.460Z
+updated: 2025-01-18T16:00:48.102Z
 tags:
   - laptops
 categories:
@@ -27,7 +27,7 @@ While the chips promise a notable leap in power and efficiency, the spotlight no
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fast, but an iterative advancement
@@ -43,7 +43,7 @@ Jason Hiner/ZDNET
 There's no actual new functionality in these chips; it's like comparing a Lamborghini (or a Tesla Model S "Plaid") from a few years ago with 600HP to one with 1000HP. Impressive performance boost, yes, but what's the actual impact for the average end-user? We can still only legally drive 65 mph/105 kph on most crowded highways in North America -- we need the application autobahn to fully take advantage of them.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## GPU optimization and AI improvements, but where are the apps?
@@ -55,7 +55,7 @@ The enhancements in GPU optimization and improved and increased AI cores in the 
 In the long term, these improvements will also likely trickle down into the [Vision Pro headset](https://www.zdnet.com/article/i-tried-apple-vision-pro-and-its-far-ahead-of-where-i-expected/) and, potentially, [iPad Pro](https://www.zdnet.com/article/ipad-pro-2022-review/). However, where do the apps take advantage of these on the consumer side? Yes, some Pro apps and some 3D games can today, but that's a relatively small part of Apple's target market today. And let's face it, the PC is still the gaming king, for now.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Generative AI question
@@ -73,7 +73,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Don't discount the low-end Macbook as an industry disruptor
@@ -87,7 +87,7 @@ I know of many professionals who aren't content creation types who spend a lot o
 We should also consider what impact the lower-end M3 systems are going to have on an already weakened Wintel market. Firstly, any M1 and M2 Mac machines already in the retail channel that were already very competitive with the Intel machines being offered by other manufacturers will drop in price significantly and will apply even more pressure, additionally decimating Intel's relevancy in many market segments.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## This is ultimately an Intel-killing play
@@ -132,14 +132,24 @@ The M3 chips aren't merely a product release; they are Apple's bold statement of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-10plus-best-tiktok-video-editing-apps-android-ios-for-2024/"><u>[New] 10+ Best TikTok Video Editing Apps [Android, iOS] for 2024</u></a></li>
-<li><a href="https://win-docs.techidaily.com/comment-recouvrer-vos-fichiers-telecharges-sur-windows-11-guide-complet-en-5-etapes-facilement-suivies/"><u>Comment Recouvrer Vos Fichiers Téléchargés Sur Windows 11 : Guide Complet en 5 Étapes Facilement Suivies</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/crucial-aspects-to-weigh-when-investing-in-a-dash-camera/"><u>Crucial Aspects to Weigh When Investing in a Dash Camera</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-hp-n840-g3-drivers-comprehensive-downloading-instructions/"><u>Get the Latest HP N840 G3 Drivers – Comprehensive Downloading Instructions</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-motorola-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Motorola</u></a></li>
-<li><a href="https://facebook.techidaily.com/marketing-maestro-departs-carolyn-eversons-next-move/"><u>Marketing Maestro Departs: Carolyn Everson's Next Move</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/resolved-troubleshooting-the-260ci-wia-usb-connectivity-issue/"><u>Resolved: Troubleshooting the 260Ci WIA USB Connectivity Issue</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/troubleshooting-guide-newest-techniques-for-installing-updates-to-rndis-drivers-on-windows/"><u>Troubleshooting Guide: Newest Techniques for Installing Updates to RNDIS Drivers on Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/upgrade-your-pc-now-fast-track-guide-for-intel-driver-download/"><u>Upgrade Your PC Now: Fast Track Guide for Intel Driver Download!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-ai-driven-high-quality-editing-platform/"><u>[New] AI-Driven High-Quality Editing Platform</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-dji-quadcopters-range-budget-upgraded-top-tier-4k-for-2024/"><u>[New] DJI Quadcopters Range Budget, Upgraded, Top-Tier 4K for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-mastering-virtual-liquids-top-game-showcase/"><u>[Updated] 2024 Approved Mastering Virtual Liquids Top Game Showcase</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-6-ways-to-increase-audience-retention-on-youtube-filmora-for-2024/"><u>[Updated] 6 Ways To Increase Audience Retention on YouTube - Filmora for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-premier-recorder-clean-and-clear-android-edition/"><u>[Updated] In 2024, Premier Recorder Clean and Clear Android Edition</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-rx-560-driver-trouble-overcome-issues-on-windows-111087-with-these-fixes/"><u>AMD RX 560 Driver Trouble? Overcome Issues on Windows 11/10/8/7 with These Fixes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/canoscan-lide-220-driver-download-and-update/"><u>CanoScan LiDE 220 Driver Download & Update</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-nvidia-drivers-driver-updater/"><u>Download NVIDIA Drivers | Driver Updater</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-updated-hp-scanjet-driver-for-enhanced-performance-on-windows-1187-devices/"><u>Download Updated HP Scanjet Driver for Enhanced Performance on Windows 11/8/7 Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-downloading-and-updating-of-microsoft-drivers-for-windows-7-8-and-10-users/"><u>Effortless Downloading & Updating of Microsoft Drivers for Windows 7, 8 & 10 Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-tp-link-tusb400-bluetooth-adapter-software-updates-now/"><u>Get the Latest TP-Link TUSB400 Bluetooth Adapter Software Updates Now!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722972045739-get-your-sades-headset-drivers-for-windows-trustworthy-and-risk-free-downloads/"><u>Get Your Sades Headset Drivers for Windows: Trustworthy and Risk-Free Downloads!</u></a></li>
+<li><a href="https://win-studio.techidaily.com/guia-facil-reparacion-de-la-unidad-d-en-windows-1011-sin-problemas/"><u>Guía Fácil: Reparación De La Unidad D en Windows 10/11 Sin Problemas</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-vivo-v27-pro-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Vivo V27 Pro.</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/los-15-mejores-videoplayer-para-ver-mp4-sin-costo-en-pcs-con-windows-10-y-computadoras-mac-gratis/"><u>Los 15 Mejores Videoplayer Para Ver MP4 Sin Costo en PCs Con Windows 10 Y Computadoras Mac - Gratis</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722976916287-seamless-connection-obtain-startechs-usb-to-vga-driver-software-today/"><u>Seamless Connection: Obtain StarTech's USB-to-VGA Driver Software Today!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-installing-or-updating-your-epson-xp-420-printer-drivers-now/"><u>Step-by-Step: Installing or Updating Your Epson XP 420 Printer Drivers Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722973748978-troubleshooting-updating-brother-mfc-7360n-printer-drivers-for-windows-users/"><u>Troubleshooting: Updating Brother MFC-7360N Printer Drivers for Windows Users!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-showdown-comparing-features-of-roku-vs-fire-tv-stick-to-find-your-ideal-streamer/"><u>Ultimate Showdown: Comparing Features of Roku Vs. Fire TV Stick to Find Your Ideal Streamer</u></a></li>
 </ul></div>
 

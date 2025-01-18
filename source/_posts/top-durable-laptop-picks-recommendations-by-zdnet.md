@@ -1,7 +1,7 @@
 ---
 title: Top Durable Laptop Picks - Recommendations by ZDNet
-date: 2025-01-05T22:33:37.093Z
-updated: 2025-01-12T22:32:40.429Z
+date: 2025-01-14T19:31:12.332Z
+updated: 2025-01-18T18:55:46.384Z
 tags:
   - laptops
 categories:
@@ -26,6 +26,10 @@ You can even find rugged laptops with enterprise-level security software, which 
 
 We've tested and researched some of the best rugged laptops on the market. Our top pick for the best rugged laptop is the [Getac S510](https://www.getac.com/us/products/laptops/s510/#product-info) for its highly configurable options for shock, drop, moisture, and dust resistance as well as options for multiple storage drives, touchscreen, and even dual SIM, 4G/5G LTE connectivity, and GPS tracking. Keep reading below to find out more about the Getac S510 as well as our other top picks for the best rugged laptops.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The best rugged laptops of 2024
 
 Show less 
@@ -42,7 +46,15 @@ Cons
 * Very expensive
 * Not consumer grade
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Getac S510
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best rugged laptop overall
 
@@ -69,15 +81,7 @@ Cons
 * Very expensive
 * No AMD option
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Panasonic ToughBook 40 Mk2
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best rugged laptop for battery life
 
@@ -107,7 +111,7 @@ Cons
 ## Acer Chromebook Spin 512
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best rugged laptop for students
@@ -136,7 +140,15 @@ Cons
 * Short battery life
 * On the heavy side
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Asus ZenBook Pro Duo 15 OLED
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best rugged laptop splurge
 
@@ -169,7 +181,7 @@ Cons
 * No Intel option
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Asus TUF A14
@@ -226,19 +238,11 @@ A rugged laptop, sometimes listed as a "ruggedized" laptop, is a computer that i
 
 These kinds of laptops are great for anyone who has to work outdoors for any length of time, such as people at construction sites, on geological surveys, and in the military.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What does "military grade" mean?
 
 A laptop that is listed as "military grade" doesn't necessarily mean that it was developed for use by the Army or other military branches. Rather, it has been tested against military standards for dirt and water resistance as well as resistance to shocks, drops, and operating temperatures. 
 
 Laptops meant for military use are more rigorously tested against a laundry list of conditions, while commercially available laptops labeled "military grade" are only tested against a few of the MIL-STD-810 standards.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Does Apple make a rugged laptop?
 
@@ -251,10 +255,6 @@ Show less
 [View now at Amazon](https://assoc-redirect.amazon.com/g/r/https://www.amazon.com/dp/B0B3Y3M68J?tag=cnet-api-20&linkCode=ogi&th=1&psc=1)
 
 Full Review [Read Full Review](https://www.zdnet.com/article/best-rugged-laptop/Design: Mini Listicle)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Lenovo ThinkPad X1 Nano Gen 2
 
@@ -269,7 +269,7 @@ Show less
 Full Review [Read Full Review](https://www.zdnet.com/article/best-rugged-laptop/Design: Mini Listicle)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Getac B360
@@ -320,21 +320,20 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-the-ultimate-mobile-experience-apple-android-and-youtube/"><u>[New] 2024 Approved The Ultimate Mobile Experience Apple, Android and YouTube</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-how-to-stay-on-top-of-youtube-moderation-standards/"><u>[New] How to Stay on Top of YouTube Moderation Standards</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-personalizing-your-android-a-step-by-step-guide-to-ringtone-and-sound-settings/"><u>2024 Approved Personalizing Your Android A Step-by-Step Guide to Ringtone & Sound Settings</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ace-your-choice-the-ultimate-guide-to-picking-a-professional-tested-touchscreen-laptop-insights/"><u>Ace Your Choice: The Ultimate Guide to Picking a Professional Tested Touchscreen Laptop Insights</u></a></li>
-<li><a href="https://windows11.techidaily.com/elgato-stream-deck-neo-review-initial-thoughts-and-unboxing-experience/"><u>Elgato Stream Deck Neo Review - Initial Thoughts and Unboxing Experience</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exclusive-save-big-on-best-buys-prime-day-offer-snag-an-hp-victus-15-gamer-at-just-515/"><u>Exclusive: Save Big on Best Buy's Prime Day Offer - Snag an HP Victus #15 Gamer at Just $515!</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/finding-the-social-beacons-in-your-interests-digital-landscape/"><u>Finding the Social Beacons in Your Interests’ Digital Landscape</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/huge-discount-pre-prime-day-deals-on-samsung-t5-ssds-nearly-half-price-at-amazon-insights/"><u>Huge Discount: Pre-Prime Day Deals on Samsung T5 SSDs, Nearly Half Price at Amazon - Insights</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/motorolas-marvel-an-insightful-look-into-the-moto-g-powers-impressive-battery-life-and-reliable-efficiency/"><u>Motorola's Marvel: An Insightful Look Into The Moto G Power's Impressive Battery Life & Reliable Efficiency</u></a></li>
-<li><a href="https://article-helps.techidaily.com/navigating-kinemasters-features-and-comparing-to-leading-online-games/"><u>Navigating KineMaster's Features and Comparing to Leading Online Games</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/premier-selection-of-moving-typefaces-for-2024/"><u>Premier Selection of Moving Typefaces for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/score-your-dream-deal-today-save-up-to-57-on-the-powerhouse-gaming-laptop-gigabyte-aero-e/"><u>Score Your Dream Deal Today: Save up to 57% on the Powerhouse Gaming Laptop, Gigabyte Aero E</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/secure-your-ultimate-tech-bargain-exclusive-october-2024-prime-day-laptops-features-and-deals-on-zdnet/"><u>Secure Your Ultimate Tech Bargain: Exclusive October 2024 Prime Day Laptops Features & Deals on ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-pick-uncovering-a-hidden-gem-in-the-ultimate-2-in-1-device-ideal-for-workspaces-exclusive-reveal/"><u>Top Pick: Uncovering a Hidden Gem in the Ultimate 2-in-1 Device Ideal for Workspaces - Exclusive Reveal</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unleash-chatgpts-potential-6-steps-to-becoming-a-flawless-dungeon-master-aid/"><u>Unleash ChatGPT's Potential: 6 Steps to Becoming a Flawless Dungeon Master Aid</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-latest-upgrades-in-samsungs-copilotplus-pc-how-artificial-intelligence-enhances-performance/"><u>Unveiling the Latest Upgrades in Samsung's Copilot+ PC: How Artificial Intelligence Enhances Performance</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-simplysnap-screen-shots-for-w10-users/"><u>[New] SimplySnap Screen Shots for W10 Users</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-instagrams-secret-fine-tuning-fcpx-for-high-aspect-videos/"><u>[Updated] In 2024, Instagram's Secret Fine-Tuning FCPX for High Aspect Videos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-10-ultimate-webcam-reviews-for-informed-buyers/"><u>2024 Approved 10 Ultimate Webcam Reviews for Informed Buyers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amazon-prime-day-october-exclusive-save-250-on-the-new-apple-m3-macbook-pro/"><u>Amazon Prime Day October Exclusive: Save $250 on the New Apple M3 MacBook Pro</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-radeon-r9-200-graphics-card-driver-download-and-setup-guide-for-windows-users/"><u>AMD Radeon R9 200 Graphics Card Driver Download & Setup Guide for Windows Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-compatible-intel-ethernetwireless-drivers-for-various-windows-versions/"><u>Best Compatible Intel Ethernet/Wireless Drivers for Various Windows Versions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-drivers-for-canon-mf8200c-printer-on-windows-7-81-and-10-free-guide/"><u>Download Drivers for Canon MF8200C Printer on Windows 7, 8.1 & 10 - Free Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-smooth-laptop-performance-with-fresh-acer-touchpad-drivers-windows-nix/"><u>Ensure Smooth Laptop Performance with Fresh Acer Touchpad Drivers (Windows Nix)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/find-the-perfect-personalized-boxed-gift-at-these-online-retailers-for-2024/"><u>Find the Perfect Personalized Boxed Gift at These Online Retailers for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-fix-asus-pce-ac56-wifi-card-compatibility-problems-with-windows-11-8-and/"><u>How to Fix ASUS PCE-AC56 WiFi Card Compatibility Problems with Windows 11, 8 &</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-logitech-g35-microphone-and-headphones-on-pc-windows-7810/"><u>How to Install Logitech G35 Microphone and Headphones on PC (Windows 7/8/10)</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-c53-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Realme C53 Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-video-posting-made-simple-with-correct-aspect-ratio/"><u>In 2024, Video Posting Made Simple with Correct Aspect Ratio</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/instantly-install-the-latest-windows-t-wireless-connectivity-drivers/"><u>Instantly Install the Latest Windows T Wireless Connectivity Drivers</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unbeatable-price-performance-ratio-with-budget-long-range-traffic-detectors-here-are-some-options-to-consider-on-escortpassport/"><u>Unbeatable Price-Performance Ratio with Budget Long Range Traffic Detectors - Here Are Some Options to Consider on EscortPassport!</u></a></li>
 </ul></div>
 

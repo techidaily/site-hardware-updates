@@ -1,7 +1,7 @@
 ---
 title: Love at First Swipe with the Lighter-Than-Ever Gram Pro 17 - Available Now for Black Friday Deals!
-date: 2025-01-11T21:08:50.116Z
-updated: 2025-01-12T20:59:05.928Z
+date: 2025-01-15T17:42:14.776Z
+updated: 2025-01-18T18:52:13.112Z
 tags:
   - laptops
 categories:
@@ -50,7 +50,7 @@ Finally, one of the best parts of the Vivobook line are these laptops' bold desi
 All in all, if you're looking for a sleek, lightweight travel laptop or a backup machine while working remotely, the [Vivobook Go 15.6](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FASUS-Vivobook-Go-15-6-PC-Laptop-Intel-i3-N305-8GB-256GB-Win-11-Home-S-mode-Mixed-Black-E1504GA-WS36%2F5727766555&subId1=zd-__COM_CLICK_ID__-dtp) has a nice-sized screen that's not too big or too small for only $249 ($80 off at the time of writing). The full-sized keyboard offers a comfortable work setup, and the generous port selections make this computer well-rounded enough for a variety of everyday use cases. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -87,21 +87,21 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-champions-tech-the-ultimate-gaming-toolkit/"><u>[New] 2024 Approved Champion's Tech The Ultimate Gaming Toolkit</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-essential-tactics-for-dramatizing-success-stories-through-testimonials-for-2024/"><u>[Updated] Essential Tactics for Dramatizing Success Stories Through Testimonials for 2024</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/6ygp5yih44gq6zplusz5aow44kz44o844oh44od44kv44ks6yg45a6a44gz44kl5oml5byv44gnicfpn7plo7djgrpjg7zjg4fjg4pjgqjga7mpjzoqlwn/"><u>適切な音声コーデックを選定する手引き '音声コーデックの検証'</u></a></li>
-<li><a href="https://techtrends.techidaily.com/decoding-the-meaning-of-error-code-0x80070570-and-remedies-to-eliminate-it/"><u>Decoding the Meaning of Error Code 0X80070570 and Remedies to Eliminate It</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-how-lenovos-newly-released-thinkbook-outperforms-competitors-offering-unmatched-value-at-just-749-for-the-ideal-windows-machine/"><u>Discover How Lenovo's Newly Released ThinkBook Outperforms Competitors, Offering Unmatched Value at Just $749 for the Ideal Windows Machine</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-analysis-the-downside-of-dells-latest-xps-14-laptop-revealed-by-zdnet/"><u>Expert Analysis: The Downside of Dell's Latest XPS 14 Laptop Revealed by ZDNET</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-se-2020-without-passcode-or-face-id-by-drfone-ios/"><u>How to Unlock Apple iPhone SE (2020) without Passcode or Face ID</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/huge-savings-on-gaming-rigs-snag-a-whopping-600-discount-on-the-asus-rog-strix-g15-shop-now/"><u>Huge Savings on Gaming Rigs: Snag a Whopping $600 Discount on the ASUS ROG Strix G15 - Shop Now!</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Itel P55+ | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-realme-c67-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Realme C67 5G Devices</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/inside-scoop-on-lenovos-finest-a-deep-dive-into-the-best-mwc-releases-insights-from-digital-trends/"><u>Inside Scoop on Lenovo's Finest: A Deep Dive Into the Best MWC Releases - Insights From Digital Trends</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/maximize-immersion-score-the-ultimate-vr-experience-with-metas-quest-3-packing-a-massive-512gb-unmissable-offer/"><u>Maximize Immersion: Score the Ultimate VR Experience with Meta's Quest 3 Packing a Massive 512GB – Unmissable Offer !</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/meta-qc3-controller-bundle-offer-save-big-during-october-prime-day-event-get-your-hands-on-vr-fun/"><u>Meta QC3 Controller Bundle Offer - Save Big During October Prime Day Event, Get Your Hands-On VR Fun!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-12-unique-presents-ideal-for-tech-savvy-hackers-recommendations/"><u>Top 12 Unique Presents Ideal for Tech-Savvy Hackers: Recommendations</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/turn-your-iphone-images-upside-down-with-precision-for-2024/"><u>Turn Your iPhone Images Upside Down with Precision for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-best-free-mov-trimmers-edit-videos-with-ease/"><u>Updated In 2024, Best Free MOV Trimmers Edit Videos with Ease</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-journey-to-the-ultimate-vr-cycling-spaces/"><u>[New] 2024 Approved Journey to the Ultimate VR Cycling Spaces</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/aving-the-path-to-online-success-youtubes-keyword-guide/"><u>[New] Paving the Path to Online Success YouTube's Keyword Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-tecno-spark-10-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/asus-z170-a-windows-1087-driver-download-guide-fast-and-hassle-free-process/"><u>ASUS Z170-A Windows 10/8/7 Driver Download Guide - Fast and Hassle-Free Process</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722904005916-decode-the-future-of-smartwear-unlock-insider-rumors-on-apple-ring-cost-debut-date-and-tech-specs-so-far/"><u>Decode the Future of Smartwear: Unlock Insider Rumors on Apple Ring Cost, Debut Date, & Tech Specs So Far</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/discover-top-rated-xbox-extra-gb-drives/"><u>Discover Top-Rated Xbox Extra GB Drives</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-download-of-behringers-top-quality-drives/"><u>Free Download of Behringer's Top-Quality Drives</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-epson-perfection-v500-printer-software-free-download/"><u>Get Your Epson Perfection V500 Printer Software - FREE Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-latest-realtek-asio-driver-for-enhanced-audio-on-windows-11/"><u>How to Get the Latest Realtek Asio Driver for Enhanced Audio on Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-or-update-hp-deskjet-ink-advantage-3520-drivers-easily-online/"><u>How to Install or Update HP Deskjet Ink Advantage 3520 Drivers Easily Online</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-advanced-android-photography-essentials/"><u>In 2024, Advanced Android Photography Essentials</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-secure-your-remote-sessions-with-these-tools/"><u>In 2024, Secure Your Remote Sessions with These Tools</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-selecting-the-top-6-mac-video-capture-software/"><u>In 2024, Selecting the Top 6 Mac Video Capture Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-or-update-your-hp-officejet-4655-printer-software-for-best-compatibility-step-by-step-guide-and-downloads/"><u>Install or Update Your HP OfficeJet 4655 Printer Software for Best Compatibility: Step-by-Step Guide & Downloads</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-geforce-rtx-2080-super-graphics-driver-update-for-windows-10-and-11/"><u>Latest GeForce RTX 2080 Super Graphics Driver Update for Windows 10 and 11</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/vonage-can-it-still-claim-the-title-of-top-voip-provider/"><u>Vonage: Can It Still Claim the Title of Top VoIP Provider?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Is the Release of an M3 MacBook Air Signaling a Shift Away From iPhone Hype? Insights From ZDNet
-date: 2025-01-07T04:22:54.266Z
-updated: 2025-01-13T04:08:43.144Z
+date: 2025-01-12T20:17:22.439Z
+updated: 2025-01-18T17:58:09.719Z
 tags:
   - laptops
 categories:
@@ -34,6 +34,10 @@ Based on all my experience, here's why Chromebooks are the perfect laptops for m
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Chromebooks are cheap
 
 The first reason is beyond dispute. Given how the economy has had a rather crushing effect on so many of our budgets, finding an inexpensive piece of hardware can be a real plus for anyone looking to stay productive. That's not to say every Chromebook is cheap. I once paid a premium for a [Chromebook Pixel](https://www.zdnet.com/article/googles-chromebook-pixel-lives-on-but-you-cant-buy-one/) \-- and that laptop remains one of my favorites. (The display and keyboard were best in class at the time.) 
@@ -58,10 +62,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Chromebooks are user-proof
 
 No other laptop operating system on the planet can claim to be as user-proof as [ChromeOS](https://www.zdnet.com/article/5-chromeos-tips-for-faster-navigation-and-a-more-efficient-experience/). Some would argue that's because there's so little you can do with a Chromebook, but that's patently false, especially considering that your Chromebook can run both [Android](https://www.zdnet.com/home-and-office/work-life/how-to-add-android-apps-to-your-chromebook/) and Linux apps. 
@@ -75,7 +75,7 @@ I've known users -- hello, family, are you listening? -- who've suffered to no e
 I've watched users continually break Windows and MacOS laptops (and come to me for help). The number of times I've had a Chromebook user do the same thing is… nil. Sure, a couple of times someone asked me, "How do I get this thing connected to a printer?" That's about it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Chromebooks are fast
@@ -89,7 +89,7 @@ It's not just about how quickly apps open (Android _and_ Linux apps, see above),
 If you want a fast laptop at a reasonable price, get a Chromebook.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Chromebooks are reliable
@@ -101,7 +101,7 @@ In the 10 years since I've been using Chromebooks, I've only had one device with
 Even when using the [non-stable ChromeOS channel](https://www.zdnet.com/article/how-to-switch-release-channels-on-your-chromebook/), I've found the operating system to be exponentially more reliable than Windows. Anyone who argues this point hasn't used ChromeOS enough.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Chromebooks are secure
@@ -121,7 +121,7 @@ Speaking of reliability, should you wind up having a problem with ChromeOS misbe
 No other operating system can compete with ChromeOS's ability to factory reset and return you to a pristine working state without having lost your data, bookmarks, apps, and more. I've never once worried about doing anything with a Chromebook, simply because I know I can do a quick power wash and be back working in minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -158,14 +158,19 @@ Chromebooks may not be the ideal solution for everyone. (Attempt any serious vid
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-connect-with-community-spots-a-dynamic-guide-for-local-explorers-on-the-move/"><u>[New] Connect with Community Spots A Dynamic Guide for Local Explorers on the Move</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-best-8-mirrorless-cameras-to-elevate-your-vlogging-game/"><u>[Updated] 2024 Approved Best 8 Mirrorless Cameras to Elevate Your Vlogging Game</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/enhanced-nutrient-cycling-leading-to-reduced-need-for-synthetic-fertilizers/"><u>Enhanced Nutrient Cycling Leading to Reduced Need for Synthetic Fertilizers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-completely-erase-private-information-from-a-windows-pc-safely-quickly-and-for-free-expert-advice-for-peace-of-mind/"><u>How To Completely Erase Private Information From A Windows PC Safely, Quickly, And For Free - Expert Advice for Peace of Mind</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-recurring-system-errors-when-using-moon-client-on-personal-computers/"><u>How to Fix Recurring System Errors When Using Moon Client on Personal Computers</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Poco X5 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Itel P55 5G? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/massive-discount-save-1100-on-the-latest-gaming-and-content-creation-laptops-featured-on-zdnet/"><u>Massive Discount: Save $1100 on the Latest Gaming & Content Creation Laptops - Featured on ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-10-resources-for-in-depth-apple-tech-reviews-podcasts-and-youtube-channels-pcmag/"><u>Top 10 Resources for In-Depth Apple Tech Reviews: Podcasts & YouTube Channels | PCMag</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-no-money-down-best-web-converters-from-tiktok-to-mp3-ranked/"><u>[New] In 2024, No Money Down Best Web Converters From TikTok To MP3 Ranked</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-unveiling-colors-top-11-grading-and-correction-techniques-for-2024/"><u>[New] Unveiling Colors Top 11 Grading & Correction Techniques for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-cutting-edge-alternatives-to-vimeos-video-editor-for-2024/"><u>[Updated] Cutting Edge Alternatives to Vimeo's Video Editor for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/direct-links-for-newest-nvidia-driver-updates-save-time-improve-performance/"><u>Direct Links for Newest NVIDIA Driver Updates - Save Time, Improve Performance</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-z-fold-5-support-mkv-video-files-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Does Samsung Galaxy Z Fold 5 support MKV video files?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-creative-x-fi-gamer-audio-driver-pack-for-windows-10/"><u>Download and Update Creative X-Fi Gamer Audio Driver Pack for Windows 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-installation-of-kyocera-printer-drivers-for-windows-users/"><u>Easy Installation of KYOCERA Printer Drivers for Windows Users</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ensure-seamless-communication-download-the-latest-zexmte-bluetooth-adapter-drivers-for-windows-users/"><u>Ensure Seamless Communication - Download the Latest Zexmte Bluetooth Adapter Drivers for Windows Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-epson-gt-s50-printer-drivers-compatible-with-windows-7-8-and-10/"><u>Get the Latest Epson GT-S50 Printer Drivers Compatible with Windows 7, 8 & 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-securely-get-mouse-drivers-for-windows-7-operating-system/"><u>How To Securely Get Mouse Drivers For Windows 7 Operating System</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-poco-c55-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Poco C55 FRP</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-growth-on-youtube-harnessing-the-potential-of-outros-for-2024/"><u>Rapid Growth on YouTube Harnessing the Potential of Outros for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/updating-your-amd-drivers-on-windows-10-11-and-7-a-comprehensive-guide/"><u>Updating Your AMD Drivers on Windows 10, 11 & 7: A Comprehensive Guide</u></a></li>
 </ul></div>
 

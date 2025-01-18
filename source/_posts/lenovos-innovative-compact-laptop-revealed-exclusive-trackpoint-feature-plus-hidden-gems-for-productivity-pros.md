@@ -1,7 +1,7 @@
 ---
 title: "Lenovo’s Innovative Compact Laptop Revealed: Exclusive TrackPoint Feature + Hidden Gems for Productivity Pros!"
-date: 2025-01-06T03:34:33.010Z
-updated: 2025-01-12T22:53:15.152Z
+date: 2025-01-14T16:45:34.083Z
+updated: 2025-01-18T16:36:00.629Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -95,7 +95,7 @@ Instead, I see the Vivobook S 15 as a primary driver for remote workers or digit
 It also has a "full" keyboard (the number pad on the right side has slightly smaller keys, as typical for sub-16-inch machines), which is satisfying and responsive to typing on. The keyboard has colorful LED backlighting that can be configured in many different lights and effects, but again, this is not something that I would consider high on the priority list when optimizing battery life. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -134,19 +134,19 @@ All things considered, the starting price of $1,299 is quite competitive for thi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-navigating-the-world-of-zoom-audio-to-text-tools/"><u>[Updated] In 2024, Navigating the World of Zoom Audio to Text Tools</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-the-top-ten-webcam-enhancers-master-stream-quality-for-2024/"><u>[Updated] The Top-Ten Webcam Enhancers Master Stream Quality for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-beyond-boundaries-the-present-state-and-future-of-vr/"><u>2024 Approved Beyond Boundaries The Present State and Future of VR</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/experts-reveal-top-non-hplenovo-2-in-1-laptops-with-exceptional-capabilities-zdnet-insights/"><u>Experts Reveal Top Non-HP/Lenovo 2-in-1 Laptops with Exceptional Capabilities | ZDNet Insights</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-elevate-your-content-game-with-professional-facebook-slideshow-techniques/"><u>In 2024, Elevate Your Content Game with Professional Facebook Slideshow Techniques</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Honor 70 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-honor-x50iplus-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Honor X50i+ Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/inside-look-how-microsoft-plans-to-triumph-over-the-macbook-with-next-gen-ai-chip-insiders-report/"><u>Inside Look: How Microsoft Plans to Triumph Over the MacBook with Next-Gen AI Chip | Insider's Report</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/masterclass-enable-and-enjoy-dvd-viewing-across-different-xbox-one-units/"><u>Masterclass: Enable and Enjoy DVD Viewing Across Different Xbox One Units</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/save-and-enjoy-your-favorite-coub-videos-with-ease/"><u>Save and Enjoy Your Favorite Coub Videos with Ease</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-non-dell-and-non-lenovo-business-laptops-the-best-alternatives-for-your-workspace/"><u>Top Non-Dell and Non-Lenovo Business Laptops: The Best Alternatives for Your Workspace</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-pick-the-ultimate-power-bank-choice-for-your-macbook-pro-reviewed-by-techexperts-at-zdnet/"><u>Top Pick: The Ultimate Power Bank Choice for Your MacBook Pro – Reviewed by TechExperts at ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unbeatable-deal-on-asus-vivobook-pro-save-300-today-on-amazon-zdnets-exclusive-offer/"><u>Unbeatable Deal on Asus VivoBook Pro - Save $300 Today on Amazon! [ZDNet's Exclusive Offer]</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/why-you-should-think-twice-about-pricey-laptops-once-you-experience-lenovos-499-chromebook-plus-zdnet/"><u>Why You Should Think Twice About Pricey Laptops Once You Experience Lenovo's $499 Chromebook Plus | ZDNet</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/0plus-youtube-channel-names-for-vloggers-100-new-filmora/"><u>[New] 50+ Youtube Channel Names for Vloggers [100% New] - Filmora</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-maximizing-auditory-experience-on-windows-10/"><u>[New] Maximizing Auditory Experience on Windows 10</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-one-arm-wonders-keeping-photos-steady/"><u>2024 Approved One Arm Wonders Keeping Photos Steady</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/brother-mfc-l27andwdw-windows-drivers-installation-guide-and-download-links/"><u>Brother MFC-L27^&WDW Windows Drivers Installation Guide and Download Links</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-locate-the-app-on-your-iphone-this-guide-will-show-you-how-to-retrieve-lost-programs-quickly/"><u>Can't Locate the App on Your iPhone? This Guide Will Show You How to Retrieve Lost Programs Quickly</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-guide-for-downloading-and-setting-up-hp-laserjet-pro-m402n-drivers-in-windows/"><u>Comprehensive Guide for Downloading & Setting up HP LaserJet Pro M402n Drivers in Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-hp-laserjet-1320-driver-update-and-installation-guide-best-practices-for-windows-enthusiasts/"><u>Comprehensive HP LaserJet 1320 Driver Update and Installation Guide - Best Practices for Windows Enthusiasts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-configure-wacom-intuos-art-pen-n-tablet-drivers-for-seamless-operation-in-windows/"><u>Download and Configure Wacom Intuos Art Pen N Tablet Drivers for Seamless Operation in Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-sades-headset-drivers-safely-downloaded-for-your-windows-system/"><u>Get the Latest Sades Headset Drivers Safely Downloaded for Your Windows System</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-create-a-standout-presence-with-youtube-custom-imagery/"><u>In 2024, Create a Standout Presence with YouTube Custom Imagery</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-protecting-your-privacy-how-to-remove-apple-id-from-apple-iphone-xr-by-drfone-ios/"><u>In 2024, Protecting Your Privacy How To Remove Apple ID From Apple iPhone XR</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-xiaomi-redmi-a2-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Xiaomi Redmi A2 Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-soundbot-sb210-evaluation-superb-acoustics-delivered-when-functioning-correctly/"><u>The Soundbot SB210 Evaluation: Superb Acoustics Delivered When Functioning Correctly</u></a></li>
+<li><a href="https://discover-able.techidaily.com/ultimate-guide-to-the-best-windows-11-dvd-to-avi-transcoding-software-of-2e24/"><u>Ultimate Guide to the Best Window's 11 DVD to AVI Transcoding Software of 2E24</u></a></li>
 </ul></div>
 
