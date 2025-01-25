@@ -1,7 +1,7 @@
 ---
 title: "Maximizing the Potential of Every Pin: Building a Bespoke Capacitive Touch Controller on the Raspberry Pi Pico PCB"
-date: 2024-08-19T04:10:31.348Z
-updated: 2024-08-20T04:10:31.348Z
+date: 2025-01-19T01:12:12.142Z
+updated: 2025-01-24T21:22:00.708Z
 tags:
   - raspberry-pi
 categories:
@@ -28,6 +28,10 @@ A new[open source tool](https://www.remote.it/solutions/raspberry-pi-ble-wifi-on
 
  The Raspberry Pi is a popular choice for headless Linux devices. Used by makers, developers and engineers because it is relatively cheap, has great support and an ever expanding ecosystem of supporting products. The only "problem" with headless setups is that for those of us not blessed with Linux skills, it can seem a daunting task.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -46,8 +50,6 @@ A new[open source tool](https://www.remote.it/solutions/raspberry-pi-ble-wifi-on
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -55,8 +57,20 @@ A new[open source tool](https://www.remote.it/solutions/raspberry-pi-ble-wifi-on
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-comprehensively-understanding-ios-visual-record-function/"><u>[New] 2024 Approved Comprehensively Understanding IO’s Visual Record Function</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-optimal-methods-for-game-recordings/"><u>[Updated] In 2024, Optimal Methods for Game Recordings</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-the-ultimate-compendium-chromes-excellence-in-video-grabs/"><u>[Updated] The Ultimate Compendium Chromes' Excellence in Video Grabs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-step-by-step-tutorial-on-pairing-various-bluetooth-speakers-to-one-device/"><u>A Step-by-Step Tutorial on Pairing Various Bluetooth Speakers to One Device</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-amd-radeon-hd-7700-drivers-latest-updates-and-installation-guide/"><u>Download AMD Radeon HD 7700 Drivers - Latest Updates & Installation Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-download-of-hp-network-interface-controllerss-driver-pack-for-various-windows-os/"><u>Easy Download of HP Network Interface Controllers's Driver Pack for Various Windows OS</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-locked-apple-iphone-12-mini-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>Forgot Locked Apple iPhone 12 mini Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722973262062-get-your-focusrite-scarlett-2i4-windows-device-drivers-here/"><u>Get Your Focusrite Scarlett 2I4 Windows Device Drivers Here</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-or-fix-your-toshiba-dynabook-drivers-in-windows-environment/"><u>How to Install or Fix Your Toshiba Dynabook Drivers in Windows Environment</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-refresh-the-driver-software-for-your-microsoft-mouse-in-windows/"><u>How To Refresh The Driver Software For Your Microsoft Mouse In Windows</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mac-and-pcs-top-10-supercharged-srt-systems-unveiled/"><u>Mac & PC's Top 10 Supercharged SRT Systems Unveiled</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/nvidia-rtx-2080-drivers-fresh-release-download-now-for-windows-1178/"><u>NVIDIA RTX 2080 Drivers - Fresh Release: Download Now for Windows 11/7/8</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/separate-your-online-storage-onedrive-and-microsoft-ids/"><u>Separate Your Online Storage: OneDrive & Microsoft IDs</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->

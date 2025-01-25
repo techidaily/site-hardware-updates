@@ -1,7 +1,7 @@
 ---
 title: Detailed Analysis of AMD Ryzen 9 9950X 'Engineering Sample' Benchmarked Using Blender at Multiple Thermal Design Power Configurations - Evidence of Improved Performance Efficiency
-date: 2024-08-19T05:48:41.847Z
-updated: 2024-08-20T05:48:41.847Z
+date: 2025-01-17T23:31:11.740Z
+updated: 2025-01-25T02:11:11.921Z
 tags:
   - cpu
 categories:
@@ -34,6 +34,10 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
 
  Speaking of substantial performance advantages of AMD's Zen 5, we cannot omit the single-thread performance of AMD's Ryzen 9000-series processors with 16 cores. Based on leaked CPU-Z benchmark results we have seen so far, the Ryzen 9 9950X is about 15% faster in single-thread workloads. It is about 9% faster in multi-thread workloads than the Ryzen 9 7950X, which is generally in line with performance advantage estimates demonstrated by AMD.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -42,14 +46,11 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -58,10 +59,20 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-quick-and-easy-apods-episodes-access-on-gadgets/"><u>[New] 2024 Approved Quick and Easy APods Episodes Access on Gadgets</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-a-straightforward-path-to-iphone-screen-capture/"><u>[New] A Straightforward Path to iPhone Screen Capture</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-ultimate-resource-list-of-3d-fonts-online/"><u>[New] Ultimate Resource List of 3D Fonts Online</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-critical-analysis-the-true-value-of-instas-selfie-confirmation-for-2024/"><u>[Updated] Critical Analysis The True Value of Insta's Selfie Confirmation for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-streamline-screen-capture-on-google-chat/"><u>[Updated] Streamline Screen Capture on Google Chat</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comparing-the-differences-ps5-console-vs-ps5-digital-edition/"><u>Comparing the Differences: PS5 Console Vs. PS5 Digital Edition</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-walkthrough-to-downloading-and-updating-intel-hd-graphics-5500s-software/"><u>Comprehensive Walkthrough to Downloading & Updating Intel HD Graphics 5500'S Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-logitech-g29-steering-wheel-setup-software-compatible-with-windows-11-10-and-7/"><u>Free Logitech G29 Steering Wheel Setup Software Compatible with Windows 11, 10 & 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-up-and-running-with-the-ergokeyboard-40eboard-by-microsoft-fast-drivers-download-available/"><u>Get Up and Running with the ErgoKeyboard 40Eboard by Microsoft - Fast Drivers Download Available!</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-your-apple-iphone-13-pro-max-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>In 2024, How to Unlock Your Apple iPhone 13 Pro Max Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-subtitled-success-the-top-8-software-that-swiftly-converts-sub-to-srt-on-pcmacosx/"><u>In 2024, Subtitled Success! The Top 8 Software That Swiftly Converts SUB to SRT on PC/MacOSX</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/hots-of-opposites-youtube-video-inverts/"><u>Snapshots of Opposites YouTube Video Inverts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-instructions-to-fix-and-install-rndis-drivers-on-your-pc-with-windows-os/"><u>Step-by-Step Instructions to Fix and Install RNDIS Drivers on Your PC with Windows OS</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->

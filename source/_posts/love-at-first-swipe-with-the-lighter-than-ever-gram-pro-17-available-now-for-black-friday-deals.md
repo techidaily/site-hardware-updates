@@ -1,7 +1,7 @@
 ---
 title: Love at First Swipe with the Lighter-Than-Ever Gram Pro 17 - Available Now for Black Friday Deals!
-date: 2025-01-15T17:42:14.776Z
-updated: 2025-01-18T18:52:13.112Z
+date: 2025-01-23T23:25:29.158Z
+updated: 2025-01-24T23:14:01.119Z
 tags:
   - laptops
 categories:
@@ -50,7 +50,7 @@ Finally, one of the best parts of the Vivobook line are these laptops' bold desi
 All in all, if you're looking for a sleek, lightweight travel laptop or a backup machine while working remotely, the [Vivobook Go 15.6](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FASUS-Vivobook-Go-15-6-PC-Laptop-Intel-i3-N305-8GB-256GB-Win-11-Home-S-mode-Mixed-Black-E1504GA-WS36%2F5727766555&subId1=zd-__COM_CLICK_ID__-dtp) has a nice-sized screen that's not too big or too small for only $249 ($80 off at the time of writing). The full-sized keyboard offers a comfortable work setup, and the generous port selections make this computer well-rounded enough for a variety of everyday use cases. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -87,21 +87,22 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-journey-to-the-ultimate-vr-cycling-spaces/"><u>[New] 2024 Approved Journey to the Ultimate VR Cycling Spaces</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/aving-the-path-to-online-success-youtubes-keyword-guide/"><u>[New] Paving the Path to Online Success YouTube's Keyword Guide</u></a></li>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-tecno-spark-10-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Tecno Spark 10 4G | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/asus-z170-a-windows-1087-driver-download-guide-fast-and-hassle-free-process/"><u>ASUS Z170-A Windows 10/8/7 Driver Download Guide - Fast and Hassle-Free Process</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722904005916-decode-the-future-of-smartwear-unlock-insider-rumors-on-apple-ring-cost-debut-date-and-tech-specs-so-far/"><u>Decode the Future of Smartwear: Unlock Insider Rumors on Apple Ring Cost, Debut Date, & Tech Specs So Far</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/discover-top-rated-xbox-extra-gb-drives/"><u>Discover Top-Rated Xbox Extra GB Drives</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-download-of-behringers-top-quality-drives/"><u>Free Download of Behringer's Top-Quality Drives</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-epson-perfection-v500-printer-software-free-download/"><u>Get Your Epson Perfection V500 Printer Software - FREE Download</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-latest-realtek-asio-driver-for-enhanced-audio-on-windows-11/"><u>How to Get the Latest Realtek Asio Driver for Enhanced Audio on Windows 11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-install-or-update-hp-deskjet-ink-advantage-3520-drivers-easily-online/"><u>How to Install or Update HP Deskjet Ink Advantage 3520 Drivers Easily Online</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-advanced-android-photography-essentials/"><u>In 2024, Advanced Android Photography Essentials</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-secure-your-remote-sessions-with-these-tools/"><u>In 2024, Secure Your Remote Sessions with These Tools</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-selecting-the-top-6-mac-video-capture-software/"><u>In 2024, Selecting the Top 6 Mac Video Capture Software</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-or-update-your-hp-officejet-4655-printer-software-for-best-compatibility-step-by-step-guide-and-downloads/"><u>Install or Update Your HP OfficeJet 4655 Printer Software for Best Compatibility: Step-by-Step Guide & Downloads</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-geforce-rtx-2080-super-graphics-driver-update-for-windows-10-and-11/"><u>Latest GeForce RTX 2080 Super Graphics Driver Update for Windows 10 and 11</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/vonage-can-it-still-claim-the-title-of-top-voip-provider/"><u>Vonage: Can It Still Claim the Title of Top VoIP Provider?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-advanced-techniques-for-trimming-youtube-footage/"><u>[Updated] 2024 Approved Advanced Techniques for Trimming YouTube Footage</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-master-mac-gif-archiver/"><u>[Updated] Master Mac GIF Archiver</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-selective-focus-topiphoto-blurrers-revealed/"><u>[Updated] Selective Focus Topiphoto Blurrers Revealed</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-copypaste-dilemma-sudden-vid-deletion/"><u>2024 Approved Copypaste Dilemma Sudden Vid Deletion</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/cutting-edge-lighting-showcase-expert-insights-on-the-taotronics-tt-dl16-led-lamp/"><u>Cutting Edge Lighting Showcase: Expert Insights on the TaoTronics TT-DL16 LED Lamp</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-check-refresh-rate-on-a-monitor-easily/"><u>How to Check Refresh Rate on a Monitor [Easily]</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-track-apple-iphone-13-pro-max-location-by-number-drfone-by-drfone-virtual-ios/"><u>How to Track Apple iPhone 13 Pro Max Location by Number | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-gpt-3-a-guide-for-openais-playground/"><u>Mastering GPT-3: A Guide for OpenAI's Playground</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mediatek-enters-the-fray-preparing-arm-chips-for-laptops-running-windows-after-qualcomm-deal-concludes/"><u>MediaTek Enters the Fray: Preparing ARM Chips for Laptops Running Windows After Qualcomm Deal Concludes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mediatek-gears-up-with-arm-based-cpus-targeting-windows-devices-a-new-era-post-qualcomm-pact/"><u>MediaTek Gears Up with ARM-Based CPUs Targeting Windows Devices - A New Era Post-Qualcomm Pact</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/samsungs-latest-contender-the-book4-edge-with-elite-chip-seen-as-underperforming-compared-to-iphone-12-benchmark-insights/"><u>Samsung's Latest Contender, the Book4 Edge with Elite Chip, Seen as Underperforming Compared to iPhone 12 - Benchmark Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/save-big-this-memorial-day-with-the-2024-asus-tuf-gaming-a15-laptop-now-for-a-steal-at-658/"><u>Save Big This Memorial Day with the 2024 Asus TUF Gaming A15 Laptop Now for a Steal at $658</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/slim-powerful-gaming-experience-acers-predator-helios-neo-14-where-performance-meets-portability/"><u>Slim, Powerful Gaming: Experience Acer's Predator Helios Neo 14 - Where Performance Meets Portability</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/tech-community-riled-as-framework-questions-overselling-of-ai-in-computing-devices/"><u>Tech Community Riled as Framework Questions Overselling of AI in Computing Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-future-of-competitive-play-microsoft-upgrades-anti-cheat-and-optimizes-copilot-pc-systems/"><u>The Future of Competitive Play: Microsoft Upgrades Anti-Cheat and Optimizes Copilot PC Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-hub-exploring-cutting-edge-hardware/"><u>Tom's Tech Hub: Exploring Cutting-Edge Hardware</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-restoring-msi-mystic-light-capabilities-in-windows-environment/"><u>Troubleshooting Tips: Restoring MSI Mystic Light Capabilities in Windows Environment</u></a></li>
 </ul></div>
 

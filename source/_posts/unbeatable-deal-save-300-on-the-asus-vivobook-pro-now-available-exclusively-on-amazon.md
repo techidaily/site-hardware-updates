@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Deal: Save $300 on the Asus VivoBook Pro - Now Available Exclusively on Amazon"
-date: 2024-12-03T18:34:19.265Z
-updated: 2024-12-06T20:19:15.603Z
+date: 2025-01-19T02:55:58.543Z
+updated: 2025-01-24T21:10:01.618Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Taylor Clemons/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What is the deal?
@@ -31,7 +31,7 @@ The [Lenovo Legion Pro 5i](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=h
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -73,7 +73,7 @@ The power cable has an extensive power supply; it's a little bit larger than my 
 The [Lenovo Legion Pro 5i](https://shop-links.co/link/?url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Flegion-laptops%2Flegion-pro-series%2Flegion-pro-5i-gen-8-%2816-inch-intel%29%2Flen101g0024&publisher_slug=itechdaily19598&exclusive=1) base configuration starts at $1,260, while the top configuration retails for $1,800\. The configuration I was sent for testing will cost you around $1,450, which is a very decent value for the components and performance you'll get.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -110,15 +110,18 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/he-artists-toolbox-essential-video-tips-for-musicians-on-youtube/"><u>[New] The Artist's Toolbox Essential Video Tips for Musicians on YouTube</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-funny-frenzy-top-10-tweets/"><u>[Updated] Funny Frenzy Top 10 Tweets</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-newest-lenovo-driver-update-for-optimal-windows-n-compatibility/"><u>Download the Newest Lenovo Driver Update for Optimal Windows N Compatibility</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-device-ready-top-generic-bluetooth-driver-updates-and-download-options-for-windows-users/"><u>Get Your Device Ready: Top Generic Bluetooth Driver Updates & Download Options for Windows Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-epson-ds-530-ready-windows-10-64-bit-compatible-drivers-free-download/"><u>Get Your Epson DS-530 Ready: Windows 10 (64-Bit) Compatible Drivers Free Download</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hassle-free-driver-update-process-for-the-scansnap-ix500-on-windows-systems/"><u>Hassle-Free Driver Update Process for the ScanSnap iX500 on Windows Systems</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-lava-blaze-curve-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Lava Blaze Curve 5G | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-future-of-pc-gaming-meet-eizos-cg318-4k-for-2024/"><u>The Future of PC Gaming Meet EIZO's CG318-4K for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/unraveling-free-filter-treasures-through-instagrams-advanced-searches-for-2024/"><u>Unraveling Free Filter Treasures Through Instagram’s Advanced Searches for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/xbox-one-elite-series-2-controller-showdown-why-this-controller-is-king-among-gaming-peripherals/"><u>Xbox One Elite Series 2 Controller Showdown: Why This Controller Is King Among Gaming Peripherals</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-mobile-audio-enhancers-for-swift-soundplay/"><u>[New] 2024 Approved Mobile Audio Enhancers for Swift Soundplay</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-perfect-your-iphone-photo-mosaic-skills/"><u>[New] Perfect Your iPhone Photo Mosaic Skills</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-foundation-principles-of-tale-telling/"><u>2024 Approved Foundation Principles of Tale-Telling</u></a></li>
+<li><a href="https://win-trending.techidaily.com/ylylu/"><u>如何通过智能投资获取更高收益：YL计算机和YL软件解码u兄万亿孤独之路的雪球理论</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/assessment-of-dbpower-600a-the-powerhouse-jump-starter-with-a-1800ebytes-charge-capacity/"><u>Assessment of DBPower 600A: The Powerhouse Jump Starter with a 18,00Ebytes Charge Capacity</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/best-tools-to-track-popular-tags-on-fb-twt-and-ig-networks-for-2024/"><u>Best Tools to Track Popular Tags on FB, Twt & IG Networks for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-latest-intel-network-driver-for-win11107-here/"><u>Get Your Latest Intel Network Driver for Win11/10/7 Here</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-quickly-secure-sound-blaster-z-drivers-compatible-with-windows-11/"><u>How to Quickly Secure Sound Blaster Z Drivers Compatible with Windows 11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-12-pro-with-imei-code-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 Pro with IMEI Code?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-canon-pixma-ts3322-printer-drivers-free-download-and-installation-guide/"><u>Latest Canon PIXMA TS3322 Printer Drivers - Free Download & Installation Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/navigating-iphones-bluetooth-functionality-an-essential-manual-for-beginners/"><u>Navigating iPhone's Bluetooth Functionality: An Essential Manual for Beginners</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-technology-trends-with-toms-hardware-experts/"><u>Navigating Technology Trends with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-fixes-for-elgato-hd6-groovers-driver-troubles-an-experts-methods-uncovered/"><u>Quick Fixes for Elgato HD6 Groovers Driver Troubles – An Expert's Methods Uncovered</u></a></li>
 </ul></div>
 

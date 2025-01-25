@@ -1,7 +1,7 @@
 ---
 title: Experiencing Emotions with the New M2 MacBook Air - A Tearful Review on ZDNet
-date: 2025-01-15T17:46:48.053Z
-updated: 2025-01-18T17:50:21.806Z
+date: 2025-01-21T00:05:19.131Z
+updated: 2025-01-24T23:42:37.313Z
 tags:
   - laptops
 categories:
@@ -23,12 +23,16 @@ Cliff Joseph/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
 [![Best tech products of 2022](https://www.zdnet.com/a/img/resize/3f88838e500b465de59bf97859df4b8cc8a9cd8a/2022/12/21/5246df34-aab3-4419-a17e-d162c8160806/zdgg-2022-overall.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) ZDNET editors loved these tech products and gadgets in 2022 Trying to find the absolute best tech products of 2022? From the iPhone 14 Pro Max to the Kindle Scribe to the Oura Ring Gen 3 Horizon, here are ZDNET's top gadgets of the year.  Read now](https://www.zdnet.com/article/best-tech-2022/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 How often can a gadget make you confront your own weaknesses, especially the lies you tell yourself?
 
@@ -56,10 +60,6 @@ But the M2 MacBook Air seemed to represent a departure from the old Air design. 
 
 There were two things I kept staring at: the midnight color and the new, non-tapered shape.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [The best MagSafe accessories: Top choices for the iPhone 12 and 13 Want to try the iPhone's MagSafe tech but not sure where to start? We'll show you some of our favorite accessories thus far.  Read now](https://www.zdnet.com/article/best-magsafe-accessory/)
@@ -75,16 +75,12 @@ And then there was the remarkable fact that an Apple store actually had the [mid
 Resistance was futile. Actually, it was non-existent, even if I still wondered whether this laptop could possibly be worth it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The lies I'd told myself
 
 With almost every gadget, it's one thing to play with it in a store. It's quite another to bring it into your daily life -- and I use a laptop at least 12 hours a day.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Featured reviews
 
@@ -109,6 +105,10 @@ Some (like ZDNET's [review of the M2 MacBook Air](https://www.zdnet.com/article/
 
 I've also noticed that MagSafe isn't quite what it used to be. Previously, it had flown out of its socket with minimal force. Now, you have to give it a perceptible tug before it detaches. I can't decide whether this is good or bad. I do like the sturdier feel of the cable, however. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## It's all ending in tears
 
 All right, you've had enough of me telling you that my head's been turned by the [M2 MacBook Air](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-2022-MacBook-24GB-Storage%2Fdp%2FB0BBYTHLX9%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C17b7ab53-93ed-4c02-a67e-b2176e93420b%7Cdtp&dtb=1) \-- did I mention it's a gorgeous midnight color?
@@ -120,7 +120,7 @@ So, as I write this, I'm staring into space, blaring at myself for being so impu
 You see, but weeks after I bought my M2 Air, [the price began to descend](https://www.zdnet.com/article/apple-macbook-air-laptop-2022-m2-chip-cyber-monday-deals-2022-lowest-prices-ever/). Then it descended even more. Perhaps this is something to do with [the market prospects for laptops in 2023](https://www.zdnet.com/article/theres-a-long-cold-winter-ahead-for-pc-makers-that-could-be-good-news-for-pc-buyers/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Special Feature
@@ -169,20 +169,16 @@ Unless, that is, you're selling [a perfectly functional robot dog](https://www.z
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-revolutionize-virtual-participation-with-top-10-free-recorder-software/"><u>[New] 2024 Approved Revolutionize Virtual Participation with Top 10 Free Recorder Software</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-guide-to-enable-windows-11-auto-hdr-settings/"><u>[Updated] 2024 Approved Guide to Enable Windows 11 Auto-HDR Settings</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-beginners-choices-superior-gopro-accessories/"><u>[Updated] In 2024, Beginner’s Choices Superior GoPro Accessories</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1985-pale-rider-with-eastwood-as-a-mysterious-preacher-who-is-hired-to-work-in-a-gold-mine-during-the-california-gold-rush-the-film-was-based-on-dashiell-ha330/"><u>1985 - Pale Rider, with Eastwood as a Mysterious Preacher Who Is Hired to Work in a Gold Mine During the California Gold Rush. The Film Was Based on Dashiell Hammett's Short Story, Told in the Hills</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-first-steps-in-digital-content-top-10-easy-to-make-youtube-projects/"><u>2024 Approved First Steps in Digital Content Top 10 Easy-to-Make YouTube Projects</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722967419857-boost-computer-performance-with-a-click-lexar-usb-driver-downloads-ready/"><u>Boost Computer Performance with a Click: Lexar USB Driver Downloads Ready!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-setup-guide-logitech-g510-mouse-drivers-for-windows-users-versions-7-8-and-10/"><u>Easy Setup Guide: Logitech G510 Mouse Drivers for Windows Users (Versions 7, 8 & 10)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-troubleshooting-guide-to-solving-elgato-hd60-driver-malfunctions/"><u>Effortless Troubleshooting Guide to Solving Elgato HD60 Driver Malfunctions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-newest-zebra-printer-drivers-for-windows-easy-guide-to-downloading-and-update/"><u>Get the Newest Zebra Printer Drivers for Windows - Easy Guide to Downloading and Update</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-updated-hp-scan-device-drivers-seamlessly-on-windows-computers/"><u>Install Updated HP Scan Device Drivers Seamlessly on Windows Computers</u></a></li>
-<li><a href="https://fox-links.techidaily.com/optimal-viewport-adjustment-iphones-zooming-guide-for-2024/"><u>Optimal Viewport Adjustment IPhone's Zooming Guide for 2024</u></a></li>
-<li><a href="https://techidaily.com/solved-excel-2023-spreadsheet-disappears-after-opening-by-stellar-guide/"><u>Solved Excel 2023 Spreadsheet Disappears after Opening</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/stellar-file-eraser-5-windows-standard-en-setting-scheduler-for/"><u>Stellar File Eraser 5 Windows Standard en Setting Scheduler For</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-quick-and-painless-podcast-go-live-technique/"><u>The Quick and Painless Podcast Go Live Technique</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-solve-unwanted-screen-shaking-in-windows-11-expert-tips-and-tricks/"><u>Troubleshoot and Solve Unwanted Screen Shaking in Windows 11 – Expert Tips & Tricks</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-unleash-the-power-of-obs-for-superior-skype-screen-capture/"><u>[Updated] 2024 Approved Unleash the Power of OBS for Superior Skype Screen Capture</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-urban-unleashed-best-matches-to-grand-theft-auto-v/"><u>[Updated] 2024 Approved Urban Unleashed Best Matches to Grand Theft Auto V</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-choice-collection-high-quality-virtual-reality-titles-for-cardboard-for-2024/"><u>[Updated] Choice Collection High-Quality Virtual Reality Titles for Cardboard for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/5-nvme-essentials-comprehensive-uphere-m201-ssd-heatsink-assessment/"><u>$5 NVMe Essentials: Comprehensive UpHere M201 SSD Heatsink Assessment</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-requests-removal-of-zluda-open-source-software-creator-determined-to-restore-and-revise-project/"><u>AMD Requests Removal of ZLUDA Open Source Software; Creator Determined to Restore and Revise Project</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-the-complex-workings-of-gpt4all/"><u>Decoding the Complex Workings of GPT4All</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exciting-development-intels-18a-panel-and-clearlake-cpu-series-initiate-boot-process-advancing-closer-to-advanced-lithography/"><u>Exciting Development: Intel's 18A Panel & Clearlake CPU Series Initiate Boot Process - Advancing Closer to Advanced Lithography</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-advanced-computing-with-toms-hardware-review-guide/"><u>Exploring Advanced Computing with Tom's Hardware Review Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Tecno Spark 10C? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-samsung-galaxy-a24-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Samsung Galaxy A24 Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-fixing-your-hp-monitor-issues-successfully/"><u>Troubleshooting Tips: Fixing Your HP Monitor Issues Successfully</u></a></li>
 </ul></div>
 

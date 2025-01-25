@@ -1,7 +1,7 @@
 ---
 title: "MacBook Air Showdown: Deciding Between the Latest M3 and M2 Processors | Expert Buying Guide by ZDNET"
-date: 2025-01-15T19:07:49.676Z
-updated: 2025-01-18T18:42:51.324Z
+date: 2025-01-21T01:04:01.878Z
+updated: 2025-01-24T17:53:50.359Z
 tags:
   - laptops
 categories:
@@ -28,6 +28,10 @@ Since there are many variations and generations of both the iPad and the MacBook
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Specifications
 
 | **iPad Pro (7th gen)** | **MacBook Air**                                             |                                                                                                  |
@@ -44,10 +48,6 @@ Since there are many variations and generations of both the iPad and the MacBook
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## You should buy an iPad Pro if...
 
 Kerry Wan/ZDNET
@@ -60,15 +60,15 @@ A more efficient processor means the iPad speeds through app load times, 4K vide
 
 **Also:** [**I replaced my MacBook with an M4 iPad Pro and was less bothered than I expected**](https://www.zdnet.com/article/ipad-pro-2024-review/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/ipad-pro-2024-review/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%22I%20replaced%20my%20MacBook%20with%20an%20M4%20iPad%20Pro%20and%20was%20less%20bothered%20than%20I%20expected%22%7D)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. You draw or take notes using an Apple Pencil
 
 For digital artists, drawing on a tablet with a stylus can be much easier than working on a computer or laptop. The iPad Pro supports the Apple Pencil Pro, which has a range of useful features for drawing, including a squeeze gesture for quick tool, color, and other changes, a gyroscope for precise control of pens and brush tools with a simple rotation, and custom haptic feedback that you can feel via a pulse. 
 
 As ZDNET editor-in-chief Jason Hiner noted in his [hands-on review](https://www.zdnet.com/article/ipad-pro-and-ipad-air-2024-buying-advice/), "The M4 OLED iPad Pro is a much easier sell for professional digital artists."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. You need something portable for on-the-go tasks
 
@@ -88,9 +88,17 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## You should buy a MacBook if...
 
 Jason Hiner/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. You need a reliable device for work tasks
 
@@ -101,7 +109,7 @@ While the iPad Pro is touted as a "laptop replacement," it still can't quite liv
 The MacBook Air also has more internal storage options than the iPad Pro: 8GB, 16GB, or 24GB, giving you more storage space options. However, keep in mind that higher storage specs will cost you more (between $200-$400 more).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. You use AI applications
@@ -110,10 +118,6 @@ The MacBook Air is compatible with AI features and applications, thanks to its M
 
 MacOS is getting an [Apple Intelligence](https://www.zdnet.com/article/apple-intelligence-arrives-next-month-6-ai-upgrades-iphone-users-can-expect-first/) update in September 2024, so AI will be even more seamlessly involved in the MacBook Air experience, with everything from Siri to creating unique images. Plus, the M3 chip means the MacBook Air is future-proofed for the inevitable deluge of AI applications coming.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. You like the option of using external displays
 
 Some people can work on one screen, but many prefer a two-screen display to optimize their workflow. With the MacBook Air, you can connect up to two external monitors with the lid closed, attach a mouse and keyboard, and use it like a bigger desktop setup. (The iPad Pro can only be used as a second display for a Mac or Windows PC, meaning the tablet itself acts as the external display.)
@@ -121,10 +125,6 @@ Some people can work on one screen, but many prefer a two-screen display to opti
 You can access everything on your MacBook Air on a larger display setup, allowing for improved multitasking, increased productivity, and an overall more comfortable viewing experience. 
 
 [Buy the MacBook Air $1,149 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX23GFMJ%2Fref%3Dasc%5Fdf%5FB0CX23GFMJ1727780400000%3Fcreative%3D395261%26creativeASIN%3DB0CX23GFMJ%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C63a7d4d6-107c-438e-8197-16d84e5e454d%7Cdtp&dtb=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -160,20 +160,20 @@ You can access everything on your MacBook Air on a larger display setup, allowin
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-achieving-economical-data-management-with-cloud-services/"><u>[New] Achieving Economical Data Management with Cloud Services</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/igital-domination-rise-from-thousands-to-a-million-on-youtube/"><u>[New] Digital Domination Rise From Thousands to a Million on YouTube</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/a-closer-look-at-what-you-can-achieve-with-claude-2-technology/"><u>A Closer Look at What You Can Achieve with Claude 2 Technology</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722969511306-download-logitech-brio-camera-software-compatible-with-windows-11-8-and-7/"><u>Download Logitech BRIO Camera Software Compatible with Windows 11, 8 & 7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-guide-downloading-and-installing-logitech-c270-camera-software-on-windows-1011/"><u>Easy Guide: Downloading & Installing Logitech C270 Camera Software on Windows 10/11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/essential-guide-protecting-your-privacy-with-a-vpn-in-vision-pro-and-similar-xr-devices-insights/"><u>Essential Guide: Protecting Your Privacy with a VPN in Vision Pro and Similar XR Devices Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/find-and-install-epson-xp-430-printer-drivers-on-windows-a-simple-walkthrough/"><u>Find & Install Epson XP-430 Printer Drivers on Windows: A Simple Walkthrough</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-dell-latitude-e6430-running-smoothly-updated-drivers-and-fixes-on-windows-solved/"><u>Get Your Dell Latitude E6430 Running Smoothly: Updated Drivers & Fixes on Windows [SOLVED]</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722978081495-get-your-intel-centrino-n-6205-wifi-card-drivers-here/"><u>Get Your Intel Centrino N 6205 WiFi Card Drivers Here!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-ricoh-mp-c4503-driver-here-free-and-easy-installation-instructions/"><u>Get Your Ricoh MP C4503 Driver Here: Free and Easy Installation Instructions</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-13-pro-max-with-or-without-password-drfone-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone 13 Pro Max With or Without Password | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-vivo-s17e-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Vivo S17e | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/lullabies-for-your-mind-no-stress-pcs/"><u>Lullabies for Your Mind No-Stress PCs</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-pro-level-video-editing-on-mac-adobe-premiere-pro/"><u>New In 2024, Pro-Level Video Editing on Mac Adobe Premiere Pro</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-fixes-for-your-presonus-audiobox-usb-drivers-a-comprehensive-guide/"><u>Quick Fixes for Your Presonus AudioBox USB Drivers - A Comprehensive Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-exploring-free-screencast-software-options-on-mac/"><u>[New] 2024 Approved Exploring Free Screencast Software Options on Mac</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-listening-out-loud-deciphering-the-differences-between-podcasts-and-youtube/"><u>[New] 2024 Approved Listening Out Loud Deciphering the Differences Between Podcasts & YouTube</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/hannel-upgrade-how-reaching-500-viewers-propelts-monetization/"><u>[New] Channel Upgrade How Reaching 500 Viewers Propelts Monetization</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-office-design-evolution-trends-and-practices-for-maximum-output-for-2024/"><u>[New] Office Design Evolution Trends and Practices for Maximum Output for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-beautiful-beginnings-creating-your-personalized-glam-vlog/"><u>[Updated] In 2024, Beautiful Beginnings Creating Your Personalized Glam Vlog</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-essential-free-video-editing-apps-for-iphonesipads/"><u>[Updated] In 2024, Essential Free Video Editing Apps for iPhones/iPads</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-fading-out-the-louder-end-techniques-using-lumafusion/"><u>2024 Approved Fading Out the Louder End Techniques Using Lumafusion</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-mastering-the-art-of-moving-twitter-videos-into-whatsapp/"><u>2024 Approved Mastering the Art of Moving Twitter Videos Into WhatsApp</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-and-secure-hp-laserjet-p1056-driver-version-direct-links/"><u>Latest & Secure HP LaserJet P10ˈ56 Driver Version - Direct Links</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigate-the-tech-world-confidently-with-insights-from-toms-hardware/"><u>Navigate the Tech World Confidently with Insights From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-the-latest-in-electronics-with-toms-hardware-experts/"><u>Navigating the Latest in Electronics with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-the-latest-in-technology-with-insights-from-toms-hardware/"><u>Navigating the Latest in Technology with Insights From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-the-world-of-computers-and-electronics-with-toms-guidance/"><u>Navigating the World of Computers and Electronics with Tom's Guidance</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-the-world-of-computing-with-tomn-hardware-insights/"><u>Navigating the World of Computing with Tom'n Hardware Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-the-world-of-economical-gaming-displays-best-curved-and-flat-options-with-g-sync-support/"><u>Navigating the World of Economical Gaming Displays: Best Curved and Flat Options with G-Sync Support</u></a></li>
 </ul></div>
 

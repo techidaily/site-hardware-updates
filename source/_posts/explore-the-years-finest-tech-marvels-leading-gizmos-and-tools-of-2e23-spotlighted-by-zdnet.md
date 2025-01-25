@@ -1,7 +1,7 @@
 ---
 title: "Explore the Year's Finest Tech Marvels: Leading Gizmos and Tools of 2E23 Spotlighted by ZDNet"
-date: 2025-01-13T16:21:33.129Z
-updated: 2025-01-18T17:59:15.580Z
+date: 2025-01-23T19:16:53.428Z
+updated: 2025-01-24T20:18:11.524Z
 tags:
   - laptops
 categories:
@@ -31,7 +31,7 @@ Because AI tasks that run locally on a PC are typically executed by the CPU (cen
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### User requirements remain focused on hybrid work
@@ -69,7 +69,7 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -81,7 +81,7 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -134,16 +134,21 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-convert-any-instagram-video-in-minutes-best-free-tools-windowsmac/"><u>[Updated] Convert Any Instagram Video in Minutes Best Free Tools (Windows/Mac)</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/chuckles-on-the-clouds-designing-hits-for-fb-and-instagram-meme-culture/"><u>Chuckles on the Clouds Designing Hits for FB & Instagram Meme Culture</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-fix-the-apple-iphone-11-pro-gps-not-working-issue-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix the Apple iPhone 11 Pro GPS not Working Issue | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/installation-guide-epson-ds-530-driver-on-windows-11-64-bit-version/"><u>Installation Guide: Epson DS- 530 Driver on Windows 11 (64-Bit Version)</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/premium-picks-where-to-grab-classical-ringtones/"><u>Premium Picks Where to Grab Classical Ringtones</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/resolve-elgato-hd60-control-board-problems-fast-a-simple-guide/"><u>Resolve Elgato HD60 Control Board Problems Fast: A Simple Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-fetching-and-setting-up-broadcoms-bluetooth-driver-for-windows-11-8-or-7/"><u>Step-by-Step Tutorial: Fetching & Setting up Broadcom's Bluetooth Driver for Windows 11, 8, or 7</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transform-your-gaming-rig-the-newly-released-minisforums-lightweight-laptop-with-a-stunning-156-screen-144hz-refresh-rate-and-ultra-hd-resolution-at-unbelie71/"><u>Transform Your Gaming Rig: The Newly Released Minisforum's Lightweight Laptop with a Stunning 15.6 Screen, 144Hz Refresh Rate & Ultra HD Resolution at Unbelievable Price of $189</u></a></li>
-<li><a href="https://games-able.techidaily.com/unwind-to-top-10-blissful-free-mobile-gaming-titles/"><u>Unwind to Top 10 Blissful Free Mobile Gaming Titles</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/upgrade-to-windows-11-8-or-7-get-the-perfect-match-brother-mfc-7360n-printer-drivers-installed-in-a-flash/"><u>Upgrade to Windows 11, 8, or 7? Get the Perfect Match: Brother MFC-7360N Printer Drivers Installed in a Flash</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/windows-users-get-the-new-creative-webcam-drivers-and-ensure-seamless-video-calls-and-recording/"><u>Windows Users! Get the New Creative Webcam Drivers and Ensure Seamless Video Calls & Recording</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-platform-selection-guide-determining-the-best-for-individual-creators/"><u>[New] In 2024, Platform Selection Guide Determining the Best for Individual Creators</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-essential-guide-to-affordable-online-recording-software/"><u>[Updated] In 2024, Essential Guide to Affordable Online Recording Software</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-vocal-clarity-macs-acoustic-secrets/"><u>[Updated] Vocal Clarity Mac's Acoustic Secrets</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-peeling-back-layers-of-xstudio-workshop-a-thorough-overview/"><u>2024 Approved Peeling Back Layers of XStudio Workshop - A Thorough Overview</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/acer-acoustic-enhancements-unleashed-quick-easy-driver-update-guide-available-now/"><u>Acer Acoustic Enhancements Unleashed – Quick, Easy Driver Update Guide Available Now!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dispelling-ai-crypto-analyst-fallacies/"><u>Dispelling AI Crypto Analyst Fallacies</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-steps-to-install-your-ricoh-printer-driver-in-windows-environment/"><u>Easy Steps to Install Your Ricoh Printer Driver in Windows Environment</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effective-ways-to-prevent-android-screens-from-lighting-up-with-notifications/"><u>Effective Ways to Prevent Android Screens From Lighting Up with Notifications</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/elevating-visual-quality-with-video-enhancer-v22/"><u>Elevating Visual Quality with Video Enhancer V2.2</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-thunderbolt-driver-downloads-compatible-with-windows/"><u>Free Thunderbolt Driver Downloads: Compatible with Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-gigabyte-speakers-up-and-running-free-drivers-now/"><u>Get Your Gigabyte Speakers Up and Running - Free Drivers Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-hp-officejet-3830-printer-drivers-on-windows-pcs/"><u>How to Install HP OfficeJet 3830 Printer Drivers on Windows PCs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-audio-drivers-available-optimize-logitech-speakers-with-windows-1178-support/"><u>Latest Audio Drivers Available: Optimize Logitech Speakers with Windows 11/7/8 Support</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/maximize-sharing-tiktok-video-broadcasts-on-facebook/"><u>Maximize Sharing TikTok Video Broadcasts on Facebook</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-instructions-to-download-the-latest-windows-driver-for-canon-mx490-printer/"><u>Step-by-Step Instructions to Download the Latest Windows Driver for Canon MX490 Printer</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unleash-your-creative-genius-with-iphone-x-camera/"><u>Unleash Your Creative Genius with iPhone X Camera</u></a></li>
 </ul></div>
 

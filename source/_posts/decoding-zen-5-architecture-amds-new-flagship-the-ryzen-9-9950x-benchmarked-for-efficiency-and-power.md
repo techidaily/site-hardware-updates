@@ -1,7 +1,7 @@
 ---
 title: "Decoding Zen 5 Architecture: AMD's New Flagship, The Ryzen 9 9950X Benchmarked for Efficiency and Power"
-date: 2024-08-19T05:48:49.404Z
-updated: 2024-08-20T05:48:49.404Z
+date: 2025-01-23T21:36:03.218Z
+updated: 2025-01-25T02:05:59.609Z
 tags:
   - cpu
 categories:
@@ -42,6 +42,10 @@ It looks like those who received their AMD[Ryzen 9000](https://www.tomshardware.
 
  Sadly, we will have to wait a little longer than expected to get chips like the AMD Ryzen 9 9950X in Tom’s Hardware labs. Yesterday the news broke that these Zen 5 desktop chips would start to[roll out in August](https://www.tomshardware.com/pc-components/cpus/amd-delays-its-ryzen-9000-launch-due-to-unspecified-quality-issue-new-launch-in-august-chipmaker-pulls-back-all-units-shipped-globally-for-quality-checks) due to unspecified quality issue(s).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -50,14 +54,11 @@ It looks like those who received their AMD[Ryzen 9000](https://www.tomshardware.
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -66,8 +67,26 @@ It looks like those who received their AMD[Ryzen 9000](https://www.tomshardware.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-top-mac-speech-to-text-apps-youre-not-aware-of/"><u>[New] Top Mac Speech-to-Text Apps You're Not Aware Of</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-symbolizing-sound-designing-a-captivating-podcast-image/"><u>[Updated] Symbolizing Sound Designing a Captivating Podcast Image</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/acer-monitor-drivers-find-download-and-install-correctly-today/"><u>Acer Monitor Drivers - Find, Download & Install Correctly Today</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/brother-hl-l2340dw-printer-drivers-direct-download-links-for-windows-users-looking-to-improve-their-print-experience/"><u>Brother HL-L2340DW Printer Drivers: Direct Download Links for Windows Users Looking to Improve Their Print Experience</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/comparing-vidma-and-its-screen-capture-competitors/"><u>Comparing Vidma & Its Screen Capture Competitors</u></a></li>
+<li><a href="https://win-help.techidaily.com/complete-guide-mastering-the-apowermanager-in-android-sdk-version-30/"><u>Complete Guide: Mastering the ApowerManager in Android SDK Version 3.0</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-acers-latest-wifi-drivers-for-free-fast-and-simple-setup/"><u>Download Acer's Latest WiFi Drivers for Free - Fast and Simple Setup</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/easily-change-ape-audio-to-m4a-online-at-no-cost-using-movavis-service/"><u>Easily Change APE Audio to M4A Online at No Cost - Using Movavi's Service</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-and-install-the-newest-printer-driver-for-your-epson-wf-2760-on-windows-81011/"><u>Find and Install the Newest Printer Driver for Your Epson WF-2760 on Windows 8/10/11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/getting-your-intel-optane-driver-up-to-date-made-simple-a-how-to-guide-for-windows-users/"><u>Getting Your Intel Optane Driver Up-to-Date Made Simple - A How-To Guide for Windows Users</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-vivo-y78plus-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Vivo Y78+ PC | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-up-to-date-drivers-for-your-hp-elitebook-x360-model-1030-g2/"><u>Install Up-to-Date Drivers for Your HP EliteBook X360 Model 1030 G2</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-nokia-c110-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Nokia C110 – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/techkey-bluetooth-adapter-software-downloads-supported-by-windows-10-7-and-8-systems/"><u>Techkey Bluetooth Adapter Software Downloads – Supported by Windows 10, 7, and 8 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlock-full-potential-of-your-pc-get-the-newest-asus-z170-a-driver-software-supporting-windows-10-8-and-7/"><u>Unlock Full Potential of Your PC: Get the Newest ASUS Z170-A Driver Software Supporting Windows 10, 8 & 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-windows-device-with-the-newest-pl23n-usb-to-serial-converter-drivers/"><u>Update Your Windows Device with the Newest PL23n USB to Serial Converter Drivers</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-top-5-best-free-wmv-video-editors/"><u>Updated Top 5 Best Free WMV Video Editors</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/zero-tolerance-for-background-distractions-editing-tutorial-on-photopea/"><u>Zero Tolerance for Background Distractions Editing Tutorial on Photopea</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

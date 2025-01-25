@@ -1,7 +1,7 @@
 ---
 title: "Affordable Laptop Revives Classic Tech Trend, Stirs Up Old Conversation: A Look at Yesteryear's Hype! - ZDNet"
-date: 2025-01-15T19:56:23.019Z
-updated: 2025-01-18T16:55:05.362Z
+date: 2025-01-22T23:04:34.658Z
+updated: 2025-01-24T22:53:35.846Z
 tags:
   - laptops
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/4718cfe78df90fc96fd0823cd6a47f148478c5d53
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -85,7 +85,7 @@ I have been integrating Copilot into my workflow as I learn more about how to us
 The Surface's battery life has been fantastic, too. I get over 15 hours of use from a single charge, and it has yet to fully deplete to zero by the time I call a benchmarking test. The combination of smart design with meaningful trade-offs is what gives this laptop its marathon battery life, and opens it up for a variety of use cases from a creator or productivity perspective. Basically, this is a laptop you can work remotely with for the whole day without a charger.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -95,7 +95,7 @@ I mentioned this before, but the direction that Microsoft took with this laptop 
 The Surface Laptop is a flagship mid-range device that's well-rounded enough to take on a variety of roles. Despite a few trade-offs, it's everything it should be for the price. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -132,21 +132,19 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-updates.techidaily.com/free-download-official-hp-spectre-x360-windows-driver-software/"><u>[Free Download] Official HP Spectre X360 Windows Driver Software</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-audio-addition-for-snapchat-videos-for-2024/"><u>[New] Audio Addition for Snapchat Videos for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-elite-6-software-for-audiovisual-translation-for-2024/"><u>[New] Elite 6 Software for Audio/Visual Translation for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/egal-implications-of-youtube-video-savings/"><u>[New] Legal Implications of YouTube Video Savings</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-preventing-frames-gaps-for-flawless-video-captures-for-2024/"><u>[New] Preventing Frames Gaps for Flawless Video Captures for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-exploring-your-digital-trail-a-comprehensive-guide-to-previewing-off-facebook-activities/"><u>2024 Approved Exploring Your Digital Trail - A Comprehensive Guide to Previewing Off-Facebook Activities</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-hp-840-g3-printer-drivers-step-by-step-guide/"><u>Download & Install HP 840 G3 Printer Drivers: Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-asus-pce-ac68-drivers-now/"><u>Download and Install: ASUS PCE-AC68 Drivers Now</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-guide-updating-and-downloading-the-latest-amd-video-drivers/"><u>Easy Guide: Updating and Downloading the Latest AMD Video Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-installation-automatic-amd-graphics-drivers/"><u>Easy Installation: Automatic AMD Graphics Drivers</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-lava-storm-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Lava Storm 5G Devices</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-savvy-soccer-snatching-how-to-record-and-cut-cheap/"><u>In 2024, Savvy Soccer Snatching How to Record and Cut Cheap</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-photos-after-infinix-has-been-deleted-by-fonelab-android-recover-photos/"><u>Recover your photos after Infinix has been deleted.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/resolving-drivers-problems-fixing-the-ralink-rt3290-on-windows-10-8-and-7/"><u>Resolving Drivers Problems: Fixing the Ralink RT3290 on Windows 10, 8 & 7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-your-targus-displaylink-graphics-adapter-drivers-on-windows-windows-1087/"><u>Update Your Targus DisplayLink Graphics Adapter Drivers on Windows (Windows 10/8/7)</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-live-commerce-next-chapter-can-ai-unlock-its-true-potential-in-2024/"><u>Updated Live Commerce Next Chapter Can AI Unlock Its True Potential, In 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-simplified-methods-for-saving-screen-share-talks-for-2024/"><u>[New] Simplified Methods for Saving Screen-Share Talks for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-unite-video-files-into-playlist-assembly/"><u>2024 Approved Unite Video Files Into Playlist Assembly</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-ways-to-project-your-online-meetings-on-the-big-screen-using-zoom-and-tv-together/"><u>Easy Ways to Project Your Online Meetings on the Big Screen: Using Zoom & TV Together</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-infinix-note-30-pro-phone-by-drfone-android/"><u>How to Unlock a Network Locked Infinix Note 30 Pro Phone?</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-infinix-hot-40-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/origin-games-solving-issues-in-your-game-configuration/"><u>Origin Games: Solving Issues in Your Game Configuration</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/sale-alert-lg-ultragear-34-qhd-monitor-w-g-sync-ultimate-just-549-on-amazon/"><u>Sale Alert: LG Ultragear 34 QHD Monitor W/ G-Sync Ultimate - Just $549 on Amazon</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-comprehensive-guide-to-modern-computer-hardware-by-toms-domain/"><u>The Comprehensive Guide to Modern Computer Hardware by Tom's Domain</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-definitive-guide-to-the-asrock-pg27qft2a-a-high-performance-180-hz-gaming-display-reviewed/"><u>The Definitive Guide to the ASRock PG27QFT2A: A High-Performance 180 Hz Gaming Display Reviewed</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-7-cost-free-internet-fax-providers/"><u>Top 7 Cost-Free Internet Fax Providers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-portable-displays-of-2024-ideal-choices-for-gamers-and-professional-work/"><u>Top Rated Portable Displays of 2024: Ideal Choices for Gamers & Professional Work</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-ultra-hd-gaming-displays-for-computers-featuring-144hz-refresh-rates-and-curve-technology/"><u>Top-Rated Ultra HD Gaming Displays for Computers - Featuring 144Hz Refresh Rates & Curve Technology</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/turn-your-old-kindle-into-an-e-ink-display-instructions-for-successful-hacking/"><u>Turn Your Old Kindle Into an E Ink Display: Instructions for Successful Hacking</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/whos-watching-your-guide-to-instagram-eye-rolls-count-for-2024/"><u>Who's Watching? Your Guide to Instagram Eye-Rolls Count for 2024</u></a></li>
 </ul></div>
 

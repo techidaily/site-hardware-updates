@@ -1,7 +1,7 @@
 ---
 title: High Current Levels Increase the Likelihood of Arc Blow, with Voltage Also Playing a Significant Role
-date: 2024-08-19T05:47:54.633Z
-updated: 2024-08-20T05:47:54.633Z
+date: 2025-01-19T00:54:42.242Z
+updated: 2025-01-24T23:56:31.098Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/44d44af4303c7de8c2d81023af1bd7a1796056772
 
  This surround sound RGB gaming headset Arctis 5 provides an immersive gaming experience, but sometimes it can bump into issues. And when they do, you can follow[**this troubleshooting guide**](https://tools.techidaily.com/drivereasy/download/) to fix your mic issues, or you can update the Arctis 5 drivers directly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to update Actis 5 drivers
 
  Actually, you don’t have to install the specific driver to make SteelSeries Arctis 5 work or be recognized successfully. It comes with a plug-and-play feature.
@@ -33,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/44d44af4303c7de8c2d81023af1bd7a1796056772
 
  This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 1: Manually update the sound driver
 
 1. On your keyboard, press the**Windows logo** key and**R** at the same time to open the Run box.  
@@ -46,8 +54,9 @@ thumbnail: https://thmb.techidaily.com/44d44af4303c7de8c2d81023af1bd7a1796056772
  If Windows Device Manager fails to find a new driver for you, you need to source the driver directly from the device manufacturer or use a tool like ours, called **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  , to do it automatically.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 2: Automatically update all your device drivers
 
  One of the most common causes of sound issues is an outdated or faulty sound driver. Your SteelSeries Artis 5 is no exception.
@@ -65,30 +74,26 @@ thumbnail: https://thmb.techidaily.com/44d44af4303c7de8c2d81023af1bd7a1796056772
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Still have audio issues?
 
  In rare cases, updating your drivers won’t get your problem solved. If unfortunately, updating the SteelSeries Actis 5 drivers didn’t help, you can try the following troubleshooting steps:
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Set your Arctis 5 as the default
 
  Make sure you have set your SteelSeries Arctis 5 as the default output/input device. Also, select**Set as Default Communications** **Device** .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Make sure you’ve set it up correctly
 
  Follow[**SteelSeries Actis 5 setup guide**](https://support.steelseries.com/hc/en-us/articles/115000022031-Setup-Arctis-5) to make sure you’ve done it right. Using the rear ports directly on your motherboard instead of any HUB ports or external hubs will ensure your drivers load correctly, and that the device receives adequate power.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ### Have the latest version of SteelSeries Engine installed
 
  In-app updates are supported so you will be prompted to update directly through the Engine. But if this doesn’t do the trick, you can uninstall the SteelSeries Engine, and download[**the latest SteelSeries Engine**](https://steelseries.com/engine) .
@@ -99,9 +104,6 @@ thumbnail: https://thmb.techidaily.com/44d44af4303c7de8c2d81023af1bd7a1796056772
 2. Under the**Playback** tab, right-click your headphone, and select**Properties** .
 3. Switch to the**Enhancements** tab, check the**Disable all enhancements** option, and click**OK** to apply.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Select different formats
 
  If you’re still unable to get anything, try selecting a different input/output format in the**Properties** \>**Advanced** window (use the headset steps above).
@@ -121,8 +123,6 @@ thumbnail: https://thmb.techidaily.com/44d44af4303c7de8c2d81023af1bd7a1796056772
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,4 +130,18 @@ thumbnail: https://thmb.techidaily.com/44d44af4303c7de8c2d81023af1bd7a1796056772
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-from-watch-list-to-download-youtube-playlist-in-minutes/"><u>[New] 2024 Approved From Watch List to Download YouTube Playlist in Minutes</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-mastering-fast-play-instagram-videos-at-home-desktop/"><u>[New] Mastering Fast-Play Instagram Videos at Home (Desktop)</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-binge-worthy-20-catchy-tiktok-songs-by-artists/"><u>[Updated] Binge-Worthy 20 Catchy TikTok Songs by Artists</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-stay-up-to-date-with-facebooks-latest-watched-content/"><u>[Updated] In 2024, Stay Up-to-Date with Facebook's Latest Watched Content</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/brother-dcp-l2540dw-step-by-step-installation-for-windows-users/"><u>Brother DCP-L254^0DW: Step by Step Installation for Windows Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-latest-hp-deskjet-ink-advantage-3050a-driver-software-for-windows-no-cost/"><u>Download the Latest HP Deskjet Ink Advantage 3050A Driver Software for Windows - No Cost!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722971808288-effortless-installation-get-your-samsung-m207n-fw-drivers-downloaded-today/"><u>Effortless Installation: Get Your Samsung M207n FW Drivers Downloaded Today!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/fuhre-deinen-dvd-player-in-einer-minute-auf-den-neuesten-stand-komplette-anleitungsserie/"><u>Führe Deinen DVD-Player in Einer Minute Auf Den Neuesten Stand - Komplette Anleitungsserie</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-hp-m452dn-printer-drivers-secure-and-reliable-installation-guide/"><u>Get the Latest HP M452dn Printer Drivers - Secure and Reliable Installation Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-hands-on-the-newest-brother-l2740dw-driver-software-for-windows-computers/"><u>Get Your Hands on the Newest Brother L2740DW Driver Software for Windows Computers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-tutorial-for-adding-videos-to-your-ipad-with-the-powerful-movavi-converter-software/"><u>The Ultimate Tutorial for Adding Videos to Your iPad with the Powerful Movavi Converter Software</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Analysis of the XPG Cybercore 1000 Platinum Elite Power Supply Unit
-date: 2024-08-19T04:11:44.042Z
-updated: 2024-08-20T04:11:44.042Z
+date: 2025-01-17T16:09:21.619Z
+updated: 2025-01-24T21:37:52.815Z
 tags:
   - power-supply
 categories:
@@ -18,6 +18,10 @@ Want to build a PC on a budget but need some outstanding performance for the pri
  You can also pick up a power supply for your new build or upgrade your existing PSU with the[Super Flower Leadex V Platinum Pro 850W PSU for $129](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-3375912336607948806%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fsuper-flower-leadex-v-platinum-pro-sf-850f14tp-850w%252Fp%252F1HU-024C-00043) . Use promo code**MKTAMNPMAR27** at checkout for avail of the $30 discount.
 
 See more Real Deals below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## TL;DR — Today’s Best Deals
 
@@ -69,28 +73,18 @@ Category
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/chevron-left.svg "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Back to Hubs & Switches
 
 Brand
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
  Intel
 
  Netgear
@@ -102,8 +96,9 @@ Colour
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Black
 
  Copper
@@ -111,6 +106,10 @@ Colour
 Condition
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  New
 
@@ -121,8 +120,9 @@ Price
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Any Price
 
  Showing 10 of 52 deals
@@ -131,9 +131,6 @@ Any Price
 
 SORT BY Price (low to high)  Price (high to low) Product Name (A to Z)  Product Name (Z to A)  Retailer name (A to Z)  Retailer name (Z to A) ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Netgear GS305E](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB07PJ7XZ7X%2Fref%3Dasc%5Fdf%5FB07PJ7XZ7X1723888800000%3Ftag%3Dhawk-future-20%26creative%3D395261%26creativeASIN%3DB07PJ7XZ7X%26linkCode%3Dasn%26ascsubtag%3Dtomshardware-us-1310836781021125979-20)
 
 1
@@ -292,8 +289,6 @@ Our Review
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -301,4 +296,19 @@ Our Review
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://hardware-updates.techidaily.com/download-samsung-printer-driver-for-windows/"><u>[Download] Samsung Printer Driver For Windows</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-enlarge-social-media-content-with-televisions/"><u>[Updated] 2024 Approved Enlarge Social Media Content with Televisions</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-speed-in-snapshots-auditory-recorded-for-2024/"><u>[Updated] Speed in Snapshots Auditory Recorded for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-beginners-ultimate-list-of-must-have-video-tech/"><u>2024 Approved Beginner's Ultimate List of Must-Have Video Tech</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-mastering-screen-capture-io-screener-guide/"><u>2024 Approved Mastering Screen Capture IO Screener Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhance-your-iphone-snapshots-with-proven-solutions-for-auto-focus-issues/"><u>Enhance Your iPhone Snapshots with Proven Solutions for Auto-Focus Issues</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/hidden-melodic-markers-ios-and-android-recording-app-overview-for-2024/"><u>Hidden Melodic Markers IOS & Android Recording App Overview for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/overcoming-connectivity-problems-with-your-samsung-universal-printer-in-windows-os/"><u>Overcoming Connectivity Problems with Your Samsung Universal Printer in Windows OS</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-tecno-spark-20-proplus-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Tecno Spark 20 Pro+ Black and White | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/reigning-in-your-digital-domain-with-a-precision-plan-for-smm-excellence-for-2024/"><u>Reigning in Your Digital Domain with a Precision Plan for SMM Excellence for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/solve-your-corsair-h115i-drivers-woes-on-any-version-of-windows-a-comprehensive-guide/"><u>Solve Your Corsair H115i Drivers Woes on Any Version of Windows: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-installing-your-insignia-thunderbolt-cable-drivers/"><u>Step-by-Step Guide: Installing Your Insignia Thunderbolt Cable Drivers</u></a></li>
+</ul></div>
 

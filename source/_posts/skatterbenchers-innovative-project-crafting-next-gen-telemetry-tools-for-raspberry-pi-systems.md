@@ -1,7 +1,7 @@
 ---
 title: "SkatterBencher's Innovative Project: Crafting Next-Gen Telemetry Tools for Raspberry Pi Systems"
-date: 2024-08-19T04:10:25.511Z
-updated: 2024-08-20T04:10:25.511Z
+date: 2025-01-22T22:04:08.725Z
+updated: 2025-01-25T01:26:29.080Z
 tags:
   - raspberry-pi
 categories:
@@ -28,6 +28,10 @@ A new[open source tool](https://www.remote.it/solutions/raspberry-pi-ble-wifi-on
 
  The Raspberry Pi is a popular choice for headless Linux devices. Used by makers, developers and engineers because it is relatively cheap, has great support and an ever expanding ecosystem of supporting products. The only "problem" with headless setups is that for those of us not blessed with Linux skills, it can seem a daunting task.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -46,8 +50,6 @@ A new[open source tool](https://www.remote.it/solutions/raspberry-pi-ble-wifi-on
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -55,8 +57,19 @@ A new[open source tool](https://www.remote.it/solutions/raspberry-pi-ble-wifi-on
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-focus-on-yourself-insta-stylezoom-techniques-explained-for-2024/"><u>[New] Focus on Yourself Insta Style—Zoom Techniques Explained for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-the-quick-step-to-cutting-edge-gif-creation-from-vimeo/"><u>[New] The Quick-Step to Cutting Edge GIF Creation From Vimeo</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-essential-skills-for-capturing-soundless-videography/"><u>[Updated] 2024 Approved Essential Skills for Capturing Soundless Videography</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-best-8-youtube-editing-software-for-linux-for-2024/"><u>[Updated] Best 8 YouTube Editing Software for Linux for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-make-your-instagram-content-explosive-a-guide-to-virality/"><u>[Updated] Make Your Instagram Content Explosive A Guide to Virality</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-setup-tutorial-obtaining-and-installing-drivers-for-xbox-360-controllers/"><u>Easy Setup Tutorial: Obtaining and Installing Drivers for Xbox 360 Controllers</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-oneplus-open-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your OnePlus Open Location Settings | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-installation-of-logitech-g602-drivers-on-your-windows-based-computer/"><u>Free Installation of Logitech G602 Drivers on Your Windows-Based Computer</u></a></li>
+<li><a href="https://win-data.techidaily.com/how-to-clone-and-transfer-data-from-ssd-to-hdd-a-step-by-step-guide/"><u>How to Clone and Transfer Data From SSD to HDD - A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722957041461-latest-geforce-gtx-1660-super-driver-software-get-your-downloads-here/"><u>Latest GeForce GTX 1660 Super Driver Software - Get Your Downloads Here</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-how-to-refresh-arduino-usb-drivers-in-windows-1011/"><u>Step-by-Step Tutorial: How to Refresh Arduino USB Drivers in Windows 10/11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/time-management-mastery-integrating-chatgpt-into-your-routine/"><u>Time Management Mastery: Integrating ChatGPT Into Your Routine</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

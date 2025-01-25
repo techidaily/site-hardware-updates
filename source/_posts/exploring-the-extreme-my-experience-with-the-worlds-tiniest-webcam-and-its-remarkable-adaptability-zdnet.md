@@ -1,7 +1,7 @@
 ---
 title: "Exploring The Extreme: My Experience with the World’s Tiniest Webcam and Its Remarkable Adaptability | ZDNet"
-date: 2024-12-15T22:04:20.583Z
-updated: 2024-12-21T20:38:33.527Z
+date: 2025-01-17T19:40:50.030Z
+updated: 2025-01-24T20:07:58.810Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -83,7 +83,7 @@ I also need to mention a couple of things that may be dealbreakers for you. Firs
 Also, be aware the IdeaPad Pro 5i comes with a bunch of bloatware. The laptop's 1TB of storage is more like 880GB, if you take into account all the apps Lenovo preinstalled.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -93,7 +93,7 @@ Also, be aware the IdeaPad Pro 5i comes with a bunch of bloatware. The laptop's 
 If you're looking for a less expensive 16-inch laptop, [Lenovo's Yoga 7i](https://www.zdnet.com/article/this-699-lenovo-laptop-made-me-a-believer-in-the-2-in-1-form-factor-and-its-on-sale-for-memorial-day/) is several hundred dollars cheaper, although you're trading in the impressive OLED screen for one that's much more low-key. If you want an OLED laptop in a slightly less expensive package, check out the [Acer Swift X 14](https://www.zdnet.com/article/i-tested-acers-swift-x-laptop-and-its-performance-surprised-me-in-3-ways/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test laptops
@@ -140,22 +140,21 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-understanding-and-controlling-safaris-pip-feature-for-2024/"><u>[New] Understanding and Controlling Safari's PIP Feature for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-mastering-animations-and-crafting-custom-visual-impact/"><u>[Updated] Mastering Animations & Crafting Custom Visual Impact</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-intel-rst-drivers-supported-windows-os-guide-8-to-11-updates-included/"><u>Download and Install Intel RST Drivers: Supported Windows OS Guide - 8 to 11 Updates Included</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/enhance-gaming-performance-with-nvidias-latest-geforce-gtx-1650-super-driver-for-windows-users/"><u>Enhance Gaming Performance with NVIDIA's Latest GeForce GTX 1650 Super Driver for Windows Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-hp-photosmart-absolutely-free-driver-software-now/"><u>Get Your HP Photosmart Absolutely Free Driver Software Now</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-install-epson-xp-245-driver-on-windows-7810-step-by-step-download-tutorials/"><u>How to Install Epson Xp-245 Driver on Windows 7/8/10: Step by Step Download Tutorials</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-securely-download-and-install-updated-razer-control-software-for-older-windows-operating-systems-7-xp-vista/"><u>How to Securely Download and Install Updated Razer Control Software for Older Windows Operating Systems (7, XP, Vista)</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Poco X5 Pro | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-realme-12-pro-5g-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Realme 12 Pro 5G Device</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-the-latest-asus-pce-ac6n-ac68-network-interface-card-drivers-without-hesitation/"><u>Install the Latest ASUS PCE-AC6n (AC68) Network Interface Card Drivers without Hesitation</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-updates-and-downloads-for-hp-deskjet-3700-drivers-improve-your-printing-experience/"><u>Latest Updates and Downloads for HP DeskJet 3700 Drivers - Improve Your Printing Experience</u></a></li>
-<li><a href="https://win-answers.techidaily.com/lost-ark-optimization-fixing-the-sudden-dip-in-frames-per-second-fps/"><u>Lost Ark Optimization: Fixing the Sudden Dip in Frames Per Second (FPS)</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/new-multiple-ways-how-to-remove-icloud-activation-lock-on-your-apple-iphone-13-pro-max-by-drfone-ios/"><u>New Multiple Ways How To Remove iCloud Activation Lock On your Apple iPhone 13 Pro Max</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolving-launch-failures-with-your-pacfific-drive-expert-advice-and-fixes/"><u>Resolving Launch Failures with Your Pacfific Drive: Expert Advice & Fixes</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-your-hp-officejet-4655-get-new-drivers-here/"><u>Update Your HP Officejet 4655 - Get New Drivers Here!</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/vollstandige-produktspezifikationen-von-winxvideo-ai-detaillierte-ubersicht-und-funktionen/"><u>Vollständige Produktspezifikationen Von WinXVideo AI - Detaillierte Übersicht Und Funktionen</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/windows-serverhyper-v/"><u>Windows Serverの安全なバックアップ対策:Hyper-Vとの互換性あり</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-innovative-imagery-the-art-of-digital-bending-for-2024/"><u>[New] Innovative Imagery The Art of Digital Bending for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-maximizing-youtube-experience-through-a-subscription/"><u>[Updated] In 2024, Maximizing YouTube Experience Through a Subscription</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-retailing-revelations-and-methods-for-2024/"><u>[Updated] Retailing Revelations and Methods for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/accelerate-driver-updates-effortless-and-rapid-solutions-for-dell-xps-7590-g7/"><u>Accelerate Driver Updates: Effortless & Rapid Solutions for Dell XPS 7590 G7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-latest-nvidia-geforce-rtx-2060-drivers-compatible-with-windows-11-10-8-and-e/"><u>Download Latest NVIDIA GeForce RTX 2060 Drivers: Compatible with Windows 11, 10, 8 & E</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-and-secure-corsair-keyboard-installation-software-for-windows/"><u>Free and Secure Corsair Keyboard Installation Software for Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-download-compatible-windows-10-7-and-8-drivers-for-zexmte-bluetooth-adapter/"><u>Free Download: Compatible Windows 10, 7 & 8 Drivers for ZEXMTE Bluetooth Adapter</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-hands-on-essential-corsair-mouse-software-here/"><u>Get Your Hands on Essential Corsair Mouse Software Here!</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-11-without-passcode-drfone-by-drfone-ios/"><u>How to Unlock iPhone 11 Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-the-ultimate-guide-to-book-trailers-you-wont-miss/"><u>In 2024, The Ultimate Guide to Book Trailers You Won't Miss</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-samsung-galaxy-s23-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Samsung Galaxy S23 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-the-latest-epson-v700-driver-for-your-windows-system-windows-71081-guide/"><u>Install the Latest Epson V700 Driver for Your Windows System: Windows 7/10/8.1 Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-epson-v700-driver-version-compatible-with-windows-7-81-and-1-download-guide/"><u>Latest Epson V700 Driver Version: Compatible with Windows 7, 8.1, and 1) Download Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/shooting-hdr-on-iphone-a-comprehensive-guide/"><u>Shooting HDR on iPhone A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-mystery-of-missing-rpcrt4dll-a-step-by-step-guide/"><u>Solving the Mystery of Missing rpcrt4.dll: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-installing-steelseries-keyboard-software-start-here/"><u>Ultimate Guide to Installing SteelSeries Keyboard Software – Start Here!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How Lenovo's Innovative Dual-Screen Laptop Transformed My Productivity - A Deep Dive by ZDNet
-date: 2024-12-17T11:22:56.016Z
-updated: 2024-12-21T23:31:35.531Z
+date: 2025-01-23T03:20:11.468Z
+updated: 2025-01-24T16:32:12.294Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kerry Wan/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -45,7 +45,7 @@ A laptop with two screens is perhaps one of the tamest designs it has come up wi
 It's given me a chance to revisit the idea of having two screens on my laptop, and once again, it's tempting me to switch away from my boring-in-comparison MacBook Pro.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications (as reviewed)
@@ -61,6 +61,10 @@ It's given me a chance to revisit the idea of having two screens on my laptop, a
 | Price                 | Starting at [$1,980](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-12-Core-i7-1360P-Fingerprint-Thunderbolt4%2Fdp%2FB0CR9S1KFL%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C662ab0d3-0fc7-4094-a31e-3d04102aa8a9%7Cdtp&dtb=1) |
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Living with a dual-screen laptop
 
@@ -81,10 +85,6 @@ Max Buondonno/ZDNET
 There's a lot that the dual-screen design of the Yoga Book 9i enables, and the versatility of it all is simply unmatched by more [conventional laptops](https://www.zdnet.com/article/best-laptop/). It's like a blank canvas made of OLED screens -- you can literally do whatever you want with them, orient them the way you want, and it can all be packed up and taken on the go.
 
 Switching back to my single-screen MacBook Pro was, to put it lightly, tough. I missed having all the extra screen real estate and the ability to have two full documents open side-by-side while writing. I felt limited in a way that I wasn't expecting, which says a lot about how effective Lenovo's dual-screen design is.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How does it perform?
 
@@ -107,7 +107,7 @@ To power the Yoga Book 9i, Lenovo includes an 80W battery that's rated for about
 Charging the laptop is as straightforward as it comes. There's a Rapid Charge adapter in the box that gives you about two hours of runtime with just 15 minutes of charging. I found this mostly to be true, although you have to shut the lid if you want charging speeds to really pick up.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Evaluating Lenovo's dual-screen software
@@ -130,10 +130,6 @@ It's weird; I've had apps like Chrome and Spotify show up on the lower display w
 
 I'll give Lenovo credit, the new Yoga Book 9i feels smoother than the old one did. I don't notice as much scruff or weird glitches with the software, and the bundled Bluetooth keyboard doesn't produce nearly as many double-key entries as before. Still, it's not a perfect experience, which is something to keep in mind if you're going to spend $2,000 on a laptop.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## One thing to keep in mind
 
 Having a laptop with two screens means you'll have to lug around a separate keyboard, mouse, and kickstand, all three of which (plus a stylus) come in the box. It's a lot of separate things you have to remember to bring, and I'm going to be honest with you, it can be inconvenient.
@@ -143,6 +139,10 @@ Max Buondonno/ZDNET
 When I'm working on my MacBook or -- quite frankly -- any other laptop in my arsenal, all I have to do is close the lid and load it into my backpack when I'm finished. With the Yoga Book 9i, I have to close the laptop > collapse the kickstand > place the keyboard inside the collapsed kickstand > stack the keyboard/kickstand combo, mouse, and stylus on top of the laptop > shove it all in my bag and pray I can find it later when it's time to go back to work.
 
 Of course, you'll eventually get used to it, but it'll never be as convenient as shutting your laptop lid and moving on with your day.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ZDNET's buying advice
 
@@ -182,24 +182,19 @@ If none of that matters to you and you're cool with living with the Yoga Book 9i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-fabricate-fascinating-face-painting-gifs-on-giphy/"><u>[New] 2024 Approved Fabricate Fascinating Face-Painting Gifs on Giphy</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-homemade-video-making-top-5-efficient-methods-you-must-know/"><u>[Updated] Homemade Video Making Top 5 Efficient Methods You Must Know</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-enlarge-images-pixel-perfect-preservation/"><u>[Updated] In 2024, Enlarge Images Pixel-Perfect Preservation</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-master-class-selecting-the-top-10-4k-shoulder-rigs/"><u>2024 Approved Master Class Selecting the Top 10 4K Shoulder Rigs</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-masterclass-in-virality-cutting-edge-strategies-for-instagram-films/"><u>2024 Approved Masterclass in Virality Cutting-Edge Strategies for Instagram Films</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-update-microsoft-drivers-made-easy-for-windows-1087-users/"><u>Download & Update Microsoft Drivers Made Easy - For Windows 10/8/7 Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-updated-sas-drivers-for-windows-1187-step-by-step-guide/"><u>Download Updated SAS Drivers for Windows 11/8/7: Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-installation-of-epson-wf-2630-printer-drivers-for-all-windows-versions-7-81-and-10/"><u>Easy Installation of Epson WF 2630 Printer Drivers for All Windows Versions (7, 8.1 & 10)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-setup-downloading-and-installing-logitech-steering-wheel-drivers-on-windows-7-8-or-10/"><u>Effortless Setup: Downloading and Installing Logitech Steering Wheel Drivers on Windows 7, 8 or 10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722964841658-effortlessly-enhance-your-wifi-on-windows-7-download-and-update-drivers-today/"><u>Effortlessly Enhance Your WiFi on Windows 7 – Download & Update Drivers Today!</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-typing-flow-hotkeys-for-fast-copy-paste-in-win/"><u>Elevate Typing Flow: Hotkeys for Fast Copy-Paste in WIN</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-hand-on-roccat-mouse-driving-program/"><u>Get Your Hand On: Roccat Mouse Driving Program</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-vivo-v27-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Vivo V27 IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-razer-mouse-drivers-on-windows-easily-and-quickly/"><u>Install Razer Mouse Drivers on Windows — Easily & Quickly</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-update-for-nvidia-quadro-rtx-eight-thousand-gpus-win11win10win7-driver-download/"><u>Latest Update for Nvidia Quadro RTX Eight Thousand GPUs - Win11/Win10/Win7 Driver Download</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ready-to-pair-get-csr-bluetooth-connectivity-with-these-drivers/"><u>Ready to Pair? Get CSR Bluetooth Connectivity with These Drivers</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/review-of-the-antolin-antop-at-127-stylish-and-high-performance-antenna-delivers-flawless-tv-signal-without-charge/"><u>Review of the Antolin Antop AT-127: Stylish & High-Performance Antenna Delivers Flawless TV Signal Without Charge</u></a></li>
-<li><a href="https://win11.techidaily.com/the-journey-from-bat-to-executable-on-windows-os/"><u>The Journey: From .bat to Executable on Windows OS</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-realme-narzo-60x-5g-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Realme Narzo 60x 5G Device</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-elevate-your-engagement-with-real-time-tweets-for-2024/"><u>[New] Elevate Your Engagement with Real-Time Tweets for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-mobile-innovators-guide-streamlined-channel-launch-for-entrepreneurs-and-content-makers/"><u>[Updated] In 2024, Mobile Innovators' Guide Streamlined Channel Launch for Entrepreneurs & Content Makers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-master-multi-screen-video-streaming-with-microsoft-edges-pip/"><u>[Updated] Master Multi-Screen Video Streaming with Microsoft Edge's PIP</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-ultimate-list-the-top-10-thrilling-action-packed-games/"><u>2024 Approved Ultimate List The Top 10 Thrilling Action-Packed Games</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-brother-mfc-l2740dw-printer-drivers-for-pc-free-and-easy-setup/"><u>Download Brother MFC-L2740DW Printer Drivers for PC - Free & Easy Setup</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722967281568-get-the-newest-mpow-bluetooth-software-for-windows-update-now/"><u>Get the Newest MPOW Bluetooth Software for Windows - Update Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-enable-usb-c-connectivity-in-windows-nx-professional-driver-packs-available-here/"><u>How to Enable USB-C Connectivity in Windows nX: Professional Driver Packs Available Here</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-swiftly-update-your-intel-nuc-system-with-the-newest-drivers/"><u>How to Swiftly Update Your Intel NUC System with the Newest Drivers</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/il-superior-soluzione-di-backup-locale-per-windows-10-una-sostituzione-ideale-alla-dell-datasafe/"><u>Il Superior Soluzione Di Backup Locale per Windows 10: Una Sostituzione Ideale Alla Dell DataSafe</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-now-csr-bluetooth-interface-drivers-available-for-download/"><u>Install Now: CSR Bluetooth Interface Drivers Available for Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/instant-setup-get-your-acer-bluetooth-device-drivers-here/"><u>Instant Setup: Get Your Acer Bluetooth Device Drivers Here</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/learn-to-edit-like-a-pro-with-this-ultimate-final-cut-pro-instructional-series/"><u>Learn to Edit Like a Pro with This Ultimate Final Cut Pro Instructional Series</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-platforms-for-asmr-experience/"><u>Prime Platforms for ASMR Experience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-real-time-webcast-applications-for-2024/"><u>Top Real-Time Webcast Applications for 2024</u></a></li>
 </ul></div>
 

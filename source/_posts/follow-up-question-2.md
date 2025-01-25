@@ -1,7 +1,7 @@
 ---
 title: "Follow-Up Question 2:"
-date: 2024-11-29T16:29:00.043Z
-updated: 2024-12-07T01:39:09.214Z
+date: 2025-01-18T16:45:40.680Z
+updated: 2025-01-24T20:23:49.073Z
 tags:
   - laptops
 categories:
@@ -26,10 +26,6 @@ Our core testing philosophy is simple: while it's imperative to gather data, num
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How we test laptops in 2024
 
 Kyle Kucharski/ZDNET
@@ -39,7 +35,7 @@ You only get one first impression, and when we get a new laptop to review, we al
 We give all the devices we test equal footing by starting with the most recent updates to the device's operating system, as well as all relevant drivers for the GPU, BIOS, and hardware. It can be easy to skip over these updates, but you don't need me to tell you that not updating your computer can result in some bizarre behavior. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The core components of a laptop
@@ -55,7 +51,7 @@ These are the most important core system metrics we look at during the testing p
 * **Physical form factor:** Finally, the laptop's overall appearance and physical form factor encompasses its weight, thickness, how the keyboard and trackpad feel, and whether or not it has a display that can be folded back to form a tablet or touchscreen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What makes a laptop ZDNET Recommended?
@@ -68,7 +64,7 @@ Obviously, more factors go into a laptop's final review other than being simply 
 * **Excellence:** A highly recommended laptop should punch above its weight in multiple areas. We want to highlight laptops that don't just meet the bar but exceed it, either in design, battery life, display, performance, or value.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Benchmarking and system data
@@ -93,6 +89,10 @@ Finally, depending on any niche use cases, we can test the laptop's performance 
 
 In these scenarios, we pay close attention to the performance of the laptop's GPU, how the display handles rendering tasks, and performance while multitasking while running select performance testing software. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How we test laptop batteries
 
 Kyle Kucharski/ZDNET
@@ -108,7 +108,7 @@ We then set the display's brightness and audio at 50%, turn off any RGB or keybo
 With this in mind, putting every laptop we review to the test is more important than ever, to get to the bottom of manufacturers' sometimes "ambitious" claims. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The human element
@@ -165,18 +165,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-visualize-success-with-these-three-insta-video-caption-approaches-for-2024/"><u>[New] Visualize Success with These Three Insta Video Caption Approaches for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-capture-and-save-with-ease-top-5-pc-snipers-reviewed/"><u>2024 Approved Capture & Save with Ease Top 5 PC Snipers Reviewed</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-how-youtube-determines-your-true-view-count/"><u>2024 Approved How YouTube Determines Your True View Count</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-tecno-pova-5-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Tecno Pova 5 Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/charting-your-course-in-the-realm-of-youtube-shorts-for-2024/"><u>Charting Your Course in the Realm of YouTube Shorts for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-guide-to-the-philips-hf3520-clock-radio-value-meets-performance/"><u>Comprehensive Guide to the Philips HF3520 Clock Radio: Value Meets Performance</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722955816327-get-the-newest-amd-graphics-driver-for-win-11107-free-downloads-now/"><u>Get the Newest AMD Graphics Driver for Win 11/10/7 - Free Downloads Now</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-microsoft-wireless-mouse-5000-up-and-running-fast-download-of-drivers/"><u>Get Your Microsoft Wireless Mouse 5000 Up and Running - Fast Download of Drivers!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/huion-h610-pro-drawing-tablet-driver-download/"><u>Huion H610 Pro Drawing Tablet Driver Download</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-web-based-movie-trailer-creation-platforms/"><u>New Web-Based Movie Trailer Creation Platforms</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-guide-to-downloading-samsung-m207fw-drivers-hassle-free-process/"><u>Quick Guide to Downloading Samsung M207#FW Drivers: Hassle-Free Process</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-source-for-pc-enthusiasts-insights-from-toms-hardware/"><u>The Ultimate Source for PC Enthusiasts: Insights From Tom's Hardware</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-restore-windows-photo-viewer-in-windows-10/"><u>[New] How to Restore Windows Photo Viewer in Windows 10</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-leverage-linked-profiles-to-amplify-fb-stories-for-2024/"><u>[New] Leverage Linked Profiles to Amplify FB Stories for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-seamless-transition-of-youtube-videos-into-instagram-stories/"><u>[Updated] In 2024, Seamless Transition of YouTube Videos Into Instagram Stories</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-unveiling-sns-hdrs-strengths-and-comparative-software-for-2024/"><u>[Updated] Unveiling SNS HDR's Strengths & Comparative Software for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/a-glimpse-into-the-next-wave-of-processing-power-parallels-in-design-as-huawei-looks-to-apple-m-series-and-intel-for-kirin-advancements/"><u>A Glimpse Into the Next Wave of Processing Power: Parallels in Design as Huawei Looks to Apple M-Series & Intel for Kirin Advancements</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/access-the-newest-epson-xp-440-printer-driver-version-instantly-with-our-guide/"><u>Access the Newest Epson XP-440 Printer Driver Version Instantly with Our Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-sades-headset-software-fully-secure-version-compatible-with-windows/"><u>Download Sades Headset Software - Fully Secure Version Compatible with Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-for-fixing-crashes-when-streaming-on-discord/"><u>Expert Tips for Fixing Crashes When Streaming on Discord</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-and-install-the-perfect-usb-c-windows-11-driver-free-download/"><u>Find & Install the Perfect USB-C Windows 11 Driver - Free Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-latest-msi-windows-sound-and-audio-driver-download-fast-and-easy/"><u>Get Your Latest MSI Windows Sound & Audio Driver Download - Fast and Easy!</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-behind-the-scenes-creating-successful-youtube-shorts-videos/"><u>In 2024, Behind the Scenes Creating Successful YouTube Shorts Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-fcp-a-guide-to-obtaining-copy-without-cost/"><u>In 2024, Unlocking FCP A Guide to Obtaining Copy Without Cost</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/lenovo-thinkpad-t430-driver-downloads-for-windows-1187-users-step-by-step-installation/"><u>Lenovo ThinkPad T430 Driver Downloads for Windows 11/8/7 Users – Step-by-Step Installation</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-electronics-the-complete-guide-from-toms-hardware-experts/"><u>Mastering Electronics: The Complete Guide From Tom's Hardware Experts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-non-opening-windows-command-prompt-woes/"><u>Navigating Non-Opening Windows Command Prompt Woes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/new-geforce-rtx-3080-ti-graphics-card-drivers-for-windows-systems-download/"><u>New GeForce RTX 3080 Ti Graphics Card Drivers for Windows Systems Download</u></a></li>
+<li><a href="https://win-blog.techidaily.com/star-wars-battlefront-2-update-improves-latency-and-ensures-a-seamless-gaming-adventure/"><u>Star Wars Battlefront 2 Update Improves Latency and Ensures a Seamless Gaming Adventure</u></a></li>
 </ul></div>
 

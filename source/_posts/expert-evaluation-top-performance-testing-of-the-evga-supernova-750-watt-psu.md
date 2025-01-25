@@ -1,7 +1,7 @@
 ---
 title: "Expert Evaluation: Top-Performance Testing of the Evga Supernova 750 Watt PSU"
-date: 2024-08-19T04:12:02.218Z
-updated: 2024-08-20T04:12:02.218Z
+date: 2025-01-17T22:14:05.476Z
+updated: 2025-01-24T19:09:01.137Z
 tags:
   - power-supply
 categories:
@@ -28,6 +28,10 @@ See more of Friday's Real Deals below.
 * **Elgato Stream Deck:** [**now $99 at Amazon**](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fgp%2Fproduct%2FB06XKNZT1P%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1065223293966699533-20) **(was $149)**
 * **ASUS ROG Thor 1000W PSU:** [**now $194 at Amazon**](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB09SGQ9PPC%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1088334992790324728-20) **(was $359)**
 * **Gigabyte B650M Aorus Elite AX:** [**now $189 at Newegg**](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-6379358999680672387%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fgigabyte-b650m-aorus-elite-ax%252Fp%252FN82E16813145413) **with rebate (was $199)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Today’s best deals in detail
 
@@ -66,9 +70,6 @@ See more of Friday's Real Deals below.
 
 [View Deal](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-2513991122203814191%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fgigabyte-b650m-aorus-elite-ax%252Fp%252FN82E16813145413)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Looking for more deals?
 
 Category
@@ -77,9 +78,6 @@ Category
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/chevron-left.svg "Arrow")
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Back to Everything
 
 Brand
@@ -87,8 +85,9 @@ Brand
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Elgato
 
  GIGABYTE
@@ -102,8 +101,9 @@ Colour
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Black
 
  White
@@ -113,12 +113,9 @@ Price
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Any Price
 
  Showing 10 of 40 deals
@@ -128,8 +125,9 @@ Any Price
 SORT BY Price (low to high)  Price (high to low) Product Name (A to Z)  Product Name (Z to A)  Retailer name (A to Z)  Retailer name (Z to A) ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [GIGABYTE B650M AORUS Elite AX](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F5057986138&subId1=techidaily-us-5322157473801276840&sharedId=techidaily-us)
 
 1
@@ -288,8 +286,6 @@ Our Review
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -297,4 +293,26 @@ Our Review
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/n-2024-windows-movie-maker-the-ultimate-guide-to-youtube-video-production/"><u>[New] In 2024, Windows Movie Maker The Ultimate Guide to YouTube Video Production</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-mastering-facebook-cover-videos-essential-insights/"><u>[New] Mastering Facebook Cover Videos Essential Insights</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-optimizing-your-livestream-youtube-twitch-with-obs/"><u>[Updated] In 2024, Optimizing Your Livestream YouTube, Twitch with OBS</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ascending-audio-the-ultimate-budget-friendly-asmr-kit-selection-for-2024/"><u>Ascending Audio - The Ultimate Budget-Friendly ASMR Kit Selection for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/dealing-with-a-broken-silent-switch-discover-alternative-ways-to-control-your-iphones-muting-settings/"><u>Dealing with a Broken Silent Switch? Discover Alternative Ways to Control Your iPhone's Muting Settings</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-fix-for-your-elgato-hd6e-driver-issues-step-by-step-guide/"><u>Effortless Fix for Your Elgato HD6e Driver Issues | Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/examining-the-range-of-responses-from-pc-brands-to-intels-extended-processor-warranty-consumer-survey-insights/"><u>Examining the Range of Responses From PC Brands to Intel's Extended Processor Warranty – Consumer Survey Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-geforce-rtx-3070-driver-for-win-10-8-and-7-safe-downloads/"><u>Get the Latest GeForce RTX 지오트3070파이 Driver for Win 10, 8 & 7 - Safe Downloads</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-nvidia-geforce-rtx-2080-super-drivers-now-compatible-with-windows-10-and-11/"><u>Get the Latest NVIDIA GeForce RTX 2080 Super Drivers Now: Compatible with Windows 10 and 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-geforce-rtx-3060-ti-drivers-on-windows-compatibility-tips/"><u>Get the Newest GeForce RTX 3060 Ti Drivers on Windows - Compatibility Tips</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722972920711-get-the-newest-sas-software-windows-compatible-free-downloads/"><u>Get the Newest SAS Software: Windows Compatible – Free Downloads!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/getting-your-steelseries-arctis-5-up-to-speed-driver-download-and-setup/"><u>Getting Your SteelSeries Arctis 5 up to Speed: Driver Download and Setup</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-discovering-the-most-innovative-youtube-channel-names-a-vloggers-must-have-list-maximum-length-156-characters/"><u>In 2024, Discovering the Most Innovative Youtube Channel Names A Vlogger's Must-Have List (Maximum Length 156 Characters)</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unleash-creativity-with-youtube-list-mix-ups/"><u>In 2024, Unleash Creativity with YouTube List Mix-Ups</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-sea-of-thieves-startup-hurdles-with-these-simple-steps/"><u>Overcome Sea of Thieves Startup Hurdles with These Simple Steps</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-game-crashes-in-dead-by-daylight-addressing-error-8034/"><u>Overcoming Game Crashes in Dead by Daylight: Addressing Error 8034</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/secure-your-hp-officejet-4655-driver-update-now-best-methods-for-download-and-installation/"><u>Secure Your HP OfficeJet 4655 Driver Update Now - Best Methods for Download & Installation</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbeatable-offer-get-my-recommended-best-magsafe-station-for-ipadiphone-at-a-stunning-discount-of-60-off-zdnet/"><u>Unbeatable Offer! Get My Recommended Best MagSafe Station for iPad/iPhone at a Stunning Discount of 60% Off | ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/updated-synaptics-driver-installer-quick-and-easy-setup-for-windows-users/"><u>Updated Synaptics Driver Installer: Quick and Easy Setup for Windows Users</u></a></li>
+</ul></div>
 

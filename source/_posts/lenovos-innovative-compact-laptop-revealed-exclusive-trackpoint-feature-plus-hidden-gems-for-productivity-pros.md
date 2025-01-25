@@ -1,7 +1,7 @@
 ---
 title: "Lenovo’s Innovative Compact Laptop Revealed: Exclusive TrackPoint Feature + Hidden Gems for Productivity Pros!"
-date: 2025-01-14T16:45:34.083Z
-updated: 2025-01-18T16:36:00.629Z
+date: 2025-01-20T23:01:37.562Z
+updated: 2025-01-25T01:12:14.332Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -95,7 +95,7 @@ Instead, I see the Vivobook S 15 as a primary driver for remote workers or digit
 It also has a "full" keyboard (the number pad on the right side has slightly smaller keys, as typical for sub-16-inch machines), which is satisfying and responsive to typing on. The keyboard has colorful LED backlighting that can be configured in many different lights and effects, but again, this is not something that I would consider high on the priority list when optimizing battery life. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -134,19 +134,24 @@ All things considered, the starting price of $1,299 is quite competitive for thi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/0plus-youtube-channel-names-for-vloggers-100-new-filmora/"><u>[New] 50+ Youtube Channel Names for Vloggers [100% New] - Filmora</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-maximizing-auditory-experience-on-windows-10/"><u>[New] Maximizing Auditory Experience on Windows 10</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-one-arm-wonders-keeping-photos-steady/"><u>2024 Approved One Arm Wonders Keeping Photos Steady</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/brother-mfc-l27andwdw-windows-drivers-installation-guide-and-download-links/"><u>Brother MFC-L27^&WDW Windows Drivers Installation Guide and Download Links</u></a></li>
-<li><a href="https://fox-that.techidaily.com/cant-locate-the-app-on-your-iphone-this-guide-will-show-you-how-to-retrieve-lost-programs-quickly/"><u>Can't Locate the App on Your iPhone? This Guide Will Show You How to Retrieve Lost Programs Quickly</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-guide-for-downloading-and-setting-up-hp-laserjet-pro-m402n-drivers-in-windows/"><u>Comprehensive Guide for Downloading & Setting up HP LaserJet Pro M402n Drivers in Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-hp-laserjet-1320-driver-update-and-installation-guide-best-practices-for-windows-enthusiasts/"><u>Comprehensive HP LaserJet 1320 Driver Update and Installation Guide - Best Practices for Windows Enthusiasts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-configure-wacom-intuos-art-pen-n-tablet-drivers-for-seamless-operation-in-windows/"><u>Download and Configure Wacom Intuos Art Pen N Tablet Drivers for Seamless Operation in Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-sades-headset-drivers-safely-downloaded-for-your-windows-system/"><u>Get the Latest Sades Headset Drivers Safely Downloaded for Your Windows System</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-create-a-standout-presence-with-youtube-custom-imagery/"><u>In 2024, Create a Standout Presence with YouTube Custom Imagery</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-protecting-your-privacy-how-to-remove-apple-id-from-apple-iphone-xr-by-drfone-ios/"><u>In 2024, Protecting Your Privacy How To Remove Apple ID From Apple iPhone XR</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-xiaomi-redmi-a2-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Xiaomi Redmi A2 Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-soundbot-sb210-evaluation-superb-acoustics-delivered-when-functioning-correctly/"><u>The Soundbot SB210 Evaluation: Superb Acoustics Delivered When Functioning Correctly</u></a></li>
-<li><a href="https://discover-able.techidaily.com/ultimate-guide-to-the-best-windows-11-dvd-to-avi-transcoding-software-of-2e24/"><u>Ultimate Guide to the Best Window's 11 DVD to AVI Transcoding Software of 2E24</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-playspectate-screen-recorder-for-2024/"><u>[New] PlaySpectate Screen Recorder for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-seamlessly-screen-record-the-mi-11-user-manual/"><u>[Updated] Seamlessly Screen Record The Mi 11 User Manual</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/300-discount-on-the-ultra-performa-omen-transcend-14-with-rtx-graphics-and-stunning-oled-screen/"><u>$300 Discount on the Ultra-Performa Omen Transcend 14 with RTX Graphics and Stunning OLED Screen</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-punchline-creator-suite/"><u>2024 Approved Punchline Creator Suite</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/5-solutions-for-xiaomi-redmi-13c-unlock-without-password-by-drfone-android/"><u>5 Solutions For Xiaomi Redmi 13C Unlock Without Password</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/advanced-system-analysis-by-tom-your-reliable-source-for-hardware-info/"><u>Advanced System Analysis by Tom - Your Reliable Source for Hardware Info</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ai-desktops-demystified-a-must-have-technology-or-merely-trendy-gadgetry/"><u>AI Desktops Demystified: A Must-Have Technology or Merely Trendy Gadgetry?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-evaluation-of-the-razer-blade-14-powerful-computing-fit-for-a-high-investment/"><u>Comprehensive Evaluation of the Razer Blade 14: Powerful Computing Fit for a High Investment</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/deep-dive-into-technology-reliable-recommendations-from-toms-hardware/"><u>Deep Dive Into Technology: Reliable Recommendations From Tom's Hardware</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/elevate-zoom-audio-clarity-with-strategic-effective-tweaks/"><u>Elevate Zoom Audio Clarity with Strategic, Effective Tweaks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862657922-experience-next-level-gaming-with-the-affordable-lenovo-legion-slim-ebranded-as-a-high-quality-gaming-laptop-under-1100-on-newegg/"><u>Experience Next-Level Gaming with the Affordable Lenovo Legion Slim Ebranded as a High-Quality Gaming Laptop Under $1,100 on Newegg.</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-forgotten-pin-of-your-vivo-t2-pro-5g-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Vivo T2 Pro 5G</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, 6 Ways to Change Spotify Location On Your Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-samsung-galaxy-m34-5g-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Samsung Galaxy M34 5G on Windows</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/strategies-to-find-the-perfect-power-source-for-drones/"><u>Strategies to Find the Perfect Power Source for Drones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tips-for-sharper-images-during-zoom-calls-for-2024/"><u>Tips for Sharper Images During Zoom Calls for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-ultrabook-and-luxury-laptop-picks-of-2024/"><u>Top-Rated Ultrabook & Luxury Laptop Picks of 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-cutting-edge-tech-secrets-at-toms-hardware-sanctuary/"><u>Unveiling Cutting-Edge Tech Secrets at Tom's Hardware Sanctuary</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-power-of-the-lenovo-legion-pro-5i-gen-9-an-exceptional-gaming-laptop-with-an-excellent-price-tag/"><u>Unveiling the Power of the Lenovo Legion Pro 5I (Gen 9) - An Exceptional Gaming Laptop with an Excellent Price Tag</u></a></li>
 </ul></div>
 

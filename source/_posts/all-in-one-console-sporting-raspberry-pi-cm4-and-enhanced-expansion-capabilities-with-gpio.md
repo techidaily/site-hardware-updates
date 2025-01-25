@@ -1,7 +1,7 @@
 ---
 title: All-in-One Console Sporting Raspberry Pi CM4 & Enhanced Expansion Capabilities with GPIO
-date: 2024-08-19T04:10:33.401Z
-updated: 2024-08-20T04:10:33.401Z
+date: 2025-01-17T23:10:12.985Z
+updated: 2025-01-24T18:23:42.529Z
 tags:
   - raspberry-pi
 categories:
@@ -35,6 +35,10 @@ If you've ever seen the movie_Big_ , you might have wondered what it's like to p
 
  Plans are in the works to add a 3D head to move and add a visual representation for the Voltara fortune teller. If you want to get a closer look at this[Raspberry Pi project](https://tools.techidaily.com) in action, you can check it out over at Kevin McAleer's official[YouTube channel](https://www.youtube.com/watch?v=dWFgN%5FA%5FI1w) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -49,8 +53,6 @@ If you've ever seen the movie_Big_ , you might have wondered what it's like to p
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -58,8 +60,19 @@ If you've ever seen the movie_Big_ , you might have wondered what it's like to p
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://hardware-updates.techidaily.com/free-download-nvidia-geforce-rtx-3080-drivers-compatible-with-windows-10-8-and-nvida-7/"><u>[Free Download] NVIDIA GeForce RTX 3080 Drivers Compatible with Windows 10, 8 & Nvida 7</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-expert-tips-for-quality-video-with-nvidia/"><u>[New] 2024 Approved Expert Tips for Quality Video with NVIDIA</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-step-by-step-strategies-for-posting-and-uploading-gifs-on-instagram-for-2024/"><u>[Updated] Step-by-Step Strategies for Posting & Uploading GIFs on Instagram for 2024</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/44cm5bplusr6ycf5a2m5lmg77ya5luo55u45py65asn5yi25yig6zmk55qe5b2x54mh5oqa5ben5zkm5pa55rov44cn/"><u>「快速学习：从相机复制删除的影片技巧和方法」</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-8-essential-ai-chatgpt-add-ons-for-fitness-enthusiasts/"><u>Discover 8 Essential AI ChatGPT Add-Ons for Fitness Enthusiasts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-downloading-and-updating-the-hp-officejet-4500-printer-driver-for-enhanced-functionality/"><u>Easy Guide to Downloading and Updating the HP OfficeJet 4500 Printer Driver for Enhanced Functionality</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensuring-optimal-performance-downloading-the-right-dell-inspiron-15-drivers-for-windows-10-systems/"><u>Ensuring Optimal Performance: Downloading the Right Dell Inspiron 15 Drivers for Windows 10 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-lenovo-x1-carbon-driver-software-for-windows-107-users/"><u>Get the Latest Lenovo X1 Carbon Driver Software for Windows 10/7 Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-hands-on-free-behringer-driver-packs-now/"><u>Get Your Hands on Free Behringer Driver Packs Now!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/nixing-webp-saves-customizing-chromes-image-formats-for-pcs/"><u>Nixing WebP Saves: Customizing Chrome's Image Formats for PCs</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/online-kostenloze-konvertiering-van-nef-naar-png-profielbewijs-voor-movavi/"><u>Online Kostenloze Konvertiering Van NEF Naar PNG - Profielbewijs Voor Movavi</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-guide-5-simple-security-measures-for-windows-users/"><u>Ultimate Guide: 5 Simple Security Measures for Windows Users</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

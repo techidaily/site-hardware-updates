@@ -1,7 +1,7 @@
 ---
 title: "Dell Upgrades Iconic XPS Series: Introducing Cutting-Edge Artificial Intelligence Enhancements, While Retaining Timeless Design - Insights"
-date: 2024-11-22T20:10:39.858Z
-updated: 2024-11-27T16:32:02.125Z
+date: 2025-01-21T22:48:04.907Z
+updated: 2025-01-24T21:54:37.447Z
 tags:
   - laptops
 categories:
@@ -31,7 +31,7 @@ Because AI tasks that run locally on a PC are typically executed by the CPU (cen
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### User requirements remain focused on hybrid work
@@ -69,7 +69,7 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -81,7 +81,7 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -134,19 +134,24 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-epic-entertainment-a-rundown-of-hilarious-youtuber-hits/"><u>[New] In 2024, Epic Entertainment A Rundown of Hilarious YouTuber Hits</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-unique-coverage-awaits-crafting-your-own-custom-youtube-shorts-images/"><u>[New] Unique Coverage Awaits Crafting Your Own Custom YouTube Shorts Images</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95688076-9781440508622-a-ghost-a-day/"><u>A Ghost a Day | Free Book</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/a-guide-to-crafting-impactful-handp-ads-on-facebook-for-2024/"><u>A Guide to Crafting Impactful H&P Ads on Facebook for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/downloadable-driving-game-compatible-with-xbox-360-controllers/"><u>Downloadable Driving Game Compatible with Xbox 360 Controllers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortlessly-update-or-download-samsung-laptop-drivers-optimized-for-windows-operating-systems/"><u>Effortlessly Update or Download Samsung Laptop Drivers - Optimized for Windows Operating Systems.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/find-and-download-the-latest-toshiba-copier-driver-pack-for-windows-systems/"><u>Find & Download the Latest Toshiba Copier Driver Pack for Windows Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/guide-to-successfully-connecting-peripherals-in-windows-11-environments/"><u>Guide to Successfully Connecting Peripherals in Windows 11 Environments</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-update-and-repair-xbox-input-device-drivers-for-windows-users-of-various-versions-10-8-7/"><u>How to Update & Repair Xbox Input Device Drivers for Windows Users of Various Versions (10, 8, 7)</u></a></li>
-<li><a href="https://driver-install.techidaily.com/no-hassle-maximum-benefit-instant-usb-access-now/"><u>No Hassle, Maximum Benefit – Instant USB Access Now!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/rapid-deployment-tips-secure-and-fast-download-of-usb-rs232-serial-communication-driver/"><u>Rapid Deployment Tips: Secure and Fast Download of USB-RS232 Serial Communication Driver</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-realms-rhythms-top-sites-ranked-for-game-of-thrones-audio-calls-for-2024/"><u>The Realm's Rhythms Top Sites Ranked for Game of Thrones Audio Calls for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-intel-chipset-drivers-for-windows-10-7-and-81/"><u>Update Intel Chipset Drivers for Windows 10, 7 & 8.1</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-12-amazing-free-animation-programs-for-pc-and-mac/"><u>Updated 12 Amazing Free Animation Programs for PC and Mac</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-enhancing-media-speed-on-messenger-and-fb/"><u>[New] 2024 Approved Enhancing Media Speed on Messenger & FB</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-the-complete-guide-to-twitters-paid-reach-and-impressions/"><u>[New] 2024 Approved The Complete Guide to Twitter's Paid Reach and Impressions</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-elevate-your-video-game-with-fb-upload-on-pc-and-android/"><u>[New] In 2024, Elevate Your Video Game with FB Upload on PC and Android</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-instantly-purging-unwanted-youtube-comments-made-simple/"><u>[New] In 2024, Instantly Purging Unwanted YouTube Comments Made Simple</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-smooth-volume-reduction-a-system-friendly-approach-for-2024/"><u>[New] Smooth Volume Reduction A System-Friendly Approach for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-thieye-t5-versus-jcb-xs30-best-choice-in-2024/"><u>[Updated] Thieye T5 Versus JCB XS30 Best Choice, In 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/a-step-by-step-guide-to-including-vimeo-on-instagram/"><u>A Step-by-Step Guide to Including Vimeo on Instagram</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-sees-significant-drop-in-gaming-profits-by-59-impressive-surge-of-115-for-data-center-earnings/"><u>AMD Sees Significant Drop in Gaming Profits by 59%; Impressive Surge of 115% for Data Center Earnings</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1125624-9781609254230-choice-centered-relating-and-the-tarot/"><u>Choice Centered Relating and the Tarot | Free Book</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-corsair-keyboard-drivers-for-windows-fast-free-and-secure/"><u>Download Corsair Keyboard Drivers for Windows - Fast, Free & Secure</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-latest-bluetooth-adapters-software-for-windows-systems-today/"><u>Download the Latest Bluetooth Adapters Software for Windows Systems Today!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-pixels-to-plot-an-excursion-in-chatgpt-rpgs/"><u>From Pixels to Plot: An Excursion in ChatGPT RPGs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-fix-connectivity-errors-with-your-lg-usb-driver-in-windows-1087-environments/"><u>How to Fix Connectivity Errors with Your LG USB Driver in Windows 10/8/7 Environments</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-updated-drivers-for-your-amd-ryzen-processor/"><u>How to Install Updated Drivers for Your AMD Ryzen Processor</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-zexmte-bluetooth-adapter-drivers-for-optimal-performance-on-windows-11-7-and-8-free-download-available-now/"><u>Latest Zexmte Bluetooth Adapter Drivers for Optimal Performance on Windows 11, 7 & 8 - Free Download Available Now!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/siriusxm-all-access-bring-back-memories-from-old-school-fm-radio-days/"><u>SiriusXM All Access: Bring Back Memories From Old-School FM Radio Days!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlock-the-potential-of-your-hardware-inspired-by-toms-tech-wisdom/"><u>Unlock the Potential of Your Hardware - Inspired by Tom's Tech Wisdom</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-qualcomm-atheros-ar956-x-wireless-network-adapter-with-the-newest-drivers/"><u>Update Your Qualcomm Atheros AR956 X Wireless Network Adapter with the Newest Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upgrade-and-enhance-updated-version-effortless-installation-of-the-intel-dual-band-wireless-ac-3160-driver/"><u>Upgrade & Enhance: [UPDATED VERSION] Effortless Installation of the Intel Dual Band Wireless-AC 3160 Driver</u></a></li>
 </ul></div>
 

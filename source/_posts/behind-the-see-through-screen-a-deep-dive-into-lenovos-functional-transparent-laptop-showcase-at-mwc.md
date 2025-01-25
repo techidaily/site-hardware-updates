@@ -1,7 +1,7 @@
 ---
 title: "Behind the See-Through Screen: A Deep Dive Into Lenovo's Functional Transparent Laptop Showcase at MWC"
-date: 2025-01-16T16:36:14.125Z
-updated: 2025-01-18T19:02:54.394Z
+date: 2025-01-18T19:06:57.209Z
+updated: 2025-01-24T19:04:50.728Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -67,7 +67,7 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -106,18 +106,22 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-eluding-digital-footprints-while-enjoying-instagram-stories-online-for-2024/"><u>[New] Eluding Digital Footprints While Enjoying Instagram Stories Online for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/boost-your-drawing-and-design-workflow-secure-latest-wacom-intuos-3-drivers-for-windows-pcs/"><u>Boost Your Drawing & Design Workflow: Secure Latest Wacom Intuos 3 Drivers for Windows PCs</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-t-play-mov-files-on-motorola-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can't play .mov files on Motorola</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/free-dj-pro-sb-169-dex-3-skin-download-update-your-equipments-look/"><u>Free DJ Pro SB 16:9 DEX 3 Skin Download - Update Your Equipment's Look</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722975025151-get-your-microsoft-ergonomic-keyboard-4000-up-and-running-with-these-simple-steps/"><u>Get Your Microsoft Ergonomic Keyboard 4000 Up and Running with These Simple Steps!</u></a></li>
-<li><a href="https://win-community.techidaily.com/guide-complet-pour-configurer-lautomatisation-de-sauvegarde-des-messages-de-courriel-en-utilisant-outlook-et-un-stockage-externe/"><u>Guide Complet Pour Configurer L'automatisation De Sauvegarde Des Messages De Courriel en Utilisant Outlook Et Un Stockage Externe</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Vivo T2 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-easy-steps-to-audit-your-favorite-tiktok-sessions/"><u>In 2024, Easy Steps to Audit Your Favorite TikTok Sessions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/official-nvidia-geforce-rtx-3090-driver-software-for-windows-operating-systems-win7810/"><u>Official NVIDIA GeForce RTX 3090 Driver Software for Windows Operating Systems (Win7/8/10)</u></a></li>
-<li><a href="https://win-help.techidaily.com/restaurar-una-particion-borrada-o-perdida-en-windows-1011-un-paso-a-paso-detallado/"><u>Restaurar Una Partición Borrada O Perdida en Windows 10/11: Un Paso a Paso Detallado</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/revive-your-entertainment-hub-repair-steps-for-malfunctioning-samsung-blu-ray-units/"><u>Revive Your Entertainment Hub: Repair Steps for Malfunctioning Samsung Blu-Ray Units</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-from-iphone-12-pro-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives From iPhone 12 Pro</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/unseen-story-access-top-anonymous-tools/"><u>Unseen Story Access Top Anonymous Tools</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-clearer-streams-youtube-video-borderless-adjustment/"><u>[New] 2024 Approved Clearer Streams YouTube Video Borderless Adjustment</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-time-honored-treasures-free-of-restrictions/"><u>[New] 2024 Approved Time-Honored Treasures, Free of Restrictions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/access-new-firmware-and-drivers-for-the-epson-xp-310-with-this-tutorial/"><u>Access New Firmware and Drivers for the Epson XP-310 with This Tutorial</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-killer-e2500-drivers-for-high-speed-internet-connection/"><u>Download Killer E2500 Drivers for High-Speed Internet Connection</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/exploracion-detallada-sobre-el-corazon-desde-el-estomago-a-los-pulmones-en-espanol/"><u>Exploración Detallada Sobre El Corazón: Desde El Estómago A Los Pulmones En Español</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fixing-network-adaptor-glitches-in-windows-7-a-comprehensive-guide/"><u>Fixing Network Adaptor Glitches in Windows 7: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hassle-free-installation-of-updated-dell-monitor-drivers-from-home/"><u>Hassle-Free Installation of Updated Dell Monitor Drivers From Home</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-samsung-galaxy-a54-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Samsung Galaxy A54 5G to New Phone | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-harness-the-full-potential-of-video-tags-in-youtube/"><u>In 2024, Harness the Full Potential of Video Tags in YouTube</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722975420790-instant-setup-microsoft-wireless-mouse-5000-download-and-install-drivers-today/"><u>Instant Setup: Microsoft Wireless Mouse 5000 – Download & Install Drivers Today!</u></a></li>
+<li><a href="https://fox-access.techidaily.com/morphvox-mastery-a-complete-voice-modification-companion-for-2024/"><u>MorphVOX Mastery A Complete Voice Modification Companion for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/nvidia-graphics-driver-update-supports-windows-11-7-and-newest-release/"><u>Nvidia Graphics Driver Update - Supports Windows 11, 7, and ^Newest ^Release</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/premium-zero-price-point-live-capture-app-for-2024/"><u>Premium Zero-Price Point Live Capture App for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-realme-gt-3-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Realme GT 3</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/revolutionizing-image-post-processing-advanced-use-of-3d-luts-in-ps-for-2024/"><u>Revolutionizing Image Post-Processing Advanced Use of 3D LUTs in PS for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722975257076-up-to-date-hp-scanjet-printer-drivers-download-and-install-on-your-windows-pc/"><u>Up-to-Date HP Scanjet Printer Drivers - Download and Install on Your Windows PC!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/updated-drives-for-enhanced-performance-how-to-update-or-reinstall-hp-laptop-drivers-on-windows-machines/"><u>Updated Drives for Enhanced Performance: How to Update or Reinstall HP Laptop Drivers on Windows Machines</u></a></li>
 </ul></div>
 

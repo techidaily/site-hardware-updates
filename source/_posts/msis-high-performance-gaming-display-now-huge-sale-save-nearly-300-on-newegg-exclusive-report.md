@@ -1,7 +1,7 @@
 ---
 title: "MSI's High-Performance Gaming Display Now Huge Sale: Save Nearly $300 on Newegg - Exclusive Report"
-date: 2025-01-14T19:29:16.630Z
-updated: 2025-01-18T18:30:47.517Z
+date: 2025-01-21T22:38:32.019Z
+updated: 2025-01-24T21:56:54.234Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Taylor Clemons/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the deal?
@@ -31,7 +31,7 @@ You can pick up a new [MSI Stealth 14 Studio gaming laptop](https://shop-links.c
 **Also:** [**The best gaming laptops**](https://www.zdnet.com/article/best-gaming-laptop/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended:
@@ -65,7 +65,7 @@ Speaking of which: I absolutely adore the MUX switch, which is what lets you cho
 Taylor Clemons/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## My only real complaint
@@ -81,7 +81,7 @@ Taylor Clemons/ZDNET
 The laptop also has a decently fast charging time, taking about an hour to reach full charge from completely dead. This is perfect for situations when you forget to charge overnight or need to quickly top up the laptop during a lunch break or meeting. As with all fast-charging devices, you'll notice a slowdown in power transfer as the battery approaches full charge. This helps prevent damage from overcharging, which can shorten the overall life and performance of the battery.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How it handles gaming
@@ -95,7 +95,7 @@ Taylor Clemons/ZDNET
 The laptop even was able to handle the [ARMA III](https://store.steampowered.com/app/107410/Arma%5F3/) base game, which is notorious for requiring Herculean efforts from graphics cards and CPUs to even be able to load you into a server. I'd bought ARMA III years ago to play with friends over Discord, and this was the first time I'd been able to just load into the lobby and mess around with controls, settings, and mods before _finally_ being able to play a match after all this time. So the Stealth 14 Studio gets extra points in my book for letting me spend time with and stay connected to friends I don't get to see very often in-person. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### A worthy investment
@@ -140,19 +140,14 @@ _Correction: This review has been edited to reflect accurate information as prov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-simplified-design-guide-add-your-own-style-to-your-video-shorts/"><u>[New] 2024 Approved Simplified Design Guide Add Your Own Style to Your Video Shorts</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-art-of-playback-anarchy-youtube-playlists-unordered-again/"><u>[New] The Art of Playback Anarchy YouTube Playlists Unordered Again</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-excellence-exchange-global-creators/"><u>[Updated] Excellence Exchange Global Creators</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-newest-dolby-sound-enhancement-drivers-for-windows-11-10-and-81/"><u>Download the Newest Dolby Sound Enhancement Drivers for Windows 11, 10, and 8.1</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-hd-video-capture-secure-free-logiteche-webcam-drivers-for-winows-users/"><u>Effortless HD Video Capture: Secure Free Logiteche Webcam Drivers for Winows Users</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/hard-disk-heroics-stellars-remarkable-recovery/"><u>Hard Disk Heroics: Stellar's Remarkable Recovery</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-newest-amd-radeon-hd-amzradeon-7870-drivers-and-upgrades-on-windows-10-system/"><u>How to Get the Newest AMD Radeon HD Amz Radeon 7870 Drivers & Upgrades on Windows 10 System</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-samsung-galaxy-m34-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Samsung Galaxy M34 Phone Pattern Lock</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-transform-your-tiktok-experience-with-new-user-numbers/"><u>In 2024, Transform Your TikTok Experience with New User Numbers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-updated-drivers-for-your-hp-all-in-one-deskjet-3755-supports-win-111087-platforms/"><u>Install Updated Drivers for Your HP All-in-One DeskJet #3755 - Supports Win 11/10/8/7 Platforms</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/is-broadcasting-facebook-videos-a-reality-yet-in-2024/"><u>Is Broadcasting Facebook Videos a Reality Yet, In 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722977807121-obtain-your-eveo-bluetooth-device-drivers-here-instant-download-available/"><u>Obtain Your Eveo Bluetooth Device Drivers Here – Instant Download Available!</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-art-of-immersive-play-optimizing-ss-blu-ray-feats/"><u>The Art of Immersive Play: Optimizing S's Blu-Ray Feats</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-stability-of-a-scaffold-involves-calculations-for-overturning-sliding-resistance-and-even-load-distribution/"><u>The Stability of a Scaffold Involves Calculations for Overturning, Sliding Resistance, and Even Load Distribution.</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-from-zero-to-hero-in-instagram-world-top-9-pathways-unveiled/"><u>[New] In 2024, From Zero to Hero in Instagram World Top 9 Pathways Unveiled</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-forge-funny-frameworks/"><u>[Updated] 2024 Approved Forge Funny Frameworks</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-professional-insights-into-recording-quality-conversations-on-facetime/"><u>2024 Approved Professional Insights Into Recording Quality Conversations on FaceTime</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-zte-nubia-z60-ultra-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 ZTE Nubia Z60 Ultra Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-optimal-performance-with-fresh-nvidia-geforce-mx150-driver-downloads-for-windows-systems/"><u>Ensure Optimal Performance with Fresh Nvidia GeForce MX150 Driver Downloads for Windows Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-the-world-of-electronics-with-toms-gadget-insights/"><u>Exploring the World of Electronics with Tom's Gadget Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722973214798-fire-suppression-systems-are-designed-based-on-a-thorough-risk-assessment-of-the-protected-space/"><u>Fire Suppression Systems Are Designed Based on a Thorough Risk Assessment of the Protected Space</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Vivo Y56 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-officejet-pro-6970-driver-update-and-installation-guide-for-windows-users/"><u>HP OfficeJet Pro 6970 Driver Update and Installation Guide for Windows Users</u></a></li>
 </ul></div>
 

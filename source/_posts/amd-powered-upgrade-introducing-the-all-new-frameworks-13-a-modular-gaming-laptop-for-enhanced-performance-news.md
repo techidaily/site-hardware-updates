@@ -1,7 +1,7 @@
 ---
 title: "AMD-Powered Upgrade: Introducing the All-New Frameworks 13 - A Modular Gaming Laptop for Enhanced Performance News"
-date: 2025-01-14T20:07:18.281Z
-updated: 2025-01-18T16:49:57.047Z
+date: 2025-01-22T19:55:40.417Z
+updated: 2025-01-25T01:34:48.387Z
 tags:
   - laptops
 categories:
@@ -37,10 +37,6 @@ Cons
 
 ## G.Skill RipJaws S5
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best RAM overall
 
 **G.Skill RipJaws S5 specs: Speed:** Up to 6,000MHz | **Type:** 288-pin DDR5 | **Timing:** 30-40-40-96 | **Chipset support:** Intel | **Capacity:** Up to 96GB
@@ -65,10 +61,6 @@ Cons
 * No heat spreader
 
 ## Corsair Vengeance SODIMM DDR5
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best RAM for laptops
 
@@ -96,10 +88,6 @@ Cons
 
 ## G.Skill Trident Z RGB
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best RAM for gaming
 
 **G.Skill Trident Z RGB specs: Speed:** 3,600 MHz | **Type:** 288-pin DDR4 | **Timing:** 16-19-19-39 | **Chipset support:** Intel, AMD | **Capacity:** Up to 256GB 
@@ -125,7 +113,7 @@ Cons
 * Not suited for everyday users
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Kingston Fury Renegade Pro
@@ -151,11 +139,11 @@ Pros
 Cons 
 * No heat spreader
 
-## Patriot Memory Signature Line
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Patriot Memory Signature Line
 
 ### Best budget RAM
 
@@ -193,10 +181,6 @@ If you're wanting to set up or upgrade a server, you'll want to choose a RAM opt
 | Kingston Fury Renegade Pro    | A RAM upgrade for a dedicated server. This bundle includes four 32GB RAM sticks, each of which is pre-registered as server memory to streamline the upgrade process. |
 | Patriot Signature             | A budget-friendly RAM upgrade. The 2-8GB stick bundle retails for under $50.                                                                                         |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How did I choose each RAM?
 
 While researching RAM for this best list, I kept these criteria in mind:
@@ -215,9 +199,17 @@ If one pair of RAM sticks are rated for lower clock speeds than the other, your 
 
 For most people, 64GB of RAM is absolutely overkill. Even for a decent gaming PC, most users won't need more than 16GB. Content creators who use streaming or recording software while playing games and creative professionals who work in 3D modeling or video programs may need 64GB of RAM to help render finished videos, photos, and models (and some workstations have up to 128GB of RAM, but these are usually reserved for PC rigs used for professional filmmaking, game production, or super-computing).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is DDR4 RAM still good?
 
 If you're shopping for new RAM to drop into your PC and wonder what the difference between DDR4 and DDR5 is: it's basically an indicator of hardware generation. While DDR4 is an older form-factor, it's still a viable option -- especially if you're looking to save a bit of cash. You can still find motherboards and CPUs that support DDR4 RAM, and you'll get similar base and overclocking results as newer DDR5 products. Though you may see performance issues in asset-heavy programs like Photoshop.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Are there alternative RAM picks worth considering?
 
@@ -228,6 +220,10 @@ Show less
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB097K2WKZW%2Fref%3Dasc%5Fdf%5FB097K2WKZW1728298800000%3Fcreative%3D395261%26creativeASIN%3DB097K2WKZW%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C341cfb2a-bb4c-4008-b035-2a2ae79b8710%7Cdtp&dtb=1)[View now at Walmart](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F202148232&subId1=zd-__COM_CLICK_ID__-dtp)
 
 Full Review [Read Full Review](https://www.zdnet.com/article/best-ram/Design: Mini Listicle)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Kingston Beast Fury DDR4
 
@@ -241,6 +237,10 @@ Show less
 
 Full Review [Read Full Review](https://www.zdnet.com/article/best-ram/Design: Mini Listicle)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Crucial DDR5 Pro
 
 The Crucial DDR5 Pro 5600 RAM is a great choice for upgrading office PCs, with their minimalist heatsink design and support for Intel XMP 3.0 motherboards.
@@ -252,6 +252,10 @@ Show less
 [View now at Newegg](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fgigabyte-32gb-288-pin-ddr5-sdram%252Fp%252FN82E16820009033)
 
 Full Review [Read Full Review](https://www.zdnet.com/article/best-ram/Design: Mini Listicle)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Gigabyte Aorus DDR5 5200
 
@@ -284,10 +288,6 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 * [The best Android phones you can buy (including a surprise pick)](https://www.zdnet.com/article/best-android-phone/ "The best Android phones you can buy (including a surprise pick)")
 * [The best robot vacuum and mop combos (and if they're worth the money)](https://www.zdnet.com/article/best-robot-vacuum-mop/ "The best robot vacuum and mop combos (and if they're worth the money)")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###   
 
 ###
@@ -307,18 +307,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-a-list-makeup-tutorials-who-to-watch/"><u>[New] In 2024, A-List Makeup Tutorials Who to Watch ?</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-strategizing-with-snapshots-a-guide-to-instagram-video-marketing-for-2024/"><u>[New] Strategizing with Snapshots A Guide to Instagram Video Marketing for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-behind-the-scenes-understanding-m1-technology/"><u>[Updated] In 2024, Behind The Scenes Understanding M1 Technology</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/affordable-lenovo-laptop-options-tailored-for-remote-and-office-use-unveiling-the-1000-deal-zdnet/"><u>Affordable Lenovo Laptop Options Tailored for Remote & Office Use: Unveiling the $1,000 Deal | ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/college-students-guide-to-the-perfectly-priced-299-laptop-expert-advice/"><u>College Student's Guide to the Perfectly Priced $299 Laptop | Expert Advice</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discovering-lenovos-revolutionary-transparent-display-tech-at-mobile-world-congress-a-deep-dive/"><u>Discovering Lenovo's Revolutionary Transparent Display Tech at Mobile World Congress - A Deep Dive</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-vivo-y36i-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Vivo Y36i to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-list-of-superior-cloud-services/"><u>In 2024, The Ultimate List of Superior Cloud Services</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/iphone-camera-savvy-image-optimization-secrets/"><u>IPhone Camera Savvy Image Optimization Secrets</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/limited-time-offer-grab-the-8-cyber-monday-special-on-an-iphone-webcam-mount-in-stock/"><u>Limited Time Offer: Grab the $8 Cyber Monday Special on an iPhone Webcam Mount - In Stock!</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/monetizing-with-youtube-avg-revenue-from-an-ad/"><u>Monetizing with Youtube Avg Revenue From An Ad?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/snag-the-best-ultimate-cyber-monday-deals-on-high-performance-laptops-(1000-at-dell-costco-and-amazon-recommendations/"><u>Snag the Best: Ultimate Cyber Monday Deals on High-Performance Laptops <$1000 at Dell, Costco & Amazon | Recommendations</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unbeatable-black-friday-bargain-snag-lenovos-flex-99-deal-before-cyber-monday-chaos-zdnet/"><u>Unbeatable Black Friday Bargain: Snag Lenovo's Flex 지난에 $99 Deal Before Cyber Monday Chaos | ZDNET</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-key-steps-in-manipulating-song-pace-in-spotify-app/"><u>2024 Approved Key Steps in Manipulating Song Pace in Spotify App</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-tecno-pova-5-pro-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Tecno Pova 5 Pro to Roku | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/indoor-air-quality-index-aqi/"><u>Indoor Air Quality Index (AQI):</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/intel-and-amd-at-their-best-in-the-stunning-new-asus-lineup-zenbook-s-and-tuf-a14-showcase-elite-technology-meets-elegance/"><u>Intel and AMD at Their Best in the Stunning New Asus Lineup: Zenbook S & TUF A14 Showcase Elite Technology Meets Elegance</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/leaked-details-revealed-preview-of-samsungs-latest-galaxy-book4-edge-with-snapdragon-chipset-before-microsoft-unveils-new-hardware/"><u>Leaked Details Revealed: Preview of Samsung's Latest Galaxy Book4 Edge with Snapdragon Chipset Before Microsoft Unveils New Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/massive-sale-on-lenovo-legion-750-off-for-nvidia-rtx-4080-up-to-240hz-screen/"><u>Massive Sale on Lenovo Legion: $750 Off for NVIDIA RTX 4080 - Up to 240Hz Screen</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-technology-with-toms-hardware-expertise-the-definitive-guide/"><u>Mastering Technology with Tom's Hardware Expertise - The Definitive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigate-the-world-of-technology-in-depth-hardware-reviews-by-tom/"><u>Navigate the World of Technology: In-Depth Hardware Reviews by Tom</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stop-the-freeze-start-winning-with-fallout-4/"><u>Stop the Freeze, Start Winning with Fallout 4</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/top-gear-best-mac-apps-for-capturing-videos/"><u>Top Gear Best Mac Apps for Capturing Videos</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Xiaomi 13 Ultra? | Dr.fone</u></a></li>
 </ul></div>
 

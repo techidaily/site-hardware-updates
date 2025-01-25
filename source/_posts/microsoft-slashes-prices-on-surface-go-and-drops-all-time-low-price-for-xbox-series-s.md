@@ -1,7 +1,7 @@
 ---
 title: Microsoft Slashes Prices on Surface Go and Drops All-Time Low Price for Xbox Series S
-date: 2025-01-15T20:14:14.603Z
-updated: 2025-01-18T16:54:01.815Z
+date: 2025-01-24T02:37:19.749Z
+updated: 2025-01-24T17:47:58.032Z
 tags:
   - laptops
 categories:
@@ -27,7 +27,7 @@ Microsoft is known for its innovative products in gaming, computers, and more. A
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Save hundreds on Surface tablets and laptops**
@@ -43,7 +43,7 @@ Under the tablet's hood, you'll find a blazing-fast processor (12th Gen Intel Co
 Meanwhile, if you're preference is for laptops, then Microsoft has other deals for you. You can save $200 on the Surface Laptop 5, up to $646 on the Surface Laptop 4, and $150 on the Surface Laptop Go 2\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Get the Xbox Series S at its lowest price ever**
@@ -59,7 +59,7 @@ This is a digital console, meaning you'll have ample room to download games on i
 Overall, the Xbox Series S is an excellent gaming system for those looking for jaw-dropping graphics, access to a diverse gaming library, and fast performance. In addition, Microsoft lowered its price to $239.99, making it the best time to buy one. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Want to save even more on Microsoft devices?**
@@ -110,18 +110,21 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-fast-forwards-and-flashbacks-in-creative-tiktoks/"><u>[New] In 2024, Fast Forwards and Flashbacks in Creative TikToks</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-unplugged-bliss-selecting-smartphone-slowdowns/"><u>[Updated] Unplugged Bliss Selecting Smartphone Slowdowns</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-in-depth-analysis-of-best-no-fee-livestream-options-on-all-devices/"><u>2024 Approved In-Depth Analysis of Best No-Fee LiveStream Options on All Devices</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/complete-guide-to-downloading-and-installing-logitech-g35-drivers-on-windows-windows-7810/"><u>Complete Guide to Downloading and Installing Logitech G35 Drivers on Windows (Windows 7/8/10)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/essential-guide-to-obtaining-thunderbolt-driver-packages-on-windows-systems/"><u>Essential Guide to Obtaining Thunderbolt Driver Packages on Windows Systems</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-from-iphone-13-pro-max-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently From iPhone 13 Pro Max</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-install-epson-es-400-scanner-drivers-for-windows-computers/"><u>How to Install Epson ES-400 Scanner Drivers for Windows Computers</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-iphone-se-2022-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock iPhone SE (2022) to Use USB Accessories Without Passcode</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-smooth-sailing-through-sequences-with-kinemaster/"><u>In 2024, Smooth Sailing Through Sequences with Kinemaster</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ry-of-live-sharing-youtube-edition/"><u>Mastery of Live Sharing YouTube Edition</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/menemukan-partisi-lengkap-di-perangkat-usb-hidden/"><u>Menemukan Partisi Lengkap Di Perangkat USB Hidden</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/nexiq-usb-bridge-drivers-compatible-download-and-install-steps-guide/"><u>NEXIQ USB Bridge Drivers: Compatible Download and Install Steps Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-the-non-responsive-aoc-monitor-issue-on-windows-11/"><u>Troubleshooting Guide: Fixing the Non-Responsive AOC Monitor Issue on Windows 11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-scouring-deals-low-priced-gopro-cameras/"><u>[New] Scouring Deals Low-Priced GoPro Cameras</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-family-bonding-through-film-the-ultimate-classics-list/"><u>[Updated] Family Bonding Through Film The Ultimate Classics List</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-all-about-youtubes-elite-access-a-complete-breakdown/"><u>[Updated] In 2024, All About YouTube's Elite Access - A Complete Breakdown</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-zoom-meetings-on-chromebooks/"><u>[Updated] Mastering Zoom Meetings on Chromebooks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/computex-showcase-leak-discover-asus-rog-ally-snapdragon-x-gaming-gpus-not-included-launch-list/"><u>Computex Showcase Leak: Discover Asus ROG Ally, Snapdragon X - Gaming GPUs Not Included Launch List</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/cutting-edge-cost-effective-risc-v-laptop-by-chinese-startup-for-developer-professionals-only-300/"><u>Cutting-Edge, Cost-Effective RISC-V Laptop by Chinese Startup for Developer Professionals – Only $300</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/dells-new-contenders-the-impressive-fusion-of-performance-and-style-in-the-xps-16-9640-and-xps-14-9440-plus-a-sneak-peek-at-their-unique-characteristics/"><u>Dell's New Contenders: The Impressive Fusion of Performance & Style in the XPS 16 (9640) & XPS 14 (9440), Plus a Sneak Peek at Their Unique Characteristics</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-cutting-edge-computers-at-toms-hardware-experts/"><u>Discover Cutting-Edge Computers at Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-first-asus-laptop-powered-by-intels-latest-lunar-lake-chips-meet-the-expertbook-p5/"><u>Discover the First ASUS Laptop Powered by Intel's Latest Lunar Lake Chips – Meet the ExpertBook P5</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-new-era-of-portability-with-hp-omnibooks-advanced-amd-ryzen-ai-chips-and-thunderbolt-4-support/"><u>Discover the New Era of Portability with HP OmniBook's Advanced AMD Ryzen AI Chips & Thunderbolt 4 Support</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-extended-multi-day-battery-life-on-the-latest-laptops-from-acer-dell-hp-and-lenovo-new-1-099-snapdragon-x-and-windows-copilotplus-pcs-available-n14/"><u>Experience Extended 'Multi-Day Battery Life' On the Latest Laptops From Acer, Dell, HP & Lenovo: New $1, 099 Snapdragon X and Windows Copilot+ PCs Available Now!</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-6-plus-with-or-without-password-drfone-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone 6 Plus With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-black-ops-4-fatal-errors/"><u>How to Fix Black Ops 4 Fatal Errors</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-from-iphone-se-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock from iPhone SE</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-download-kinemaster-for-macstep-by-step-guide-for-2024/"><u>New Download KineMaster for MacStep-by-Step Guide for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-nubia-red-magic-8s-proplus-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Nubia Red Magic 8S Pro+ Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
 

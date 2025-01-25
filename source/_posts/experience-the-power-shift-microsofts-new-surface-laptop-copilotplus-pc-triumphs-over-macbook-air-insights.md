@@ -1,7 +1,7 @@
 ---
 title: "Experience the Power Shift: Microsoft's New Surface Laptop Copilot+ PC Triumphs over MacBook Air | Insights"
-date: 2024-12-04T19:27:27.424Z
-updated: 2024-12-06T23:50:57.154Z
+date: 2025-01-23T17:04:35.649Z
+updated: 2025-01-25T01:26:50.334Z
 tags:
   - laptops
 categories:
@@ -33,7 +33,7 @@ You'll hear and see more about these branded laptops over the coming weeks, mont
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. More seamless on-device AI features
@@ -51,7 +51,7 @@ Having a dedicated Copilot key certainly adds to this burdenless experience. As 
 Perhaps the most important aspect of these new Copilot+ AI features is that they operate [on-device](https://www.zdnet.com/article/5-top-mobile-trends-in-2024-on-device-ai-the-new-smartphone-and-more/#:~:text=to%20take%20shape.-,1.%20On%2Ddevice%20AI%20puts%20the%20%27smart%27%20in%20smartphone,-The%20new%20Samsung) \-- based on local data, providing more private, secure, and faster processing capabilities. To everyday users, this may not be as significant. If, however, keeping your personal data protected (and away from any [remote cloud servers](https://www.zdnet.com/article/ai-is-changing-cybersecurity-and-businesses-must-wake-up-to-the-threat/)) is a priority, you'll feel a little better using the AI features on these new Copilot+ PCs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Windows Hello feels faster than ever
@@ -67,7 +67,7 @@ Comparing my M3 MacBook Air with the Surface Laptop is not exactly an apples-to-
 The best part is that Windows Hello automatically triggers when I lift the laptop lid open, and it's able to scan my face even in dimmer environments thanks to the IR camera.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Touchscreen support
@@ -83,7 +83,7 @@ For example, the new Cocreator tool in Paint requires you to both write a prompt
 While I've always found touchscreen functionality to be more beneficial on larger screens, using the smaller [13.8-inch Surface Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Touchscreen-Snapdragon-Sapphire%2Fdp%2FB0CXKYTQS2%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cdce94952-9462-4f8b-a8a9-5180b078bf69%7Cdtp&dtb=1) feels more like a 2-in-1 tablet. When my typing space is confined, like on a bus, plane, or crowded café, being able to simply reach over and tap, swipe, and drag elements on the screen is very helpful and intuitive. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bonus: Benchmarks (for now)
@@ -125,24 +125,24 @@ For the following benchmark tests, the higher the score, the better.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/napshots-of-adventure-mastering-the-craft-of-professional-travel-blogging/"><u>[New] Snapshots of Adventure Mastering the Craft of Professional Travel Blogging</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-copyright-safe-techniques-for-youtube-to-mp4/"><u>[Updated] 2024 Approved Copyright-Safe Techniques for Youtube-to-MP4</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-maximizing-impact-best-practices-for-corporate-screencast-training-for-2024/"><u>[Updated] Maximizing Impact Best Practices for Corporate Screencast Training for 2024</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/6l275p2plus5a2m5lmg77ya6keg6akr5ps55yplusy5qc85byp5zkm5o6n5yi25asn5bcp55qe5pwz56ilihwg5q2l6aqk5oyh5aplus8/"><u>轻松学习：视频改变格式和控制大小的教程 | 步骤指导</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/aws-graviton4-cpu-shows-superiority-over-traditional-processors-offering-enhanced-speed-and-value-for-money/"><u>AWS Graviton4 CPU Shows Superiority Over Traditional Processors, Offering Enhanced Speed and Value for Money</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/boost-your-pcs-gaming-potential-update-dell-studio-xps-graphics-drivers-now/"><u>Boost Your PC's Gaming Potential: Update Dell Studio XPS Graphics Drivers Now</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/compatible-with-windows-71011-get-brother-hl-2280dw-printer-software-here/"><u>Compatible with Windows 7/10/11 – Get Brother HL-2280DW Printer Software Here</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-lenovos-latest-bluetooth-driver-updates-for-windows-710-securely-enhance-your-connection/"><u>Download and Install Lenovo's Latest Bluetooth Driver Updates for Windows 7/10 - Securely Enhance Your Connection</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722970217075-download-your-optimized-wireless-drivers-now-issue-resolved/"><u>Download Your Optimized Wireless Drivers Now - Issue Resolved!</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/image-jokes-how-to-create-memetic-gold/"><u>Image Jokes How to Create Memetic Gold</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-xiaomi-14-ultra-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Xiaomi 14 Ultra to iPhone | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-apple-iphone-13-pro-without-a-passcode-drfone-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your Apple iPhone 13 Pro Without a Passcode | Dr.fone</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/maximize-your-outreach-the-ultimate-guide-to-harnessing-web-based-prospect-opportunities-using-massmail/"><u>Maximize Your Outreach - The Ultimate Guide to Harnessing Web-Based Prospect Opportunities Using MassMail</u></a></li>
-<li><a href="https://facebook.techidaily.com/quick-tips-for-dissolving-a-facebook-circle/"><u>Quick Tips for Dissolving a Facebook Circle</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-upgrading-and-downloading-insignia-bluetooth-device-drivers-on-windows/"><u>Step-by-Step Guide: Upgrading and Downloading Insignia Bluetooth Device Drivers on Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-to-download-your-latitude-e6420s-essential-drivers-fast/"><u>Step-by-Step Tutorial to Download Your Latitude E6420's Essential Drivers Fast</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722977768067-the-arbitration-process-can-be-tailored-to-fit-the-needs-of-the-parties-involved-allowing-for-flexibility-in-scheduling-and-procedural-rules/"><u>The Arbitration Process Can Be Tailored to Fit the Needs of the Parties Involved, Allowing for Flexibility in Scheduling and Procedural Rules</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-your-scansnap-s1300i-software-with-these-simple-tips/"><u>Update Your ScanSnap S1300i Software with These Simple Tips!</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/1725286648103-windows-winx-video-converter/"><u>Windows ユーザー向けの無料ビデオ変換ツール WinX Video Converter：導入ガイド</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-guide-to-fetching-superior-quality-fb-videos/"><u>[New] 2024 Approved Guide to Fetching Superior Quality FB Videos</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-the-components-that-lift-you-in-youtube-viewership/"><u>[New] In 2024, The Components That Lift You in YouTube Viewership</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-unraveling-the-creators-who-elevate-digital-expressions-for-2024/"><u>[New] Unraveling the Creators Who Elevate Digital Expressions for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-beyond-illusion-vr-timeline-explored-for-2024/"><u>[Updated] Beyond Illusion VR Timeline Explored for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-price-scale-for-shooting-tunes-in-visual-narratives/"><u>[Updated] Price Scale for Shooting Tunes in Visual Narratives</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-speak-slide-and-convince-the-vo-powerpoint-pathway-for-2024/"><u>[Updated] Speak, Slide & Convince - The VO Powerpoint Pathway for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-the-ultimate-selection-of-free-slide-show-designs/"><u>2024 Approved Explore the Ultimate Selection of Free Slide Show Designs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/acer-aspire-5100-driver-download-complete-guide/"><u>Acer Aspire 5100 Driver Download: Complete Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/adaptive3d-joins-desktop-metals-portfolio-company-projects-q1-earnings-at-113m-aims-for-100m-insights-from-zdnet/"><u>Adaptive3D Joins Desktop Metal's Portfolio; Company Projects Q1 Earnings at $11.3M, Aims for $100M - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-hp-officejet-pro-8620-printer-drivers-on-windows-pc/"><u>Download and Update HP OfficeJet Pro 8620 Printer Drivers on Windows PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-download-logitech-c270-webcam-driver-suite-compatible-with-windows-10-and-11-systems/"><u>Easy Download: Logitech C270 Webcam Driver Suite - Compatible with Windows 10 & 11 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722967083012-get-the-latest-hp-officejet-pro-product-model-number-drivers-for-your-pc-now/"><u>Get the Latest HP OfficeJet Pro ([Product Model Number]) Drivers for Your PC Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-updated-epson-workforce-ds-30-driver-for-your-windows-1087-pc-no-hacking-required/"><u>Get the Updated Epson WorkForce DS 30 Driver for Your Windows 10/8/7 PC - No Hacking Required</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-the-most-recent-dell-wifi-driver-step-by-step-guide/"><u>How to Install the Most Recent Dell WiFi Driver - Step by Step Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/intels-latest-patch-for-processor-crashes-msi-asrock-users-can-download-asus-rog-offers-early-access/"><u>Intel's Latest Patch for Processor Crashes: MSI, ASRock Users Can Download; Asus ROG Offers Early Access</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/obtain-new-nvidia-rtx-2060-driver-software-compatible-with-all-windows-os-windows-11-10-8e/"><u>Obtain New NVIDIA RTX 2060 Driver Software - Compatible with All Windows OS (Windows 11, 10, 8/E)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-guide-installing-asus-z370-e-chipset-drivers/"><u>Quick Guide: Installing ASUS Z370-E Chipset Drivers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-10-premier-live-streaming-platforms-a-comparative-guide/"><u>Top 10 Premier Live Streaming Platforms A Comparative Guide</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-the-ultimate-canon-video-editing-handbook-software-tips-and-trends/"><u>Updated The Ultimate Canon Video Editing Handbook Software, Tips, and Trends</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The User-Friendly Approach to Update Lenovo's Energy Control Drivers
-date: 2024-08-19T05:48:17.455Z
-updated: 2024-08-20T05:48:17.455Z
+date: 2025-01-24T02:45:49.297Z
+updated: 2025-01-24T19:33:48.459Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ As its name suggests, a**Lenovo power management driver** is a tiny computer pro
 
  If you are wondering how and where to**update your Lenovo power management driver** , look no further! In this article, we are offering you two options to get it done, in a jiffy.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2 options to update Lenovo Power Management Drivers
 
  There are two ways you can update your Lenovo power management driver in Windows.
@@ -30,6 +34,10 @@ As its name suggests, a**Lenovo power management driver** is a tiny computer pro
 **[Option 2 – Manually](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 1: Update Lenovo power management drivers automatically
 
@@ -45,6 +53,10 @@ As its name suggests, a**Lenovo power management driver** is a tiny computer pro
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-49.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-48.png)
@@ -55,9 +67,6 @@ As its name suggests, a**Lenovo power management driver** is a tiny computer pro
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ### Option 2: Update Lenovo power management drivers manually
 
  Lenovo keeps updating drivers. To get them, you need to go to the Lenovo’s official website, find the drivers corresponding with your specific flavor of Windows version (for example, Windows 32 bit) and download the driver manually.
@@ -72,40 +81,26 @@ Here is a step-by-step walkthrough:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-50-1024x218.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
  3) In the pop-up window, enter the model of your Lenovo laptop and press Enter. (Here Yoga 12 is used as an example)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-51.png)
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) In the**Manual Update** tab, locate**Power Management** and click on it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-52-1024x645.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5) Choose the right driver file to download.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-53.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
  6) Double-click on the downloaded file and follow the on-screen instructions for the driver to install.
 
  7) Restart your computer for the changes to take effect.
@@ -124,8 +119,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -133,4 +126,19 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-apowersoft-screen-recorder-testimony/"><u>[New] 2024 Approved Apowersoft Screen Recorder Testimony</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-superstar-status-secrets-a-step-by-step-plan-for-lightning-fame-on-social-media-giant-instagram-for-2024/"><u>[New] Superstar Status Secrets A Step-by-Step Plan for Lightning Fame on Social Media Giant Instagram for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/effortless-gaming-sessions-on-your-screen-for-2024/"><u>Effortless Gaming Sessions on Your Screen for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722973280516-get-your-hands-on-free-behringer-driver-packs-now/"><u>Get Your Hands on Free Behringer Driver Packs Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-latest-windows-driver-updates-offline-tips-and-tricks/"><u>How to Get Latest Windows Driver Updates Offline: Tips & Tricks</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/intel-centrino-wireless-adapter-6205-free-and-easy-download-for-optimal-performance/"><u>Intel Centrino Wireless Adapter (6205) - Free and Easy Download for Optimal Performance</u></a></li>
+<li><a href="https://fox-links.techidaily.com/pinnacle-portals-high-performance-laptops-for-uhd-videos-for-2024/"><u>Pinnacle Portals High-Performance Laptops for UHD Videos for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-instructions-for-ralink-driver-download-and-update-on-windows-os/"><u>Step-by-Step Instructions for Ralink Driver Download & Update on Windows OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-walkthrough-for-smooth-amd-video-driver-downloads/"><u>The Ultimate Walkthrough for Smooth AMD Video Driver Downloads</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/thermaltakes-massive-laptop-chiller-reviewed-high-performance-comes-with-a-hefty-price-tag/"><u>Thermaltake's Massive Laptop Chiller Reviewed: High Performance Comes with a Hefty Price Tag</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/cribing-online-master-the-art-of-free-youtube-conversion-for-2024/"><u>Transcribing Online Master the Art of Free YouTube Conversion for 2024</u></a></li>
+</ul></div>
 

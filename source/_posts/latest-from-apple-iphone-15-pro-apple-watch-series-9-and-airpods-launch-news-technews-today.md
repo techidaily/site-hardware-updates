@@ -1,7 +1,7 @@
 ---
 title: "Latest From Apple: IPhone 15 Pro, Apple Watch Series 9 & AirPods Launch News | TechNews Today"
-date: 2024-12-19T05:51:44.432Z
-updated: 2024-12-21T20:54:24.465Z
+date: 2025-01-18T03:29:48.757Z
+updated: 2025-01-25T01:18:09.084Z
 tags:
   - laptops
 categories:
@@ -25,10 +25,6 @@ Below, you'll find the best sales and discounts on Apple products, including Mac
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best Apple deals of July 2024
 
@@ -129,10 +125,6 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 
 [View now at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple%2Fnew-ipad-pro-m4%2Fpcmcat1715092665904.c%3Fid%3Dpcmcat1715092665904&publisher_slug=itechdaily19598&exclusive=1) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  More Apple deals
 
 [Walmart: Save up to $1,200 on the new iPhone 15 series View now at Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fcol%2Fnew-iphone&subId1=zd-__COM_CLICK_ID__-dtp)
@@ -165,6 +157,10 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 
 [Discounts for students, teachers, educators at Apple View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fus-edu%2Fstore&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple accessory deals
 
 [Apple Pencil (1st-gen) deal for $79 (save $20) $79 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Pencil-1st-Generation-Adapter%2Fdp%2FB0BJLG69QR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc59f26ff-942b-4436-9faf-236bb5a523b5%7Cdtp&dtb=1)
@@ -180,7 +176,7 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 [Apple Lightning to 3.5 mm headphone jack adapter deal for $8 (save $2) $8 at Walmart](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Lightning-to-3-5-mm-Headphone-Jack-Adapter%2F54738078%3Fathbdg%3DL1103&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can I buy an iPhone without a plan?
@@ -192,7 +188,7 @@ Yes, but you must ensure that your new iPhone is not locked to a specific carrie
 Apple's AirTag, a tracking device that connects to your account and allows you to find lost objects such as your keys, is Apple's cheapest product. Typically, a single AirTag retails for $29, whereas you can also purchase four-packs for around $99 outside of sales and promotions. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is there a monthly fee for Apple iPads?
@@ -202,7 +198,7 @@ This depends on the type of iPad you decide to purchase. If you opt for a Wi-Fi-
 However, if you choose an iPad with Wi-Fi and cellular connectivity, then you will need to pay for a mobile data plan to take advantage of the iPad's cellular features. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How did we choose these Apple deals?
@@ -238,6 +234,10 @@ ZDNET has been scouring the sale to find the best deals by category:
 * [The best iPhone deals](https://www.zdnet.com/article/iphone-deals/)
 * [The best TV deals](https://www.zdnet.com/home-and-office/home-entertainment/tv-deals/)
 * [The best deals under $30](https://www.zdnet.com/home-and-office/deals-under-30/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When will these deals expire?
 
@@ -283,18 +283,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-copyright-definitions-and-implications-in-music/"><u>[New] 2024 Approved Copyright Definitions & Implications in Music</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-gratis-commerce-driven-presentation-templates-ideas/"><u>[New] 2024 Approved Gratis Commerce-Driven Presentation Templates Ideas</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-youtube-to-twitter-share-videos-without-twitting/"><u>[New] 2024 Approved YouTube to Twitter Share Videos Without Twitting</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-choosing-the-right-fps-30-or-60-which-is-better/"><u>[New] Choosing the Right FPS 30 or 60, Which Is Better?</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-precision-in-photograph-preservation-phone-to-snapchat-guide/"><u>[Updated] 2024 Approved Precision in Photograph Preservation Phone to Snapchat Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/asus-wireless-network-drivers-downloads-simple-and-secure-update-process/"><u>ASUS Wireless Network Drivers Downloads: Simple and Secure Update Process</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-logitech-drivers-for-windows-fast-and-simple/"><u>Download Logitech Drivers for Windows - Fast and Simple</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-crafting-compelling-videos-the-instagram-editors-playbook/"><u>In 2024, Crafting Compelling Videos The Instagram Editor's Playbook</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Realme 12 Pro+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/relocate-your-boot-partition-onto-another-disk-in-windows-navigating-through-the-options-with-ease/"><u>Relocate Your Boot Partition Onto Another Disk in Windows Navigating Through the Options with Ease</u></a></li>
-<li><a href="https://win11.techidaily.com/smooth-radeon-driver-transitions-on-new-windows-11-laptops/"><u>Smooth Radeon Driver Transitions on New Windows 11 Laptops</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/updated-broadcom-bluetooth-device-drivers-for-windows-operating-systems-windows-1187/"><u>Updated Broadcom Bluetooth Device Drivers for Windows Operating Systems - Windows 11/8/7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/windows-compatible-logitech-hd-webcam-software-and-drivers-downloads/"><u>Windows Compatible Logitech HD Webcam Software and Drivers Downloads</u></a></li>
+<li><a href="https://techtrends.techidaily.com/apple-updates-and-expert-advice-the-newest-trends-and-tech-insights/"><u>Apple Updates & Expert Advice: The Newest Trends and Tech Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-updated-realtek-audio-management-programs-for-modern-windows-oses/"><u>Download Updated Realtek Audio Management Programs for Modern Windows OSes</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/essential-tips-and-tricks-for-capturing-quality-tracks-in-macos-el-capitan/"><u>Essential Tips and Tricks for Capturing Quality Tracks in MacOS El Capitan</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-and-install-the-best-epson-scanner-software-on-your-pc-today/"><u>Find and Install the Best Epson Scanner Software on Your PC Today</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722968688704-get-your-hands-on-the-latest-m-audio-fast-track-driver-for-windows-users/"><u>Get Your Hands on the Latest M-Audio Fast Track Driver for Windows Users!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-update-or-install-hp-officejet-5740-drivers-on-your-pc-running-windows-11108/"><u>How to Update or Install HP OfficeJet 5740 Drivers on Your PC Running Windows 11/10/8</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-convert-google-meet-chats-into-youtube-livestream-easily/"><u>In 2024, Convert Google Meet Chats Into YouTube Livestream Easily</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamlining-your-experience-live-cricket-viewing-tips/"><u>In 2024, Streamlining Your Experience Live Cricket Viewing Tips</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-tecno-pova-5-pro-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Tecno Pova 5 Pro</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/obtain-your-intel-nvme-driver-software-rapid-and-hassle-free-download-options/"><u>Obtain Your Intel NVMe Driver Software: Rapid and Hassle-Free Download Options</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-realme-gt-5-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Realme GT 5 Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/top-methods-for-securely-downloading-mp3-files-from-rhapsody-onto-your-windows-computer/"><u>Top Methods for Securely Downloading MP3 Files From Rhapsody Onto Your Windows Computer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-ultimate-selection-of-apple-watches-in-depth-analysis-and-expert-insights-gadgetsphere/"><u>Unveiling the Ultimate Selection of Apple Watches : In-Depth Analysis and Expert Insights | GadgetSphere</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/upgrading-effortlessly-with-a-focus-on-key-lens-features/"><u>Upgrading Effortlessly with a Focus on Key Lens Features</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/validity-fingerprint-sensor-driver-installed-in-minutes-start-here/"><u>Validity Fingerprint Sensor Driver Installed in Minutes – Start Here</u></a></li>
 </ul></div>
 

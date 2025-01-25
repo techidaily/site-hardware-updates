@@ -1,7 +1,7 @@
 ---
 title: "Bulk Up Your Storage with a Steep Discount: Get the 8TB Samsung T5 at Amazon for 36%% Less After Prime Day | ZDNET"
-date: 2025-01-14T17:13:22.206Z
-updated: 2025-01-18T18:09:59.057Z
+date: 2025-01-23T02:15:31.799Z
+updated: 2025-01-25T03:22:43.319Z
 tags:
   - laptops
 categories:
@@ -28,7 +28,7 @@ With a truly impressive amount of storage space, you'll get read and write speed
 Along with great read and write speeds and more reliable data transfers, the [Samsung T5 Evo](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Portable-External-MU-PH8T0S-AM%2Fdp%2FB0CMDGGJTZ%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C2d460d9b-c08e-42f0-88ee-8dd732741921%7Cdtp&dtb=1) also features 256-bit AES encryption to keep your personal data and sensitive information safe from unauthorized access. Its outer casing is drop- and shock-resistant and can withstand falls up to six feet, making it perfect for on-location photographers and other mobile professionals who need a tough storage drive for offloading raw photos from camera storage or transferring important projects and documents between their home office and mobile work location. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -65,22 +65,16 @@ While the Amazon listing for the Samsung T5 Evo portable SSD does not have a cou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/updated-iphone-techniques-crafting-striking-silhouettes/"><u>[Updated] IPhone Techniques Crafting Striking Silhouettes</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-pro-broadcast-hardware-for-seamless-livestreams/"><u>2024 Approved Pro Broadcast Hardware for Seamless Livestreams</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-the-clandestine-way-exploring-insta-stories-on-tech-devices/"><u>2024 Approved The Clandestine Way Exploring Insta Stories on Tech Devices</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/advanced-techniques-to-harness-power-of-telnet-command-line-interface-on-windows/"><u>Advanced Techniques to Harness Power of Telnet Command Line Interface on Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-nvidia-quadro-drivers-for-windows-11-latest-compatible-versions-and-installation-guide/"><u>Download Nvidia Quadro Drivers for Windows 11: Latest Compatible Versions and Installation Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-atheros-driver-software-for-your-windows-system-installed-easily/"><u>Get the Latest Atheros Driver Software for Your Windows System Installed Easily</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-install-the-newest-toshiba-bluetooth-drivers-step-by-step-guide/"><u>How to Install the Newest Toshiba Bluetooth Drivers: Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-obtain-the-most-recent-usb-to-hdmi-drivers-instructions-guide/"><u>How to Obtain the Most Recent USB to HDMI Drivers - Instructions Guide</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Apple iPhone SE | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/instant-setup-how-to-get-and-install-the-epson-et-4550-driver-for-pcs/"><u>Instant Setup: How to Get & Install the Epson ET-4550 Driver for PCs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/no-hassle-comprehensive-guide-to-refresh-lenovo-ideapad-100s-device-drivers/"><u>No Hassle! Comprehensive Guide to Refresh Lenovo IdeaPad 100S Device Drivers</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/sing-your-heart-out-in-the-us-with-budget-friendly-karaoke-packages/"><u>Sing Your Heart Out in the US with Budget-Friendly Karaoke Packages</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/srt-to-subtitles-subc-practical-steps-for-conversion/"><u>SRT to Subtitles (SUBC) Practical Steps for Conversion</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-complete-tutorial-for-easy-sata-driver-installation-and-upgrade-for-windows-users/"><u>The Complete Tutorial for Easy SATA Driver Installation & Upgrade for Windows Users</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/ultimate-guide-vidma-replayer-insights-and-rivals-for-2024/"><u>Ultimate Guide Vidma Replayer - Insights & Rivals for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-now-the-efficient-way-to-install-new-surface-dock-driver/"><u>Update Now! The Efficient Way to Install New Surface Dock Driver</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-audiophiles-guide-selecting-the-best-soundtracks-that-complement-visual-storytelling-for-2024/"><u>Updated Audiophiles Guide Selecting the Best Soundtracks that Complement Visual Storytelling for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-canva-skills-purging-images-of-their-surroundings-for-2024/"><u>[New] Canva Skills Purging Images of Their Surroundings for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-maximizing-your-designs-with-free-clip-art/"><u>[New] Maximizing Your Designs with FREE Clip Art</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-obs-vs-shadowplay-which-recording-tool-takes-the-prize/"><u>[Updated] In 2024, OBS Vs ShadowPlay Which Recording Tool Takes the Prize?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-radeon-vega-64-graphics-card-driver-downloads-and-updates-guide-for-windows-users/"><u>AMD Radeon Vega 64 Graphics Card Driver Downloads & Updates: Guide for Windows Users</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/delving-into-macos-montereys-features/"><u>Delving Into macOS Monterey's Features</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-latest-nvidia-drivers-for-rtx-nvidia-2080-supports-win11-win7-and-win8/"><u>Download the Latest NVIDIA Drivers for RTX nVidia 2080 - Supports Win11, Win7 & Win8</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-access-to-complimentary-driver-downloads-for-your-hp-speakers-and-microphones/"><u>Easy Access to Complimentary Driver Downloads for Your HP Speakers & Microphones</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-setup-how-to-download-and-install-epson-wf-7710-printer-drivers-for-various-windows-versions/"><u>Easy Setup: How to Download and Install Epson WF-7710 Printer Drivers for Various Windows Versions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamless-microsoft-sculpt-keyboard-driver-installation-instructions/"><u>Seamless Microsoft Sculpt Keyboard Driver Installation Instructions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-problems-in-the-latest-game-update/"><u>Troubleshooting Audio Problems in the Latest Game Update</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unveiling-the-potential-a-complete-walkthrough-and-review-of-the-advanced-samsung-gear-s3-frontier-wrist-device/"><u>Unveiling the Potential: A Complete Walkthrough and Review of the Advanced Samsung Gear S3 Frontier Wrist Device</u></a></li>
 </ul></div>
 

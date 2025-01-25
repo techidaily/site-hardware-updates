@@ -1,7 +1,7 @@
 ---
 title: "[Solved] Update Synaptics PS/2 Port TouchPad Drivers Quickly & Easily"
-date: 2024-08-19T05:48:13.207Z
-updated: 2024-08-20T05:48:13.207Z
+date: 2025-01-23T22:14:12.814Z
+updated: 2025-01-25T02:53:38.110Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ OR
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Option 1: Automatically update your  
 
  Synaptics PS/2 Port Touchpad driver (recommended)
@@ -49,6 +53,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-227.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note:** you can do it for free if you like, but it’s partly manual.
 
  If you have any problems when using Driver Easy to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
@@ -59,12 +67,13 @@ OR
 
  If you feel like updating your Synaptics PS/2 Port Touchpad driver manually, here’s the simple and useful guide for you.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Update your driver via official websites
 
  Synaptics have made an announcement on their official website that the corresponding drivers for TouchPad devices are “customized and supported by notebook manufacturers to meet specific driver requirements for their individual products.” So if you want to download the driver from official websites and then install it by yourself, you’ll need to visit the site of your notebook manufacturer. For instance, if you’re using a Dell laptop, you should go directly to Dell’s website and download the driver from it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Update your driver via Device Manager
 
@@ -76,40 +85,32 @@ Here’re the steps to update your driver via Device Manager:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap13.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Here comes the window of**Device Manager** . Double-click on the**Mice and other pointing devices** category to expand its drop-down list. Then right-click**Synaptics PS/2 Port Touchpad** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-230.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) In the context menu of Synaptics PS/2 Port Touchpad, select**Update driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-231.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
  4) Click**Search automatically for updated driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-232.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5) Wait till the download and installation process finishes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-233.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-234.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  6) Click **Close** when it’s all done.
 
  7) Now your driver has been updated by Windows successfully. Don’t forget to restart your computer for the changes to take effect even if you’re not asked to.
@@ -127,8 +128,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -136,4 +135,20 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-thors-bold-path-asgard-reborn/"><u>[Updated] In 2024, Thor’s Bold Path Asgard Reborn</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-navigating-the-floating-window-technology-in-netflix/"><u>[Updated] Navigating The Floating Window Technology in Netflix</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-standout-moments-of-snowspeedcross-22-for-2024/"><u>[Updated] Standout Moments of Snowspeedcross '22 for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/addressing-the-problem-of-missing-dts-sound-support-in-selected-output-hardware/"><u>Addressing the Problem of Missing DTS Sound Support in Selected Output Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-compatible-logitech-racing-wheel-software-for-your-windows-7810-pc/"><u>Download Compatible Logitech Racing Wheel Software for Your Windows 7/8/10 PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-overcome-compatibility-woes-solving-the-realtek-alc887-sound-driver-issue-on-windows/"><u>How to Overcome Compatibility Woes: Solving the Realtek ALC887 Sound Driver Issue on Windows</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-itel-a05s-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Itel A05s</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-from-studio-to-stage-stream-your-mp3-tunes-on-youtube/"><u>In 2024, From Studio to Stage Stream Your MP3 Tunes on YouTube</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-panasonics-hx-a1-wearable-cam-examined-a-detailed-review/"><u>In 2024, Panasonic’s HX-A1 Wearable Cam Examined - A Detailed Review</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/obs-vs-shadowplay-the-ultimate-showdown-for-gamers/"><u>OBS vs ShadowPlay The Ultimate Showdown for Gamers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/speed-up-your-iphone-now-with-these-6-troubleshooting-steps/"><u>Speed Up Your iPhone Now with These 6 Troubleshooting Steps</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-beginners-guide-how-to-use-voice-changer-plus-on-your-iphone-in-2024/"><u>Updated Beginners Guide How to Use Voice Changer Plus on Your iPhone, In 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/zero-cost-downloads-of-updated-asus-audio-chipset-driver-packs-available-now/"><u>Zero-Cost Downloads of Updated Asus Audio Chipset Driver Packs Available Now!</u></a></li>
+</ul></div>
 

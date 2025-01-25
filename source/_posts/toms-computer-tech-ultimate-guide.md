@@ -1,7 +1,7 @@
 ---
 title: "Tom's Computer Tech: Ultimate Guide"
-date: 2024-08-19T05:48:36.406Z
-updated: 2024-08-20T05:48:36.406Z
+date: 2025-01-21T00:18:30.262Z
+updated: 2025-01-25T00:40:24.043Z
 tags:
   - cpu
 categories:
@@ -31,6 +31,10 @@ Every new AMD generation seems to bring newly broken world records, and the dawn
 
  Ryzen 9 9950X’s performance boosts over the 7950X are nothing to scoff at. While some overclocking headroom is lost over the 7950X, AMD’s own[benchmarks](https://www.tomshardware.com/tag/benchmark) and[recent leaked tests in the wild](https://www.tomshardware.com/pc-components/cpus/amds-new-zen-5-flagship-gets-benchmarked-ryzen-9-9950x-engineering-sample-isnt-as-impressive-in-blender-at-maximum-power-settings) show a 30% increase in performance for the same wattage. For more details from Zen 5 Tech Day about the entire Granite Ridge lineup and Strix Point,[see our full coverage of the event](https://www.tomshardware.com/pc-components/cpus/amd-deep-dives-zen-5-ryzen-9000-and-strix-point-cpu-rdna-35-gpu-and-xdna-2-architectures) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -39,14 +43,11 @@ Every new AMD generation seems to bring newly broken world records, and the dawn
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -55,8 +56,26 @@ Every new AMD generation seems to bring newly broken world records, and the dawn
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-infuse-vibrancy-mastering-music-integration-in-social-media-videos/"><u>[New] In 2024, Infuse Vibrancy Mastering Music Integration in Social Media Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-minutes-to-quality-the-stepwise-conversion-of-youtube-shorts/"><u>[Updated] In 2024, From Minutes to Quality The Stepwise Conversion of YouTube Shorts</u></a></li>
+<li><a href="https://facebook.techidaily.com/bridging-gaps-facebook-and-instagram-now-tighter-linked/"><u>Bridging Gaps: Facebook & Instagram Now Tighter Linked</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-driver-pack-for-intel-wi-fi-6-ax200-on-your-pc-windows-1110/"><u>Download & Update Driver Pack for Intel Wi-Fi 6 AX200 on Your PC (Windows 11/10)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-your-epson-v600-driver-today/"><u>Download & Update Your Epson V600 Driver Today</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effectively-dealing-with-microsoft-defenders-heavy-cpu-load-in-windows-11/"><u>Effectively Dealing with Microsoft Defender's Heavy CPU Load in Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/epson-workforce-ds-30-driver-download-for-windows-1187/"><u>Epson WorkForce DS 30 Driver Download for Windows 11/8/7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/essential-guide-installing-and-updating-hp-spectre-x360-drivers-on-windows/"><u>Essential Guide: Installing & Updating HP Spectre X360 Drivers on Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-stuck-hp-keyboard-keys-instantly-troubleshooting-guide/"><u>Fix Stuck HP Keyboard Keys Instantly - Troubleshooting Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-gigabyte-gc-wb867d-motherboard-utility-software-and-drivers/"><u>Free Gigabyte GC-WB867D Motherboard Utility Software & Drivers</u></a></li>
+<li><a href="https://fox-place.techidaily.com/how-to-successfully-reformat-raw-external-hard-drives-expert-tips-and-tricks/"><u>How to Successfully Reformat Raw External Hard Drives - Expert Tips & Tricks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-ethernet-driver-downloads-optimized-for-windows-1178-systems/"><u>HP Ethernet Driver Downloads: Optimized for Windows 11/7/8 Systems</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-apple-iphone-13-mini-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your Apple iPhone 13 mini</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-google-pixel-fold-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Google Pixel Fold Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-complete-walkthrough-to-activate-your-psn-account/"><u>The Complete Walkthrough to Activate Your PSN Account</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-and-resolving-synaptics-touchpad-driver-conflicts-in-windows-10/"><u>Troubleshooting and Resolving Synaptics Touchpad Driver Conflicts in Windows 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-fixes-for-startech-device-issues-on-microsoft-windows-11-8-and-7/"><u>Ultimate Fixes for StarTech Device Issues on Microsoft Windows 11, 8 & 7</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/understanding-the-pros-and-cons-of-lenovos-economical-tab-4-tablet/"><u>Understanding the Pros and Cons of Lenovo's Economical Tab 4 Tablet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-instructions-for-samsung-usb-drivers-in-mobile-devices/"><u>Update Instructions for Samsung USB Drivers in Mobile Devices</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->

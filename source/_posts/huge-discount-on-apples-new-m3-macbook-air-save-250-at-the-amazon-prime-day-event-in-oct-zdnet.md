@@ -1,7 +1,7 @@
 ---
 title: Huge Discount on Apple's New M3 MacBook Air - Save $250 at the Amazon Prime Day Event in Oct | ZDNet
-date: 2025-01-14T19:15:21.377Z
-updated: 2025-01-18T17:00:32.275Z
+date: 2025-01-20T19:10:51.517Z
+updated: 2025-01-24T22:19:53.569Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Jason Hiner/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the deal?
@@ -31,7 +31,7 @@ The Apple [M3 MacBook Pro 14"](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FU
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -59,7 +59,7 @@ In addition, with up to 22 hours of battery life, the M3 improves on previous ve
 The [M3 MacBook Pros](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CM5JLWJK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb12ee2ea-4d7b-4e84-84d3-0702024ae9c4%7Cdtp&dtb=1) come in three iconic colors of silver, space gray, and space black, with the all-aluminum body designed to resist scratches and dents, adding to the line's durable reputation. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -98,18 +98,15 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-secrets-to-effective-vr-game-playback/"><u>[Updated] 2024 Approved Secrets to Effective VR Game Playback</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/1-pro-version-of-horizon-ai-with-enhanced-chakra-ui-and-nextjs-by-creative-tim/"><u>1. Pro Version of Horizon AI with Enhanced Chakra UI and NextJS by Creative Tim</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/n-wizards-perfect-templates-for-gaming-channel-logos-for-2024/"><u>Design Wizards Perfect Templates for Gaming Channel Logos for 2024</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/el-metodo-optimal-para-transferir-un-imagen-de-volumen-dinamico-al-disco-solido-en-3-pases/"><u>El Método Optimal Para Transferir Un Imagen De Volumen Dinámico Al Disco Sólido en 3 Pases</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-guide-solving-compatibility-issues-with-the-realtek-rtl8811au-device-drivers/"><u>Expert Guide: Solving Compatibility Issues with the Realtek RTL8811AU Device Drivers</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/exploring-high-definition-sw320-4k-monitor-experience/"><u>Exploring High Definition Sw320 4K Monitor Experience</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-fetch-and-set-up-updated-drivers-for-your-hp-officejet-pro-6970-on-windows/"><u>How to Fetch and Set Up Updated Drivers for Your HP OfficeJet Pro 6970 on Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/microsofts-most-recent-bluetooth-driver-updates-and-downloads-optimized-for-win-11win-10win-8win-7-users/"><u>Microsoft's Most Recent Bluetooth Driver Updates & Downloads - Optimized for Win 11/Win 10/Win 8/Win 7 Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/public-input-is-vital-for-creating-spaces-that-meet-community-needs/"><u>Public Input Is Vital for Creating Spaces that Meet Community Needs.</u></a></li>
-<li><a href="https://article-helps.techidaily.com/the-best-in-class-evaluating-the-top-8-sub-to-srt-convertors/"><u>The Best in Class Evaluating the Top 8 Sub to SRT Convertors</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/there-are-five-classes-of-fire-based-on-fuel-type-a-b-c-d-and-k/"><u>There Are Five Classes of Fire Based on Fuel Type: A, B, C, D, and K</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/unveiling-the-syma-x5c-a-beginners-prime-drone-choice-for-2024/"><u>Unveiling the Syma X5C A Beginner’s Prime Drone Choice for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-top-rated-tiktok-watermark-remover-tools-online/"><u>Updated Top Rated TikTok Watermark Remover Tools Online</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-spotlight-on-recent-unfollows-on-instagram/"><u>[New] 2024 Approved Spotlight on Recent Unfollows on Instagram</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-premiere-pro-a-launchpad-for-youtube-videos/"><u>[New] In 2024, Premiere Pro A Launchpad for YouTube Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-simplifying-typeface-addition-for-enhanced-creativity-in-ae/"><u>[Updated] Simplifying Typeface Addition for Enhanced Creativity in AE</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/gaming-setup-essentials-top-picks-for-monitors-tuned-to-ps5-and-xbox-series-players/"><u>Gaming Setup Essentials: Top Picks for Monitors Tuned to PS5 and Xbox Series Players</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-hands-on-a-high-quality-156-ips-monitor-at-an-all-time-low-only-6599-save-big-today/"><u>Get Your Hands on a High-Quality 15.6 IPS Monitor at an All-Time Low: Only $65.99, Save Big Today!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/gratuit-verbeteren-van-rar-naar-bmp-formaat-onlinerenformatie-met-movavi/"><u>Gratuit Verbeteren Van RAR Naar BMP Formaat - Onlinerenformatie Met Movavi</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-secure-download-of-killer-gigabit-ethernet-card-drivers-e2200/"><u>How To: Secure Download of Killer Gigabit Ethernet Card Drivers (E2200)</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-get-ready-to-be-amazed-the-best-4k-video-clips/"><u>In 2024, Get Ready to Be Amazed The Best 4K Video Clips</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/in-depth-reviews-at-toms-technology-corner-your-guide-to-hardware-and-software/"><u>In-Depth Reviews at Tom's Technology Corner: Your Guide to Hardware and Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-hardware-with-tom-comprehensive-guidance/"><u>Mastering Hardware with Tom: Comprehensive Guidance</u></a></li>
 </ul></div>
 

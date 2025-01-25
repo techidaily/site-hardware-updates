@@ -1,7 +1,7 @@
 ---
 title: Unbeatable Savings on Top-Rated Gaming Speaker System, Up to 60%% Off at Amazon | ZDNET News
-date: 2024-12-05T21:03:32.591Z
-updated: 2024-12-06T16:33:21.997Z
+date: 2025-01-23T17:02:53.299Z
+updated: 2025-01-24T16:50:07.797Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Taylor Clemons/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET takeaways
@@ -75,7 +75,7 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -87,7 +87,7 @@ And if you're simply looking for a reliable set of PC speakers, the [Arena 3](ht
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does this deal expire?
@@ -124,16 +124,20 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-top-7-best-fmovie-alternatives2023-updates/"><u>[New] 2024 Approved Top 7 Best Fmovie Alternatives[2023 Updates]</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-expert-tips-on-softening-volume-in-logic-pro-mixes/"><u>[New] Expert Tips on Softening Volume in Logic Pro Mixes</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-ranked-10-best-low-cost-user-friendly-passport-photo-services/"><u>[New] Ranked 10 Best Low-Cost, User-Friendly Passport Photo Services</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-surveying-the-lack-of-diversity-s-vr-realm-for-2024/"><u>[New] Surveying the Lack of Diversity 'S VR Realm for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722955740258-boost-your-msi-gs65-experience-free-download-of-optimized-windows-drivers-here/"><u>Boost Your MSI GS65 Experience - Free Download of Optimized Windows Drivers Here</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/fast-and-simple-driver-update-for-your-acer-predator-xb271h-display/"><u>Fast & Simple Driver Update for Your Acer Predator XB271H Display</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/fast-and-simple-guide-downloading-dell-latitude-e6420-device-drivers/"><u>Fast and Simple Guide: Downloading Dell Latitude E6420 Device Drivers</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-or-malfunctioning-hardware-drivers-with-windows-device-manager-on-windows-10-and-7-by-drivereasy-guide/"><u>How to identify missing or malfunctioning hardware drivers with Windows Device Manager on Windows 10 & 7</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-channel-upgrade-plans-standard-studio-or-beta-revolution/"><u>In 2024, Channel Upgrade Plans Standard Studio or Beta Revolution</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/keep-your-data-analysis-tools-updated-download-and-update-sas-driver-in-windows-10-or-older-versions/"><u>Keep Your Data Analysis Tools Updated - Download & Update SAS Driver in Windows 10 or Older Versions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-securing-fresh-updates-and-downloads-for-your-amd-ati-radeon-hd-3450/"><u>Ultimate Guide: Securing Fresh Updates & Downloads for Your AMD ATI Radeon HD 3450</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-cutting-edge-tools-for-igtv-content-creation-and-editing/"><u>[Updated] Cutting-Edge Tools for IGTV Content Creation and Editing</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-the-quick-and-painless-podcast-go-live-technique/"><u>[Updated] The Quick and Painless Podcast Go Live Technique</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-a-closer-look-at-immersive-virtual-reality-tech/"><u>2024 Approved A Closer Look at Immersive Virtual Reality Tech</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-five-star-sierra-video-processing-tools/"><u>2024 Approved Five-Star Sierra Video Processing Tools</u></a></li>
+<li><a href="https://win-blog.techidaily.com/arcadegeddon-pc-performance-optimized-say-no-more-frequent-crashes/"><u>Arcadegeddon PC Performance Optimized: Say No More Frequent Crashes!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722972311973-boost-your-system-speed-with-a-simple-click-get-the-new-lexar-usb-driver-now/"><u>Boost Your System Speed with a Simple Click - Get the New Lexar USB Driver Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-huion-tablet-drivers-on-windows-easy-guide/"><u>Download and Install Huion Tablet Drivers on Windows - Easy Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-install-download-your-intel-thunderbolt-driver-today/"><u>Effortless Install: Download Your Intel Thunderbolt Driver Today</u></a></li>
+<li><a href="https://article-helps.techidaily.com/expert-guide-selecting-the-ideal-sites-and-techniques-for-trimming-tamil-melodies/"><u>Expert Guide Selecting the Ideal Sites & Techniques for Trimming Tamil Melodies</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-download-and-set-up-the-epson-xp-400-driver-easy-steps-for-beginners/"><u>How To Download & Set Up The Epson XP 400 Driver - Easy Steps For Beginners</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-everything-to-know-about-apple-id-password-requirements-for-apple-iphone-8-plus-by-drfone-ios/"><u>In 2024, Everything To Know About Apple ID Password Requirements For Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mainstream-non-k-cpus-affected-by-critical-instability-no-fix-planned-impact-on-high-performance-series-revealed/"><u>Mainstream 'Non-K' CPUs Affected by Critical Instability, No Fix Planned - Impact on High-Performance Series Revealed</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maximize-efficiency-with-an-amd-ryzen-7-9700x-overclocked-to-58ghz-and-cooled-by-innovative-aio-liquid-technology-revealing-a-hidden-talent-for-6-ghz-idle.m42/"><u>Maximize Efficiency with an AMD Ryzen 7 #9700X: Overclocked to 5.8GHz and Cooled by Innovative AIO Liquid Technology; Revealing a Hidden Talent for 6 GHz Idle</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/simplify-the-fraction-if-possible-in-this-case-both-20-and/"><u>Simplify the Fraction if Possible. In This Case, Both -20 And</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/top-10-timeless-family-adventures-on-screen-this-season-for-2024/"><u>Top 10 Timeless Family Adventures on Screen This Season for 2024</u></a></li>
 </ul></div>
 

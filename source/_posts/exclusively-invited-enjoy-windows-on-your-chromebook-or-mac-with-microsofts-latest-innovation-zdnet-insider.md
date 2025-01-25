@@ -1,7 +1,7 @@
 ---
 title: "Exclusively Invited: Enjoy Windows on Your Chromebook or Mac with Microsoft's Latest Innovation | ZDNet Insider"
-date: 2025-01-14T18:10:29.898Z
-updated: 2025-01-18T16:06:27.796Z
+date: 2025-01-22T21:13:37.701Z
+updated: 2025-01-24T20:14:33.250Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ That's right. Apple said the "A" word, and it's not being shy about it, as my af
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Apple is _officially_ in the AI PC race
@@ -55,7 +55,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 Apple also wants you to know that it's _been_ in the [AI PC race](https://www.zdnet.com/article/what-is-an-ai-pc-and-should-you-buy-one/) since the very beginning, with just about every Mac model now carrying neural engines for machine learning. The new MacBook Air is "the best consumer laptop for AI," the company touts in its Monday press release, but we'll have to see for ourselves when we put the 13- and 15-inch models through the wringer soon.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. I can finally recommend the Midnight color
@@ -67,7 +67,7 @@ AI aside, there is one subtle design change to the new MacBooks that I really di
 Considering how easy it was to get smudges and marks on the original Midnight color of the MacBook Air -- which made lighter hue options look like rockstars -- this is a welcome change. Having fumbled with the MacBooks for a quick 10-minute photo-op, the fingerprints were noticeable, though not as bad as I remembered on the M2 Air. For me, this makes the Midnight variant recommendable again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Dual-monitor support is a bigger deal than it seems
@@ -110,16 +110,24 @@ All in all, the changes to the newest line of MacBook Air feel subtle on paper b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-bridge-gaps-in-distance-mastering-xbox-one-zooming-for-2024/"><u>[New] Bridge Gaps in Distance Mastering Xbox One Zooming for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-streamer-profitability-analysis-and-verification/"><u>[New] In 2024, Streamer Profitability Analysis and Verification</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-a-laugh-away-in-time-the-goofy-movie-remastered/"><u>[Updated] A Laugh Away in Time The 'Goofy Movie' Remastered</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-ions-pro-3-vision-cutting-edge-action-video-recording/"><u>[Updated] ION's Pro 3 Vision Cutting-Edge Action Video Recording</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-advice-how-to-find-and-install-the-latest-acer-aspire-drivers-in-a-windows-environment/"><u>Expert Advice: How to Find and Install the Latest Acer Aspire Drivers in a Windows Environment</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-download-ultimate-guide-to-installing-the-latest-killer-e2500-gigabit-ethernet-controllers/"><u>Free Download: Ultimate Guide to Installing the Latest Killer E2500 Gigabit Ethernet Controllers</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Apple iPhone SE (2020) | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722961491603-install-current-drivers-for-gigabytes-z370-pcie-atx-board-do-it-now/"><u>Install Current Drivers for Gigabyte's Z370 PCIe ATX Board - Do It Now</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/obtaining-the-latest-logitech-mk710-software-secure-your-downloads-today/"><u>Obtaining the Latest Logitech MK710 Software: Secure Your Downloads Today</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-ultimate-guide-fix-your-unresponsive-facetime-connection-with-these-simple-6-steps/"><u>The Ultimate Guide: Fix Your Unresponsive FaceTime Connection with These Simple 6 Steps</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/windows-11-v2004-upgrade-made-easy-using-conexant-drivers/"><u>Windows 11 v2004 Upgrade Made Easy Using Conexant Drivers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-how-to-record-iptv-screen/"><u>[Updated] 2024 Approved How to Record IPTV Screen</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-farm-family-bonding-the-ultimate-agritainment-guide-for-2024/"><u>[Updated] Farm Family Bonding The Ultimate Agritainment Guide for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-unveiling-anonymous-access-to-instagram-story-content-on-desktopstablets-and-smartphones-no-cost-for-2024/"><u>[Updated] Unveiling Anonymous Access to Instagram Story Content on Desktops/Tablets & Smartphones (No Cost) for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-exciting-launch-of-asuss-latest-rog-evangelion-series-featuring-asuka/"><u>Discover the Exciting Launch of ASUS's Latest ROG Evangelion Series Featuring Asuka</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-top-hardware-with-toms-gadget-guides/"><u>Discover Top Hardware with Tom's Gadget Guides</u></a></li>
+<li><a href="https://facebook.techidaily.com/from-friendster-to-meta-facebooks-revolutionary-path/"><u>From Friendster to Meta: Facebook's Revolutionary Path</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-xiaomi-redmi-note-12-proplus-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Xiaomi Redmi Note 12 Pro+ 5G Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-vivo-v27e-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Vivo V27e</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/marathon-system-builder-event-in-quarter-1-of-2016-analyzing-product-worth/"><u>Marathon System Builder Event in Quarter 1 of 2016: Analyzing Product Worth</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-highlight-video-makers/"><u>New Best Highlight Video Makers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/nuc-12-extreme-unveiled-by-intel-integrates-advanced-alder-lake-s-processor-sockets-for-ultimate-power-efficiency/"><u>NUC 12 Extreme Unveiled by Intel, Integrates Advanced Alder Lake-S Processor Sockets for Ultimate Power Efficiency</u></a></li>
+<li><a href="https://win11.techidaily.com/reactivating-vanished-windows-steam-games/"><u>Reactivating Vanished Windows Steam Games</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resurgence-alert-pc-market-projected-to-boost-with-a-robust-8-increase-in-shipments-by-2024/"><u>Resurgence Alert! PC Market Projected to Boost with a Robust 8% Increase in Shipments by 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-exploring-the-latest-in-computer-components/"><u>Tom's Tech Insights: Exploring the Latest in Computer Components</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-unveiling-the-latest-in-computer-components/"><u>Tom's Tech Insights: Unveiling the Latest in Computer Components</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/unraveling-the-magic-of-time-extension-in-reels-for-2024/"><u>Unraveling the Magic of Time Extension in Reels for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-latest-in-gadgets-with-toms-hardware-guides/"><u>Unveiling the Latest in Gadgets with Tom's Hardware Guides</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-secrets-of-high-performance-computing-with-toms-reviews/"><u>Unveiling the Secrets of High-Performance Computing with Tom's Reviews</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-xiaomi-redmi-k70e-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Xiaomi Redmi K70E Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 

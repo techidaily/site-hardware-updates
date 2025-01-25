@@ -1,7 +1,7 @@
 ---
 title: "Exploring Tom's Tech: In-Depth Guides and Reviews | Tom's Hardware"
-date: 2024-08-19T04:11:18.756Z
-updated: 2024-08-20T04:11:18.756Z
+date: 2025-01-18T22:40:12.149Z
+updated: 2025-01-24T23:50:18.952Z
 tags:
   - raspberry-pi
 categories:
@@ -39,6 +39,10 @@ Pineboards, formerly known as Pineberry Pi, has released several HAT modules (in
 
  The Pineboards Ai Bundle is a bottom-mounted HAT and includes a PCIe FPC cable as well as all-metal screws and spacers for mounting the card. The Ai Bundle retails for 90 euros ($97.47) on Pineboard’s website. US readers can also pickup a board directly from[Amazon](https://tools.techidaily.com) . The company is also working with its European and South Korean distributors, The Pi Hut (U.K.), Welectron (Germany), Botland (Poland, Germany, Czech Republic) and Devicemart (South Korea).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -53,8 +57,6 @@ Pineboards, formerly known as Pineberry Pi, has released several HAT modules (in
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -62,8 +64,24 @@ Pineboards, formerly known as Pineberry Pi, has released several HAT modules (in
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-cooking-chronicles-video-production-insights/"><u>[Updated] 2024 Approved Cooking Chronicles Video Production Insights</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-instagrams-roadmap-to-fame-unlocking-the-power-of-9-tactics/"><u>2024 Approved Instagram's Roadmap to Fame Unlocking the Power of #9 Tactics</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/approach-recall-the-classic-triad-for-diagnosis/"><u>Approach: Recall the Classic Triad for Diagnosis.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/compatible-hp-officejet-3830-drivers-available-for-windows-systems/"><u>Compatible HP OfficeJet 3830 Drivers Available for Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-slow-computer-wake-up-the-complete-window-11-startup-guide/"><u>Conquering Slow Computer Wake-Up: The Complete Window 11 Startup Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/efficient-zoom-functionality-for-chromebooks-for-2024/"><u>Efficient Zoom Functionality for ChromeBooks for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/essential-tips-for-keeping-your-windows-1110-wi-fi-drivers-up-to-date/"><u>Essential Tips for Keeping Your Windows 11/10 Wi-Fi Drivers Up to Date</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-logitech-m525-mouse-drivers-and-installation-files-quick-guide/"><u>Free Logitech M525 Mouse Drivers & Installation Files: Quick Guide</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/gesunde-tipps-fur-die-einfache-wiederherstellung-von-daten-auf-einem-schadensversatztem-windows-os/"><u>Gesunde Tipps Für Die Einfache Wiederherstellung Von Daten Auf Einem Schadensversatztem Windows OS</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-iphone-6s-plus-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your iPhone 6s Plus</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-factory-unlock-your-telstra-apple-iphone-7-by-drfone-ios/"><u>In 2024, How To Factory Unlock Your Telstra Apple iPhone 7</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-top-5-zoom-transcribing-tools-free-and-paid-options/"><u>In 2024, Top 5 Zoom Transcribing Tools Free & Paid Options</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-hp-deskjet-3755-all-in-one-printer-driver-download-for-windows-11-8-7/"><u>Latest HP DeskJet 3755 All-in-One Printer Driver Download for Windows 11, 8, 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-the-best-virtual-shops-for-cutting-edge-television-deals/"><u>Navigating the Best Virtual Shops for Cutting-Edge Television Deals</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/panduan-memasang-nvme-ssd-klon-dalam-komputer-tiga-langkah-utama/"><u>Panduan Memasang NVMe SSD Klon Dalam Komputer: Tiga Langkah Utama</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-review-your-guide-to-the-latest-in-computer-hardware/"><u>Tom's Tech Review - Your Guide to the Latest in Computer Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-tech-secrets-toms-guide-to-computer-hardware/"><u>Unveiling Tech Secrets: Tom's Guide to Computer Hardware</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

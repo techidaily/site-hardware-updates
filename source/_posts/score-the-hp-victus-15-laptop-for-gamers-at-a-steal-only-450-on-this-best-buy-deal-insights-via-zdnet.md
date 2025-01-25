@@ -1,7 +1,7 @@
 ---
 title: Score The HP Victus #15 Laptop for Gamers at a Steal – Only $450 on This Best Buy Deal | Insights via ZDNET
-date: 2025-01-17T17:29:29.538Z
-updated: 2025-01-18T17:28:59.720Z
+date: 2025-01-17T18:43:47.299Z
+updated: 2025-01-24T18:06:06.240Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,18 +63,20 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-meme-making-maven-the-tale-of-jake-pauls-youtube-triumph/"><u>[New] 2024 Approved Meme-Making Maven The Tale of Jake Paul's Youtube Triumph</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-unleashing-creativity-full-scale-review-of-toolwizs-photography-app/"><u>[New] 2024 Approved Unleashing Creativity Full-Scale Review of Toolwiz's Photography App</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-non-proprietary-serene-tunes/"><u>[Updated] Non-Proprietary Serene Tunes</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-photo-editing-in-minutes-pixlr-quick-hacks/"><u>2024 Approved Mastering Photo Editing in Minutes Pixlr Quick Hacks</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/compact-powerhouse-an-in-depth-look-at-the-new-microsoft-surface-laptop-go/"><u>Compact Powerhouse: An In-Depth Look at the New Microsoft Surface Laptop Go</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/cookiebot-enhanced-unleashing-personalized-web-experiences/"><u>Cookiebot-Enhanced: Unleashing Personalized Web Experiences</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-newest-nvidia-gpu-drivers-for-rtx-1650-super-running-on-windows-os/"><u>Get the Newest NVIDIA GPU Drivers for RTX™ 1650 SUPER Running on Windows OS</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-download-and-install-newest-drivers-for-hp-officejet-5255/"><u>How to Download & Install Newest Drivers for HP OfficeJet #5255</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-efficiently-manage-and-update-microsoft-drivers-in-windows-10-8-and-earlier-editions/"><u>How to Efficiently Manage and Update Microsoft Drivers in Windows 10, 8, and Earlier Editions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-get-canon-ip110-printer-drivers-on-your-windows-machine-supports-win11-win10-win8-and-win7/"><u>How to Get Canon IP110 Printer Drivers on Your Windows Machine (Supports Win11, Win10, Win8 & Win7)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-update-your-lenovo-thunderbolt-3-portable-hub-firmware/"><u>How to Update Your Lenovo Thunderbolt 3 Portable Hub Firmware</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/improve-your-hp-z440-computer-performance-with-the-newest-driver-versions-free/"><u>Improve Your HP Z440 Computer Performance with the Newest Driver Versions (Free)</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-infinix-smart-8-plus-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Infinix Smart 8 Plus Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-navigating-apples-podcast-submission-requirements-clearly/"><u>[New] 2024 Approved Navigating Apple's Podcast Submission Requirements Clearly</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unleash-your-inner-star-bold-steps-for-youtube-success/"><u>[Updated] Unleash Your Inner Star Bold Steps for YouTube Success</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amazing-deal-gigabyte-aorus-oled-gaming-monitor-now-at-all-time-low-just-969/"><u>Amazing Deal: Gigabyte Aorus OLED Gaming Monitor Now at All-Time Low - Just $969!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/aocs-newest-marvel-the-agon-pro-ag456uczd-a-gamers-review-of-the-spectacular-45-ultrawide-extreme-curve-oled-monitor-with-superior-speed-and-design-innovati56/"><u>AOC's Newest Marvel: The Agon Pro AG456UCZD - A Gamer's Review of the Spectacular 45 UltraWide, Extreme Curve OLED Monitor with Superior Speed & Design Innovation</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ng-the-cord-on-costs-select-best-free-yt-title-makers-for-2024/"><u>Cutting the Cord on Costs - Select Best-Free YT Title Makers for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/free-cam-software-roundup-innovation-at-your-fingertips/"><u>Free Cam Software Roundup Innovation at Your Fingertips</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Asus ROG Phone 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-essential-strategies-for-effective-content-management-in-creator-studio/"><u>In 2024, Essential Strategies for Effective Content Management in Creator Studio</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-ghostly-horizons-video-tech-update/"><u>In 2024, Ghostly Horizons Video Tech Update</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-nokia-g22-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Nokia G22 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862789486-introducing-vaios-game-changing-portable-monitor-the-worlds-lightest-screen-weighing-only-072-pounds/"><u>Introducing Vaio's Game-Changing Portable Monitor - The World’s Lightest Screen, Weighing Only 0.72 Pounds!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862837764-save-big-on-innocns-27-240hz-ips-gaming-display-quality-and-affordability-at-199/"><u>Save Big on Innocn's 27 240Hz IPS Gaming Display - Quality and Affordability at $199</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/tips-to-overcome-mute-in-obs-streaming-for-2024/"><u>Tips to Overcome Mute in OBS Streaming for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862833971-ultimate-guide-to-the-aoc-agon-pro-ag456uczd-top-rated-45-ultrawide-oled-gamers-dream-display-with-incredible-speed-and-design/"><u>Ultimate Guide to the AOC Agon Pro AG456UCZD - Top Rated 45 Ultrawide OLED Gamer's Dream Display with Incredible Speed & Design</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862797779-ultrawide-revolution-with-samsungs-premium-oled-at-an-all-time-price-drop-shave-off-60-now/"><u>UltraWide Revolution with Samsung's Premium OLED at an All-Time Price Drop - Shave Off $60 Now!</u></a></li>
 </ul></div>
 

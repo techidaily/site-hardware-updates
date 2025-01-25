@@ -1,7 +1,7 @@
 ---
 title: "Live the Microsoft Surface & Windows Artificial Intelligence Unveiling - ZDNet: Insights & Anticipated Innovations"
-date: 2024-12-16T22:22:39.152Z
-updated: 2024-12-21T19:20:43.656Z
+date: 2025-01-23T02:29:20.781Z
+updated: 2025-01-25T01:34:54.925Z
 tags:
   - laptops
 categories:
@@ -31,7 +31,7 @@ Because AI tasks that run locally on a PC are typically executed by the CPU (cen
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### User requirements remain focused on hybrid work
@@ -69,7 +69,7 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -81,7 +81,7 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -134,18 +134,17 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-elite-8-android-multiparty-conferencing-solutions-for-2024/"><u>[New] Elite 8 Android Multiparty Conferencing Solutions for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-enhancing-browser-usability-with-pip-in-chrome-for-2024/"><u>[New] Enhancing Browser Usability with PIP in Chrome for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-zebra-printer-software-on-windows-pc/"><u>Download & Install Zebra Printer Software on Windows PC</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-upgrade-to-the-newest-asus-dvd-drivers-enhanced-performance-guaranteed/"><u>Download and Upgrade to the Newest ASUS DVD Drivers – Enhanced Performance Guaranteed</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-latest-acer-display-drivers-free-and-official/"><u>Download the Latest Acer Display Drivers: Free and Official</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722959237227-get-your-gigabyte-speakers-up-and-running-free-drivers-now/"><u>Get Your Gigabyte Speakers Up and Running - Free Drivers Now</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-samsung-galaxy-a15-5g-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Samsung Galaxy A15 5G FRP Locks</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Infinix Note 30 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-perfectly-pivoted-videos-the-ultimate-android-editing-guide/"><u>In 2024, Perfectly Pivoted Videos The Ultimate Android Editing Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-kinemaster-usage-and-top-alternative-platforms/"><u>In 2024, The Ultimate Guide to KineMaster Usage and Top Alternative Platforms</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-review-of-oneplus-9-pros-style-speed-and-cutting-edge-camcorder-setup/"><u>In-Depth Review of OnePlus 9 Pro's Style, Speed and Cutting-Edge Camcorder Setup</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-update-of-canon-lbp-690b-printer-software-compatible-with-windows-os/"><u>Step-by-Step Update of Canon LBP 690B Printer Software Compatible with Windows OS</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722969268997-updated-version-of-hp-designjet-500-drivers-now-available-for-free/"><u>Updated Version of HP DesignJet 500 Drivers - Now Available for Free</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-funnies-in-a-flash-top-10-quick-and-quirky-video-concepts-for-youtubers/"><u>[New] 2024 Approved Funnies in a Flash Top 10 Quick & Quirky Video Concepts for YouTubers</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-pivot-points-revolutionize-your-youtube-angles-with-ease/"><u>[Updated] In 2024, Pivot Points Revolutionize Your YouTube Angles with Ease</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-grainy-greyscale-to-dynamic-highs-a-complete-hdr-conversion/"><u>2024 Approved From Grainy Greyscale to Dynamic Highs A Complete HDR Conversion</u></a></li>
+<li><a href="https://win-top.techidaily.com/automatisation-de-la-sauvegarde-des-e-mails-dans-microsoft-outlook-sur-un-disque-dur/"><u>Automatisation De La Sauvegarde Des E-Mails Dans Microsoft Outlook Sur Un Disque Dur</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-steps-to-download-and-upgrade-toshiba-laptop-hardware-drivers-in-windows-environment/"><u>Easy Steps to Download and Upgrade Toshiba Laptop Hardware Drivers in Windows Environment</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-logitech-devices-running-smoothly-with-a-quick-windows-driver-download/"><u>Get Your Logitech Devices Running Smoothly with a Quick Windows Driver Download</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-huawei-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Huawei Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://win11.techidaily.com/1719374553725-new-era-of-connectivity-windows-for-iphones-ipads-and-pcs-just-dropped/"><u>New Era of Connectivity: Windows for iPhones, iPads and PCs Just Dropped</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/secure-amds-latest-ryzen-9000-processors-for-less-exclusive-deals-available-only-at-best-buy/"><u>Secure AMD's Latest Ryzen 9000 Processors for Less: Exclusive Deals Available Only at Best Buy</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-vivo-y100t-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Vivo Y100t Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-to-newest-version-of-pl23n-serial-converter-drivers-on-pcs-with-windows-os/"><u>Update to Newest Version of PL23n Serial Converter Drivers on PCs with Windows OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-logitech-g905s-tournament-edition-with-the-latest-firmware-on-windows/"><u>Update Your Logitech G905s Tournament Edition with the Latest Firmware on Windows</u></a></li>
 </ul></div>
 

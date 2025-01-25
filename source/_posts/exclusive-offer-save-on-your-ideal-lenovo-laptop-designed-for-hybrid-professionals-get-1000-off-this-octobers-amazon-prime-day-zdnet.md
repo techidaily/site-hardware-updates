@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Offer: Save on Your Ideal Lenovo Laptop Designed for Hybrid Professionals - Get $1,000 Off This October's Amazon Prime Day! | ZDNet"
-date: 2025-01-11T16:44:45.624Z
-updated: 2025-01-18T17:15:31.327Z
+date: 2025-01-19T01:06:03.227Z
+updated: 2025-01-24T16:14:21.912Z
 tags:
   - laptops
 categories:
@@ -42,7 +42,7 @@ This laptop isn't solely for business professionals, though. It's well-rounded e
 Right now is the best time to buy the [Lenovo Gen 12 ThinkPad X1 Carbon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D1D5J1J1%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3714981f-3a77-4004-9f5f-505a32073051%7Cdtp&dtb=1) since it's currently on sale at Amazon for $1,520 -- nearly $1,000 off the original price. I should also mention that there is a variant of the laptop with a 2.8K OLED display, which is the model [I tested back in February](https://www.zdnet.com/article/the-thinkpad-i-recommend-for-hybrid-workers-is-not-lenovos-newest-model/). The [OLED version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D5SNKGZ4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3714981f-3a77-4004-9f5f-505a32073051%7Cdtp&dtb=1) is much more expensive, but I recommend it as an alternative if you can afford it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -79,15 +79,20 @@ At the time of this writing, it is the second day of Amazon's October Prime Day 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-updates.techidaily.com/brother-mfc-l2740dw-compatible-windows-drivers-download-links-here/"><u>Brother MFC-L2740DW: Compatible Windows Drivers Download Links Here</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-update-dell-latitude-e6430-drivers-comprehensive-guide-for-windows/"><u>Download and Update Dell Latitude E6430 Drivers: Comprehensive Guide for Windows</u></a></li>
-<li><a href="https://win-lab.techidaily.com/effortless-guide-to-restoring-lost-skype-conversations/"><u>Effortless Guide to Restoring Lost Skype Conversations</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722971728729-hassle-free-downloads-and-updates-for-amds-smbus-driver-do-it-today/"><u>Hassle-Free Downloads & Updates for AMD's Smbus Driver: Do It Today</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Motorola Moto G23 | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-download-the-latest-drivers-for-your-canon-mg2900-printer/"><u>How to Download the Latest Drivers for Your Canon MG2900 Printer</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/laughlens-engine/"><u>LaughLens Engine</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/real-time-aspect-adaptation-for-designers-for-2024/"><u>Real-Time Aspect Adaptation for Designers for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-ultimate-techniques-for-tweaking-removing-and-creating-key-values-in-the-registry/"><u>The Ultimate Techniques for Tweaking, Removing and Creating Key Values in the Registry</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-all-about-kapwing-video-translation/"><u>Updated 2024 Approved All About Kapwing Video Translation</u></a></li>
+<li><a href="https://facebook.techidaily.com/1719154568975-blockchain-beast-zuckerbergs-fanciful-pet-moniker/"><u>'Blockchain Beast': Zuckerberg's Fanciful Pet Moniker</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-streamline-your-watching-enabling-youtube-autoplay-in-facebook-feeds/"><u>[Updated] In 2024, Streamline Your Watching Enabling YouTube Autoplay in Facebook Feeds</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-visual-storytelling-explore-the-top-15-luts-enhancing-gopro-clips-for-2024/"><u>[Updated] Visual Storytelling Explore the Top 15 LUTs Enhancing GOPRO Clips for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-top-8-proven-video-growth-and-promotion-strategies/"><u>2024 Approved Top 8 Proven Video Growth & Promotion Strategies</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-horizon-zero-dawn-pc-playability-addressing-and-correcting-game-faults/"><u>Fixing Horizon Zero Dawn PC Playability: Addressing and Correcting Game Faults</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-pc-specs-with-toms-hardware-advice/"><u>Mastering PC Specs with Tom's Hardware Advice</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maxsuns-latest-creation-a-unique-reverse-slot-design-for-mini-itx-motherboards/"><u>Maxsun's Latest Creation: A Unique Reverse Slot Design for Mini-ITX Motherboards</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigate-your-next-tech-purchase-trustworthy-advice-from-toms-hardware/"><u>Navigate Your Next Tech Purchase: Trustworthy Advice From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-the-world-of-electronics-through-toms-hardware-knowledge/"><u>Navigating the World of Electronics Through Tom's Hardware Knowledge</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-the-world-of-electronics-trustworthy-advice-from-toms-hardware/"><u>Navigating the World of Electronics: Trustworthy Advice From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-the-world-of-gadgets-guidance-from-toms-hardware/"><u>Navigating the World of Gadgets - Guidance From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-through-high-performance-tech-tips-from-toms-hardware-hub/"><u>Navigating Through High-Performance Tech: Tips From Tom's Hardware Hub</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/removing-read-only-tags-from-windows-documents/"><u>Removing Read-Only Tags From Windows Documents</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-persistent-load-issues-in-discord-streaming/"><u>Resolving Persistent Load Issues in Discord Streaming</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210416000-9781638445777-to-kill-the-firstborn/"><u>To Kill the Firstborn | Free Book</u></a></li>
 </ul></div>
 

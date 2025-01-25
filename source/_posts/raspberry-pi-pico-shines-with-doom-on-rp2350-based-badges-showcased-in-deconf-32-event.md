@@ -1,7 +1,7 @@
 ---
 title: Raspberry Pi Pico Shines with Doom on RP2350-Based Badges Showcased in Deconf 32 Event
-date: 2024-08-19T04:10:52.810Z
-updated: 2024-08-20T04:10:52.810Z
+date: 2025-01-22T21:55:12.606Z
+updated: 2025-01-24T21:59:05.860Z
 tags:
   - raspberry-pi
 categories:
@@ -35,6 +35,10 @@ If you've ever seen the movie_Big_ , you might have wondered what it's like to p
 
  Plans are in the works to add a 3D head to move and add a visual representation for the Voltara fortune teller. If you want to get a closer look at this[Raspberry Pi project](https://tools.techidaily.com) in action, you can check it out over at Kevin McAleer's official[YouTube channel](https://www.youtube.com/watch?v=dWFgN%5FA%5FI1w) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -49,8 +53,6 @@ If you've ever seen the movie_Big_ , you might have wondered what it's like to p
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -58,8 +60,19 @@ If you've ever seen the movie_Big_ , you might have wondered what it's like to p
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-attracting-eyes-with-these-6-video-genres/"><u>[New] In 2024, Attracting Eyes with These 6 Video Genres</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-masterclass-in-connecting-ig-and-tiktok/"><u>[Updated] In 2024, Masterclass in Connecting IG & TikTok</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-the-art-of-zoom-etiquette-secrets-to-polite-and-productive-online-chats/"><u>2024 Approved The Art of Zoom Etiquette Secrets to Polite and Productive Online Chats</u></a></li>
+<li><a href="https://fox-links.techidaily.com/close-up-magic-avoiding-distance-blur-on-videoleap/"><u>Close-Up Magic Avoiding Distance Blur on Videoleap</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-guide-to-downloading-and-installing-your-hp-m452dn-printer-drivers-correctly/"><u>Complete Guide to Downloading & Installing Your HP M452dn Printer Drivers Correctly</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-your-gaming-with-the-logitech-momo-steering-wheel-drivers-on-pc/"><u>Enhance Your Gaming with the Logitech MOMO Steering Wheel Drivers on PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fast-and-simple-guide-downloading-the-latest-asus-touchpad-drivers-compatible-with-windows-11/"><u>Fast and Simple Guide: Downloading the Latest ASUS Touchpad Drivers Compatible with Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-put-iphone-15-pro-max-or-ipad-on-recovery-mode-step-by-step-tutorial-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Put iPhone 15 Pro Max or iPad on Recovery mode? (Step by Step Tutorial) | Stellar</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-firmware-update-enhance-your-windows-experience-with-logitech-k810-keyboard-features/"><u>Latest Firmware Update: Enhance Your Windows Experience with Logitech K810 Keyboard Features</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/mac-snapshot-strategies-revealed-the-top-5-innovative-approaches-for-2024/"><u>Mac Snapshot Strategies Revealed The Top 5 Innovative Approaches for 2024</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/missing-page-error-file-not-retrieved-code-404/"><u>Missing Page Error – File Not Retrieved (Code #404)</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-when-qbittorrent-halts-unexpectedly/"><u>Troubleshooting Steps When qBittorrent Halts Unexpectedly</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->

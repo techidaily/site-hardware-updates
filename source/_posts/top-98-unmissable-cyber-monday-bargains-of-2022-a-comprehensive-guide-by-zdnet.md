@@ -1,7 +1,7 @@
 ---
 title: Top 98 Unmissable Cyber Monday Bargains of 2022 - A Comprehensive Guide by ZDNet
-date: 2024-12-15T22:17:12.433Z
-updated: 2024-12-21T19:14:16.403Z
+date: 2025-01-17T23:49:26.298Z
+updated: 2025-01-24T17:28:26.651Z
 tags:
   - laptops
 categories:
@@ -31,7 +31,7 @@ ZDNET editors have been tracking the [best Cyber Monday 2022 sales](https://www.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Latest Cyber Monday deals still available**
@@ -152,10 +152,6 @@ Amazon
 * [Google Nest Hub Max](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://store.google.com/config/google%5Fnest%5Fhub%5Fmax?hl=en-US) for $164 (save $65) at Google
 * [Blink Outdoor 3 cam kit](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBlink-Outdoor-bundle-Echo-Show%2Fdp%2FB08ZN97SWW%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4bdb7b78-405e-4b44-97a2-872fe6e19e09%7Cdtp&dtb=1) for $160 (save $175) at Amazon
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Best Cyber Monday streaming deals**
 
 Streaming gives you the best options for entertainment, customizable to your preferences and budget. The Cyber Monday deals below encompass streaming subscriptions to services like YouTube Premium and Apple TV, smart TVs with streaming capabilities, and streaming devices that will transform the TV you have into one compatible with your favorite services. 
@@ -168,6 +164,10 @@ Sherin Shibu
 
 * [Roku Express HD Streaming Device](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRoku-Express-Streaming-Device-High-Speed%2Fdp%2FB0BCH5H2R3%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4bdb7b78-405e-4b44-97a2-872fe6e19e09%7Cdtp&dtb=1) for $18 (save $12) at Amazon
 * [Apple TV HD 32GB](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-TV-HD-32GB-2nd-Generation%2F525801397&subId1=zd-__COM_CLICK_ID__-dtp) for $59 (save $40) at Walmart
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Best Cyber Monday headphone deals**
 
@@ -188,6 +188,10 @@ Sony
 * [Soundcore Sleep A10 Earbuds](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsoundcore-sleep-a10-earbuds-white%2F6517223.p%3FskuId%3D6517223&publisher_slug=itechdaily19598&exclusive=1) for $130 (save $50) at Best Buy
 * [Sony WH-CH510 wireless headphones](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSony-WH-CH510-Wireless-Headphones-WHCH510%2Fdp%2FB07WSKKYPR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4bdb7b78-405e-4b44-97a2-872fe6e19e09%7Cdtp&dtb=1) for $38 (save $22) at Amazon
 * [Beats Fit Pro](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fbeats-by-dr-dre-beats-fit-pro-true-wireless-noise-cancelling-in-ear-earbuds-black%2F6397391.p%3F&publisher_slug=itechdaily19598&exclusive=1) for $180 (save $20) at Best Buy
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Best Cyber Monday smartphone deals**
 
@@ -219,7 +223,7 @@ Apple
 * [Samsung Galaxy Watch 5 Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B2HXJZ98%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4bdb7b78-405e-4b44-97a2-872fe6e19e09%7Cdtp&dtb=1) for $399 (save $49) at Amazon
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Best Cyber Monday speaker deals**
@@ -243,7 +247,7 @@ Target
 * [JBL PartyBox 100 High Power Portable Wireless Bluetooth Speaker](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FJBL-PartyBox-100-High-Power-Portable-Wireless-Bluetooth-Speaker-Black%2F691892469%3F&subId1=zd-__COM_CLICK_ID__-dtp) for $199 (save $100) at Walmart
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **More Cyber Monday tech deals**
@@ -270,6 +274,10 @@ June Wan
 * [Blink Outdoor weather-resistant camera kit](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB086DKGCFP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4bdb7b78-405e-4b44-97a2-872fe6e19e09%7Cdtp&dtb=1) for $190 (save $190) at Amazon
 * [Aventure Step-Over Ebike](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Faventon-aventure-step-over-ebike-w-45-mile-max-operating-range-and-28-mph-max-speed-socal-sand%2F6487148.p%3FskuId%3D6487148&publisher_slug=itechdaily19598&exclusive=1) for $1,700 (save $300) at Best Buy
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How did we choose these deals?
 
 ZDNET editors have experience tracking prices and hunting down deals 365 days a year. Take a peek at our Deals hub -- we know how to find bargains. Our process starts by identifying the hottest and most popular products of the year, whether it's the AirPods or the latest iPad, and then we conduct a painstaking process that involves checking major retailers and others you may have never heard about (but are still trusted stores). 
@@ -286,10 +294,6 @@ We've shopped online just as much as you, but we're experts at finding tech deal
 
 Black Friday takes place every year on the day after Thanksgiving. This year, Black Friday 2022 fell on Friday, Nov. 25\. But, honestly, Black Friday is no longer just a 24-hour event. It's morphed into weeks of early bird deals, doorbusters, and even sales that start in October. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## When was Cyber Monday 2022?
 
 Black Friday and Cyber Monday are synonymous with big sales that kick off the holiday shopping season. While Black Friday deals started in October this year and can include brick-and-mortar stores and online retailers, Cyber Monday sales are primarily online and can extend Black Friday an entire week -- ultimately turning into Cyber Week. Cyber Monday is always the Monday after Thanksgiving, so this year it falls on Nov. 28.
@@ -301,6 +305,10 @@ ZDNET scoured Cyber Monday sales to find the best deals this year, and many are 
 * [The best Cyber Monday 2022 deals](https://www.zdnet.com/article/best-cyber-monday-deals-still-available-november-30-2022/)
 
 Our experts split out the best deals by retailer, brand, and category, which you can see below. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Cyber Monday deals still available by retailer**
 
@@ -317,10 +325,6 @@ Our experts split out the best deals by retailer, brand, and category, which you
 * [The best Cyber Monday 2022 Samsung deals](https://www.zdnet.com/article/samsung-cyber-monday-deals-still-available-november-30-2022/)
 * [The best Cyber Monday 2022 Dell deals](http://zdnet.com/article/dell-cyber-monday-deals-still-available-november-30-2022/)
 * [The best Cyber Monday 2022 HP deals](https://www.zdnet.com/home-and-office/hp-cyber-monday-deals-still-available-november-30-2022/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Cyber Monday deals still available by category**
 
@@ -347,10 +351,6 @@ Our experts split out the best deals by retailer, brand, and category, which you
  Here are some of the cheapest deals we found that are still available:
 
 * [The best Cyber Monday 2022 deals under $30](https://www.zdnet.com/home-and-office/best-cyber-monday-deals-under-30-still-available-november-30-2022/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Cyber Monday live blog deals still available**
 
@@ -398,17 +398,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-essential-image-collections-the-best-macbook-wallpaper-packs/"><u>[New] 2024 Approved Essential Image Collections The Best MacBook Wallpaper Packs</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-keep-your-views-covert-with-these-tools-for-2024/"><u>[New] Keep Your Views Covert with These Tools for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-teachers-handbook-building-a-successful-youtube-channel-10-must-dos/"><u>[Updated] In 2024, Teachers' Handbook Building a Successful YouTube Channel – 10 Must-Dos</u></a></li>
-<li><a href="https://apple-account.techidaily.com/3-ways-of-how-to-get-someones-apple-id-off-iphone-12-pro-without-password-by-drfone-ios/"><u>3 Ways of How to Get Someones Apple ID Off iPhone 12 Pro without Password</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/boost-your-gameplay-with-updated-drivers-for-the-dell-g3-laptop/"><u>Boost Your Gameplay with Updated Drivers for the Dell G3 Laptop</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/create-unforgettable-dvds-the-ultimate-movie-making-software-guide/"><u>Create Unforgettable DVDs The Ultimate Movie Making Software Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-latest-epson-wf-2760-printer-driver-for-windows-11-10-and-8-get-started-today/"><u>Download the Latest Epson WF-2760 Printer Driver for Windows 11, 10 & 8 – Get Started Today</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-solving-disconnected-media-issues-on-windows-systems/"><u>Expert Advice: Solving Disconnected Media Issues on Windows Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/forgotten-sd-cards-reclaim-and-repair-them/"><u>Forgotten SD Cards? Reclaim & Repair Them</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-guide-install-and-update-dell-latitude-e6430-drivers-on-windows-no-more-issues/"><u>Free Guide: Install and Update Dell Latitude E6430 Drivers on Windows - No More Issues</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-newest-drivers-for-your-hp-deskjet-ink-advantage-3830e-free-download/"><u>Get the Newest Drivers for Your HP Deskjet Ink Advantage 3830E - Free Download</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-version-of-amd-radeon-pro-w5700-driver-ready-for-windows-download-now-windows-11107/"><u>Latest Version of AMD Radeon Pro W5700 Driver Ready for Windows: Download Now (Windows 11/10/7)</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-clearing-up-black-screens-in-youtube-playback/"><u>[New] 2024 Approved Clearing Up Black Screens in YouTube Playback</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-speed-up-video-playback-in-powerpoint/"><u>[New] How to Speed Up Video Playback in PowerPoint</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-from-genres-to-gems-building-a-personalized-youtube-music-mix-onlinemobile/"><u>[New] In 2024, From Genres to Gems Building a Personalized YouTube Music Mix Online/Mobile</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-seamless-media-magic-turning-xml-ssa-into-dynamic-srts/"><u>[New] The Seamless Media Magic Turning XML, SSA Into Dynamic SRTs</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-optimal-online-stream-setup-the-vlc-methodology-for-2024/"><u>[Updated] Optimal Online Stream Setup The VLC Methodology for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-radeon-rx-470-secure-download-of-latest-graphics-card-driver-updates-made-simple/"><u>AMD Radeon RX 470 - Secure Download of Latest Graphics Card Driver Updates Made Simple</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210260160-9788194752073-be-the-smarter-you-your-app-store-for-success-happiness/"><u>Be the Smarter You: Your App Store for Success & Happiness | Free Book</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-toshiba-dynabook-driver-software-on-windows/"><u>Download & Update Toshiba Dynabook Driver Software on Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-advice-overcoming-logitech-f710-driver-issues-on-pcs-running-windows-os/"><u>Expert Advice: Overcoming Logitech F710 Driver Issues on PCs Running Windows OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-logitech-rx250-mouse-software-downloads-for-windows-7-8-and-10/"><u>Free Logitech RX250 Mouse Software Downloads for Windows 7, 8 & 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-canon-scanner-and-printer-drivers-for-windows-at-no-cost/"><u>Get the Latest Canon Scanner & Printer Drivers for Windows at No Cost!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722978361928-get-the-newest-drivers-for-your-microsoft-surface-book-2-in-just-a-few-minutes/"><u>Get the Newest Drivers for Your Microsoft Surface Book 2 in Just a Few Minutes</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-oneplus-11-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on OnePlus 11 5G Devices</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-factory-unlock-your-telstra-apple-iphone-13-pro-max-by-drfone-ios/"><u>How To Factory Unlock Your Telstra Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-deskjet-2755e-driver-download-guide-compatible-with-all-windows-versions/"><u>HP Deskjet 2755E Driver Download Guide: Compatible with All Windows Versions</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/retrieve-missing-onedrive-documents-a-guide-to-restoration-using-eight-effective-methods/"><u>Retrieve Missing OneDrive Documents: A Guide to Restoration Using Eight Effective Methods</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-windows-compatible-thunderbolt-graphics-card-drivers-free-download/"><u>Top Rated Windows-Compatible Thunderbolt Graphics Card Drivers - Free Download</u></a></li>
 </ul></div>
 

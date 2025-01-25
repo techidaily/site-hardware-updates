@@ -1,7 +1,7 @@
 ---
 title: Pocket Z Redefines Retro Tech with Raspberry Pi Zero 2W Core - A Modern Take on the Iconic Pocket PC Form Factor
-date: 2024-08-19T04:11:07.101Z
-updated: 2024-08-20T04:11:07.101Z
+date: 2025-01-21T23:00:11.366Z
+updated: 2025-01-24T17:04:24.705Z
 tags:
   - raspberry-pi
 categories:
@@ -43,6 +43,10 @@ The cool thing about single-board computers like the[Raspberry Pi](https://tools
 
  If you want to get a closer look at this[Raspberry Pi project](https://tools.techidaily.com) in action, check it out over at[YouTube](https://www.youtube.com/watch?v=nJNDy8Mfk90) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -57,8 +61,6 @@ The cool thing about single-board computers like the[Raspberry Pi](https://tools
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -66,8 +68,22 @@ The cool thing about single-board computers like the[Raspberry Pi](https://tools
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-streamlined-steps-wearable-opens-mac-gadget/"><u>[New] Streamlined Steps Wearable Opens Mac Gadget</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-lecture-audio-recording-techniques-for-mac-users/"><u>[Updated] 2024 Approved Lecture Audio Recording Techniques for Mac Users</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ideal-steadicams-for-capturing-quality-uav-visuals/"><u>[Updated] Ideal Steadicams for Capturing Quality UAV Visuals</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-next-gen-editing-experience-reviewed-magix-video-pro-x/"><u>[Updated] Next-Gen Editing Experience Reviewed Magix Video Pro X</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-tailoring-your-streamlabs-obs-experience-for-2024/"><u>[Updated] Tailoring Your Streamlabs OBS Experience for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/crafting-the-perfect-auditory-package-for-boxings/"><u>Crafting the Perfect Auditory Package For Boxings</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-smooth-running-sm-bus-controllers-on-any-window-os-versions-111087/"><u>Download and Install Smooth-Running SM Bus Controllers on Any Window OS (Versions 11/10/8/7)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-toshiba-bluetooth-driver/"><u>Download Toshiba Bluetooth Driver</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-most-out-of-your-epson-xp-330-the-ultimate-driver-download-guide/"><u>Get the Most Out of Your Epson XP-330: The Ultimate Driver Download Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-tailoring-your-linkedin-url/"><u>In 2024, Tailoring Your LinkedIn URL</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-your-new-amd-rx-6800-xt-driver-downloads-for-windows-111087-users/"><u>Installing Your New AMD RX 6800 XT - Driver Downloads for Windows 11/10/8/7 Users</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/quick-guide-how-to-seamlessly-transfer-and-clone-windows-server-2012-onto-a-new-ssd/"><u>Quick Guide: How to Seamlessly Transfer and Clone Windows Server 2012 Onto a New SSD</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-to-obtaining-your-bcm2-growers-driver-for-pc-user-friendly-download-process/"><u>Step-by-Step Guide to Obtaining Your BCM2 Grower's Driver for PC | User-Friendly Download Process</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-updating-your-samsung-phones-usb-drivers/"><u>Step-by-Step Guide: Updating Your Samsung Phone's USB Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/thinkpad-thunderbolt-3-connector-driver-recent-upgrade-info/"><u>ThinkPad Thunderbolt 3 Connector Driver - Recent Upgrade Info</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

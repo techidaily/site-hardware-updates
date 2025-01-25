@@ -1,7 +1,7 @@
 ---
 title: Improve Your Gameplay on a Dell Vostro 640 - Update GPU Drivers Now
-date: 2024-08-19T05:49:28.340Z
-updated: 2024-08-20T05:49:28.340Z
+date: 2025-01-19T22:50:34.478Z
+updated: 2025-01-25T01:42:05.001Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/6504740a985b93f1ab7ddf2a2493507fc4e1a65d7
 
  By updating the drivers of your Surface to the latest version, you can not only keep your Surface in good condition but also avoid many unexpected computer issues.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **There are two methods to download & update the drivers for your Surface:**
 
 [**Method 1 – Automatically:**](https://tools.techidaily.com/drivereasy/download/) This option is much quicker and easier. All you need to do is just a couple of mouse clicks!
@@ -28,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/6504740a985b93f1ab7ddf2a2493507fc4e1a65d7
 **Or**
 
 [**Method 2 – Manually:**](https://tools.techidaily.com/drivereasy/download/)  You can download and update the drivers for your Surface by yourself. This requires some time, patience, and sometimes even computer skills.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: Download and update the drivers for your Surface automatically
 
@@ -43,9 +51,6 @@ thumbnail: https://thmb.techidaily.com/6504740a985b93f1ab7ddf2a2493507fc4e1a65d7
  You can do it for free if you like, but it’s partly manual.  
  If you need assistance, please contact**Driver Easy’s support team** at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2: Download and update the drivers for your Surface manually
 
  You can download the updated driver files manually from the official website of Microsoft. Then install them on your Surface on your own. Here is how to do it:
@@ -56,31 +61,29 @@ thumbnail: https://thmb.techidaily.com/6504740a985b93f1ab7ddf2a2493507fc4e1a65d7
 2. On the top of the web page, click**Support** to go to**Microsoft Support** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap728.png)
 3. In the search bar, type**Download drivers and firmware for Surface** and click**the search button** .  
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap729.png)
 4. In the list of search results, click the link**Download drivers and firmware for Surface** (usually the first link). You’ll be redirected to a new web page.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap730-1.png)
 5. Scroll down until you see the model of your Surface  . Then click its drivers download link to continue. You’ll be redirected to the Download Center details page for your Surface.  
+
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap731.png)
 6. Click **Download**  .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap732.png)
 7. To update your Surface with the latest drivers and firmware,   **select the .msi file name that matches your operating system version** . Then click **Next**  to start downloading.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap733.png)  
  For example, if you’re using Surface Book 2 and the build of Windows 10 you’ve installed is build 17763, you should select**SurfaceBook2\_Win10\_17763\_1805009\_0.msi** . If you’re not sure about the version of Windows 10 you’ve installed, go to**Start** \>**Settings** \>**System** \>**About** to view**the OS Build number** .
 8. Double-click the downloaded file and follow the on-screen instructions to install its drivers.
@@ -96,8 +99,6 @@ Please leave your comment below if you have any questions or suggestions.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -105,4 +106,24 @@ Please leave your comment below if you have any questions or suggestions.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-discover-8-fantastic-websites-offering-free-3d-text-psdfiles/"><u>[New] In 2024, Discover 8 Fantastic Websites Offering Free 3D Text PSDFiles</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-channel-transformation-with-strategic-use-of-youtube-outros/"><u>[Updated] Channel Transformation with Strategic Use of YouTube Outros</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-content-strategy-mastery-selecting-top-rank-trackers-uncovered-for-2024/"><u>[Updated] Content Strategy Mastery - Selecting Top Rank Trackers Uncovered for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-how-to-effortlessly-capture-mac-screenshots/"><u>[Updated] How to Effortlessly Capture Mac Screenshots</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-unveiling-the-premier-5-web-titlers-shaping-industry-norms/"><u>[Updated] In 2024, Unveiling the Premier 5 Web Titlers Shaping Industry Norms</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-revolutionize-online-speech-discover-the-best-chrome-extensions-for-change/"><u>[Updated] Revolutionize Online Speech Discover the Best Chrome Extensions for Change</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-engagement-mastery-expert-driven-online-courses/"><u>AI Engagement Mastery: Expert-Driven Online Courses</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/compatibility-guide-for-the-corsair-h115i-rgb-platinum-gpu-with-modern-windows-systems/"><u>Compatibility Guide for the Corsair H115i RGB PLATINUM GPU with Modern Windows Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-solutions-to-tackle-driver-problems-of-the-80211ac-realtek-rtl8821ae-network-adapter-for-enhanced-wifi-performance/"><u>Expert Solutions to Tackle Driver Problems of the 802.11Ac Realtek RTL8821ae Network Adapter for Enhanced WiFi Performance</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722964798538-fatigue-testing-is-crucial-for-determining-the-safe-operating-limits-of-components-subjected-to-fluctuating-loads/"><u>Fatigue Testing Is Crucial for Determining the Safe Operating Limits of Components Subjected to Fluctuating Loads</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-update-hp-pagewide-pro-477dw-drivers-for-latest-windows-operating-systems-win11108/"><u>Free Update: HP PageWide Pro 477DW Drivers for Latest Windows Operating Systems (Win11/10/8)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-securely-update-and-download-toshiba-laptop-driver-packages-for-windows-devices/"><u>How to Securely Update and Download Toshiba Laptop Driver Packages for Windows Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-upgrade-your-logitech-c92n-webcam-driver-for-enhanced-performance-in-windows-11108/"><u>How to Upgrade Your Logitech C92n Webcam Driver for Enhanced Performance in Windows 11/10/8</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/solution-methods-to-maintain-adequate-humidity-include-using-wet-coverings-plastic-sheeting-or-mist-sprayers-these-techniques-help-retain-moisture-around-th331/"><u>Solution: Methods to Maintain Adequate Humidity Include Using Wet Coverings, Plastic Sheeting, or Mist Sprayers. These Techniques Help Retain Moisture Around the Concrete and Prevent Premature Drying that Can Weaken Its Structure.</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-troubleshooting-guide-to-improve-lag-issues-and-increase-fps-on-watch-dogs-legion/"><u>Step-by-Step Troubleshooting Guide to Improve Lag Issues & Increase FPS on Watch Dogs: Legion</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/updated-drivers-for-hp-laserjet-p1007-how-to-easily-install-them-today/"><u>Updated Drivers for HP LaserJet P1007 - How to Easily Install Them Today</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Lava Yuva 3 Pro? | Dr.fone</u></a></li>
+</ul></div>
 

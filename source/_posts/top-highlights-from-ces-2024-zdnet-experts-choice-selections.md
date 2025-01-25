@@ -1,7 +1,7 @@
 ---
 title: "Top Highlights From CES 2024: ZDNet Experts Choice Selections"
-date: 2024-12-03T21:46:15.296Z
-updated: 2024-12-06T17:05:57.617Z
+date: 2025-01-20T19:54:10.880Z
+updated: 2025-01-25T00:37:44.259Z
 tags:
   - laptops
 categories:
@@ -24,6 +24,10 @@ The first day of [CES 2023](https://www.zdnet.com/topic/ces-2023-the-biggest-tre
 
 [![CES 2023](https://www.zdnet.com/a/img/resize/28650a75dc1dd673042c63db5be340811e6ef8a4/2023/01/03/6f86bbf0-d65d-4f16-a4f2-699dfdc83419/ces-2023-header.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) CES 2023: The Biggest Trends for Pros Find all the exciting innovation from CES 2023 in this ZDNET special feature.  Read now](https://www.zdnet.com/topic/ces-2023-the-biggest-trends-for-pros/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Set to run through Sunday, Jan. 8, the weeklong conference is when most major tech companies announce [new innovations for consumers](https://www.zdnet.com/article/ces-2023-preview-4-big-questions-that-will-shape-the-week/). 
 
 This year, while we're still expecting announcements from many major companies, some have already begun their announcements.
@@ -40,10 +44,6 @@ Once long-rumored, at last it's now here: The GeForce RTX 40 series GPU has come
 
 **Read more:** [Nvidia's latest Studio Laptop series showcases its fastest, most powerful GPUs](https://www.zdnet.com/article/nvidia-unveils-its-latest-studio-laptop-series-which-showcases-its-fastest-most-powerful-gpu-chip/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Also announced: In-car gaming
 
 Nvidia
@@ -51,10 +51,6 @@ Nvidia
 If you're tired of the kids complaining about not having their video games on road trips, Nvidia's GeForce Now is partnering with BYD, Hyundai, and Polestar to integrate the cloud service into cars. The cloud service will allow family members to game in the backseat on the go.
 
 **Read more:** [Nvidia's GeForce Now gaming service is coming to cars](https://www.zdnet.com/article/nvidias-geforce-now-gaming-service-is-coming-to-cars-to-make-rides-more-entertaining/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Acer announces new gaming Predator and Nitro laptops
 
@@ -64,10 +60,6 @@ From the new Acer Nitro 16 and 17 to the Predator Helios 16 and 18 laptops, Acer
 
 **Read more:** [Acer's CES 2023 gaming lineup boasts high-end laptops, big and fast monitors](https://www.zdnet.com/home-and-office/home-entertainment/acers-ces-2023-gaming-lineup-boasts-high-end-laptops-big-and-fast-monitors/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## LG adds upgraded OLED TV panels
 
 LG
@@ -76,15 +68,15 @@ The first of the major tech companies to reveal a new TV during CES, LG didn't d
 
 **Read more:** [LG announces new C, G, and Z OLED TV lineups at CES 2023](https://www.zdnet.com/home-and-office/home-entertainment/lgs-2023-tv-lineup-c3-g3-z3-models/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Intel's 13th gen family expands
 
 Intel
 
 Intel may have [dropped the new flagship CPU last September](https://www.zdnet.com/article/how-intel-is-upgrading-everything-about-itself-and-its-products/), but that didn't stop the company from debuting a deluge of speedy new processors today. You'll see the largest improvements in laptops' and chromebooks' chipsets.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Evie debuts a wearable smart ring for women
 
@@ -94,6 +86,10 @@ Also dropping today is the Evie Ring, a wearable that is en route to be the firs
 
 **Read more:** [The Evie Ring may have a grip on women's wellness other wearables don't](https://www.zdnet.com/article/ces-2023-movano-health-unveils-the-evie-ring/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Samsung adds new OLED and 8K monitors for gamers
 
 Samsung
@@ -102,6 +98,10 @@ Ahead of Samsung's First Look event tonight, the tech company announced new addi
 
 **Read more:** [Samsung's Odyssey G9 gaming monitor family to add OLED, 8K models](https://www.zdnet.com/home-and-office/home-entertainment/samsungs-odyssey-g9-gaming-monitor-family-adds-oled-8k-models/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Also announced: Samsung upgrades its TV lines
 
 Samsung
@@ -109,7 +109,7 @@ Samsung
 In addition to the Odyssey G9 monitors, Samsung also dropped a plethora of home entertainment TVs, including the QN900C 8K QLED TV, S95C 4K QLED, and S95C 4K OLED panels. For lifestyle-oriented consumers, Samsung also revealed the latest iterations of the Freestyle, The Premium, and The Frame models.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## GE Cync has a new Dynamic Effects line
@@ -154,21 +154,15 @@ In the meantime, be sure to check back tomorrow to get the scoop on more announc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-expert-tips-for-selecting-lenses-as-a-video-blogger/"><u>[Updated] 2024 Approved Expert Tips for Selecting Lenses as a Video Blogger</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-streamline-your-zoom-meetings-screen-sharing-essentials/"><u>[Updated] Streamline Your Zoom Meetings Screen Sharing Essentials</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-best-practices-for-seamless-transitions-using-b-roll/"><u>2024 Approved Best Practices for Seamless Transitions Using B Roll</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amd-driver-updates-for-windows-users-focusing-on-vista-7-and-beyond/"><u>AMD Driver Updates for Windows Users: Focusing on Vista, 7, and Beyond!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ensure-seamless-connectivity-tp-link-wifi-adapter-drivers-for-windows-versions-1187-available/"><u>Ensure Seamless Connectivity: TP-Link WiFi Adapter Drivers for Windows Versions 11/8/7 Available</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/guide-to-downloading-the-newest-canon-mg2500-series-printer-software/"><u>Guide to Downloading the Newest Canon MG2500 Series Printer Software</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-itel-p55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Itel P55 | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-install-epson-v600-printing-drivers-secure-download-links/"><u>How to Install Epson V600 Printing Drivers - Secure Download Links</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-honor-magic-v2-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Honor Magic V2 to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-itop-screen-recorder-essential-or-excessive/"><u>In 2024, ITop Screen Recorder - Essential or Excessive?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-honor-x8b-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Honor X8b Phone Network-Ready</u></a></li>
-<li><a href="https://change-location.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Vivo V29? | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/top-value-in-streaming-detailed-insights-into-the-best-deals-on-roku-devices/"><u>Top Value in Streaming: Detailed Insights Into the Best Deals on Roku Devices</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/troubleshooting-and-fixing-lg-printer-driver-errors-for-windows-users-versions-10-8-7/"><u>Troubleshooting and Fixing LG Printer Driver Errors for Windows Users (Versions 10, 8, 7)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unleash-the-full-potential-of-acer-predator-helios-300-with-the-newest-graphics-driver-update/"><u>Unleash the Full Potential of Acer Predator Helios 300 with the Newest Graphics Driver Update</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unleash-your-device-potential-with-guidance-from-toms-hardware/"><u>Unleash Your Device Potential with Guidance From Tom's Hardware</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-polishing-screens-incorporating-filters-in-video/"><u>[New] 2024 Approved Polishing Screens Incorporating Filters in Video</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-transforming-video-conferencing-with-zoom-and-youtube-for-impactful-live-events/"><u>[New] Transforming Video Conferencing with Zoom and YouTube for Impactful Live Events</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-interactive-learning-landscapes-with-vr/"><u>[Updated] 2024 Approved Interactive Learning Landscapes with VR</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/awaken-on-time-with-these-7-exceptional-smartphone-alarm-applications/"><u>Awaken on Time with These 7 Exceptional Smartphone Alarm Applications</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-asus-atk0110-acpi-controller-drivers-for-free/"><u>Get Your ASUS ATK0110 ACPI Controller Drivers for Free!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-roccat-mouse-driver-now-free-software-downloads-available/"><u>Get Your Roccat Mouse Driver Now – Free Software Downloads Available!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-printer-enthusiasts-update-your-p1007-with-the-latest-drivers-here/"><u>HP Printer Enthusiasts, Update Your P1007 with the Latest Drivers Here</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-oppo-reno-10-5g-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Oppo Reno 10 5G to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-tech-choices-trustworthy-tips-from-toms-hardware-hub/"><u>Mastering Tech Choices: Trustworthy Tips From Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-expert-advice-on-building-the-ideal-gaming-station-for-maximum-performance-and-comfort/"><u>ZDNet's Expert Advice on Building the Ideal Gaming Station for Maximum Performance and Comfort</u></a></li>
 </ul></div>
 

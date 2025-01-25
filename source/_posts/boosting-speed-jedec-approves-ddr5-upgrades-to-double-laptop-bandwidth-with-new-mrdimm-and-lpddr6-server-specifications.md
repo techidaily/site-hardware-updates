@@ -1,7 +1,7 @@
 ---
 title: "Boosting Speed: JEDEC Approves DDR5 Upgrades to Double Laptop Bandwidth with New MRDIMM & LPDDR6 Server Specifications"
-date: 2024-08-19T04:09:19.761Z
-updated: 2024-08-20T04:09:19.761Z
+date: 2025-01-19T16:03:59.535Z
+updated: 2025-01-24T18:51:50.555Z
 tags:
   - ram
 categories:
@@ -27,6 +27,10 @@ Innotron, the parent company of ChangXin Memory Technologies (CXMT), plans to in
 
  This $2.4 billion investment is a part of China's broader strategy to enhance its semiconductor capabilities in general and advanced packaging technologies in particular. Whether or not this one is going to be a financial success is something that remains to be seen. Given that the U.S. government does not allow the export of advanced components made using American technology to China without a license, it has no other choice but to build its own HBM supply chain.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,8 +45,6 @@ Innotron, the parent company of ChangXin Memory Technologies (CXMT), plans to in
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -50,8 +52,17 @@ Innotron, the parent company of ChangXin Memory Technologies (CXMT), plans to in
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-secure-every-moment-on-fb-with-these-video-downloader-tools/"><u>[New] 2024 Approved Secure Every Moment on FB with These Video Downloader Tools</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-bring-charisma-to-your-stories-mastery-of-custom-emoji-use-on-instagram/"><u>2024 Approved Bring Charisma to Your Stories Mastery of Custom Emoji Use on Instagram</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/best-ways-to-record-and-save-itunes-videos-for-2024/"><u>Best Ways to Record and Save iTunes Videos for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/build-up/"><u>Build-Up</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722978503888-get-your-msi-x470-gaming-plus-driver-package-free-instant-download/"><u>Get Your MSI X470 Gaming Plus Driver Package - Free Instant Download</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-samsung-galaxy-f14-5g-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Samsung Galaxy F14 5G</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-navigate-your-path-to-prominence-a-precise-guide-to-youtubes-featured-listings/"><u>In 2024, Navigate Your Path to Prominence A Precise Guide to Youtube's Featured Listings</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/simple-download-and-setup-of-newest-graphics-control-panel-drivers-for-dell-inspiron-15-d3100/"><u>Simple Download and Setup of Newest Graphics Control Panel Drivers for Dell Inspiron 15 (D3100)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlocking-data-movement-best-ways-to-transition-files-to-pc-for-2024/"><u>Unlocking Data Movement Best Ways to Transition Files to PC for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-logitech-g29-controller-download-drivers-for-modern-and-legacy-windows-versions/"><u>Update Your Logitech G29 Controller: Download Drivers for Modern and Legacy Windows Versions</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->

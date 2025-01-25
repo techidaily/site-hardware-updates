@@ -1,7 +1,7 @@
 ---
 title: Lenovo's Ultimate Portable Secret Revealed! The Ingenious TrackPoint Feature & Extra Tricks Within | Insights
-date: 2025-01-17T16:37:09.320Z
-updated: 2025-01-18T18:01:06.197Z
+date: 2025-01-19T19:38:48.493Z
+updated: 2025-01-25T01:24:48.695Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -77,7 +77,7 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -116,24 +116,14 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-ultimate-choice-10-excellent-camera-lenses/"><u>[New] 2024 Approved Ultimate Choice 10 Excellent Camera Lenses</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-the-rewind-ritual-making-playlists-run-opposite-to-current/"><u>[Updated] In 2024, The Rewind Ritual Making Playlists Run Opposite to Current</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-ultimate-5-aquatic-filter-add-ons-for-gopro-for-2024/"><u>[Updated] Ultimate 5 Aquatic Filter Add-Ons for GoPro for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/boost-your-visual-output-downloading-the-newest-intel-hd-graphics-driver-v396/"><u>Boost Your Visual Output - Downloading the Newest Intel HD Graphics Driver V.3.96</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-set-up-steelseries-graphics-driver-on-your-pc/"><u>Download and Set Up SteelSeries Graphics Driver on Your PC</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-logitech-m510-driver-update-tutorial-get-started-today/"><u>Easy Logitech M510 Driver Update Tutorial - Get Started Today!</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/expert-review-of-overwatch-competitive-edge-meets-team-tactics-in-shooter-gaming/"><u>Expert Review of Overwatch: Competitive Edge Meets Team Tactics in Shooter Gaming.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-logitech-driving-force-gt-wheel-simulator-downloads-for-pc-windows-7-10-and-11/"><u>Free Logitech Driving Force GT Wheel Simulator Downloads for PC - Windows 7, 10 & 11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-download-and-install-hp-wireless-network-drivers-for-windows-computers/"><u>How to Download and Install HP Wireless Network Drivers for Windows Computers</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/-the-easy-tricks-for-eliminating-unwanted-youtube-content-pcmobile-for-2024/"><u>Learn the Easy Tricks for Eliminating Unwanted Youtube Content (PC/Mobile) for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/official-logitech-g510-software-installation-guide-supports-windows-7-to-10/"><u>Official Logitech G510 Software Installation Guide - Supports Windows 7 to 10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/overcoming-unexpected-amd-radeon-wattman-configuration-resets-easy-solutions-revealed/"><u>Overcoming Unexpected AMD Radeon Wattman Configuration Resets - Easy Solutions Revealed</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/premier-top-8-4k-blu-ray-playback-machines-for-2024/"><u>Premier Top 8 4K Blu-Ray Playback Machines for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-guide-download-and-update-epson-et-2750-printer-software-for-pcs/"><u>Quick Guide: Download & Update Epson ET-2750 Printer Software for PCs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-driver-installation-for-asus-z370-e-fast-and-simple/"><u>Step-by-Step Driver Installation for ASUS Z370-E - Fast & Simple</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-12-free-movie-streaming-sites-no-downloads-required/"><u>Top 12 Free Movie Streaming Sites – No Downloads Required</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/troubleshooting-guide-why-your-pc-doesnt-recognize-tl-wn722n-wifi-adapter/"><u>Troubleshooting Guide: Why Your PC Doesn't Recognize TL-WN722N WiFi Adapter</u></a></li>
-<li><a href="https://win11.techidaily.com/unblock-windows-shared-drive-with-ease/"><u>Unblock Windows Shared Drive with Ease</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/is-the-youtube-highlighted-comment-in-2024/"><u>What Is the YouTube Highlighted Comment, In 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-craft-a-vibrant-youtube-experience-with-tracks/"><u>[New] In 2024, Craft a Vibrant Youtube Experience with Tracks</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-essential-insights-getting-started-with-ifunny-memes/"><u>[New] In 2024, Essential Insights Getting Started with iFunny Memes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dive-deep-into-technology-toms-comprehensive-hardware-reviews/"><u>Dive Deep Into Technology: Tom's Comprehensive Hardware Reviews</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/elevate-your-visual-and-connectivity-game-discover-asrocks-top-tier-32-oled-screen-with-impeccable-480-hz-performance-and-network-support/"><u>Elevate Your Visual and Connectivity Game: Discover ASROCK’s Top-Tier 32” OLED Screen with Impeccable 480 Hz Performance and Network Support</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-activation-lock-from-the-apple-iphone-13-pro-max-without-previous-owner-by-drfone-ios/"><u>How to Remove Activation Lock From the Apple iPhone 13 Pro Max Without Previous Owner?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/huge-screen-high-performance-a-comprehensive-review-of-the-crystal-pro-gaming-display-by-monoprice-for-only-285/"><u>Huge Screen, High Performance: A Comprehensive Review of the Crystal Pro Gaming Display by Monoprice for Only $285</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/in-depth-reviews-by-tom-your-guide-to-cutting-edge-hardware-solutions/"><u>In-Depth Reviews by Tom: Your Guide to Cutting-Edge Hardware Solutions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/in-depth-viewsonic-xg2n352-2k-oled-display-analysis-a-top-pick-for-enthusiastic-gamers/"><u>In-Depth ViewSonic XG2n352-2K OLED Display Analysis: A Top Pick for Enthusiastic Gamers</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/top-10-fixes-for-vanishing-youtube-shorts-thumbnails/"><u>Top 10 Fixes for Vanishing YouTube Shorts Thumbnails</u></a></li>
 </ul></div>
 

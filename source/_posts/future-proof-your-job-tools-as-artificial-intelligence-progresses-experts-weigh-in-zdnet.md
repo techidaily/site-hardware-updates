@@ -1,7 +1,7 @@
 ---
 title: "Future-Proof Your Job Tools as Artificial Intelligence Progresses: Experts Weigh In (ZDNet)"
-date: 2025-01-11T18:05:58.077Z
-updated: 2025-01-18T16:50:01.911Z
+date: 2025-01-20T16:53:17.826Z
+updated: 2025-01-24T22:52:53.704Z
 tags:
   - laptops
 categories:
@@ -31,7 +31,7 @@ Because AI tasks that run locally on a PC are typically executed by the CPU (cen
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### User requirements remain focused on hybrid work
@@ -69,7 +69,7 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -81,7 +81,7 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -134,16 +134,21 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-mastering-videos-top-windows-phones-video-apps/"><u>[New] Mastering Videos Top Windows Phones Video Apps</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-five-to-fiveteen-tactics-against-oculus-discomfort/"><u>[Updated] Five to Fiveteen Tactics Against Oculus Discomfort</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-infinix-hot-40-pro-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Infinix Hot 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/diagnosis/"><u>Diagnosis</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-instructions-for-installing-latest-ati-radeon-driver-updates-in-windows-os/"><u>Easy Instructions for Installing Latest ATI Radeon Driver Updates in Windows OS</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/easy-integration-tutorial-how-to-set-up-chatgpt-extensions/"><u>Easy Integration Tutorial: How to Set Up ChatGPT Extensions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/fixing-ralink-rt3290-drivers-troubleshooting-on-windows-10-8-and-7/"><u>Fixing Ralink RT3290 Drivers: Troubleshooting on Windows 10, 8 & 7</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-base-to-pro-gopro-hero5-blacks-clash-with-hero4-silver/"><u>In 2024, From Base to Pro GoPro Hero5 Black's Clash with Hero4 Silver</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/silent-sounds-elegant-dimming-in-garageband-projects/"><u>Silent Sounds Elegant Dimming in Garageband Projects</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-trigger-startup-success-for-windows-index-service/"><u>Strategies to Trigger Startup Success for Windows Index Service</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlock-optimal-gaming-performance-on-nvidias-gtx-1660-ti-with-driver-upgrades/"><u>Unlock Optimal Gaming Performance on NVIDIA's GTX 1660 Ti with Driver Upgrades</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-firefoxs-multitasking-toolkit-the-pip-mode/"><u>[New] Firefox's Multitasking Toolkit The PIP Mode</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-tech-stream-cam-gear-reviewed-for-youtube-and-facebook-use/"><u>[New] Top Tech Stream Cam Gear Reviewed for YouTube & Facebook Use</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-whatsapp-video-integration-for-twitter-content-for-2024/"><u>[New] WhatsApp Video Integration for Twitter Content for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-alternative-tools-that-outperform-sharex/"><u>[Updated] 2024 Approved Alternative Tools That Outperform ShareX</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722977602649-download-the-new-magicard-rio-pro-driver-compatible-with-windows-10817-get-it-now/"><u>Download the New Magicard Rio Pro Driver: Compatible with Windows 10/8.1/7 - Get It Now!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/drive-your-site-traffic-with-the-efficient-automation-of-cookiebot/"><u>Drive Your Site Traffic with the Efficient Automation of Cookiebot</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-hardware-analysis-from-toms-technology-portal/"><u>Expert Hardware Analysis From Tom's Technology Portal</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722968856195-free-download-canon-imageclass-mf4800-printer-drivers-and-software/"><u>Free Download: Canon ImageCLASS MF4800 Printer Drivers and Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-set-up-fast-free-pioneer-dj-ddj-sx2-controller-driver-downloads/"><u>Get Set Up Fast! Free Pioneer DJ DDJ-SX2 Controller Driver Downloads</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/guide-to-overcoming-bluetooth-driver-issues-in-windows-10-expert-advice-for-smooth-connection/"><u>Guide to Overcoming Bluetooth Driver Issues in Windows 10 - Expert Advice for Smooth Connection</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-mastering-virtual-realities-unleash-power-in-kinemaster-and-its-leading-rivals/"><u>In 2024, Mastering Virtual Realities Unleash Power in KineMaster & Its Leading Rivals</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-recollection-runway-your-easy-path-to-story-archives/"><u>In 2024, Recollection Runway Your Easy Path to Story Archives</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/maximizing-your-sightline-in-roblox-playground/"><u>Maximizing Your Sightline in Roblox Playground</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/qualcomm-atheros-ar3011-get-the-latest-free-download-for-bluetooth-30-support/"><u>Qualcomm Atheros AR3011: Get the Latest [Free Download] for Bluetooth 3.0 Support</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-and-simple-way-to-download-and-install-epson-xp-410-printer-drivers-for-windows/"><u>Quick and Simple Way to Download and Install Epson XP-410 Printer Drivers for Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/together-at-last-the-story-of-it-takes-twos-marked-launch-event/"><u>Together at Last: The Story of 'It Takes Two's' Marked Launch Event</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide to the Best 15-Inch Portable PCs : Rigorous Analysis and Ratings"
-date: 2025-01-14T18:14:02.968Z
-updated: 2025-01-18T19:26:29.562Z
+date: 2025-01-23T18:16:00.062Z
+updated: 2025-01-24T22:51:16.336Z
 tags:
   - laptops
 categories:
@@ -22,12 +22,16 @@ For those of us who'd been working with Linux for some time, that was more a bot
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the best Linux laptop right now?
 
 We went hands-on with some of the best laptops on the market that can run Linux, testing their performance, battery, and features. Our pick for the best Linux laptop overall is the [Lenovo ThinkPad Z13 Gen 2](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1796374-REG%2Flenovo%5F21jv000dus%5F13%5F3%5Fthinkpad%5Fz13%5Fgen.html) is our top pick due to its more affordable price and customization options. Check out the rest of the list to learn about our other top picks. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The best Linux laptops of 2024
@@ -48,6 +52,10 @@ Cons
 * Incompatible with discrete GPUs
 
 ## Lenovo ThinkPad Z13
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best Linux laptop overall
 
@@ -76,10 +84,6 @@ Cons
 
 ## Dell XPS 15
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best configurable Linux laptop
 
 The Dell XPS 15 9530 is a consumer-grade laptop that is an excellent choice for Linux newcomers and experienced users. While pre-configured builds are available from retailers like B&H Photo, you can choose from various CPU, GPU, and storage options if you order directly from Dell. This way, you can tailor the laptop to your exact needs. 
@@ -107,11 +111,11 @@ Cons
 * May feel fragile to some users
 * Somewhat short battery life
 
-## Acer Swift Edge
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Acer Swift Edge
 
 ### Best AMD-based Linux laptop
 
@@ -139,10 +143,6 @@ Cons
 * Expensive
 * No AMD option
 * No 4K or touchscreen display options
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## MSI Stealth Studio AI
 
@@ -172,7 +172,15 @@ Cons
 * Expensive
 * Somewhat thick and heavy design
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Microsoft Surface Laptop Studio 2
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best battery life in a Linux laptop
 
@@ -187,10 +195,6 @@ Both Kerry Wan and Max Buondonno of ZDNET got to try out the Surface Laptop Stud
 **Microsoft Surface Laptop Studio 2 specs - CPU:** Up to Intel Core i7-13800H | **GPU:** Up to Nvidia GeForce RTX 4060 | **RAM:** Up to 64GB | **Storage:** Up to 2TB SSD | **Display size:** 14 inches | **Display type:** LCD | **Resolution:** 2400 x 1600 | **Battery life:** 19 hours
 
 Show Expert Take Show less 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is the best Linux laptop?
 
@@ -220,6 +224,10 @@ However, if you're running with more experienced Linux crowds, you may want to c
 | MSI Stealth Studio AI             | A Linux-capable laptop for gaming. The MSI Stealth Studio offers up to a 17-inch display and up to an Nvidia RTX 4090 graphics card.                            |
 | Microsoft Surface Laptop Studio 2 | A Linux laptop with a long battery life. The Microsoft Surface Laptop Studio 2 offers up to 19 hours of use on a full charge.                                   |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Factors to consider when choosing a Linux laptop:
 
 What makes a machine worthy of belonging to the best Linux laptop list? Obviously, it has to work with Linux and not require the user to do any of the work to make that happen. Beyond that, here are the key features we considered when completing hands-on testing to compile this list:
@@ -241,25 +249,21 @@ While we were researching and testing each Linux-compatible laptop on this list,
 
 Linux is an open-source operating system, created by Linus Torvalds, that is not only suited for desktops and laptops, but for enterprise-grade servers, container deployments, the cloud, and much more. Linux is available as a distribution and can be downloaded and installed for free on as many machines as you need.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Can you run Linux on a Mac?
 
 This is a bit of a complicated answer.
 
 Yes, you can run Linux operating systems on MacBooks, Mac Minis, and Mac desktops. But there's a catch: you have to opt for an older model that uses an Intel Core processor instead of Apple's own M1 or M2 chips. Apple's silicon chips are starting to see Linux hobbyists and pros alike build support, but at the time of writing, the only reliable way to get Linux to run on an M1/M2 Mac is to use a [virtual machine](https://azure.microsoft.com/en-au/resources/cloud-computing-dictionary/what-is-a-virtual-machine/) which is a type of emulation program.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Are there disadvantages to running Linux instead of Windows or MacOS?
 
 The biggest hurdles you'll have to face when using Linux over Windows or MacOS are the learning curve and general lack of support from brand-name software companies. Since Linux is an open-source operating system, there isn't a [single, unified version](https://en.wikipedia.org/wiki/List%5Fof%5FLinux%5Fdistributions) like there is for Windows 11 or macOS Catalina. This means that it's much more difficult to program applications like games, video players, and even weather apps to work consistently across all versions of Linux. Different versions also mean that just because you're familiar with Ubuntu, that doesn't mean your expertise will be of any use on a machine that runs a different Linux dispo.
 
 **Also:** [**Windows, Mac, or Linux? We compare the pros and cons of these computing platforms**](https://www.zdnet.com/article/windows-mac-or-linux-we-compare-the-pros-and-cons-of-these-computing-platforms/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What does "open-source" mean?
 
@@ -272,10 +276,6 @@ Linux is popular with programmers since it is open-source, which means that it's
 The great thing about Linux is that it is an open source operating system. Which means there are a lot of different versions out there on forums and also the Internet Archive. And since there are so many different release versions, newcomers looking to save money on their first dedicated or dual-boot Linux machine can pick up a vintage computer at a thrift store, estate sale, or other secondhand store and likely find an operating system version that will run with it.
 
 A thread on the [Linux Mint Forums](https://forums.linuxmint.com/viewtopic.php?t=228393) is full of users who were able to use various versions of Linux Mint as well as Puppy (a version of Linux designed to be run from a flash drive, making it great for hobbyists who restore vintage tech) and Ubuntu on Windows Vista and Windows 98 computers (which intrepid tech hunters may be able to find for a bargain at a thrift store or secondhand online). And Tech Tangents on YouTube, a channel dedicated to restoring and archiving retro computer hardware and software, was able to revive a [TeleVideo 950 terminal](https://www.youtube.com/watch?v=ob7cEzXLxXU) that was originally released in 1980 and use a version of Linux on it. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## More Linux laptops we tested
 
@@ -323,17 +323,19 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-finding-premium-free-music-without-breaking-copyrights-for-2024/"><u>[New] Finding Premium, Free Music Without Breaking Copyrights for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-premium-downloader-suite-for-vimeo-content/"><u>[Updated] In 2024, Premium Downloader Suite for Vimeo Content</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-the-secret-behind-the-blue-status-update-sticker/"><u>[Updated] In 2024, The Secret Behind the Blue Status Update Sticker</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-pro-monitor-snapshot-software-w10/"><u>[Updated] Pro Monitor Snapshot Software W10</u></a></li>
-<li><a href="https://facebook.techidaily.com/1719152115012-awaiting-the-call-facebook-orders-ruling-on-prohibited-access/"><u>Awaiting the Call: Facebook Orders Ruling on Prohibited Access.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/diy-solutions-to-the-common-problems-with-realteks-rtl8723be-driver/"><u>DIY Solutions to the Common Problems with Realtek's RTL8723BE Driver</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-guide-installing-sony-vaio-drivers-on-your-pc-with-windows-os/"><u>Easy Guide: Installing Sony Vaio Drivers on Your PC with Windows OS</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/essential-guide-downloading-and-installing-the-epson-wf-3540-driver-on-windows-computers/"><u>Essential Guide: Downloading & Installing the Epson WF-3540 Driver on Windows Computers</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-update-or-download-dell-latitude-e6430-drivers-on-windows-step-by-step-guide/"><u>How to Update or Download Dell Latitude E6430 Drivers on Windows: Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/make-a-plan-and-set-goals/"><u>Make A Plan & Set Goals</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-the-quick-fix-tackling-your-logitech-c615-drivers-seamlessly/"><u>Mastering the Quick-Fix: Tackling Your Logitech C615 Drivers Seamlessly</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-htc-u23-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-enhance-video-production-7-best-free-sounds-for-editors-for-2024/"><u>[Updated] Enhance Video Production - 7 Best Free Sounds for Editors for 2024</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-huawei-nova-y71-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Huawei Nova Y71 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/cookiebot-the-essential-ai-driven-tool-enhancing-your-websites-seo/"><u>Cookiebot: The Essential AI-Driven Tool Enhancing Your Website's SEO</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-electronic-gadgets-by-toms-guides/"><u>In-Depth Analysis of Electronic Gadgets by Tom's Guides</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-the-art-of-imaging-the-asus-proart-pa32ucxr-review-where-precision-meets-exceptional-color-authenticity/"><u>Mastering the Art of Imaging: The Asus ProArt PA32UCXR Review - Where Precision Meets Exceptional Color Authenticity</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigate-through-computer-world-with-toms-hardware-reviews/"><u>Navigate Through Computer World With Tom's Hardware Reviews</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-new-tech-trends-with-toms-comprehensive-hardware-guides/"><u>Navigating New Tech Trends with Tom's Comprehensive Hardware Guides</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-the-latest-tech-trends-insightful-articles-from-toms-hardware-hub/"><u>Navigating the Latest Tech Trends - Insightful Articles From Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-the-tech-world-through-toms-lens/"><u>Navigating the Tech World Through Tom's Lens</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-launch-issues-in-gta-5-a-comprehensive-guide/"><u>Overcoming Launch Issues in GTA 5 - A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/precision-performance-tests-by-toms-hardware-specialists/"><u>Precision Performance Tests by Tom's Hardware Specialists</u></a></li>
+<li><a href="https://win11.techidaily.com/tackle-windows-autoshrink-habits/"><u>Tackle Window's Autoshrink Habits</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/the-power-of-words-in-podcast-summaries/"><u>The Power of Words in Podcast Summaries</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-divide-and-conquer-the-best-free-wmv-video-splitters/"><u>Updated Divide and Conquer The Best Free WMV Video Splitters</u></a></li>
 </ul></div>
 

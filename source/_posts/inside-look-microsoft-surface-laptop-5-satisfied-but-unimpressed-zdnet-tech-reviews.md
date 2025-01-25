@@ -1,7 +1,7 @@
 ---
 title: "Inside Look: Microsoft Surface Laptop 5 - Satisfied but Unimpressed | ZDNet Tech Reviews"
-date: 2025-01-12T18:07:12.199Z
-updated: 2025-01-18T19:04:35.933Z
+date: 2025-01-18T22:04:11.659Z
+updated: 2025-01-25T00:49:00.644Z
 tags:
   - laptops
 categories:
@@ -41,7 +41,7 @@ All of the precision-machined cases and blazing-fast performance here couldn't m
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -58,7 +58,7 @@ All of the precision-machined cases and blazing-fast performance here couldn't m
 | Size and weight | 12.1 L x 8.8 W x .57 H inches, 2.8 lbs                                                     |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How's the build quality?
@@ -79,6 +79,10 @@ Michael Gariffo/ZDNET
 
 **More: [The best laptops: Does Apple take the crown?](https://www.zdnet.com/article/best-laptop/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Features and ports
 
 That one on the top is the Surface Connect Port, not an SD card reader slot, which it so closely resembles.
@@ -86,6 +90,10 @@ That one on the top is the Surface Connect Port, not an SD card reader slot, whi
 Michael Gariffo/ZDNET
 
 Microsoft's port selection on the Surface Laptop 5 is very middle-of-the-road. That's a good thing. It acknowledges that plenty of USB-A peripherals still exist, so it includes a single USB-A port. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -140,7 +148,7 @@ This might be forgivable in a budget model. But even the base config [Surface La
 **More: [The 10 best webcams: Join your next Zoom call in HD](https://www.zdnet.com/article/best-webcam/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Performance and battery life
@@ -165,19 +173,11 @@ Overall, I'd have no qualms about leaving my charger at home and expecting to ge
 
 [Microsoft Surface Laptop 5 $1,117 at Walmart](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F1738938556&subId1=zd-__COM_CLICK_ID__-dtp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Bottom line
 
 I may seem like I had high standards for this review, and I did. This is a flagship laptop from the company that makes Windows, after all. While those resources and ability to optimize for its own OS did show in aspects like the [Surface Laptop 5](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Lightweight-Processor-Multi-Tasking%2Fdp%2FB0B8Q8GFMM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc6fbb856-6656-4200-96bf-59e251b1e7c2%7Cdtp&dtb=1)'s consistently excellent build quality and performance, it faltered when it came to basic modern necessities like a decent webcam and a contemporary display layout. 
 
 If you never videoconference or if wasted space around your display doesn't bother you, you're looking at the best Windows laptop you could buy right now. Even if those things do irk a bit, I'd recommend balancing them against the exceptional performance, build, and aesthetics. The Surface Laptop 5 is frustratingly close to being that universal leader among Windows portables that Microsoft wants it to be. But, if Microsoft wants that crown, I hope it updates the components that held this generation back when it comes time to design the Surface Laptop 6.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -227,19 +227,22 @@ Dell's latest entry in the XPS 13 lineup looks like it comes from further down t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-facebook-cover-video-widthheight-guide/"><u>[New] 2024 Approved Facebook Cover Video Width/Height Guide</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-ultimate-guide-selecting-8-exquisite-weddings-vids/"><u>[New] Ultimate Guide Selecting 8 Exquisite Weddings - Vids</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-update-guide-free-dell-thunderbolt-tb16-portable-expansion-dock-drivers/"><u>Download and Update Guide: Free Dell Thunderbolt TB16 Portable Expansion Dock Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/fresh-driver-release-enhance-your-graphics-with-the-newest-amd-radeon-pro-w5700-windows-11107-drivers/"><u>Fresh Driver Release: Enhance Your Graphics with the Newest AMD Radeon Pro W5700 Windows 11/10/7 Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-ensure-full-usb-c-functionality-on-your-windows-11-pc-download-the-right-drivers-now/"><u>How to Ensure Full USB-C Functionality on Your Windows 11 PC - Download the Right Drivers Now!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-resolve-issues-when-dts-surround-sound-is-not-working-with-specific-devices/"><u>How to Resolve Issues When DTS Surround Sound Is Not Working with Specific Devices</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-network-locked-nubia-z50-ultra-phone-by-drfone-android/"><u>How to Unlock a Network Locked Nubia Z50 Ultra Phone?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-on-iphone-14-plus-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account On iPhone 14 Plus?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/maximizing-business-efficiency-top-8-strategies-with-chatgpt/"><u>Maximizing Business Efficiency: Top 8 Strategies with ChatGPT</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/simple-steps-get-your-system-upgraded-with-amd-ryzen-5-2600-chip-download-the-latest-drivers-now/"><u>Simple Steps: Get Your System Upgraded with AMD Ryzen 5 2600 Chip - Download the Latest Drivers Now</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transforming-online-meetings-with-ai-helpdesk-solutions/"><u>Transforming Online Meetings with AI Helpdesk Solutions</u></a></li>
-<li><a href="https://blog-min.techidaily.com/ultra-fast-conversion-official-platinum-winx-dvd-ripper-for-speedy-dvd-to-264hevc-mp4-ripping-in-minutes/"><u>Ultra-Fast Conversion: [OFFICIAL] Platinum WinX DVD Ripper for Speedy DVD to 264/HEVC MP4 Ripping in Minutes!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-apples-strongest-iphone-protection-with-an-innovative-safety-edge-a-comprehensive-review-by-your-name/"><u>Unveiling Apple's Strongest iPhone Protection with an Innovative Safety Edge - A Comprehensive Review by [Your Name]</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-now-enhanced-performance-with-new-usb-32-ethernet-driver-software-on-windows-systems/"><u>Update Now: Enhanced Performance with New USB 3.^2 Ethernet Driver Software on Windows Systems</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-quickcapture-vs-recordify-comparative-recorder-analysis-2023/"><u>[New] In 2024, 'QuickCapture' Vs 'Recordify' Comparative Recorder Analysis 2023</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-mastering-live-game-replays-with-fraps/"><u>[Updated] 2024 Approved Mastering Live Game Replays with Fraps</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-master-class-the-7-cutting-edge-apps-for-youtube-live-on-iphonesandroid-os/"><u>[Updated] Master Class The 7 Cutting-Edge Apps for YouTube LIVE on iPhones/Android OS</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-unfolding-the-world-on-iphone-perfect-fb-video-sharing-for-2024/"><u>[Updated] Unfolding the World on iPhone Perfect FB Video Sharing for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/brother-hl-2240-driver-software-fresh-release-for-improved-functionality-in-windows-computers/"><u>Brother HL-2240 Driver Software - Fresh Release for Improved Functionality in Windows Computers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-world-of-electronics-with-toms-hardware-expertise/"><u>Discover the World of Electronics with Tom's Hardware Expertise</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-x60nam5-itx-asrocks-ultra-thin-mini-itx-board-designed-for-diy-htpc-enthusiasts/"><u>Discover the X60nAM5-ITX: ASRock's Ultra Thin Mini-ITX Board Designed for DIY HTPC Enthusiasts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discovering-camm2-a-quick-guide-to-this-revolutionary-miniature-and-modular-memory-format/"><u>Discovering CAMM2 - A Quick Guide to This Revolutionary Miniature & Modular Memory Format</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/educate-yourself-learn-about-the-signs-of-drug-and-alcohol-use-as-well-as-the-types-of-substances-that-might-be-accessible-to-teenagers-in-your-area-this-kn79/"><u>Educate Yourself: Learn About the Signs of Drug and Alcohol Use, as Well as the Types of Substances that Might Be Accessible to Teenagers in Your Area. This Knowledge Can Help You Spot Potential Red Flags More Easily.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-next-level-gaming-with-asrock-and-amd-ryzen-9000-mothboards/"><u>Experience Next-Level Gaming with ASRock and AMD Ryzen 9000 Mothboards</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-next-level-performance-asrocks-fresh-batch-of-arrow-lake-motherboards-includes-a-groundbreaking-taichi-design-equipped-for-camm2-memory/"><u>Experience Next-Level Performance: ASROCK's Fresh Batch of Arrow Lake Motherboards Includes a Groundbreaking Taichi Design Equipped for CAMM2 Memory</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-insights-into-technology-with-toms-hardware/"><u>Expert Insights Into Technology with Tom's Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-the-world-of-pc-hardware-with-tom-an-in-depth-look/"><u>Exploring the World of PC Hardware with Tom - An In-Depth Look</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-xs-with-a-mask-on-drfone-by-drfone-ios/"><u>How to Unlock iPhone XS with a Mask On | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722970910415-instant-access-to-essential-asus-monitor-drivers-effortless-download-awaits/"><u>Instant Access to Essential ASUS Monitor Drivers - Effortless Download Awaits</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/repairing-windows-updater-error-0xca00a009/"><u>Repairing Windows Updater Error #0xCA00A009</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-sound-from-the-dead-a-comprehensive-guide-to-fixing-your-nvidia-hd-audio/"><u>Reviving Sound From the Dead: A Comprehensive Guide to Fixing Your Nvidia HD Audio</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Cooler Master's Ultimate Gaming Solution: The MX Mighty PSUs - Ideal for Multi-RTX 4090 Configurations"
-date: 2024-08-19T04:11:35.414Z
-updated: 2024-08-20T04:11:35.414Z
+date: 2025-01-20T01:01:10.687Z
+updated: 2025-01-24T16:00:28.727Z
 tags:
   - power-supply
 categories:
@@ -28,6 +28,10 @@ Are you considering building a new gaming rig, or a PC capable of some serious g
 
  Cooling is provided by a 120mm rifle-bearing PWM fan, that operates in a zero RPM fan mode for near-silent operation at lower loads, so when you're just browsing away, this should help to keep your PSU from adding to the combined noise output from your PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -42,8 +46,6 @@ Are you considering building a new gaming rig, or a PC capable of some serious g
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -51,8 +53,22 @@ Are you considering building a new gaming rig, or a PC capable of some serious g
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-managing-bitrate-in-obs-broadcasts/"><u>[New] Managing Bitrate in OBS Broadcasts</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-the-ultimate-guide-to-macs-premier-screen-capture-tools/"><u>[Updated] In 2024, The Ultimate Guide to Mac's Premier Screen Capture Tools</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723262328319-amd-takes-the-lead-with-fastest-new-mobile-chip-against-apples-m3-max-multi-core-war-commences/"><u>AMD Takes the Lead with Fastest New Mobile Chip Against Apple's M3 Max - Multi-Core War Commences</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-use-facetime-here-are-16-ways-to-fix-it-and-get-connected-again/"><u>Can't Use FaceTime? Here Are 16 Ways To Fix It and Get Connected Again</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/chatbots-and-code-risks-for-your-windows-11-access/"><u>Chatbots & Code Risks for Your Windows 11 Access</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-guide-installing-updated-bluetooth-drivers-from-microsoft-for-windows-101187-systems/"><u>Complete Guide: Installing Updated Bluetooth Drivers From Microsoft for Windows 10/11/8/7 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-nvidia-geforce-rtx-3090-drivers-for-older-windows-versions-10-8-and-7/"><u>Download NVIDIA GeForce RTX 3090 Drivers for Older Windows Versions (10, 8 & 7)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/essential-driver-pack-for-msis-x470-gaming-motherboards-free-to-download/"><u>Essential Driver Pack for MSI's X470 Gaming Motherboards, Free to Download</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-poco-x6-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Poco X6 Phone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-nubia-red-magic-8s-proplus-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Nubia Red Magic 8S Pro+ for Streaming | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722960986687-install-latest-drivers-for-your-epson-l3n50-on-windows-11-8-or-7-free-download/"><u>Install Latest Drivers for Your Epson L3n50 on Windows 11, 8 or 7 - Free Download!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/leading-free-graphic-websites-for-quality-vectors-for-2024/"><u>Leading Free Graphic Websites for Quality Vectors for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-and-easy-downloads-updating-your-dell-sound-card-drivers/"><u>Quick and Easy Downloads: Updating Your Dell Sound Card Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722971489756-trouble-free-guide-to-address-your-logitech-c610-headset-driver-glitches-swift-and-straightforward-methods-inside/"><u>Trouble-Free Guide to Address Your Logitech C610 Headset Driver Glitches – Swift & Straightforward Methods Inside</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-samsung-galaxy-s23plus-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Samsung Galaxy S23+ Device</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->

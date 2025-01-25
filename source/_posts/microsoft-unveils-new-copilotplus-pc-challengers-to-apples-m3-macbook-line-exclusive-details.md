@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Unveils New Copilot+ PC Challengers to Apple's M3 MacBook Line: Exclusive Details"
-date: 2025-01-15T19:45:22.097Z
-updated: 2025-01-18T18:09:32.381Z
+date: 2025-01-22T00:23:53.628Z
+updated: 2025-01-24T23:41:21.218Z
 tags:
   - laptops
 categories:
@@ -41,7 +41,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Microsoft Surface Pro and Laptop
@@ -60,6 +60,10 @@ The Surface Laptop comes in two configurations: 13.8 and 15 inches, with memory 
 
 The laptop is also thinner than its predecessors, now has a haptic touchpad, and can extend to up to three 4K _monitors while_ the device screen is active -- a subtle dig at Apple's M3 MacBook Air. As far as battery life goes, Microsoft says the new Surface Laptop has "nearly double the battery life of Surface Laptop 5," offering up to 22 hours of local video playback.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Lenovo Yoga Slim 7x and ThinkPad T14s Gen 6
 
 Kerry Wan/ZDNET
@@ -75,7 +79,7 @@ Thanks to the Snapdragon X Elite and Lenovo's AI Core, the Yoga Slim 7x and Thin
 The Lenovo Yoga Slim 7x will go on sale starting in June, with an _expected_ starting price of $1,199, while the ThinkPad T14s Gen 6 will launch around the same time with a starting price of $1,699.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. HP OmniBook X and EliteBook Ultra
@@ -91,7 +95,7 @@ Designed for freelancers and developers, the new HP laptops leverage the Snapdra
 The [OmniBook X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fhp-omnibook-x-copilot-pc-14-2-2k-touch-screen-laptop-snapdragon-x-elite-16gb-memory-1tb-sdd-meteor-silver%2F6583279.p%3FskuId%3D6583279&publisher_slug=itechdaily19598&exclusive=1) and [EliteBook Ultra](https://www.tkqlhce.com/click-9041660-15850793?url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fhp-elitebook-ultra-14-inch-g1q-notebook-ai-pc&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) are available for preorders today for starting prices of $1,199 (up to 2TB of storage and 32GB of RAM) and $1,699 (512GB of storage with 16GB of RAM), respectively, and will begin shipping on June 18.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Dell XPS 13, Latitude 7455
@@ -108,10 +112,6 @@ For business users, Dell is also launching the Latitude 7455 with the Snapdragon
 
 The XPS 13 is available for preorder today at a starting price of $1,299, while the Latitude 7455 will launch later this year, with the price still to be confirmed.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Acer Swift 14 AI
 
 Sabrina Ortiz/ZDNET
@@ -125,7 +125,7 @@ Powering the system is your choice of Qualcomm's Snapdragon X Elite or X Plus, b
 The Acer Swift 14 AI will first be available in Europe, the Middle East, and Asia in June, and eventually be sold in North America in July, with a starting price of $1,099.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Samsung Galaxy Book 4 Edge
@@ -184,16 +184,24 @@ The [Vivobook S 15](https://www.awin1.com/awclick.php?mid=31828&id=423585&clickr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-the-essential-guide-instagram-optimization-through-final-cut-pro-x/"><u>[New] In 2024, The Essential Guide Instagram Optimization Through Final Cut Pro X</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-video-editing-essentials-building-youtube-trailers-in-filmora/"><u>[Updated] Video Editing Essentials Building YouTube Trailers in Filmora</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-virtual-teamwork-made-simple-on-facebook-live/"><u>[Updated] Virtual Teamwork Made Simple on Facebook Live</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-the-newest-razer-driver-software-on-compatible-windows-platforms-windows-10-87-xp-and-vista/"><u>Download and Install the Newest Razer Driver Software on Compatible Windows Platforms (Windows 10, 8/7, XP & Vista)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-audio-driver-updates-for-usb-sound-cards-on-various-windows-operating-systems/"><u>Effortless Audio Driver Updates for USB Sound Cards on Various Windows Operating Systems</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-flying-selecting-the-best-drone-gimbals-today/"><u>In 2024, Innovative Flying Selecting the Best Drone Gimbals Today</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-posting-a-youtube-video-via-insta-stories-a-step-by-step-guide/"><u>In 2024, Posting a YouTube Video via Insta Stories A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-epson-xp-330-support-software-available-now/"><u>Latest Epson XP-330 Support Software Available Now</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/swift-and-trouble-free-installation-of-intels-82579v-motherboard-chipset-drivers-for-free/"><u>Swift & Trouble-Free Installation of Intel's 82579V Motherboard Chipset Drivers for Free</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for OnePlus Ace 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/using-windows-defender-alongside-third-party-antivirus-is-it-safe-and-effective/"><u>Using Windows Defender Alongside Third-Party Antivirus: Is It Safe and Effective?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-virtual-frontier-peripherals-the-hottest-10/"><u>[New] Virtual Frontier Peripherals The Hottest 10</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-advanced-techniques-for-youtube-card-use/"><u>2024 Approved Advanced Techniques for YouTube Card Use</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-transformative-beauty-practices/"><u>2024 Approved Transformative Beauty Practices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-announces-breakthrough-for-tech-enthusiasts-the-launch-of-five-cutting-edge-ryzen-cpu-models-supported-by-strix-and-kraken-technologies/"><u>AMD Announces Breakthrough for Tech Enthusiasts: The Launch of Five Cutting-Edge Ryzen CPU Models Supported by Strix and Kraken Technologies</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/assessing-negative-impacts-of-vr-for-2024/"><u>Assessing Negative Impacts of VR for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/bloodthirsty-horror-your-go-to-8-zombie-titles-for-2024/"><u>Bloodthirsty Horror Your Go-To 8 Zombie Titles for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-the-latest-canoscan-lide-120-scanner-software/"><u>Download and Install the Latest CanoScan LiDE 120 Scanner Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-updated-drivers-for-your-gigabyte-z370m-p-motherboard-today/"><u>Download Updated Drivers for Your Gigabyte Z370M-P Motherboard Today</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-update-hp-scanjet-printer-drivers-on-windows-1187-free-download-link/"><u>How to Update HP Scanjet Printer Drivers on Windows 11/8/7 - [Free Download Link]</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-update-the-dell-system-management-sm-bus-controller-driver/"><u>How to Update the Dell System Management (SM) Bus Controller Driver</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-tweeted-timelines-a-complete-guide-to-video-backups/"><u>In 2024, Tweeted Timelines A Complete Guide to Video Backups</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-realme-12-5g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Realme 12 5G Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/insightful-evaluation-how-does-the-high-end-samsung-galaxy-tab-s7plus-compare/"><u>Insightful Evaluation: How Does the High-End Samsung Galaxy Tab S^7+ Compare?</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/listing-spanish-speaking-territories-worldwide/"><u>Listing Spanish-Speaking Territories Worldwide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/official-canon-mf4500-printing-software-downloads-available-here/"><u>Official Canon MF4500 Printing Software Downloads Available Here</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-reviews-in-depth-analysis-of-computer-hardware/"><u>Tom's Tech Reviews: In-Depth Analysis of Computer Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-iphone-usb-drivers-for-windows-10-users/"><u>Ultimate Guide: IPhone USB Drivers for Windows 10 Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/windows-10-and-bluetooth-eliminating-driver-issues-for-seamless-connection/"><u>Windows 10 and Bluetooth: Eliminating Driver Issues for Seamless Connection</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1725290518027-uniconverter/"><u>セキュリティ面で信頼性に足りるUniConverter：実態はどうなのか？</u></a></li>
 </ul></div>
 

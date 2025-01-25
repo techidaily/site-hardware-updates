@@ -1,7 +1,7 @@
 ---
 title: Innovative Laptop Holder Enables Mobile Phones to Act as Extra Monitors, Says ZDNet Review
-date: 2025-01-12T19:00:28.942Z
-updated: 2025-01-18T19:50:26.288Z
+date: 2025-01-22T18:24:38.872Z
+updated: 2025-01-24T22:38:22.027Z
 tags:
   - laptops
 categories:
@@ -41,7 +41,7 @@ Here are some of the most interesting features I saw during my hands-on briefing
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Smart Share
@@ -61,7 +61,7 @@ Kyle Kucharski/ZDNET
 Besides the Smart Share features, there are four different "modes" that activate various features. You can toggle each feature on or off individually, to avoid being bombarded with different prompts. Here are the most impactful ones I saw during my time trying the new laptops.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Shield Mode
@@ -70,7 +70,7 @@ Besides the Smart Share features, there are four different "modes" that activate
 * The VPN auto-launch feature will start your preferred VPN automatically upon connecting to any public Wi-Fi network, a handy function if you spend a lot of time working in coffee shops.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Attention Mode
@@ -80,7 +80,7 @@ Besides the Smart Share features, there are four different "modes" that activate
 Kyle Kucharski/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Collaboration Mode
@@ -88,7 +88,7 @@ Kyle Kucharski/ZDNET
 * Designed mostly for virtual meetings, activating this mode enables your preset camera features, such as background blur, low light enhancer, or touch ups.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Wellness Mode
@@ -133,24 +133,24 @@ We'll definitely be doing some additional testing of the smart modes when we get
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-cutting-edge-tips-for-elite-instagram-image-editing-for-2024/"><u>[New] Cutting-Edge Tips for Elite Instagram Image Editing for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-unlocking-freenocams-webcam-capturing-capabilities/"><u>2024 Approved Unlocking FreenoCam's Webcam Capturing Capabilities</u></a></li>
-<li><a href="https://extra-information.techidaily.com/androids-technique-for-retroactive-viewing-for-2024/"><u>Android's Technique for Retroactive Viewing for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/decoding-the-shutdown-of-yahoo-messenger-a-comprehensive-guide-to-what-it-was-and-why-it-ended/"><u>Decoding the Shutdown of Yahoo! Messenger: A Comprehensive Guide to What It Was & Why It Ended</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/dishing-up-fun-the-ultimate-critique-of-the-hit-cooking-game-overcooked-2/"><u>Dishing Up Fun: The Ultimate Critique of the Hit Cooking Game, Overcooked! 2</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-epson-xp-420-printer-software-latest-drivers-and-firmware-updates/"><u>Download & Install Epson XP-420 Printer Software: Latest Drivers and Firmware Updates</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-latest-sas-software-on-windows-11-8-or-7-free-updates/"><u>Download & Install Latest SAS Software on Windows 11, 8 or 7 - Free Updates</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/geforce-460-driver-update-seamless-installation-on-windows-machines/"><u>GeForce 460 Driver Update: Seamless Installation on Windows Machines</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-install-the-latest-iphone-drivers-on-your-windows-10-pc/"><u>How to Install the Latest iPhone Drivers on Your Windows 10 PC</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-poco-x5-pro-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Poco X5 Pro Phone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-konica-minolta-printer-drivers-available-here-windows-111087-downloads/"><u>Latest Konica Minolta Printer Drivers Available Here: Windows 11/10/8/7 Downloads</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/msk-minimum-shift-keying/"><u>MSK (Minimum Shift Keying)</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Lenovo ThinkPhone? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722977084738-rapid-access-to-razer-mamba-device-drivers-start-now/"><u>Rapid Access to Razer Mamba Device Drivers - Start Now</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/razer-mamba-driver-download-swift-and-simple-steps/"><u>Razer Mamba Driver Download: Swift and Simple Steps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/speeding-up-your-pc-adjusting-boot-sequence-timer-in-win11/"><u>Speeding Up Your PC: Adjusting Boot Sequence Timer in Win11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-tutorial-setting-up-your-arduino-by-downloading-the-right-windows-drivers/"><u>The Ultimate Tutorial: Setting Up Your Arduino by Downloading the Right Windows Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/tp-link-80211ac-network-adapter-driver-latest-download-for-windows-10-8-and-7/"><u>TP-Link 802.11Ac Network Adapter Driver | Latest Download | For Windows 10, 8 and 7</u></a></li>
-<li><a href="https://win11.techidaily.com/winfix-methods-to-overcome-missing-msvcrt120dll-errors/"><u>Winfix: Methods to Overcome Missing Msvcrt120dll Errors</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-advanced-strategies-for-rl-capture-success/"><u>[New] In 2024, Advanced Strategies for RL Capture Success</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-elite-tech-list-screen-recorders-with-zero-latency/"><u>[New] In 2024, Elite Tech List Screen Recorders with Zero Latency</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-prime-hashtag-combinations-driving-view-count-higher/"><u>[Updated] In 2024, Prime Hashtag Combinations Driving View Count Higher</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862816833-189-for-power-and-performance-minisforums-new-laptop-boasts-a-156-inch-144hz-1440p-screen-gaming-at-its-best/"><u>$189 for Power & Performance: Minisforum's New Laptop Boasts a 15.6 Inch, 144Hz, 1440P Screen - Gaming at Its Best</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862774023-549-for-the-lg-ultragear-34-qhd-monitor-features-g-sync-available-now-on-amazon/"><u>$549 for the LG Ultragear 34 QHD Monitor - Features G-Sync, Available Now on Amazon</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/advanced-device-evaluations-trustworthy-advice-from-tomhardware/"><u>Advanced Device Evaluations - Trustworthy Advice From TomHardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862803339-alienware-34-ultra-hd-curved-monitor-unbeatable-deal-at-best-buy-for-just-749/"><u>Alienware 34'' Ultra HD Curved Monitor - Unbeatable Deal at Best Buy For Just $749!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/aoc-unveils-premium-445-240hz-oled-gaming-monitor-agon-pro-ag45email-protected/"><u>AOC Unveils Premium 44.5 240Hz OLED Gaming Monitor - Agon Pro AG45([email Protected])</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/dell-laptop-maintenance-made-easy-ultimate-tips-for-effective-cleaning/"><u>Dell Laptop Mainten#ance Made Easy: Ultimate Tips for Effective Cleaning</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862840485-elevate-your-gaming-setup-with-the-latest-asus-innovation-rog-strix-xg227-wcs-a-superior-27-va-panel-at-a-whopping-180hz/"><u>Elevate Your Gaming Setup with the Latest Asus Innovation: ROG Strix XG2^27 WCS – A Superior 27 VA Panel at a Whopping 180Hz</u></a></li>
+<li><a href="https://media-tips.techidaily.com/free-conversion-guide-transform-your-avchd-videos-without-hitch/"><u>Free Conversion Guide: Transform Your AVCHD Videos Without Hitch</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862799178-get-your-game-on-acer-nitro-27-monitor-at-just-149-smooth-170hz-display/"><u>Get Your Game On: Acer Nitro 27 Monitor at Just $149 - Smooth 170Hz Display</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-3-ways-to-unlock-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 12 3 Ways To Unlock</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-vivo-v27-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Vivo V27 FRP</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-itel-a70-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-components-at-toms-hardware-your-tech-resource/"><u>In-Depth Analysis of Components at Tom's Hardware | Your Tech Resource</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-the-dreaded-dark-a-comprehensive-guide-on-repairing-windows-11s-black-screen-problem/"><u>Resolving the Dreaded Dark: A Comprehensive Guide on Repairing Windows 11'S Black Screen Problem</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862775926-revolutionary-offer-get-a-156-inch-1080p-ips-monitor-at-record-low-price-of-6599/"><u>Revolutionary Offer: Get a 15.6-Inch 1080P IPS Monitor at Record Low Price of $65.99!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862827375-upgrade-to-a-new-level-of-productivity-with-the-premium-lg-34-inch-ultragear-screen-at-an-unbeatable-price-of-499/"><u>Upgrade to a New Level of Productivity With the Premium LG 34-Inch UltraGear Screen at an Unbeatable Price of $499</u></a></li>
 </ul></div>
 

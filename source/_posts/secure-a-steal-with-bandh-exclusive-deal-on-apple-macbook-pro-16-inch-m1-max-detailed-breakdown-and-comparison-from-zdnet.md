@@ -1,7 +1,7 @@
 ---
 title: "Secure a Steal with B&H: Exclusive Deal on Apple MacBook Pro 16-Inch M1 Max - Detailed Breakdown & Comparison From ZDNet"
-date: 2025-01-17T17:31:47.082Z
-updated: 2025-01-18T16:58:22.133Z
+date: 2025-01-19T21:26:00.384Z
+updated: 2025-01-24T19:51:03.729Z
 tags:
   - laptops
 categories:
@@ -40,10 +40,14 @@ For a recap of all the products unveiled during Apple's "Scary Fast" event -- an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What products did get announced
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## M3 chips in all sizes
@@ -66,6 +70,10 @@ Much like the M2 processors that classify Apple's latest Mac computers by perfor
 * M3 Pro: Starting at 12 main processing cores (six performance and six efficiency) and 18 graphics cores
 * M3 Max: Starting at 16 main processing cores (12 performance and four efficiency) and 40 graphics cores, and now supports up to 128GB of unified memory
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. 14-inch and 16-inch MacBook Pro
 
 June Wan/ZDNET
@@ -82,10 +90,6 @@ What hasn't changed is the form factors of the new MacBook Pros, with Liquid Ret
 
 The 14- and 16-inch MacBook Pros are available for preorder right now, starting at $1,599 and $2,499, respectively, with the M3 and M3 Pro models seeing earlier ship times (as soon as next week), and the M3 Max models being slated for late November.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. iMac with M3
 
 Jason Hiner/ZDNET
@@ -98,14 +102,10 @@ Apple says the M3 chip allows the new 24-inch iMac to perform at twice the speed
 
 The 24-inch iMac is now available for preorder starting at $1,299 and will begin shipping next week.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What products didn't get announced
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. 13-inch MacBook Pro
@@ -119,7 +119,7 @@ It's not unreasonable to assume that it may be the end of the line for Apple's f
 If there was any time for the company to further the gap between its old laptops and the new, Apple's "Scary Fast" event just made the most sense.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Magic Keyboard and Mouse with USB-C
@@ -166,17 +166,22 @@ The keynote presentation began on Monday, Oct. 30, 2023, at 5 p.m. PT (8 p.m. ET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ransform-youtube-performance-leading-tracking-apps-revealed/"><u>[New] Transform YouTube Performance - Leading Tracking Apps Revealed</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-how-to-effortlessly-eradicate-unwanted-youtube-post-comments/"><u>[Updated] How to Effortlessly Eradicate Unwanted Youtube Post-Comments</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/acer-bluetooth-driver-installation-made-easy-expert-tips-and-immediate-access-downloads/"><u>Acer Bluetooth Driver Installation Made Easy: Expert Tips & Immediate Access Downloads</u></a></li>
-<li><a href="https://program-issues.techidaily.com/connecting-to-steam-servers-successfully-tips-and-tricks/"><u>Connecting to Steam Servers Successfully: Tips and Tricks</u></a></li>
-<li><a href="https://win-net.techidaily.com/1728469591260-nvme-ssd/"><u>NVMe SSDをアップグレードする方法：転置・交換によるダブルキャスト手順</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-refreshing-your-samsung-smartphones-usb-drivers/"><u>Step-by-Step Guide: Refreshing Your Samsung Smartphone's USB Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722975372315-streamlined-setup-expert-tips-for-quickly-downloading-and-installing-your-hp-driver-needs/"><u>Streamlined Setup: Expert Tips for Quickly Downloading & Installing Your HP Driver Needs</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-best-budget-case-for-your-macbook-pro-13-inside-look-at-procases-offering/"><u>The Best Budget Case for Your MacBook Pro 13? Inside Look at ProCase's Offering</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-ranked-mac-system-tidier-software-of-2022-revealed-the-ultimate-selection-from-zdnet/"><u>Top-Ranked Mac System Tidier Software of 2022 Revealed: The Ultimate Selection From ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-to-enhanced-performance-msi-x470-gamingplus-driver-downloads-available/"><u>Update to Enhanced Performance: MSI X470 Gaming+ Driver Downloads Available</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-home-movie-magic-simple-yet-effective-video-editing-techniques/"><u>Updated Home Movie Magic Simple yet Effective Video Editing Techniques</u></a></li>
-<li><a href="https://extra-information.techidaily.com/vhs-classic-check-goofy-and-his-gangs-joke-time/"><u>VHS Classic Check Goofy and His Gang's Joke Time</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-time-honored-vhs-hacks-a-curators-choice-of-visual-tricks/"><u>[New] 2024 Approved Time-Honored VHS Hacks A Curator’s Choice of Visual Tricks</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-clearing-up-confusion-addressing-youtube-short-concerns-for-2024/"><u>[New] Clearing Up Confusion Addressing YouTube Short Concerns for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-top-mac-hd-frame-gems-guide-char-limit-156/"><u>[Updated] Top Mac HD Frame Gems Guide (Char Limit 156)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/brother-mfc-l2700dw-software-installation-for-windows-quick-and-simple-steps/"><u>Brother MFC-L2700DW Software Installation for Windows: Quick and Simple Steps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-download-of-epson-wf-2750-printer-software-and-installation-instructions/"><u>Easy Download of Epson WF-2750 Printer Software & Installation Instructions</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/essential-online-tools-to-refine-your-music-with-superior-mp3-processing-for-2024/"><u>Essential Online Tools to Refine Your Music with Superior MP3 Processing for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exclusive-deal-get-your-hands-on-the-topmost-essential-app-for-all-new-mac-users-now-at-a-steep-discount-featured-by-zdnet/"><u>Exclusive Deal: Get Your Hands on the Topmost Essential App for All New Mac Users - Now at a Steep Discount, Featured by ZDNet!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-efficiency-enhancements-extensive-benchmarking-of-the-amd-ryzen-9-9950x-engineering-sample-with-blender-across-a-spectrum-of-thermal-design-power-36/"><u>Exploring Efficiency Enhancements: Extensive Benchmarking of the AMD Ryzen 9 9950X Engineering Sample with Blender Across a Spectrum of Thermal Design Power Settings</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-aoc-graphics-card-drivers-for-your-windows-operating-system-efficiently/"><u>Get the Latest AOC Graphics Card Drivers for Your Windows Operating System Efficiently</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722967434010-get-your-brother-hl-l2360dw-ready-download-essential-printer-drivers-now/"><u>Get Your Brother HL-L2360DW Ready: Download Essential Printer Drivers Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-ensure-proper-operation-updating-usb-serial-controller-hardware-drivers/"><u>How To Ensure Proper Operation: Updating USB-Serial Controller Hardware Drivers</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-elevate-your-content-with-professional-end-screen-templates/"><u>In 2024, Elevate Your Content with Professional End Screen Templates</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-vivo-y100i-by-drfone-android/"><u>In 2024, How to Bypass FRP on Vivo Y100i?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/master-the-process-seamless-graphics-driver-enhancement-for-windows-11-users/"><u>Master the Process: Seamless Graphics Driver Enhancement for Windows 11 Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/speedy-driver-update-tutorial-for-dell-xps-7590-g7/"><u>Speedy Driver Update Tutorial for Dell XPS 7590 (G7)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/startup-steps-for-stream-money-in-periscope-for-2024/"><u>Startup Steps for Stream Money in Periscope for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/the-art-of-changing-meeting-screens-on-microsoft-teams/"><u>The Art of Changing Meeting Screens on Microsoft Teams</u></a></li>
 </ul></div>
 

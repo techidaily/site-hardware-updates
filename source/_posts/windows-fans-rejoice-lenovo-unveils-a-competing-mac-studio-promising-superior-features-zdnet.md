@@ -1,7 +1,7 @@
 ---
 title: Windows Fans Rejoice! Lenovo Unveils a Competing Mac Studio, Promising Superior Features | ZDNET
-date: 2025-01-11T17:32:43.909Z
-updated: 2025-01-18T19:30:11.442Z
+date: 2025-01-23T20:39:48.120Z
+updated: 2025-01-25T02:00:01.727Z
 tags:
   - laptops
 categories:
@@ -22,7 +22,7 @@ At [CES 2024](https://www.zdnet.com/topic/ces-2024/), Lenovo plans to show off a
 Without question, the new PC resembles a [Mac Studio](https://www.zdnet.com/article/apple-mac-studio-m2-ultra-review/), coming with a main desktop unit in the shape of a small box alongside a monitor. It houses all of the major components like a neural processing unit, or NPU for short. This utilizes [AI](https://www.zdnet.com/article/what-is-ai-heres-everything-you-need-to-know-about-artificial-intelligence/) to provide a third resource for the computer, improving its overall performance. It can even be upgraded, letting you modulate the device's performance however you want.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Special Feature
@@ -85,21 +85,20 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-partitioned-presence-ranking-splittest-cam/"><u>[New] In 2024, Partitioned Presence Ranking Splittest Cam</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-official-nvidia-geforce-rtx-3070-ti-drivers-supports-win-11-8-and-7/"><u>Download Official NVIDIA GeForce RTX 3070 Ti Drivers - Supports Win 11, 8 & 7</u></a></li>
-<li><a href="https://windows11.techidaily.com/easily-overcome-excel-blank-file-glitches-top-advice-for-a-smooth-solution/"><u>Easily Overcome Excel Blank File Glitches: Top Advice for a Smooth Solution</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-access-to-downloading-and-configuring-evga-drivers-on-your-windows-machine/"><u>Easy Access to Downloading and Configuring EVGA Drivers on Your Windows Machine</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-update-and-installation-guide-for-d-link-device-drivers-on-windows/"><u>Free Update and Installation Guide for D-Link Device Drivers on Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-newest-canon-pixma-mg2522-driver-for-enhanced-printing-performance/"><u>Get the Newest Canon PIXMA MG2522 Driver for Enhanced Printing Performance</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/gratuit-comment-transformer-votre-video-mts-en-formats-mp4-efficacement/"><u>Gratuit: Comment Transformer Votre Vidéo MTS En Formats MP4 Efficacement</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-xiaomi-redmi-k70e-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Xiaomi Redmi K70E to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-honor-90-gt-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Honor 90 GT</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-embark-into-the-best-youtube-vr-content-ever/"><u>In 2024, Embark Into the Best YouTube VR Content Ever</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-samsung-galaxy-xcover-6-pro-tactical-edition-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Samsung Galaxy XCover 6 Pro Tactical Edition to New Android? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/secure-and-optimize-your-epson-wf-352t-printer-performance-by-downloading-the-newest-windows-driver-here/"><u>Secure & Optimize Your Epson WF-352t Printer Performance by Downloading the Newest Windows Driver Here</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/solving-audio-issues-effective-strategies-from-yl-softwares-expert-guide/"><u>Solving Audio Issues: Effective Strategies From YL Software’s Expert Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-resource-find-and-update-creative-webcams-with-latest-windows-compatible-drivers/"><u>Ultimate Resource: Find & Update Creative Webcams with Latest Windows-Compatible Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/updated-drivers-for-hp-scanjet-on-windows-1087-get-them-here/"><u>Updated Drivers for HP Scanjet on Windows 10/8/7: Get Them Here!</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/xperia-iphone202e/"><u>Xperia に対してiPhoneがどう勝る？最新スマホ202e比較ですべて解明！</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-navigating-the-financial-frontier-of-youtube-creators/"><u>[Updated] Navigating the Financial Frontier of YouTube Creators</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/conquering-camera-angst-the-ultimate-list-of-video-blogging-phobias-for-2024/"><u>Conquering Camera Angst The Ultimate List of Video Blogging Phobias for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-update-canon-mg3000-printer-drivers-step-by-step-guide/"><u>Download and Update Canon MG3000 Printer Drivers: Step-by-Step Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-vivo-s18e-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Vivo S18e to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Motorola Edge 40 Neo? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/lighter-than-air-stronger-than-steel-the-marvel-of-structural-carbon-fiber-batteries-redefining-device-mobility/"><u>Lighter Than Air, Stronger than Steel: The Marvel of Structural Carbon Fiber Batteries Redefining Device Mobility</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-hardware-hacks-with-toms-technology-forums/"><u>Mastering Hardware Hacks with Tom's Technology Forums</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-technology-a-deep-dive-into-hardware-tips-by-tomexpert/"><u>Mastering Technology: A Deep Dive Into Hardware Tips by TomExpert</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-your-tech-choices-comprehensive-insights-from-tomhrenology/"><u>Mastering Your Tech Choices: Comprehensive Insights From Tom'hrenology</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-script-synthesizer-for-2024/"><u>Media Script Synthesizer for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigate-the-tech-scene-with-guidance-from-toms-hardware/"><u>Navigate the Tech Scene with Guidance From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigate-the-world-of-electronics-the-ultimate-toms-hardware-resource/"><u>Navigate the World of Electronics: The Ultimate Tom's Hardware Resource</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-tech-trends-fresh-perspectives-from-toms-hardware-hub/"><u>Navigating Tech Trends: Fresh Perspectives From Tom's Hardware Hub</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/step-by-step-guide-transforming-mmm-audio-into-mp3-and-more/"><u>Step-by-Step Guide: Transforming MMM Audio Into MP3 & More!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unleashing-humor-the-kapwing-meme-builder-way/"><u>Unleashing Humor The Kapwing Meme Builder Way</u></a></li>
 </ul></div>
 

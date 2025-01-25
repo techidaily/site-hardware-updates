@@ -1,7 +1,7 @@
 ---
 title: Don't Miss Out! Get Your Hands on a Discounted 8TB Samsung T5 SSD During Amazon October Prime Day | ZDNET
-date: 2025-01-15T19:56:32.653Z
-updated: 2025-01-18T19:42:48.905Z
+date: 2025-01-22T19:06:33.026Z
+updated: 2025-01-24T21:32:09.154Z
 tags:
   - laptops
 categories:
@@ -28,7 +28,7 @@ With a truly impressive amount of storage space, you'll get read and write speed
 Along with great read and write speeds and more reliable data transfers, the [Samsung T5 Evo](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Portable-External-MU-PH8T0S-AM%2Fdp%2FB0CMDGGJTZ%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce74f4426-3b28-4d32-87bd-c6b12107cdc1%7Cdtp&dtb=1) also features 256-bit AES encryption to keep your personal data and sensitive information safe from unauthorized access. Its outer casing is drop- and shock-resistant and can withstand falls up to six feet, making it perfect for on-location photographers and other mobile professionals who need a tough storage drive for offloading raw photos from camera storage or transferring important projects and documents between their home office and mobile work location. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -65,19 +65,19 @@ While the Amazon listing for the Samsung T5 Evo portable SSD does not have a cou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-self-filmed-flair-tips-for-captivating-solo-videos/"><u>[Updated] 2024 Approved Self-Filmed Flair Tips for Captivating Solo Videos</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-inshot-soundsmith-adding-audio-to-videos/"><u>[Updated] InShot Soundsmith Adding Audio to Videos</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-mastering-facetime-capturing-conversations-live/"><u>2024 Approved Mastering FaceTime Capturing Conversations Live</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-premier-composer-of-media-experience/"><u>2024 Approved Premier Composer of Media Experience</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/a-deep-dive-into-durecorders-full-range/"><u>A Deep Dive Into DuRecorder's Full Range</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722978743065-courts-follow-a-standardized-set-of-rules-and-procedures-while-arbitration-can-be-customized-for-each-case-through-the-arbitration-agreement/"><u>Courts Follow a Standardized Set of Rules and Procedures, While Arbitration Can Be Customized for Each Case Through the Arbitration Agreement</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-update-hp-officejet-pro-8720-drivers-on-windows-free-guide/"><u>Download & Update HP OfficeJet Pro 8720 Drivers on Windows - Free Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-update-mbox-2-drivers-on-windows-a-step-by-step-guide/"><u>Download & Update MBox 2 Drivers on Windows: A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-newest-toshiba-laptop-drivers-and-firmware-updates-on-windows-pcs/"><u>Get the Newest Toshiba Laptop Drivers and Firmware Updates on Windows PCs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722963582837-hassle-free-windows-drivers-installation-master-the-method/"><u>Hassle-Free Windows Drivers Installation - Master the Method!</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-nokia-150-2023-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Nokia 150 (2023) Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-realme-11-proplus-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Realme 11 Pro+ Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-video-privacy-made-easy-face-blurring-with-top-editing-tools-for-2024/"><u>New Video Privacy Made Easy Face Blurring with Top Editing Tools for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/resolving-common-issues-with-realtek-universal-drivers-a-complete-guide/"><u>Resolving Common Issues with Realtek Universal Drivers: A Complete Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-breathe-life-into-stills-slow-video-on-iphone-for-2024/"><u>[New] Breathe Life Into Stills Slow Video on iPhone for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-perfect-your-content-instagram-reel-best-practices/"><u>[New] Perfect Your Content Instagram Reel Best Practices</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/anticipated-new-tech-in-the-iphone-16-series-a-compelling-reason-to-consider-an-upgrade/"><u>Anticipated New Tech in the iPhone 16 Series - A Compelling Reason to Consider an Upgrade</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/delving-into-gadgets-with-tom-in-depth-computer-hardware-insights/"><u>Delving Into Gadgets with Tom: In-Depth Computer Hardware Insights</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-motorola-moto-g23-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-blueprinting-engaging-content-layouts-on-youtube/"><u>In 2024, Blueprinting Engaging Content Layouts on YouTube</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723964490170-sennheisers-high-end-hd-620s-audiophile-headphones-new-low-price-at-just-50/"><u>Sennheiser's High-End HD 지620S Audiophile Headphones: New Low Price at Just $50</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-guide-to-choosing-an-economical-mechanical-keypad-best-picks-and-buying-tips/"><u>The Ultimate Guide to Choosing an Economical Mechanical Keypad: Best Picks and Buying Tips</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-list-leading-wireless-typing-devices-for-2ebyers/"><u>The Ultimate List: Leading Wireless Typing Devices for 2Ebyers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-review-expert-insights-on-computer-hardware-t17239718737473/"><u>Tom's Tech Review: Expert Insights on Computer Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-gaming-keyboards-of-2024-a-comprehensive-guide-to-full-size-tkl-and-mini-options/"><u>Top Rated Gaming Keyboards of 2024: A Comprehensive Guide to Full-Size, TKL & Mini Options</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/transforming-your-videos-with-captivating-youtube-thumbnails-using-a-mac-for-2024/"><u>Transforming Your Videos with Captivating Youtube Thumbnails, Using a Mac for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/vimeos-no-money-solution-easy-editing-basics/"><u>Vimeo's No-Money Solution Easy Editing Basics</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-against-apex-legends-crashes-in-windows-11/"><u>Winning Against Apex Legends Crashes in Windows 11</u></a></li>
 </ul></div>
 

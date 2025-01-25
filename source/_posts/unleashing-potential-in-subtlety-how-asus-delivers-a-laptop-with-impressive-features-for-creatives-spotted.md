@@ -1,7 +1,7 @@
 ---
 title: Unleashing Potential in Subtlety - How Asus Delivers a Laptop with Impressive Features for Creatives, Spotted
-date: 2025-01-15T19:23:04.875Z
-updated: 2025-01-18T17:18:30.264Z
+date: 2025-01-19T00:22:18.915Z
+updated: 2025-01-24T21:15:17.062Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -73,7 +73,7 @@ Asus' Vivobook Pro 15 does a good job playing media. Hi-res videos look stunning
 In line with my initial impression, the device is a little on the bulky side, but the extra heft is not a big deal because it's lightweight and the extra room allows for a wide array of ports. You get two USB-Cs, a pair of USB-A inputs that support transfer speeds of up to 5GBPS, HDMI, an ethernet port, and an SD card slot.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -112,22 +112,21 @@ If you want something more powerful, I suggest checking out the MSI Creator Z16 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-secrets-to-effortless-obs-broadcasts-on-fb/"><u>[New] In 2024, Secrets to Effortless OBS Broadcasts on FB</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-the-secret-art-of-hidden-streaming-instagrams-anonymous-spectators-guide/"><u>[New] The Secret Art of Hidden Streaming Instagram's Anonymous Spectators Guide</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-color-grading-integrating-free-lut-resources/"><u>2024 Approved Innovative Color Grading Integrating FREE LUT Resources</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-navigating-the-world-of-asmr-video-content/"><u>2024 Approved Navigating the World of ASMR Video Content</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-steps-to-correct-your-realtek-rtl8723be-driver-malfunction/"><u>Comprehensive Steps to Correct Your Realtek RTL8723BE Driver Malfunction</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/direct-download-link-to-rtx-2080-super-nvidia-drivers-up-to-date-for-windows-11/"><u>Direct Download Link to RTX 2080 Super NVIDIA Drivers - Up-to-Date for Windows 11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-freshly-released-broadcom-bluetooth-drivers-for-windows-operating-systems-xp-vista/"><u>Get Your Freshly Released Broadcom Bluetooth Drivers for Windows Operating Systems (XP, Vista)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hp-wirelessnetwork-adapters-updated-driver-software-for-windows-operating-systems/"><u>HP Wireless/Network Adapters: Updated Driver Software for Windows Operating Systems</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-logitech-steering-wheel-software-on-windows-versions-7810/"><u>Install Logitech Steering Wheel Software on Windows (Versions 7/8/10)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/installing-nvidia16-3d-vision-drivers-on-your-window-system-without-cost/"><u>Installing Nvidia'16 3D Vision Drivers on Your Window System Without Cost</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-nvidia-quadro-windows-11-drivers-download-and-installation-steps/"><u>Latest NVIDIA Quadro Windows 11 Drivers - Download & Installation Steps</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/speedy-download-and-install-of-samsung-m2070fw-printing-software/"><u>Speedy Download & Install of Samsung M2070FW Printing Software</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/step-by-step-guide-removing-files-in-windows-os-tech-tips-from-yl-computing/"><u>Step-by-Step Guide: Removing Files in Windows OS - Tech Tips From YL Computing</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/transform-your-tiktok-footage-with-enlarged-characters-for-2024/"><u>Transform Your TikTok Footage with Enlarged Characters for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-for-resolving-hulu-error-rununk13/"><u>Troubleshooting Steps for Resolving Hulu ERROR RUNUNK13</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-xiaomi-redmi-note-12t-pro-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Xiaomi Redmi Note 12T Pro IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-digitalscreen-app-assessment-review-for-2024/"><u>[New] DigitalScreen App Assessment Review for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-dominate-discussion-how-to-trend-on-social-media-platforms/"><u>[New] In 2024, Dominate Discussion How to Trend on Social Media Platforms</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-expertise-in-visuals-enhancing-pictures-with-words/"><u>[New] In 2024, Expertise in Visuals Enhancing Pictures with Words</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gourmet-guide-culinary-video-production/"><u>[Updated] In 2024, Gourmet Guide Culinary Video Production</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-digital-innovations-with-toms-hardware-guide/"><u>Exploring Digital Innovations with Tom's Hardware Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/google-strikes-back-with-bard-the-innovative-ai-built-to-compete-directly-with-microsofts-chatgpt/"><u>Google Strikes Back with Bard: The Innovative AI Built to Compete Directly With Microsoft's ChatGPT</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/identifying-malfunctioning-ram-expert-tips-from-yl-software-solutions/"><u>Identifying Malfunctioning RAM: Expert Tips From YL Software Solutions</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-tecno-spark-10-5g-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/in-depth-insights-into-the-logitech-astro-a50-x-game-headsets-performance-across-various-platforms/"><u>In-Depth Insights Into the Logitech Astro A50 X Game Headset's Performance Across Various Platforms</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-cougar-gaming-chassis-showcases-stunning-rgb-turning-stand-for-collectible-figurines-unveiled-at-computex/"><u>Latest Cougar Gaming Chassis Showcases Stunning RGB Turning Stand for Collectible Figurines - Unveiled at Computex</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/lowest-price-on-pure-base-500dx-midi-tower-computer-case-just-84-available-now/"><u>Lowest Price on Pure Base 500DX Midi-Tower Computer Case: Just $84 Available Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/save-big-high-quality-corsair-4000d-atx-mid-tower-with-850w-power-supply-unit-just-139/"><u>Save Big: High-Quality Corsair 4000D ATX Mid Tower with 850W Power Supply Unit - Just $139!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-comprehensive-gadget-reviews-t17239718721769/"><u>Tom's Tech Insights: Comprehensive Gadget Reviews</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-your-guide-to-the-latest-in-computer-hardware/"><u>Tom's Tech Insights: Your Guide to the Latest in Computer Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-reviews-comprehensive-guide-to-the-latest-in-computer-hardware/"><u>Tom's Tech Reviews: Comprehensive Guide to the Latest in Computer Hardware</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-techniques-to-fix-win11-system-call-errors/"><u>Troubleshooting Techniques to Fix Win11 System Call Errors</u></a></li>
 </ul></div>
 

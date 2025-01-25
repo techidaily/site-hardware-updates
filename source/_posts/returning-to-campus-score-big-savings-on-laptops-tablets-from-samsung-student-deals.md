@@ -1,7 +1,7 @@
 ---
 title: Returning to Campus? Score Big Savings on Laptops, Tablets From Samsung | Student Deals
-date: 2025-01-16T16:41:36.415Z
-updated: 2025-01-18T19:35:22.013Z
+date: 2025-01-20T17:39:21.348Z
+updated: 2025-01-24T22:54:05.692Z
 tags:
   - laptops
 categories:
@@ -51,7 +51,7 @@ If you want to shop around, Samsung isn't the only brand offering student discou
 * [Razer Education Purchase Program](https://razer.a9yw.net/c/159047/642901/10229?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.razer.com%2Feducation%3F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -90,20 +90,15 @@ However, stock may expire at any time. ZDNET remains committed to finding, shari
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-advanced-techniques-for-live-action-sims-playback/"><u>[Updated] Advanced Techniques for Live-Action Sims Playback</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-7-best-zero-cost-web-based-film-makers/"><u>[Updated] In 2024, 7 Best Zero-Cost Web-Based Film Makers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/2024s-ultimate-guide-to-premium-m-2-solid-state-drives-in-depth-analysis-and-ratings/"><u>2024'S Ultimate Guide to Premium M. 2 Solid State Drives: In-Depth Analysis & Ratings</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-oppo-a1x-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Oppo A1x 5G | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-ultimate-guide-to-best-visual-voicemail-apps/"><u>Discover The Ultimate Guide to Best Visual Voicemail Apps</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-installation-get-your-latest-drivers-for-hp-devices-now/"><u>Easy Installation: Get Your Latest Drivers for HP Devices Now!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/elo-touch-screen-driver-download-for-windows/"><u>Elo Touch Screen Driver Download for Windows</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ethernet-alternatives-establishing-a-stable-wired-home-internet-connection-without-standard-cables/"><u>Ethernet Alternatives - Establishing a Stable Wired Home Internet Connection Without Standard Cables</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-canon-d530-camera-software-full-guide-on-downloads-and-updates/"><u>Free Canon D530 Camera Software: Full Guide on Downloads and Updates</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-contacts-from-apple-iphone-14-pro-to-iphone-quickly-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Contacts from Apple iPhone 14 Pro to iPhone Quickly | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/massive-950-off-snap-up-lenovos-premium-office-laptop-before-octobers-prime-deals-insider-tips-from-zdnet/"><u>Massive $950 Off: Snap Up Lenovo's Premium Office Laptop Before October's Prime Deals - Insider Tips From ZDNet</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/proven-pathways-to-peeling-away-pesky-backdrops-with-affinity-photo-tools-for-2024/"><u>Proven Pathways to Peeling Away Pesky Backdrops with Affinity Photo Tools for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/samsung-unveils-upgraded-copilotplus-pc-featuring-enhanced-ai-capabilities-exclusive-tech-news/"><u>Samsung Unveils Upgraded Copilot+ PC Featuring Enhanced AI Capabilities - Exclusive Tech News</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-showdown-deciding-whether-to-go-for-a-macbook-pro-or-macbook-air-cnets-latest-review/"><u>The Ultimate Showdown: Deciding Whether to Go for a MacBook Pro or MacBook Air | CNET's Latest Review</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-110-unmissable-christmas-bargains-on-tech-and-entertainment-gear-including-smartphones-televisions-computers-zdnet/"><u>Top 110 Unmissable Christmas Bargains on Tech & Entertainment Gear – Including Smartphones, Televisions, Computers | ZDNet</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-surviving-the-apocalypse-top-8-zombie-classics/"><u>[Updated] Surviving the Apocalypse Top 8 Zombie Classics</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-iphone-voice-calls-a-comprehensive-how-to/"><u>Mastering the Art of iPhone Voice Calls: A Comprehensive How-To</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigate-the-world-of-hardware-with-toms-guidance/"><u>Navigate the World of Hardware with Tom's Guidance</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-hardware-innovations-with-tom-expert-reviews-and-guides/"><u>Navigating Hardware Innovations with Tom - Expert Reviews & Guides</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-technology-with-tom-a-guide-to-premium-hardware/"><u>Navigating Technology with Tom: A Guide to Premium Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-the-complexities-of-computer-components-at-toms-tech-forum/"><u>Navigating the Complexities of Computer Components at Tom’s Tech Forum</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/os-x-mavericks-the-ultimate-mp4-file-editor/"><u>OS X Mavericks The Ultimate MP4 File Editor</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamless-integration-of-google-play-store-in-win11/"><u>Seamless Integration of Google Play Store in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-speech-recognition-addressing-not-launched-problems/"><u>Windows Speech Recognition: Addressing Not Launched Problems</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Black Friday Bargain: Snag Lenovo's Flex 지난에 $99 Deal Before Cyber Monday Chaos | ZDNET"
-date: 2025-01-16T19:41:15.925Z
-updated: 2025-01-18T16:04:02.607Z
+date: 2025-01-23T00:35:15.316Z
+updated: 2025-01-24T20:44:08.590Z
 tags:
   - laptops
 categories:
@@ -16,7 +16,7 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
 Cyber Monday is one of the best times of the year to purchase your next laptop or tablet. Considerable discounts plus major brands equal unparalleled savings. Say you're working within a limited budget, though -- under $100 or under $500\. I compared the best laptops by their standout features, including processing power, RAM, and operating system, to arrive at the best laptop under $500 and under $100 this Cyber Monday.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -24,7 +24,7 @@ Cyber Monday is one of the best times of the year to purchase your next laptop o
 [![04-bf-cm.png](https://www.zdnet.com/a/img/resize/954e855aae296b0590d40ff6eba4167fd27f3d67/2022/11/29/2911e8eb-1a11-4aa3-8ff7-015c7e854046/04-bf-cm.png?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best Black Friday and Cyber Monday tech deals still available If you missed out on this year's mega sale events, no problem. ZDNET is rounding up the best tech deals still available, right here.  Read now](https://www.zdnet.com/collection/cyber-monday/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 In the under $500 category, you get the highest savings on the [HP Pavilion 15t-eg200 laptop](https://www.tkqlhce.com/click-9041660-15850793?url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fhp-pavilion-laptop-15t-eg200-laptop-4u8e0av-1&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). The 15.6-inch laptop is on sale through HP for $450 -- a markdown of $450 from its original $900 price. It comes with a Windows 11 Home operating system, an Intel® Core™ i5 processor, an Intel® Iris® Xe Graphics card, 8 GB memory, and 256 GB storage. It has a fingerprint reader, a long lasting battery that supports fast charging of about 50% in 45 minutes, and an HD wide vision 720p HD camera that's perfect for Zoom calls with noise reduction and integrated microphones. 
@@ -73,16 +73,15 @@ If your budget is in the under $100 category, and you want the best value for yo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-mastery-in-one-bite-io-screen-capture-guidebook-for-2024/"><u>[New] Mastery in One Bite IO Screen Capture Guidebook for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-snapchat-voice-overhaul-two-efficient-ways-revealed-for-2024/"><u>[Updated] Snapchat Voice Overhaul Two Efficient Ways Revealed for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1982-honkytonk-man-with-eastwood-as-red-boyle-an-ex-convict-who-finds-himself-riding-through-the-southwest-during-the-great-depression-the-film-was-based-on44/"><u>1982 - Honkytonk Man, with Eastwood as Red Boyle, an Ex-Convict Who Finds Himself Riding Through the Southwest During the Great Depression. The Film Was Based on Clancy Carlile'cuentero's 1974 Novel ''The Goodbye Look''.</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-making-an-impact-on-youtube-tips-on-banners-and-art-dimensions/"><u>In 2024, Making an Impact on YouTube Tips on Banners and Art Dimensions</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Vivo Y56 5G? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/installing-official-asus-driver-pack-for-optimal-hardware-performance-on-windows/"><u>Installing Official ASUS Driver Pack for Optimal Hardware Performance on Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/nexiq-usb-link-2-driver-download-and-installation-guide/"><u>Nexiq USB Link 2 Driver Download and Installation Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revamped-sonos-interface-brings-enhanced-personalization-with-custom-home-panel-and-unified-search-feature-technews/"><u>Revamped Sonos Interface Brings Enhanced Personalization with Custom Home Panel & Unified Search Feature | TechNews</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-installing-lenovo-x1-carbon-drivers-on-windows-10-and-7/"><u>Step-by-Step: Installing Lenovo X1 Carbon Drivers on Windows 10 & 7</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/successful-conversion-a-step-by-step-guide-to-streaming-your-dvd-collection-onto-your-kindle-fire/"><u>Successful Conversion: A Step-by-Step Guide to Streaming Your DVD Collection Onto Your Kindle Fire</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-tutorial-for-installing-windows-11-onto-a-newly-installed-drive/"><u>The Ultimate Tutorial for Installing Windows 11 Onto a Newly Installed Drive</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/por-que-the-english-interpretation-of-spanish-por-que/"><u>'Por Qué': The English Interpretation of Spanish 'Por Que'</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-apowersofts-role-in-screen-capture-analysis-and-comparisons/"><u>2024 Approved Apowersoft's Role in Screen Capture Analysis & Comparisons</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/download-techniques-for-youtube-shorts-expert-advice-from-yl-software-team/"><u>Download Techniques for YouTube Shorts - Expert Advice From YL Software Team</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgotten-the-voicemail-password-of-tecno-camon-20-premier-5g-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Tecno Camon 20 Premier 5G? Try These Fixes</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-infinix-note-30mirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Infinix Note 30Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/pioneering-hardware-analysis-by-toms-digital-experts/"><u>Pioneering Hardware Analysis by Tom's Digital Experts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/snag-the-best-deal-dell-s3222dgm-gaming-monitor-now-at-unbeatable-229-price/"><u>Snag the Best Deal: Dell S3222DGM Gaming Monitor Now at Unbeatable $229 Price</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-chatgpt-engagements-advanced-strategies-unveiled/"><u>Transform ChatGPT Engagements: Advanced Strategies Unveiled</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/transforming-visual-experience-meet-the-newly-upgraded-samsung-odyssey-smart-monitor-and-view-series-with-next-gen-ai-capabilities/"><u>Transforming Visual Experience: Meet the Newly Upgraded Samsung Odyssey, Smart Monitor & View Series with Next-Gen AI Capabilities</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultra-wide-curved-display-with-quantum-dot-technology-wqhd-resolution/"><u>Ultra-Wide Curved Display with Quantum Dot Technology - WQHD Resolution</u></a></li>
 </ul></div>
 

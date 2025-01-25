@@ -1,7 +1,7 @@
 ---
 title: Raspberry Pi Pico Makes Playing Pong a Breeze with Innovative Persistence of Vision and Custom Firmware Controls
-date: 2024-08-19T04:11:01.700Z
-updated: 2024-08-20T04:11:01.700Z
+date: 2025-01-19T22:58:25.746Z
+updated: 2025-01-24T16:02:09.655Z
 tags:
   - raspberry-pi
 categories:
@@ -35,6 +35,10 @@ If you've ever seen the movie_Big_ , you might have wondered what it's like to p
 
  Plans are in the works to add a 3D head to move and add a visual representation for the Voltara fortune teller. If you want to get a closer look at this[Raspberry Pi project](https://tools.techidaily.com) in action, you can check it out over at Kevin McAleer's official[YouTube channel](https://www.youtube.com/watch?v=dWFgN%5FA%5FI1w) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -49,8 +53,6 @@ If you've ever seen the movie_Big_ , you might have wondered what it's like to p
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -58,8 +60,19 @@ If you've ever seen the movie_Big_ , you might have wondered what it's like to p
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-essential-mac-captures-compilation-under-156-chars/"><u>[New] Essential Mac Captures Compilation (Under 156 Chars)</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-from-couch-to-chart-topper-skyrocketing-your-channels-views/"><u>[New] In 2024, From Couch to Chart-Topper Skyrocketing Your Channel's Views</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-fresh-sounds-for-your-ig-story/"><u>[Updated] Fresh Sounds for Your IG Story</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-ryzen-9x00-pricing-unveiled-by-france-eurozones-ryzen-9-9900x-listed-at-almost-680/"><u>AMD Ryzen 9X00 Pricing Unveiled by France - Eurozone's Ryzen 9 9900X Listed at Almost €680</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/different-methods-to-unlock-your-iphone-7-plus-drfone-by-drfone-ios/"><u>Different Methods To Unlock Your iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-gamer-discount-slash-your-budget-by-350-on-alienware-aurora-r13-detailed-review-and-offer-info/"><u>Exclusive Gamer Discount: Slash Your Budget by $350 on Alienware Aurora R13 – Detailed Review & Offer Info</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-rtx-2080-drivers-now-compatible-with-windows-10-and-11-systems/"><u>Get the Latest RTX 2080 Drivers Now! Compatible with Windows 10 & 11 Systems</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-instagrams-media-mastery-pro-level-tips-for-pcmac-downloading/"><u>In 2024, Instagram's Media Mastery Pro-Level Tips for PC/Mac Downloading</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-evaluation-of-googles-calling-app-features/"><u>In-Depth Evaluation of Google's Calling App Features</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-the-latest-hp-scanning-software-for-your-windows-machine/"><u>Installing the Latest HP Scanning Software for Your Window's Machine</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/speedy-download-and-install-ultimate-rs232-compatible-usb-driver/"><u>Speedy Download & Install: Ultimate RS232 Compatible USB Driver</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-guide-to-downloading-and-installing-steelseries-arctis-5-drivers/"><u>The Ultimate Guide to Downloading and Installing SteelSeries Arctis 5 Drivers</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->

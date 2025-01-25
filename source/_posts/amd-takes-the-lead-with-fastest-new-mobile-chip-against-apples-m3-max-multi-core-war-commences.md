@@ -1,7 +1,7 @@
 ---
 title: AMD Takes the Lead with Fastest New Mobile Chip Against Apple's M3 Max - Multi-Core War Commences!
-date: 2024-08-19T05:49:17.617Z
-updated: 2024-08-20T05:49:17.617Z
+date: 2025-01-20T01:41:20.511Z
+updated: 2025-01-24T21:53:20.915Z
 tags:
   - cpu
 categories:
@@ -34,6 +34,10 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
 
  Speaking of substantial performance advantages of AMD's Zen 5, we cannot omit the single-thread performance of AMD's Ryzen 9000-series processors with 16 cores. Based on leaked CPU-Z benchmark results we have seen so far, the Ryzen 9 9950X is about 15% faster in single-thread workloads. It is about 9% faster in multi-thread workloads than the Ryzen 9 7950X, which is generally in line with performance advantage estimates demonstrated by AMD.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -42,14 +46,11 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -58,8 +59,16 @@ AMD's unreleased [EPYC 9755](https://www.tomshardware.com/pc-components/cpus/amd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-how-to-navigate-virtual-realities-without-nausea-for-2024/"><u>[New] How to Navigate Virtual Realities without Nausea for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-enhancing-video-quality-editing-tips-for-published-content/"><u>[Updated] 2024 Approved Enhancing Video Quality Editing Tips for Published Content</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-avoiding-legal-issues-best-practices-for-zoom-records/"><u>[Updated] Avoiding Legal Issues Best Practices for Zoom Records</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-tips-for-addressing-and-fixing-bluetooth-issues-in-windows-10/"><u>Expert Tips for Addressing and Fixing Bluetooth Issues in Windows 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-hp-pagewide-pro-477dw-driver-software-compatible-with-windows-11108-free-download/"><u>Latest HP PageWide Pro 477DW Driver Software Compatible with Windows 11/10/8 – Free Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/netgear-a6100-easy-install-and-driver-updates-for-windows-users/"><u>Netgear A6100: Easy Install and Driver Updates for Windows Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/new-release-geforce-rtx-3060-ti-drivers-for-optimal-windows-11-performance/"><u>New Release: GeForce RTX 3060 Ti Drivers for Optimal Windows 11 Performance</u></a></li>
+<li><a href="https://win-forum.techidaily.com/transformez-gratuitement-un-fichier-voc-en-format-wmv-sur-internet-avec-convertisseur-video-easy-webmovavi/"><u>Transformez Gratuitement Un Fichier VOC en Format WMV Sur Internet Avec Convertisseur Vidéo Easy - Webmovavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/usb-boot-media-creation-made-simple-tutorial-on-3-win-11-steps/"><u>USB Boot Media Creation Made Simple – Tutorial on 3 Win 11 Steps</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->

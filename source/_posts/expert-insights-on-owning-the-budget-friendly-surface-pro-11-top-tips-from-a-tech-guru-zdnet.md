@@ -1,7 +1,7 @@
 ---
 title: Expert Insights on Owning the Budget-Friendly Surface Pro 11 - Top Tips From a Tech Guru | ZDNet
-date: 2025-01-14T17:25:38.299Z
-updated: 2025-01-18T20:15:50.587Z
+date: 2025-01-17T21:10:48.306Z
+updated: 2025-01-25T00:23:18.816Z
 tags:
   - laptops
 categories:
@@ -19,6 +19,10 @@ Ed Bott/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -45,7 +49,7 @@ My original plan was to use the new Surface Pro as a secondary mobile device, wh
 How did this happen? Let's dive in.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The experience is familiar
@@ -61,7 +65,7 @@ The big difference is that this next-gen device is extremely cool and quiet. Aft
 Of course, this new device also embodies everything you like and/or dislike about the Surface Pro design. If you're expecting a radical shift that will suddenly make the kickstand comfortable in your lap, I'm sorry to report you will be disappointed. If, however, you're comfortable with that design, you'll find this iteration completely familiar.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Battery life is a huge win
@@ -81,7 +85,7 @@ Screenshot by Ed Bott/ZDNET
 At an average of more than 10 hours of actual, observed battery life, this Surface Pro is able to run for well over twice as long as my Intel-based Surface Pro 9\. That's also at least as long as the [M2 MacBook Air](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/) in my office.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Compatibility is good but not perfect
@@ -120,10 +124,6 @@ I had no hardware problems to speak of. My 10-year-old Logitech C930 webcam just
 
 Your mileage may vary, of course, especially if you have exotic hardware like video capture cards and ancient multifunction printers that require custom driver packs and won't work with the in-box Windows drivers. Thankfully, I have none of those.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The AI story is incomplete
 
 Every PC in the Copilot+ line includes a powerful neural processing unit designed to accelerate AI-based activities. Because I didn't spring for Microsoft's pricey new [Flex Keyboard](https://www.microsoft.com/en-us/d/surface-pro-flex-keyboard-with-slim-pen/93fzrmtgj6jw) and stuck with my old Type Cover, I didn't get a dedicated Copilot key. Instead, I had to run the [Copilot app](https://www.zdnet.com/article/microsoft-is-turning-windows-copilot-into-a-regular-app-and-heres-why-youll-like-it/), which works exactly like it does on any other Windows 11 PC. If it was chatting faster, I didn't notice.
@@ -145,7 +145,7 @@ The real question is whether those features are powerful enough to make you swit
 Even if you avoid the AI features completely, though, there's more than enough power in this [budget PC](https://www.zdnet.com/article/best-laptops-under-500/). Plus, as long as your apps and hardware requirements aren't exotic, you'll appreciate its cool, quiet operation.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test laptops
@@ -192,17 +192,21 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-cutting-edge-or-just-another-app-discover-vida-inside-out/"><u>[New] Cutting Edge or Just Another App? Discover Vida Inside Out</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/best-free-video-editing-software-top-10-picks-for-windows-and-macos/"><u>Best Free Video Editing Software: Top 10 Picks for Windows & macOS</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hp-printer-software-upgrade-find-and-install-latest-drivers-for-windows-10-and-11/"><u>HP Printer Software Upgrade: Find and Install Latest Drivers for Windows 10 & 11</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-14-pro-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>In 2024, iPhone 14 Pro Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Tecno Spark 10C | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-the-newest-logitech-brio-webcam-driver-for-seamless-integration-with-windows-systems-w11-w8-w7/"><u>Install the Newest Logitech Brio Webcam Driver for Seamless Integration with Windows Systems (W11, W8, W7)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/official-epson-workforce-ds-30-printer-driver-download-compatible-with-windows-10-8-and-7/"><u>Official Epson WorkForce DS-30 Printer Driver Download | Compatible with Windows 10, 8 & 7</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-call-misses-during-runtime-error-in-malwarebytes-software/"><u>Resolving Call Misses During Runtime Error in Malwarebytes Software</u></a></li>
-<li><a href="https://blog-min.techidaily.com/step-by-step-guide-video-editing-using-the-built-in-windows-11-photos-editor/"><u>Step-by-Step Guide: Video Editing Using the Built-In Windows 11 Photos Editor</u></a></li>
-<li><a href="https://apple-account.techidaily.com/the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-apple-iphone-12-mini-by-drfone-ios/"><u>The Easy Way to Remove an Apple ID from Your MacBook For your Apple iPhone 12 mini</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-your-canon-mg3000-step-by-step-guide-to-downloading-drivers/"><u>Update Your Canon MG3000: Step-by-Step Guide to Downloading Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-your-pc-with-the-newest-intel-wi-fi-ac-9560-drivers-for-optimal-performance/"><u>Update Your PC with the Newest Intel Wi-Fi AC 9560 Drivers for Optimal Performance</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-conquering-the-flaws-of-windows-11-photo-app/"><u>[New] Conquering the Flaws of Windows 11 Photo App</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-alternative-windows-filmmakers/"><u>2024 Approved Alternative Windows Filmmakers</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-how-to-pinpoint-premium-video-keywords-on-youtube/"><u>2024 Approved How to Pinpoint Premium Video Keywords on YouTube</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-set-up-chromebook-for-seamless-video-capture/"><u>2024 Approved Set Up Chromebook for Seamless Video Capture</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782755-9781594775147-basic-practices-of-the-universal-healing-tao/"><u>Basic Practices of the Universal Healing Tao | Free Book</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/excellent-camcorders-for-motion-free-videos/"><u>Excellent Camcorders for Motion-Free Videos</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-advice-from-toms-hardware-hub/"><u>Expert Advice From Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-hardware-with-tom-a-comprehensive-guide/"><u>Exploring Hardware with Tom: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-the-latest-gadgets-with-toms-hardware/"><u>Exploring the Latest Gadgets with Tom's Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-the-world-of-computing-with-toms-hardware-insights/"><u>Exploring the World of Computing with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/firmware-solution-from-asus-tackles-gaming-instabilities-in-newest-intel-cpus-raptor-lake-and-refresh-models-covered/"><u>Firmware Solution From Asus Tackles Gaming Instabilities in Newest Intel CPUs - Raptor Lake & Refresh Models Covered</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/heating-up-the-market-how-pcie-60s-cutting-edge-heat-management-redefines-performance/"><u>Heating Up the Market: How PCIe 6.0'S Cutting-Edge Heat Management Redefines Performance</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/in-depth-performance-testing-from-toms-equipment-review/"><u>In-Depth Performance Testing From Tom's Equipment Review</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/introducing-large-strong-studiofx-lighting-box/"><u>Introducing Large, Strong StudioFX Lighting Box</u></a></li>
+<li><a href="https://win-superb.techidaily.com/save-big-with-a-discounted-microsoft-office-2019-key-get-windows-or-mac-access-now-at-only-25-on-zdnet/"><u>Save Big with a Discounted Microsoft Office 2019 Key - Get Windows or Mac Access Now at Only $25 on ZDNET!</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/the-insiders-look-at-vidma-screen-recording/"><u>The Insider's Look at Vidma Screen Recording</u></a></li>
 </ul></div>
 

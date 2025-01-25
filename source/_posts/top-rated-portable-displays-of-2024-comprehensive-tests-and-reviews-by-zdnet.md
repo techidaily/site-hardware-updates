@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated Portable Displays of 2024: Comprehensive Tests & Reviews by ZDNet"
-date: 2025-01-11T17:37:29.619Z
-updated: 2025-01-18T19:25:33.390Z
+date: 2025-01-19T20:42:47.755Z
+updated: 2025-01-24T21:35:53.930Z
 tags:
   - laptops
 categories:
@@ -23,6 +23,10 @@ All of the ultraportable laptops on this list sport cutting-edge form factors, a
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What's the best lightweight laptop right now?
 
@@ -48,7 +52,7 @@ Cons
 ## Apple MacBook Air M3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best lightweight laptop overall
@@ -80,7 +84,7 @@ Cons
 * Loud fans
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Acer Swift Go 14
@@ -112,7 +116,7 @@ Cons
 * Comes pre-loaded with bloatware
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Asus ROG Zephyrus G14
@@ -193,10 +197,6 @@ It also comes with an 8MP webcam that can shoot in 4K, perfect for presenting a 
 
 Show Expert Take Show less 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is the best lightweight laptop?
 
 The best lightweight laptop in 2024 is the [Apple MacBook Air M3](https://www.zdnet.com/article/m3-macbook-air-review/). Portable, powerful, and with a long-lasting battery, the MacBook Air M3 is a versatile workhorse that you can throw in a bag and take with you anywhere you go. The M3's 8-core CPU and 10-core GPU is armed to take on almost anything you throw at it, and the entire package weighs just 2.7 pounds. 
@@ -246,7 +246,7 @@ These laptops all offer solid performance in their own right, but paired with th
 * **Price:** Cost is an important factor and will make or break many consumers' choices. The reality is that ultraportability does come at a cost, as none of these laptops would be considered "budget" by any rate. The Acer Swift Go 14, however, is still quite affordable, starting at $800, though upgrades will move that number more in line with the others on this list.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why does having a lightweight laptop matter?
@@ -258,7 +258,7 @@ Ultraportability does come with tradeoffs, however, both in terms of design and 
 In terms of cost, ultraportable laptops are often made with high-end, special lightweight materials that are going to cost more to produce and manufacture than simple plastic or aluminum. All of the laptops on this list were chosen for their well-designed, functional form factors and use of lightweight materials.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much does a typical laptop weigh?
@@ -278,7 +278,7 @@ We love lightweight laptops because they're easy to carry around. But the backpa
 [ZDNET RECOMMENDS Matein Travel Laptop Backpack Packed with travel-friendly features like a luggage strap and an anti-theft back pocket that protects your valuables, the Matein travel laptop is an inexpensive and solid travel backpack for your laptop. A bonus feature is an external USB charging port for easy charging on the go. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBackpack-Business-Charging-Resistant-Computer%2Fdp%2FB06XZTZ7GB%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C668fdd14-62fe-4f5f-ab26-348748ed1dd8%7Cdtp&dtb=1)[ZDNET RECOMMENDS Herschel Little America Backpack Herschel backpacks have a timeless design that's comfortable to wear thanks to the contoured padded back straps. It comes in two sizes which can hold up to a 13-inch laptop or a 15-inch laptop. Its drawstring closure expands to create extra storage space while the magnetic front straps secure what's inside. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB00838TCGO%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C668fdd14-62fe-4f5f-ab26-348748ed1dd8%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which operating system should you choose: Windows, MacOS, Chrome OS, or Linux?
@@ -335,18 +335,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-diving-into-instagrams-visual-story-segments/"><u>[New] In 2024, Diving Into Instagram's Visual Story Segments</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-instagram-storytelling-infuse-your-videos-and-stories-with-tunes/"><u>[New] In 2024, Instagram Storytelling Infuse Your Videos & Stories with Tunes</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-uncovering-the-dynamics-of-youtubes-post-upload-system/"><u>[Updated] Uncovering the Dynamics of YouTube's Post-Upload System</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-unlocking-youtube-success-elite-video-tagging-secrets/"><u>2024 Approved Unlocking YouTube Success Elite Video Tagging Secrets</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-itel-a60-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Itel A60 FRP</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/access-the-newest-drivers-for-your-hp-officejet-975c-all-in-one-printer/"><u>Access the Newest Drivers for Your HP OfficeJet 975C All-in-One Printer</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722971488664-effortless-intel-nvme-driver-update-secure-and-swift-downloads-ready/"><u>Effortless Intel NVME Driver Update - Secure & Swift Downloads Ready</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/essential-tips-for-using-tiktok-on-macwindows-systems-for-2024/"><u>Essential Tips for Using TikTok on Mac/Windows Systems for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hassle-free-guide-to-downloading-and-installing-hp-printer-drivers/"><u>Hassle-Free Guide to Downloading and Installing HP Printer Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-successfully-update-your-pc-with-epson-wf-3540-printer-drivers-for-windows-operating-systems/"><u>How to Successfully Update Your PC With Epson WF-3540 Printer Drivers for Windows Operating Systems</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Samsung Galaxy A15 5G | Dr.fone</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/shop-bitraser-the-definitive-solution-to-quick-and-safe-drive-cleaning/"><u>Shop BitRaser: The Definitive Solution to Quick and Safe Drive Cleaning</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-your-usb-to-serial-communication-ch340g-drivers-for-windows-11/"><u>Update Your USB-to-Serial Communication: CH340g Drivers for Windows 11</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-podcast-dissemination-instagram-stories-vs-feed/"><u>[Updated] 2024 Approved Podcast Dissemination Instagram Stories Vs. Feed</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-inter-app-playlist-exchange-made-simple/"><u>2024 Approved Inter-App Playlist Exchange Made Simple</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-strategies-to-reinforce-stability-in-windows-10-photo-viewer/"><u>2024 Approved Strategies to Reinforce Stability in Windows 10 Photo Viewer</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/bending-words-altering-text-images-for-2024/"><u>Bending Words Altering Text Images for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722952767213-complete-guide-how-to-installupdate-huion-tablet-drivers-on-windows-no-hassle/"><u>Complete Guide: How to Install/Update Huion Tablet Drivers on Windows - No Hassle</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-hp-officejet-pro-8710-printer-drivers-on-windows-free-and-easy/"><u>Download HP OfficeJet Pro 8710 Printer Drivers on Windows - Free & Easy</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-logitech-sound-card-software-for-windows-10-7-or-8-systems/"><u>Download Logitech Sound Card Software for Windows 10, 7 or 8 Systems</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-poco-m6-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Poco M6 5G Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-essential-steps-for-crafting-stunning-slow-mo-videos-on-tiktok/"><u>In 2024, Essential Steps for Crafting Stunning Slow Mo Videos on TikTok</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-installation-masterclass-transitioning-to-macos-sierra/"><u>In 2024, Installation Masterclass Transitioning to macOS Sierra</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-rapid-growth-techniques-for-youtube-views-via-collaborative-videos/"><u>In 2024, Rapid Growth Techniques for YouTube Views via Collaborative Videos</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/keep-your-msi-x470-gaming-plus-updated-download-compatible-drivers-today/"><u>Keep Your MSI X470 Gaming Plus Updated - Download Compatible Drivers Today!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-msi-windows-1110-bluetooth-driver-update-for-flawless-connectivity-download-now/"><u>Latest MSI Windows 11/10 Bluetooth Driver Update for Flawless Connectivity – Download Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-windows-11-supported-drivers-for-logitech-hd-webcam-c27-downloads/"><u>Latest Windows 11 Supported Drivers for Logitech HD Webcam C27# Downloads</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-the-future-of-electronics-discoveries-from-toms-hardware-review-team/"><u>Navigating the Future of Electronics: Discoveries From Tom's Hardware Review Team</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/quick-fix-guide-for-uninterrupted-gaming-eliminating-control-malfunctions/"><u>Quick-Fix Guide for Uninterrupted Gaming - Eliminating Control Malfunctions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/zen-5-revolutionized-in-depth-review-of-amds-ryzen-5-and-ryzen-7-processors/"><u>Zen 5 Revolutionized: In-Depth Review of AMD's Ryzen 5 and Ryzen 7 Processors</u></a></li>
 </ul></div>
 

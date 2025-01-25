@@ -1,7 +1,7 @@
 ---
 title: "Reviving Retro Tech: How Raspberry Pi & 3D Printing Reimagines the Iconic TRS-80"
-date: 2024-08-19T04:11:20.920Z
-updated: 2024-08-20T04:11:20.920Z
+date: 2025-01-22T00:07:43.102Z
+updated: 2025-01-24T17:01:22.429Z
 tags:
   - raspberry-pi
 categories:
@@ -35,6 +35,10 @@ If you've ever seen the movie_Big_ , you might have wondered what it's like to p
 
  Plans are in the works to add a 3D head to move and add a visual representation for the Voltara fortune teller. If you want to get a closer look at this[Raspberry Pi project](https://tools.techidaily.com) in action, you can check it out over at Kevin McAleer's official[YouTube channel](https://www.youtube.com/watch?v=dWFgN%5FA%5FI1w) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -49,8 +53,6 @@ If you've ever seen the movie_Big_ , you might have wondered what it's like to p
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -58,8 +60,16 @@ If you've ever seen the movie_Big_ , you might have wondered what it's like to p
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-top-drone-picks-available-now/"><u>[New] 2024 Approved Top Drone Picks Available Now</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-chuckling-chords-and-clever-cuts-10-parody-classics/"><u>[Updated] 2024 Approved Chuckling Chords & Clever Cuts 10 Parody Classics</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-dell-wd1n-driver-download-and-configuration-tutorial-for-tech-enthusiasts/"><u>Complete Dell WD1n Driver Download & Configuration Tutorial for Tech Enthusiasts</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/steps-for-stellar-youtube-thumbnails/"><u>Easy Steps for Stellar YouTube Thumbnails</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722979003299-effortless-setup-for-your-linksys-ae1200-router-instant-access-to-the-newest-drivers/"><u>Effortless Setup for Your Linksys AE1200 Router - Instant Access to the Newest Drivers!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-download-and-keep-your-sas-drivers-updated-on-windows-guide-for-windows-7-to-11-users/"><u>Find, Download and Keep Your SAS Drivers Updated on Windows: Guide for Windows 7 to 11 Users</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/hidden-shotshaper-advanced-stealthy-methods-for-capturing-images/"><u>Hidden ShotShaper Advanced Stealthy Methods for Capturing Images</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-tecno-spark-20-proplus-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Tecno Spark 20 Pro+ to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-guide-to-keeping-your-logitech-m510-mouse-driver-current/"><u>The Ultimate Guide to Keeping Your Logitech M510 Mouse Driver Current</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->

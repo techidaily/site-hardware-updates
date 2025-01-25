@@ -1,7 +1,7 @@
 ---
 title: Corsair Unveils Upgraded 2022 Series - Experience the Next-Gen HXi 1000W and 1500W PSUs
-date: 2024-08-19T04:11:45.100Z
-updated: 2024-08-20T04:11:45.100Z
+date: 2025-01-19T20:29:35.309Z
+updated: 2025-01-24T18:56:20.489Z
 tags:
   - power-supply
 categories:
@@ -19,6 +19,10 @@ Want to build a PC on a budget but need some outstanding performance for the pri
 
 See more Real Deals below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## TL;DR — Today’s Best Deals
 
 * **Intel Core i5-12600K CPU:** [**now $189 at Newegg**](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-1232968451581396927%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fintel-core-i5-12600k-core-i5-12th-gen%252Fp%252FN82E16819118347) **(was $299)**
@@ -26,6 +30,10 @@ See more Real Deals below.
 * **Super Flower Leadex V Platinum PRO 850W PSU:** [**now $129 at Newegg**](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-1204575385719253865%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fsuper-flower-leadex-v-platinum-pro-sf-850f14tp-850w%252Fp%252F1HU-024C-00043) **(was $249)**
 * **Dell G3223D 32-inch USB-C Gaming Monitor:** [**now $299 at Dell**](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-8900246-12578053%3Fsid%3Dtomshardware-us-4397051959775015652%26url%3Dhttps%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-32-usb-c-gaming-monitor-g3223d%2Fapd%2F210-bejf%2Fmonitors-monitor-accessories) **(was $449)**
 * **Netgear 5-Port Gigabit Ethernet Switch:** [**now $14 at Amazon**](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB07S98YLHM%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-8422113522705017010-20) **(was $22)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Today’s best deals in detail
 
@@ -64,17 +72,15 @@ See more Real Deals below.
 [View Deal](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB07S98YLHM%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-8780951100740110730-20)
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Looking for more deals?
 
 Category
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/chevron-left.svg "Arrow")
 
  Back to Hubs & Switches
@@ -84,14 +90,9 @@ Brand
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Intel
 
  Netgear
@@ -102,9 +103,6 @@ Colour
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
  Black
 
  Copper
@@ -114,8 +112,9 @@ Condition
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  New
 
  Refurbished
@@ -124,9 +123,6 @@ Price
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Any Price
 
  Showing 10 of 52 deals
@@ -293,8 +289,6 @@ Our Review
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -302,4 +296,21 @@ Our Review
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-direct-technique-swap-film-direction-in-media-player-for-2024/"><u>[New] Direct Technique Swap Film Direction in Media Player for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-shield-identity-in-images-the-most-effective-cropping-tools/"><u>[New] Shield Identity in Images The Most Effective Cropping Tools</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-dream-makers-the-online-marvel-experience/"><u>[Updated] 2024 Approved Dream Makers The Online Marvel Experience</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-securely-sharing-video-on-youtube-with-settings-for-2024/"><u>[Updated] Securely Sharing Video on YouTube with Settings for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-stream-snipping-specialists-2023-version/"><u>[Updated] Stream Snipping Specialists, 2023 Version</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/a-comprehensive-walkthrough-for-fixing-webcam-issues-by-upgrading-windows-11-drivers/"><u>A Comprehensive Walkthrough for Fixing Webcam Issues by Upgrading Windows 11 Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-finding-and-downloading-official-toshiba-driver-software-for-windows-computers/"><u>Easy Guide to Finding and Downloading Official Toshiba Driver Software for Windows Computers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722969280745-free-installation-file-for-hp-laserjet-p1006-get-it-here/"><u>Free Installation File for HP LaserJet P1006 - Get It Here!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hassle-free-installation-of-latest-intel-rapid-storage-tech/"><u>Hassle-Free Installation of Latest Intel Rapid Storage Tech</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/1716168997254-how-to-edit-vertical-videos-for-instagram-in-final-cut-pro-x-for-2024/"><u>How to Edit Vertical Videos for Instagram in Final Cut Pro X for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/prevent-plagiarism-copyright-check-for-uploading-videos-2e-for-2024/"><u>Prevent Plagiarism Copyright Check for Uploading Videos (2E) for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/secure-latest-version-official-hp-officejet-pro-9015-printer-software-download/"><u>Secure Latest Version: Official HP OfficeJet Pro 9015 Printer Software Download</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-cant-watch-mlb-matches-get-free-mlb-streaming-options-now/"><u>Updated In 2024, Cant Watch MLB Matches? Get Free MLB Streaming Options Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/wood-species-and-external-drying-conditions-can-significantly-influence-the-thermal-behavior-of-wood-during-processing/"><u>Wood Species and External Drying Conditions Can Significantly Influence the Thermal Behavior of Wood During Processing.</u></a></li>
+</ul></div>
 

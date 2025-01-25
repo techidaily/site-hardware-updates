@@ -1,7 +1,7 @@
 ---
 title: "Expert Insights Into Gadgets by Tom's Digital World: An Authoritative Resource"
-date: 2024-08-19T04:09:58.874Z
-updated: 2024-08-20T04:09:58.874Z
+date: 2025-01-23T17:31:45.593Z
+updated: 2025-01-25T00:13:54.921Z
 tags:
   - ram
 categories:
@@ -25,9 +25,17 @@ TeamGroup has introduced its T-Create Expert AI series LPDDR5X CAMM2 memory modu
 
  CAMM2 memory modules are[primarily made](https://tools.techidaily.com) to replace the SO-DIMM form factor for[notebooks](https://tools.techidaily.com) , though we can't rule out them being adopted by other PC form factors. Lenovo is the first notebook maker ready for CAMM2 modules with its[ThinkPad P1 Gen 7](https://tools.techidaily.com) . With Computex 2024 just days away, we should see a plethora of upcoming notebooks using this standard.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Adoption on other computing form factors
 
  Apart from its size advantage, its ability to provide 1.3x more bandwidth compared to standard DDR5 modules at JEDEC speeds, and lowered power consumption, could make CAMM2 an excellent addition to desktops, mini PCs, and maybe handheld devices. This is the case with[MSI and Kingston](https://tools.techidaily.com) , who showed off Fury Impact DDR5 CAMM2 modules on the[MSI](https://tools.techidaily.com) Z790 Project Zero Plus motherboard - a BTF board that[hides its connectors and certain components](https://tools.techidaily.com) on the reverse side of the PCB. There will likely be many other memory makers showing CAMM2 modules, possibly also from Crucial who is the first to introduce[DDR5-based CAMM2 memory in the market](https://tools.techidaily.com) , followed by[Samsung](https://tools.techidaily.com) Electronics whose executive vice president of memory product planning said this form factor is set to gain wide adoption in PCs, laptops and data centers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
@@ -45,8 +53,6 @@ TeamGroup has introduced its T-Create Expert AI series LPDDR5X CAMM2 memory modu
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -54,8 +60,26 @@ TeamGroup has introduced its T-Create Expert AI series LPDDR5X CAMM2 memory modu
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-simplified-live-mastery-one-channel-broadcast-strategies/"><u>[New] 2024 Approved Simplified LIVE Mastery One-Channel Broadcast Strategies</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-rapid-diy-filming-ideas-for-aspiring-directors/"><u>[New] Rapid DIY Filming Ideas for Aspiring Directors</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-engaging-video-summaries-for-books/"><u>[Updated] In 2024, Engaging Video Summaries for Books</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-mastering-channel-growth-the-5-key-youtube-strategies/"><u>[Updated] In 2024, Mastering Channel Growth The 5 Key YouTube Strategies</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-simple-steps-for-extracting-video-audio-as-mp3/"><u>[Updated] Simple Steps for Extracting Video Audio as MP3</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-zoom-strategy-for-videoleap-videos/"><u>2024 Approved The Ultimate Zoom Strategy for Videoleap Videos</u></a></li>
+<li><a href="https://change-location.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/canon-imageclass-mf4800-printer-drivers-download-and-installation-guide/"><u>Canon ImageCLASS MF4800 Printer Drivers: Download & Installation Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-official-nvidia-geforce-rtx-3070-ti-drivers-for-windows-1087-get-them-now/"><u>Download the Official NVIDIA GeForce RTX 3070 Ti Drivers for Windows 10/8/7 – Get Them Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-download-of-hp-deskjet-3520-software-ensure-compatible-operation-with-any-pc/"><u>Easy Download of HP DeskJet 3520 Software - Ensure Compatible Operation with Any PC.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-download-nvidia-geforce-rtx-3080-drivers-compatible-with-windows-10-8-and-7/"><u>Free Download: NVIDIA GeForce RTX 3080 Drivers Compatible with Windows 10, 8 & 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-realme-10t-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Realme 10T 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-your-call-of-duty-mw3-up-and-running-again-after-not-working-issues/"><u>How to Get Your Call of Duty: MW3 Up and Running Again After Not Working Issues</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/improve-gaming-experience-with-new-updates-on-amd-rx-amoledr-480-drivers/"><u>Improve Gaming Experience with New Updates on AMD RX Amoled(R) 480 Drivers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/recover-lost-sound-adjustments-post-windows-update/"><u>Recover Lost Sound Adjustments Post-Windows Update</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/rectifying-igfxem-module-problems-expert-guidelines-and-solutions/"><u>Rectifying igfxEM Module Problems - Expert Guidelines and Solutions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/updating-your-canon-pixma-mg2530-how-to-get-the-newest-driver-version/"><u>Updating Your Canon PIXMA MG2530: How To Get The Newest Driver Version</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upgrading-your-epson-wf-7720-the-ultimate-guide-to-installing-latest-printer-drivers-in-windows/"><u>Upgrading Your Epson WF-7720: The Ultimate Guide to Installing Latest Printer Drivers in Windows</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

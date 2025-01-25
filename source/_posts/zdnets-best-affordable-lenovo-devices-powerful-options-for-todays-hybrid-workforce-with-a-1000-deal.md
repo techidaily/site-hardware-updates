@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Best Affordable Lenovo Devices: Powerful Options for Today's Hybrid Workforce with a $1,000 Deal!"
-date: 2025-01-16T19:15:07.481Z
-updated: 2025-01-18T16:12:27.496Z
+date: 2025-01-23T22:16:45.353Z
+updated: 2025-01-25T02:46:08.441Z
 tags:
   - laptops
 categories:
@@ -42,7 +42,7 @@ This laptop isn't solely for business professionals, though. It's well-rounded e
 Right now is the best time to buy the [Lenovo Gen 12 ThinkPad X1 Carbon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D1D5J1J1%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7de9d47f-95cf-42d0-9213-b57cc5420698%7Cdtp&dtb=1) since it's currently on sale at Amazon for $1,500 -- $1,000 off the original price. I should also mention that there is a variant of the laptop with a 2.8K OLED display, which is the model [I tested back in February](https://www.zdnet.com/article/the-thinkpad-i-recommend-for-hybrid-workers-is-not-lenovos-newest-model/). The [OLED version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D5SNKGZ4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7de9d47f-95cf-42d0-9213-b57cc5420698%7Cdtp&dtb=1) is much more expensive, but I recommend it as an alternative if you can afford it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -79,24 +79,24 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-the-essential-toolkit-for-achieving-viral-impact-in-tiktok-photos/"><u>[New] 2024 Approved The Essential Toolkit for Achieving Viral Impact in TikTok Photos</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-create-awe-inspiring-gopro-time-lapse-cinematography-for-2024/"><u>[New] Create Awe-Inspiring GoPro Time-Lapse Cinematography for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-exploring-advanced-quantum-hdr-methods/"><u>[New] Exploring Advanced Quantum HDR Methods</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-reimagining-your-message-innovative-video-concepts/"><u>[New] In 2024, Reimagining Your Message Innovative Video Concepts</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-navigating-zoom-effectively-on-chrome-devices/"><u>[Updated] Navigating Zoom Effectively on Chrome Devices</u></a></li>
-<li><a href="https://windows11.techidaily.com/adjusting-how-you-handle-deleted-items-on-pc/"><u>Adjusting How You Handle Deleted Items on PC</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/advance-your-enterprise-services-with-smart-document-management-techniques/"><u>Advance Your Enterprise Services with Smart Document Management Techniques</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/extend-your-macbooks-battery-life-throughout-the-entire-day-expert-tips-and-tricks/"><u>Extend Your MacBook's Battery Life Throughout the Entire Day: Expert Tips & Tricks</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-revolutionizing-online-learning-with-zooms-transformative-tools/"><u>In 2024, Revolutionizing Online Learning with Zoom's Transformative Tools</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/meet-the-compact-multi-device-charger-ideal-for-powering-up-laptops-tablets-and-phones/"><u>Meet the Compact Multi-Device Charger: Ideal for Powering Up Laptops, Tablets & Phones</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/returning-to-campus-score-big-savings-on-laptops-tablets-from-samsung-student-deals/"><u>Returning to Campus? Score Big Savings on Laptops, Tablets From Samsung | Student Deals</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/score-big-savings-this-black-friday-save-up-to-700-off-on-the-top-rated-dell-xps-15-laptop-shop-smart-with-zdnets-best-tech-specials/"><u>Score Big Savings This Black Friday! Save Up to $700 Off on the Top-Rated Dell XPS 15 Laptop | Shop Smart with ZDNet's Best Tech Specials!</u></a></li>
-<li><a href="https://games-able.techidaily.com/steam-deck-integrating-epic-games-with-gog/"><u>Steam Deck: Integrating Epic Games with GOG</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unbeatable-prime-day-deal-the-top-non-thinkpadmacbook-laptop-boosting-productivity-at-half-price-exclusive-insights/"><u>Unbeatable Prime Day Deal: The Top Non-ThinkPad/MacBook Laptop Boosting Productivity at Half Price - Exclusive Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unbeatable-savings-for-gamers-snag-an-alienamoe-aurora-r13-and-cut-350-off-prices-limited-time-deal/"><u>Unbeatable Savings for Gamers: Snag an Alienamoe Aurora R13 and Cut $350 Off Prices – Limited-Time Deal !</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unbeatable-value-metas-latest-512gb-quest-3-bundle-claims-spot-as-top-current-vr-headset-promo/"><u>Unbeatable Value: Meta's Latest 512GB Quest 3 Bundle Claims Spot as Top Current VR Headset Promo</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-convenient-12-port-thunderbolt-hub-exclusive-power-option-revealed-for-windows-enthusiasts/"><u>Unveiling the Convenient 12-Port Thunderbolt Hub: Exclusive Power Option Revealed for Windows Enthusiasts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-latest-apple-introduces-macbook-air-with-powerful-m3-chip-in-13-and/"><u>Unveiling the Latest: Apple Introduces MacBook Air with Powerful M3 Chip in 13 &</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-withings-move-smartwatch-an-affair-of-retro-design-and-modern-features-our-complete-assessment/"><u>Unveiling The Withings Move Smartwatch: An Affair of Retro Design and Modern Features, Our Complete Assessment</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-de-vibratory-techniques-for-drone-video-clarity/"><u>[New] In 2024, De-Vibratory Techniques for Drone Video Clarity</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-essential-360-degree-videography-tools-for-2024/"><u>[Updated] Essential 360-Degree Videography Tools for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-premier-vr-screens-producers/"><u>[Updated] Premier VR Screens Producers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/advanced-hardware-breakdown-by-toms-electronic-wisdom/"><u>Advanced Hardware Breakdown by Tom's Electronic Wisdom</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/advanced-pc-components-guide-by-toms-tech-hub/"><u>Advanced PC Components Guide by Tom’s Tech Hub</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862669015-amazon-prime-day-deal-alert-save-500-on-the-new-apple-macbook-pro-with-m3-pro/"><u>Amazon Prime Day Deal Alert: Save $500 on the New Apple MacBook Pro with M3 Pro!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/asus-unveils-new-adol-book-laptop-featuring-exclusive-fragrance-dispenser-for-a-pleasant-user-experience/"><u>Asus Unveils New Adol Book Laptop Featuring Exclusive Fragrance Dispenser for a Pleasant User Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/core-offerings-deciphering-xbox-game-pass-versus-psplus-essentials/"><u>Core Offerings: Deciphering Xbox Game Pass Versus PS+ Essentials</u></a></li>
+<li><a href="https://video-capture.techidaily.com/enhancing-productivity-how-to-master-screen-capture-on-an-hp-device/"><u>Enhancing Productivity How to Master Screen Capture on an HP Device</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-samsung-galaxy-s24-ultra-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Samsung Galaxy S24 Ultra Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-windows-audio-enhancement-issues-a-complete-guide/"><u>How to Fix Windows Audio Enhancement Issues: A Complete Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-art-of-storytelling-integrating-captions-into-your-instagram-videos-for-2024/"><u>The Art of Storytelling Integrating Captions Into Your Instagram Videos for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-kid-friendly-smartphones-a-comprehensive-guide/"><u>Top Kid-Friendly Smartphones : A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-tech-secrets-the-toms-hardware-showdown/"><u>Unveiling Tech Secrets: The Tom's Hardware Showdown</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-future-with-microsofts-ai-copilotplus-what-happens-to-your-shiny-2024-laptop/"><u>Unveiling the Future with Microsoft's AI Copilot+: What Happens to Your Shiny 2024 Laptop?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-latest-in-hardware-technology-with-tom/"><u>Unveiling the Latest in Hardware Technology with Tom</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-wonders-of-technology-with-toms-hardware-insights/"><u>Unveiling the Wonders of Technology with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-toms-hardware-wisdom-your-go-to-source-for-pc-specs-and-reviews/"><u>Unveiling Tom's Hardware Wisdom: Your Go-To Source for PC Specs and Reviews</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/visual-storytelling-at-its-best-the-quintessential-5-techniques/"><u>Visual Storytelling at Its Best The Quintessential 5 Techniques</u></a></li>
 </ul></div>
 

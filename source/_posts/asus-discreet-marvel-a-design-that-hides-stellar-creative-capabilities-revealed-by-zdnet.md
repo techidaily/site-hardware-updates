@@ -1,7 +1,7 @@
 ---
 title: "Asus' Discreet Marvel: A Design That Hides Stellar Creative Capabilities Revealed by ZDNet"
-date: 2025-01-13T17:27:44.039Z
-updated: 2025-01-18T19:33:05.151Z
+date: 2025-01-17T16:38:31.952Z
+updated: 2025-01-24T16:39:59.788Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -73,7 +73,7 @@ Asus' Vivobook Pro 15 does a good job playing media. Hi-res videos look stunning
 In line with my initial impression, the device is a little on the bulky side, but the extra heft is not a big deal because it's lightweight and the extra room allows for a wide array of ports. You get two USB-Cs, a pair of USB-A inputs that support transfer speeds of up to 5GBPS, HDMI, an ethernet port, and an SD card slot.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -112,19 +112,19 @@ If you want something more powerful, I suggest checking out the MSI Creator Z16 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-financial-flourishing-with-glamour-vlogs/"><u>[Updated] 2024 Approved Financial Flourishing with Glamour Vlogs</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-economical-action-cams-for-savvy-shoppers/"><u>[Updated] In 2024, Economical Action Cams for Savvy Shoppers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-gpodcs-best-channels-guide/"><u>2024 Approved In-Depth GPodC's Best Channels Guide</u></a></li>
-<li><a href="https://win-best.techidaily.com/3sd/"><u>3ステップで救う:フォーマットされたSDメモリにある情報を再生化</u></a></li>
-<li><a href="https://app-tips.techidaily.com/asia-spearheads-the-surge-in-non-cash-payments-forecasted-reach-of-16-trillion/"><u>Asia Spearheads the Surge in Non-Cash Payments: Forecasted Reach of $1.6 Trillion</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/compare-organisms/"><u>Compare Organisms</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-pci-card-drivers-compatible-with-windows-11-10-8-and-7/"><u>Download PCI Card Drivers Compatible with Windows 11, 10, 8 & 7</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-low-code-tech-enhances-workplace-desirabve-a-zdnet-perspective/"><u>How Low-Code Tech Enhances Workplace Desirabve - A ZDNet Perspective</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-get-and-update-epson-et-3760-drivers-on-microsoft-windows-systems/"><u>How to Get & Update Epson ET-3760 Drivers on Microsoft Windows Systems</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-tips-for-transforming-twitter-videos-into-audio-songs-mp3/"><u>In 2024, Tips for Transforming Twitter Videos Into Audio Songs (MP3)</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-vcruntime1-dll-missing-on-windows-11-comprehensive-troubleshooting-guide-solved/"><u>Resolving VCRUNTIME1^ DLL Missing on Windows 11 - Comprehensive Troubleshooting Guide [Solved]</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/roku-upgrades-perfect-synchronization-of-audio-and-video/"><u>Roku Upgrades: Perfect Synchronization of Audio & Video</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-updating-your-dell-camera-driver-properly/"><u>Step-by-Step Guide: Updating Your Dell Camera Driver Properly</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-your-hp-printer-software-on-windows-download-latest-drivers-for-w10-and-w11/"><u>Update Your HP Printer Software on Windows: Download Latest Drivers for W10 & W11</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-mastering-thumbnail-creation-a-step-by-step-guide-for-2024/"><u>[New] Mastering Thumbnail Creation A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-online-beat-detectors-you-should-try-now-online-and-free/"><u>[Updated] In 2024, Online Beat Detectors You Should Try Now [Online & Free]</u></a></li>
+<li><a href="https://change-location.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-insights-on-pc-components-at-toms-electronics-zone/"><u>Expert Insights on PC Components at Tom's Electronics Zone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-gadgets-with-tom-in-depth-reviews-and-advice-on-hardware-solutions/"><u>Exploring Gadgets with Tom: In-Depth Reviews and Advice on Hardware Solutions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-the-superior-features-of-kde-over-gnome-for-enhanced-productivity/"><u>Exploring the Superior Features of KDE Over GNOME for Enhanced Productivity</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-7-plus-to-other-iphone-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 7 Plus to Other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ibaypower-snowblind-cpu-core-unleashed-comprehensive-review-by-toms-hardware-experts/"><u>IBaypower Snowblind CPU Core Unleashed - Comprehensive Review by Tom's Hardware Experts</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/e-look-what-makes-asmr-special-for-2024/"><u>Inside Look What Makes ASMR Special for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/interpreting-the-iconography-a-look-at-facebooks-use-of-blue-icons/"><u>Interpreting the Iconography A Look at Facebook’s Use of Blue Icons</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/professional-streams-from-obs-to-insta/"><u>Professional Streams From OBS to Insta</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-computer-components-expert-reviews-and-detailed-analysis/"><u>Tom's Computer Components: Expert Reviews and Detailed Analysis</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-for-msodll-disappearance-messages-on-pc/"><u>Troubleshooting Tips for 'Mso.dll' Disappearance Messages on PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unleashing-power-amds-new-epyc-milan-x-series-surpasses-limits-with-a-whopping-128-cores-enhanced-by-16-gb-l3-cache-and-boosted-to-an-impressive-48-ghz/"><u>Unleashing Power: AMD's New EPYC Milan-X Series Surpasses Limits with a Whopping 128 Cores, Enhanced by 1.6 GB L3 Cache and Boosted to an Impressive 4.8 GHz</u></a></li>
 </ul></div>
 

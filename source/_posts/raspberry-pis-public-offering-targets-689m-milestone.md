@@ -1,7 +1,7 @@
 ---
 title: Raspberry Pi's Public Offering Targets $689M Milestone
-date: 2024-08-19T04:11:02.733Z
-updated: 2024-08-20T04:11:02.733Z
+date: 2025-01-23T22:36:55.040Z
+updated: 2025-01-25T02:11:05.880Z
 tags:
   - raspberry-pi
 categories:
@@ -43,6 +43,10 @@ The cool thing about single-board computers like the[Raspberry Pi](https://tools
 
  If you want to get a closer look at this[Raspberry Pi project](https://tools.techidaily.com) in action, check it out over at[YouTube](https://www.youtube.com/watch?v=nJNDy8Mfk90) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -57,8 +61,6 @@ The cool thing about single-board computers like the[Raspberry Pi](https://tools
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -66,8 +68,16 @@ The cool thing about single-board computers like the[Raspberry Pi](https://tools
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-next-gen-film-viewers-guide-youtubes-top-choices/"><u>[New] 2024 Approved Next-Gen Film Viewers' Guide YouTube's Top Choices</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-the-essentials-of-webcam-capture-with-free2x-app-for-2024/"><u>[New] The Essentials of WebCam Capture with Free2X App for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-3-key-approaches-to-document-dynamic-gaming-moments/"><u>[Updated] 3 Key Approaches to Document Dynamic Gaming Moments</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/decentralization/"><u>Decentralization</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-setup-epson-wf-3540-printer-software-on-your-pc/"><u>Download & Setup Epson WF-3540 Printer Software on Your PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-and-set-up-your-ricoh-printer-drivers-a-guide-for-windows-users/"><u>Find and Set Up Your Ricoh Printer Drivers: A Guide for Windows Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-officejet-3830-printer-driver-download-for-windows/"><u>HP OfficeJet 3830 Printer Driver Download for Windows</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/reverse-the-ordinary-turning-images-upside-down/"><u>Reverse the Ordinary Turning Images Upside Down</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-tecno-spark-10-4g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Tecno Spark 10 4G Pattern Lock Screen Everything You Need to Know</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

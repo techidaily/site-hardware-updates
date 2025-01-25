@@ -1,7 +1,7 @@
 ---
 title: Meet KAZoo, The All-Seeing One-Eyed Stuffed Koala Assistant Powered by Raspberry Pi & ChatGPT Technology
-date: 2024-08-19T04:11:19.814Z
-updated: 2024-08-20T04:11:19.814Z
+date: 2025-01-23T20:30:14.002Z
+updated: 2025-01-25T03:15:49.218Z
 tags:
   - raspberry-pi
 categories:
@@ -35,6 +35,10 @@ If you've ever seen the movie_Big_ , you might have wondered what it's like to p
 
  Plans are in the works to add a 3D head to move and add a visual representation for the Voltara fortune teller. If you want to get a closer look at this[Raspberry Pi project](https://tools.techidaily.com) in action, you can check it out over at Kevin McAleer's official[YouTube channel](https://www.youtube.com/watch?v=dWFgN%5FA%5FI1w) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -49,8 +53,6 @@ If you've ever seen the movie_Big_ , you might have wondered what it's like to p
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -58,8 +60,23 @@ If you've ever seen the movie_Big_ , you might have wondered what it's like to p
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/updated-building-an-impressive-instagram-network/"><u>[Updated] Building an Impressive Instagram Network</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-noticing-lack-of-friend-requests/"><u>[Updated] Noticing Lack of Friend Requests</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-transforming-images-with-dynamic-mosaic-designs/"><u>[Updated] Transforming Images with Dynamic Mosaic Designs</u></a></li>
+<li><a href="https://common-error.techidaily.com/diy-techniques-to-repair-unresponsive-ps4-controller-sync-issue/"><u>DIY Techniques to Repair Unresponsive PS4 Controller Sync Issue</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/easy-guide-learn-how-to-compress-files-and-folders-with-simple-steps-yl-solutions/"><u>Easy Guide: Learn How to Compress Files and Folders with Simple Steps - YL Solutions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/freshest-microsoft-bluetooth-drivers-for-optimal-performance-on-windows-101187-systems/"><u>Freshest Microsoft Bluetooth Drivers for Optimal Performance on Windows 10/11/8/7 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722961271388-get-your-amd-gpio-controller-software-here-today/"><u>Get Your AMD GPIO Controller Software Here Today!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722966385715-get-your-mediatek-usb-vcom-drivers-now-secure-and-speedy-setup/"><u>Get Your MediaTek USB VCOM Drivers Now – Secure & Speedy Setup</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-10-best-camcorder-ultimate-review/"><u>In 2024, 10 Best Camcorder [Ultimate Review]</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/international-commercial-arbitration-is-governed-by-different-sets-of-rules-such-as-the-uncitrebarbitrage-convention-which-facilitates-enforcement-across-bo287/"><u>International Commercial Arbitration Is Governed by Different Sets of Rules Such as the UNCITRebarbitrage Convention, Which Facilitates Enforcement Across Borders.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/next-leap-forward-how-intel-prepares-three-versions-of-the-panther-lake-for-future-portable-computers-following-lunar-lakes-legacy/"><u>Next Leap Forward: How Intel Prepares Three Versions of the Panther Lake for Future Portable Computers Following Lunar Lake's Legacy</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-reflective-screen-woes/"><u>Resolving Reflective Screen Woes</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-rated-video-editor-ultimate-guide-to-seamlessly-trimming-mkv-files-without-remux/"><u>Top Rated Video Editor: Ultimate Guide to Seamlessly Trimming MKV Files Without Remux</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-downloading-and-setting-up-linksys-wusb6300-network-adapter-on-your-pc/"><u>Ultimate Guide: Downloading & Setting Up Linksys WUSB6300 Network Adapter on Your PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unlock-clear-sound-essential-fixes-for-muted-or-weak-microphones/"><u>Unlock Clear Sound: Essential Fixes for Muted or Weak Microphones</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/updated-and-compatible-download-the-epson-wf-3520wf-3540-driver-pack-for-windows-users/"><u>Updated and Compatible: Download the Epson WF-3520/WF-3540 Driver Pack for Windows Users</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "North Korean Tensions Escalate: Potential Impact on Majority of World's Memory Chip Production From South Korea"
-date: 2024-08-19T04:10:15.993Z
-updated: 2024-08-20T04:10:15.993Z
+date: 2025-01-18T19:14:44.003Z
+updated: 2025-01-24T19:37:49.972Z
 tags:
   - ram
 categories:
@@ -27,6 +27,10 @@ Innotron, the parent company of ChangXin Memory Technologies (CXMT), plans to in
 
  This $2.4 billion investment is a part of China's broader strategy to enhance its semiconductor capabilities in general and advanced packaging technologies in particular. Whether or not this one is going to be a financial success is something that remains to be seen. Given that the U.S. government does not allow the export of advanced components made using American technology to China without a license, it has no other choice but to build its own HBM supply chain.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,8 +45,6 @@ Innotron, the parent company of ChangXin Memory Technologies (CXMT), plans to in
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -50,8 +52,21 @@ Innotron, the parent company of ChangXin Memory Technologies (CXMT), plans to in
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-on-demand-acting-rights-form/"><u>[New] 2024 Approved On-Demand Acting Rights Form</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-perpetual-screen-snapshot-for-2024/"><u>[New] Perpetual Screen Snapshot for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/choosing-a-fresh-termbackground-pic/"><u>Choosing a Fresh TermBackground Pic</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/vering-synergistic-partnerships-on-youtube-platforms/"><u>Discovering Synergistic Partnerships on YouTube Platforms</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-fix-elite-dangerous-continuously-freezing-or-crashing-on-your-computer/"><u>How to Fix Elite Dangerous Continuously Freezing or Crashing on Your Computer</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-seamlessly-download-and-update-your-asus-bluetooth-driver-a-step-by-step-tutorial/"><u>How to Seamlessly Download & Update Your ASUS Bluetooth Driver - A Step by Step Tutorial</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-task-management-setting-up-timely-alerts-via-slacks-built-in-slackbot-assistant/"><u>Mastering Task Management: Setting Up Timely Alerts via Slack's Built-In Slackbot Assistant</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-mindmapping-innovative-strategies-using-chatgpt/"><u>Mastering the Art of Mindmapping: Innovative Strategies Using ChatGPT</u></a></li>
+<li><a href="https://games-able.techidaily.com/steams-bold-move-overhauling-family-game-access-for-10-years/"><u>Steam's Bold Move: Overhauling Family Game Access for 10 Years</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-to-downloading-the-asus-clickpad-driver-for-your-windows-machine/"><u>Step-by-Step Guide to Downloading the ASUS Clickpad Driver for Your Windows Machine</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-fresh-lenovo-monitor-driver-download-for-optimal-performance/"><u>Step-by-Step: Fresh Lenovo Monitor Driver Download for Optimal Performance</u></a></li>
+<li><a href="https://article-posts.techidaily.com/transform-your-in-game-identity-with-these-free-free-fire-vocal-hacks-for-2024/"><u>Transform Your In-Game Identity with These Free Free Fire Vocal Hacks for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/unveiling-the-excellence-of-artificial-intelligence-in-spotifys-features-more-than-just-gimmicks/"><u>Unveiling the Excellence of Artificial Intelligence in Spotify's Features: More Than Just Gimmicks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722973199619-update-your-hp-wireless-adapter-drivers-for-optimal-performance-on-windows-10-7-and-8-free-downloads-available/"><u>Update Your HP Wireless Adapter Drivers for Optimal Performance on Windows 10, 7 & 8 - Free Downloads Available</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

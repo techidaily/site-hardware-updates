@@ -1,7 +1,7 @@
 ---
 title: "Unleashing Performance: In-Depth Analysis by Tom's Hardware Team"
-date: 2024-08-19T05:50:07.497Z
-updated: 2024-08-20T05:50:07.497Z
+date: 2025-01-19T20:21:03.885Z
+updated: 2025-01-24T20:51:40.492Z
 tags:
   - cpu
 categories:
@@ -27,6 +27,10 @@ With AI PC hype at a fever pitch, chip vendors Intel, AMD, and Qualcomm are enga
 
  The Cixin P1 is a very unique processor. While it does not fulfill Beijing's goals of being a fully home-grown processor because it uses Arm CPU and GPU designs, the chip is specifically designed for the needs of the Chinese market and stands ready to enjoy some level of success. It also sadly does not meet[Microsoft](https://www.tomshardware.com/tag/microsoft) 's arbitrary "AI PC" requirements. The P1's NPU on its own is only 30 TOPS — shy of the 40 TOPS target — though it's likely that Cixin could not care less about Windows Copilot+ certification.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -37,14 +41,11 @@ With AI PC hype at a fever pitch, chip vendors Intel, AMD, and Qualcomm are enga
 
  Cixin is a very young company, first established in 2021, that has been growing thanks to investments from 15-20 public and private investment partners listed on its website. This freshness to the Chinese tech scene may limit widespread adoption early on, so we'll have to wait and see if Cixin manages to succeed in the huge, hungry tech market seeking[separation from U.S. interference](https://www.tomshardware.com/tech-industry/manufacturing/china-commerce-minister-frustrated-by-us-interfering-in-international-lithography-exports-via-third-countries) .
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -53,8 +54,26 @@ With AI PC hype at a fever pitch, chip vendors Intel, AMD, and Qualcomm are enga
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-diversifying-audience-across-30plus-online-venues/"><u>[New] 2024 Approved Diversifying Audience Across 30+ Online Venues</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-influencers-insight-quick-pathways-to-instagram-fame-with-our-ultimate-list-of-15-tips/"><u>[New] Influencer's Insight Quick Pathways to Instagram Fame with Our Ultimate List of 15 Tips</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-state-of-the-art-gaming-capture-systems-not-just-fbx-files/"><u>[Updated] 2024 Approved State-of-the-Art Gaming Capture Systems, Not Just FBX Files</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-circles-vs-cubes-unraveling-camera-types/"><u>2024 Approved Circles vs Cubes Unraveling Camera Types</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-guide-retrieve-nvidias-rtx-e90-drivers-on-windows-1187/"><u>Comprehensive Guide: Retrieve NVIDIA's RTX E90 Drivers on Windows 11/8/7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-software-hp-laserjet-pro-m506-printer-drivers/"><u>Download & Update Software: HP LaserJet Pro M506 Printer Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-ft232r-usb-uart-driver-fast-step-by-step-guide/"><u>Download the FT232R USB UART Driver Fast: Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722977268796-easy-download-of-asus-z170-a-drivers-for-windows-1187-get-the-right-support-now/"><u>Easy Download of ASUS Z170-A Drivers for Windows 11/8/7 – Get the Right Support Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effective-ways-to-address-and-repair-lenovos-usb-driver-glitches-quickly/"><u>Effective Ways to Address and Repair Lenovo's USB Driver Glitches Quickly</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/explore-best-gopro-cases-rated-1-10-for-2024/"><u>Explore Best GoPro Cases Rated #1-10 for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722970667682-get-latest-mpow-bluetooth-driver-update-for-windows-download-now/"><u>Get Latest MPOW Bluetooth Driver Update for Windows - Download Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-version-of-elans-smbus-driver-and-troubleshooting-tips-for-windows/"><u>Get the Newest Version of ELAN's SMBus Driver & Troubleshooting Tips for Windows</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-vivo-y100t-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Vivo Y100t Devices</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-vivo-s18-pro-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Vivo S18 Pro Phone that is Locked?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-itel-p40plus-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Itel P40+? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-nvidia-geforce-rtx-1650-supers-drivers-update-and-installation-steps-on-windows-11/"><u>Latest NVIDIA GeForce RTX 1650 Supers Drivers: Update & Installation Steps on Windows 11</u></a></li>
+<li><a href="https://extra-support.techidaily.com/optimal-and-economical-selecting-the-top-free-webm-playback-options-for-2024/"><u>Optimal and Economical Selecting the Top Free WebM Playback Options for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-vivo-y100t-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-start-installing-the-latest-epson-es-400-scanner-drivers-on-your-pc-windows/"><u>Quick Start: Installing the Latest Epson ES-400 Scanner Drivers on Your PC (Windows)</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->

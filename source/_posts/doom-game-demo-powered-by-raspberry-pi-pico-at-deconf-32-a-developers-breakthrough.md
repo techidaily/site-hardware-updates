@@ -1,7 +1,7 @@
 ---
 title: "Doom Game Demo Powered by Raspberry Pi Pico at Deconf 32: A Developer's Breakthrough"
-date: 2024-08-19T04:10:40.973Z
-updated: 2024-08-20T04:10:40.973Z
+date: 2025-01-20T03:12:26.842Z
+updated: 2025-01-24T22:00:11.978Z
 tags:
   - raspberry-pi
 categories:
@@ -170,9 +170,6 @@ Must take apart to remove
 
 ![Raspberry Pi Zero Case](https://cdn.mos.cms.futurecdn.net/grP8Mkkm7M6gnrYNoAh3cH-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ### 3\. Official Raspberry Pi Zero Case
@@ -237,9 +234,6 @@ Official Raspberry Pi color scheme
 
 ![SmartiPi Touch 2](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![SmartiPi Touch 2](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -312,9 +306,6 @@ Instructions could be better
 
 ![Retroflag NESPi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Retroflag NESPi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -323,11 +314,12 @@ Instructions could be better
 
 ![Retroflag NESPi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ### 5\. Retroflag NESPi Case
 
 Best for Retrogamers with Pi 3
@@ -390,20 +382,6 @@ Instructions could be better
 
 ![SilverStone PI02](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
- (Image credit: Tom's Hardware)
-
-![SilverStone PI02](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
- (Image credit: Tom's Hardware)
-
-![SilverStone PI02](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
  (Image credit: Tom's Hardware)
 
 ![SilverStone PI02](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -413,9 +391,26 @@ Instructions could be better
 ![SilverStone PI02](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
+
+![SilverStone PI02](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+ (Image credit: Tom's Hardware)
+
+![SilverStone PI02](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+ (Image credit: Tom's Hardware)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. SilverStone PI02
 
@@ -478,8 +473,9 @@ GPIO access is woeful
  (Image credit: Tom's Hardware)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 7\. Retroflag GPi Case
 
 Turns your Pi Zero into a Handheld Arcade
@@ -548,11 +544,12 @@ Long battery life
 
 ![Argon ONE M.2](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 8\. Argon One M.2
 
  Solid, SATA SSD, reliable cooling with good looks
@@ -619,13 +616,18 @@ Oversized USB 3.0 connector
 
 ![Pimoroni Aluminium Heatsink Case for Raspberry Pi 4](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ![Pimoroni Aluminium Heatsink Case for Raspberry Pi 4](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ### 9\. Pimoroni Aluminium Heatsink Case for Raspberry Pi 4
@@ -686,18 +688,8 @@ Access to PoE pins is troublesome
 
 ![Argon ONE M.2 NVMe case for Raspberry Pi 5](https://cdn.mos.cms.futurecdn.net/ouzNWUbZCXEnPUoLXEygxV-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ### 10\. Argon ONE V3 M.2 NVMe for Raspberry Pi 5
 
  Space age looks and stellar thermal performance
@@ -761,13 +753,11 @@ Fingerprint magnet
 ![Akasa Gem Pro](https://cdn.mos.cms.futurecdn.net/ByhXm9QSe2UJgdVZEXasc3-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Akasa Gem Pro  (Image credit: Tom's Hardware)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 11\. Akasa Gem Pro
 
 A “gem” of a case for your Raspberry Pi 4
@@ -823,8 +813,9 @@ Sharp corners
 **Read:** [Akasa Gem Pro Raspberry Pi Case Review](https://tools.techidaily.com)
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Other Raspberry Pi Cases Tested
 
  In researching this page, we ended up testing and considering a number of additional products, some of which were quite good, but didn’t quite deserve to be called “the best.” These include:
@@ -833,9 +824,6 @@ Sharp corners
 * [Retro Power NES Retro Brick](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FRetro-Raspberry-Bricks-RetroPie-Nintendo%2Fdp%2FB07KCQ9QQV%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-5290609295109963479-20) : We really like this case, but it’s not very practical. Made out of 307 Lego-compatible bricks, the case looks just like an old-school NES. We had a lot of fun putting this together, the most fun we had with any case, but it completely blocks access to your microSD card and the only way to remove your Pi is to take off a bunch of bricks and rebuild it afterwards. It also doesn’t fit a Pi 4 (though a 3 fit) and doesn’t have any built-in cooling.
 * [Miuzei Case for Raspberry Pi 4](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FMiuzei-Raspberry-Aluminum-Included-Black%2Fdp%2FB07VX3HQGJ%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-4939233850097411812-20) : This $10 case is a really good bargain and comes with a fan and a heatsink. It’s also an attractive shade of blue, a welcome color change from all the silver and black cases on the market. The GPIO pins are available but too low in the case to add a HAT to, without using some kind of extender or ribbon cable. Our main beef with the Miuzei is that, while building the, a layer of the plastic cracked in half just from our screwing in the fan. We managed to put it together anyway, but that was a disappointment.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Discounts on the Best Raspberry Pi Cases
 
  Whether you're shopping for one of the best Raspberry Pi cases or one that didn't quite make our list, you may find savings by checking out the latest[SparkFun promo codes](https://tools.techidaily.com) ,[Newegg promo codes](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.tomshardware.com%2Fcoupons%2Fnewegg.com) ,[Amazon promo codes](https://www.tomshardware.com/coupons/amazon.com) or[Micro Center coupons](https://tools.techidaily.com) .
@@ -932,18 +920,11 @@ powered by
 
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -952,4 +933,20 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-download-facebook-audio-mp3s/"><u>2024 Approved Download Facebook Audio MP3s</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-xiaomi-redmi-12-5g-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Xiaomi Redmi 12 5G</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-enhanced-performance-comprehensive-msi-z370-a-pro-drivers/"><u>Download Enhanced Performance: Comprehensive MSI Z370-A Pro Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/efficient-and-fast-internet-download-killer-e2500-network-adapter-drivers-now/"><u>Efficient and Fast Internet: Download [Killer] E2500 Network Adapter Drivers Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/epson-gt-s50-compatible-driver-downloads-for-windows-operating-systems-7-8-and-lete-10/"><u>Epson GT-S50: Compatible Driver Downloads for Windows Operating Systems (7, 8 & Lete 10)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-future-with-5-mental-health-bots/"><u>Exploring the Future with 5 Mental Health Bots</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-best-gaming-experience-free-download-of-logiteches-driving-force-gt-driver-for-windows-users-windows-7-10-and-11/"><u>Get the Best Gaming Experience: Free Download of Logiteche's Driving Force GT Driver for Windows Users (Windows 7, 10 & 11)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722959887831-gigaware-usb-interface-software-for-windows-secure-your-downloads-now/"><u>Gigaware USB Interface Software for Windows - Secure Your Downloads Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-fix-persistent-war-thunder-game-crashes-expert-solutions/"><u>How To Fix Persistent War Thunder Game Crashes - Expert Solutions</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Oppo A78? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-upgrade-compatible-drivers-for-lenovo-thinkpad-with-usb-c-thunderbolt-3-port/"><u>Latest Upgrade: Compatible Drivers for Lenovo ThinkPad with USB-C Thunderbolt 3 Port</u></a></li>
+<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-on-apple-iphone-15-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication On Apple iPhone 15? 5 Tips You Must Know</u></a></li>
+</ul></div>
 

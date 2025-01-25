@@ -1,7 +1,7 @@
 ---
 title: "Massive Savings: Unlock 36%% Discount on the 8TB Samsung Portable SSD - Now Available on Amazon | TechNews by ZDNet"
-date: 2025-01-12T16:46:49.948Z
-updated: 2025-01-18T19:16:09.260Z
+date: 2025-01-20T20:02:22.336Z
+updated: 2025-01-25T00:29:16.810Z
 tags:
   - laptops
 categories:
@@ -28,7 +28,7 @@ With a truly impressive amount of storage space, you'll get read and write speed
 Along with great read and write speeds and more reliable data transfers, the [Samsung T5 Evo](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Portable-External-MU-PH8T0S-AM%2Fdp%2FB0CMDGGJTZ%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C2362e90f-b768-47d7-98bd-3041538b2c7e%7Cdtp&dtb=1) also features 256-bit AES encryption to keep your personal data and sensitive information safe from unauthorized access. Its outer casing is drop- and shock-resistant and can withstand falls up to six feet, making it perfect for on-location photographers and other mobile professionals who need a tough storage drive for offloading raw photos from camera storage or transferring important projects and documents between their home office and mobile work location. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -65,20 +65,15 @@ While the Amazon listing for the Samsung T5 Evo portable SSD does not have a cou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-comprehensive-guide-to-top-tier-skype-recorder-tech-for-2024/"><u>[New] Comprehensive Guide to Top-Tier Skype Recorder Tech for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-how-to-shoot-vertical-panorama-photos-with-your-smartphone-androidios/"><u>[New] How to Shoot Vertical Panorama Photos with Your Smartphone Android/iOS</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/oom-in-how-to-sequentially-play-youtube-videos-for-free/"><u>[New] Zoom In How to Sequentially Play YouTube Videos for Free</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-apex-alchemy-choosing-the-best-laptops-for-video-wizards/"><u>[Updated] Apex Alchemy Choosing the Best Laptops for Video Wizards</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-stealthy-surveillance-erasing-sensitive-elements-from-footage/"><u>[Updated] In 2024, Stealthy Surveillance Erasing Sensitive Elements From Footage</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/enhance-your-surround-sound-setup-effortless-installation-of-updated-nahimic-drivers/"><u>Enhance Your Surround Sound Setup: Effortless Installation of Updated Nahimic Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ensure-optimal-performance-downloading-updated-logitech-g35-drivers-for-windows-7-810/"><u>Ensure Optimal Performance: Downloading Updated Logitech G35 Drivers for Windows 7, 8/10</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-nubia-red-magic-9-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/guide-to-downloading-and-installing-webcam-drivers-on-various-windows-platforms-including-win11win10win8win7/"><u>Guide to Downloading & Installing WebCam Drivers on Various Windows Platforms, Including Win11/Win10/Win8/Win7</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-revolutionized-ios-screenshot-and-recording-methods/"><u>In 2024, Revolutionized iOS Screenshot & Recording Methods</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-realtek-audio-driver-downloads-compatible-with-windows-11107/"><u>Latest Realtek Audio Driver Downloads Compatible with Windows 11/10/7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-guide-simple-methods-for-swift-driver-revisions-on-dell-studio-g7/"><u>Quick Guide: Simple Methods for Swift Driver Revisions on Dell Studio G7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-updating-your-corsair-gaming-headset-drivers-on-windows-pcs/"><u>Step-by-Step Guide: Updating Your Corsair Gaming Headset Drivers on Windows PCs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-beginners-pathway-initiating-and-configuring-auto-gpt-on-an-ubuntu-server/"><u>The Beginner's Pathway: Initiating and Configuring Auto-GPT on an Ubuntu Server</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-your-hp-scanjet-software-compatible-with-windows-1087-download-now/"><u>Update Your HP Scanjet Software: Compatible with Windows 10/8/7 - Download Now</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-everyones-guide-to-youtube-success-10-straightforward-video-tips/"><u>[New] In 2024, Everyone's Guide to YouTube Success 10 Straightforward Video Tips</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-boosting-your-channels-free-tips-for-youtube-video-popularity/"><u>[Updated] 2024 Approved Boosting Your Channels Free Tips for YouTube Video Popularity</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-flashing-lights-of-olympic-speed/"><u>[Updated] Flashing Lights of Olympic Speed</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-unleash-the-full-potential-of-your-chat-on-whatsapp-for-2024/"><u>[Updated] Unleash the Full Potential of Your Chat on WhatsApp for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/a-glimpse-into-the-past-ancient-crt-hit-remarkable-700hz-lowers-clarity-for-ultra-fast-refresh-rates/"><u>A Glimpse Into the Past: Ancient CRT Hit Remarkable 700Hz, Lowers Clarity for Ultra-Fast Refresh Rates</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/advanced-gadget-evaluations-by-toms-hardware-experts/"><u>Advanced Gadget Evaluations by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/asus-rog-strix-xg27acs-gaming-monitor-a-comprehensive-qhd-180hz-revew/"><u>Asus Rog Strix XG27ACS Gaming Monitor - A Comprehensive QHD 180Hz Revew</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/budget-friendly-gamers-dream-best-2024-round-and-flat-screens-with-advanced-refresh-rate-tech/"><u>Budget-Friendly Gamer's Dream: Best 2024 Round and Flat Screens with Advanced Refresh Rate Tech</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-open-your-apple-iphone-15-without-a-home-button-drfone-by-drfone-ios/"><u>In 2024, How To Open Your Apple iPhone 15 Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-approach-breaking-down-videos-into-chapters-for-youtube/"><u>In 2024, Innovative Approach Breaking Down Videos Into Chapters for YouTube</u></a></li>
 </ul></div>
 

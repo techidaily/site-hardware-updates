@@ -1,7 +1,7 @@
 ---
 title: Installing the Latest Driver Software for Brother MFC-J480DW on Windows Systems
-date: 2024-08-19T05:49:36.938Z
-updated: 2024-08-20T05:49:36.938Z
+date: 2025-01-20T23:58:25.838Z
+updated: 2025-01-24T22:49:06.361Z
 tags:
   - win11
   - win10
@@ -19,12 +19,20 @@ Looking to update your (**Qualcomm** ) **Atheros** drivers but struggling to fin
 
  Check out the 2 methods below and you’ll have the latest**Atheros** driver installed in no time! 😉
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Choose the way you prefer
 
  Both methods below work in**Window 10** ,**8.1** and**7** . You may not have to try both; just browse through the list and take your pick:
 
 1. **[Update your Atheros drivers manually](https://tools.techidaily.com/drivereasy/download/)**
 2. **[Update your Atheros drivers automatically (Recommended)](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: Update your Atheros drivers manually
 
@@ -35,6 +43,10 @@ Looking to update your (**Qualcomm** ) **Atheros** drivers but struggling to fin
  1) On your keyboard, press **the Windows logo key** **![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and **R**  at the same time, then copy & paste **devmgmt.msc** into the box and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) In**Device Manager** , right-click your **Atheros products** and click**Update** .
 
@@ -62,8 +74,9 @@ Looking to update your (**Qualcomm** ) **Atheros** drivers but struggling to fin
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2: Update your Atheros drivers automatically (Recommended)
 
  If you don’t have the time, patience or computer skills to update the drivers for your**Atheros** devices  manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -81,15 +94,13 @@ Looking to update your (**Qualcomm** ) **Atheros** drivers but struggling to fin
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3b19bf43ece.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) You can upgrade to[**the Pro version**](https://tools.techidaily.com/drivereasy/download/)  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5af0deb80ba.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
  You can click **Update**  to  do it for free if you like, but it’s partly manual.
 
  If you have any problems while using **Driver Easy** , feel free to contact our support team at **<support@drivereasy.com>** . Be sure to attach **the URL of this article** if needed for more expedient and efficient guidance.
@@ -106,8 +117,6 @@ Looking to update your (**Qualcomm** ) **Atheros** drivers but struggling to fin
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -115,4 +124,22 @@ Looking to update your (**Qualcomm** ) **Atheros** drivers but struggling to fin
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-optimal-choices-foremost-audio-craftsmen-for-iphones/"><u>[New] 2024 Approved Optimal Choices Foremost Audio Craftsmen for iPhones</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-the-ultimate-list-of-budget-friendly-editor-apps/"><u>[New] 2024 Approved The Ultimate List of Budget-Friendly Editor Apps</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-unlock-creative-potential-in-photography-top-15-tricks-for-using-pixlr/"><u>[New] 2024 Approved Unlock Creative Potential in Photography Top 15 Tricks for Using Pixlr</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-the-ultimate-guide-to-free-high-quality-subtitle-tools/"><u>[Updated] 2024 Approved The Ultimate Guide to FREE, High-Quality Subtitle Tools</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-how-to-edit-gopro-4k-video-for-2024/"><u>[Updated] How to Edit GoPro 4K Video for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-precision-videoplayers-for-high-definition-on-android/"><u>[Updated] Precision Videoplayers for High Definition on Android</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-setup-free-aoc-monitor-drivers-compatible-with-windows-11-10-and-8/"><u>Download & Setup: Free AOC Monitor Drivers Compatible with Windows 11, 10 & 8</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-newest-hp-deskjet-3755-all-in-one-printer-drivers-compatible-with-windows-101187/"><u>Download the Newest HP DeskJet 3755 All-in-One Printer Drivers Compatible with Windows 10/11/8/7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-download-latest-drivers-for-msi-z370-a-pro-motherboard/"><u>Free Download: Latest Drivers for MSI Z370-A Pro Motherboard</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-deskjet-3050-printer-driver-download-for-windows/"><u>HP Deskjet 3050 Printer Driver Download for Windows</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-xiaomi-14-prowithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Xiaomi 14 Prowith/without a PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-your-brother-l2540dw-printer-on-windows-easy-download-and-setup/"><u>Install Your Brother L2540DW Printer on Windows: Easy Download and Setup</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/instant-access-to-the-zebra-gk420d-printer-driver-easy-and-reliable-download-options-inside/"><u>Instant Access to the Zebra GK420D Printer Driver – Easy and Reliable Download Options Inside.</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-realme-note-50-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Realme Note 50 and Browser | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/risk-assessments-are-essential-for-prioritizing-biosecurity-efforts-based-on-threat-likelihood-and-potential-impact/"><u>Risk Assessments Are Essential for Prioritizing Biosecurity Efforts Based on Threat Likelihood and Potential Impact</u></a></li>
+</ul></div>
 

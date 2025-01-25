@@ -1,7 +1,7 @@
 ---
 title: Exploring New Horizons with Tom's Hardware Guides
-date: 2024-08-19T05:48:37.472Z
-updated: 2024-08-20T05:48:37.472Z
+date: 2025-01-18T01:37:42.497Z
+updated: 2025-01-24T18:58:52.011Z
 tags:
   - desktop
 categories:
@@ -41,6 +41,10 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
  We caught a first glimpse of the AtomMan X7 Ti[at CES 2024](https://www.tomshardware.com/desktops/mini-pcs/minisforum-first-intel-core-ultra-mini-pc-amd-rx-7600M-xt-mini-pc) when it was showcased with other interesting new computers like the Minisforum HX200G, Mini Workstation MS-01, and the[V3 tablet](https://www.tomshardware.com/tablets/minisforum-v3-tablet-arrives-the-worlds-first-amd-ryzen-7-8840u-powered-surface-clone) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -49,14 +53,11 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -65,8 +66,20 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/n-2024-the-rise-and-challenges-of-video-streaming-profits/"><u>[New] In 2024, The Rise and Challenges of Video Streaming Profits</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-low-cost-action-cameras-list-for-less-than-100-savings-for-2024/"><u>[New] Low-Cost Action Cameras List for Less Than $100 Savings for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-infinix-hot-30i-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Infinix Hot 30i to iPhone | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-vivo-v29-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-radeon-rx-5700-xt-drivers-free-download-and-installation-guide-for-windows-11-10-8-and-7/"><u>AMD Radeon RX 5700 XT Drivers: Free Download & Installation Guide for Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://change-location.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-and-download-hp-officejet-pro-8715-printer-software-for-windows-11-10-or-8-systems-free/"><u>Find & Download HP OfficeJet Pro 8715 Printer Software for Windows 11, 10 or 8 Systems [Free]</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722976710209-get-your-hp-officejet-n5740-up-and-running-with-instant-driver-downloads/"><u>Get Your HP OfficeJet N5740 Up and Running with Instant Driver Downloads</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-msi-sound-card-drivers-installed-on-windows-pcs-now/"><u>Get Your MSI Sound Card Drivers Installed on Windows PCs - Now</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-itel-p40-frp-by-drfone-android/"><u>How Can We Bypass Itel P40 FRP?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-vivo-y100i-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Vivo Y100i?</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-filmoras-peers-the-best-slide-show-template-collections/"><u>In 2024, Filmora's Peers The Best Slide Show Template Collections</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->

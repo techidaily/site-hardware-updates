@@ -1,7 +1,7 @@
 ---
 title: Top-Ranking Windows Ultrabooks & Gaming Notebooks , Comprehensive Reviews by Tech Experts | ZDNet
-date: 2025-01-13T16:55:46.791Z
-updated: 2025-01-18T17:23:02.089Z
+date: 2025-01-17T21:28:17.417Z
+updated: 2025-01-24T21:04:15.135Z
 tags:
   - laptops
 categories:
@@ -47,10 +47,6 @@ Cons
 
 ## Apple MacBook Air M3
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best lightweight laptop overall
 
 The resounding success of Apple's M2 MacBook Air was only improved upon with its successor, the M3 MacBook Air, and is our pick for best overall lightweight laptop. Available in a 13-inch and 15-inch display size, the MacBook Air is thin, light, and incredibly compact for the amount of power it has. At just barely over three pounds, the MacBook Air can be slipped into virtually any bag and go with you wherever you go.
@@ -79,10 +75,14 @@ Cons
 * Generic design
 * Loud fans
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Acer Swift Go 14
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best lightweight laptop for AI
@@ -110,6 +110,10 @@ Pros
 Cons 
 * Compact size means it can run hot
 * Comes pre-loaded with bloatware
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Asus ROG Zephyrus G14
 
@@ -142,6 +146,10 @@ Cons
 * Design tradeoffs for ultra portability
 * Expensive
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## LG Gram Pro 17
 
 ### Best lightweight laptop with a 17" display
@@ -173,10 +181,6 @@ Cons
 * Battery life is not the best
 * Expensive
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Lenovo ThinkPad X1 Carbon
 
 ### Best lightweight laptop for work
@@ -193,6 +197,10 @@ It also comes with an 8MP webcam that can shoot in 4K, perfect for presenting a 
 
 Show Expert Take Show less 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the best lightweight laptop?
 
 The best lightweight laptop in 2024 is the [Apple MacBook Air M3](https://www.zdnet.com/article/m3-macbook-air-review/). Portable, powerful, and with a long-lasting battery, the MacBook Air M3 is a versatile workhorse that you can throw in a bag and take with you anywhere you go. The M3's 8-core CPU and 10-core GPU is armed to take on almost anything you throw at it, and the entire package weighs just 2.7 pounds. 
@@ -205,10 +213,6 @@ The best lightweight laptop in 2024 is the [Apple MacBook Air M3](https://www.zd
 | LG Gram Pro 17        | $1299             | Intel Core Ultra 7 155H, Nvidia GeForce RTX 3050 | 16GB, 1TB                   | 2.7              |
 | Lenovo X1 Carbon      | $2263             | Intel Core Ultra 5 125U, Intel Arc Graphics      | 16GB, up to 1TB             | 2.4              |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Which is the right lightweight laptop for you?
 
 The best lightweight laptop for you depends on what you want to get out of it. Laptops packed with powerful gaming hardware like the Asus Zephyrus G14 are going to weigh a little more, while extreme lightweight machines like the LG Gram Pro 17 will have some design tradeoffs that go along with their compact size.
@@ -220,6 +224,10 @@ The best lightweight laptop for you depends on what you want to get out of it. L
 | ASUS ROG Zephyrus G14               | The lightest machine you can get while still calling it a proper gaming laptop.          |
 | LG Gram Pro 17                      | The lightest, thinnest 17-inch laptop on the market, no matter the cost.                 |
 | Lenovo X1 Carbon                    | A durable, powerful laptop for work.                                                     |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How we test lightweight laptops
 
@@ -245,10 +253,6 @@ These laptops all offer solid performance in their own right, but paired with th
 * **Battery life:** In order to be considered for this list, I considered machines with better-than-average battery life. This is one metric that will vary significantly based on use case, but all of these laptops will easily last an entire workday (eight hours) on one charge, even while undergoing demanding workloads
 * **Price:** Cost is an important factor and will make or break many consumers' choices. The reality is that ultraportability does come at a cost, as none of these laptops would be considered "budget" by any rate. The Acer Swift Go 14, however, is still quite affordable, starting at $800, though upgrades will move that number more in line with the others on this list.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why does having a lightweight laptop matter?
 
 The answer to this question is simple: laptops are made to be carried around, and no one wants to carry a heavy computer. Having a thin, lightweight machine opens up its usability and lets you take it places you normally wouldn't consider possible. 
@@ -265,10 +269,6 @@ Most laptops today weigh between two and a half and five pounds, with a five-pou
 
 The heaviest laptops on this list are the Asus ROG Zephyrus G14 and the 15-inch MacBook Air M3, each weighing just 3.3 pounds. In the laptop world, that's light. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What slim laptop backpack do we recommend?
 
 We love lightweight laptops because they're easy to carry around. But the backpack you carry it in is just as important. There are many great backpacks out there for transporting your laptop, but here are a few we recommend.
@@ -277,6 +277,10 @@ We love lightweight laptops because they're easy to carry around. But the backpa
 
 [ZDNET RECOMMENDS Matein Travel Laptop Backpack Packed with travel-friendly features like a luggage strap and an anti-theft back pocket that protects your valuables, the Matein travel laptop is an inexpensive and solid travel backpack for your laptop. A bonus feature is an external USB charging port for easy charging on the go. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBackpack-Business-Charging-Resistant-Computer%2Fdp%2FB06XZTZ7GB%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb372b0e0-f807-4ada-91fc-3819fe7f0ce6%7Cdtp&dtb=1)[ZDNET RECOMMENDS Herschel Little America Backpack Herschel backpacks have a timeless design that's comfortable to wear thanks to the contoured padded back straps. It comes in two sizes which can hold up to a 13-inch laptop or a 15-inch laptop. Its drawstring closure expands to create extra storage space while the magnetic front straps secure what's inside. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB00838TCGO%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb372b0e0-f807-4ada-91fc-3819fe7f0ce6%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which operating system should you choose: Windows, MacOS, Chrome OS, or Linux?
 
 While every computing platform has its loyal supporters, most people end up using a particular operating system because of key applications running on it, employer preferences, or budgetary constraints. Windows, which ranges from budget to premium, and Apple's MacOS, which is exclusive to premium devices, cover a broad spectrum. Chrome OS is mostly limited to mid-range devices.
@@ -284,10 +288,6 @@ While every computing platform has its loyal supporters, most people end up usin
 **Also:** **[Comparing the best Macs: Is a MacBook or Mac Studio right for you?](https://www.zdnet.com/article/best-mac/)** 
 
 All Windows devices listed here meet the requirements for Windows 11\. If you purchase a device with Windows 10 installed, you will be able to upgrade to Windows 11 if you choose to do so. Note that after October 14, 2025, Windows 10 support will end, and there will be no further security patches or feature updates.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Are there alternative lightweight laptops worth considering?
 
@@ -335,24 +335,19 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-masterclass-softening-auditory-peaks-gently-in-logic-pro/"><u>[New] 2024 Approved Masterclass Softening Auditory Peaks Gently in Logic Pro</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-barely-there-to-top-rated-the-youtube-growth-arc/"><u>[Updated] 2024 Approved From Barely There to Top Rated The Youtube Growth Arc</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-ranked-your-must-have-5-iphones-for-excellent-podcasting/"><u>[Updated] In 2024, Ranked Your Must-Have 5 iPhones for Excellent Podcasting</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/bcm2045a0-driver-problems-heres-how-to-fix-them-fast/"><u>BCM2045A0 Driver Problems? Here's How to Fix Them Fast!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-usb-webcam-drivers-now-fast-and-simple-installation-guide/"><u>Download USB Webcam Drivers Now – Fast and Simple Installation Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-install-iphone-drivers-for-windows-11-devices-and-how-to-get-them/"><u>Easy Install: IPhone Drivers for Windows 11 Devices and How to Get Them</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-setup-of-hp-840-g3-device-with-newest-driver-installation-tutorials/"><u>Effortless Setup of HP 840 G3 Device with Newest Driver Installation Tutorials</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/fast-track-tutorial-on-upgrading-synaptics-ps2-touchpad-drivers-with-precision/"><u>Fast Track Tutorial on Upgrading Synaptics PS/2 Touchpad Drivers with Precision</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-dell-g15-driver-software-update-for-your-windows-pc/"><u>Get the Latest Dell G15 Driver Software Update for Your Windows PC</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-epson-wf-2630-printer-software-for-windows-operating-systems-windows-78110/"><u>Get the Latest Epson WF 2630 Printer Software for Windows Operating Systems (Windows 7/8.1/10)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-newest-nvidia-gtx-student-what-is-the-value-of-x-if-log3xplus7-6/"><u>Get the Newest Nvidia GTX # Student: What Is the Value of $X$ if $ Log(3x+7) = 6$?</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-lightning-growth-guide-for-instagram-using-content-likes-and-videos/"><u>In 2024, Lightning Growth Guide for Instagram Using Content, Likes & Videos</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-htc-u23-pro-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing HTC U23 Pro to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Honor Magic V2? | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/safaris-picture-in-picture-on-ios-and-ipad-how-to-use/"><u>Safari's Picture-in-Picture on iOS & iPad How to Use</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-walkthrough-revamping-motherboard-drivers-with-windows-operating-system/"><u>The Ultimate Walkthrough: Revamping Motherboard Drivers with Windows Operating System</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/thrustmaster-t150-gamepad-download-the-official-drivers-swiftly/"><u>Thrustmaster T150 Gamepad - Download the Official Drivers Swiftly</u></a></li>
-<li><a href="https://discover-data.techidaily.com/trois-scenarios-complets-pour-transferer-des-fichiers-sur-un-mac-guide-detaille/"><u>Trois Scenarios Complets Pour Transférer Des Fichiers Sur Un Mac : Guide Détaillé</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unleash-the-power-of-words-how-to-enchant-tinder-users-with-a-bio/"><u>Unleash the Power of Words How to Enchant Tinder Users with a Bio</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-a-step-by-written-guide-to-luts-for-professional-photographers/"><u>[New] A Step-By Written Guide to LUTs for Professional Photographers</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-unlocking-fb-video-content-with-1-5-downloaders/"><u>[New] Unlocking FB Video Content with #1-5 Downloaders</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unlocking-the-secrets-to-successful-rapid-subscribing-on-youtube/"><u>[Updated] Unlocking the Secrets to Successful Rapid Subscribing on YouTube</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-honor-magic-5-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-free-qualcomm-atheros-ar938x-drivers-with-simple-steps/"><u>Download the Free Qualcomm Atheros AR938X Drivers with Simple Steps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-amd-radeon-r9-200-graphics-cards-windows-drivers-here/"><u>Get the Latest AMD Radeon R9 200 Graphics Cards Windows Drivers Here!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-installing-new-firmware-on-your-logitech-m510-a-comprehensive-guide/"><u>How To: Installing New Firmware on Your Logitech M510 - A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installation-guide-logitech-pts-webcam-drivers-on-windows-11/"><u>Installation Guide: Logitech PTS Webcam Drivers on Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-blockchain-communication-the-top-8-plugins-for-cryptocurrency-enthusiasts/"><u>Mastering Blockchain Communication: The Top 8 Plugins for Cryptocurrency Enthusiasts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-windows-11-how-to-successfully-update-your-gpus-drivers/"><u>Mastering Windows 11: How to Successfully Update Your GPU's Drivers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-photo-import-glitches-with-ios-devices-on-windows/"><u>Overcoming Photo Import Glitches with iOS Devices on Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quick-remedies-to-resolve-six-common-gpt-vehicle-problems/"><u>Quick Remedies to Resolve Six Common GPT Vehicle Problems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/streamlined-process-to-download-and-install-asus-laptop-touchpad-driver-for-windows-10/"><u>Streamlined Process to Download & Install ASUS Laptop Touchpad Driver for Windows 10</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Realme 11X 5G | Dr.fone</u></a></li>
 </ul></div>
 

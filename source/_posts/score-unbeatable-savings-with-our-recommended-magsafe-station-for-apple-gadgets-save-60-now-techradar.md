@@ -1,7 +1,7 @@
 ---
 title: Score Unbeatable Savings with Our Recommended MagSafe Station for Apple Gadgets - Save $60 Now | TechRadar
-date: 2024-12-02T23:20:23.487Z
-updated: 2024-12-06T18:03:25.093Z
+date: 2025-01-21T00:03:47.133Z
+updated: 2025-01-24T18:28:42.498Z
 tags:
   - laptops
 categories:
@@ -23,7 +23,7 @@ Adrian Kingsley-Hughes/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the deal?
@@ -33,7 +33,7 @@ The [Ugreen Nexode 100W USB-C 3-port MagSafe charging station](https://buy.geni.
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
@@ -49,7 +49,7 @@ One of my favorite accessory makers is Ugreen, and the company has yet another a
 [ZDNET RECOMMENDS Ugreen Nexode 100W USB-C 3-port MagSafe charging station Supports 100W max output at single port on USB-C port which can charge a MacBook Pro M2 from 0% to 51% in just 30 minutes. It also features a high-speed 15W MagSafe charger for the iPhone. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FUGREEN-Nexode-Charger-Wirless-Stand%2Fdp%2FB0BQBK2NLZ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0e03b59b-4058-4cb8-bc00-58afda4a8c8b%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Ugreen Nexode 100W USB-C 3-port MagSafe charging station tech specs
@@ -127,24 +127,16 @@ The [Ugreen Nexode 100W USB-C 3-port MagSafe charging station](https://buy.geni.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-character-choreography-compendiums/"><u>[New] Character Choreography Compendiums</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-thumbnails-as-a-key-player-in-video-marketing-strategies/"><u>[New] In 2024, Thumbnails as a Key Player in Video Marketing Strategies</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-perfected-techniques-for-streaming-from-obs-to-fb-success/"><u>[Updated] 2024 Approved Perfected Techniques for Streaming From OBS to FB Success</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/advanced-computer-systems-breakdown-by-toms-hardware-specialist/"><u>Advanced Computer Systems Breakdown by Tom's Hardware Specialist</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/como-hacer-una-copia-de-respaldo-rigurosa-de-tus-archivos-con-un-almacenamiento-externo-en-diversas-versiones-de-windows/"><u>Cómo Hacer Una Copia De Respaldo Rigurosa De Tus Archivos Con Un Almacenamiento Externo en Diversas Versiones De Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-linksys-wrt32x-wi-fi-router-firmware-fast-and-simple/"><u>Download Linksys WRT32X Wi-Fi Router Firmware – Fast and Simple!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-ways-to-refresh-graphics-drivers-in-windows-11-os/"><u>Easy Ways to Refresh Graphics Drivers in Windows 11 OS</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-computing-with-toms-gear-hub-detailed-analyses-and-tips/"><u>Exploring Computing with Tom's Gear Hub: Detailed Analyses and Tips</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-best-sound-on-your-pc-with-free-audigy-fx-driver-software/"><u>Get the Best Sound on Your PC with Free Audigy FX Driver Software!</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-itel-p55-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Itel P55 5G Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-successfully-install-or-update-ralink-drivers-on-a-windows-system-efficiently/"><u>How to Successfully Install or Update Ralink Drivers on a Windows System Efficiently</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-itel-a60-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Itel A60 Device SIM</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/innovative-home-safety-reviewing-arlos-combined-video-doorbell-and-alarm-device/"><u>Innovative Home Safety: Reviewing Arlo’s Combined Video Doorbell and Alarm Device</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-sound-card-drivers-for-microsoft-windows-systems/"><u>Latest Sound Card Drivers For Microsoft Windows Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-setup-guide-for-your-new-scansnap-s1100-scanner-drivers/"><u>Quick Setup Guide for Your New Scansnap S1100 Scanner Drivers</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/revamp-your-photos-is-pickup-a-game-changer-for-android-users/"><u>Revamp Your Photos Is PickUp a Game-Changer for Android Users?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722962731742-shape-memory-polymers-smps-can-contract-and-pull-crack-faces-together-reducing-their-width-when-activated-by-heat/"><u>Shape-Memory Polymers (SMPs) Can Contract and Pull Crack Faces Together, Reducing Their Width when Activated by Heat.</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/superior-schedulers-for-success-our-recommendation-list/"><u>Superior Schedulers for Success Our Recommendation List</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-lava-blaze-2-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-expert-stock-videos-top-channels-for-analysis/"><u>[Updated] 2024 Approved Expert Stock Videos Top Channels for Analysis</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-samsung-galaxy-m14-4g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Samsung Galaxy M14 4G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/broadcast-strategies-combining-facebook-and-tv-for-2024/"><u>Broadcast Strategies Combining Facebook and TV for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-official-nvidia-940mx-graphics-card-drivers/"><u>Download and Install Official Nvidia 940MX Graphics Card Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722969797074-get-your-epson-es-400-compatible-software-installed-in-windows-now/"><u>Get Your Epson ES-400 Compatible Software Installed in Windows Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-repair-a-malfunctioning-samsung-blu-ray-media-device/"><u>How To Repair A Malfunctioning Samsung Blu Ray Media Device</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-repair-your-logitech-g13-controller-using-official-drivers/"><u>How to Repair Your Logitech G13 Controller Using Official Drivers</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-miniature-homes-6-top-oriental-designs-for-mcers/"><u>In 2024, Miniature Homes 6 Top Oriental Designs for MCers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/investigating-allegations-againnst-intel-class-action-over-processor-performance-failures-begins/"><u>Investigating Allegations Againnst Intel: Class Action Over Processor Performance Failures Begins</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/navigating-senior-cell-plans-the-top-7-picks-of-2024-unveiled/"><u>Navigating Senior Cell Plans: The Top 7 Picks of 2024 Unveiled</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-obstacles-geforce-setup-failing-to-load-preferences/"><u>Overcoming Obstacles: GeForce Setup Failing to Load Preferences</u></a></li>
 </ul></div>
 

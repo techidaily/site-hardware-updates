@@ -1,7 +1,7 @@
 ---
 title: MacBook Air at an Unbeatable Price of Just $280 - Spotted by ZDNet
-date: 2024-12-19T09:20:39.605Z
-updated: 2024-12-21T20:54:29.225Z
+date: 2025-01-21T18:50:41.856Z
+updated: 2025-01-25T03:33:00.173Z
 tags:
   - laptops
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,18 +81,17 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-a-deeper-insight-into-augmented-reality-stickers-by-google-for-2024/"><u>[Updated] A Deeper Insight Into Augmented Reality Stickers by Google for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-professional-portrait-maker-for-passports-desktop-and-online-access-only/"><u>[Updated] In 2024, Professional Portrait Maker for Passports – Desktop & Online Access Only</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-quick-and-painless-ways-to-screen-record-stories-for-2024/"><u>[Updated] Quick & Painless Ways to Screen Record Stories for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/discover-the-richest-mountain-biking-audio-archives-online/"><u>Discover the Richest Mountain Biking Audio Archives Online</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-installation-of-techkeys-bluetooth-device-driver-on-various-windows-versions/"><u>Easy Installation of Techkey's Bluetooth Device Driver on Various Windows Versions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-more-power-and-speed-in-your-favorite-games-update-your-nvidia-gtx-1660-ti-gpu-driver/"><u>Get More Power and Speed in Your Favorite Games: Update Your NVIDIA GTX 1660 Ti GPU Driver</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-acer-predator-xb271h-monitor-drivers-fast-and-simple-installation/"><u>Get the Latest Acer Predator XB271H Monitor Drivers – Fast & Simple Installation</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-logitech-g29-steering-wheel-gamepad-driver-for-pc-operating-systems/"><u>Get Your Logitech G29 Steering Wheel Gamepad Driver for PC Operating Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-logitech-g203-mouse-driver-ensure-compatibility-with-windows-7-10-and-latest-update-11/"><u>Install Logitech G203 Mouse Driver: Ensure Compatibility with Windows 7, 10 & Latest Update (11)</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/record-google-hangout-4-solutions-for-2024/"><u>Record Google Hangout [4 Solutions] for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/secretive-suggestions-for-enhanced-vlc-usage-for-2024/"><u>Secretive Suggestions for Enhanced VLC Usage for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/tactics-to-determine-igtv-viewership-success/"><u>Tactics to Determine IGTV Viewership Success</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/visit-the-official-nvidia-drivers-page-httpswwwnvidiacomen-usdrivers/"><u>Visit the Official NVIDIA Drivers Page (https://www.nvidia.com/en-us/drivers/).</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-masterclass-in-15-high-impact-youtube-startups/"><u>[New] 2024 Approved Masterclass in 15 High-Impact YouTube Startups</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-a-complete-guide-to-dynamic-range-and-curves/"><u>[New] A Complete Guide to Dynamic Range and Curves</u></a></li>
+<li><a href="https://some-tips.techidaily.com/conversione-libera-online-da-mov-a-avi-con-movavi-modulo-guida-completo/"><u>Conversione Libera Online Da MOV a AVI Con Movavi: Modulo Guida Completo</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-updated-trackpad-drivers-compatible-with-windows-11-on-acer-devices/"><u>Download Updated Trackpad Drivers Compatible with Windows 11 on Acer Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-insights-from-toms-tech-analysis-your-guide-to-modern-gadgets/"><u>Expert Insights From Tom's Tech Analysis - Your Guide to Modern Gadgets</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/high-quality-drones-that-accommodate-gopro-cameras-for-2024/"><u>High-Quality Drones That Accommodate GoPro Cameras for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-snapshot-surprises-yearly-yt-stats-and-trends-in-graphics/"><u>In 2024, Snapshot Surprises Yearly YT Stats & Trends in Graphics</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-essential-funimate-guidebook/"><u>In 2024, The Essential Funimate Guidebook</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/official-downloads-compatible-windows-drivers-for-your-oculus-gear/"><u>Official Downloads: Compatible Windows Drivers for Your Oculus Gear</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-updating-your-amd-vega-56-drivers-on-windows-computers-effortlessly/"><u>Step-by-Step: Updating Your AMD Vega 56 Drivers on Windows Computers Effortlessly</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/streamlined-guide-quick-download-of-logitech-drivers-on-windows/"><u>Streamlined Guide: Quick Download of Logitech Drivers on Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-intel-optane-driver-installation-and-update-on-windows-common-issues-addressed/"><u>Ultimate Guide to Intel Optane Driver Installation and Update on Windows - Common Issues Addressed</u></a></li>
 </ul></div>
 

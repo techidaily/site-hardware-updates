@@ -1,7 +1,7 @@
 ---
 title: Top Durable Laptop Picks - Recommendations by ZDNet
-date: 2025-01-14T19:31:12.332Z
-updated: 2025-01-18T18:55:46.384Z
+date: 2025-01-20T18:50:31.535Z
+updated: 2025-01-24T16:06:35.668Z
 tags:
   - laptops
 categories:
@@ -26,10 +26,6 @@ You can even find rugged laptops with enterprise-level security software, which 
 
 We've tested and researched some of the best rugged laptops on the market. Our top pick for the best rugged laptop is the [Getac S510](https://www.getac.com/us/products/laptops/s510/#product-info) for its highly configurable options for shock, drop, moisture, and dust resistance as well as options for multiple storage drives, touchscreen, and even dual SIM, 4G/5G LTE connectivity, and GPS tracking. Keep reading below to find out more about the Getac S510 as well as our other top picks for the best rugged laptops.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The best rugged laptops of 2024
 
 Show less 
@@ -46,15 +42,7 @@ Cons
 * Very expensive
 * Not consumer grade
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Getac S510
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best rugged laptop overall
 
@@ -80,6 +68,10 @@ Pros
 Cons 
 * Very expensive
 * No AMD option
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Panasonic ToughBook 40 Mk2
 
@@ -110,10 +102,6 @@ Cons
 
 ## Acer Chromebook Spin 512
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best rugged laptop for students
 
 [Laptops for students](https://www.zdnet.com/article/best-laptop-for-college/) can take a lot of abuse, from getting shoved in backpacks to falling off desks. The Acer Chromebook Spin 512 is designed with MIL-STD-810H protection against shocks and drops as well as a spill-resistant keyboard. The 12-inch display has a built-in blue light filter to help reduce eye strain and fatigue and is made with Corning's Gorilla Glass for enhanced protection against cracks and chips. 
@@ -140,15 +128,7 @@ Cons
 * Short battery life
 * On the heavy side
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Asus ZenBook Pro Duo 15 OLED
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best rugged laptop splurge
 
@@ -181,10 +161,14 @@ Cons
 * No Intel option
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Asus TUF A14
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best rugged laptop for gaming
 
@@ -207,6 +191,10 @@ I chose the Getac S510 as the best rugged laptop for its highly customizable con
 | Panasonic Toughbook 40 Mk2   | $4,700              | Up to 2TB SSD | Up to Intel Core Ultra 7 165H |
 | Asus ZenBook Pro Duo 15 OLED | $1,700              | 1TB SSD       | Intel Core i7-12700H          |
 | Asus TUF A14                 | $1,400              | 1TB SSD       | AMD Ryzen 7 8845HS            |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Which rugged laptop is right for you?
 
@@ -232,11 +220,19 @@ Laptop manufacturers helpfully label these systems as "semi-rugged" or "rugged,"
 
 The rugged laptops listed here are from major manufacturers in the space (Dell, Panasonic, Getac), including some with which ZDNET staff have had hands-on experience. For more on how we test laptops, check out our comprehensive [laptop testing methodology](https://www.zdnet.com/article/how-we-test-laptops/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What does "rugged laptop" mean?
 
 A rugged laptop, sometimes listed as a "ruggedized" laptop, is a computer that is built specifically to handle extreme situations and weather conditions. Many rugged laptops are water- and dirt-resistant, resistant to drops and shocks, and can operate in both very hot and very cold temperatures. 
 
 These kinds of laptops are great for anyone who has to work outdoors for any length of time, such as people at construction sites, on geological surveys, and in the military.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What does "military grade" mean?
 
@@ -256,6 +252,10 @@ Show less
 
 Full Review [Read Full Review](https://www.zdnet.com/article/best-rugged-laptop/Design: Mini Listicle)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Lenovo ThinkPad X1 Nano Gen 2
 
 This rugged laptop still has an impressive display: a 13-inch 2K (2160 x 1350) IPS, anti-glare display with Dolby Vision™, 450 nits, and integrated Intel Iris Xe Graphics.
@@ -268,10 +268,6 @@ Show less
 
 Full Review [Read Full Review](https://www.zdnet.com/article/best-rugged-laptop/Design: Mini Listicle)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Getac B360
 
 I got the chance to test out the Getac B360 and saw first-hand just how tough it really is. Weighing in at a hefty 5.1 pounds, it's both MIL-STD-810H and MIL-STD-416G certified for shock and moisture resistance and can be customized for salt fog and Class I electrical hazard certification. 
@@ -283,6 +279,10 @@ Show less
 [View now at Panasonic](https://connect.na.panasonic.com/toughbook/rugged-computers/toughbook-55)
 
 Full Review [Read Full Review](https://www.zdnet.com/article/best-rugged-laptop/Design: Mini Listicle)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Panasonic Toughbook 55
 
@@ -320,20 +320,24 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-simplysnap-screen-shots-for-w10-users/"><u>[New] SimplySnap Screen Shots for W10 Users</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-instagrams-secret-fine-tuning-fcpx-for-high-aspect-videos/"><u>[Updated] In 2024, Instagram's Secret Fine-Tuning FCPX for High Aspect Videos</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-10-ultimate-webcam-reviews-for-informed-buyers/"><u>2024 Approved 10 Ultimate Webcam Reviews for Informed Buyers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/amazon-prime-day-october-exclusive-save-250-on-the-new-apple-m3-macbook-pro/"><u>Amazon Prime Day October Exclusive: Save $250 on the New Apple M3 MacBook Pro</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amd-radeon-r9-200-graphics-card-driver-download-and-setup-guide-for-windows-users/"><u>AMD Radeon R9 200 Graphics Card Driver Download & Setup Guide for Windows Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/best-compatible-intel-ethernetwireless-drivers-for-various-windows-versions/"><u>Best Compatible Intel Ethernet/Wireless Drivers for Various Windows Versions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-drivers-for-canon-mf8200c-printer-on-windows-7-81-and-10-free-guide/"><u>Download Drivers for Canon MF8200C Printer on Windows 7, 8.1 & 10 - Free Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ensure-smooth-laptop-performance-with-fresh-acer-touchpad-drivers-windows-nix/"><u>Ensure Smooth Laptop Performance with Fresh Acer Touchpad Drivers (Windows Nix)</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/find-the-perfect-personalized-boxed-gift-at-these-online-retailers-for-2024/"><u>Find the Perfect Personalized Boxed Gift at These Online Retailers for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-fix-asus-pce-ac56-wifi-card-compatibility-problems-with-windows-11-8-and/"><u>How to Fix ASUS PCE-AC56 WiFi Card Compatibility Problems with Windows 11, 8 &</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-install-logitech-g35-microphone-and-headphones-on-pc-windows-7810/"><u>How to Install Logitech G35 Microphone and Headphones on PC (Windows 7/8/10)</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-c53-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Realme C53 Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-video-posting-made-simple-with-correct-aspect-ratio/"><u>In 2024, Video Posting Made Simple with Correct Aspect Ratio</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/instantly-install-the-latest-windows-t-wireless-connectivity-drivers/"><u>Instantly Install the Latest Windows T Wireless Connectivity Drivers</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unbeatable-price-performance-ratio-with-budget-long-range-traffic-detectors-here-are-some-options-to-consider-on-escortpassport/"><u>Unbeatable Price-Performance Ratio with Budget Long Range Traffic Detectors - Here Are Some Options to Consider on EscortPassport!</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-the-ultimate-toolkit-for-dominating-social-media-management-smm/"><u>[Updated] In 2024, The Ultimate Toolkit for Dominating Social Media Management (SMM)</u></a></li>
+<li><a href="https://windows11.techidaily.com/amplify-your-pcs-wi-fi-with-8-effective-fixes-for-windows-11/"><u>Amplify Your PC's Wi-Fi with 8 Effective Fixes for Windows 11</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-lenovo-thinkphone-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Lenovo ThinkPhone to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-embracing-iphones-shutter-speed-magic-for-dynamic-images/"><u>In 2024, Embracing iPhone’s Shutter Speed Magic for Dynamic Images</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-live-streams-how-to-log-gh-sessions/"><u>In 2024, Live Streams How to Log GH Sessions</u></a></li>
+<li><a href="https://video-capture.techidaily.com/newest-methods-for-ios-screenshots-and-playback/"><u>Newest Methods for iOS Screenshots & Playback</u></a></li>
+<li><a href="https://facebook.techidaily.com/personalize-privacy-crafting-a-customized-facebook-visibility-list/"><u>Personalize Privacy: Crafting a Customized Facebook Visibility List</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-hub-exploring-the-latest-in-computer-components/"><u>Tom's Tech Hub: Exploring the Latest in Computer Components</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-content-with-the-new-release-of-wonderfox-dvd-ripper-for-ipad-version-20/"><u>Transform Your Content with the New Release of WonderFox DVD Ripper for iPad, Version 2.0!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultra-savings-asus-tuf-24-165hz-gaming-monitor-with-ips-quality-now-just-99-on-newegg/"><u>Ultra Savings: Asus TUF 24 165Hz Gaming Monitor with IPS Quality – Now Just $99 on Newegg</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unleash-your-game-the-ultimate-offer-on-alienwares-34-inch-oled-monitor-only-749-at-best-buy/"><u>Unleash Your Game: The Ultimate Offer on Alienware's 34-Inch OLED Monitor, Only $749 at Best Buy.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unleashing-top-game-graphics-with-gigabye-aorus-fo32u2p-240-hz-4k-and-beyond/"><u>Unleashing Top Game Graphics with Gigabye Aorus FO32U2P: 240 Hz, 4K and Beyond!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlock-20-savings-own-the-stunning-4k-alienware-aw3225qf-for-200-less-at-dells-store/"><u>Unlock 20% Savings - Own the Stunning 4K Alienware AW3225QF for $200 Less at Dell's Store</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlocking-performance-tips-for-your-pc-wisdom-from-toms-experience/"><u>Unlocking Performance Tips for Your PC – Wisdom From Tom's Experience</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-titan-army-p2-27a2r-your-guide-to-affordable-high-performance-gaming-displays-at-180-hz/"><u>Unveiling the Titan Army P2#-27A2R - Your Guide to Affordable High-Performance Gaming Displays at 180 Hz</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-wonders-of-technology-with-toms-hardware-experts/"><u>Unveiling the Wonders of Technology with Tom's Hardware Experts</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-unlock-cinematic-storytelling-how-to-apply-the-ken-burns-effect-in-final-cut-pro-for-2024/"><u>Updated Unlock Cinematic Storytelling How to Apply the Ken Burns Effect in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/viewsonics-27-inch-oled-marvel-for-gamers-a-comprehensive-examination-of-speed-and-brilliance/"><u>ViewSonic's 27-Inch OLED Marvel for Gamers - A Comprehensive Examination of Speed and Brilliance</u></a></li>
 </ul></div>
 

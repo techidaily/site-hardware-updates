@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated Portable Charger Perfectly Compatible with Your MacBook Pro: Reviews & Buyer's Guide"
-date: 2024-12-14T17:40:57.637Z
-updated: 2024-12-22T00:55:19.748Z
+date: 2025-01-22T21:26:31.457Z
+updated: 2025-01-24T16:06:41.177Z
 tags:
   - laptops
 categories:
@@ -27,10 +27,6 @@ All of the ultraportable laptops on this list sport cutting-edge form factors, a
 ## What's the best lightweight laptop right now?
 
 Our overall top pick for the best lightweight laptop has to go to the [Apple MacBook Air M3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX24JRLR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C668fdd14-62fe-4f5f-ab26-348748ed1dd8%7Cdtp&dtb=1). In terms of portability, sleek form factor, solid battery life, and AI-capabilities, the MacBook Air M3 reigns supreme among the lightest of the light. It might not be the best pick for you, however, so we included other options that round out the spectrum of common use cases. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The best ultraportable laptops of 2024
 
@@ -80,7 +76,7 @@ Cons
 * Loud fans
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Acer Swift Go 14
@@ -111,11 +107,11 @@ Cons
 * Compact size means it can run hot
 * Comes pre-loaded with bloatware
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Asus ROG Zephyrus G14
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best lightweight laptop for gaming
 
@@ -146,11 +142,11 @@ Cons
 * Design tradeoffs for ultra portability
 * Expensive
 
-## LG Gram Pro 17
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## LG Gram Pro 17
 
 ### Best lightweight laptop with a 17" display
 
@@ -183,10 +179,6 @@ Cons
 
 ## Lenovo ThinkPad X1 Carbon
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best lightweight laptop for work
 
 Lenovo's ThinkPad laptop series has been popular with professionals seeking durable Windows machines for years now, and the X1 Carbon is no exception. This is an elegant, lightweight workhorse of a laptop designed with the working professional in mind, and comes with a host of powerful hardware to back it up. 
@@ -201,10 +193,6 @@ It also comes with an 8MP webcam that can shoot in 4K, perfect for presenting a 
 
 Show Expert Take Show less 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is the best lightweight laptop?
 
 The best lightweight laptop in 2024 is the [Apple MacBook Air M3](https://www.zdnet.com/article/m3-macbook-air-review/). Portable, powerful, and with a long-lasting battery, the MacBook Air M3 is a versatile workhorse that you can throw in a bag and take with you anywhere you go. The M3's 8-core CPU and 10-core GPU is armed to take on almost anything you throw at it, and the entire package weighs just 2.7 pounds. 
@@ -217,6 +205,10 @@ The best lightweight laptop in 2024 is the [Apple MacBook Air M3](https://www.zd
 | LG Gram Pro 17        | $1299             | Intel Core Ultra 7 155H, Nvidia GeForce RTX 3050 | 16GB, 1TB                   | 2.7              |
 | Lenovo X1 Carbon      | $2263             | Intel Core Ultra 5 125U, Intel Arc Graphics      | 16GB, up to 1TB             | 2.4              |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which is the right lightweight laptop for you?
 
 The best lightweight laptop for you depends on what you want to get out of it. Laptops packed with powerful gaming hardware like the Asus Zephyrus G14 are going to weigh a little more, while extreme lightweight machines like the LG Gram Pro 17 will have some design tradeoffs that go along with their compact size.
@@ -228,6 +220,10 @@ The best lightweight laptop for you depends on what you want to get out of it. L
 | ASUS ROG Zephyrus G14               | The lightest machine you can get while still calling it a proper gaming laptop.          |
 | LG Gram Pro 17                      | The lightest, thinnest 17-inch laptop on the market, no matter the cost.                 |
 | Lenovo X1 Carbon                    | A durable, powerful laptop for work.                                                     |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How we test lightweight laptops
 
@@ -261,6 +257,10 @@ Ultraportability does come with tradeoffs, however, both in terms of design and 
 
 In terms of cost, ultraportable laptops are often made with high-end, special lightweight materials that are going to cost more to produce and manufacture than simple plastic or aluminum. All of the laptops on this list were chosen for their well-designed, functional form factors and use of lightweight materials.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How much does a typical laptop weigh?
 
 Laptops are incredibly thin and light these days, with cutting-edge technology pushing the limit even further each year. Just ten years ago, it wasn't uncommon for laptops to weigh six or seven pounds; today, that seems absurd. 
@@ -268,10 +268,6 @@ Laptops are incredibly thin and light these days, with cutting-edge technology p
 Most laptops today weigh between two and a half and five pounds, with a five-pound laptop being considered on the heavy side. Different configurations change the weight of laptops, as well. More memory and storage will increase the weight -- something to keep in mind when buying. 
 
 The heaviest laptops on this list are the Asus ROG Zephyrus G14 and the 15-inch MacBook Air M3, each weighing just 3.3 pounds. In the laptop world, that's light. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What slim laptop backpack do we recommend?
 
@@ -288,6 +284,10 @@ While every computing platform has its loyal supporters, most people end up usin
 **Also:** **[Comparing the best Macs: Is a MacBook or Mac Studio right for you?](https://www.zdnet.com/article/best-mac/)** 
 
 All Windows devices listed here meet the requirements for Windows 11\. If you purchase a device with Windows 10 installed, you will be able to upgrade to Windows 11 if you choose to do so. Note that after October 14, 2025, Windows 10 support will end, and there will be no further security patches or feature updates.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Are there alternative lightweight laptops worth considering?
 
@@ -335,24 +335,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-fast-techniques-to-restructure-your-youtube-sequence-for-2024/"><u>[New] Fast Techniques to Restructure Your YouTube Sequence for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-byte-sized-hits-the-heart-of-viral-content/"><u>[Updated] 2024 Approved Byte-Sized Hits The Heart of Viral Content</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-the-budding-filmmakers-companion-understanding-display-quality-101-for-2024/"><u>[Updated] The Budding Filmmaker’s Companion Understanding Display Quality 101 for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-unlocking-the-potential-of-instagrams-sound-symbols/"><u>[Updated] Unlocking the Potential of Instagram's Sound Symbols</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-what-is-parody-and-how-to-make-a-parody-video/"><u>[Updated] What Is Parody and How to Make a Parody Video</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722959773144-brother-hl-2240-perfect-match-latest-windows-drivers-available-now/"><u>Brother HL-2240 Perfect Match - Latest Windows Drivers Available Now</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/diagnosing-and-fixing-hp-screen-driver-malfunctions-on-microsoft-windows-10-8-and-e7/"><u>Diagnosing and Fixing HP Screen Driver Malfunctions on Microsoft Windows 10, 8 & E7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-update-sapphire-graphics-drivers-step-by-step-guide-for-windows-users/"><u>Download & Update Sapphire Graphics Drivers: Step-by-Step Guide for Windows Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-logitech-mouse-mk71n-drivers-now/"><u>Download and Install Logitech Mouse MK71n Drivers Now!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-new-magicard-rio-pro-driver-software-compatible-with-windows-10817/"><u>Download the New Magicard Rio Pro Driver Software - Compatible with Windows 10/8.1/7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortlessly-connect-to-gaming-xbox-wireless-adapter-driver-installation-tutorial/"><u>Effortlessly Connect to Gaming: Xbox Wireless Adapter Driver Installation Tutorial</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ring-the-youtube-content-manager-toolkit/"><u>Exploring the YouTube Content Manager Toolkit</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/extensive-review-gopro-hero4-silver-for-2024/"><u>Extensive Review GoPro HERO4 Silver for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hp-laserjet-5200-driver-update-for-modern-windows-operating-systems-windows-11108/"><u>HP LaserJet 5200 Driver Update for Modern Windows Operating Systems (Windows 11/10/8)</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Lava Yuva 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/mastering-video-editing-on-a-budget-with-free-fcp-for-2024/"><u>Mastering Video Editing on a Budget with Free FCP for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-to-downloading-and-updating-brother-mfc-7860dw-drivers-on-windows-computers/"><u>Step-by-Step Guide to Downloading & Updating Brother MFC-7860DW Drivers on Windows Computers</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-best-cell-phone-signal-boosters-of-2024/"><u>The Best Cell Phone Signal Boosters of 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-walkthrough-installing-arduino-nanos-essential-drivers-in-windows/"><u>The Ultimate Walkthrough: Installing Arduino Nano's Essential Drivers in Windows</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-quick-tips-for-capturing-gotomeeting-conversations/"><u>[New] 2024 Approved Quick Tips for Capturing GoToMeeting Conversations</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-automated-generation-of-youtubes-subscribe-page/"><u>[New] In 2024, Automated Generation of YouTube's Subscribe Page</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-unlocking-visual-clarity-bypassing-background-in-photopea/"><u>[Updated] In 2024, Unlocking Visual Clarity Bypassing Background in Photopea</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/comprehensive-guide-to-whatsapp-vocal-exchange-for-2024/"><u>Comprehensive Guide to WhatsApp Vocal Exchange for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-your-razer-naga-mouse-driver-on-windows-pcs/"><u>Download and Update Your Razer Naga Mouse Driver on Windows PCs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-steps-to-download-and-install-the-epson-wf-3540-printer-driver-on-windows-computers/"><u>Easy Steps to Download and Install the Epson WF-3540 Printer Driver on Windows Computers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-your-graphics-card-performance-with-gigabytes-gc-wb867d-drivers-download-now/"><u>Enhance Your Graphics Card Performance with Gigabyte's GC-WB867D Drivers - Download Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-best-from-your-graphics-card-easy-updates-and-downloads-of-amd-vega-drivers/"><u>Get the Best From Your Graphics Card: Easy Updates and Downloads of AMD Vega Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-hp-officejet-pro-8620-software-and-drivers-compatible-with-windows-operating-system/"><u>Get the Latest HP OfficeJet Pro 8620 Software & Drivers Compatible with Windows Operating System</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-easycap-driver-installer-now-simple-and-secure-downloads/"><u>Get Your EasyCap Driver Installer Now – Simple & Secure Downloads</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-successfully-install-epson-xp-430-drivers-on-a-windows-device-a-users-guide/"><u>How to Successfully Install Epson XP-430 Drivers on a Windows Device - A User's Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-s24plus-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy S24+ Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-tecno-phantom-v-fold-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Tecno Phantom V Fold Phones</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-nokia-c12-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from Nokia C12.</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/underwater-cinematography-made-simple-top-7-tips/"><u>Underwater Cinematography Made Simple Top 7 Tips</u></a></li>
 </ul></div>
 

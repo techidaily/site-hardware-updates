@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Apple Product Launches in October: Anticipating the New M4 Mac Mini, Latest iPad Models & Enhancements to Siri - Insights From ZDNet"
-date: 2025-01-17T16:02:29.575Z
-updated: 2025-01-18T18:20:00.101Z
+date: 2025-01-23T03:15:46.335Z
+updated: 2025-01-24T23:00:42.298Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,21 +118,16 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-integrating-easy-to-use-timestamps-into-your-youtube-videos/"><u>[Updated] 2024 Approved Integrating Easy-to-Use Timestamps Into Your YouTube Videos</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-live-webcam-streaming-made-easy-top-18-software-highlights/"><u>2024 Approved Live Webcam Streaming Made Easy Top 18 Software Highlights</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/direct-transmission-of-media-files-between-iphones/"><u>Direct Transmission of Media Files Between iPhones</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722975824788-effortless-driver-setup-for-asus-z370-deluxe-get-the-asus-maximus-crosshair-iii-ready/"><u>Effortless Driver Setup for Asus Z370 Deluxe - Get the ASUS Maximus Crosshair III Ready!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-hands-on-the-official-logitech-k400-plus-keyboard-drivers-download-now/"><u>Get Your Hands on the Official Logitech K400 Plus Keyboard Drivers - Download Now!</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-sonic-shifts-for-strategic-victories-in-free-fire/"><u>In 2024, Sonic Shifts for Strategic Victories in Free Fire</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722970733572-instant-access-to-your-dell-latitude-e6420-driver-download-fast-simple-techniques/"><u>Instant Access to Your Dell Latitude E6420 Driver Download: Fast, Simple Techniques</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/new-release-compatible-hp-scanjet-drivers-for-windows-operating-systems-11-8-and-e/"><u>New Release: Compatible HP Scanjet Drivers for Windows Operating Systems (11, 8, & E)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/nvidia-driver-updates-free-download-and-installation-guide-for-gamers-on-windows/"><u>NVIDIA Driver Updates - Free Download & Installation Guide for Gamers on Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-and-easy-installation-of-hp-drivers-your-guide/"><u>Quick & Easy Installation of HP Drivers: Your Guide</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/still-using-pattern-locks-with-google-pixel-8-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Google Pixel 8? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/the-ultimate-toolkit-disabling-background-noise-during-gmeets-for-2024/"><u>The Ultimate Toolkit Disabling Background Noise During GMeets for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-notetaking-tablets-of-2024-comprehensive-reviews-and-comparisons/"><u>Top Rated Notetaking Tablets of 2024: Comprehensive Reviews & Comparisons</u></a></li>
-<li><a href="https://techtrends.techidaily.com/uncovering-hidden-contact-details-on-android-how-to-find-and-restore-deleted-phone-numbers/"><u>Uncovering Hidden Contact Details on Android: How to Find and Restore Deleted Phone Numbers</u></a></li>
-<li><a href="https://fox-that.techidaily.com/understanding-the-issues-when-iphone-visual-recognition-fails/"><u>Understanding the Issues: When iPhone Visual Recognition Fails</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-to-newest-epson-wf-3640-printer-software-on-your-windows-machine/"><u>Update to Newest Epson WF-3640 Printer Software on Your Windows Machine</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-full-screen-mastery-achieved-in-obs/"><u>[New] 2024 Approved Full Screen Mastery Achieved in Obs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-sub-from-srt-effective-techniques-for-format-shift/"><u>[New] SUB From SRT Effective Techniques for Format Shift</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-upgrade-your-content-presentation-with-top-tier-templates-for-2024/"><u>[Updated] Upgrade Your Content Presentation with Top-Tier Templates for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-honor-90-gt-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Honor 90 GT Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-mfp-m428fdw-driver-set-for-windows-10-11-and-windows-7-easy-installation-guide/"><u>HP MFP M428fdw Driver Set for Windows 10, 11 and Windows 7: Easy Installation Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/increase-pc-lifespan-and-efficiency-by-updating-hp-omen-drivers/"><u>Increase PC Lifespan and Efficiency by Updating HP Omen Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-brother-scanner-driver-updates-enhanced-performance-on-windows/"><u>Latest Brother Scanner Driver Updates: Enhanced Performance on Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-download-hp-envy-5055-laptop-drivers-get-them-fast/"><u>Quick Download: HP ENVY 5055 Laptop Drivers – Get Them Fast!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/rtx-2060-graphics-card-latest-windows-os-drivers-available-now/"><u>RTX 2060 Graphics Card: Latest Windows OS Drivers Available Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-the-ultimate-guide/"><u>Tom's Tech Insights: The Ultimate Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-tutorial-how-to-stream-games-from-ps5-with-friends/"><u>Ultimate Tutorial: How to Stream Games From PS5 with Friends</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Best Non-iPad and Non-ThinkPad Choice for Business Travelers: Top Picks by ZDNet"
-date: 2025-01-16T20:18:53.491Z
-updated: 2025-01-18T19:01:00.528Z
+date: 2025-01-18T23:24:53.472Z
+updated: 2025-01-25T02:37:06.663Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Ed Bott/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -83,7 +83,7 @@ Cesar Cadenas/ZDNET
 And for one of the best qualities of this laptop: battery life is absolutely phenomenal. I [performed our usual test](https://www.zdnet.com/article/how-we-test-laptops/) of running a YouTube livestream at 720p and 50% brightness. At its peak, the Surface Pro lasted just under 13 hours on a single charge. That's just shy of Microsoft's purported 14-hour battery life. In practical usage, this is a device that will easily last multiple days on a single charge. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -122,14 +122,17 @@ Prices for the device start at $999.99\. My review unit with the 12-core Snapdra
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-minimal-effort-maximum-recovery-for-deleted-posts-for-2024/"><u>[New] Minimal Effort, Maximum Recovery for Deleted Posts for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-essential-techniques-in-youtube-movie-production/"><u>2024 Approved Essential Techniques in YouTube Movie Production</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-epson-wf-2750-drivers-complete-guide/"><u>Download & Install Epson WF-2750 Drivers – Complete Guide</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-analysis-of-the-linksys-wrt32x-advanced-wifi-router-cutting-edge-smart-connectivity-unleashed/"><u>Expert Analysis of the Linksys WRT32X Advanced WiFi Router: Cutting-Edge Smart Connectivity Unleashed</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-device-ready-broadcoms-bluetooth-drivers-for-windows-platforms-xpvista/"><u>Get Your Device Ready: Broadcom's Bluetooth Drivers for Windows Platforms (XP/Vista)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-asus-vg248qe-graphics-card-drivers-for-windows-free-and-fast-downloads/"><u>Latest Asus VG248QE Graphics Card Drivers for Windows: Free and Fast Downloads</u></a></li>
-<li><a href="https://win-blog.techidaily.com/online-mp2-naar-mp4-konvertor-bereikbaarheid-geavanceerde-functies-movavi-gratis/"><u>Online MP2 Naar MP4 Konvertor Bereikbaarheid Geavanceerde Functies - Movavi Gratis</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/optimize-your-pc-geforce-rtx-3090-driver-download-for-win-10-8-and-7/"><u>Optimize Your PC: GeForce RTX 3090 Driver Download for Win 10, 8 & 7</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-reviving-a-broken-shift-key-on-your-computer/"><u>Step-by-Step Guide To Reviving A Broken Shift Key On Your Computer</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-3-simple-methods-to-brighten-a-video-on-iphone/"><u>[New] In 2024, 3 Simple Methods to Brighten a Video on iPhone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-best-practices-for-efficient-slide-capture/"><u>[New] In 2024, Best Practices for Efficient Slide Capture</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-mastering-the-art-of-tinder-profiles-top-tricks-for-instant-love-interest-for-2024/"><u>[New] Mastering the Art of Tinder Profiles Top Tricks for Instant Love Interest for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-essence-of-video-editing-filmoras-ten-wonders/"><u>[Updated] The Essence of Video Editing Filmora's Ten Wonders</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-oppo-a2-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Oppo A2</u></a></li>
+<li><a href="https://games-able.techidaily.com/customize-your-interactive-language-in-steam/"><u>Customize Your Interactive Language in Steam</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/immersive-curved-visuals-for-less-get-the-ultrawide-oled-monitor-samsung-g9-at-unprecedented-lows/"><u>Immersive Curved Visuals for Less – Get the Ultrawide OLED Monitor, Samsung G9 at Unprecedented Lows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/in-depth-computer-and-component-evaluations-from-toms-hardware-team/"><u>In-Depth Computer and Component Evaluations From Tom's Hardware Team</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/introducing-the-game-changer-asuss-latest-addition-a-sleek-27-oled-gaming-screen-with-zero-flickering-and-cutting-edge-adaptive-sync-features/"><u>Introducing the Game Changer: Asus's Latest Addition – A Sleek, 27 OLED Gaming Screen with Zero Flickering & Cutting-Edge Adaptive Sync Features</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-hardware-with-toms-expert-advice-and-reviews/"><u>Mastering Hardware with Tom's Expert Advice and Reviews</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-the-digital-landscape-with-insightful-articles-from-toms-hardware/"><u>Navigating the Digital Landscape with Insightful Articles From Tom's Hardware</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-meizu-21-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Meizu 21 for Streaming | Dr.fone</u></a></li>
 </ul></div>
 

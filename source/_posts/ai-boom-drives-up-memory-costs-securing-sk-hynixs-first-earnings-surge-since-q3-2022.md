@@ -1,7 +1,7 @@
 ---
 title: AI Boom Drives Up Memory Costs, Securing SK Hynix's First Earnings Surge Since Q3 2022
-date: 2024-08-19T04:09:41.464Z
-updated: 2024-08-20T04:09:41.464Z
+date: 2025-01-21T23:33:13.128Z
+updated: 2025-01-24T17:45:06.241Z
 tags:
   - ram
 categories:
@@ -27,6 +27,10 @@ Innotron, the parent company of ChangXin Memory Technologies (CXMT), plans to in
 
  This $2.4 billion investment is a part of China's broader strategy to enhance its semiconductor capabilities in general and advanced packaging technologies in particular. Whether or not this one is going to be a financial success is something that remains to be seen. Given that the U.S. government does not allow the export of advanced components made using American technology to China without a license, it has no other choice but to build its own HBM supply chain.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,8 +45,6 @@ Innotron, the parent company of ChangXin Memory Technologies (CXMT), plans to in
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -50,8 +52,24 @@ Innotron, the parent company of ChangXin Memory Technologies (CXMT), plans to in
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-just-how-significant-is-itop-in-screencasting-world-in-2024/"><u>[New] Just How Significant Is ITop in Screencasting World, In 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/solved-hydro-series-h100i-v2-driver-issues-in-windows-computer/"><u>[Solved] Hydro Series H100i v2 Driver Issues in Windows Computer</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-hefty-helpers-airborne-lifting-titans-unveiled/"><u>[Updated] Hefty Helpers Airborne Lifting Titans Unveiled</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-facebook-media-optimization-for-television-use/"><u>2024 Approved Facebook Media Optimization for Television Use</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-latest-zexmo-bluetooth-driver-compatible-with-windows-10-7-and-8/"><u>Download the Latest Zexmo Bluetooth Driver Compatible with Windows 10, 7 & 8</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-synaptic-touchpad-software-upgrade-and-installation-guide/"><u>Effortless Synaptic Touchpad Software Upgrade and Installation Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-and-install-canoscan-lide-120-scanner-drivers-newest-version-available-now/"><u>Find & Install CanoScan Lide-120 Scanner Drivers: Newest Version Available Now</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fortnite-update-glitches-heres-how-to-tackle-the-disappearing-entry-point-dilemma/"><u>Fortnite Update Glitches? Here's How to Tackle the Disappearing Entry Point Dilemma</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-game-upgraded-free-logitech-g-pro-driver-installer-for-windows-versions-111087/"><u>Get Your Game Upgraded: Free Logitech G Pro Driver Installer for Windows (Versions 11/10/8/7)</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-honor-magic-5-lite-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Honor Magic 5 Lite to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-master-mac-audio-an-in-depth-look-at-using-audacity-for-recordings/"><u>In 2024, Master Mac Audio An In-Depth Look at Using Audacity for Recordings</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722964711297-latest-brother-mfc-7860dw-drivers-for-windows-free-downloads-available/"><u>Latest Brother MFC- 7860DW Drivers for Windows - Free Downloads Available</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/optimize-your-microsoft-surface-pro-with-new-driver-updates-for-windows-systems/"><u>Optimize Your Microsoft Surface Pro with New Driver Updates for Windows Systems</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/precision-and-quality-in-screen-recording-discovering-showmores-benefits/"><u>Precision and Quality in Screen Recording - Discovering ShowMore's Benefits</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-securely-profit-from-your-used-iphones-with-expert-techniques/"><u>Ultimate Guide: Securely Profit From Your Used iPhones with Expert Techniques</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-hp-scanjet-drivers-compatible-with-windows-1087-free-download/"><u>Update HP Scanjet Drivers: Compatible with Windows 10/8/7 - Free Download</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->

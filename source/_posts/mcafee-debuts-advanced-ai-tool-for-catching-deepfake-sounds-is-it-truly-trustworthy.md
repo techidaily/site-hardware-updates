@@ -1,7 +1,7 @@
 ---
 title: McAfee Debuts Advanced AI Tool for Catching Deepfake Sounds - Is It Truly Trustworthy?
-date: 2025-01-14T17:25:54.816Z
-updated: 2025-01-18T20:05:26.179Z
+date: 2025-01-17T22:43:26.280Z
+updated: 2025-01-25T03:06:01.457Z
 tags:
   - laptops
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to configure specific DNS servers on your Chromebook
@@ -47,7 +47,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 **What you'll need:** The only thing you'll need for this is a Chromebook with an updated version of Chrome OS. Make sure to always keep your operating system up-to-date, so you always have the latest features and (more importantly) the latest security and bug fixes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open Settings
@@ -61,7 +61,7 @@ Screenshot by Jack Wallen/ZDNET
 **Also: [How to connect to a network share from your Chromebook](https://www.zdnet.com/home-and-office/work-life/how-to-connect-to-a-network-share-from-your-chromebook/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Disable automatic IP address configuration
@@ -73,7 +73,7 @@ By default, Chrome OS uses DHCP to acquire IP addresses. To use a specific DNS s
 Screenshot by Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Change the Name Servers
@@ -120,17 +120,22 @@ And that's all you need to do to give your Chromebook a speed and security boost
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-evaluating-the-benefits-of-instagrams-selfie-credentials/"><u>[Updated] Evaluating the Benefits of Instagram’s Selfie Credentials</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-comparing-recording-quality-the-pros-and-cons-of-30fps-and-60fps/"><u>[Updated] In 2024, Comparing Recording Quality The Pros & Cons of 30Fps and 60Fps</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-navigating-twitters-promotional-features-for-2024/"><u>[Updated] Navigating Twitter's Promotional Features for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-streamline-your-content-upload-instagram-videos-from-desktop-for-2024/"><u>[Updated] Streamline Your Content Upload Instagram Videos From Desktop for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722976007333-download-free-asrock-ab350-pro4-graphics-card-drivers-for-windows-instantly/"><u>Download Free ASRock AB350 Pro4 Graphics Card Drivers for Windows - Instantly!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-access-to-high-speed-ft232r-driver-downloads-start-immediately/"><u>Easy Access to High-Speed FT232R Driver Downloads: Start Immediately!</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-realme-12-5g-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Realme 12 5G | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-virtual-realms-on-screen-comprehensive-techniques-for-gameplay-recording/"><u>In 2024, Virtual Realms on Screen Comprehensive Techniques for Gameplay Recording</u></a></li>
-<li><a href="https://some-tips.techidaily.com/movavi-transformacao-livre-webp-em-jpeg-na-web/"><u>Movavi: Transformação Livre WebP Em JPEG Na Web</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/ntbackup-funktion-erklart-praktische-anleitung-zur-nutzung-auf-windows-versionen-10-8-und-7/"><u>NTBackup Funktion Erklärt: Praktische Anleitung Zur Nutzung Auf Windows-Versionen 10, 8 Und 7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-your-brother-l2350dw-printer-download-the-newest-drivers-today/"><u>Update Your Brother L2350DW Printer: Download the Newest Drivers Today</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-your-pc-download-and-upgrade-to-the-latest-geforce-gtx-1650-supers-driver-for-windows/"><u>Update Your PC: Download & Upgrade to the Latest GeForce GTX 1650 Supers Driver for WINDOWS</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-a-novices-vision-on-vectors-categories-explored-and-apps/"><u>[New] A Novice's Vision on Vectors Categories Explored and Apps</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-learn-to-produce-nfts-with-minimal-hassle/"><u>[New] Learn to Produce NFTs With Minimal Hassle</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-the-fastest-methods-to-uncover-hidden-reddit-articles-for-2024/"><u>[New] The Fastest Methods to Uncover Hidden Reddit Articles for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-the-complete-snapchat-editors-toolbox-for-photo-finesse/"><u>[Updated] 2024 Approved The Complete Snapchat Editor's Toolbox for Photo Finesse</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-get-superior-visuals-from-youtube-downloading-thumbnails-free/"><u>2024 Approved Get Superior Visuals From YouTube - Downloading Thumbnails Free!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cambia-tus-audios-de-aiff-a-formato-flac-sin-gastar-descubre-el-metodo-gratuitamente-en-linea-para-una-transicion-perfecta/"><u>Cambia Tus Audios De AIFF a Formato FLAC Sin Gastar: Descubre El Método Gratuitamente en Línea Para Una Transición Perfecta</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/extensive-benchmarking-of-engineering-sample-for-amd-ryzen-9-9950x-using-blender-at-diverse-thermal-design-power-ratings-showcasing-noteworthy-gains-in-proc59/"><u>Extensive Benchmarking of 'Engineering Sample' For AMD Ryzen 9 9950X Using Blender at Diverse Thermal Design Power Ratings - Showcasing Noteworthy Gains in Processor Efficiency</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-and-install-hp-designjet-500-printer-drivers-with-this-direct-link/"><u>Find and Install HP DesignJet 500 Printer Drivers With This Direct Link</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722972897815-free-download-install-your-steelseries-gaming-mouse-drivers-today/"><u>Free Download: Install Your SteelSeries Gaming Mouse Drivers Today!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722960220672-get-your-behringer-usb-audio-drivers-fast-and-easy-download/"><u>Get Your Behringer USB Audio Drivers - Fast & Easy Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-focusrite-scarlett-solo-now-premium-sound-drivers-for-pcs/"><u>Get Your Focusrite Scarlett Solo Now – Premium Sound Drivers for PCs</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-motorola-g54-5g-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Motorola G54 5G 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://win-docs.techidaily.com/guida-alla-scelta-del-software-di-copia-hard-drive-piu-efficiente-su-windows-soluzioni-top-ranking-e-suggerimenti-seo/"><u>Guida Alla Scelta Del Software Di Copia Hard Drive Più Efficiente Su Windows: Soluzioni Top-Ranking E Suggerimenti SEO</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-disabled-apple-iphone-6-plusipad-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Disabled Apple iPhone 6 Plus/iPad Without Computer | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-tech-expert-analysis-on-toms-devices/"><u>Navigating Tech: Expert Analysis on Tom's Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-fix-how-to-easily-obtain-and-install-asus-router-wi-fi-drivers/"><u>Quick Fix: How to Easily Obtain and Install ASUS Router Wi-Fi Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-obtaining-huion-digitizer-drivers-and-updates-windows-platform/"><u>Step-by-Step Tutorial: Obtaining Huion Digitizer Drivers & Updates Windows Platform</u></a></li>
 </ul></div>
 

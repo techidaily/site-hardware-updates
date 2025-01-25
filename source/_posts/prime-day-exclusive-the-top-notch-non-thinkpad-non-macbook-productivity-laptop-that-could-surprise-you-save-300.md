@@ -1,7 +1,7 @@
 ---
 title: "Prime Day Exclusive: The Top-Notch Non-ThinkPad, Non-MacBook Productivity Laptop That Could Surprise You - Save $300!"
-date: 2024-12-03T22:25:06.311Z
-updated: 2024-12-06T20:57:49.731Z
+date: 2025-01-23T20:04:20.955Z
+updated: 2025-01-24T21:49:04.453Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the Amazon Prime Day deal?
@@ -33,7 +33,7 @@ Amazon's October Prime Day event is here, and with its arrival, many laptops are
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -107,7 +107,7 @@ Instead, I see the Vivobook S 15 as a primary driver for remote workers or digit
 It also has a "full" keyboard (the number pad on the right side has slightly smaller keys, as typical for sub-16-inch machines), which is satisfying and responsive to typing on. The keyboard has colorful LED backlighting that can be configured in many different lights and effects, but again, this is not something that I would consider high on the priority list when optimizing battery life. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -146,24 +146,19 @@ All things considered, the [sale price of $1,099](https://www.awin1.com/awclick.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-broadcasting-vids-directly-from-phone-twitter-without-retweets/"><u>[New] 2024 Approved Broadcasting Vids Directly From Phone – Twitter, Without Retweets</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ridging-creativity-and-engagement-anime-subscribe-buttons-with-filmora-for-2024/"><u>[New] Bridging Creativity & Engagement - Anime Subscribe Buttons with Filmora for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-comprehensive-screen-capture-manual-by-zd-software/"><u>2024 Approved Comprehensive Screen Capture Manual by ZD Software</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comparing-forefront-ai-with-chatgpt-which-one-reigns-supreme-in-the-ai-world/"><u>Comparing Forefront AI with ChatGPT: Which One Reigns Supreme in the AI World?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/debunking-rumors-amd-assures-timely-launch-of-the-upcoming-ryzen-5000xt-processors/"><u>Debunking Rumors, AMD Assures Timely Launch of the Upcoming Ryzen 5000XT Processors</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-canon-pixma-mg3420-printer-drivers-compatible-with-windows-11-8-and-7/"><u>Download Canon PIXMA MG3420 Printer Drivers - Compatible with Windows 11, 8 & 7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-latest-hp-laserjet-p1006-printer-software/"><u>Download the Latest HP LaserJet P1006 Printer Software</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-steps-for-installing-latest-msi-graphics-drivers-on-windows-117/"><u>Easy Steps for Installing Latest MSI Graphics Drivers on Windows 11/7</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/essential-tips-for-newbies-learning-the-ropes-of-pokemon-go/"><u>Essential Tips for Newbies: Learning the Ropes of 'Pokémon Go'</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/eveo-wireless-adapter-driver-update-secure-it-now-for-free/"><u>EVEO Wireless Adapter Driver Update - Secure It Now for Free!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/fixing-ralink-rt32n-wifi-driver-compatibility-for-windows-1087-operating-systems/"><u>Fixing Ralink RT32n WiFi Driver Compatibility for Windows 10/8/7 Operating Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-install-80211bgn-wifi-card-drivers-for-realteks-rtl8188ee-adaptors-windows/"><u>Free Install: 802.11B/G/N WiFi Card Drivers for RealTek's RTL8188EE Adaptors (Windows)</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-samsung-galaxy-m54-5g-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Samsung Galaxy M54 5G Screen Black But Still Works? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-track-imei-number-of-oppo-reno-11f-5g-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Oppo Reno 11F 5G Through Google Earth?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-upgrade-your-amd-graphics-drivers-on-windows-10-11-or-7/"><u>How to Upgrade Your AMD Graphics Drivers on Windows 10, 11, or 7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722973933673-hp-envy-7640-driver-problems-heres-how-to-fix-them-fast/"><u>HP ENVY 7640 Driver Problems? Here's How to Fix Them Fast!</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-efficiently-capturing-footage-for-ideal-snaps-via-mac/"><u>In 2024, Efficiently Capturing Footage for Ideal Snaps via Mac</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-vivo-y17s-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Vivo Y17s to New Phone | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unveiling-the-superiority-of-the-xbox-one-elite-controller-is-it-really-the-best-ever/"><u>Unveiling the Superiority of the Xbox One Elite Controller - Is It Really the Best Ever?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-device-guide-for-google-meet-access/"><u>[New] In 2024, Device Guide for Google Meet Access</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-revolutionize-your-pc-captures-with-these-top-tools/"><u>[Updated] In 2024, Revolutionize Your PC Captures with These Top Tools</u></a></li>
+<li><a href="https://facebook.techidaily.com/are-we-at-the-top-of-facebooks-hype-curve/"><u>Are We at the Top of Facebook’s Hype Curve?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/compatible-driver-packs-for-brother-hl-2280dw-printer-on-windows-operating-systems-111087/"><u>Compatible Driver Packs for Brother HL-2280DW Printer on Windows Operating Systems (11/10/8/7)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-lenovo-x1-carbon-drivers-easy-installation-for-windows-10-and-7/"><u>Download Lenovo X1 Carbon Drivers: Easy Installation for Windows 10 and 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-installation-guide-hp-officejet-5740-driver-downloads-for-windows-operating-systems-windows-11-10-and-8/"><u>Easy Installation Guide: HP OfficeJet 5740 Driver Downloads for Windows Operating Systems (Windows 11, 10 & 8)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-solutions-for-unresponsive-samsung-smart-tv-apps/"><u>Effective Solutions for Unresponsive Samsung Smart TV Apps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-strategies-for-developers-crafting-perfect-apps-on-visionos-apple-expert-advice-zdnet/"><u>Essential Strategies for Developers: Crafting Perfect Apps on VisionOS (Apple Expert Advice) | ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722962468821-find-and-install-amd-rx-ultimate-downloading-guide-for-windows-11-10-8-and-7/"><u>Find and Install AMD RX 지원 드라이버: Ultimate Downloading Guide for Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-tecno-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Tecno Face Lock?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-and-install-new-hp-officejet-pro-8720-drivers-for-your-pc-running-on-windows/"><u>How to Get and Install New HP OfficeJet Pro 8720 Drivers for Your PC Running on Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Samsung Galaxy A05s? | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/notable-top-5-superlight-action-camera-picks-for-2024/"><u>Notable Top 5 Superlight Action Camera Picks for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/snapdragon-x-cpu-takes-the-lead-in-latest-geekbench-6-testing-marking-65-performance-milestone/"><u>Snapdragon X CPU Takes the Lead in Latest Geekbench 6 Testing, Marking 6.5% Performance Milestone</u></a></li>
 </ul></div>
 

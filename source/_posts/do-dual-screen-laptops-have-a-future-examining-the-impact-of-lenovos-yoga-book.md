@@ -1,7 +1,7 @@
 ---
 title: Do Dual-Screen Laptops Have a Future? Examining the Impact of Lenovo's Yoga Book ˈ
-date: 2025-01-15T17:34:47.025Z
-updated: 2025-01-18T16:55:32.386Z
+date: 2025-01-20T01:28:20.317Z
+updated: 2025-01-25T03:38:55.642Z
 tags:
   - laptops
 categories:
@@ -19,10 +19,6 @@ Kerry Wan/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -44,10 +40,6 @@ A laptop with two screens is perhaps one of the tamest designs it has come up wi
 
 It's given me a chance to revisit the idea of having two screens on my laptop, and once again, it's tempting me to switch away from my boring-in-comparison MacBook Pro.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Specifications (as reviewed)
 
 | Dimensions            | 11.78 x 8.03 x 0.63 inches                                                                                                                                                                                                                                                                            |
@@ -61,6 +53,10 @@ It's given me a chance to revisit the idea of having two screens on my laptop, a
 | Price                 | Starting at [$1,980](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-12-Core-i7-1360P-Fingerprint-Thunderbolt4%2Fdp%2FB0CR9S1KFL%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce845ede1-ee85-4120-861a-f59772cdb93b%7Cdtp&dtb=1) |
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Living with a dual-screen laptop
 
@@ -81,6 +77,10 @@ Max Buondonno/ZDNET
 There's a lot that the dual-screen design of the Yoga Book 9i enables, and the versatility of it all is simply unmatched by more [conventional laptops](https://www.zdnet.com/article/best-laptop/). It's like a blank canvas made of OLED screens -- you can literally do whatever you want with them, orient them the way you want, and it can all be packed up and taken on the go.
 
 Switching back to my single-screen MacBook Pro was, to put it lightly, tough. I missed having all the extra screen real estate and the ability to have two full documents open side-by-side while writing. I felt limited in a way that I wasn't expecting, which says a lot about how effective Lenovo's dual-screen design is.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How does it perform?
 
@@ -103,7 +103,7 @@ To power the Yoga Book 9i, Lenovo includes an 80W battery that's rated for about
 Charging the laptop is as straightforward as it comes. There's a Rapid Charge adapter in the box that gives you about two hours of runtime with just 15 minutes of charging. I found this mostly to be true, although you have to shut the lid if you want charging speeds to really pick up.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Evaluating Lenovo's dual-screen software
@@ -127,7 +127,7 @@ It's weird; I've had apps like Chrome and Spotify show up on the lower display w
 I'll give Lenovo credit, the new Yoga Book 9i feels smoother than the old one did. I don't notice as much scruff or weird glitches with the software, and the bundled Bluetooth keyboard doesn't produce nearly as many double-key entries as before. Still, it's not a perfect experience, which is something to keep in mind if you're going to spend $2,000 on a laptop.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## One thing to keep in mind
@@ -141,7 +141,7 @@ When I'm working on my MacBook or -- quite frankly -- any other laptop in my ars
 Of course, you'll eventually get used to it, but it'll never be as convenient as shutting your laptop lid and moving on with your day.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -182,17 +182,18 @@ If none of that matters to you and you're cool with living with the Yoga Book 9i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-amplify-your-voice-on-youtube-mastery-through-tubebuddy/"><u>[New] 2024 Approved Amplify Your Voice on YouTube - Mastery Through TubeBuddy</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-expert-tips-on-producing-high-quality-facebook-video/"><u>2024 Approved Expert Tips on Producing High-Quality Facebook Video</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/complete-guide-installing-razer-drivers-across-windows-vista-xp-7-8-and-10/"><u>Complete Guide: Installing Razer Drivers Across Windows Vista, XP, 7, 8 & 10</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Nokia XR21 | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-update-intel-reliable-array-raid-controller-drivers-for-windows-111087/"><u>Download and Update Intel Reliable Array (RAID) Controller Drivers for Windows 11/10/8/7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-the-world-of-gadgets-with-toms-equipment-analysis-and-reviews/"><u>Exploring the World of Gadgets with Tom's Equipment Analysis & Reviews</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-logitech-c525-hd-webcam-up-and-running-on-windows-with-driver-installation-guide/"><u>Get Your Logitech C525 HD Webcam Up & Running on Windows with Driver Installation Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/intel-hd-graphics-driver-troubleshooting-for-windows-users-now-fixed/"><u>Intel HD Graphics Driver Troubleshooting for Windows Users - Now Fixed</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/successful-huion-tablet-installation-find-download-and-keep-your-windows-drivers-updated-today/"><u>Successful Huion Tablet Installation: Find, Download, and Keep Your Windows Drivers Updated Today!</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/the-virtual-reality-archivists-handbook-for-game-recordings-for-2024/"><u>The Virtual Reality Archivist's Handbook for Game Recordings for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-rated-boom-microphones-a-comprehensive-guide/"><u>Top-Rated Boom Microphones : A Comprehensive Guide</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/transitioning-smoothly-the-technology-enhancers-handbook-for-2024/"><u>Transitioning Smoothly The Technology Enhancer's Handbook for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-interactive-solutions-with-vr/"><u>[Updated] 2024 Approved Interactive Solutions with VR</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-unlocking-high-quality-video-sequences-via-gopros-burst/"><u>[Updated] Unlocking High-Quality Video Sequences via GoPro's Burst</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-the-roadmap-for-effective-advertising-on-facebook/"><u>2024 Approved The Roadmap for Effective Advertising on Facebook</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/direct-registration-using-gpt-and-others-without-a-sim-card/"><u>Direct Registration: Using GPT & Others Without a SIM Card</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-upgrade-canon-mg3022-printer-drivers-step-by-step-guide/"><u>Download and Upgrade Canon MG3022 Printer Drivers: Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-installation-updated-epson-xp-310-driver-downloads-available-now/"><u>Easy Installation: Updated Epson XP 310 Driver Downloads Available Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-way-to-set-up-your-arduino-with-windows-driver-installation/"><u>Easy Way to Set Up Your Arduino with Windows Driver Installation</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/educators-elite-selecting-the-ultimate-classroom-recorders-of-teaching-for-2024/"><u>Educators’ Elite Selecting the Ultimate Classroom Recorders of Teaching for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-geforce-rtx-ebx-3070-drivers-compatible-with-windows-1011-free-download/"><u>Get the Latest GeForce RTX Ebx 3070 Drivers Compatible with Windows 10/11 – Free Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722964586529-get-the-latest-m-audio-fast-track-driver-software-for-multiple-windows-versions-free-of-cost/"><u>Get the Latest M-Audio Fast Track Driver Software for Multiple Windows Versions Free of Cost</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-your-epson-xp-420-driver-downloaded-and-updated-today/"><u>How to Get Your Epson XP-420 Driver Downloaded & Updated Today</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-guide-to-nikon-d500-4k-performance/"><u>The Ultimate Guide to Nikon D500 4K Performance</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Gigabyte UD1
-date: 2024-08-19T04:11:32.261Z
-updated: 2024-08-20T04:11:32.261Z
+date: 2025-01-22T01:47:31.698Z
+updated: 2025-01-24T17:48:00.440Z
 tags:
   - power-supply
 categories:
@@ -28,6 +28,10 @@ Are you considering building a new gaming rig, or a PC capable of some serious g
 
  Cooling is provided by a 120mm rifle-bearing PWM fan, that operates in a zero RPM fan mode for near-silent operation at lower loads, so when you're just browsing away, this should help to keep your PSU from adding to the combined noise output from your PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -42,8 +46,6 @@ Are you considering building a new gaming rig, or a PC capable of some serious g
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -51,8 +53,22 @@ Are you considering building a new gaming rig, or a PC capable of some serious g
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-conquering-content-diversity-with-verticalized-h-video-posts/"><u>[New] 2024 Approved Conquering Content Diversity with Verticalized H-Video Posts</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-a-comparative-study-of-top-10-low-cost-video-meeting-platforms-in-the-enterpriseedu-market/"><u>[New] In 2024, A Comparative Study of Top 10 Low-Cost Video Meeting Platforms in the Enterprise/Edu Market</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-the-ultimate-amazon-prime-series-most-liked-and-watched-on-twitter/"><u>[New] In 2024, The Ultimate Amazon Prime Series Most Liked & Watched on Twitter</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-kickstart-your-stream-must-have-youtube-tools/"><u>[New] Kickstart Your Stream Must-Have YouTube Tools</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-zebra-gk420d-printer-driver-now-simple-steps/"><u>Download the Zebra GK420D Printer Driver Now - Simple Steps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/downloading-broadcoms-official-bluetooth-driver-compatible-with-windows-1087/"><u>Downloading Broadcom's Official Bluetooth Driver Compatible with Windows 10/8/7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/elevate-ryzen-9-9950x-with-a-custom-overclock-to-6ghz-enhance-multicore-efficiency-and-surpass-geekbench-benchmarks-plus27/"><u>Elevate Ryzen 9 9950X with a Custom Overclock to 6GHz: Enhance Multicore Efficiency & Surpass GeekBench Benchmarks (+27%)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-optimal-performance-with-updated-razer-graphics-card-drivers-free-downloads-for-windows-111087xpvista-users/"><u>Ensure Optimal Performance with Updated Razer Graphics Card Drivers - Free Downloads for Windows 11/10/8/7/XP/Vista Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-newest-canon-mx490-driver-version-for-your-windows-computer/"><u>How to Get the Newest Canon MX490 Driver Version for Your Windows Computer</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-crafting-a-digital-identity-simple-steps-to-create-businesspersonal-youtube-channels-on-smartphones/"><u>In 2024, Crafting a Digital Identity Simple Steps to Create Business/Personal YouTube Channels on Smartphones</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-the-latest-drivers-for-your-epson-v50n-series-free-version-available/"><u>Install the Latest Drivers for Your Epson V50n Series: Free Version Available</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimize-browsing-security-with-win-11-ms-defender-guard/"><u>Optimize Browsing Security with Win 11 MS Defender Guard</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/setting-up-new-user-profiles-a-step-by-step-guide-with-yl-computing-solutions/"><u>Setting Up New User Profiles: A Step-by-Step Guide with YL Computing Solutions</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-rotate-your-3gp-videos-for-free-top-5-tools/"><u>Updated 2024 Approved Rotate Your 3GP Videos for Free Top 5 Tools</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Realme Narzo 60 Pro 5G? | Dr.fone</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "Deal Alert: ASUS 15 Laptop Available at Walmart for Only $250 - Full Peripheral Support | Tech News"
-date: 2024-12-05T22:37:22.133Z
-updated: 2024-12-06T18:38:08.586Z
+date: 2025-01-20T16:48:53.960Z
+updated: 2025-01-24T22:11:55.484Z
 tags:
   - laptops
 categories:
@@ -50,7 +50,7 @@ Finally, one of the best parts of the Vivobook line are these laptops' bold desi
 All in all, if you're looking for a sleek, lightweight travel laptop or a backup machine while working remotely, the [Vivobook Go 15.6](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FASUS-Vivobook-Go-15-6-PC-Laptop-Intel-i3-N305-8GB-256GB-Win-11-Home-S-mode-Mixed-Black-E1504GA-WS36%2F5727766555&subId1=zd-__COM_CLICK_ID__-dtp) has a nice-sized screen that's not too big or too small for only $249 ($80 off at the time of writing). The full-sized keyboard offers a comfortable work setup, and the generous port selections make this computer well-rounded enough for a variety of everyday use cases. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -87,20 +87,22 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-organize-photo-album-on-iphone-and-icloud/"><u>2024 Approved How To Organize Photo Album On iPhone And iCloud</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-infinix-hot-40i-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Infinix Hot 40i to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-instructions-to-download-and-update-microsoft-drivers-in-windows-10-8-and-7/"><u>Comprehensive Instructions to Download & Update Microsoft Drivers in Windows 10, 8, and 7</u></a></li>
-<li><a href="https://win-blog.techidaily.com/game-safety-compromise-warning-issue-fixed/"><u>Game Safety Compromise Warning - Issue Fixed</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-newest-brother-mfc-j480dw-printer-drivers-on-your-windows-machine/"><u>How to Get the Newest Brother MFC-J480DW Printer Drivers on Your Windows Machine</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722978429065-improved-experience-with-the-latest-version-of-logitech-extreme-3d-driver/"><u>Improved Experience with the Latest Version of Logitech Extreme 3D Driver.</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-snicker-scribbles-humorhub/"><u>In 2024, Snicker Scribbles HumorHub</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/limited-time-offer-save-big-on-powerful-gaming-pc-with-msi-aegis-r2-configuration-rtx-4070-and-core-i7-14700kf-for-less-than-1600/"><u>Limited Time Offer: Save Big on Powerful Gaming PC with MSI Aegis R2 Configuration (RTX 4070 & Core I7-14700KF) for Less than $1,600</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mass-production-commences-for-cixins-latest-12-core-arm-based-ai-processor-achieving-45-tops-benchmark-in-china/"><u>Mass Production Commences for Cixin's Latest 12-Core Arm-Based AI Processor: Achieving 45 TOPS Benchmark in China</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/nvidia-quadro-rtx-eight-thousand-latest-driver-version-now-available-for-win11win8win7/"><u>Nvidia Quadro RTX Eight Thousand - Latest Driver Version Now Available for Win11/Win8/Win7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/resolving-driver-issues-download-and-update-windows-compatible-hp-elitebook-8460p-drivers-solved/"><u>Resolving Driver Issues: Download & Update Windows-Compatible HP EliteBook 8460P Drivers [SOLVED]</u></a></li>
-<li><a href="https://windows11.techidaily.com/seamless-audio-transmission-phones-and-windows-integration/"><u>Seamless Audio Transmission: Phones & Windows Integration</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-oppo-a78-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Oppo A78 Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://win11.techidaily.com/top-arguments-for-keeping-the-status-quo-stick-with-win10/"><u>Top Arguments For Keeping the Status Quo: Stick With Win10</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-chronicles-of-triumph-ranking-the-ultimate-game-odysseys/"><u>[New] Chronicles of Triumph Ranking the Ultimate Game Odysseys</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-advanced-live-broadcast-setup-from-obs-to-fb-enthusiasts/"><u>[New] In 2024, Advanced Live Broadcast Setup From OBS to FB Enthusiasts</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-the-optimal-thumbnail-size-for-engagement/"><u>[New] In 2024, The Optimal Thumbnail Size for Engagement</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/canon-mg2522-driver-update-how-to-get-it-now/"><u>Canon MG2522 Driver Update: How to Get It Now</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/easy-entry-to-excellence-understanding-high-definition-video-for-2024/"><u>Easy Entry to Excellence Understanding High-Definition Video for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-setup-of-brother-dcp-l2540dw-printer-on-your-windows-computer-drive-downloads-and-steps/"><u>Easy Setup of Brother DCP-L2540DW Printer on Your Windows Computer: Drive Downloads & Steps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/gamers-companion-step-by-step-instructions-on-downloading-and-updating-amd-vega-drivers/"><u>Gamer's Companion: Step-by-Step Instructions on Downloading and Updating AMD Vega Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-drivers-for-your-nvidia-rtx-2070-super-download-and-update-guide-for-windows-pcs/"><u>Get the Newest Drivers for Your NVIDIA RTX 2070 SUPER: Download and Update Guide for Windows PCs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-latest-amd-radeon-rx-windows-drivers/"><u>How to Get the Latest AMD Radeon RX 지원 WinDows Drivers</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-oneplus-nord-n30-se-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of OnePlus Nord N30 SE Phone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-explore-the-best-ways-to-record-sound-in-your-latest-windows-11-pc/"><u>In 2024, Explore the Best Ways to Record Sound in Your Latest Windows 11 PC</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-realme-12-proplus-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Realme 12 Pro+ 5G Location | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/simple-solutions-for-resolving-lenovo-peripheral-drivers-problems/"><u>Simple Solutions for Resolving Lenovo Peripheral Drivers Problems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-finding-and-installing-new-drivers-for-amd-radeon-rx/"><u>Step-by-Step Guide: Finding and Installing New Drivers for AMD Radeon RX 지오</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/streamline-your-pc-instant-downloads-of-realtek-asio-drivers-for-windows-10/"><u>Streamline Your PC: Instant Downloads of RealTek Asió Drivers for Windows 10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-definitive-fixes-for-d3dx926dll-not-found-errors-a-user-friendly-approach/"><u>The Definitive Fixes for 'd3dx9_26.dll' Not Found Errors: A User-Friendly Approach</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-rated-4k-ultra-hd-projectors-below-2000-ideal-picks-for-your-cinematic-home-setup-in-2eight-fourteen/"><u>Top-Rated 4K Ultra HD Projectors Below $2000 - Ideal Picks for Your Cinematic Home Setup in 2Eight Fourteen</u></a></li>
 </ul></div>
 

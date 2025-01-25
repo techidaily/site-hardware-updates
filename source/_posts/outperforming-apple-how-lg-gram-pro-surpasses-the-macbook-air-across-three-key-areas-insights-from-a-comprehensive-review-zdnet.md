@@ -1,7 +1,7 @@
 ---
 title: "Outperforming Apple: How LG Gram Pro Surpasses the MacBook Air Across Three Key Areas - Insights From a Comprehensive Review | ZDNet"
-date: 2025-01-14T17:03:05.856Z
-updated: 2025-01-18T18:07:56.225Z
+date: 2025-01-23T02:15:53.529Z
+updated: 2025-01-24T19:00:55.053Z
 tags:
   - laptops
 categories:
@@ -19,6 +19,10 @@ Ed Bott/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -45,7 +49,7 @@ My original plan was to use the new Surface Pro as a secondary mobile device, wh
 How did this happen? Let's dive in.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The experience is familiar
@@ -59,10 +63,6 @@ And as for the software, well … It's Windows 11, which looks and acts the same
 The big difference is that this next-gen device is extremely cool and quiet. After a three-hour Zoom call the other day, the chassis was barely warm; on an Intel-based machine, it would have been uncomfortably hot. There's a fan inside the Surface Pro 11, but I have yet to hear it run, even under the most demanding conditions. It's also extremely responsive, with none of the hesitation I occasionally noticed on the Surface Pro X. If you've used an M2-equipped MacBook Air, the feeling will be familiar.
 
 Of course, this new device also embodies everything you like and/or dislike about the Surface Pro design. If you're expecting a radical shift that will suddenly make the kickstand comfortable in your lap, I'm sorry to report you will be disappointed. If, however, you're comfortable with that design, you'll find this iteration completely familiar.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Battery life is a huge win
 
@@ -81,7 +81,7 @@ Screenshot by Ed Bott/ZDNET
 At an average of more than 10 hours of actual, observed battery life, this Surface Pro is able to run for well over twice as long as my Intel-based Surface Pro 9\. That's also at least as long as the [M2 MacBook Air](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/) in my office.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Compatibility is good but not perfect
@@ -121,7 +121,7 @@ I had no hardware problems to speak of. My 10-year-old Logitech C930 webcam just
 Your mileage may vary, of course, especially if you have exotic hardware like video capture cards and ancient multifunction printers that require custom driver packs and won't work with the in-box Windows drivers. Thankfully, I have none of those.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The AI story is incomplete
@@ -145,7 +145,7 @@ The real question is whether those features are powerful enough to make you swit
 Even if you avoid the AI features completely, though, there's more than enough power in this [budget PC](https://www.zdnet.com/article/best-laptops-under-500/). Plus, as long as your apps and hardware requirements aren't exotic, you'll appreciate its cool, quiet operation.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test laptops
@@ -192,21 +192,22 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-from-pure-to-perfected-enhancing-photo-dynamics-with-illustrator-techniques/"><u>[New] From Pure to Perfected Enhancing Photo Dynamics with Illustrator Techniques</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-how-to-spark-interest-and-boost-views-on-instagram-videos-for-2024/"><u>[New] How to Spark Interest & Boost Views on Instagram Videos for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-step-by-step-for-flawless-audio-transitions-with-audacity/"><u>[Updated] In 2024, Step-by-Step for Flawless Audio Transitions with Audacity</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-the-ultimate-list-best-skype-audio-capture-tools-for-professionals-for-2024/"><u>[Updated] The Ultimate List Best Skype Audio Capture Tools for Professionals for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/13-pivotal-metaverse-experiences-for-deeper-comprehension-for-2024/"><u>13 Pivotal Metaverse Experiences for Deeper Comprehension for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-xiaomi-redmi-note-13-5g-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Xiaomi Redmi Note 13 5G FRP</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/boost-graphics-and-sound-quality-the-key-to-updating-your-dell-gupdate-the-driver-software-of-your-dell-g3-for-enhanced-gaming-performance/"><u>Boost Graphics and Sound Quality: The Key to Updating Your Dell GUpdate the Driver Software of Your Dell G3 for Enhanced Gaming Performance</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722978855293-chronic-headaches-with-neurological-deficits-can-be-associated-with-tumors-strokes-or-demyelinating-diseases-like-multiple-sclerosis/"><u>Chronic Headaches with Neurological Deficits Can Be Associated with Tumors, Strokes, or Demyelinating Diseases Like Multiple Sclerosis.</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/file-funneling-transfer-techniques-for-your-computer-for-2024/"><u>File Funneling Transfer Techniques for Your Computer for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-download-hp-color-laserjet-pro-mfp-m477-all-in-one-printer-driver-pack/"><u>Free Download: HP Color Laserjet Pro MFP M477 All-in-One Printer Driver Pack</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-top-game-graphics-by-updating-to-the-newest-geforce-gtx-1660-ti-software/"><u>Get Top Game Graphics by Updating to the Newest GeForce GTX 1660 Ti Software</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-poco-c51-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Poco C51 Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-update-your-windows-pcs-usb-30-gigabit-ethernet-controller-software/"><u>How to Update Your Windows PC's USB 3.0 Gigabit Ethernet Controller Software</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-epson-gt-s50-printer-driver-on-windows-7-8-or-10-download-now/"><u>Install Epson GT S50 Printer Driver on Windows 7, 8 or 10 - Download Now!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-instructions-for-installing-new-steelseries-device-drivers-on-your-window-machine/"><u>Step-by-Step Instructions for Installing New SteelSeries Device Drivers on Your Window Machine</u></a></li>
-<li><a href="https://win-answers.techidaily.com/unlock-the-secrets-how-to-get-warframe-up-and-running-again/"><u>Unlock the Secrets: How to Get Warframe Up and Running Again!</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nfusing-vitality-into-text-an-animated-adventure/"><u>[New] Infusing Vitality Into Text An Animated Adventure</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-creating-captivating-life-enriching-video-content-for-2024/"><u>[Updated] Creating Captivating Life-Enriching Video Content for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/dominating-gamers-worlds-unveiling-the-performance-and-colors-of-philips-evonia-monitor/"><u>Dominating Gamers' Worlds - Unveiling the Performance & Colors of Philips Evonia Monitor</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-ultraportability-with-vaios-newly-launched-visionplus-14-monitor-just-072-pounds/"><u>Experience Ultraportability with Vaio's Newly Launched Vision+ 14 Monitor - Just 0.72 Pounds!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-tips-for-enhancing-ppts-with-auditory-content-for-2024/"><u>Expert Tips for Enhancing PPTs with Auditory Content for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/explore-computer-components-with-toms-hardware-experts/"><u>Explore Computer Components with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exposing-displayport-21s-uhbr-cable-conundrum-how-this-affected-nvidia-to-clutch-on-using-dp-14-for-the-latest-rtx-40-lineup/"><u>Exposing DisplayPort 2.1’S UHBR-Cable Conundrum – How This Affected NVIDIA to Clutch on Using DP 1.4 for the Latest RTX 40 Lineup</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/feast-on-crisp-vibrant-colors-with-the-asrock-32-480hz-oled-monitor-the-ultimate-choice-for-streamers-and-gamers/"><u>Feast on Crisp, Vibrant Colors with the ASROCK 32 480Hz OLED Monitor: The Ultimate Choice for Streamers and Gamers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-your-perfect-game-viewing-companer-budget-monitors-curved-panels-and-g-sync-capabilities-await/"><u>Find Your Perfect Game Viewing Companer – Budget Monitors, Curved Panels & G-Sync Capabilities Await!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-best-deal-on-an-immersive-viewing-experience-the-lg-34-ultragear-monitor-at-only-499/"><u>Get the Best Deal on an Immersive Viewing Experience: The LG 34 UltraGear Monitor at Only $499!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/grab-yours-now-the-ultimate-steal-of-a-sceptre-24-inch-curved-tv-game-screen-at-79/"><u>Grab Yours Now! The Ultimate Steal of a Sceptre 24-Inch Curved TV Game Screen at $79.</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/how-can-i-share-videos-to-instagram-for-2024/"><u>How Can I Share Videos to Instagram for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/photo-perfection-highest-rated-phone-tripods/"><u>Photo Perfection Highest Rated Phone Tripods</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/professional-insights-into-androids-recording-features/"><u>Professional Insights Into Android's Recording Features</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/purchase-the-revolutionary-100-inch-ar-laptop-ultimate-viewing-experience-without-a-separate-monitor-exclusive-offer-on-zdnet/"><u>Purchase the Revolutionary 100-Inch AR Laptop: Ultimate Viewing Experience without a Separate Monitor – Exclusive Offer on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-pick-for-lightweight-long-lasting-laptop-techspot/"><u>Top Pick for Lightweight, Long-Lasting Laptop | TechSpot</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-unwaking-from-sleep-with-input-devices/"><u>Win11: Unwaking From Sleep with Input Devices</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Launch Alert: AMD Unveils Ryzen 9 5900XT & Ryzen Asterisk 7 5800XT at Great Prices – Up to $349 and $249, Outshining the Current Ryzen 5000 Series"
-date: 2024-08-19T05:51:22.083Z
-updated: 2024-08-20T05:51:22.083Z
+date: 2025-01-23T19:07:54.456Z
+updated: 2025-01-24T18:13:03.612Z
 tags:
   - cpu
 categories:
@@ -27,6 +27,10 @@ _"There has been no change to the sales embargo of the 5000XT,"_ an AMD represen
 
  The Ryzen 9 5900XT, on the other hand, should provide a significant upgrade over the current[Ryzen 9 5900X](https://www.tomshardware.com/reviews/amd-ryzen-9-5950x-5900x-zen-3-review) . Weirdly, AMD chose that model name since the Ryzen 9 5900XT is closer to the[Ryzen 9 5950X](https://www.tomshardware.com/reviews/amd-ryzen-9-5950x-5900x-zen-3-review) than the Ryzen 9 5900X. The Ryzen 9 5900XT wields the same 16 Zen 3 cores as the former in addition to the 64MB L3 cache and 105W TDP. The Ryzen 9 5900XT has a 100 MHz lower base and boost clock than the Ryzen 9 5950X.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -37,14 +41,11 @@ _"There has been no change to the sales embargo of the 5000XT,"_ an AMD represen
 
  AMD has kept the pricing under wraps for the Ryzen 9 5900XT and the Ryzen 7 5800XT. However, we should know tomorrow how much the new refreshed chips cost. Don't forget to double back for our review of the two processors and two new 5000XT SKUs.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -53,8 +54,21 @@ _"There has been no change to the sales embargo of the 5000XT,"_ an AMD represen
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-leveraging-secondary-footage-for-enhanced-storytelling/"><u>[New] In 2024, Leveraging Secondary Footage for Enhanced Storytelling</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/chromecast-makeover-tips-and-tricks-for-setting-a-brand-new-background-image/"><u>Chromecast Makeover: Tips and Tricks for Setting a Brand New Background Image</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>Detailed guide of ispoofer for pogo installation On Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/free-winx-dvd-creator-software-top-rated-disk-burning-tool-for-windows-11-users/"><u>Free WinX DVD Creator Software: Top Rated Disk Burning Tool for Windows 11 Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fresh-nvidia-geforce-gtx-94cu-graphics-card-driver-software-for-free/"><u>Fresh Nvidia Geforce GTX 94Cu Graphics Card Driver Software for Free</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/getting-your-canon-mx49-pro-printer-up-to-date-free-drivers-for-windows-os/"><u>Getting Your Canon MX49^ Pro Printer Up-to-Date: Free Drivers for Windows OS</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Samsung Galaxy A34 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/nvidia-geforce-940mx-graphics-card-obtain-the-latest-driver-here/"><u>NVIDIA Geforce 940MX Graphics Card: Obtain the Latest Driver Here</u></a></li>
+<li><a href="https://program-issues.techidaily.com/spotify-wp-slowness-woes-top-fixes-to-revamp-your-listening/"><u>Spotify WP Slowness Woes? Top Fixes to Revamp Your Listening</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-to-download-canon-mg3620-printing-drivers-securely/"><u>Step-by-Step Tutorial to Download Canon MG3620 Printing Drivers Securely</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-amazon-fire-tv-stick-vpn-services-in-2e24-comprehensive-analysis-by-tech-experts-pcmag/"><u>Top-Rated Amazon Fire TV Stick VPN Services in 2E24 - Comprehensive Analysis by Tech Experts | PCMag</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-now-free-download-latest-hp-scanjet-drivers-for-windows-11-8-and-7/"><u>Update Now: [Free Download] Latest HP Scanjet Drivers for Windows 11, 8 & 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-system-with-gigabytes-z3-cuoz370p-motherboard-driver-downloads/"><u>Update Your System with Gigabyte's Z3 cuoZ370P Motherboard Driver Downloads</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "Get the Deal: Premium Refurbished 128GB Microsoft Surface Laptop for Only $320 Shop"
-date: 2025-01-16T18:06:01.030Z
-updated: 2025-01-18T17:03:15.021Z
+date: 2025-01-22T22:23:51.595Z
+updated: 2025-01-25T01:05:39.444Z
 tags:
   - laptops
 categories:
@@ -18,7 +18,7 @@ StackCommerce
 _The following content is brought to you  partners. If you buy a product featured here, we may earn an affiliate commission or other compensation._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -26,7 +26,7 @@ _The following content is brought to you  partners. If you buy a product feature
 [![surfacelaptop4rumors.jpg](https://www.zdnet.com/a/img/resize/a3c4608a44be85775a0e3ed8231bdbc5a96a64bb/2021/04/07/b01eaac1-9368-4ab6-87c6-12317046ff37/surfacelaptop4rumors.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best Surface PCs Microsoft's lineup of Surface PCs now covers a wide range of hardware factors and price points -- and every model is Windows 11-ready.  Read now](https://www.zdnet.com/article/best-surface-pc/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 It's hard to imagine anyone keeping a five-year-old smartphone for heavy use these days, but laptops? That's another story completely. There are many older models out there that are just as effective today as they were when they came out. That's why refurbished laptops make a great choice for budget-conscious buyers, and we're featuring several of the best picks from around the web on our [Deals page](https://www.zdnet.com/deals/). One of the top selections: This [Microsoft Surface Laptop](https://stacksocial.com/sales/surface-laptop-1-i5-7200u-8gb-w10-pro-refurb-128gb?utm%5Fsource=zdnet.com&utm%5Fmedium=referral&utm%5Fcampaign=surface-laptop-1-i5-7200u-8gb-w10-pro-refurb-128gb&utm%5Fterm=scsf-556405&utm%5Fcontent=a0x1P000004yVyTQAU&scsonar=1&aid=a-ceempx7z), certified refurbished at a price that's more than $200 off the original MSRP.
@@ -72,22 +72,24 @@ Right now, ZDNet readers can take home this [2017 Surface Laptop in silver for $
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-elevating-likes-strategies-for-shaping-square-footage-on-fb-for-2024/"><u>[New] Elevating Likes Strategies for Shaping Square Footage on FB for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-fraps-for-gamers-a-screen-record-review/"><u>[Updated] 2024 Approved Fraps for Gamers A Screen Record Review</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-mastery-over-multiple-tiktok-video-harvest/"><u>[Updated] Mastery Over Multiple TikTok Video Harvest</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dvd-windows-10-dvd-9-dvd/"><u>特選：DVDを効果的に小型化する無料ツール！ Windows 10で動く DVD-9 → DVD-</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-installation-of-asus-touchpad-controls-on-your-windows-10-device/"><u>Effortless Installation of ASUS Touchpad Controls on Your Windows 10 Device</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-download-qualcomm-atheros-ar3011-complete-guide-with-bluetooth-30-drivers/"><u>Free Download: Qualcomm Atheros AR3011 - Complete Guide with Bluetooth 3.0 Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-hp-laserjet-p1nsiii-p1006m15-series-driver-software-here/"><u>Get the Latest HP LaserJet P1nsiii (P1006/M15 Series) Driver Software Here!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-intel-chip-drivers-instantly-a-user-friendly-download-guide/"><u>Get Your Intel Chip Drivers Instantly – A User-Friendly Download Guide</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-revolutionize-your-music-playback-with-these-high-quality-free-audio-splits/"><u>In 2024, Revolutionize Your Music Playback with These High-Quality Free Audio Splits</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-epson-workforce-ds30-printer-software-for-windows-11-8-and-e-os-free-download/"><u>Latest Epson WorkForce DS30 Printer Software for Windows 11, 8 & E-OS - Free Download</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/liberez-le-potentiel-des-videos-en-haute-definition-avec-notre-codec-h265-gratuit/"><u>Libérez Le Potentiel Des Vidéos en Haute Définition Avec Notre Codec H.265 Gratuit</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/mastery-in-converting-classic-vhs-into-high-quality-pictures-for-2024/"><u>Mastery in Converting Classic VHS Into High-Quality Pictures for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/seamless-driver-download-and-update-process-for-amds-radeon-rx-470-gpus/"><u>Seamless Driver Download & Update Process for AMD's Radeon RX 470 GPUs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/seamless-setup-for-intel-thunderbolt-control-software-start-here/"><u>Seamless Setup for Intel Thunderbolt Control Software - Start Here!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/switching-from-apple-vision-pro-and-meta-quest-3-top-affordable-xr-glasses-alternatives-reviewed/"><u>Switching From Apple Vision Pro & Meta Quest 3: Top Affordable XR Glasses Alternatives Reviewed</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/troubleshooting-and-fixing-lg-device-recognition-errors-via-usb-in-windows-operating-systems-versions-1187/"><u>Troubleshooting and Fixing LG Device Recognition Errors via USB in Windows Operating Systems (Versions 11/8/7)</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/utilizing-cookiebot-technology-for-seamless-user-experience/"><u>Utilizing Cookiebot Technology for Seamless User Experience</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-unlocking-student-potential-with-instructional-videos/"><u>[New] 2024 Approved Unlocking Student Potential with Instructional Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-resolving-imovie-cuts-understanding-crop-rationale/"><u>2024 Approved Resolving iMovie Cuts Understanding Crop Rationale</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/6-things-we-can-do-to-save-a-water-damaged-iphone-15-pro-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>6 Things We Can Do To Save A Water Damaged iPhone 15 Pro | Stellar</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/asus-dvd-software-download-update-your-drivers-today/"><u>ASUS DVD Software Download: Update Your Drivers Today</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/decoding-zen-5-architecture-amds-new-flagship-the-ryzen-9-9950x-benchmarked-for-efficiency-and-power/"><u>Decoding Zen 5 Architecture: AMD's New Flagship, The Ryzen 9 9950X Benchmarked for Efficiency and Power</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-installation-of-dells-wd19-device-drivers-get-started-now/"><u>Easy Installation of Dell's WD19 Device Drivers - Get Started Now</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/explore-creativity-best-drawing-software-for-ipados/"><u>Explore Creativity Best Drawing Software for iPadOS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fully-updated-download-d3-graphics-and-chipset-drivers-for-gigabyte-z370p/"><u>Fully Updated: Download D3 Graphics and Chipset Drivers for Gigabyte Z370P</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722971493430-get-the-newest-epson-wf-3620-driver-software-for-compatible-pcs-running-windows-1087-download-here/"><u>Get the Newest Epson WF-3620 Driver Software for Compatible PCs Running Windows 10/8/7 - Download Here!</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2527798-9780811740654-haunted-hudson-valley/"><u>Haunted Hudson Valley | Free Book</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-fix-connectivity-woes-with-your-lg-devices-usb-driver-in-windows-operating-systems/"><u>How to Fix Connectivity Woes with Your LG Device's USB Driver in Windows Operating Systems</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-aspect-ratio-for-video-content-on-social-platforms/"><u>In 2024, Aspect Ratio for Video Content on Social Platforms</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-oppo-a59-5g-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Oppo A59 5G Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-pro-hdr-image-processing-a-lightroom-approach/"><u>In 2024, Pro HDR Image Processing A Lightroom Approach</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-your-x470-gaming-plus-drivers-with-this-easy-guide/"><u>Install Your X470 Gaming Plus Drivers with This Easy Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/logitech-momo-wheel-racing-controller-software-for-pc-free-download-links/"><u>Logitech MOMO Wheel Racing Controller Software for PC – Free Download Links</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722965563839-netgear-a6100-user-heres-where-you-can-download-the-newest-windows-driver/"><u>Netgear A6100 User? Here's Where You Can Download the Newest Windows Driver!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-5-tecnicas-innovadoras-para-refinar-la-claridad-de-tus-fotografias-en-2024/"><u>Top 5 Técnicas Innovadoras Para Refinar La Claridad De Tus Fotografías en 2024</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/ultimate-guide-on-safely-removing-datastores-from-vmware-vcenter-environment/"><u>Ultimate Guide on Safely Removing Datastores From VMware vCenter Environment</u></a></li>
 </ul></div>
 

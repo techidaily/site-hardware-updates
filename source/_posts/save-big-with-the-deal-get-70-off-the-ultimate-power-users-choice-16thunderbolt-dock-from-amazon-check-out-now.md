@@ -1,7 +1,7 @@
 ---
 title: "Save Big with the Deal: Get $70 Off the Ultimate Power User's Choice - 16/Thunderbolt Dock From Amazon! Check Out Now"
-date: 2024-11-26T20:24:20.983Z
-updated: 2024-11-27T19:43:13.160Z
+date: 2025-01-19T19:32:55.077Z
+updated: 2025-01-25T00:50:52.817Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Taylor Clemons/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET takeaways
@@ -81,7 +81,7 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -93,7 +93,7 @@ And if you're simply looking for a reliable set of PC speakers, the [Arena 3](ht
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does this deal expire?
@@ -130,20 +130,22 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-capture-and-crop-with-ios-top-iphone-apps-reviewed-for-2024/"><u>[New] Capture & Crop with iOS Top iPhone Apps Reviewed for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/dentifying-creator-types-six-intriguing-youtube-categorization-tests-for-2024/"><u>[New] Identifying Creator Types Six Intriguing YouTube Categorization Tests for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-pixel-perfection-combining-computer-photos/"><u>[New] Pixel Perfection Combining Computer Photos</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-bring-back-the-faded-step-by-step-on-transforming-prints-to-pixels/"><u>[Updated] Bring Back the Faded Step-by-Step on Transforming Prints to Pixels</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-comparative-analysis-of-hero5-sessions/"><u>[Updated] Comparative Analysis of Hero5 Sessions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/compatible-canon-dr-c225-printer-driver-downloads-for-windows-users-a-guide-to-connect-and-print/"><u>Compatible Canon DR-C225 Printer Driver Downloads for Windows Users: A Guide to Connect and Print</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-update-microsofts-latest-windows-10-11-8-7-bluetooth-drivers/"><u>Download & Update: Microsoft's Latest Windows (10, 11, 8, 7) Bluetooth Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722960218958-effortless-access-to-amd-smbus-driver-download-and-update-today/"><u>Effortless Access to AMD SMBus Driver Download & Update - Today!</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/sive-guide-10-immersive-youtube-vr-films-for-2024/"><u>Exclusive Guide 10 Immersive YouTube VR Films for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/full-tutorial-to-bypass-your-nokia-c110-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Nokia C110 Face Lock?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-hands-on-the-new-corsair-icue-for-enhanced-pc-setup-windows-1110-compatible/"><u>Get Your Hands on the New Corsair iCUE for Enhanced PC Setup: Windows 11/10 Compatible</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-honor-magic-vs-2-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Honor Magic Vs 2 | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/logitech-k400plus-wireless-keyboard-software-and-drivers-install-now/"><u>Logitech K400+ Wireless Keyboard Software and Drivers: Install Now</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-updating-your-razer-blade-ebook-17-drivers-on-windows/"><u>Ultimate Guide to Updating Your Razer Blade eBook 17 Drivers on Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722964253625-update-your-hp-scanjet-software-for-windows-new-version-available/"><u>Update Your HP Scanjet Software for Windows - New Version Available!</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-discover-10-instagram-accounts-mixing-humor-with-emotion/"><u>[Updated] Discover 10 Instagram Accounts Mixing Humor with Emotion</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-vivo-y78t-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Vivo Y78t without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/achieve-optimal-performance-update-your-mbox-2-drivers-on-windows-full-guide/"><u>Achieve Optimal Performance: Update Your MBox 2 Drivers on Windows [FULL GUIDE]</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comparing-neo-qled-and-oled-technology-in-modern-displays/"><u>Comparing Neo QLED and OLED Technology in Modern Displays</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-guide-to-updating-your-oculus-headset-driver-downloads-for-all-windows-systems-111087/"><u>Complete Guide to Updating Your Oculus Headset - Driver Downloads for All Windows Systems (11/10/8/7)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/employing-alternative-antibiotics-such-as-clindamycin-or-penicillins-which-may-still-have-activity-against-metronidazole-resistant-clostridium-perfringens-s189/"><u>Employing Alternative Antibiotics Such as Clindamycin or Penicillins, Which May Still Have Activity Against Metronidazole-Resistant Clostridium Perfringens Strains</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-tips-and-reviews-from-toms-comprehensive-hardware-analysis/"><u>Expert Tips and Reviews From Tom’s Comprehensive Hardware Analysis</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-impact-of-ai-chatbot-content-filtering-what-you-need-to-know/"><u>Exploring the Impact of AI Chatbot Content Filtering: What You Need to Know</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ft232r-usb-uart-driver-download-easily-and-quickly/"><u>FT232R USB UART Driver Download Easily & Quickly</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-vivo-y55s-5g-2023-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Vivo Y55s 5G (2023) to iPad | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-vivo-y78t-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Vivo Y78t Device</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722971177750-keep-your-netgear-a6100-running-smoothly-with-updated-windows-drivers/"><u>Keep Your Netgear A6100 Running Smoothly with Updated Windows Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-canon-pixma-mx922-driver-updates-for-windows-users-installation-tutorial/"><u>Latest Canon PIXMA MX922 Driver Updates for Windows Users: Installation Tutorial</u></a></li>
+<li><a href="https://facebook.techidaily.com/real-time-warning-for-hidden-screen-captures/"><u>Real-Time Warning for Hidden Screen Captures</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-infinix-note-30-vip-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Infinix Note 30 VIP for Streaming | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/top-10-scriptural-ringtone-selections-for-faith-for-2024/"><u>Top 10 Scriptural Ringtone Selections for Faith for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/updated-hp-pagewide-pro-477dw-driver-pack-for-windows-install-directly-on-win11-win10-and-win8/"><u>Updated HP PageWide Pro 477DW Driver Pack for Windows: Install Directly on Win11, Win10 & Win8</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Enermax Unveils the World's Tiniest ATX 3.1 Power Supply: Maximize Your Compact PC Building with Extra Room & Built-In Rear Connectors"
-date: 2024-08-19T04:11:56.807Z
-updated: 2024-08-20T04:11:56.807Z
+date: 2025-01-21T19:44:53.068Z
+updated: 2025-01-24T19:51:58.290Z
 tags:
   - power-supply
 categories:
@@ -28,6 +28,10 @@ Are you considering building a new gaming rig, or a PC capable of some serious g
 
  Cooling is provided by a 120mm rifle-bearing PWM fan, that operates in a zero RPM fan mode for near-silent operation at lower loads, so when you're just browsing away, this should help to keep your PSU from adding to the combined noise output from your PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -42,8 +46,6 @@ Are you considering building a new gaming rig, or a PC capable of some serious g
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -51,8 +53,21 @@ Are you considering building a new gaming rig, or a PC capable of some serious g
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-capturing-youtube-icons-browser-extension-command-line-and-software-trio-for-2024/"><u>[New] Capturing Youtube Icons Browser Extension, Command Line & Software Trio for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-dawn-evaluation-non-conformist-thoughts/"><u>[New] In 2024, Dawn Evaluation Non-Conformist Thoughts</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-make-sense-of-iphone-video-repetition-tech/"><u>[New] In 2024, Make Sense of iPhone Video Repetition Tech</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-top-picks-best-free-cross-platform-video-communication-tools/"><u>[New] In 2024, Top Picks Best Free Cross-Platform Video Communication Tools</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-the-ultimate-guide-to-choosing-game-bar-substitutes/"><u>[New] The Ultimate Guide to Choosing Game Bar Substitutes</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-transform-your-imagery-with-ar-and-accessible-luts/"><u>2024 Approved Transform Your Imagery with AR & Accessible LUTs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/decoding-computer-systems-expert-tips-and-reviews-with-toms-hardware/"><u>Decoding Computer Systems: Expert Tips and Reviews with Tom's Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722977805889-effortless-installation-of-hp-stream-drivers-available-now/"><u>Effortless Installation of HP Stream Drivers Available Now!</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/entrepreneurs-guide-free-business-template-plugins-for-2024/"><u>Entrepreneur's Guide Free Business Template Plugins for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-and-install-your-hp-computers-network-card-drivers-on-windows/"><u>How to Get & Install Your HP Computer's Network Card Drivers on Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722970768249-install-the-newest-hp-envy-56e-drivers-fast-and-trouble-free/"><u>Install the Newest HP Envy 56E Drivers – Fast and Trouble-Free</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/nvidia-geforce-rtx-2070-drivers-latest-version-download-compatible-with-win-1087/"><u>NVIDIA Geforce RTX 2070 Drivers - Latest Version Download Compatible with Win 10/8/7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-guide-to-downloading-and-using-the-hp-laserjet-pro-m402n-driver-in-windows/"><u>The Ultimate Guide to Downloading and Using the HP LaserJet Pro M402n Driver in Windows</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/untouched-live-visual-recorders-for-2024/"><u>Untouched Live Visual Recorders for 2024</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->

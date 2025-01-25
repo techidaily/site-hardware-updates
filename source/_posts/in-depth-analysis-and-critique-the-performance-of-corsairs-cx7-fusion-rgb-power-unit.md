@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Analysis and Critique: The Performance of Corsair's CX7^ Fusion RGB Power Unit"
-date: 2024-08-19T04:11:39.709Z
-updated: 2024-08-20T04:11:39.709Z
+date: 2025-01-17T16:42:31.513Z
+updated: 2025-01-24T18:59:34.966Z
 tags:
   - power-supply
 categories:
@@ -31,6 +31,10 @@ Even if you buy one of the[best power supplies](https://tools.techidaily.com) , 
 
  The power supplies themselves will carry MSRPs of $199, $249 and $399 for the 1,000, 1,200 and 1,600 watt units respectively. The 1,000 and 1,200 watt units will come in black or white while the 1,600 watt one will only be available in black. All three will be available in August.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -49,8 +53,6 @@ Even if you buy one of the[best power supplies](https://tools.techidaily.com) , 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -58,8 +60,21 @@ Even if you buy one of the[best power supplies](https://tools.techidaily.com) , 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-visual-simplification-in-hybrid-workspaces-with-zoom-and-google-meet-for-2024/"><u>[New] Visual Simplification in Hybrid Workspaces with Zoom & Google Meet for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-conveniently-keep-your-linkedin-videos-with-these-6-apps/"><u>[Updated] In 2024, Conveniently Keep Your LinkedIn Videos with These 6 Apps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/demystifying-gpt4alls-complex-processes/"><u>Demystifying GPT4All's Complex Processes</u></a></li>
+<li><a href="https://win-trending.techidaily.com/dex3-video-lessons-for-pioneer-cdjs-learn-how-to-modify-and-control-text-size-with-ease/"><u>DEX3 Video Lessons for Pioneer CDJs: Learn How to Modify and Control Text Size with Ease!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-logitech-brio-hd-webcam-driver-for-windows-systems-supports-win10-win8-and-win7/"><u>Download Logitech Brio HD Webcam Driver for Windows Systems – Supports Win10, Win8, & Win7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-installation-of-hp-zbook-15-g3-device-drivers-in-a-few-simple-steps-windows/"><u>Easy Installation of HP ZBook 15 G3 Device Drivers in a Few Simple Steps (Windows)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/empower-your-work-from-home-setup-ipad-pro-integration-strategies-for-productivity-boosts/"><u>Empower Your Work-From-Home Setup: IPad Pro Integration Strategies for Productivity Boosts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722978738845-get-your-bluetooth-adapter-drivers-with-eveo-download-now/"><u>Get Your Bluetooth Adapter Drivers with Eveo - Download Now!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-motorola-moto-g73-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Motorola Moto G73 5G Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-disable-automatic-driver-update-on-windows-11/"><u>How to Disable Automatic Driver Update on Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-successfully-download-and-set-up-the-hp-laserjet-1018-printer-driver/"><u>How to Successfully Download & Set Up the HP LaserJet 1018 Printer Driver</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-officejet-5740-printer-drivers-fast-download-guide/"><u>HP OfficeJet 5740 Printer Drivers - Fast Download Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726227687647-mpegmp4/"><u>MPEG到MP4自由下載的移動維護 - 無限可能化</u></a></li>
+<li><a href="https://os-tips.techidaily.com/weekly-digest-of-iphone-software-enhancements-and-product-recalls/"><u>Weekly Digest of iPhone Software Enhancements & Product Recalls</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

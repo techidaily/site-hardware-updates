@@ -1,7 +1,7 @@
 ---
 title: "Apple October Event Preview: Exciting Releases on the Horizon with M4 Mac Mini and Enhanced iPads - What You Need to Know | Featured by ZDNET"
-date: 2025-01-15T18:48:00.726Z
-updated: 2025-01-18T19:14:02.367Z
+date: 2025-01-24T00:33:52.020Z
+updated: 2025-01-24T20:34:09.601Z
 tags:
   - laptops
 categories:
@@ -46,7 +46,7 @@ Image: Charles McLellan / ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Design
@@ -70,7 +70,7 @@ For connections, you're limited to two USB-C (3.2 Gen 2) ports on the left side,
 You can access the innards of the ThinkPad X13s by removing six screws and prising off the bottom cover, although upgrade options are limited. We did poke around inside our first review unit, which arrived with no functioning Wi-Fi and no access to the webcam, to no avail. Our second review unit worked just fine. For all its thin-and-lightness, the ThinkPad X13s is [MIL-STD-810H](https://en.wikipedia.org/wiki/MIL-STD-810)\-tested and should cope with the rigours of a mobile professional's routine. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Features
@@ -84,7 +84,7 @@ There are three screen options, all IPS panels with WUXGA (1920 x 1200) resoluti
 As well as the biometric authentication methods noted earlier, the ThinkPad X13s includes internal security features such as a discrete TPM 2.0 chip, Microsoft's [Pluton TPM architecture](https://learn.microsoft.com/en-us/windows/security/information-protection/pluton/pluton-as-tpm) running on the Snapdragon 8cx Gen 3's SPU (Secure Processing Unit) and a self-healing BIOS. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Performance & battery life
@@ -116,7 +116,7 @@ Thermal camera images of the ThinkPad X13s under load.
 Images: Charles McLellan / ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Conclusions
@@ -170,7 +170,7 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -218,24 +218,17 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-beginning-a-successful-item-evaluation-video-series/"><u>[Updated] Beginning a Successful Item Evaluation Video Series</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-efficiency-in-action-best-10-ways-to-youtube-conversion/"><u>2024 Approved Efficiency in Action Best 10 Ways to YouTube Conversion</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-samsung-galaxy-s24-ultra-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-newest-tp-link-wifi-drivers-for-win1187-80211ac-support/"><u>Download the Newest TP-Link WiFi Drivers for Win11/8/7 - 802.11Ac Support</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722973425607-download-your-asus-dvd-hardware-drivers-today/"><u>Download Your ASUS DVD Hardware Drivers Today!</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-and-solutions-how-to-stop-cs2-from-crashing-on-your-computer/"><u>Fix & Solutions: How to Stop CS2 From Crashing on Your Computer</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-newest-updates-and-amd-radeon-hd-ebsyhd-7870-drivers-on-windows-11-installation-guide/"><u>Get the Newest Updates and AMD Radeon HD Ebsy|HD 7870 Drivers on Windows 11: Installation Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-epson-stylus-nx420-up-to-date-windows-7810-driver-downloads-available-now/"><u>Get Your Epson Stylus NX420 Up-to-Date: Windows 7/8/10 Driver Downloads Available Now</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/harmony-and-law-instagrams-music-codex/"><u>Harmony & Law Instagram's Music Codex</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-elevate-your-mac-broadcast-top-5-live-streaming-applications/"><u>In 2024, Elevate Your Mac Broadcast Top 5 Live Streaming Applications</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mirthful-melodies-top-downloads-for-tones-for-2024/"><u>Mirthful Melodies Top Downloads for Tones for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-guide-updating-drivers-on-your-asus-maximus-x-hero-motherboard/"><u>Quick Guide: Updating Drivers on Your ASUS Maximus X Hero Motherboard</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/solved-pci-device-controller-problems-related-to-encrypting-and-decrypting-data/"><u>Solved: PCI Device Controller Problems Related to Encrypting and Decrypting Data 🛠️✨</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-connectivity-problems-your-guide-to-making-bluetooth-keyboards-work-with-pcs/"><u>Solving Connectivity Problems: Your Guide to Making Bluetooth Keyboards Work with PCs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/solving-lg-printer-driver-problems-in-windows-operating-systems-windows-11-8-and-7/"><u>Solving LG Printer Driver Problems in Windows Operating Systems: Windows 11, 8, & 7</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-making-the-sennheiser-game-one-mic-function-properly-again/"><u>Step-by-Step Guide: Making the Sennheiser Game One Mic Function Properly Again</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-resolution-securing-the-latest-updates-for-your-huion-tablets-windows-software/"><u>Step-by-Step Resolution: Securing the Latest Updates for Your Huion Tablet's Windows Software</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-three-stages-of-creep-are-primary-decreasing-strain-rate-secondary-constant-strain-rate-and-tertiary-accelerating-strain-rate-leading-to-failure/"><u>The Three Stages of Creep Are Primary (Decreasing Strain Rate), Secondary (Constant Strain Rate), and Tertiary (Accelerating Strain Rate Leading to Failure)</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-itel-p55plus-frp-by-drfone-android/"><u>The Updated Method to Bypass Itel P55+ FRP</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-snicker-sphere-top-grade-no-charge-memes-for-2024/"><u>[New] Snicker Sphere Top-Grade, No-Charge Memes for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-access-your-apple-iphone-14-pro-max-when-you-forget-the-passcode-by-drfone-ios/"><u>How to Access Your Apple iPhone 14 Pro Max When You Forget the Passcode?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-tecno-camon-20-pro-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Tecno Camon 20 Pro 5G For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-strategies-for-a-rising-number-of-youtubers-fans/"><u>In 2024, Strategies for a Rising Number of Youtubers' Fans</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reviving-your-windows-10-touchscreen-a-guide-to-5-key-strategies/"><u>Reviving Your Windows 10 Touchscreen: A Guide to 5 Key Strategies</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-pickup-monitors-of-2024-4k-ultra-hd-and-gaming-features/"><u>Top Pickup Monitors of 2024: 4K Ultra HD & Gaming Features</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-tech-advice-on-hardware-selection-insights-from-toms-equipment-reviews/"><u>Top Tech Advice on Hardware Selection: Insights From Tom's Equipment Reviews</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/transform-your-gaming-experience-with-the-sale-priced-acer-nitro-a-stunning-24-curved-monitor-now-available-at-a-fantastic-price-of-only-81/"><u>Transform Your Gaming Experience with the Sale-Priced Acer Nitro: A Stunning 24 Curved Monitor Now Available at a Fantastic Price of Only $ 81!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-gadget-breakdown-with-toms-hardware-hub/"><u>Ultimate Gadget Breakdown with Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-screen-guide-choosing-the-best-displays-for-ps5-and-xbox-series-systems/"><u>Ultimate Screen Guide: Choosing the Best Displays for PS5 and Xbox Series Systems</u></a></li>
+<li><a href="https://video-capture.techidaily.com/voice-logger-innovations-for-mac-users-unveiling-the-best-5-apps/"><u>Voice Logger Innovations for Mac Users Unveiling the Best 5 Apps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/what-it-means-when-you-see-a-red-x-next-to-wi-fi-in-system-tray-icons/"><u>What It Means When You See a Red X Next to Wi-Fi in System Tray Icons</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Discovering the Latest Enhancements in Samsung's Copilot+ AI for PCs: An Expert First Glance | Tech Innovator"
-date: 2024-11-24T19:39:33.030Z
-updated: 2024-11-27T17:37:33.513Z
+date: 2025-01-18T23:18:29.760Z
+updated: 2025-01-24T23:42:01.783Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the deal?
@@ -31,7 +31,7 @@ Save $450 on a [Samsung Galaxy Book 4 Edge](https://shop-links.co/link/?url=http
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -119,7 +119,7 @@ Lastly, the battery on the Edge is indeed impressive. [I recently tested HP's Om
 During the standard ZDNET benchmark testing of running a 4K YouTube livestream streamed over Wi-Fi at 50% brightness, I got over 13 hours of playback, way more than what is considered "good" for a laptop, and more than enough for a few days worth of standard work. Even better, while this laptop is idle, its battery life decay drops to a trickle.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -129,7 +129,7 @@ The [Samsung Galaxy Book 4 Edge](https://shop-links.co/link/?url=https%3A%2F%2Fw
 If neither of these apply to you, the Galaxy Book 4 Edge is still a phenomenal choice for its sheer star power and impressive performance alone. However, if you're on the fence about the price but still want a Copilot+ PC, you might consider the [Microsoft Surface Pro](https://www.zdnet.com/article/i-went-hands-on-with-microsofts-surface-pro-and-laptop-and-im-ready-to-ditch-my-macbook/) or the [Asus Vivobook S15](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/) \-- both are Snapdragon laptops with OLED displays available for quite a bit less.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -166,20 +166,19 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win11.techidaily.com/bitlocks-lost-luster-await-wise-wisdom-before-shift/"><u>BitLocks Lost Luster: Await Wise Wisdom Before Shift</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/discover-the-magic-behind-effective-youtube-short-videos/"><u>Discover the Magic Behind Effective YouTube Short Videos</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-logitech-g920-drivers-compatible-with-windows-11-10-8-and-7/"><u>Download Logitech G920 Drivers: Compatible with Windows 11, 10, 8 & 7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-official-microsoft-audio-interface-cards-software-for-windows-systems-here/"><u>Download Official Microsoft Audio Interface Cards Software for Windows Systems Here</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-hp-officejet-pro-9015-drivers-download-now/"><u>Get the Latest HP OfficeJet Pro 9015 Drivers - Download Now!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-new-update-how-to-install-canoscan-lide-220-drivers-for-optimal-performance/"><u>Get the New Update: How to Install CanoScan LiDE 220 Drivers for Optimal Performance</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-updated-epson-wf-352nwf-3540-driver-software-for-your-windows-pc-now/"><u>Get the Updated Epson WF 352N/WF 3540 Driver Software for Your Windows PC Now</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-xiaomi-13t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Xiaomi 13T Pro? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hp-officejet-pro-efi-8715-driver-downloads-compatible-with-all-windows-versions/"><u>HP OfficeJet Pro eFi 8715 Driver Downloads - Compatible with All Windows Versions</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-xiaomi-redmi-note-12r-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Xiaomi Redmi Note 12R Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/just-one-step-from-perfection-discover-the-impressive-3600-laptop-that-almost-meets-all-your-needs-insights/"><u>Just One Step From Perfection: Discover the Impressive $3,600 Laptop That Almost Meets All Your Needs - Insights</u></a></li>
-<li><a href="https://driver-download.techidaily.com/the-essential-steps-for-keeping-your-wireless-mouse-drivers-compliant-with-hid-standards/"><u>The Essential Steps for Keeping Your Wireless Mouse Drivers Compliant with HID Standards</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722969047574-update-to-latest-killer-e2500-gigabit-ethernet-chip-driver-now/"><u>Update to Latest Killer E2500 Gigabit Ethernet Chip Driver Now!</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-what-is-the-best-program-to-use-to-make-a-highlight-video-in-this-article-i-will-share-some-of-the-best-highlight-video-makers-for-bot/"><u>Updated 2024 Approved What Is the Best Program to Use to Make a Highlight Video? In This Article, I Will Share some of the Best Highlight Video Makers for Both Desktop Computers and Mobile Phones</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/windows-11-new-features-at-a-glance/"><u>Windows 11 New Features at a Glance</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-5-tips-for-enhancing-roblox-gaming-recordings-mac/"><u>[Updated] 5 Tips for Enhancing Roblox Gaming Recordings (Mac)</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-screensnap-sage-mastering-captures-technology-for-2024/"><u>[Updated] ScreenSnap Sage Mastering Captures Technology for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-step-by-step-ensuring-accurate-age-on-tiktok-for-2024/"><u>[Updated] Step-by-Step Ensuring Accurate Age on TikTok for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-updated-drivers-for-nvidia-rtx-2060-super-on-windows-10-and-11-systems/"><u>Download Updated Drivers for NVIDIA RTX 2060 Super on Windows 10 and 11 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-downloading-guide-get-sound-blaster-z-drivers-compatible-with-windows-10/"><u>Effortless Downloading Guide: Get Sound Blaster Z Drivers Compatible with Windows 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-canon-mp280-printer-software-installation-packages-for-windows-11-8-and-7/"><u>Free Canon MP280 Printer Software Installation Packages for Windows 11, 8 & 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-quadro-graphics-drivers-from-nvidia-for-windows-10-systems/"><u>Get the Newest Quadro Graphics Drivers From Nvidia for Windows 10 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-successfully-connect-your-western-digital-ses-drive-using-updated-usb-software-on-windows-computers-2011-onwards/"><u>How to Successfully Connect Your Western Digital SES Drive Using Updated USB Software on Windows Computers (2011 Onwards)</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-icloud-from-apple-iphone-xr-smoothly-by-drfone-ios/"><u>In 2024, How To Remove iCloud From Apple iPhone XR Smoothly</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-icloud-unlocker-download-unlock-icloud-lock-for-your-apple-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, iCloud Unlocker Download Unlock iCloud Lock for your Apple iPhone 12 Pro Max</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-nubia-z50s-pro-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Nubia Z50S Pro Location | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-digital-warehouse-with-toms-gear-guidance/"><u>Navigating the Digital Warehouse with Tom's Gear Guidance</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-truth-behind-health-claims-how-to-fact-check-with-chatgpt-and-advanced-ai-technology/"><u>The Truth Behind Health Claims: How to Fact-Check with ChatGPT & Advanced AI Technology</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-enhanced-samsung-k850u-experience-for-2024/"><u>Unveiling the Enhanced Samsung K850U Experience for 2024</u></a></li>
 </ul></div>
 
