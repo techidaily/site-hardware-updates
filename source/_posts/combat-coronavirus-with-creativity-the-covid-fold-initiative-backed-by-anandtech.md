@@ -1,7 +1,7 @@
 ---
 title: "Combat Coronavirus with Creativity: The Covid-Fold Initiative Backed by AnandTech"
-date: 2024-08-19T04:15:56.865Z
-updated: 2024-08-20T04:15:56.865Z
+date: 2025-01-30T19:10:12.752Z
+updated: 2025-02-01T22:34:06.172Z
 tags:
   - build
 categories:
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/f6b900a7e2a78e7ffb6b0f28d526eebcba1c857a7
 
  The competition starts this Monday, March 12 at 10am PT and will run until Friday, March 16 at 10am PT.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -39,14 +43,11 @@ thumbnail: https://thmb.techidaily.com/f6b900a7e2a78e7ffb6b0f28d526eebcba1c857a7
 
 Good luck!
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -55,8 +56,17 @@ Good luck!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-exquisite-home-designs-unlocked-in-blocky-landscapes/"><u>[New] 2024 Approved Exquisite Home Designs Unlocked in Blocky Landscapes</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-essential-guide-to-the-top-10-video-calls-for-your-smartphone/"><u>[New] Essential Guide to the Top 10 Video Calls for Your Smartphone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-vividaieditor-bringing-images-to-life-anew/"><u>[New] In 2024, VividAiEditor Bringing Images to Life Anew</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-examining-dji-phantom-3s-advanced-video-capture-tech/"><u>2024 Approved Examining DJI Phantom 3’S Advanced Video Capture Tech</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-hp-zbook-15-g3-driver-setup-on-windows-pcs/"><u>Effortless HP ZBook 15 G3 Driver Setup on Windows PCs</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-xiaomi-redmi-12-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Xiaomi Redmi 12 Phones with/without a PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-updated-drivers-for-your-hp-officejet-4500-compatible-with-the-latest-software-revisions/"><u>How to Install Updated Drivers for Your HP Officejet 4500 - Compatible with the Latest Software Revisions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-overcome-samsung-universal-print-driver-errors-in-windows-a-comprehensive-solution-list/"><u>How to Overcome Samsung Universal Print Driver Errors in Windows - A Comprehensive Solution List</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-ideal-scripts-for-audio-performances/"><u>In 2024, Ideal Scripts for Audio Performances</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ricoh-windows-compatible-printers-find-and-install-correct-drivers-now/"><u>Ricoh Windows Compatible Printers - Find & Install Correct Drivers Now!</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->

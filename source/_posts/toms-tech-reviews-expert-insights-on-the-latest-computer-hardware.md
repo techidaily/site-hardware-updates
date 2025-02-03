@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Reviews: Expert Insights on the Latest Computer Hardware"
-date: 2024-08-19T04:14:14.982Z
-updated: 2024-08-20T04:14:14.982Z
+date: 2025-01-28T19:26:05.526Z
+updated: 2025-02-01T19:36:40.300Z
 tags:
   - components
 categories:
@@ -29,6 +29,10 @@ Japan-based SSD maker Nextorage has unveiled an all-new PCIe Gen 4 M.2 SSD aimed
 
  Despite its small size, the new Nextorage drive is one of only a couple of M.2 2230 drives that can hit speeds similar to those of larger outgoing PCIe Gen 4 M.2 2280 class drives and get close to the bandwidth limitations of PCIe Gen 4\. With a read speed of nearly seven and a half gigabytes per second, the G Series ME is the fastest M.2 2230 drive on the market. Its closest competitor is the [Corsair MP600 Mini,](https://tools.techidaily.com) which hits read speeds of 7GB/s flat.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -43,8 +47,6 @@ Japan-based SSD maker Nextorage has unveiled an all-new PCIe Gen 4 M.2 SSD aimed
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -52,8 +54,18 @@ Japan-based SSD maker Nextorage has unveiled an all-new PCIe Gen 4 M.2 SSD aimed
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-2023s-standout-trends-on-the-tiktok-platform/"><u>[New] In 2024, 2023’S Standout Trends on the TikTok Platform</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-best-slow-motion-camera-apps-for-android-and-iphone/"><u>[Updated] Best Slow Motion Camera Apps for Android And iPhone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-reveiw-by-oladance-evaluating-the-sound-performance-of-popular-open-ear-headphone-models/"><u>Comprehensive Reveiw by Oladance: Evaluating the Sound Performance of Popular Open-Ear Headphone Models</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/creating-a-smarter-living-space-how-this-prime-day-marks-the-start-of-my-intelligent-home-journey/"><u>Creating a Smarter Living Space: How This Prime Day Marks the Start of My Intelligent Home Journey</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/creme-brulee/"><u>Crème Brûlée</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-logitechs-latest-affordable-mouse-with-7-playful-design-options/"><u>Discover Logitech's Latest Affordable Mouse with 7 Playful Design Options</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/displayport-vs-hdmi-showdown-determining-the-optimal-video-interface-for-you/"><u>DisplayPort Vs. HDMI Showdown: Determining the Optimal Video Interface for You.</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-up-and-running-with-usb-camera-support-in-no-time-free-downloads/"><u>Get Up & Running with USB Camera Support in No Time | Free Downloads</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-some-outdated-drivers-with-windows-device-manager-on-windows-11107-by-drivereasy-guide/"><u>How to identify some outdated drivers with Windows Device Manager on Windows 11/10/7</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-vhs-nostalgia-made-easy-final-cut-pro-tutorials/"><u>Updated 2024 Approved VHS Nostalgia Made Easy Final Cut Pro Tutorials</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->

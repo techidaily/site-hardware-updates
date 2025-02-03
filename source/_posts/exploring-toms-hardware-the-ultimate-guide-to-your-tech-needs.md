@@ -1,7 +1,7 @@
 ---
 title: "Exploring Tom's Hardware: The Ultimate Guide to Your Tech Needs"
-date: 2024-08-19T04:15:27.183Z
-updated: 2024-08-20T04:15:27.183Z
+date: 2025-01-26T20:32:54.152Z
+updated: 2025-02-01T20:58:12.879Z
 tags:
   - cases
 categories:
@@ -28,6 +28,10 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
  (Image credit: Tom's Hardware)
 
  And while all sides of the Terra are amply vented (albeit without any dust filters), fan support is limited to a single 120 mm spinner at the bottom rear. In my building experience with the case, detailed below, even with a modular SFX power supply, that bottom area is going to be very occupied by cable slack. Plus, if you do put a fan there, you lose one of the two mounting places available for 2.5-inch drives.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fractal Design Terra Specs
 
@@ -68,8 +72,9 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
  While I didn't have the time to put together a full review before heading off to Computex, Fractal did send the case ahead of the launch date and, space constraints aside, there's a lot I like about it. It's surprisingly easy to build in for such a small chassis.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -82,16 +87,10 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
 
 ![Fractal Design Terra](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Fractal Design Terra](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  As you've probably noticed in the photos, the side panels flip up gull-wing style, and the rear of the frame is spring-mounted, so if you push back on the hinges, you can remove the side doors completely. Similarly, the top panel pulls back (via a stylish and handy faux-leather tab) and lifts off, giving you full access to three sides of the case for the build process.
@@ -99,8 +98,9 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
 ![Fractal Design Terra](https://cdn.mos.cms.futurecdn.net/GGZ7h2GYJ9xDyuCYcbGRUQ-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  Mini-ITX motherboard installation is dead simple. You'll want to install your cooler, RAM and any M.2 drives on the board first, then flip the case on its side and the motherboard drops right in, to be anchored via four screws on the pre-installed standoffs. Again, CPU cooler space is extremely limited. I installed a[Thermalright AXP90-X47](http://www.thermalright.com/product/axp90-x47/) cooler for my Ryzen 5 5600 CPU, but the smaller AMD Wraith or Intel stock coolers should fit here just fine (again, depending on how much GPU space you need on the other side, so be sure to double-check those numbers).
@@ -108,6 +108,10 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
  Once the motherboard is in you can wedge the connector for the pre-installed Gen 4 GPU riser cable into the slot on the motherboard, which is at the top here. Since the motherboard installs on what traditionally would be the rear side of a PC case, it's rotated 180 degrees from the typical orientation.
 
 ![Fractal Design Terra](https://cdn.mos.cms.futurecdn.net/hQRNNowsajoJZWAxs2Kk3R-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -126,12 +130,9 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
 ![Fractal Design Terra](https://cdn.mos.cms.futurecdn.net/cy4rnk357zphPGMR6K8oaQ-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  There's no[audio](https://tools.techidaily.com) jack here, which may bother some. But as this is a tiny case that's clearly designed to sit on your desk, the audio jacks on the motherboard aren't much more than a foot away at the back of the case. Part of me wants to see more USB ports up front, but again, those are within fairly easy reach around the back.  
@@ -140,9 +141,6 @@ No advertising on the website.
 
 ![Fractal Design Terra](https://cdn.mos.cms.futurecdn.net/PiQcTyM4XVJgWtYgom3aGQ-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  All in all, the Fractal Terra is a striking and mostly well-thought-out Mini-ITX case. I doubt it will have as wide an appeal as its larger North cousin since component and airflow options are far more limiting here. But if you don't need to pack in the absolute most powerful components (particularly on the CPU side) and you don't need more than a few storage drives, Fractal has once again delivered one of the prettiest cases available – especially if you want a respite from the RGB and aggressive designs that dominate the gaming side of the PC realm.
@@ -157,8 +155,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -166,4 +162,22 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-unlocking-advanced-vfx-techniques-expert-tips-on-chroma-key-kinemaster/"><u>[New] In 2024, Unlocking Advanced VFX Techniques Expert Tips on Chroma Key (KineMaster)</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-effortless-techniques-to-share-igtv-in-stories/"><u>[Updated] Effortless Techniques to Share IGTV in Stories</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-quick-reference-how-to-insert-vimeo-media-into-powerpoint-files/"><u>[Updated] In 2024, Quick Reference How to Insert Vimeo Media Into PowerPoint Files</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-ultimate-list-of-youtube-entrance-software/"><u>[Updated] In 2024, Ultimate List of YouTube Entrance Software</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-the-comprehensible-guide-to-fb-page-rank-boosting/"><u>[Updated] The Comprehensible Guide to FB Page Rank Boosting</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/a-complete-walkthrough-updating-and-downloading-xp-pen-tablet-control-programs/"><u>A Complete Walkthrough: Updating and Downloading XP-Pen Tablet Control Programs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-the-new-geforce-rtx-3070-drivers-optimized-for-windows-11-and-10/"><u>Download & Install the New GeForce RTX 3070 Drivers - Optimized for Windows 11 and 10</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-review-unveiling-the-2023-lineup-for-supreme-electric-yard-trimmers-on-zdnet/"><u>Expert Review: Unveiling the 2023 Lineup for Supreme Electric Yard Trimmers on ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fix-your-device-with-updated-elan-smbus-driver-step-by-step-guide-for-windows-users/"><u>Fix Your Device with Updated ELAN Smbus Driver: Step-by-Step Guide for Windows Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/guide-to-correcting-your-hp-screen-drivers-on-windows-11-8-or-7-operating-systems/"><u>Guide to Correcting Your HP Screen Drivers on Windows 11, 8 or 7 Operating Systems</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-poco-f5-5g-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Poco F5 5G</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/social-stream-top-8-viral-videos-for-2024/"><u>Social Stream Top 8 Viral Videos for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/tips-and-tricks-for-setting-up-your-samsung-galaxy-s23-tactical-edition-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Samsung Galaxy S23 Tactical Edition Phone Pattern Lock</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-fix-and-download-source-for-broadcom-ethernet-network-adapter-updates-under-windows-10-os/"><u>Ultimate Fix & Download Source for Broadcom Ethernet Network Adapter Updates Under Windows 10 OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-pc-with-the-newest-dolby-sound-drivers-for-enhanced-audio-on-windows-systems/"><u>Update Your PC with the Newest Dolby Sound Drivers for Enhanced Audio on Windows Systems</u></a></li>
+</ul></div>
 

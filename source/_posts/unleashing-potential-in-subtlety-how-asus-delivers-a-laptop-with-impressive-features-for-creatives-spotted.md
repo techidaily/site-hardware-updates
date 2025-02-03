@@ -1,7 +1,7 @@
 ---
 title: Unleashing Potential in Subtlety - How Asus Delivers a Laptop with Impressive Features for Creatives, Spotted
-date: 2025-01-19T00:22:18.915Z
-updated: 2025-01-24T21:15:17.062Z
+date: 2025-01-31T18:23:48.594Z
+updated: 2025-02-01T17:11:22.974Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -73,7 +73,7 @@ Asus' Vivobook Pro 15 does a good job playing media. Hi-res videos look stunning
 In line with my initial impression, the device is a little on the bulky side, but the extra heft is not a big deal because it's lightweight and the extra room allows for a wide array of ports. You get two USB-Cs, a pair of USB-A inputs that support transfer speeds of up to 5GBPS, HDMI, an ethernet port, and an SD card slot.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -112,21 +112,22 @@ If you want something more powerful, I suggest checking out the MSI Creator Z16 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-digitalscreen-app-assessment-review-for-2024/"><u>[New] DigitalScreen App Assessment Review for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-dominate-discussion-how-to-trend-on-social-media-platforms/"><u>[New] In 2024, Dominate Discussion How to Trend on Social Media Platforms</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-expertise-in-visuals-enhancing-pictures-with-words/"><u>[New] In 2024, Expertise in Visuals Enhancing Pictures with Words</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gourmet-guide-culinary-video-production/"><u>[Updated] In 2024, Gourmet Guide Culinary Video Production</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-digital-innovations-with-toms-hardware-guide/"><u>Exploring Digital Innovations with Tom's Hardware Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/google-strikes-back-with-bard-the-innovative-ai-built-to-compete-directly-with-microsofts-chatgpt/"><u>Google Strikes Back with Bard: The Innovative AI Built to Compete Directly With Microsoft's ChatGPT</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/identifying-malfunctioning-ram-expert-tips-from-yl-software-solutions/"><u>Identifying Malfunctioning RAM: Expert Tips From YL Software Solutions</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-tecno-spark-10-5g-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Tecno Spark 10 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/in-depth-insights-into-the-logitech-astro-a50-x-game-headsets-performance-across-various-platforms/"><u>In-Depth Insights Into the Logitech Astro A50 X Game Headset's Performance Across Various Platforms</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-cougar-gaming-chassis-showcases-stunning-rgb-turning-stand-for-collectible-figurines-unveiled-at-computex/"><u>Latest Cougar Gaming Chassis Showcases Stunning RGB Turning Stand for Collectible Figurines - Unveiled at Computex</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/lowest-price-on-pure-base-500dx-midi-tower-computer-case-just-84-available-now/"><u>Lowest Price on Pure Base 500DX Midi-Tower Computer Case: Just $84 Available Now</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/save-big-high-quality-corsair-4000d-atx-mid-tower-with-850w-power-supply-unit-just-139/"><u>Save Big: High-Quality Corsair 4000D ATX Mid Tower with 850W Power Supply Unit - Just $139!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-comprehensive-gadget-reviews-t17239718721769/"><u>Tom's Tech Insights: Comprehensive Gadget Reviews</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-your-guide-to-the-latest-in-computer-hardware/"><u>Tom's Tech Insights: Your Guide to the Latest in Computer Hardware</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-reviews-comprehensive-guide-to-the-latest-in-computer-hardware/"><u>Tom's Tech Reviews: Comprehensive Guide to the Latest in Computer Hardware</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-techniques-to-fix-win11-system-call-errors/"><u>Troubleshooting Techniques to Fix Win11 System Call Errors</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-mighty-thor-returns-odins-vow/"><u>[New] 2024 Approved Mighty Thor Returns Odin’s Vow</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-optimizing-youtube-content-for-instagram-platforms/"><u>[New] Optimizing YouTube Content for Instagram Platforms</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/pectacular-gaming-capture-options/"><u>[New] Spectacular Gaming Capture Options</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/nderstanding-earnings-potential-per-video-consumption-for-2024/"><u>[New] Understanding Earnings Potential per Video Consumption for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-capture-your-social-face-video/"><u>[Updated] Capture Your Social Face Video</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-samsung-galaxy-f34-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Samsung Galaxy F34 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/compatible-sm-bus-controller-software-downloads-for-windows-operating-systems-win11-to-win7/"><u>Compatible SM Bus Controller Software Downloads for Windows Operating Systems: Win11 to Win7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-power-of-ai-in-computing-with-amds-brand-new-ryzen-processors-featuring-strix-halo-and-kraken-point-upgrades/"><u>Discover the Power of AI in Computing with AMD's Brand-New Ryzen Processors Featuring Strix Halo & Kraken Point Upgrades</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-sades-headset-drivers-now-secure-and-compatible-with-windows-pcs/"><u>Download Sades Headset Drivers Now: Secure & Compatible with Windows PCs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-techkey-bluetooth-driver-compatible-with-windows-1078/"><u>Download Techkey Bluetooth Driver Compatible with Windows 10/7/8</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-vivo-s17e-devices-by-drfone-android/"><u>How to Reset Gmail Password on Vivo S17e Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-set-up-your-epson-wf-3540-printer-with-windows-drivers-quick-and-easy-steps/"><u>How to Set Up Your Epson WF-3540 Printer with Windows Drivers: Quick and Easy Steps</u></a></li>
+<li><a href="https://win-best.techidaily.com/how-to-successfully-view-and-fix-jpg-file-issues-on-your-windows-10-pc/"><u>How to Successfully View and Fix JPG File Issues on Your Windows 10 PC</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-the-top-10-apple-iphone-12-mini-emualtors-for-windows-mac-and-android-drfone-by-drfone-ios/"><u>In 2024, The Top 10 Apple iPhone 12 mini Emualtors for Windows, Mac and Android | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/risc-v-cpu-vulnerability-unveiled-the-ghostwrite-bug-enables-hackers-to-gain-elevated-privileges/"><u>RISC-V CPU Vulnerability Unveiled: The GhostWrite Bug Enables Hackers to Gain Elevated Privileges</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-installing-realtek-alc-network-adapter-drivers-in-windows-10/"><u>Step-by-Step Tutorial: Installing Realtek ALC Network Adapter Drivers in Windows 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-downloading-and-updating-thunderbolt-drivers-for-windows-computers/"><u>Ultimate Guide to Downloading and Updating Thunderbolt Drivers for Windows Computers</u></a></li>
 </ul></div>
 

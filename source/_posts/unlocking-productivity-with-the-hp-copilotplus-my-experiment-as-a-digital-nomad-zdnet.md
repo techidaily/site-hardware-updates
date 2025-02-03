@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Productivity with the HP Copilot+: My Experiment as a Digital Nomad | ZDNet"
-date: 2025-01-22T18:43:54.026Z
-updated: 2025-01-24T16:59:39.653Z
+date: 2025-01-27T16:44:21.869Z
+updated: 2025-02-01T20:00:09.245Z
 tags:
   - laptops
 categories:
@@ -42,7 +42,7 @@ This laptop isn't solely for business professionals, though. It's well-rounded e
 Right now is the best time to buy the [Lenovo Gen 12 ThinkPad X1 Carbon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D1D5J1J1%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ccc7251f7-0016-403a-b148-f5d67345d58a%7Cdtp&dtb=1) since it's currently on sale at Amazon for $1,520 -- nearly $1,000 off the original price. I should also mention that there is a variant of the laptop with a 2.8K OLED display, which is the model [I tested back in February](https://www.zdnet.com/article/the-thinkpad-i-recommend-for-hybrid-workers-is-not-lenovos-newest-model/). The [OLED version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D5SNKGZ4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ccc7251f7-0016-403a-b148-f5d67345d58a%7Cdtp&dtb=1) is much more expensive, but I recommend it as an alternative if you can afford it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -79,17 +79,19 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-hearthsongs-the-quintessential-playlist-for-engagement/"><u>[New] Hearthsongs The Quintessential Playlist for Engagement</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-the-finest-televisions-on-the-market-top-ten-4ks-for-2024/"><u>[New] The Finest Televisions on the Market – Top Ten 4Ks for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/evaluating-the-dell-inspiron-3671-desktop-a-reliable-choice-for-everyday-computing-needs/"><u>Evaluating the Dell Inspiron ^ 3671 Desktop: A Reliable Choice for Everyday Computing Needs</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-it-time-to-switch-analyzing-performance-differences-between-m3-and-m1-macbook-pro-models/"><u>Is It Time to Switch? Analyzing Performance Differences Between M3 & M1 MacBook Pro Models</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/losung-fur-nicht-formatierte-sd-karten-wiederherstellungsmoglichkeiten-erklart/"><u>Lösung Für Nicht Formatierte SD-Karten: Wiederherstellungsmöglichkeiten Erklärt</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/master-your-setup-with-expert-choices-from-toms-hardware-domain/"><u>Master Your Setup with Expert Choices From Tom's Hardware Domain</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-computer-components-through-toms-hardware-wisdom/"><u>Mastering Computer Components Through Tom's Hardware Wisdom</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-hardware-tips-and-insights-from-toms-tech-hub/"><u>Mastering Hardware: Tips and Insights From Tom’s Tech Hub</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-the-virtual-arena-microsoft-enhances-gaming-experience-with-improved-copilot-technologies/"><u>Mastering the Virtual Arena: Microsoft Enhances Gaming Experience with Improved Copilot Technologies</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-the-digital-realm-lessons-from-toms-hardware/"><u>Navigating the Digital Realm - Lessons From Tom's Hardware</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/stunning-evaluation-and-different-paths/"><u>Stunning Evaluation & Different Paths</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-for-premiere-pro-full-screen-viewing-for-2024/"><u>The Ultimate Guide for Premiere Pro Full Screen Viewing for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elevate-your-videography-7-free-sound-effects-collection/"><u>[Updated] 2024 Approved Elevate Your Videography - 7 Free Sound Effects Collection</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-harness-10-tools-for-free-thumbnail-acquisition/"><u>[Updated] In 2024, Harness 10 Tools for FREE Thumbnail Acquisition</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-shortcut-to-engagement-analyzing-facebooks-video-trends/"><u>[Updated] Shortcut to Engagement Analyzing Facebook's Video Trends</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-inside-the-metaverse-comprehending-6-intricate-instances/"><u>2024 Approved Inside the Metaverse Comprehending 6 Intricate Instances</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/achieve-professional-results-optimize-and-upgrade-your-videos-using-winxvideo-ai/"><u>Achieve Professional Results: Optimize and Upgrade Your Videos Using Winxvideo AI</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-reschedules-ryzen-9000-release-quality-assurance-extended-to-august-global-shipments-recalled/"><u>AMD Reschedules Ryzen 9000 Release: Quality Assurance Extended to August; Global Shipments Recalled</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-picks-most-innovative-bluetooth-handsets-of-2024/"><u>Expert Picks: Most Innovative Bluetooth Handsets of 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-your-perfect-match-latest-hp-deskjet-2-2652-printer-drivers-for-all-windows-versions-1087-and-11/"><u>Find Your Perfect Match: Latest HP Deskjet 2지트 2652 Printer Drivers for All Windows Versions (10,8,7 & 11)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-sony-vaio-drivers-optimized-performance-and-stability-on-windows-systems/"><u>Get the Latest Sony VAIO Drivers: Optimized Performance & Stability on Windows Systems</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-chrome-os-best-free-video-capture-tools-compilation/"><u>In 2024, Chrome OS Best Free Video Capture Tools Compilation</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-xiaomi-redmi-note-13-proplus-5g-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Xiaomi Redmi Note 13 Pro+ 5G FRP Locks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-logitech-brio-hd-camera-drivers-on-windows-11-complete-guide-and-links/"><u>Install Logitech BRIO HD Camera Drivers on Windows 11: Complete Guide and Links</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/production-hiccup-delays-launch-of-amd-ryzen-9000-series-unexpected-ryzen-7-chip-surfaces-impacts-ryzen-5-9600x-availability/"><u>Production Hiccup Delays Launch of AMD Ryzen 9000 Series; Unexpected Ryzen 7 Chip Surfaces, Impacts Ryzen 5 9600X Availability</u></a></li>
 </ul></div>
 

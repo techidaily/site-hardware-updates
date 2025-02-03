@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Our Laptop Benchmarking Process: A Behind-the-Scenes Look at ZDNet"
-date: 2025-01-20T02:31:56.354Z
-updated: 2025-01-24T22:36:56.694Z
+date: 2025-01-29T22:48:44.329Z
+updated: 2025-02-01T20:23:38.758Z
 tags:
   - laptops
 categories:
@@ -30,10 +30,6 @@ A Chromebook is a portable computer [running ChromeOS](https://www.zdnet.com/art
 
 David Gewirtz/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is the difference between a Chromebook and a laptop?
 
 A Chromebook is a portable computer running ChromeOS. They tend to have lower-powered processors, less RAM, and less local storage than their laptop counterparts. There are, however, some high-end Chromebooks that outstrip the specs of most contemporary laptops.
@@ -43,6 +39,10 @@ In this comparison, "laptop" refers to portable computers running traditional op
 **More: [How to get Photoshop for free](https://www.zdnet.com/article/how-to-get-photoshop-for-free/)**
 
 For example, a person editing a photo on a standard laptop could use locally installed programs like Microsoft Paint, Adobe Photoshop, or GIMP, or photo-editing web apps like [Pixlr](https://pixlr.com/), [Imgur](https://imgur.com/edit?deletehash=TBFOmNPuPRoKQfh), or [Photoshop on the web (beta)](https://photoshop.adobe.com/). A user wanting to complete the same task on a Chromebook would need to rely on web apps, as locally installed options like Paint and Photoshop are not compatible with ChromeOS.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Can a Chromebook do everything a laptop can?
 
@@ -55,6 +55,10 @@ Laptops, however, for some tasks, are better for some niche and professional use
 This makes Chromebooks excellent for students, office workers, and anyone who works or plays entirely on the web, but not so great for people who need the often more advanced capabilities of locally installed software.
 
 Getty
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Can Chromebooks be used for gaming?
 
@@ -70,10 +74,6 @@ That said, you can get close to the ideal experience by sticking with lighter-we
 
 Michael Gariffo/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Do Chromebooks need to be connected to the Internet?
 
 Ideally, yes, but some tasks can be completed offline. Because Chromebooks rely heavily on connected services like cloud-based storage and web apps, a lack of connectivity might leave you without access to important files or the software you need. 
@@ -86,15 +86,7 @@ To be clear, you shouldn't purchase a Chromebook if you don't intend to have it 
 
 Google
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Are Chromebooks expensive?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -109,7 +101,7 @@ You could buy a very low-end laptop for around the same price, but the build qua
 As an exception, there are several more high-priced Chromebooks available. High-end models like [Google's Pixelbook Go](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fgoogle-pixelbook-go-13-3-touch-screen-chromebook-intel-core-m3-8gb-memory-64gb-solid-state-drive-just-black%2F6382912.p&publisher_slug=itechdaily19598&exclusive=1) or [Samsung's Galaxy Chromebook](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Chromebook-Computer-Touchscreen-Processor%2Fdp%2FB088T2C912%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4fe93112-1c69-4877-99b1-6f6ee78fc62d%7Cdtp&dtb=1) incorporate premium materials, high-resolution displays, and internal components that would be at home in a high-end laptop. While these models are overkill for most Chromebook users, they could suit someone expecting their Chromebook to be their primary computing device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is the best Chromebook?
@@ -123,6 +115,10 @@ The answer depends on your intended uses. Need a couch PC for basic browsing, ma
 If you want my quick picks for the best Chromebooks overall, I've included a few below with my reasoning behind choosing them. 
 
 Getty
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### For mixed use:
 
@@ -141,6 +137,10 @@ I've reviewed two of the three Chromebooks included in the first wave of gaming-
 [Google Pixelbook Go $699.99 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB07YMGQYP6%2Fref%3Dasc%5Fdf%5FB07YMGQYP61728644400000%3Fcreative%3D395261%26creativeASIN%3DB07YMGQYP6%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4fe93112-1c69-4877-99b1-6f6ee78fc62d%7Cdtp&dtb=1)
 
 $650 might seem pricey when options like the great Lenovo model above exist. But, the exceptional build quality, 12-hour battery life, and laptop-class CPU all make a great case for this being the Chromebook to buy if you intend to be a one-computer traveler. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### For young students:
 
@@ -178,24 +178,24 @@ I wouldn't call the Dell Chromebook 3100 disposable at $100, but it's as close a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-perfecting-the-art-of-slow-motion-in-snapchat-stories/"><u>[New] 2024 Approved Perfecting the Art of Slow Motion in Snapchat Stories</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-leading-edge-apps-the-ultimate-10-for-real-time-gymnastics-and-hockey-games/"><u>[New] Leading Edge Apps The Ultimate 10 for Real-Time Gymnastics and Hockey Games</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-elevate-your-edits-with-these-top-5-tools-no-youtube/"><u>[Updated] 2024 Approved Elevate Your Edits with These Top 5 Tools (No Youtube)</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/best-free-subtitles-and-downloader-guide-for-2024/"><u>Best Free Subtitles & Downloader Guide for 2024</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/comment-optimiser-la-conversion-avchd-m2ts-vers-mp4-sans-compromettre-la-qualite-solutions-chez-nous/"><u>Comment Optimiser La Conversion AVCHD M2TS Vers MP4 Sans Compromettre La Qualité : Solutions Chez Nous</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/exploring-the-microsoft-surface-duo-2-a-first-impression-after-two-weeks-insights-and-confusion-zdnet/"><u>Exploring the Microsoft Surface Duo 2: A First Impression After Two Weeks - Insights & Confusion | ZDNet</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/how-to-unlink-lively-logos-from-your-profile-mobilepc/"><u>How to Unlink Lively Logos From Your Profile (Mobile/PC)</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-ultimate-online-video-snatcher-download-favorites-instantly/"><u>In 2024, Ultimate Online Video Snatcher Download Favorites Instantly</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/precision-tech-gear-your-guide-to-toms-hardware-essentials/"><u>Precision Tech Gear - Your Guide to Tom's Hardware Essentials</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/razer-blade-14-laptop-assessment-compact-design-meets-raw-performance-at-a-premium/"><u>Razer Blade 14 Laptop Assessment: Compact Design Meets Raw Performance at a Premium</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/revolutionize-your-gaming-experience-with-the-newly-launched-tuxedos-sirium-16-gen2-advanced-amd-linux-pc-with-stunning-165hz-display-now-available-for-only15/"><u>Revolutionize Your Gaming Experience With The Newly Launched Tuxedo's Sirium 16 Gen2 - Advanced AMD Linux PC with Stunning 165Hz Display, Now Available for Only €1699+</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/snapdragon-laptop-reviews-in-action-exclusive-live-coverage-and-impressions/"><u>Snapdragon Laptop Reviews in Action: Exclusive Live Coverage and Impressions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/starfive-unveils-new-laptop-mainboard-partnered-with-framework-integrates-cutting-edge-risc-v-processor-technology/"><u>StarFive Unveils New Laptop Mainboard: Partnered With Framework, Integrates Cutting-Edge RISC-V Processor Technology</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/tech-savvy-shoppers-rejoice-grab-the-upgraded-apple-macbook-pro-w-m3-chip-for-less-before-amazon-prime-day/"><u>Tech Savvy Shoppers Rejoice: Grab the Upgraded Apple MacBook Pro W/ M3 Chip for Less Before Amazon Prime Day!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-future-of-aio-workstations-unveiled-flying-lotuss-innovative-design-merging-a-framework-laptop-with-eco-friendly-3d-printing-techniques-and-battery-ener12/"><u>The Future of AIO Workstations Unveiled - Flying Lotus's Innovative Design Merging a Framework Laptop with Eco-Friendly 3D Printing Techniques and Battery Energy Storage</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-power-of-unity-apples-whole-ecosystem-as-the-key-to-winning-over-gamers-on-mac/"><u>The Power of Unity: Apple's Whole Ecosystem as the Key to Winning Over Gamers on Mac</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-guide-to-computer-components-by-toms-engineering-experts/"><u>The Ultimate Guide to Computer Components by Tom's Engineering Experts</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/top-5-essential-factors-when-purchasing-a-pre-owned-ipad/"><u>Top 5 Essential Factors When Purchasing a Pre-Owned iPad</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-lava-blaze-curve-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Lava Blaze Curve 5G FRP Bypass</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-masterful-text-setups-in-adobe-after-effects/"><u>[New] Masterful Text Setups in Adobe After Effects</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-capturing-the-horizon-expert-techniques-in-drone-filmmaking/"><u>[Updated] 2024 Approved Capturing the Horizon Expert Techniques in Drone Filmmaking</u></a></li>
+<li><a href="https://win11.techidaily.com/7-strategies-to-rectify-chromes-profile-problems-on-desktop/"><u>7 Strategies to Rectify Chrome's Profile Problems on Desktop</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/comprehensively-understanding-and-mastering-win10s-zoom-use/"><u>Comprehensively Understanding and Mastering Win10's Zoom Use</u></a></li>
+<li><a href="https://fox-within.techidaily.com/customize-system-center-configuration-manager-user-dialog-box/"><u>Customize System Center Configuration Manager User Dialog Box</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722968691637-download-and-update-killer-network-driver-now-compatible-with-windows-11-8-and-7-no-cost/"><u>Download and Update Killer Network Driver Now: Compatible with Windows 11, 8, and 7 - No Cost</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-the-latest-canon-dr-c225-printer-drivers-compatible-with-windows-11-10-and-8/"><u>Download the Latest Canon DR-C225 Printer Drivers: Compatible with Windows 11, 10 & 8</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722967737808-ensure-optimal-performance-with-the-latest-canon-pixma-ts3322-drivers-download-now/"><u>Ensure Optimal Performance with the Latest Canon PIXMA TS3322 Drivers – Download Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fixing-xbox-controller-connection-problems-in-windows-10-8-and-7/"><u>Fixing Xbox Controller Connection Problems in Windows 10, 8 & 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-audio-drivers-free-download-quickly-and-easily/"><u>HP Audio Drivers | Free Download | Quickly & Easily</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-facebooks-360-livestream-a-complete-comprehensive-guide/"><u>In 2024, Facebook's 360 Livestream A Complete Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/newest-upgrade-enhanced-hid-standard-mouse-software/"><u>Newest Upgrade: Enhanced HID Standard Mouse Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-and-easy-guide-how-to-install-latest-acer-audio-drivers/"><u>Quick and Easy Guide: How to Install Latest Acer Audio Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-fixes-to-resolve-elgato-hd60-driver-troubles-easily-and-effectively/"><u>Quick Fixes to Resolve Elgato HD60 Driver Troubles Easily & Effectively</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/sharpen-your-shots-easy-cropping-methods-with-iphone/"><u>Sharpen Your Shots Easy Cropping Methods with iPhone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/simple-steps-to-download-amd-ryzen-5-2600-graphics-driver/"><u>Simple Steps to Download AMD Ryzen 5 2600 Graphics Driver</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-how-to-easily-install-new-drivers-for-asus-maximus-x-hero-gpus/"><u>Step-by-Step Tutorial: How to Easily Install New Drivers for ASUS Maximus X Hero GPUs</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/swift-recording-pro-with-voice-commentary-feature-for-2024/"><u>Swift Recording Pro with Voice Commentary Feature for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-the-ultimate-guide-to-computer-components/"><u>Tom's Tech Insights: The Ultimate Guide to Computer Components</u></a></li>
 </ul></div>
 

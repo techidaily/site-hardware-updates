@@ -1,7 +1,7 @@
 ---
 title: "Turbocharge Your Mobile Gameplay: Nextorage's Cutting-Edge SSD Sets New Speed Benchmark at 7.4GB/S!"
-date: 2024-08-19T04:13:59.596Z
-updated: 2024-08-20T04:13:59.596Z
+date: 2025-01-28T17:44:39.805Z
+updated: 2025-02-01T21:54:20.549Z
 tags:
   - components
 categories:
@@ -29,6 +29,10 @@ Japan-based SSD maker Nextorage has unveiled an all-new PCIe Gen 4 M.2 SSD aimed
 
  Despite its small size, the new Nextorage drive is one of only a couple of M.2 2230 drives that can hit speeds similar to those of larger outgoing PCIe Gen 4 M.2 2280 class drives and get close to the bandwidth limitations of PCIe Gen 4\. With a read speed of nearly seven and a half gigabytes per second, the G Series ME is the fastest M.2 2230 drive on the market. Its closest competitor is the [Corsair MP600 Mini,](https://tools.techidaily.com) which hits read speeds of 7GB/s flat.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -43,8 +47,6 @@ Japan-based SSD maker Nextorage has unveiled an all-new PCIe Gen 4 M.2 SSD aimed
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -52,8 +54,18 @@ Japan-based SSD maker Nextorage has unveiled an all-new PCIe Gen 4 M.2 SSD aimed
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-audible-illusion-how-does-this-voice-change-application-work-alternatives-awaits/"><u>[New] Audible Illusion How Does This Voice Change Application Work? Alternatives Awaits</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-navigating-facebook-for-video-sharing-tips-for-2024/"><u>[New] Navigating Facebook for Video Sharing Tips for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/extend-your-devices-lifespan-with-oppos-innovative-regenerating-phone-battery-technology/"><u>Extend Your Device's Lifespan with Oppo's Innovative, Regenerating Phone Battery Technology</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199747968-genetics-play-a-significant-role-in-an-individuals-risk-of-developing-coronary-artery-disease-alongside-lifestyle-factors/"><u>Genetics Play a Significant Role in an Individual's Risk of Developing Coronary Artery Disease, Alongside Lifestyle Factors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-windows-mail-overcoming-hurdle-x-error-0x80072746/"><u>Master Windows Mail: Overcoming Hurdle X, Error 0X80072746</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-windows-11s-app-guard-for-cammic/"><u>Navigating Windows 11’S App Guard for Cam/Mic</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/new-vs-old-choosing-between-the-latest-mid-range-phones-and-previous-generation-flagships/"><u>New Vs. Old: Choosing Between the Latest Mid-Range Phones and Previous Generation Flagships</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/review-of-coros-apex-2-pro-rise-in-affordable-performance-watches-insights/"><u>Review of Coros Apex 2 Pro: Rise in Affordable Performance Watches - Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/rising-trend-increasing-popularity-of-purchasing-pre-owned-mobile-devices/"><u>Rising Trend: Increasing Popularity of Purchasing Pre-Owned Mobile Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-how-to-properly-exit-programs-on-your-android-smartphone-or-tablet/"><u>Step-by-Step Tutorial: How to Properly Exit Programs on Your Android Smartphone or Tablet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-picks-must-watch-series-on-the-max-network-today/"><u>Top Picks: Must-Watch Series on the MAX Network Today</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

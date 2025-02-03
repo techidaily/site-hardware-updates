@@ -1,7 +1,7 @@
 ---
 title: "Budget-Friendly High Speed Storage Solution From Kingston: Experience the NV3 M.2 SSD, Featuring PCIe 4.0 for 6GB/S+ Performance"
-date: 2024-08-19T04:13:52.168Z
-updated: 2024-08-20T04:13:52.168Z
+date: 2025-01-25T21:22:46.820Z
+updated: 2025-02-01T19:36:28.645Z
 tags:
   - components
 categories:
@@ -16,6 +16,10 @@ This week, French brand Wika, known best for selling rebadged Huawei devices in 
  Compared to other eGPU solutions, the Wiko Hi GT Cube doesn't seem particularly concerned with expanding storage or I/O. Instead, the focus is on the total 100-watt charging capacity. The overall pricing of 399 Chinese yuan (broadly equivalent to about $558) places it lower than most other 7600M XT eGPUs, which usually exceed $600.
 
  Also, while Wika's Wiko Hi GT may come from a company that primarily sells rebadged Huawei products, they don't seem to be a Huawei subsidiary...though the Hi GT's China launch appears to have been done with the recent release of the Huawei MateBook GT 14 in mind.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Wiko Hi GT Cube eGPU Specifications
 
@@ -37,6 +41,10 @@ This week, French brand Wika, known best for selling rebadged Huawei devices in 
 
  Overall, the Wiko Hi GT Cube does seem to be a compelling offer, and it is like a suitable companion to the Huawei Mate GT 14 laptop, but with one very crucial downside. While Thunderbolt support is listed, the specific version of Thunderbolt is not. Thunderbolt 3 and 4 are most likely considering the usage of USB4— and while all three standards are typically capped at 40 Gigabits, Thunderbolt 4 is still the best for driving an eGPU. OCuLink would be even better, but unfortunately, it isn't present in any form.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +59,6 @@ This week, French brand Wika, known best for selling rebadged Huawei devices in 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +66,22 @@ This week, French brand Wika, known best for selling rebadged Huawei devices in 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-compendium-of-video-camera-classifications/"><u>[New] 2024 Approved Compendium of Video Camera Classifications</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-history-buffs-favorite-youtube-history-channels/"><u>[New] History Buffs' Favorite YouTube History Channels</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1-android-embraces-seamless-lost-device-recovery-mirroring-iclouds-find-your-iphone/"><u>1. Android Embraces Seamless Lost Device Recovery, Mirroring iCloud's Find Your iPhone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1-unveiling-the-secrets-of-google-discover-a-comprehensive-guide-for-mobile-users/"><u>1. Unveiling the Secrets of Google Discover: A Comprehensive Guide for Mobile Users</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-vivo-y56-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Vivo Y56 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/6-from-just-599/"><u>6 - From Just $599</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/android-device-longevities-forecasting-update-support-duration/"><u>Android Device Longevities: Forecasting Update Support Duration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-protection-features-in-windows-11-with-rufus-expertise/"><u>Bypassing Protection Features in Windows 11 with Rufus Expertise</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/choose-versatility-over-gimmicks-opt-for-a-separate-refrigerator-and-ipad-rather-than-a-smart-fridge/"><u>Choose Versatility Over Gimmicks: Opt for a Separate Refrigerator and iPad Rather than a Smart Fridge</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-tutorial-on-powering-off-any-android-smartphone/"><u>Complete Tutorial on Powering Off Any Android Smartphone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/join-forces-with-friends-the-ultimate-tutorial-on-creating-tiktok-duets/"><u>Join Forces with Friends: The Ultimate Tutorial on Creating TikTok Duets</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722985603099-success-fixing-that-annoying-pixel-tear-up-problem-now/"><u>Success! Fixing That Annoying Pixel Tear-Up Problem Now!</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-beginners-blueprint-for-mobile-youtube-videos-for-2024/"><u>The Beginner's Blueprint for Mobile YouTube Videos for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/us-launch-of-repairable-fairphone-4-an-exciting-update-with-surprising-elements/"><u>US Launch of Repairable Fairphone 4: An Exciting Update with Surprising Elements</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/weekday-wisdom-discovering-the-layers-of-korean-culture/"><u>Weekday Wisdom: Discovering the Layers of Korean Culture</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

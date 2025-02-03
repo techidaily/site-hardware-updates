@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Computer Gear From Tom's Electronics Showcase
-date: 2024-08-19T04:16:20.924Z
-updated: 2024-08-20T04:16:20.924Z
+date: 2025-01-25T23:05:23.807Z
+updated: 2025-02-01T22:13:25.466Z
 tags:
   - build
 categories:
@@ -31,14 +31,15 @@ thumbnail: https://cdn.mos.cms.futurecdn.net/5e7tcB7ninYDsRjVKYpGMU-320-80.jpg
 4. [System Value Compared](https://tools.techidaily.com)
 5. $912 AMD LAN Box PC
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## $912 AMD LAN Box PC
 
  Even though my Intel-based revision of this quarter vindicates my assessments last quarter, a number of readers are still convinced that a properly cooled and overclocked 860K is the gateway to budget gaming goodness. After experiencing the limitations and frustrations last quarter, I still have my reservations. However, the SBM is a perfect place to empirically test this and give AMD's budget quad-core every chance to prove itself.
 
 ![](https://cdn.mos.cms.futurecdn.net/vaZRhuXWqcyB98KdTMVaK3-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  For your bonus build pleasure, here's the conclusion to the Munchkin Saga, Episode III: Revenge of 860K.
 
@@ -89,28 +90,17 @@ Deepcool Gamer Storm Gabriel
 
  Every component is identical to the Intel build earlier this week except the CPU, cooler and motherboard.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ## The Definition of Insanity
 
  Some of you out there might be groaning and asking, "What, this again?" Hold on a minute. Those asking for a better 860K overclock have a valid argument. The 860K was handicapped last quarter with insufficient cooling to get any kind of meaningful overclock. You can't argue with that. This time around the CPU gets better treatment in the form of an aftermarket cooler and a larger case. So no, we're not trying the exact same thing and expecting different results. Do I expect the 860K to outperform the i3-4170? No, I don't. However, in order for me to prove that one way or the other, I need hard numbers and data. I'm curious to see if it can close the gap, if not overcome it.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Alternate Component Selection
 
  I don't need to spend time explaining the same parts from[two days ago](https://tools.techidaily.com) . To save space and time, I'll only address the three new components.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
@@ -138,25 +128,27 @@ Deepcool Gamer Storm Gabriel
 
 [View Deal](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-8198437440134718399%26murl%3Dhttp%253A%252F%252Fwww.newegg.com%252FProduct%252FProduct.aspx%253Fcm%255Fmmc%253Dbac-tomshardwaresbm-%255F-systembuildereditorial-%255F-CPU%2BFans%2B%2526%2BHeatsinks-%255F-N82E16835856007%2526Item%253DN82E16835856007%2526IsFeedbackTab%253DTrue%2526nm%255Fmc%253DExtBanner)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ## Assembly
 
  The only significant change in assembly of this against the Intel build is the CPU cooler. And I ran into fitment issues with it. While I specifically got the low profile version Ballistix memory kit, AMD's rectangular mounting bracket meant the cooler could only be installed in two orientations. Both are problematic with this motherboard. The Gabriel is thinnest on the end opposite of the heat pipe curve. This part extends farthest from the CPU socket and can clear most RAM modules. On either side, the fins have a small step making them a little thicker. This edge of the cooler is a millimeter or two too thick to fully clear the RAM on the side, touching the very top edge of the RAM heat spreader.
 
 ![](https://cdn.mos.cms.futurecdn.net/nKfSxuUzQNwqBkyJ4996bk-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If the fins were a little thinner or my RAM didn't have a heat spreader, this would be a non-issue. It's still not technically a problem. It doesn't keep the RAM from being installed, it doesn't even put flex on the RAM stick. It's just annoying that a cooler marketed as designed specifically for ITX cooling seems to be borderline incompatible with every current AMD ITX motherboard (every model on Newegg right now has the CPU socket oriented the same way). Perhaps some of them have RAM slots a little farther from the CPU socket, which would solve this, but if Deepcool wanted to be universally compatible, shaving a few millimeters off the fins would have accomplished this without impacting thermal performance.
 
 ![](https://cdn.mos.cms.futurecdn.net/EkXfRYe3XW8vhT2PuH7XkJ-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
  The rest of the assembly went just peachy. The slightly different port layout of the motherboard necessitated different cable routing, but that's it. Everything else is the exact same as the Intel build from a few days ago.
 
 ![](https://cdn.mos.cms.futurecdn.net/kiyNGE2ogxSRTZjnNEBoST-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Overclocking
 
@@ -170,12 +162,17 @@ Deepcool Gamer Storm Gabriel
 
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  The RAM caused me no end of heartburn and frustration. I kept running into seemingly random crashes, regardless of RAM timings. I worried the RAM was somehow bad, but it worked flawlessly in the Intel build. After a quick appeal for help to Thomas, I found the motherboard simply required at least 1.64V to run the RAM, even at stock speeds. Again, the Intel build had no problem with 1.5V. I've never seen a motherboard that's more stable overclocked than at stock speeds, until now.
 
@@ -189,8 +186,6 @@ Deepcool Gamer Storm Gabriel
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -198,4 +193,24 @@ Deepcool Gamer Storm Gabriel
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-top-5-affordable-drones-under-500/"><u>[New] In 2024, Top 5 Affordable Drones Under $500</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ransform-your-video-editing-youtube-tunes-in-imovie-for-2024/"><u>[New] Transform Your Video Editing YouTube Tunes in iMovie for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-zero-downloads-the-ultimate-list-of-seamless-gif-to-video-tools-for-2024/"><u>[New] Zero Downloads The Ultimate List of Seamless GIF to Video Tools for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-tweettube-downloader-streamline-youtube-and-twitvid-transfer/"><u>[Updated] TweetTube Downloader Streamline YouTube & TwitVid Transfer</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/access-downloads-for-universal-pci-device-software-supporting-all-windows-11-10-8-and-7-systems/"><u>Access Downloads for Universal PCI Device Software Supporting All Windows 11, 10, 8, and 7 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amds-latest-breakthrough-zen-ebrushing-details-on-compact-core-reduction-and-innovative-soc-with-enhanced-dual-ccx-configuration/"><u>AMD's Latest Breakthrough: Zen Ebrushing Details on Compact Core Reduction & Innovative SoC with Enhanced Dual CCX Configuration</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-installation-guide-get-the-latest-elan-smbus-driver-for-windows-systems/"><u>Easy Installation Guide: Get the Latest ELAN SMBus Driver for Windows Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-instructions-download-and-install-brother-l2absolutely-here-are-five-new-seo-friendly-titles-similar-to-brother-mfc-l2700dw-driver-download-and-install28/"><u>Easy Instructions: Download and Install Brother L2absolutely, Here Are Five New SEO-Friendly Titles Similar to Brother MFC-L2700DW Driver Download & Install for Windows:</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-repair-guide-for-lenovo-usb-driver-problems/"><u>Effortless Repair Guide for Lenovo USB Driver Problems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/experts-choice-6-premier-chatgpt-extensions-compatible-with-vs-code/"><u>Experts' Choice: 6 Premier ChatGPT Extensions Compatible with VS Code</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-amd-ryzen-itwrkzn-thri-sntikwnditizdrivers/"><u>Get the Latest AMD Ryzen ˈiːtwɜrkzɪn Θriː ˈsɛntiːkwʌnˌdʒiːtizdrivers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-illuminating-your-space-naturally-interior-wise/"><u>In 2024, Illuminating Your Space Naturally, Interior-Wise</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/logitech-m705-driver-download-and-update-easily/"><u>Logitech M705 - Driver Download and Update Easily</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-energy-efficiency-with-windows-11-a-deep-dive-into-battery-usage-analysis/"><u>Mastering Energy Efficiency with Windows 11: A Deep Dive Into Battery Usage Analysis</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/reviving-your-web-experience-effective-methods-to-address-google-chrome-has-stopped-working/"><u>Reviving Your Web Experience: Effective Methods to Address 'Google Chrome Has Stopped Working'</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/secure-download-of-hp-elitebook-x360-1030-g2-proprietary-software-and-driver-pack/"><u>Secure Download of HP EliteBook X360 1030 G2 Proprietary Software & Driver Pack</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/tune-into-performance-experience-the-harmony-of-exercise-with-garmin-vivoactive-3s-music-capability/"><u>Tune Into Performance: Experience the Harmony of Exercise with Garmin Vivoactive 3'S Music Capability</u></a></li>
+</ul></div>
 

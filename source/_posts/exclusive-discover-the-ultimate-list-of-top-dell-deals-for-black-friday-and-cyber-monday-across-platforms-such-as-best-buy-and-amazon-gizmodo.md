@@ -1,7 +1,7 @@
 ---
 title: "Exclusive: Discover the Ultimate List of Top Dell Deals for Black Friday and Cyber Monday Across Platforms Such as Best Buy & Amazon | Gizmodo"
-date: 2025-01-22T18:57:36.306Z
-updated: 2025-01-25T00:36:47.926Z
+date: 2025-01-28T19:25:55.172Z
+updated: 2025-02-01T23:17:46.959Z
 tags:
   - laptops
 categories:
@@ -23,7 +23,7 @@ If you're shopping for a great deal on tech for this holiday season, ZDNET is tr
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Dell holiday deals
@@ -37,7 +37,7 @@ If you're shopping for a great deal on tech for this holiday season, ZDNET is tr
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## More Dell holiday deals
@@ -98,7 +98,7 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C6FJGWK9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C2eb0ed0a-1482-4b7e-ad6d-938aa7fb75d0%7Cdtp&dtb=1) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Dell laptop holiday deals
@@ -108,10 +108,6 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell Inspiron 5635](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-Inspiron-5000-5635-Laptop%2Fdp%2FB09BW611ZP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C2eb0ed0a-1482-4b7e-ad6d-938aa7fb75d0%7Cdtp&dtb=1): $836 (save $163)
 * [Dell Inspiron 16 Plus](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Flinks%2F9041660%2Ftype%2Fdlg%2Fsid%2Fzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%2Fhttps%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-laptops%2Finspiron-16-plus-laptop%2Fspd%2Finspiron-16-7630-laptop%2Fusichbts7630gbkt): $1,100 (save $350)
 * [Dell XPS 13 9310 13.4-inch touch laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-XPS-9310-Laptop-Touchscreen%2Fdp%2FB09PR52BHK%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C2eb0ed0a-1482-4b7e-ad6d-938aa7fb75d0%7Cdtp&dtb=1) for $1,071 (save $429)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best Dell desktop holiday deals
 
@@ -128,6 +124,10 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell SE2422HX 24-inch monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-inch-Monitor-1920-1080%2Fdp%2FB096MXR34N%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C2eb0ed0a-1482-4b7e-ad6d-938aa7fb75d0%7Cdtp&dtb=1): $100 (save $30)
 * [Dell 27-inch 4K FreeSync monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-S2721QS-Ultra-Thin-DisplayPort-Certified%2Fdp%2FB08DQWG3JG%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C2eb0ed0a-1482-4b7e-ad6d-938aa7fb75d0%7Cdtp&dtb=1) for $297 (save $33)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How did we choose these holiday deals?
 
 ZDNET only writes about deals we want to buy -- devices and products we desire, need, or would recommend. Our experts looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
@@ -135,7 +135,7 @@ ZDNET only writes about deals we want to buy -- devices and products we desire, 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the best holiday deals?
@@ -210,22 +210,21 @@ Here are the top deals by category we've found so far:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-uncomplicated-steps-for-archiving-gotomeeting-dialogues-for-2024/"><u>[New] Uncomplicated Steps for Archiving GoToMeeting Dialogues for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastery-in-motion-advanced-techniques-for-tiktok-edits/"><u>[Updated] Mastery in Motion Advanced Techniques for TikTok Edits</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-swiftly-address-iphone-photography-blur/"><u>[Updated] Swiftly Address iPhone Photography Blur</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-asus-rog-phone-7-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Asus ROG Phone 7</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722963850257-get-your-wireless-connection-up-to-date-fast-and-simple-ways-to-download-and-update-card-drivers/"><u>Get Your Wireless Connection Up-to-Date: Fast & Simple Ways to Download and Update Card Drivers!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-delete-a-windows-recovery-partition/"><u>How to Delete a Windows Recovery Partition</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-look-at-why-the-nintendo-switch-is-a-portable-gaming-powerhouse/"><u>In-Depth Look at Why the Nintendo Switch Is a Portable Gaming Powerhouse</u></a></li>
-<li><a href="https://article-files.techidaily.com/the-ultimate-guide-for-gopro-professionals-for-2024/"><u>The Ultimate Guide for GoPro Professionals for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-and-computer-components/"><u>Tom's Tech Insights and Computer Components</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-unraveling-computer-components/"><u>Tom's Tech Insights: Unraveling Computer Components</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-review-exploring-the-latest-in-computer-gear/"><u>Tom's Tech Review - Exploring the Latest in Computer Gear</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-review-expert-insights-and-in-depth-analysis/"><u>Tom's Tech Review: Expert Insights and In-Depth Analysis</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-specs-the-ultimate-guide/"><u>Tom's Tech Specs: The Ultimate Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/tuxedos-latest-marvel-sirius-16-gen2-all-amd-linux-game-pc-high-definition-165hz-screen-for-immersive-play-starting-at-1699/"><u>Tuxedo's Latest Marvel: Sirius 16 Gen2 All-AMD Linux Game PC - High-Definition 165Hz Screen for Immersive Play Starting at €1699</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unraveling-technology-secrets-at-toms-hardware-hub/"><u>Unraveling Technology Secrets at Tom's Hardware Hub</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-latest-in-pc-gear-with-tom/"><u>Unveiling the Latest in PC Gear with Tom</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-malfunctioning-hardware-drivers-with-windows-device-manager-on-windows-1110-by-drivereasy-guide/"><u>Use Device Manager to identify malfunctioning hardware drivers with Windows Device Manager on Windows 11/10</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-the-importance-of-b-roll-diversity-in-filmmaking/"><u>[New] The Importance of B-Roll Diversity in Filmmaking</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-highlighted-top-5-minimalist-action-camera-picks/"><u>[Updated] Highlighted Top 5 Minimalist Action Camera Picks</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-unlock-the-secret-to-insta-cash-with-our-guidebook/"><u>[Updated] In 2024, Unlock the Secret to Insta Cash with Our Guidebook</u></a></li>
+<li><a href="https://blog-min.techidaily.com/answer-unveiling-hypostatization-a-logical-fallacy-explained-in-detail/"><u>Answer]: Unveiling Hypostatization: A Logical Fallacy Explained in Detail</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-downloads-m-audio-fast-track-drivers-for-all-your-windows-systems-107881/"><u>Complete Downloads: M-Audio Fast Track Drivers For All Your Windows Systems (10/7/8/8.1)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/cutting-edge-code-helpers-top-7-alternatives-to-chatgpt/"><u>Cutting-Edge Code Helpers: Top 7 Alternatives to ChatGPT</u></a></li>
+<li><a href="https://win-answers.techidaily.com/discord-camera-malfunction-solved-easy-fixes-for-video-chat-troubles/"><u>Discord Camera Malfunction Solved - Easy Fixes for Video Chat Troubles</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-and-install-the-latest-corsair-k55-driver/"><u>How to Get and Install the Latest Corsair K55 Driver</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-motorola-moto-e13-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Motorola Moto E13 Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/intel-faced-with-lawsuit-in-depth-analysis-of-accused-cpu-instability-and-system-crashes/"><u>Intel Faced with Lawsuit: In-Depth Analysis of Accused CPU Instability and System Crashes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamless-setup-tips-acquiring-and-implementing-arduino-nano-drivers-for-windows-systems/"><u>Seamless Setup Tips: Acquiring and Implementing Arduino Nano Drivers for Windows Systems</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-allure-vs-warnings-of-virtual-reality-worlds/"><u>The Allure vs Warnings of Virtual Reality Worlds</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-reviving-an-unresponsive-roku-screen/"><u>The Ultimate Guide to Reviving an Unresponsive Roku Screen</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-computer-components-detailed-insights-and-reviews/"><u>Tom's Computer Components - Detailed Insights and Reviews</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-techniques-for-faulty-hp-monitor-drivers-on-windows-11-8-and-7/"><u>Troubleshooting Techniques for Faulty HP Monitor Drivers on Windows 11, 8 & 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-finding-and-installing-asus-laptop-driver-packages/"><u>Ultimate Guide: Finding & Installing ASUS Laptop Driver Packages</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Get Smart Savings on Tech: Save $80 When You Purchase the Ideal Lenovo"
-date: 2025-01-24T03:03:58.177Z
-updated: 2025-01-24T23:18:11.238Z
+date: 2025-01-28T22:07:56.171Z
+updated: 2025-02-01T19:38:54.125Z
 tags:
   - laptops
 categories:
@@ -23,7 +23,7 @@ Adrian Kingsley-Hughes/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -43,7 +43,7 @@ One tool I've found to be quite effective is the [StarTech.com Universal Laptop 
 [ZDNET RECOMMENDS StarTech.com Universal Laptop Lock This anti-theft laptop locking system features a push-to-lock system that allows for quick-lock without a key. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fexec%2Fobidos%2FASIN%2FB0CG9WXC8P%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1543b5d4-da8c-4f2b-8aec-3447eb62e023%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The specs
@@ -97,7 +97,7 @@ Adrian Kingsley-Hughes/ZDNET
 All in all, this is a tough lock that's well-designed to keep your stuff secured. The only real downside: a steel cable weighing some 5.2 oz (147 g) is a fair weight to lug around with you if you plan on using this when out and about.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -134,22 +134,22 @@ While a determined or skilled attacker could potentially overcome this lock, suc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-capturing-horizon-views-for-successful-drone-livestreams/"><u>[New] 2024 Approved Capturing Horizon Views for Successful Drone Livestreams</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-top-youtube-titles-crafted-by-ai/"><u>[New] 2024 Approved Top YouTube Titles Crafted by AI</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/solved-fallout-76-crash-issues/"><u>[Solved] Fallout 76 Crash Issues</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-zoom-efficiency-top-three-strategies-for-format-finesse/"><u>[Updated] In 2024, Zoom Efficiency Top Three Strategies for Format Finesse</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Samsung Galaxy M14 4G | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862792889-asus-tuf-monitor-sale-spot-the-ultra-smooth-165hz-gameplay-for-99-at-newegg/"><u>ASUS TUF Monitor Sale: Spot the Ultra-Smooth 165Hz Gameplay for $99 at Newegg</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bridging-dual-windows-mastering-data-consistency-using-aoemi/"><u>Bridging Dual Windows: Mastering Data Consistency Using AOEMi</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/elevate-your-gaming-high-end-nvidia-rtx-graphics-on-a-budget-get-the-msi-bravo-for-under-1k/"><u>Elevate Your Gaming: High-End NVIDIA RTX Graphics on a Budget – Get the MSI Bravo for Under $1K</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Xiaomi Redmi 13C? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-toms-hardware-informed-reviews-for-savvy-gadget-enthusiasts/"><u>Navigating Tom's Hardware: Informed Reviews for Savvy Gadget Enthusiasts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862671752-own-an-rtx-4070-equipped-hp-omen-save-300-today-with-limited-offer/"><u>Own an RTX 4070-Equipped HP Omen, Save $300 Today with Limited Offer!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862787974-thrill-your-senses-quality-gaming-monitor-at-an-unbelievable-bargain-acer-nitro-27/"><u>Thrill Your Senses: Quality Gaming Monitor at an Unbelievable Bargain - Acer Nitro 27!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-in-depth-reviews-of-cutting-edge-hardware/"><u>Tom's Tech Insights | In-Depth Reviews of Cutting-Edge Hardware 🖥️</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/top-10-tools-for-reversing-videos-online-a-comprehensive-guide/"><u>Top 10 Tools for Reversing Videos Online: A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-innovations-in-tech-the-toms-hardware-perspective/"><u>Unveiling Innovations in Tech: The Tom's Hardware Perspective</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-free-sound-effects-for-final-cut-pro-top-sources-and-integration-tips/"><u>Updated Free Sound Effects for Final Cut Pro Top Sources and Integration Tips</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/upgrade-your-game-with-the-new-tuxedo-sirius-16-gen2-premium-linux-gaming-laptop-featuring-amd-and-ips-display-available-from-1699/"><u>Upgrade Your Game with The New Tuxedo Sirius 16 Gen2 – Premium Linux Gaming Laptop Featuring AMD & IPS Display, Available From €1699</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-the-ultimate-guide-to-capturing-and-editing-high-quality-slow-motion-videos-for-instagram/"><u>[New] 2024 Approved The Ultimate Guide to Capturing and Editing High-Quality Slow Motion Videos for Instagram</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-free-online-image-perfection-at-your-fingertips/"><u>[New] Free Online Image Perfection at Your Fingertips</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-a-deep-dive-into-professional-3d-lut-creation/"><u>[Updated] 2024 Approved A Deep Dive Into Professional 3D LUT Creation</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-stop-facebook-video-pause-during-streaming/"><u>[Updated] 2024 Approved Stop Facebook Video Pause During Streaming</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/5-precise-ways-to-check-gpt-written-function/"><u>5 Precise Ways to Check GPT’ Written Function</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/all-about-the-apple-studio-display-specifications-innovative-features-and-key-information-at-a-glance-tech-insights/"><u>All About the Apple Studio Display: Specifications, Innovative Features, and Key Information at a Glance - Tech Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/behind-the-scenes-repairing-your-own-xbox-sensors/"><u>Behind-the-Scenes: Repairing Your Own Xbox Sensors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/combat-dxgierror-with-device-reattachment/"><u>Combat DXGI_ERROR with Device Reattachment</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722958202896-ensure-smooth-performance-update-targus-displaylink-drivers-in-windows-10-8-and-(br)7-today/"><u>Ensure Smooth Performance: Update Targus DisplayLink Drivers in Windows 10, 8 & <Br>7 Today</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-and-install-the-newest-drivers-for-your-hp-laserjet-p3n-p3015-with-this-comprehensive-resource-for-windows-users/"><u>Find and Install the Newest Drivers for Your HP LaserJet P3n (P3015) with This Comprehensive Resource for Windows Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-hp-image-transfer-app-for-windows-systems/"><u>Get the Latest HP Image Transfer App for Windows Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-properly-acquire-the-epson-xp-830-printer-driver-the-fixes-you-need/"><u>How To Properly Acquire the Epson XP-830 Printer Driver – The Fixes You Need</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/official-nvidia-drivers-now-available-geforce-rtx-3070-ti-for-win-1187-safe-to-download/"><u>Official NVIDIA Drivers Now Available: GeForce RTX 3070 Ti for Win 11/8/7 - Safe to Download!</u></a></li>
+<li><a href="https://win-web3.techidaily.com/outperforming-rivals-in-the-sing-along-arena-a-guide-to-elevate-your-karaoke-enterprise-using-pcdj/"><u>Outperforming Rivals in the Sing-Along Arena: A Guide to Elevate Your Karaoke Enterprise Using PCDJ</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-tutorial-on-updating-hid-keyboard-drivers-with-software/"><u>Quick Tutorial on Updating HID Keyboard Drivers with Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722975566645-surface-book-upgrades-easy-access-to-newest-drivers/"><u>Surface Book Upgrades: Easy Access to Newest Drivers!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-screens-software-find-and-install-the-right-aoc-driver-on-windows-systems/"><u>Update Your Screen's Software: Find and Install the Right AOC Driver on Windows Systems</u></a></li>
 </ul></div>
 

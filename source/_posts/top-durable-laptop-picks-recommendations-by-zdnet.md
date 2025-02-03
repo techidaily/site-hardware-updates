@@ -1,7 +1,7 @@
 ---
 title: Top Durable Laptop Picks - Recommendations by ZDNet
-date: 2025-01-20T18:50:31.535Z
-updated: 2025-01-24T16:06:35.668Z
+date: 2025-01-30T22:29:04.559Z
+updated: 2025-02-01T16:50:37.350Z
 tags:
   - laptops
 categories:
@@ -44,6 +44,10 @@ Cons
 
 ## Getac S510
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best rugged laptop overall
 
 The Getac S510 is a sleek update to the brand's exceptionally rugged laptops. It's thinner and lighter than its cousin, the [B360 (which we've tested)](https://www.zdnet.com/article/this-laptop-is-so-rugged-the-manufacturer-allowed-me-to-drop-it-from-waist-height/), weighing in at a modest 5.18 pounds and measuring an almost demure 1.5 inches thin. But just because it's slimmed down, that doesn't mean that Getac has skimped out on protection. 
@@ -70,7 +74,7 @@ Cons
 * No AMD option
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Panasonic ToughBook 40 Mk2
@@ -99,6 +103,10 @@ Pros
 
 Cons 
 * Can't upgrade RAM or storage
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Acer Chromebook Spin 512
 
@@ -129,6 +137,10 @@ Cons
 * On the heavy side
 
 ## Asus ZenBook Pro Duo 15 OLED
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best rugged laptop splurge
 
@@ -161,14 +173,10 @@ Cons
 * No Intel option
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Asus TUF A14
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best rugged laptop for gaming
 
@@ -191,10 +199,6 @@ I chose the Getac S510 as the best rugged laptop for its highly customizable con
 | Panasonic Toughbook 40 Mk2   | $4,700              | Up to 2TB SSD | Up to Intel Core Ultra 7 165H |
 | Asus ZenBook Pro Duo 15 OLED | $1,700              | 1TB SSD       | Intel Core i7-12700H          |
 | Asus TUF A14                 | $1,400              | 1TB SSD       | AMD Ryzen 7 8845HS            |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Which rugged laptop is right for you?
 
@@ -221,7 +225,7 @@ Laptop manufacturers helpfully label these systems as "semi-rugged" or "rugged,"
 The rugged laptops listed here are from major manufacturers in the space (Dell, Panasonic, Getac), including some with which ZDNET staff have had hands-on experience. For more on how we test laptops, check out our comprehensive [laptop testing methodology](https://www.zdnet.com/article/how-we-test-laptops/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What does "rugged laptop" mean?
@@ -230,19 +234,23 @@ A rugged laptop, sometimes listed as a "ruggedized" laptop, is a computer that i
 
 These kinds of laptops are great for anyone who has to work outdoors for any length of time, such as people at construction sites, on geological surveys, and in the military.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What does "military grade" mean?
 
 A laptop that is listed as "military grade" doesn't necessarily mean that it was developed for use by the Army or other military branches. Rather, it has been tested against military standards for dirt and water resistance as well as resistance to shocks, drops, and operating temperatures. 
 
 Laptops meant for military use are more rigorously tested against a laundry list of conditions, while commercially available laptops labeled "military grade" are only tested against a few of the MIL-STD-810 standards.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Does Apple make a rugged laptop?
 
 At the time of writing, Apple does not have a ruggedized version of any of their MacBooks for sale, either through their official store or authorized sellers. You can, however, purchase rugged cases like the [Urban Armor Gear](https://www.amazon.com/URBAN-ARMOR-GEAR-Feather-Light-Translucent/dp/B08M5KWNW4/?tag-zdnet-deals-20) for the 13-inch MacBook Pro, the [Ibenezer case](https://www.amazon.com/dp/B07D848J6V/?tag-zdnet-deals-20) for the 13-inch MacBook Air, or the [Pelican 1085](https://www.amazon.com/Pelican-1095CC-Laptop-Case-Liner/dp/B006C21MCU/?tag-zdnet-deals-20) hardshell carrying case.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## More rugged laptops to consider
 
@@ -251,10 +259,6 @@ Show less
 [View now at Amazon](https://assoc-redirect.amazon.com/g/r/https://www.amazon.com/dp/B0B3Y3M68J?tag=cnet-api-20&linkCode=ogi&th=1&psc=1)
 
 Full Review [Read Full Review](https://www.zdnet.com/article/best-rugged-laptop/Design: Mini Listicle)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Lenovo ThinkPad X1 Nano Gen 2
 
@@ -279,10 +283,6 @@ Show less
 [View now at Panasonic](https://connect.na.panasonic.com/toughbook/rugged-computers/toughbook-55)
 
 Full Review [Read Full Review](https://www.zdnet.com/article/best-rugged-laptop/Design: Mini Listicle)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Panasonic Toughbook 55
 
@@ -320,24 +320,19 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-the-ultimate-toolkit-for-dominating-social-media-management-smm/"><u>[Updated] In 2024, The Ultimate Toolkit for Dominating Social Media Management (SMM)</u></a></li>
-<li><a href="https://windows11.techidaily.com/amplify-your-pcs-wi-fi-with-8-effective-fixes-for-windows-11/"><u>Amplify Your PC's Wi-Fi with 8 Effective Fixes for Windows 11</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Samsung Galaxy M14 5G | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-lenovo-thinkphone-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Lenovo ThinkPhone to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-embracing-iphones-shutter-speed-magic-for-dynamic-images/"><u>In 2024, Embracing iPhone’s Shutter Speed Magic for Dynamic Images</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-live-streams-how-to-log-gh-sessions/"><u>In 2024, Live Streams How to Log GH Sessions</u></a></li>
-<li><a href="https://video-capture.techidaily.com/newest-methods-for-ios-screenshots-and-playback/"><u>Newest Methods for iOS Screenshots & Playback</u></a></li>
-<li><a href="https://facebook.techidaily.com/personalize-privacy-crafting-a-customized-facebook-visibility-list/"><u>Personalize Privacy: Crafting a Customized Facebook Visibility List</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-hub-exploring-the-latest-in-computer-components/"><u>Tom's Tech Hub: Exploring the Latest in Computer Components</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transform-your-content-with-the-new-release-of-wonderfox-dvd-ripper-for-ipad-version-20/"><u>Transform Your Content with the New Release of WonderFox DVD Ripper for iPad, Version 2.0!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultra-savings-asus-tuf-24-165hz-gaming-monitor-with-ips-quality-now-just-99-on-newegg/"><u>Ultra Savings: Asus TUF 24 165Hz Gaming Monitor with IPS Quality – Now Just $99 on Newegg</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unleash-your-game-the-ultimate-offer-on-alienwares-34-inch-oled-monitor-only-749-at-best-buy/"><u>Unleash Your Game: The Ultimate Offer on Alienware's 34-Inch OLED Monitor, Only $749 at Best Buy.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unleashing-top-game-graphics-with-gigabye-aorus-fo32u2p-240-hz-4k-and-beyond/"><u>Unleashing Top Game Graphics with Gigabye Aorus FO32U2P: 240 Hz, 4K and Beyond!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlock-20-savings-own-the-stunning-4k-alienware-aw3225qf-for-200-less-at-dells-store/"><u>Unlock 20% Savings - Own the Stunning 4K Alienware AW3225QF for $200 Less at Dell's Store</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlocking-performance-tips-for-your-pc-wisdom-from-toms-experience/"><u>Unlocking Performance Tips for Your PC – Wisdom From Tom's Experience</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-titan-army-p2-27a2r-your-guide-to-affordable-high-performance-gaming-displays-at-180-hz/"><u>Unveiling the Titan Army P2#-27A2R - Your Guide to Affordable High-Performance Gaming Displays at 180 Hz</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-wonders-of-technology-with-toms-hardware-experts/"><u>Unveiling the Wonders of Technology with Tom's Hardware Experts</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-unlock-cinematic-storytelling-how-to-apply-the-ken-burns-effect-in-final-cut-pro-for-2024/"><u>Updated Unlock Cinematic Storytelling How to Apply the Ken Burns Effect in Final Cut Pro for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/viewsonics-27-inch-oled-marvel-for-gamers-a-comprehensive-examination-of-speed-and-brilliance/"><u>ViewSonic's 27-Inch OLED Marvel for Gamers - A Comprehensive Examination of Speed and Brilliance</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-enhancing-instagram-visibility-with-powerful-promotions/"><u>[New] Enhancing Instagram Visibility with Powerful Promotions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unlock-brand-potential-access-50-banners-at-no-cost/"><u>[New] Unlock Brand Potential - Access 50 Banners at No Cost</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-vivo-s18-pro-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Vivo S18 Pro Fingerprint Lock</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/beyond-ustream-a-comparative-analysis-of-streams-for-2024/"><u>Beyond Ustream A Comparative Analysis of Streams for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparing-chatgpt-and-huggingfaces-huggingchat-determining-the-superior-conversational-ai/"><u>Comparing ChatGPT and HuggingFace's HuggingChat: Determining the Superior Conversational AI</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-tutorial-download-and-install-canon-mf4500-printer-driver-today/"><u>Complete Tutorial: Download & Install Canon MF4500 Printer Driver Today!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-latest-updates-for-canon-eos-dslr-camera-model-d530/"><u>Download and Latest Updates for Canon EOS DSLR Camera Model D530</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-acer-device-online-free-wifi-drivers-and-step-by-step-setup-tutorials/"><u>Get Your Acer Device Online: FREE WiFi Drivers & Step-by-Step Setup Tutorials</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/going-against-the-grain-instagram-video-reversal-for-2024/"><u>Going Against the Grain Instagram Video Reversal for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/guide-finding-and-downloading-epson-xp-830-driver-a-step-by-step-approach/"><u>Guide: Finding & Downloading Epson XP-830 Driver - A Step by Step Approach</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-oppo-find-x6-pro-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Oppo Find X6 Pro Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/maximize-your-media-movement-with-winx-mediatrans-leading-solution-for-iphone-and-ipad-content-transfer-fromto-pcs/"><u>Maximize Your Media Movement with WinX MediaTrans: Leading Solution for iPhone & iPad Content Transfer From/To PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-the-challenges-of-xbox-game-pass-error-0x00000001-with-windows-11-pcs/"><u>Tackling the Challenges of Xbox Game Pass Error 0X00000001 with Windows 11 PCs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-advice-expert-gadget-guidance/"><u>Tom's Tech Advice: Expert Gadget Guidance</u></a></li>
 </ul></div>
 

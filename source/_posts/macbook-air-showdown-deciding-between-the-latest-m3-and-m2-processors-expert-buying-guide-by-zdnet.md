@@ -1,7 +1,7 @@
 ---
 title: "MacBook Air Showdown: Deciding Between the Latest M3 and M2 Processors | Expert Buying Guide by ZDNET"
-date: 2025-01-21T01:04:01.878Z
-updated: 2025-01-24T17:53:50.359Z
+date: 2025-01-28T22:09:14.024Z
+updated: 2025-02-01T19:00:21.940Z
 tags:
   - laptops
 categories:
@@ -28,10 +28,6 @@ Since there are many variations and generations of both the iPad and the MacBook
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Specifications
 
 | **iPad Pro (7th gen)** | **MacBook Air**                                             |                                                                                                  |
@@ -48,6 +44,10 @@ Since there are many variations and generations of both the iPad and the MacBook
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## You should buy an iPad Pro if...
 
 Kerry Wan/ZDNET
@@ -59,10 +59,6 @@ Apple's M4 chip is only available in the [2024 iPad Pro](https://buy.geni.us/Pro
 A more efficient processor means the iPad speeds through app load times, 4K video exports, detecting and cropping subjects out of images, and more, making switching to an iPad-first workflow easier than ever. 
 
 **Also:** [**I replaced my MacBook with an M4 iPad Pro and was less bothered than I expected**](https://www.zdnet.com/article/ipad-pro-2024-review/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/ipad-pro-2024-review/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%22I%20replaced%20my%20MacBook%20with%20an%20M4%20iPad%20Pro%20and%20was%20less%20bothered%20than%20I%20expected%22%7D)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. You draw or take notes using an Apple Pencil
 
@@ -89,7 +85,7 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## You should buy a MacBook if...
@@ -97,7 +93,7 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. You need a reliable device for work tasks
@@ -108,15 +104,15 @@ While the iPad Pro is touted as a "laptop replacement," it still can't quite liv
 
 The MacBook Air also has more internal storage options than the iPad Pro: 8GB, 16GB, or 24GB, giving you more storage space options. However, keep in mind that higher storage specs will cost you more (between $200-$400 more).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. You use AI applications
 
 The MacBook Air is compatible with AI features and applications, thanks to its M3 processor. This allows you to better handle AI workloads, like summarizing longer text, browsing the web with a specific focus, generating Excel formulas, writing code, making graphs and charts, and more.
 
 MacOS is getting an [Apple Intelligence](https://www.zdnet.com/article/apple-intelligence-arrives-next-month-6-ai-upgrades-iphone-users-can-expect-first/) update in September 2024, so AI will be even more seamlessly involved in the MacBook Air experience, with everything from Siri to creating unique images. Plus, the M3 chip means the MacBook Air is future-proofed for the inevitable deluge of AI applications coming.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. You like the option of using external displays
 
@@ -125,6 +121,10 @@ Some people can work on one screen, but many prefer a two-screen display to opti
 You can access everything on your MacBook Air on a larger display setup, allowing for improved multitasking, increased productivity, and an overall more comfortable viewing experience. 
 
 [Buy the MacBook Air $1,149 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX23GFMJ%2Fref%3Dasc%5Fdf%5FB0CX23GFMJ1727780400000%3Fcreative%3D395261%26creativeASIN%3DB0CX23GFMJ%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C63a7d4d6-107c-438e-8197-16d84e5e454d%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -160,20 +160,18 @@ You can access everything on your MacBook Air on a larger display setup, allowin
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-exploring-free-screencast-software-options-on-mac/"><u>[New] 2024 Approved Exploring Free Screencast Software Options on Mac</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-listening-out-loud-deciphering-the-differences-between-podcasts-and-youtube/"><u>[New] 2024 Approved Listening Out Loud Deciphering the Differences Between Podcasts & YouTube</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/hannel-upgrade-how-reaching-500-viewers-propelts-monetization/"><u>[New] Channel Upgrade How Reaching 500 Viewers Propelts Monetization</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-office-design-evolution-trends-and-practices-for-maximum-output-for-2024/"><u>[New] Office Design Evolution Trends and Practices for Maximum Output for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-beautiful-beginnings-creating-your-personalized-glam-vlog/"><u>[Updated] In 2024, Beautiful Beginnings Creating Your Personalized Glam Vlog</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-essential-free-video-editing-apps-for-iphonesipads/"><u>[Updated] In 2024, Essential Free Video Editing Apps for iPhones/iPads</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-fading-out-the-louder-end-techniques-using-lumafusion/"><u>2024 Approved Fading Out the Louder End Techniques Using Lumafusion</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-mastering-the-art-of-moving-twitter-videos-into-whatsapp/"><u>2024 Approved Mastering the Art of Moving Twitter Videos Into WhatsApp</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-and-secure-hp-laserjet-p1056-driver-version-direct-links/"><u>Latest & Secure HP LaserJet P10ˈ56 Driver Version - Direct Links</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigate-the-tech-world-confidently-with-insights-from-toms-hardware/"><u>Navigate the Tech World Confidently with Insights From Tom's Hardware</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-the-latest-in-electronics-with-toms-hardware-experts/"><u>Navigating the Latest in Electronics with Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-the-latest-in-technology-with-insights-from-toms-hardware/"><u>Navigating the Latest in Technology with Insights From Tom's Hardware</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-the-world-of-computers-and-electronics-with-toms-guidance/"><u>Navigating the World of Computers and Electronics with Tom's Guidance</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-the-world-of-computing-with-tomn-hardware-insights/"><u>Navigating the World of Computing with Tom'n Hardware Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-the-world-of-economical-gaming-displays-best-curved-and-flat-options-with-g-sync-support/"><u>Navigating the World of Economical Gaming Displays: Best Curved and Flat Options with G-Sync Support</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-a-tutorial-for-adding-vintage-touches-instagram-filters-on-existing-media/"><u>[Updated] 2024 Approved A Tutorial for Adding Vintage Touches Instagram Filters on Existing Media</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-ethereal-3-face-off-apparition-4-takes-the-stage/"><u>[Updated] In 2024, Ethereal 3 Face-Off Apparition 4 Takes the Stage</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-mastering-the-art-of-measuring-igtv-video-quality-for-2024/"><u>[Updated] Mastering the Art of Measuring IGTV Video Quality for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-picperfect-pro-enhance-your-mobile-images-for-free-for-2024/"><u>[Updated] PicPerfect Pro Enhance Your Mobile Images for Free for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-evaluation-top-rated-file-restoration-software-recuva/"><u>Comprehensive Evaluation: Top Rated File Restoration Software - Recuva</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-enhance-performance-with-updated-amd-vision-modules-today/"><u>Download & Enhance Performance with Updated AMD Vision Modules Today</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/file-system-limitations/"><u>File System Limitations</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-successfully-update-or-download-hp-officejet-4655-printer-drivers/"><u>How to Successfully Update or Download HP Officejet 4655 Printer Drivers</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-vivo-y78t-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Vivo Y78t to iPhone | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-realme-gt-5-pro-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Realme GT 5 Pro Phone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-infinite-gaming-space-10-ssds-hdds-for-ps5/"><u>In 2024, Infinite Gaming Space #10 SSDs, HDDs for PS5</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-hardware-maintenance-a-comprehensive-tutorial-on-upgrading-motherboard-drivers-for-windows-systems/"><u>Mastering Hardware Maintenance: A Comprehensive Tutorial on Upgrading Motherboard Drivers for Windows Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-new-technology-insights-with-toms-hardware-guide/"><u>Unveiling New Technology Insights with Tom's Hardware Guide</u></a></li>
 </ul></div>
 

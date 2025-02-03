@@ -1,7 +1,7 @@
 ---
 title: "Revolutionary Kioxia SSDs: Next-Gen Optical Connectivity Sending Data 'At Light Speed' Over Distances Exceeding 40 Meters"
-date: 2024-08-19T04:14:05.030Z
-updated: 2024-08-20T04:14:05.030Z
+date: 2025-01-31T21:41:40.647Z
+updated: 2025-02-01T22:51:20.696Z
 tags:
   - components
 categories:
@@ -29,6 +29,10 @@ Japan-based SSD maker Nextorage has unveiled an all-new PCIe Gen 4 M.2 SSD aimed
 
  Despite its small size, the new Nextorage drive is one of only a couple of M.2 2230 drives that can hit speeds similar to those of larger outgoing PCIe Gen 4 M.2 2280 class drives and get close to the bandwidth limitations of PCIe Gen 4\. With a read speed of nearly seven and a half gigabytes per second, the G Series ME is the fastest M.2 2230 drive on the market. Its closest competitor is the [Corsair MP600 Mini,](https://tools.techidaily.com) which hits read speeds of 7GB/s flat.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -43,8 +47,6 @@ Japan-based SSD maker Nextorage has unveiled an all-new PCIe Gen 4 M.2 SSD aimed
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -52,8 +54,21 @@ Japan-based SSD maker Nextorage has unveiled an all-new PCIe Gen 4 M.2 SSD aimed
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/uilding-a-youtubing-brand-from-scratch-with-these-8-courses/"><u>[New] Building a YouTubing Brand From Scratch with These 8 Courses</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-enhancing-virtual-collaborations-blending-zoom-with-skype-techniques-for-2024/"><u>[New] Enhancing Virtual Collaborations Blending ZOOM with SKYPE Techniques for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1-unveiling-the-wonders-of-home-assistant-a-comprehensive-guide/"><u>1. Unveiling the Wonders of Home Assistant: A Comprehensive Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-realme-11x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/from-pixel-to-prospectus-the-top-7-generators-for-artistic-conversion/"><u>From Pixel to Prospectus - The Top 7 Generators for Artistic Conversion</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Samsung Galaxy Z Flip 5? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-z-fold-5-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy Z Fold 5 to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-divx-video-editors-with-cutting-capability-2023-list/"><u>In 2024, Free Divx Video Editors with Cutting Capability (2023 List)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigate-cyber-threats-with-these-top-rated-free-anti-malware-utilities/"><u>Navigate Cyber Threats with These Top-Rated, Free Anti-Malware Utilities</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-tutorial-on-acquiring-and-refreshing-xp-pens-device-drivers/"><u>Quick Tutorial on Acquiring & Refreshing XP-Pen's Device Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-7-strategies-for-long-lasting-headphone-care-and-maintenebnce/"><u>Top 7 Strategies for Long-Lasting Headphone Care and Maintenebnce</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-ipad-pro-13-case-picks-buyers-guide/"><u>Top Rated iPad Pro 13 Case Picks - Buyer's Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/understanding-the-disappearance-of-light-gun-games-in-the-era-of-modern-hdtv-technology/"><u>Understanding the Disappearance of Light Gun Games in the Era of Modern HDTV Technology</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unleash-your-creative-side-with-bone-conducting-headphones-for-ultimate-outdoor-do-it-yourself-projects/"><u>Unleash Your Creative Side with Bone-Conducting Headphones for Ultimate Outdoor Do-It-Yourself Projects</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->

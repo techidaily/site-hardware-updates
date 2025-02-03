@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide to the PNY 1TB SSD CS3150: Featuring Dual Fans and Stunning RGB Lighting"
-date: 2024-08-19T04:18:19.733Z
-updated: 2024-08-20T04:18:19.733Z
+date: 2025-01-27T20:27:41.530Z
+updated: 2025-02-01T20:28:55.706Z
 tags:
   - ssd
 categories:
@@ -16,6 +16,10 @@ AGI is a memory technology brand we’ve heard of but never tested... until toda
  Many drives in this category are outright slower than the AI818, at least on paper. This includes the[Kingston NV2](https://tools.techidaily.com) and drives like it, as well as PCIe 3.0 drives like the[Teamgroup MP34](https://tools.techidaily.com) . The latter is now using a Realtek controller, like our AI818 sample. Realtek controllers often feel last-generation and can run hotter, but offer a way to add more capacity at a lower cost. Unlike the MP34, though, our 2TB AI818 is using QLC NAND, which is being used on many budget PCIe 4.0 drives including the NV2 and the[Silicon Power UD90](https://tools.techidaily.com) — but not all, as the[Teamgroup MP44L](https://tools.techidaily.com) is one exception. As TLC cannot be guaranteed in most cases, caution is warranted on this class of drive.  
   
  Some of our results for the AI818 are surprising, and often not in a good way. We also don’t think this drive is the best choice for a laptop. However, it’s not the worst drive we’ve ever tested, and if you can find it at the right price it can get the job done. With this drive, budget is the name of the game.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specifications
 
@@ -46,13 +50,14 @@ AGI is a memory technology brand we’ve heard of but never tested... until toda
 
 * [AGI AI818 2TB SSD at Newegg for $114.99](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Flink%3Fid%3DkXQk6%252AivFEQ%26offerid%3D1531483.445838636436816353697968%26type%3D15%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fagi-2tb-ai818-43%252Fp%252F0D9-010F-00011%253Fitem%253D9SIBM90K3J6368%26u1%3Dtomshardware-us-1398768948128134202)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Software and Accessories
 
  AGI does not appear to offer any direct software downloads on its site, but there are free alternatives. We recommend CrystalDiskInfo for basic drive information including SMART health status. For imaging and cloning,[Clonezilla](https://tools.techidaily.com) should do the trick.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## AGI AI818 — A Closer Look
 
  Image 1 of 3
@@ -63,16 +68,14 @@ AGI is a memory technology brand we’ve heard of but never tested... until toda
 
 ![AGI AI818 2TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![AGI AGI818 2TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  It's not the worst label we’ve ever seen. The drive is at least single-sided, which means it could work with a wider range of[laptops](https://tools.techidaily.com) . It should also be fine in the PS5\. However, we suspect a heatsink might be desirable, which makes it less palatable for a laptop. The label is supposedly graphene-based, which may help keep it from overheating in airy desktops at least.
@@ -82,15 +85,13 @@ AGI is a memory technology brand we’ve heard of but never tested... until toda
 ![AGI AI818 2TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ![AGI AI818 2TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  We weren’t too sure what flash to expect on this drive as it launched with YMTC’s 128-Layer TLC (X2-9060), at least at some capacities. There are two 1TB SKUs and one of them uses QLC instead. The drive launched with the Maxio MAP1602 controller, down-bussed to 1,600 MT/s to match that particular TLC flash. It’s possible this drive will have other variations in hardware but we’re looking at what is being delivered today, which certainly is an interesting combination.  
@@ -156,15 +157,14 @@ powered by
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -173,4 +173,26 @@ powered by
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-ace-your-viewing-experience-onboarding-av1-in-youtube/"><u>[New] 2024 Approved Ace Your Viewing Experience Onboarding AV1 in YouTube</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-from-raw-footage-to-excellence-the-webcam-edition/"><u>[Updated] From Raw Footage to Excellence The Webcam Edition</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-tapping-into-youtubes-affiliate-income-streams/"><u>[Updated] In 2024, Tapping Into YouTube's Affiliate Income Streams</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-ultimate-hd-experience-1-blu-ray-players-list/"><u>[Updated] In 2024, Ultimate HD Experience #1 Blu-Ray Players List</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-realme-12-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-walkthrough-downloading-and-setting-up-arduino-drivers-on-windows-os/"><u>Complete Walkthrough: Downloading and Setting Up Arduino Drivers on Windows OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-amd-ryzen-9-9950x-blender-performance-testing-at-different-tdp-levels-unveiling-significant-power-enhancements/"><u>Comprehensive AMD Ryzen 9 9950X Blender Performance Testing at Different TDP Levels - Unveiling Significant Power Enhancements</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-brother-dcp-l2540dw-printer-driver-on-windows-pc/"><u>Download and Install Brother DCP-L2540DW Printer Driver on Windows PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-driver-update-for-razer-blade-laptop-compatibility-with-windows-10-and-beyond/"><u>Easy Driver Update for Razer Blade Laptop: Compatibility with Windows 10 and Beyond</u></a></li>
+<li><a href="https://extra-information.techidaily.com/expert-strategy-for-melding-gopro-vids-with-spherical-video-projects/"><u>Expert Strategy for Melding GoPro Vids with Spherical Video Projects</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722975842946-get-the-most-out-of-your-epson-printer-by-updating-its-drivers-a-windows-easily-accessible-guide/"><u>Get the Most Out of Your Epson Printer by Updating Its Drivers – A Windows Easily Accessible Guide.</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-infinix-smart-8-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Infinix Smart 8 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-professional-drones-pro-level-editing-software-showdown/"><u>In 2024, Professional Drones, Pro-Level Editing Software Showdown</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722962325774-latest-hp-scanjet-software-updates-for-windows-10-8-and-7-get-them-here/"><u>Latest [HP Scanjet Software Updates for Windows 10, 8 & 7] – Get Them Here!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamless-connection-how-to-obtain-and-install-insignias-vga-adapter-drivers-for-usb/"><u>Seamless Connection: How to Obtain and Install Insignia's VGA Adapter Drivers for USB</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-downloading-and-installing-asus-pce-ac68-wifi-adapter-driver-software/"><u>Ultimate Guide to Downloading & Installing ASUS PCE-AC68 WiFi Adapter Driver Software</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-future-potential-how-to-jumpstart-your-iphone-with-ios-16-public-beta-thoughts-before-you-act/"><u>Unlocking Future Potential: How to Jumpstart Your iPhone with iOS 16 Public Beta (Thoughts Before You Act)</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-latest-update-excels-enhanced-task-automation-on-windows/"><u>Unveiling the Latest Update: Excel's Enhanced Task Automation on Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/updating-your-epson-xp-640-printer-software-on-a-windows-pc-a-step-by-step-guide/"><u>Updating Your Epson XP-640 Printer Software on a Windows PC: A Step-by-Step Guide</u></a></li>
+</ul></div>
 

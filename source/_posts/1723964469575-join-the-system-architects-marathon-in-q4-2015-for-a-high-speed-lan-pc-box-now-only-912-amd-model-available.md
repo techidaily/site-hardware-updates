@@ -1,7 +1,7 @@
 ---
 title: Join the System Architects Marathon in Q4 2015 for a High-Speed LAN PC Box, Now Only $912 AMD Model Available
-date: 2024-08-19T04:16:47.645Z
-updated: 2024-08-20T04:16:47.645Z
+date: 2025-01-25T19:07:12.486Z
+updated: 2025-02-01T17:42:45.787Z
 tags:
   - build
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/5e09a4926c03b7375439c87dd90fb6aec12585203
 ---
 
 ## Join the System Architects Marathon in Q4 2015 for a High-Speed LAN PC Box, Now Only $912 AMD Model Available
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Component Selection & The Build
 
@@ -30,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/5e09a4926c03b7375439c87dd90fb6aec12585203
 3. [$895 LAN Box PC](https://tools.techidaily.com)
 4. [System Value Compared](https://tools.techidaily.com)
 5. $912 AMD LAN Box PC
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## $912 AMD LAN Box PC
 
@@ -90,13 +98,14 @@ Deepcool Gamer Storm Gabriel
 
  Some of you out there might be groaning and asking, "What, this again?" Hold on a minute. Those asking for a better 860K overclock have a valid argument. The 860K was handicapped last quarter with insufficient cooling to get any kind of meaningful overclock. You can't argue with that. This time around the CPU gets better treatment in the form of an aftermarket cooler and a larger case. So no, we're not trying the exact same thing and expecting different results. Do I expect the 860K to outperform the i3-4170? No, I don't. However, in order for me to prove that one way or the other, I need hard numbers and data. I'm curious to see if it can close the gap, if not overcome it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Alternate Component Selection
 
  I don't need to spend time explaining the same parts from[two days ago](https://tools.techidaily.com) . To save space and time, I'll only address the three new components.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -123,34 +132,28 @@ Deepcool Gamer Storm Gabriel
 
 [View Deal](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-8198437440134718399%26murl%3Dhttp%253A%252F%252Fwww.newegg.com%252FProduct%252FProduct.aspx%253Fcm%255Fmmc%253Dbac-tomshardwaresbm-%255F-systembuildereditorial-%255F-CPU%2BFans%2B%2526%2BHeatsinks-%255F-N82E16835856007%2526Item%253DN82E16835856007%2526IsFeedbackTab%253DTrue%2526nm%255Fmc%253DExtBanner)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Assembly
 
  The only significant change in assembly of this against the Intel build is the CPU cooler. And I ran into fitment issues with it. While I specifically got the low profile version Ballistix memory kit, AMD's rectangular mounting bracket meant the cooler could only be installed in two orientations. Both are problematic with this motherboard. The Gabriel is thinnest on the end opposite of the heat pipe curve. This part extends farthest from the CPU socket and can clear most RAM modules. On either side, the fins have a small step making them a little thicker. This edge of the cooler is a millimeter or two too thick to fully clear the RAM on the side, touching the very top edge of the RAM heat spreader.
 
 ![](https://cdn.mos.cms.futurecdn.net/nKfSxuUzQNwqBkyJ4996bk-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If the fins were a little thinner or my RAM didn't have a heat spreader, this would be a non-issue. It's still not technically a problem. It doesn't keep the RAM from being installed, it doesn't even put flex on the RAM stick. It's just annoying that a cooler marketed as designed specifically for ITX cooling seems to be borderline incompatible with every current AMD ITX motherboard (every model on Newegg right now has the CPU socket oriented the same way). Perhaps some of them have RAM slots a little farther from the CPU socket, which would solve this, but if Deepcool wanted to be universally compatible, shaving a few millimeters off the fins would have accomplished this without impacting thermal performance.
 
 ![](https://cdn.mos.cms.futurecdn.net/EkXfRYe3XW8vhT2PuH7XkJ-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  The rest of the assembly went just peachy. The slightly different port layout of the motherboard necessitated different cable routing, but that's it. Everything else is the exact same as the Intel build from a few days ago.
 
 ![](https://cdn.mos.cms.futurecdn.net/kiyNGE2ogxSRTZjnNEBoST-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
+
 ## Overclocking
 
  I did a little more digging on 860K overclocking after last quarter. Most FM2+ motherboards are very liberal with CPU voltage at stock levels. This means it's usually possible to overclock the CPU while undervolting it. This held true for my particular 860K. Stock voltage was set at 1.45V, but I was able to get it to run at 4.0GHz on only 1.35V. Lowering the voltage helped temperatures, but the CPU still has a pretty hard thermal ceiling that won't let it be pushed as much as it could. Regardless of cooling solution or voltage, the CPU cuts back to 3.5 to 3.7GHz when it hits 65 degrees C (total, not over ambient). Even with the cooler at full speed, I was occasionally hitting that ceiling under the most demanding workloads.
@@ -163,10 +166,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
@@ -182,8 +186,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -191,4 +193,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-elite-10-audio-amplifiers-desktops-to-smartphones/"><u>[New] In 2024, Elite 10 Audio Amplifiers Desktops to Smartphones</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-poco-x5-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Poco X5 Pro to iPhone | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/behind-the-lens-nikon-d500s-4k-innovation/"><u>Behind the Lens Nikon D500's 4K Innovation</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-infinix-hot-30-5g-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on Infinix Hot 30 5G.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/detailed-guides-to-hardware-products-toms-hardware-insight/"><u>Detailed Guides to Hardware Products - Tom's Hardware Insight</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/effortless-methods-to-save-songs-from-beatport-online-store/"><u>Effortless Methods to Save Songs From Beatport Online Store</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722978122914-get-the-latest-thunderbolt-drivers-for-your-windows-system-here/"><u>Get the Latest Thunderbolt Drivers for Your Windows System Here!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hassle-free-setup-for-the-latest-acer-sound-card-drivers-learn-how/"><u>Hassle-Free Setup for the Latest Acer Sound Card Drivers - Learn How!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-secure-your-samsung-phone-with-the-latest-adb-driver-software/"><u>How To: Secure Your Samsung Phone with the Latest ADB Driver Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722968772145-identify-the-make-and-model-of-your-computers-motherboard-by-searching-online-with-its-serial-number-usually-found-near-a-barcode-sticker-on-the-back/"><u>Identify the Make and Model of Your Computer's Motherboard by Searching Online with Its Serial Number (Usually Found Near a Barcode Sticker on the Back)</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-realme-c33-2023-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Realme C33 2023 Devices</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-master-your-fb-video-archive-with-1-5-choices/"><u>In 2024, Master Your FB Video Archive with #1-5 Choices</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/moneywise-moggiecat-cam-reviews/"><u>Moneywise Moggie/Cat Cam Reviews</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-complete-guide-to-downloading-and-installing-logitechs-g29-racing-wheel-software-for-windows-os-versions-10-11-and-7/"><u>The Complete Guide to Downloading and Installing Logitech's G29 Racing Wheel Software for Windows OS (Versions 10, 11 & 7)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/tp-link-wifi-adapter-drivers-updated-downloads-for-windows-11-8-and-7/"><u>TP-Link WiFi Adapter Drivers: Updated Downloads for Windows 11, 8 & 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlocking-performance-secrets-with-toms-hardware-experts/"><u>Unlocking Performance Secrets with Tom's Hardware Experts</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-the-ultimate-list-of-android-apps-everyone-loves/"><u>Updated 2024 Approved The Ultimate List of Android Apps Everyone Loves</u></a></li>
+</ul></div>
 

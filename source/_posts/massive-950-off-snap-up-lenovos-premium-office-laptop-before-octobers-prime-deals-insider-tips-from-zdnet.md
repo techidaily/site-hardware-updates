@@ -1,7 +1,7 @@
 ---
 title: "Massive $950 Off: Snap Up Lenovo's Premium Office Laptop Before October's Prime Deals - Insider Tips From ZDNet"
-date: 2025-01-22T02:22:37.429Z
-updated: 2025-01-24T18:01:54.039Z
+date: 2025-01-28T18:31:01.652Z
+updated: 2025-02-01T19:56:38.321Z
 tags:
   - laptops
 categories:
@@ -38,7 +38,7 @@ This laptop isn't solely for business professionals. Everybody can enjoy the dev
 Right now is the best time to buy this device. The [Lenovo Gen 12 ThinkPad X1 Carbon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D1D5J1J1%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cddc033e3-08fa-42b2-b4fe-eb896d4675a3%7Cdtp&dtb=1) is currently on sale at Amazon for $1,500\. That is almost $1,000 off the original price. I should also mention that there is a variant of the laptop with a 2.8K OLED display, which is the model [I tested back in February](https://www.zdnet.com/article/the-thinkpad-i-recommend-for-hybrid-workers-is-not-lenovos-newest-model/). The [OLED version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D5SNKGZ4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cddc033e3-08fa-42b2-b4fe-eb896d4675a3%7Cdtp&dtb=1) is much more expensive, but I recommend it as an alternative if you can afford it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -75,17 +75,21 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-a-rundown-top-8-exceptional-free-online-translation-platforms/"><u>[Updated] A Rundown Top 8 Exceptional Free Online Translation Platforms</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-realme-gt-neo-5-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Realme GT Neo 5 PC | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/dont-miss-out-apples-latest-16-inch-macbook-pro-with-m3-pro-now-500-cheaper-prime-day-countdown/"><u>Don't Miss Out! Apple's Latest 16-Inch MacBook Pro with M3 Pro Now $500 Cheaper - Prime Day Countdown</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862720990-early-bird-special-for-the-next-gen-acemagic-x1-laptop-stay-tuned-for-price-and-availability/"><u>Early Bird Special for the Next-Gen AceMagic X1 Laptop - Stay Tuned for Price and Availability</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722963739946-easy-steps-downloading-and-installing-samsung-ssd-drives-successfully/"><u>Easy Steps: Downloading & Installing Samsung SSD Drives - Successfully</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/elevate-your-reels-to-new-heights-with-top-6-innovative-apps/"><u>Elevate Your Reels to New Heights with Top 6 Innovative Apps</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-fix-the-smbus-touchscreen-driver-error-on-windows-11-devices/"><u>How to Fix the SMBus Touchscreen Driver Error on Windows 11 Devices</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-meizu-21-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Meizu 21? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtubes-celebrated-click-it-achievements/"><u>In 2024, YouTube's Celebrated Click-It Achievements</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862738973-morse-coding-laptop-accessory-master-typing-with-just-a-dash-of-hinge-slamming-beware-of-potential-wear-and-tear/"><u>Morse-Coding Laptop Accessory: Master Typing with Just a Dash of Hinge Slamming - Beware of Potential Wear and Tear!</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/periscope-footage-lifesaving-tips-and-tricks/"><u>Periscope Footage Lifesaving Tips & Tricks</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-poco-m6-pro-4g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Poco M6 Pro 4G Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-essential-android-tools-for-video-recording-for-2024/"><u>[New] Essential Android Tools for Video Recording for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-essential-mobile-privacy-the-best-7-adblocker-apps-for-android/"><u>[New] Essential Mobile Privacy The Best 7 AdBlocker Apps for Android</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-poco-x5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-behind-the-scenes-youtubes-view-count-algorithm/"><u>2024 Approved Behind the Scenes YouTube's View Count Algorithm</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-guide-to-downloading-and-installing-updated-drivers-for-creative-webcams-on-windows-pcs/"><u>Complete Guide to Downloading & Installing Updated Drivers for Creative Webcams on Windows PCs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/customers-contact-information-and-preferred-contact-method-ensuring-privacy-is-maintained/"><u>Customer's Contact Information and Preferred Contact Method, Ensuring Privacy Is Maintained.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-installation-guide-hp-printer-drivers-on-windows-11/"><u>Download & Installation Guide: HP Printer Drivers on Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-downloading-canon-mx560-printer-drivers-and-updates/"><u>Easy Guide to Downloading Canon MX560 Printer Drivers and Updates</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-harnessing-imovies-potential-for-youtube-broadcasting/"><u>In 2024, Harnessing iMovie's Potential for YouTube Broadcasting</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-step-by-step-guide-to-swap-fins-sounds-on-windows/"><u>In 2024, Step-by-Step Guide to Swap Fins' Sounds on Windows</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-oppo-a59-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Oppo A59 5G? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/in-depth-guide-on-updating-and-optimizing-your-lenovo-docking-stations-drivers/"><u>In-Depth Guide on Updating and Optimizing Your Lenovo Docking Station's Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-amd-chipset-driver-software-for-various-windows-versions-including-11-7-8-and-81/"><u>Latest AMD Chipset Driver Software for Various Windows Versions Including 11, 7, 8 & 8.1</u></a></li>
+<li><a href="https://blog-min.techidaily.com/mejorando-la-almacenamiento-de-audio-introduccion-al-compresor-de-archivos-wav-con-movavi/"><u>Mejorando La Almacenamiento De Audio: Introducción Al Compresor De Archivos WAV Con Movavi</u></a></li>
+<li><a href="https://win-news.techidaily.com/solving-hard-drive-issues-a-comprehensive-guide-by-yl-computing/"><u>Solving Hard Drive Issues: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-system-now-geforce-rtx-3080-ti-driver-download-for-windows-versions-1187/"><u>Update Your System Now: GeForce RTX 3080 Ti Driver Download for Windows Versions 11/8/7</u></a></li>
 </ul></div>
 

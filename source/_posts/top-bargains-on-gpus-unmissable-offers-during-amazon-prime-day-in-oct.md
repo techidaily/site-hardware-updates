@@ -1,7 +1,7 @@
 ---
 title: "Top Bargains on GPUs: Unmissable Offers During Amazon Prime Day in Oct"
-date: 2024-08-19T04:14:16.088Z
-updated: 2024-08-20T04:14:16.088Z
+date: 2025-01-31T19:39:29.224Z
+updated: 2025-02-01T18:15:26.886Z
 tags:
   - components
 categories:
@@ -29,6 +29,10 @@ Japan-based SSD maker Nextorage has unveiled an all-new PCIe Gen 4 M.2 SSD aimed
 
  Despite its small size, the new Nextorage drive is one of only a couple of M.2 2230 drives that can hit speeds similar to those of larger outgoing PCIe Gen 4 M.2 2280 class drives and get close to the bandwidth limitations of PCIe Gen 4\. With a read speed of nearly seven and a half gigabytes per second, the G Series ME is the fastest M.2 2230 drive on the market. Its closest competitor is the [Corsair MP600 Mini,](https://tools.techidaily.com) which hits read speeds of 7GB/s flat.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -43,8 +47,6 @@ Japan-based SSD maker Nextorage has unveiled an all-new PCIe Gen 4 M.2 SSD aimed
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -52,8 +54,22 @@ Japan-based SSD maker Nextorage has unveiled an all-new PCIe Gen 4 M.2 SSD aimed
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-mastering-airtunes-on-your-apple-devices-quick-guide-to-repairs/"><u>[New] In 2024, Mastering Airtunes on Your Apple Devices - Quick Guide to Repairs</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-digital-humor-designer-tool-for-2024/"><u>[Updated] Digital Humor Designer Tool for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/elite-defenders-for-your-device-discovering-the-finest-11-inch-ipad-air-cases-of-this-year/"><u>Elite Defenders for Your Device: Discovering the Finest 11-Inch iPad Air Cases of This Year</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhancing-stability-the-remedy-for-intel-processor-downtime/"><u>Enhancing Stability: The Remedy for Intel Processor Downtime</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-evaluation-of-the-elgato-stream-deck-neo-enhancing-user-interface-for-gamers-and-creators-alike/"><u>Expert Evaluation of the Elgato Stream Deck Neo: Enhancing User Interface for Gamers and Creators Alike</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-the-extensive-possibilities-of-frameworks-modular-approach-a-world-beyond-laptops/"><u>Exploring the Extensive Possibilities of Framework's Modular Approach: A World Beyond Laptops</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-the-world-of-1440p-quad-hd-essential-information-for-enthusiasts/"><u>Exploring the World of 1440P (Quad HD): Essential Information for Enthusiasts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-your-perfect-gaming-palmtop-below-100-heres-the-ideal-choice/"><u>Find Your Perfect Gaming Palmtop Below $100 - Here's the Ideal Choice!</u></a></li>
+<li><a href="https://games-able.techidaily.com/gameplay-exploration-older-titles-on-new-ps-console/"><u>Gameplay Exploration: Older Titles on New PS Console</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-rtx-2080-drivers-supports-windows-11-7-and-8-devices/"><u>Get the Newest RTX 2080 Drivers: Supports Windows 11, 7 and 8 Devices</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/global-first-in-image-restoration-and-correction-stellars-new-innovative-solution/"><u>Global First in Image Restoration and Correction: Stellar's New Innovative Solution</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-sufficient-is-an-8gb-graphics-card-for-gaming-the-answer-varies-by-game/"><u>How Sufficient Is an 8GB Graphics Card for Gaming? The Answer Varies by Game</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/interactive-revolution-siri-powered-chatgpt-experience-iphones/"><u>Interactive Revolution: Siri-Powered ChatGPT Experience iPhones</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-vivo-v29-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Vivo V29? | Dr.fone</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/unraveling-the-mystery-behind-missing-subtitles-in-vintage-movie-collections-how-to-access-them/"><u>Unraveling the Mystery Behind Missing Subtitles in Vintage Movie Collections – How to Access Them?</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

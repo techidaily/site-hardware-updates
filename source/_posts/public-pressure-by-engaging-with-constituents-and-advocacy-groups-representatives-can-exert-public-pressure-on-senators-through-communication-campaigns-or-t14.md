@@ -1,7 +1,7 @@
 ---
 title: Public Pressure - By Engaging with Constituents and Advocacy Groups, Representatives Can Exert Public Pressure on Senators Through Communication Campaigns or Town Halls.
-date: 2024-08-19T04:12:52.344Z
-updated: 2024-08-20T04:12:52.344Z
+date: 2025-01-28T19:07:42.013Z
+updated: 2025-02-01T20:07:24.924Z
 tags:
   - peripherals
 categories:
@@ -17,6 +17,10 @@ We can't seem to go five feet without tripping over a gaming keyboard featuring 
 
  The Q1 HE is a 75-percent wireless mechanical keyboard featuring Gateron 2.0 double-rail magnetic Nebula switches — linear magnetic Hall Effect switches with an actuation range of 0.5 - 3.8mm and a bottom-out force of 60g. It comes fully assembled in a solid aluminum chassis with a double gasket mounted hot-swappable PCB, double-shot PBT keycaps, and a programmable knob for $219\. You can also buy the barebones version — which comes with the knob but no keycaps or switches — for $20 less ($199). It's available now in carbon black (black case with white, black, and red keycaps) and shell white (white case with white, teal, and aqua keycaps).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Design and Construction of the Q1 HE
 
  The Q1 HE is a 75-percent gasket mount wireless mechanical keyboard with magnetic switches. At $219 fully-built, this keyboard is pricier than you might expect, especially as Keychron has made a name for itself by producing surprisingly well-priced mechanical keyboards. Keychron also makes the[Q1](https://tools.techidaily.com) in a standard, non-magnetic-switch version, which costs $179 fully assembled. The 75 percent layout means that the Q1 HE comes with all alphanumeric keys, a full function row, and a handful of navigation keys — by default, the Q1 HE has PgUp, PgDn, and Home under its customizable rotary knob, but the keyboard comes with other navigation key keycaps that you can swap in if you decide to remap. It comes in both black and white colorways, each with a matching metal knob in the upper-right corner and matching keycaps in complementary colors.
@@ -31,6 +35,14 @@ We can't seem to go five feet without tripping over a gaming keyboard featuring 
 
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+ (Image credit: Tom's Hardware)
+
+![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
  (Image credit: Tom's Hardware)
 
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -39,9 +51,9 @@ We can't seem to go five feet without tripping over a gaming keyboard featuring 
 
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
- (Image credit: Tom's Hardware)
-
-![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -59,6 +71,10 @@ We can't seem to go five feet without tripping over a gaming keyboard featuring 
 
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -66,6 +82,10 @@ We can't seem to go five feet without tripping over a gaming keyboard featuring 
  (Image credit: Tom's Hardware)
 
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -136,18 +156,12 @@ Today's best Keychron Q1 deals
 
  The Q1 HE also makes a great gaming keyboard — actually, I'm not sure why Keychron didn't release this under its gaming brand (Lemokey), considering magnetic Hall Effect switches are mainly advertised to gamers for their speed and features like Rapid Trigger. (Well, it's probably going to; the P1, which appears to be the Q1's equivalent, is[up for pre-order on Lemokey's site now](https://www.lemokey.com/products/lemokey-p1-qmk-via-custom-gaming-keyboard) .) Anyway, the Q1 HE offers the standard swath of magnetic switch features: wide range, precise adjustable actuation, multiple inputs on a single key, and Rapid Trigger. The switches have an actuation range of 0.5 - 3.8mm, with a sensitivity of 0.1mm, and each key's actuation can be set individually with Keychron's new web-based customization app, Keychron Launcher. The keyboard also offers low-latency 1,000 Hz polling rates over both wireless (2.4GHz) and wired connections.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ## Features and Software of the Q1 HE
 
  The Q1 HE offers three forms of connectivity: low-latency 2.4GHz wireless, Bluetooth 5.1, and wired (via USB-C). The 2.4GHz wireless connection was solid and consistent in my testing, and there was no noticeable difference in latency between it and the wired connection (as you might expect, there was noticeable lag over the Bluetooth connection). The keyboard has two switches on the back: one to switch between connection types and one to switch between PC and Mac modes. My only minor gripe was with the connection switch, which was trickier to quickly move into position than it should have been. (Luckily, speed-switching connections isn't one of my priorities.)
 
 ![Keychron Q1 HE](https://cdn.mos.cms.futurecdn.net/SrPBCHxjsKZtaKMaebeZKM-320-80.jpg)
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  You can customize the Q1 HE with Keychron Launcher, Keychron's new web-based tool that supports all of its keyboards. It's Keychron's in-house answer to VIA and it's very similar — it only works in WebHID-enabled browsers and you'll need to connect the keyboard via USB-C to use it. It has several sections: HE Mode, keymapping, lighting, macros, firmware updates, key testing, and bug reports. In the HE Mode tab, you can set switch actuation, turn on and customize Rapid Trigger, program multiple inputs on individual keys, and set up gamepad emulation. It's not the most polished software I've used (updating the board's firmware was a little messy) but it wasn't too difficult to figure out.
@@ -161,8 +175,9 @@ Today's best Keychron Q1 deals
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -180,8 +195,9 @@ Today's best Keychron Q1 deals
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  You can also change the keyboard's lighting effects in Keychron Launcher, though you are limited to preset effects — most of which only offer customization in the way of speed and/or color. The lighting is bright — thanks to the keyboard's south-facing PCB — and vibrant enough that it looks good behind the Q1 HE's solid, non-shine-through keycaps.
@@ -194,23 +210,22 @@ Today's best Keychron Q1 deals
 
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  The Q1 HE has a 4,000 mAh battery that Keychron says will last "up to 100 hours" with the backlighting turned off. That's not terribly impressive given the keyboard's weight, but it also seems like plenty... given the keyboard's weight. I expect this nearly-four-pound keyboard will spend most of its time on desks.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Bottom Line
 
  The Keychron Q1 HE QMK Wireless Custom keyboard is pretty impressive — even though every custom keyboard company seems to have a nearly identical offer._Nearly_ being the key word — the Q1 HE has the solid build and nice typing experience of the[Meletrix Boog75](https://tools.techidaily.com) , the tri-mode connectivity of the[Akko MOD007B-HE PC](https://tools.techidaily.com) , and the larger layout we wanted from the[Arbiter Studio Polar 65](https://tools.techidaily.com) .
@@ -229,8 +244,6 @@ Today's best Keychron Q1 deals
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -238,4 +251,24 @@ Today's best Keychron Q1 deals
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-mastering-3d-text-illustration-in-adobe-illustrator/"><u>[Updated] 2024 Approved Mastering 3D Text Illustration in Adobe Illustrator</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-enhance-your-digital-footprint-upload-tiktoks-on-twitter/"><u>[Updated] Enhance Your Digital Footprint Upload TikToks on Twitter</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-ultimate-storyboard-designers-den/"><u>[Updated] Ultimate Storyboard Designer's Den</u></a></li>
+<li><a href="https://win-updates.techidaily.com/aomei-backupper-le-meilleur-utilitaire-de-copie-dssd-adata-disponible-gratuitement/"><u>AOMEI Backupper: Le Meilleur Utilitaire De Copie D'SSD ADATA Disponible Gratuitement</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-nvidias-3d-vision-drivers-at-no-cost-windows-compatibility-tips-and-tricks/"><u>Download Nvidia's 3D Vision Drivers at No Cost: Windows Compatibility Tips & Tricks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-latest-drivers-for-your-epson-wf-2760-on-windows-11108-devices/"><u>Download the Latest Drivers for Your Epson WF-2760 on Windows 11/10/8 Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-enhanced-control-with-roccat-mouse-manager-download/"><u>Experience Enhanced Control with Roccat Mouse Manager Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-official-logitech-m52e-mouse-drive-and-compatibility-patches/"><u>How to Get the Official Logitech M52e Mouse Drive and Compatibility Patches</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-infinix-smart-8-hd-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Infinix Smart 8 HD.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-and-install-the-latest-dell-laptop-e6430-drivers-for-windows-operating-system/"><u>How To: Get And Install The Latest Dell Laptop E6430 Drivers For Windows Operating System</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-easy-methods-to-unlock-icloud-locked-apple-iphone-15ipadipod-by-drfone-ios/"><u>In 2024, 3 Easy Methods to Unlock iCloud Locked Apple iPhone 15/iPad/iPod</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-lava-yuva-2-pro-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Lava Yuva 2 Pro PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-six-innovative-approaches-for-recording-and-storing-mov-files-on-windows-11/"><u>In 2024, Six Innovative Approaches for Recording and Storing MOV Files on Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-your-brother-dcp-l2540dw-printer-now-effortless-windows-driver-guide/"><u>Install Your Brother DCP-L2540DW Printer Now – Effortless Windows Driver Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/success-free-downloads-for-stable-1535-network-connectivity-drivers/"><u>Success! Free Downloads for Stable 1535 Network Connectivity Drivers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-critical-factors-of-investing-in-refurbished-ipads-a-guide-for-savvy-shoppers/"><u>The Critical Factors of Investing in Refurbished iPads: A Guide for Savvy Shoppers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722971114767-upgrade-your-nvidia-rtx-2080-with-new-windows-1011-drivers-free-downloads-available/"><u>Upgrade Your Nvidia RTX 2080 with New Windows 10/11 Drivers - Free Downloads Available!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Anticipated Announcements at Apple's Oct Event: The New M4 Mac Mini & Upcoming iPad Releases"
-date: 2025-01-19T18:21:07.447Z
-updated: 2025-01-25T01:00:10.642Z
+date: 2025-01-29T16:09:19.204Z
+updated: 2025-02-01T22:47:06.728Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,22 +118,20 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ontrolling-youtubes-playback-speed-mobile-and-pc-for-2024/"><u>[New] Controlling YouTube's Playback Speed - Mobile and PC for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-vimeos-lifesaver-for-free-video-editors/"><u>[New] In 2024, Vimeo's Lifesaver for Free Video Editors</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-playspectate-screen-recorder/"><u>[Updated] 2024 Approved PlaySpectate Screen Recorder</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/are-airpods-compatible-with-android-devices/"><u>Are AirPods Compatible with Android Devices?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/creating-and-managing-dual-or-multi-monitor-configurations-on-your-windows-10-pc/"><u>Creating and Managing Dual or Multi-Monitor Configurations on Your Windows 10 PC</u></a></li>
-<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-apple-iphone-15-pro-max-in-3-ways-drfone-by-drfone-virtual-ios/"><u>Edit and Send Fake Location on Telegram For your Apple iPhone 15 Pro Max in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-global-stage-excellent-live-soundscape/"><u>In 2024, Global Stage Excellent Live Soundscape</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-technology-trends-at-toms-computer-wisdom/"><u>Navigating Technology Trends at Tom's Computer Wisdom</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-giants-of-online-communities-facebook-twitter-instagram-and-youtube/"><u>Navigating the Giants of Online Communities: Facebook, Twitter, Instagram & Youtube</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-the-world-of-gadgets-with-toms-expertise/"><u>Navigating the World of Gadgets with Tom's Expertise</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-through-networking-and-hardware-tips-from-toms-electronics-reviews/"><u>Navigating Through Networking and Hardware Tips From Tom’s Electronics Reviews</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/samsungs-high-res-5k-ips-screen-with-integrated-cu4k-camera-hits-899-save-44-on-pixel-dense-viewfinity-s9/"><u>Samsung's High-Res 5K IPS Screen with Integrated Cu4k Camera Hits $899 – Save 44% on Pixel-Dense ViewFinity S9!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/save-200-on-alienwares-spectacular-32-4k-240hz-oled-gaming-display-aw3225qf/"><u>Save $200 on Alienware’s Spectacular 32 4K, 240Hz OLED Gaming Display: AW3225QF</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-leading-ultrawide-screens-dominating-gamers-picks/"><u>The Leading Ultrawide Screens Dominating Gamers' Picks</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-computer-components-analysis-and-expert-reviews/"><u>Tom's Computer Components Analysis & Expert Reviews</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-hub-ultimate-gadget-guide/"><u>Tom's Tech Hub: Ultimate Gadget Guide</u></a></li>
-<li><a href="https://facebook.techidaily.com/understanding-our-observed-world-economy/"><u>Understanding Our Observed World Economy</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gentle-audio-dimming-methods-in-os-xwindows/"><u>[New] Gentle Audio Dimming Methods in OS X/Windows</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-legality-of-capturing-and-reproducing-youtube-video-playbacks/"><u>[New] Legality of Capturing and Reproducing YouTube Video Playbacks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-experts-choice-top-10-best-free-lut-downloads/"><u>[Updated] In 2024, Expert's Choice - Top 10 Best Free LUT Downloads</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-precision-toolkit-for-flawless-webp-to-jpg-changeover/"><u>[Updated] In 2024, Precision Toolkit for Flawless WebP to JPG Changeover</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-unlocking-the-secrets-to-outro-mastery-free-tutorials-1-6-for-2024/"><u>[Updated] Unlocking the Secrets to Outro Mastery (FREE Tutorials 1-6) for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-source-to-obtain-logitech-unifying-receiver-driver-for-windows-users/"><u>Best Source to Obtain Logitech Unifying Receiver Driver for Windows Users</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-fixes-how-to-recover-forgotten-icloud-password-from-your-apple-iphone-6-plus-by-drfone-ios/"><u>Easy Fixes How To Recover Forgotten iCloud Password From your Apple iPhone 6 Plus</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722964307118-ensure-optimal-performance-download-hp-elitebook-x360-1030-g2-drivers-today/"><u>Ensure Optimal Performance: Download HP EliteBook X360 1030 G2 Drivers Today!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/forderung-des-engagements-wie-kunstliche-intelligenz-den-sicheren-dokumentenzugriff-erleichtert/"><u>Förderung Des Engagements: Wie Künstliche Intelligenz Den Sicheren Dokumentenzugriff Erleichtert</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-securely-obtain-new-drivers-for-netgear-adapters-comprehensive-guide/"><u>How to Securely Obtain New Drivers for NETGEAR Adapters: Comprehensive Guide</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-infinix-hot-30-5g-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Infinix Hot 30 5G FRP</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mrsa-is-an-example-of-a-bacteria-that-has-developed-resistance-to-commonly-used-antibiotics-like-methicillin/"><u>MRSA Is an Example of a Bacteria that Has Developed Resistance to Commonly Used Antibiotics Like Methicillin.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/no-turning-back-intels-non-k-processor-crash-woes-extend-to-65w-and-up-recall-missing/"><u>No Turning Back: Intel’s Non-K Processor Crash Woes Extend to 65W and Up, Recall Missing</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/speedy-driver-download-for-samsung-m2070fw-easy-steps-inside/"><u>Speedy Driver Download for Samsung M2070FW – Easy Steps Inside</u></a></li>
 </ul></div>
 

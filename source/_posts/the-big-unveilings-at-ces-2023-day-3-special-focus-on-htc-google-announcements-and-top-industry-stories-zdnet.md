@@ -1,7 +1,7 @@
 ---
 title: "The Big Unveilings at CES 2023 Day 3: Special Focus on HTC, Google Announcements, and Top Industry Stories | ZDNET"
-date: 2025-01-21T16:09:39.190Z
-updated: 2025-01-24T22:24:00.576Z
+date: 2025-01-28T17:51:02.156Z
+updated: 2025-02-01T16:03:22.279Z
 tags:
   - laptops
 categories:
@@ -39,6 +39,10 @@ Cons
 * Poor battery
 * Limited charging
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Razer Blade 17
 
 ### Best gaming laptop overall
@@ -69,7 +73,7 @@ Cons
 ## Acer Nitro 5
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best gaming laptop value
@@ -97,11 +101,11 @@ Cons
 * Comes with bloatware
 * Not the most efficient cooling system
 
-## Asus ROG Zephyrus G14
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Asus ROG Zephyrus G14
 
 ### Best ultra-portable gaming laptop
 
@@ -154,7 +158,7 @@ Cons
 * Very heavy
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MSI GT77 Titan
@@ -170,10 +174,6 @@ It starts with a super-fast 13th-Generation Intel Core i9-13980HX processor. Fro
 The NVIDIA GeForce RTX 4080 graphics card will do your games justice and works in hand with the Cherry MX Ultra Low Profile mechanical keyboard. Connectivity is great with options for Thunderbolt 4 and USB-Type C ports. Meanwhile, MSI OverBoost Ultra technology pushes for maximum performance while preventing overheating through its Cooler Boost Titan system. 
 
 Show Expert Take Show less 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is the best gaming laptop?
 
@@ -212,25 +212,25 @@ Before you buy a gaming laptop, take a moment to reflect on these considerations
 * **Connectivity:** Laptops generally do not offer as many ports as their desktop companions, but that does not mean you are out of luck. The best gaming laptops will offer plenty of options, such as USB-C, USB-A, Thunderbolt 4, and HDMI ports.
 * **Price:** The cost of a good gaming laptop can vary significantly, with the difference ranging several thousands of dollars. Things like your processor, graphics card, and memory can all impact the price, so keep these things in mind when shopping. To help give you an idea of what to expect, we found that the best gaming laptops range from $650 to more than $3,800 in price.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Which brand is best for gaming laptops?
 
 When shopping for gaming laptops, you will find that there are many options available by several different computer manufacturers. Some manufacturers may specialize in [budget gaming laptops](https://www.zdnet.com/home-and-office/home-entertainment/best-budget-gaming-laptop/), while others may focus on high-end laptops. In our search, we found the best gaming laptops came from leading manufacturers such as Razer, Acer, Asus, and HP.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Can you buy a gaming laptop for $1,000?
 
 It is easy to spend several thousand dollars on a gaming laptop, but it is possible to find a great gaming[laptop under $1,000](https://www.zdnet.com/article/best-laptop-under-1000/) when you are on a budget. With the Acer Nitro 5 and HP Victus 15 priced around $650, you can easily purchase a quality laptop under $1,000 without sacrificing key features. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How much RAM do I need in a gaming laptop?
 
 RAM refers to random-access memory, or the amount of memory that your computer has. It is critical that your gaming laptop has enough RAM to run your favorite games and save files. Typically, the best gaming laptops have at least eight megabytes of RAM but the general rule of thumb is the more RAM, the better.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Are there alternative gaming laptops worth considering?
 
@@ -280,18 +280,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-alternate-avenues-10-great-games-like-gta-v/"><u>[Updated] Alternate Avenues 10 Great Games Like GTA V</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/a-step-by-step-tutorial-for-capturing-excellent-igtv-footage/"><u>A Step-by-Step Tutorial for Capturing Excellent IGTV Footage</u></a></li>
-<li><a href="https://games-able.techidaily.com/combatting-ps5-intermittent-connection-issues/"><u>Combatting PS5 Intermittent Connection Issues</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/discover-your-perfect-match-the-best-6-gopro-helmet-harnesses/"><u>Discover Your Perfect Match The Best 6 GoPro Helmet Harnesses</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-honor-x8b-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Honor X8b to Mac? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-tech-with-tom-hardware-breakdowns-for-smart-buys/"><u>Navigating Tech with Tom: Hardware Breakdowns for Smart Buys</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-the-world-of-gadgets-and-systems-lessons-from-toms-hardware/"><u>Navigating the World of Gadgets and Systems: Lessons From Tom's Hardware</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-through-innovations-at-toms-digital-workshop/"><u>Navigating Through Innovations at Tom's Digital Workshop</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-through-tech-trends-at-toms-electronic-review-center/"><u>Navigating Through Tech Trends at Tom's Electronic Review Center</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/next-gen-windows-computers-to-embrace-arm-processors-from-mediatek-as-qualcomms-exclusivity-term-ends/"><u>Next-Gen Windows Computers to Embrace Arm Processors From MediaTek as Qualcomm's Exclusivity Term Ends</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/pioneering-electronics-evaluation-at-toms-device-domain/"><u>Pioneering Electronics Evaluation at Tom's Device Domain</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolving-imessage-issues-on-apple-products-a-step-by-step-guide/"><u>Resolving iMessage Issues on Apple Products: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/troubleshooting-sony-a6400-lost-video-viewing/"><u>Troubleshooting Sony A6400 Lost Video Viewing</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-driving-income-through-youtube-shorts-crucial-elements-and-earnings-potential/"><u>[Updated] Driving Income Through YouTube Shorts Crucial Elements and Earnings Potential</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-radeon-r9-360-graphics-driver-download-and-update-on-windows-11/"><u>AMD Radeon R9 360 Graphics Driver Download & Update on Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-smbus-driver-update-how-to-quickly-secure-your-system/"><u>AMD SMBus Driver Update: How to Quickly Secure Your System</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-update-your-dell-latitude-e6420-driver-software-in-a-flash/"><u>Download & Update Your Dell Latitude E6420 Driver Software in a Flash</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-installation-for-the-latest-synaptics-touchpad-drivers/"><u>Effortless Installation for the Latest Synaptics Touchpad Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-setup-asus-usb-bt400-driver-guide/"><u>Effortless Setup: Asus USB-BT400 Driver Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-windows-store-cache-issues-a-comprehensive-guide/"><u>Fixing Windows Store Cache Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-zexmte-device-working-on-pc-windows-11-7-and-8-driver-software-available-now/"><u>Get Your Zexmte Device Working on PC - Windows 11, 7 & 8 Driver Software Available Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hassle-free-and-rapid-downloading-of-samsung-nvme-drivers-your-essential-how-to-resource/"><u>Hassle-Free and Rapid Downloading of Samsung NVMe Drivers - Your Essential How-To Resource</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-realme-c33-2023-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Realme C33 2023 Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-upgrade-your-wireless-drivers-in-windows-11-and-10/"><u>How to Upgrade Your Wireless Drivers in Windows 11 & 10</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Nubia Red Magic 9 Pro? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723262324427-intel-cpu-owners-take-note-game-dev-offers-solutions-to-mitigate-crashes-on-13th-and-14th-gen-models-click-for-guide/"><u>Intel CPU Owners, Take Note! Game Dev Offers Solutions to Mitigate Crashes on 13Th & 14Th Gen Models – Click for Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/latest-ipad-genre-unveiled-discover-the-most-recent-advancements/"><u>Latest iPad Genre Unveiled: Discover the Most Recent Advancements</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/nine-quick-fixes-for-facebook-live-problems/"><u>Nine Quick Fixes for Facebook Live Problems</u></a></li>
+<li><a href="https://win-hot.techidaily.com/step-by-step-guide-moving-your-phone-numbers-from-a-nokia-device-to-the-samsung-galaxy-s5/"><u>Step-by-Step Guide: Moving Your Phone Numbers From a Nokia Device to the Samsung Galaxy S5</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-fix-download-and-setup-your-mouse-driver-in-windows/"><u>Ultimate Fix: Download & Setup Your Mouse Driver in Windows</u></a></li>
 </ul></div>
 

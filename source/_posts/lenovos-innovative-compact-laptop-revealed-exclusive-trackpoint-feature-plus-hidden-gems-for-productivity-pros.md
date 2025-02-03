@@ -1,7 +1,7 @@
 ---
 title: "Lenovo’s Innovative Compact Laptop Revealed: Exclusive TrackPoint Feature + Hidden Gems for Productivity Pros!"
-date: 2025-01-20T23:01:37.562Z
-updated: 2025-01-25T01:12:14.332Z
+date: 2025-01-30T18:11:49.495Z
+updated: 2025-02-01T17:58:16.207Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -95,7 +95,7 @@ Instead, I see the Vivobook S 15 as a primary driver for remote workers or digit
 It also has a "full" keyboard (the number pad on the right side has slightly smaller keys, as typical for sub-16-inch machines), which is satisfying and responsive to typing on. The keyboard has colorful LED backlighting that can be configured in many different lights and effects, but again, this is not something that I would consider high on the priority list when optimizing battery life. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -134,24 +134,20 @@ All things considered, the starting price of $1,299 is quite competitive for thi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-playspectate-screen-recorder-for-2024/"><u>[New] PlaySpectate Screen Recorder for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-seamlessly-screen-record-the-mi-11-user-manual/"><u>[Updated] Seamlessly Screen Record The Mi 11 User Manual</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/300-discount-on-the-ultra-performa-omen-transcend-14-with-rtx-graphics-and-stunning-oled-screen/"><u>$300 Discount on the Ultra-Performa Omen Transcend 14 with RTX Graphics and Stunning OLED Screen</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-punchline-creator-suite/"><u>2024 Approved Punchline Creator Suite</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/5-solutions-for-xiaomi-redmi-13c-unlock-without-password-by-drfone-android/"><u>5 Solutions For Xiaomi Redmi 13C Unlock Without Password</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/advanced-system-analysis-by-tom-your-reliable-source-for-hardware-info/"><u>Advanced System Analysis by Tom - Your Reliable Source for Hardware Info</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ai-desktops-demystified-a-must-have-technology-or-merely-trendy-gadgetry/"><u>AI Desktops Demystified: A Must-Have Technology or Merely Trendy Gadgetry?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-evaluation-of-the-razer-blade-14-powerful-computing-fit-for-a-high-investment/"><u>Comprehensive Evaluation of the Razer Blade 14: Powerful Computing Fit for a High Investment</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/deep-dive-into-technology-reliable-recommendations-from-toms-hardware/"><u>Deep Dive Into Technology: Reliable Recommendations From Tom's Hardware</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/elevate-zoom-audio-clarity-with-strategic-effective-tweaks/"><u>Elevate Zoom Audio Clarity with Strategic, Effective Tweaks</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862657922-experience-next-level-gaming-with-the-affordable-lenovo-legion-slim-ebranded-as-a-high-quality-gaming-laptop-under-1100-on-newegg/"><u>Experience Next-Level Gaming with the Affordable Lenovo Legion Slim Ebranded as a High-Quality Gaming Laptop Under $1,100 on Newegg.</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-forgotten-pin-of-your-vivo-t2-pro-5g-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Vivo T2 Pro 5G</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, 6 Ways to Change Spotify Location On Your Apple iPhone 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-samsung-galaxy-m34-5g-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Samsung Galaxy M34 5G on Windows</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/strategies-to-find-the-perfect-power-source-for-drones/"><u>Strategies to Find the Perfect Power Source for Drones</u></a></li>
-<li><a href="https://some-tips.techidaily.com/tips-for-sharper-images-during-zoom-calls-for-2024/"><u>Tips for Sharper Images During Zoom Calls for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-ultrabook-and-luxury-laptop-picks-of-2024/"><u>Top-Rated Ultrabook & Luxury Laptop Picks of 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-cutting-edge-tech-secrets-at-toms-hardware-sanctuary/"><u>Unveiling Cutting-Edge Tech Secrets at Tom's Hardware Sanctuary</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-power-of-the-lenovo-legion-pro-5i-gen-9-an-exceptional-gaming-laptop-with-an-excellent-price-tag/"><u>Unveiling the Power of the Lenovo Legion Pro 5I (Gen 9) - An Exceptional Gaming Laptop with an Excellent Price Tag</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-gamelog-analysts-guide/"><u>[New] In 2024, GameLog Analyst's Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-perfecting-the-pulse-news-outro-techniques/"><u>[New] In 2024, Perfecting the Pulse News Outro Techniques</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-navigating-legalities-in-sharing-musical-works/"><u>[Updated] Navigating Legalities in Sharing Musical Works</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-youtube-mastering-the-use-of-tags-for-maximum-reach/"><u>2024 Approved YouTube Mastering the Use of Tags for Maximum Reach</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-installation-updated-amd-rx-580-gpu-drivers-for-optimal-performance/"><u>Effortless Installation: Updated AMD RX 580 GPU Drivers for Optimal Performance</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/expert-level-data-revival-software-secure-all-varieties-of-data-with-ease/"><u>Expert-Level Data Revival Software: Secure All Varieties of Data with Ease</u></a></li>
+<li><a href="https://discover-great.techidaily.com/free-online-solution-for-transforming-mp4-videos-into-mp3-audio-step-by-step-tutorial/"><u>Free Online Solution for Transforming MP4 Videos Into MP3 Audio : Step-by-Step Tutorial</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-canon-mp56nmp560-printer-drivers-quick-and-effortless-download/"><u>Get the Latest Canon MP56n/MP560 Printer Drivers - Quick and Effortless Download!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-nvidia-quadro-graphics-driver-for-windows-10-here/"><u>Get the Latest NVIDIA Quadro Graphics Driver for Windows 10 Here!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-epson-v600-driver-step-by-step-guide-with-download-links/"><u>How to Install Epson V600 Driver: Step-by-Step Guide with Download Links</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-converting-mac-image-types-a-step-by-step-process/"><u>In 2024, Converting Mac Image Types A Step-by-Step Process</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-enhance-your-projects-top-10-after-effects-text-plans/"><u>In 2024, Enhance Your Projects Top 10 After Effects Text Plans</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/stay-one-step-ahead-of-cpu-issues-game-devs-breakthrough-alert-for-intel-core-processors-easy-fix-procedures-revealed/"><u>Stay One Step Ahead of CPU Issues: Game Dev's Breakthrough Alert for Intel Core Processors - Easy Fix Procedures Revealed</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-easiest-way-to-secure-new-samsung-c460-drivers-in-minutes/"><u>The Easiest Way to Secure New Samsung C460 Drivers in Minutes</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/unlock-the-potential-of-hero5-black-for-stunning-visuals-for-2024/"><u>Unlock the Potential of Hero5 Black for Stunning Visuals for 2024</u></a></li>
 </ul></div>
 

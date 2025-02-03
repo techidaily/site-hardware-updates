@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Verdict on Acer's Chromebook ^516GE for Cloud Gamers | Expert Reviews by ZDNET
-date: 2025-01-18T17:21:22.685Z
-updated: 2025-01-24T17:39:15.439Z
+date: 2025-01-26T21:49:26.347Z
+updated: 2025-02-01T22:20:34.797Z
 tags:
   - laptops
 categories:
@@ -34,10 +34,6 @@ thumbnail: https://www.zdnet.com/a/img/resize/9c5c604a660fb3917fa9d4e87d43e90659
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 The redesigned (13-inch) M2 MacBook Air was so impressive from a design and performance standpoint that ZDNET named it our [Product of the Year for 2022](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/). The [M3 MacBook Air](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F13-inch-m3&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is a worthy successor, now offered in two sizes, 13-inch and 15-inch. ZDNET has tested both over the past week and has been [impressed enough with their three big upgrades](https://www.zdnet.com/article/apple-m3-macbook-air-hands-on-these-3-new-features-stood-out-to-me-most/) that it makes these new machines an easy buy recommendation for pros and enthusiasts who need more AI power and multiple external monitors. But, there are also some important buying considerations. 
@@ -47,6 +43,10 @@ First, the best thing about the arrival of the M3 MacBook Air models might be th
 One more thing to keep in mind if you're considering buying the 15-inch M3 MacBook Air: if you configure it with 16GB of RAM and 512GB of storage, then you'll be at $1,699 and quickly getting into 14-inch M3 MacBook Pro territory in terms of cost. If you're going to go there, I'd recommend opting for the 14-inch M3 MacBook Pro instead, because of its much better display and sound, and the fact that you can hook it up to two external monitors and still use the laptop's monitor as a third display.
 
 **Also:** [**MacBook Pro (M3 Max) review: A desktop-class laptop for an AI-powered age**](https://www.zdnet.com/article/macbook-pro-m3-max-review/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specifications
 
@@ -106,7 +106,7 @@ For quantitive testing, I followed the same routine I used in my [review of the 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Cinebench CPU/GPU benchmark (higher is better)
@@ -137,10 +137,6 @@ For quantitive testing, I followed the same routine I used in my [review of the 
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What are the best features of M3 MacBook Air?
 
 **Features and form factor make it a light "pro" laptop:** The thin, light, and compact design of the M3 MacBook Air makes it a great ultraportable laptop that is easy to carry and slip into virtually any bag or backpack. And with the fact that the M3 chip now packs more power than ever makes this a machine that is as powerful as the fastest pro laptops from just a couple of years ago. Case in point, take a look at the benchmark scores above of the M3 MacBook Air compared to the MacBook Pro with M1 Pro. It essentially matches or exceeds most of the numbers of that MacBook Pro, which was an absolute performance beast in recent years.
@@ -154,6 +150,10 @@ The M3 MacBook Air is powerful enough to feel like a desktop. Here, it's powerin
 Jason Hiner/ZDNET
 
 **Neural engine to power through AI tasks:** According to Apple's internal tests, the neural engine in the M3 MacBook Air offers a 60% improvement in performance over the previous generation M2 MacBook Air. As you can see in my real-world AI test above using the Denoise feature in Adobe Lightroom, I didn't see that kind of lift. Nevertheless, it's possible the Adobe software isn't optimized for M3 yet. And the overall benchmark improvements provide encouragement that this machine could be ready for more. A big test will be when Apple releases its own generative AI features later this year. It feels like this product is anticipating that, and could already be optimized for it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What I'd like to see in the next model
 
@@ -172,7 +172,7 @@ Jason Hiner/ZDNET
 **Better built-in sound:** One of the main things you give up by going with the M3 MacBook Air versus the MacBook Pro models is that you get a much inferior set of built-in speakers. The strong base and excellent sound clarity of the MacBook Pro models are made possible by the speakers on either side of the keyboard, while sound comes from the hinge area on the M3 MacBook Air. The result is that you have much lower fidelity sound that is a bit mushy and thin. You can overcome this, of course, by simply listening through a pair of quality headphones like the [AirPods Pro 2nd-gen](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHWRXH8B%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6a4cd20f-90e2-4305-8adc-535aae82592c%7Cdtp&dtb=1) or the [Sony WF-1000XM5 earbuds](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C33XXS56%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6a4cd20f-90e2-4305-8adc-535aae82592c%7Cdtp&dtb=1). But there are always going to be times when you want and need to use the built-in speakers.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Final thought
@@ -186,7 +186,7 @@ Up close with the M3 MacBook Air 15-inch in Midnight.
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -235,22 +235,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-the-quest-for-perfection-topiary-angles-in-mobile-photography/"><u>[New] The Quest for Perfection Topiary Angles in Mobile Photography</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/npacking-t-series-earnings-through-youtube-channels/"><u>[New] Unpacking T-Series' Earnings Through YouTube Channels</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-facebooks-blue-icon-decoding-its-meaning-in-chats/"><u>[Updated] In 2024, Facebook's Blue Icon Decoding Its Meaning in Chats</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/movavicaf-wav/"><u>使用 Movavi，在線無成本改變格式，CAF 傳送為 WAV音頻</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/action-shooting-guide-choosing-cameras-as-a-novice-23-update-for-2024/"><u>Action Shooting Guide Choosing Cameras as a Novice '23 Update for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/best-sites-for-watching-vintage-cartoons-without-cost-a-list-of-six/"><u>Best Sites for Watching Vintage Cartoons Without Cost: A List of Six</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-oppo-a58-4g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Oppo A58 4G without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-hardware-knowledge-with-toms-electronic-guides/"><u>Mastering Hardware Knowledge with Tom’s Electronic Guides</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-your-pc-needs-dive-into-toms-comprehensive-hardware-guides/"><u>Mastering Your PC Needs? Dive Into Tom's Comprehensive Hardware Guides</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-new-gear-comprehensive-reviews-on-toms-computer-tech-hub/"><u>Navigating New Gear: Comprehensive Reviews on Tom's Computer Tech Hub</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-the-world-of-gadgets-with-tom-insights-from-toms-hardware/"><u>Navigating the World of Gadgets with Tom - Insights From Tom's Hardware</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/nice-price-drop-acers-34-curved-qhd-monitor-now-just-200-on-newegg/"><u>Nice Price Drop: Acer's 34 Curved QHD Monitor Now Just $200 on Newegg!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/revolutionizing-gameplay-a-comprehensive-review-of-the-pixio-px277-oled-gaming-screen/"><u>Revolutionizing Gameplay: A Comprehensive Review of the Pixio PX277 OLED Gaming Screen</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-average-achiever-a-review-of-viewsonics-va1655-all-rounder-monitor/"><u>The Average Achiever: A Review of ViewSonic's VA1655 All-Rounder Monitor</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-best-bending-monitors-for-gamers-our-top-2024-recommendations/"><u>The Best Bending Monitors for Gamers: Our Top 2024 Recommendations</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/unlocking-asmrs-hidden-layers-for-2024/"><u>Unlocking ASMR's Hidden Layers for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-premier-seminar-title-inventor-suite/"><u>2024 Approved Premier Seminar Title Inventor Suite</u></a></li>
+<li><a href="https://win11.techidaily.com/1719348593153-conquer-non-compatibilities-easy-steps-for-windows-xp-users/"><u>Conquer Non-Compatibilities: Easy Steps for Windows XP Users.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/corsair-logitech-mx700-k70-software-download-and-installation-guide/"><u>Corsair Logitech MX700 (K70) Software Download & Installation Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-download-and-step-by-step-guide-to-installing-aoc-monitors-driver-for-windows-11108/"><u>Easy Download and Step-by-Step Guide to Installing AOC Monitors Driver For Windows 11/10/8</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-solutions-to-update-or-fix-hp-monitor-drivers-in-multiple-windows-os/"><u>Easy Solutions to Update or Fix HP Monitor Drivers in Multiple Windows OS</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fixing-windows-10-search-issues-top-tips-and-tricks/"><u>Fixing Windows 10 Search Issues - Top Tips and Tricks</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-wpt-file-document-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How do i sign a .wpt file document electronically</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Realme Narzo 60 5G? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-oppo-reno-9a-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Oppo Reno 9A Without Password | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-the-experts-picks-for-high-quality-vector-websites/"><u>In 2024, The Expert's Picks for High-Quality Vector Websites</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/logitech-g-series-controller-update-download-the-new-firmware-for-winlogon-systems-today/"><u>Logitech G-Series Controller Update: Download the New Firmware for Winlogon Systems Today</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mastering-ipad-air-media-seamless-guide-to-watch-wmv-videos-in-ultra-hd/"><u>Mastering iPad Air Media: Seamless Guide to Watch WMV Videos in Ultra HD</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-to-debugging-and-fixing-i2c-human-interface-devices/"><u>Step-by-Step Guide to Debugging and Fixing I2C Human Interface Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-installing-usb-30-drivers-on-windows-devices/"><u>Ultimate Guide to Installing USB 3.0 Drivers on Windows Devices</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ding-your-spotify-library-to-youtube-music-access-for-2024/"><u>Upgrading Your Spotify Library to YouTube Music Access for 2024</u></a></li>
 </ul></div>
 

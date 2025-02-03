@@ -1,7 +1,7 @@
 ---
 title: Best Buy Anti-Prime Day Alert! Secure Your Discounted HP Victus 지킷랄로피 ($515) - Gaming Laptop Deal Unveiled by ZDNet
-date: 2025-01-22T16:03:35.167Z
-updated: 2025-01-24T22:08:49.416Z
+date: 2025-01-26T20:55:15.975Z
+updated: 2025-02-01T21:54:16.348Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,24 +63,17 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-screenscapes-the-new-tech-frontier/"><u>[New] In 2024, Screenscapes The New Tech Frontier</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-the-ultimate-breakdown-decoding-comprehensiveness-of-xvideo-hub-review/"><u>[New] The Ultimate Breakdown Decoding Comprehensiveness of XVideo Hub Review</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-hero5-black-pro-photography-and-cinematography-techniques/"><u>[Updated] Mastering Hero5 Black Pro Photography & Cinematography Techniques</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-maximizing-impact-with-customized-youtube-audiences/"><u>[Updated] Maximizing Impact with Customized Youtube Audiences</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-secure-and-effective-methods-for-facetime-audio-preservation/"><u>[Updated] Secure and Effective Methods for FaceTime Audio Preservation</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-polaroid-xs-100i-action-camera-review/"><u>In 2024, Polaroid XS 100I Action Camera Review</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-realme-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Realme Phone Pattern Lock</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862866297-protect-your-system-with-msis-latest-fix-agesa-120-updates-tackle-amd-zenbleed-issue-once-and-for-all/"><u>Protect Your System with MSI's Latest Fix: AGESA 1.2.0 Updates Tackle AMD Zenbleed Issue Once and For All!</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/step-by-step-guide-on-turning-your-favorite-youtube-clips-into-high-quality-mp3-files/"><u>Step-by-Step Guide on Turning Your Favorite YouTube Clips Into High-Quality MP3 Files</u></a></li>
-<li><a href="https://win11.techidaily.com/the-essential-guide-to-a-clearer-taskbar-in-win11/"><u>The Essential Guide to a Clearer Taskbar in Win11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-source-for-high-performance-computer-hardware-toms-expertise/"><u>The Ultimate Source for High-Performance Computer Hardware: Tom's Expertise</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-hub-your-ultimate-guide-to-computer-components/"><u>Tom's Tech Hub: Your Ultimate Guide to Computer Components</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-expert-gadget-reviews-and-news/"><u>Tom's Tech Insights: Expert Gadget Reviews & News</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-review-comprehensive-insights-on-latest-gadgets/"><u>Tom's Tech Review: Comprehensive Insights on Latest Gadgets</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-review-in-depth-hardware-analyses/"><u>Tom's Tech Review: In-Depth Hardware Analyses</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-non-microsoft-tools-for-immediate-and-accurate-screen-sniping/"><u>Top Non-Microsoft Tools For Immediate and Accurate Screen Sniping</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/transform-your-gaming-setup-with-the-incredible-34-alienware-curved-monitor-now-just-749-on-bestbuy/"><u>Transform Your Gaming Setup with The Incredible 34 Alienware Curved Monitor – Now Just $749 on BestBuy</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlocking-computer-secrets-dive-into-toms-hardware-expertise/"><u>Unlocking Computer Secrets - Dive Into Tom's Hardware Expertise</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/upgrade-to-immersive-gaming-with-the-agon-pro-ag45email-protected-by-aoc-featuring-240hz-oled-technology/"><u>Upgrade to Immersive Gaming with the Agon Pro AG45(email Protected) by AOC, Featuring 240Hz OLED Technology</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-crafting-high-quality-igtv-footage-on-smartphonesdslrs/"><u>[Updated] Crafting High-Quality IGTV Footage on Smartphones/DSLRs</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-skys-dynamic-range-showcase-websites-ranked-1-10/"><u>2024 Approved Sky's Dynamic Range Showcase - Websites Ranked 1-10</u></a></li>
+<li><a href="https://solve-help.techidaily.com/calibre-tutorial-for-changing-epub-files-into-kea-formats-successfully/"><u>Calibre Tutorial for Changing EPUB Files Into KEA Formats Successfully</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/effortless-extraction-of-twitter-jokes-3-ways-for-2024/"><u>Effortless Extraction of Twitter Jokes 3 Ways for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/epson-xp-420-printer-drivers-free-download-and-latest-firmware-update/"><u>Epson XP-420 Printer Drivers: Free Download and Latest Firmware Update</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guru-da-conversao-de-audio-transforme-seus-livros-e-podcasts-m4b-em-mp3-com-seguranca-passo-a-passo/"><u>Guru Da Conversão De Audio: Transforme Seus Livros E Podcasts M4B Em MP3 Com Segurança - Passo a Passo</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-three-trustworthy-ways-to-extract-audio-from-youtube-videos/"><u>In 2024, Three Trustworthy Ways to Extract Audio From YouTube Videos</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-the-most-recent-hp-officejet-pro-9015-driver-step-by-step-guide-and-download-links/"><u>Installing the Most Recent HP Officejet Pro 9015 Driver: Step-by-Step Guide & Download Links</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/overcoming-realtek-rtl8195b-wireless-driver-issues-a-guide-for-windows-11-10-and-ablishing-a-strong-online-presence-is-crucial-heres-a-step-by-step-strategy202/"><u>Overcoming Realtek RTL8195B Wireless Driver Issues: A Guide for Windows 11, 10 & Ablishing a Strong Online Presence Is Crucial. Here's a Step-by-Step Strategy Tailored to Your Needs and Budget Constraints:</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-hub-your-guide-to-computer-components-and-gadgets/"><u>Tom's Tech Hub: Your Guide to Computer Components and Gadgets</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-12-free-movie-streaming-applications-you-can-start-using-today/"><u>Top 12 Free Movie-Streaming Applications You Can Start Using Today</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-5-premium-pellet-grill-models-reviewed-by-techexperts-zdnet/"><u>Top 5 Premium Pellet Grill Models Reviewed by TechExperts (ZDNet)</u></a></li>
 </ul></div>
 

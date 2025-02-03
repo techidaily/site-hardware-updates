@@ -1,7 +1,7 @@
 ---
 title: "Mastery over Intel's Raptor Lake Refresh CPUs: Achieving Unmatched Performance at 7. [Customer]: What Is the Value of $X$ if $\\Frac{x}{5} = -6$?"
-date: 2024-08-19T04:17:10.116Z
-updated: 2024-08-20T04:17:10.116Z
+date: 2025-01-26T18:44:46.631Z
+updated: 2025-02-01T17:23:02.906Z
 tags:
   - overclocking
 categories:
@@ -25,6 +25,10 @@ Professional overclocker Hicookie managed to increase the frequency of one of In
 
  To overclock his Pentium G7400T to 5808 MHz, Hicookie increased its BCLK to 187 MHz (or by 87%), pushed the voltage to 1.656V (which is rather extreme for a 10nm CPU) and used liquid nitrogen cooling. The experiment was conducted on Gigabyte's expensive Aorus Z690 Tachyon motherboard, which is an uncommon pairing with such a cheap CPU. Still, since the purpose of the experiment was to find out the overclocking potential of Intel's Pentium G7400T (rather than build an entry-level machine with overclocking in mind), this choice was justified. What remains to be seen is whether the G7400T is a good overclocker without liquid nitrogen.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -39,8 +43,6 @@ Professional overclocker Hicookie managed to increase the frequency of one of In
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -48,8 +50,24 @@ Professional overclocker Hicookie managed to increase the frequency of one of In
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-fine-tuning-your-obs-live-feeds-for-facebook-audience-for-2024/"><u>[New] Fine-Tuning Your OBS Live Feeds for Facebook Audience for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-a-creators-primer-to-understanding-major-content-providers/"><u>[New] In 2024, A Creator's Primer to Understanding Major Content Providers</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-essential-8-free-apps-for-reducing-mobile-video-sizes/"><u>[Updated] Essential 8 Free Apps for Reducing Mobile Video Sizes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/affordable-high-quality-sound-discover-how-beats-latest-solo-in-ear-headphones-offer-a-budget-friendly-alternative-to-apples-airpods-as-revealed-on-zdnet/"><u>Affordable High-Quality Sound: Discover How Beats' Latest Solo In-Ear Headphones Offer a Budget-Friendly Alternative to Apple's AirPods, As Revealed on ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/asus-pce-ac56-driver-issues-in-windows-1087-solved/"><u>ASUS PCE-AC56 Driver Issues in Windows 10/8/7 [SOLVED]</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-tutorial-on-acquiring-asus-atk01-00-acpi-drivers/"><u>Comprehensive Tutorial on Acquiring ASUS ATK01 00 ACPI Drivers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/convenient-technique-winning-the-art-of-fish-dialogue-alteration-for-2024/"><u>Convenient Technique Winning the Art of Fish Dialogue Alteration for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-focusrite-scarlett-solo-professional-audio-interface-on-windows/"><u>Download Focusrite Scarlett Solo Professional Audio Interface on Windows!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-official-driver-for-your-microsoft-wireless-mouse-5000-fast-and-easy-installation-guaranteed/"><u>Download the Official Driver for Your Microsoft Wireless Mouse 5000 - Fast and Easy Installation Guaranteed!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-canon-d530-camera-firmware-version-download-here/"><u>Get the Newest Canon D530 Camera Firmware Version - Download Here</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-asus-monitor-up-and-running-seamless-driver-installation/"><u>Get Your ASUS Monitor Up and Running: Seamless Driver Installation</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/graviton4-processor-showdown-aws-leads-the-pack-faster-and-cheaper-than-competitors-intel-and-amd-solutions/"><u>Graviton4 Processor Showdown: AWS Leads the Pack Faster and Cheaper than Competitors' Intel & AMD Solutions</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-expert-insights-on-common-filmora-editing-issues/"><u>In 2024, Expert Insights on Common Filmora Editing Issues</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-zte-frp-by-drfone-android/"><u>In 2024, How Can We Bypass ZTE FRP?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-realme-gt-neo-5-se-by-drfone-android/"><u>In 2024, How to Bypass FRP from Realme GT Neo 5 SE?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/instant-installation-guide-for-usb-to-rs232-communication-drivers/"><u>Instant Installation Guide for USB-to-RS232 Communication Drivers</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-the-ultimate-video-flip-tutorial-quick-and-easy-methods/"><u>New In 2024, The Ultimate Video Flip Tutorial Quick and Easy Methods</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->

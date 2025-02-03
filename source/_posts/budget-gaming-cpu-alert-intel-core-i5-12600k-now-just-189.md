@@ -1,7 +1,7 @@
 ---
 title: "Budget Gaming CPU Alert: Intel Core I5-12600K Now Just $189"
-date: 2024-08-19T04:12:26.266Z
-updated: 2024-08-20T04:12:26.266Z
+date: 2025-01-31T20:44:42.346Z
+updated: 2025-02-01T21:05:10.624Z
 tags:
   - power-supply
 categories:
@@ -31,6 +31,10 @@ Even if you buy one of the[best power supplies](https://tools.techidaily.com) , 
 
  The power supplies themselves will carry MSRPs of $199, $249 and $399 for the 1,000, 1,200 and 1,600 watt units respectively. The 1,000 and 1,200 watt units will come in black or white while the 1,600 watt one will only be available in black. All three will be available in August.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -49,8 +53,6 @@ Even if you buy one of the[best power supplies](https://tools.techidaily.com) , 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -58,8 +60,26 @@ Even if you buy one of the[best power supplies](https://tools.techidaily.com) , 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-unveiling-a-simple-yet-powerful-copywriting-model-for-ads/"><u>[New] In 2024, Unveiling a Simple, Yet Powerful Copywriting Model for Ads</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-unveiling-clearer-imagery-instagrams-video-cropping-secrets/"><u>[Updated] 2024 Approved Unveiling Clearer Imagery Instagram's Video Cropping Secrets</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-evolving-narratives-in-virtual-cinema-landscapes/"><u>[Updated] Evolving Narratives in Virtual Cinema Landscapes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ch340g-driver-update-and-install-guide-for-windows-10-users-free-downloads-available/"><u>CH340G Driver Update & Install Guide for Windows 10 Users: Free Downloads Available</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-as-your-coach-techniques-to-develop-emotional-intelligence-skills/"><u>ChatGPT as Your Coach: Techniques to Develop Emotional Intelligence Skills</u></a></li>
+<li><a href="https://extra-information.techidaily.com/crafting-compelling-podcast-cliffhangers-for-2024/"><u>Crafting Compelling Podcast Cliffhangers for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-amd-radeon-driver-compatible-with-windows-7/"><u>Download AMD Radeon Driver: Compatible with Windows 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-tutorial-how-to-install-latest-ati-driver-for-windows-users/"><u>Easy Tutorial: How to Install Latest ATI Driver for Windows Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-ensure-optimal-performance-updating-razer-blackwidows-controller-drivers/"><u>How to Ensure Optimal Performance: Updating Razer BlackWidow's Controller Drivers</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-lava-blaze-2-pro-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Lava Blaze 2 Pro to New Phone | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-vivo-y78-5g-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Vivo Y78 5G FRP</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-new-tech-trends-with-toms-hardware-guidance/"><u>Navigating New Tech Trends with Tom's Hardware Guidance</u></a></li>
+<li><a href="https://win-blog.techidaily.com/path-of-exile-troubleshooting-how-to-reconnect-to-server-the-ultimate-2nnd4-guide/"><u>Path of Exile Troubleshooting: How to Reconnect to Server - The Ultimate 2Nnd4 Guide</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/step-by-step-instructions-complete-iphone-data-removal-techniques/"><u>Step-by-Step Instructions: Complete iPhone Data Removal Techniques</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-circle-of-connectivity-spotlighting-instas-top-25-influencers-for-2024/"><u>The Circle of Connectivity Spotlighting Insta's Top 25 Influencers for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-windrive-problems-neat-scanner-driver-fixes-revealed/"><u>Troubleshooting WinDrive Problems: Neat Scanner Driver Fixes Revealed</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-convenience-how-to-get-and-install-a-samsung-usb-driver-on-your-windows-10-pc/"><u>Ultimate Convenience: How to Get and Install a Samsung USB Driver on Your Windows 10 PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/wacom-intuos-3-drivers-download-in-windows-work-100/"><u>Wacom Intuos 3 Drivers Download in Windows – [Work 100%]</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/windows-1087-driver-update-process-easy-download-and-installation-for-usb-bluetooth-adapters/"><u>Windows 10/8/7 Driver Update Process - Easy Download and Installation for USB Bluetooth Adapters</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

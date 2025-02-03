@@ -1,7 +1,7 @@
 ---
 title: Expert Analysis on PC Components by Tom's Electronics Hub
-date: 2024-08-19T04:15:22.955Z
-updated: 2024-08-20T04:15:22.955Z
+date: 2025-01-29T21:15:10.396Z
+updated: 2025-02-01T18:05:50.239Z
 tags:
   - cases
 categories:
@@ -31,14 +31,11 @@ This is a glorious-looking PC case that's more for the aesthetic than the practi
 
  The case offers a reasonable amount of customization, with brackets for changing your GPU from horizontal to vertical, orientation of the PSU (dependent on mobo size), and radiator placement. The front panel IO located on the right-hand side of the case includes 2 x USB 3 ports and 2 x USB 2 ports, plus audio ports for headset and mic.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -47,8 +44,28 @@ This is a glorious-looking PC case that's more for the aesthetic than the practi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-navigating-through-top-film-makers-landscape-for-2024/"><u>[New] Navigating Through Top Film Makers' Landscape for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-halting-real-time-recordings-on-qt-player-for-2024/"><u>[Updated] Halting Real-Time Recordings on QT Player for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-from-cloudy-to-crisp-how-to-remove-background-in-picsart/"><u>[Updated] In 2024, From Cloudy to Crisp How to Remove Background in Picsart</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-unlocking-tiktok-potential-how-to-upload-from-pcmac/"><u>2024 Approved Unlocking TikTok Potential How to Upload From PC/Mac</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/accessing-premium-movie-content-how-to-get-fandango-on-a-firestick/"><u>Accessing Premium Movie Content: How to Get Fandango on a Firestick</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-latest-brother-mfc-9130cw-printer-drivers/"><u>Download the Latest Brother MFC-9130CW Printer Drivers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/fainter-frequencies-for-pc-and-mac-harmony/"><u>Fainter Frequencies for PC & Mac Harmony</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-steelseries-engine-software-for-enhanced-keyboard-functionality/"><u>Get the Latest SteelSeries Engine Software for Enhanced Keyboard Functionality</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-focusrite-scarlett-2i4-audio-interface-controls-on-windows-computers/"><u>Install Focusrite Scarlett 2I4 Audio Interface Controls on Windows Computers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-latest-hp-deskjet-3755-printer-drivers-compatible-with-windows-os/"><u>Install Latest HP DeskJet 3755 Printer Drivers Compatible with Windows OS</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-space-capturing-videos-on-your-iphone-15-pro-the-ultimate-guide-and-hidden-technique-revealed/"><u>Mastering Space-Capturing Videos on Your iPhone 15 Pro: The Ultimate Guide and Hidden Technique Revealed</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-the-world-of-gadgets-at-toms-hardware-destination/"><u>Navigating the World of Gadgets at Tom's Hardware Destination</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/quick-and-easy-tutorial-on-youtube-song-downloads/"><u>Quick and Easy Tutorial on Youtube Song Downloads!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-to-correcting-realtek-rtl8811au-driver-complications/"><u>Step-by-Step Guide to Correcting Realtek RTL8811AU Driver Complications</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-ultimate-review-of-rexing-v1-dashcam-stylish-cost-effective-and-trustworthy-performance/"><u>The Ultimate Review of Rexing V1 DashCam – Stylish, Cost-Effective & Trustworthy Performance</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-graphics-with-amd-radeon-rx-590-drivers-free-download-and-installation-for-windows/"><u>Update Your Graphics with AMD Radeon RX 590 Drivers – Free Download & Installation for Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-lenovo-camera-software-for-improved-functionality-on-windows-7-devices/"><u>Update Your Lenovo Camera Software for Improved Functionality on Windows 7 Devices</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+

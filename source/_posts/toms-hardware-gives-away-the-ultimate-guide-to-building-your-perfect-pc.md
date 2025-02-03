@@ -1,7 +1,7 @@
 ---
 title: Tom's Hardware Gives Away the Ultimate Guide to Building Your Perfect PC
-date: 2024-08-19T04:16:06.494Z
-updated: 2024-08-20T04:16:06.494Z
+date: 2025-01-26T21:47:57.055Z
+updated: 2025-02-01T21:39:58.492Z
 tags:
   - build
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://cdn.mos.cms.futurecdn.net/2LkoLyxJEykn4ohbtaWZXK-320-80.jpg
 
 ## AMD Quality Computer System Builders Race Event, Q4 2015 - Competitive Price at Just $912
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Component Selection & The Build
 
 ![](https://cdn.mos.cms.futurecdn.net/8uwXgGgUvFKmaEtYiubBDA-320-80.jpg)
@@ -18,6 +22,10 @@ thumbnail: https://cdn.mos.cms.futurecdn.net/2LkoLyxJEykn4ohbtaWZXK-320-80.jpg
 ##
 
 ![](https://cdn.mos.cms.futurecdn.net/gRWZJtRVgRiLT8Rc7hcKrV-320-80.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## System Builder Marathon Q4 2015
 
@@ -90,16 +98,10 @@ Deepcool Gamer Storm Gabriel
 
  Some of you out there might be groaning and asking, "What, this again?" Hold on a minute. Those asking for a better 860K overclock have a valid argument. The 860K was handicapped last quarter with insufficient cooling to get any kind of meaningful overclock. You can't argue with that. This time around the CPU gets better treatment in the form of an aftermarket cooler and a larger case. So no, we're not trying the exact same thing and expecting different results. Do I expect the 860K to outperform the i3-4170? No, I don't. However, in order for me to prove that one way or the other, I need hard numbers and data. I'm curious to see if it can close the gap, if not overcome it.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Alternate Component Selection
 
  I don't need to spend time explaining the same parts from[two days ago](https://tools.techidaily.com) . To save space and time, I'll only address the three new components.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -126,9 +128,6 @@ Deepcool Gamer Storm Gabriel
 
 [View Deal](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-8198437440134718399%26murl%3Dhttp%253A%252F%252Fwww.newegg.com%252FProduct%252FProduct.aspx%253Fcm%255Fmmc%253Dbac-tomshardwaresbm-%255F-systembuildereditorial-%255F-CPU%2BFans%2B%2526%2BHeatsinks-%255F-N82E16835856007%2526Item%253DN82E16835856007%2526IsFeedbackTab%253DTrue%2526nm%255Fmc%253DExtBanner)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Assembly
 
  The only significant change in assembly of this against the Intel build is the CPU cooler. And I ran into fitment issues with it. While I specifically got the low profile version Ballistix memory kit, AMD's rectangular mounting bracket meant the cooler could only be installed in two orientations. Both are problematic with this motherboard. The Gabriel is thinnest on the end opposite of the heat pipe curve. This part extends farthest from the CPU socket and can clear most RAM modules. On either side, the fins have a small step making them a little thicker. This edge of the cooler is a millimeter or two too thick to fully clear the RAM on the side, touching the very top edge of the RAM heat spreader.
@@ -144,8 +143,9 @@ Deepcool Gamer Storm Gabriel
 ![](https://cdn.mos.cms.futurecdn.net/kiyNGE2ogxSRTZjnNEBoST-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Overclocking
 
  I did a little more digging on 860K overclocking after last quarter. Most FM2+ motherboards are very liberal with CPU voltage at stock levels. This means it's usually possible to overclock the CPU while undervolting it. This held true for my particular 860K. Stock voltage was set at 1.45V, but I was able to get it to run at 4.0GHz on only 1.35V. Lowering the voltage helped temperatures, but the CPU still has a pretty hard thermal ceiling that won't let it be pushed as much as it could. Regardless of cooling solution or voltage, the CPU cuts back to 3.5 to 3.7GHz when it hits 65 degrees C (total, not over ambient). Even with the cooler at full speed, I was occasionally hitting that ceiling under the most demanding workloads.
@@ -159,15 +159,21 @@ Deepcool Gamer Storm Gabriel
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The RAM caused me no end of heartburn and frustration. I kept running into seemingly random crashes, regardless of RAM timings. I worried the RAM was somehow bad, but it worked flawlessly in the Intel build. After a quick appeal for help to Thomas, I found the motherboard simply required at least 1.64V to run the RAM, even at stock speeds. Again, the Intel build had no problem with 1.5V. I've never seen a motherboard that's more stable overclocked than at stock speeds, until now.
 
  My system this time around was only capable of reaching DDR3-2133, a bit shy of the 2400 speeds I got last quarter. I did get respectable timings of 10-11-10-31, but that was the limit. Along with the RAM, I upped the northbridge from 1800 to 2000MHz with only a slight bump in voltage to 1.1625V. I wasn't trying to match the frequency of last quarter, I simply couldn't boot the machine at anything past 2000MHz.
@@ -180,8 +186,6 @@ Deepcool Gamer Storm Gabriel
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -189,4 +193,22 @@ Deepcool Gamer Storm Gabriel
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-brand-storytelling-through-the-eyes-of-customer-voices/"><u>[New] 2024 Approved Brand Storytelling Through the Eyes of Customer Voices</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-optimized-video-scale-to-mac-aspect-proportion/"><u>[New] In 2024, Optimized Video Scale to Mac Aspect Proportion</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-expert-tips-on-figma-seamless-bg-erasure-techniques/"><u>[Updated] Expert Tips on Figma Seamless BG Erasure Techniques</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-instagram-archive-essentials-top-15-downloader-tools/"><u>[Updated] In 2024, Instagram Archive Essentials Top 15 Downloader Tools</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-key-strategies-for-navigating-complex-youtube-discussions-for-2024/"><u>[Updated] Key Strategies for Navigating Complex YouTube Discussions for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/compact-powerhouse-revealed-discover-how-the-new-asus-nuc-14-blends-intels-best-cpus-and-amds-leading-gpus/"><u>Compact Powerhouse Revealed: Discover How the New Asus NUC 14 Blends Intel's Best CPUs and AMD's Leading GPUs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conversion-gratuite-de-fichiers-mp3-vers-mkv-en-ligne-avec-movavi-guide-complet/"><u>Conversion Gratuite De Fichiers MP3 Vers MKV en Ligne Avec Movavi - Guide Complet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-installing-canon-mp280-printer-drivers-on-multiple-windows-versions/"><u>Easy Guide to Installing Canon MP280 Printer Drivers on Multiple Windows Versions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-conversion-how-to-turn-your-kfx-format-into-a-universal-pdf-file/"><u>Effortless Conversion: How to Turn Your KFX Format Into a Universal PDF File</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/groundbreaking-feature-for-google-pixel-9-introducing-satellite-sos-messaging-to-revolutionize-crisis-response/"><u>Groundbreaking Feature for Google Pixel 9: Introducing Satellite SOS Messaging to Revolutionize Crisis Response</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-official-logitech-g602-sound-card-drivers-on-windows/"><u>How to Get the Official Logitech G602 Sound Card Drivers on Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/inside-look-at-modern-tech-insights-and-analysis-by-toms-hardware/"><u>Inside Look at Modern Tech: Insights and Analysis by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/qualcomms-announcement-700-snapdragon-powered-pcs-coming-in-the-following-year/"><u>Qualcomm's Announcement: $700 Snapdragon-Powered PCs Coming in the Following Year</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-12-prominent-oppo-a1x-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Oppo A1x 5G Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upgrade-your-printing-secure-download-of-epson-xp-330-printer-software-and-drivers/"><u>Upgrade Your Printing: Secure Download of Epson XP-330 Printer Software & Drivers</u></a></li>
+</ul></div>
 

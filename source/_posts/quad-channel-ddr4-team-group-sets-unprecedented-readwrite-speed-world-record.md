@@ -1,7 +1,7 @@
 ---
 title: Quad-Channel DDR4 Team Group Sets Unprecedented Read/Write Speed World Record
-date: 2024-08-19T04:17:25.557Z
-updated: 2024-08-20T04:17:25.557Z
+date: 2025-01-25T16:25:30.099Z
+updated: 2025-02-01T20:14:07.912Z
 tags:
   - overclocking
 categories:
@@ -27,6 +27,10 @@ Based on Intel's Netburst microarchitecture and made using 65nm process technolo
 
  It is noteworthy that the 8.0 GHz barrier is rather hard to break, and to date, only 117 processors have managed to pass it. The vast majority of the processors to hit 8.0 GHz or higher frequency are AMD's FX 8000-series units, as well as Intel's Cedar Mill-based Celeron D or Pentium CPUs, but there are also several AMD's A-series APUs too.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -35,14 +39,11 @@ Based on Intel's Netburst microarchitecture and made using 65nm process technolo
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -51,9 +52,21 @@ Based on Intel's Netburst microarchitecture and made using 65nm process technolo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-capturing-perfect-voices-3-ipad-solutions/"><u>[New] Capturing Perfect Voices 3 iPad Solutions</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-elevating-creative-content-vimeo-vs-youtubes-approach/"><u>[New] Elevating Creative Content Vimeo vs YouTube's Approach</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-the-ultimate-gag-reel-collection-comical-cells-and-cell-blocks-on-facebook/"><u>[Updated] 2024 Approved The Ultimate Gag Reel Collection Comical Cells and Cell Blocks on Facebook</u></a></li>
+<li><a href="https://win-best.techidaily.com/6auy55s76loq5pig5yop44gu5zob6loq5zcr5lik5oml6acg77ya5a6m5ywo44ks44kk44oj/"><u>高画質映像の品質向上手順：完全ガイド</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722960017247-amd-rx-560-graphics-card-driver-fix-for-all-windows-users-solutions-included/"><u>AMD RX 560 Graphics Card Driver Fix for All Windows Users - Solutions Included!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-80211n-wi-fi-drivers-compatible-with-windows-111087-download-now/"><u>Get the Newest 802.11N Wi-Fi Drivers Compatible with Windows 11/10/8/7 - Download Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-samsung-printer-up-and-running-on-windows-with-our-easy-to-install-drivers/"><u>Get Your Samsung Printer Up and Running on Windows with Our Easy-to-Install Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-download-and-install-toshiba-copiers-drivers-in-windows-os/"><u>How to Download & Install Toshiba Copiers' Drivers in Windows OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-easily-update-intel-video-chip-drivers-a-step-by-step-tutorial/"><u>How to Easily Update Intel Video Chip Drivers: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-vivo-y36i-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Vivo Y36i | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-selecting-the-best-the-top-5-fpv-goggles-list/"><u>In 2024, Selecting the Best The Top 5 FPV Goggles List</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-securing-the-latest-hp-laserjet-1018-printing-drivers/"><u>Step-by-Step Guide: Securing the Latest HP LaserJet 1018 Printing Drivers</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/tactical-co-creation-youtube-and-brand-joint-efforts/"><u>Tactical Co-Creation YouTube and Brand Joint Efforts</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209984323-9781761033209-third-eye-awakening/"><u>Third Eye Awakening | Free Book</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->

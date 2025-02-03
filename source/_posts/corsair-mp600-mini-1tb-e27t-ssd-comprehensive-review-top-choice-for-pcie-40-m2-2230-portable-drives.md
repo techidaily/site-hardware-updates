@@ -1,7 +1,7 @@
 ---
 title: Corsair MP600 Mini 1TB E27T SSD Comprehensive Review - Top Choice for PCIe 4.0 M.2 2230 Portable Drives
-date: 2024-08-19T04:18:20.809Z
-updated: 2024-08-20T04:18:20.809Z
+date: 2025-01-26T17:41:44.853Z
+updated: 2025-02-01T20:52:10.459Z
 tags:
   - ssd
 categories:
@@ -16,6 +16,10 @@ PNY is probably best known for its GPUs, DRAM, and general memory products — m
  The CS3150 isn’t the fastest drive of its kind, though it ranks near the top of our charts. It's also limited to only 1TB and 2TB capacities, with the latter being difficult to find for sale at present. PNY sent us the 1TB model with RGB lighting for this review.  
   
  The CS3150 hardware allows for good all-around and sustained performance, but it retains the power consumption issues of its high-end hardware. The good news is that the heatsink and temperature-controlled fans keep the drive cool and are much quieter than some of the actively cooled fans we've tested. That and the optional, controllable, syncable RGB are the CS3150’s biggest selling points. This could be an interesting drive for some builds, even at 1TB, although the pricing makes a niche product.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## PNY CS3150 Specifications
 
@@ -109,9 +113,6 @@ Show More Deals
 
  If you happen to get the RGB or Epic-X version of the CS3150, PNY supplies its VelocityX RGB control software. This can sync with other PNY RGB products, namely GPUs and DRAM. For[benchmarking](https://tools.techidaily.com) and drive health information, we recommend CrystalDiskMark and CrystalDiskInfo. For cloning and imaging, the free Clonezilla is a good place to start.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## PNY CS3150 — A Closer Look
 
  Image 1 of 2
@@ -119,8 +120,9 @@ Show More Deals
 ![PNY CS3150 1TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ![PNY CS3150 1TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -138,8 +140,9 @@ Show More Deals
 ![PNY CS3150 1TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ![PNY CS3150 1TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -149,8 +152,9 @@ Show More Deals
 ![PNY CS3150 1TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ![PNY CS3150 1TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -160,15 +164,13 @@ Show More Deals
 ![PNY CS3150 1TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ![PNY CS3150 1TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  The heatsink can be removed if desired by removing the four screws and pulling the heatsink away from the drive. There are thermal pads on both sides of the drive — which makes sense, as it’s double-sided and the heatsink has a backplate (that might be easier to remove with some heat).  
@@ -253,8 +255,6 @@ powered by
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -262,4 +262,18 @@ powered by
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-authenticating-your-youtube-username-and-email/"><u>[New] In 2024, Authenticating Your YouTube Username & Email</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-simplified-methods-to-screen-record-instagrams-story-feature/"><u>[New] In 2024, Simplified Methods to Screen Record Instagram's Story Feature</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-the-ultimate-tutorial-for-immersive-iphone-vr-viewing/"><u>2024 Approved The Ultimate Tutorial for Immersive iPhone VR Viewing</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-strix-point-ryzen-unleashes-new-contender-the-ryzen-ai-9-hx-375-beats-its-predecessor/"><u>AMD Strix Point Ryzen Unleashes New Contender: The Ryzen AI 9 HX 375 Beats Its Predecessor</u></a></li>
+<li><a href="https://win11.techidaily.com/escape-01kbs-slowness-with-effective-fixes-for-valorant/"><u>Escape 0.1KB/S Slowness with Effective Fixes for Valorant</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-latest-brother-mfc-l2740dw-drivers-for-your-windows-computer/"><u>Get Latest Brother MFC-L2740DW Drivers for Your Windows Computer</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-prime-image-archive-platforms/"><u>In 2024, Prime Image Archive Platforms</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/is-it-possible-to-share-a-spotify-playlist-simultaneously-with-someone-else/"><u>Is It Possible to Share a Spotify Playlist Simultaneously with Someone Else?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-18-handy-ios-shortcuts-app-tricks-and-tips/"><u>Top 18 Handy iOS Shortcuts App Tricks & Tips</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722978290438-update-to-the-newest-drivers-for-your-msi-x470-motherboard-today/"><u>Update to the Newest Drivers for Your MSI X470 Motherboard Today!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/user-friendly-guide-to-getting-your-printer-setup-right-brother-l2/"><u>User-Friendly Guide To Getting Your Printer Setup Right - Brother L2</u></a></li>
+</ul></div>
 

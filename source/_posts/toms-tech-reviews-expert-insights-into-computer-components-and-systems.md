@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Reviews: Expert Insights Into Computer Components and Systems"
-date: 2024-08-19T04:18:10.660Z
-updated: 2024-08-20T04:18:10.660Z
+date: 2025-01-27T17:22:02.796Z
+updated: 2025-02-01T20:28:49.406Z
 tags:
   - ssd
 categories:
@@ -42,6 +42,10 @@ NEM-PA8TB  (Image credit: Nextorage)
 
  The NEM-PA8TB is already available on[Amazon](https://tools.techidaily.com) for[$849.99](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB0CTGTNSDX%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1185771451787124906-20) . The vanilla NE1N8TB, however, hasn't gone up at any U.S. retailers. In Japan, the NEM-PA8TB costs[2,000 yen](https://go.redirectingat.com/?id=92X1584492&xcust=tomshardware%5Fus%5F1271651936150678199&xs=1&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0CTGV11V4%3Fth%3D1&sref=https%3A%2F%2Fwww.tomshardware.com%2Fpc-components%2Fssds%2Fnextorage-launches-8tb-ssd-for-pc-gamers-and-ps5-owners-dollar849-for-8tb-of-storage-at-7300-mbs) more than the NE1N8TB, which is around $13.34\. Therefore, the NE1N8TB could retail for about the $836.65 mark.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -56,8 +60,6 @@ NEM-PA8TB  (Image credit: Nextorage)
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -65,8 +67,18 @@ NEM-PA8TB  (Image credit: Nextorage)
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-gifguardian-elite-a-must-have-toolkit-for-twitters-visual-vanguards/"><u>[Updated] GifGuardian Elite A Must-Have Toolkit for Twitter's Visual Vanguards</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/approach-contrast-the-objectives-of-pbsd-with-prescriptive-code-requirements/"><u>Approach: Contrast the Objectives of PBSD with Prescriptive Code Requirements</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-tutorial-on-oculus-quest-2-syncing-to-smartphone-platforms/"><u>Comprehensive Tutorial on Oculus Quest 2 Syncing to Smartphone Platforms</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-downloading-and-updating-your-epson-wf-3720-drivers-for-optimal-performance/"><u>Easy Guide to Downloading and Updating Your Epson WF-3720 Drivers for Optimal Performance</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/environmental-considerations-play-a-significant-role-in-mix-design-decisions/"><u>Environmental Considerations Play a Significant Role in Mix Design Decisions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722969667847-get-your-controllers-up-and-running-quickly-download-the-newest-xbox-wireless-adapters/"><u>Get Your Controllers Up & Running Quickly - Download the Newest Xbox Wireless Adapters</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-xiaomi-redmi-a2-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Xiaomi Redmi A2 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-repair-a-non-functional-logitech-g433-microphone-expert-advice/"><u>How to Repair a Non-Functional Logitech G433 Microphone - Expert Advice</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-honor-magic-6-lite-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Honor Magic 6 Lite Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/next-level-creativity-awaits-with-the-launch-of-western-digitals-latest-nvme-ssd-technology/"><u>Next-Level Creativity Awaits with the Launch of Western Digital's Latest NVMe SSD Technology</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-guide-to-the-apple-iphone-xs-max-top-of-the-line-and-costly/"><u>Ultimate Guide to the Apple iPhone XS Max: Top-of-the-Line & Costly</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->

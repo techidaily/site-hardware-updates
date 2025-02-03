@@ -1,7 +1,7 @@
 ---
 title: "Apple October Event Preview: Exciting Releases on the Horizon with M4 Mac Mini and Enhanced iPads - What You Need to Know | Featured by ZDNET"
-date: 2025-01-24T00:33:52.020Z
-updated: 2025-01-24T20:34:09.601Z
+date: 2025-01-31T22:27:21.636Z
+updated: 2025-02-01T16:09:39.780Z
 tags:
   - laptops
 categories:
@@ -46,7 +46,7 @@ Image: Charles McLellan / ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Design
@@ -70,7 +70,7 @@ For connections, you're limited to two USB-C (3.2 Gen 2) ports on the left side,
 You can access the innards of the ThinkPad X13s by removing six screws and prising off the bottom cover, although upgrade options are limited. We did poke around inside our first review unit, which arrived with no functioning Wi-Fi and no access to the webcam, to no avail. Our second review unit worked just fine. For all its thin-and-lightness, the ThinkPad X13s is [MIL-STD-810H](https://en.wikipedia.org/wiki/MIL-STD-810)\-tested and should cope with the rigours of a mobile professional's routine. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Features
@@ -84,7 +84,7 @@ There are three screen options, all IPS panels with WUXGA (1920 x 1200) resoluti
 As well as the biometric authentication methods noted earlier, the ThinkPad X13s includes internal security features such as a discrete TPM 2.0 chip, Microsoft's [Pluton TPM architecture](https://learn.microsoft.com/en-us/windows/security/information-protection/pluton/pluton-as-tpm) running on the Snapdragon 8cx Gen 3's SPU (Secure Processing Unit) and a self-healing BIOS. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Performance & battery life
@@ -116,7 +116,7 @@ Thermal camera images of the ThinkPad X13s under load.
 Images: Charles McLellan / ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Conclusions
@@ -170,7 +170,7 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -218,17 +218,18 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-snicker-sphere-top-grade-no-charge-memes-for-2024/"><u>[New] Snicker Sphere Top-Grade, No-Charge Memes for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-access-your-apple-iphone-14-pro-max-when-you-forget-the-passcode-by-drfone-ios/"><u>How to Access Your Apple iPhone 14 Pro Max When You Forget the Passcode?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-tecno-camon-20-pro-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Tecno Camon 20 Pro 5G For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-strategies-for-a-rising-number-of-youtubers-fans/"><u>In 2024, Strategies for a Rising Number of Youtubers' Fans</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/reviving-your-windows-10-touchscreen-a-guide-to-5-key-strategies/"><u>Reviving Your Windows 10 Touchscreen: A Guide to 5 Key Strategies</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-pickup-monitors-of-2024-4k-ultra-hd-and-gaming-features/"><u>Top Pickup Monitors of 2024: 4K Ultra HD & Gaming Features</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-tech-advice-on-hardware-selection-insights-from-toms-equipment-reviews/"><u>Top Tech Advice on Hardware Selection: Insights From Tom's Equipment Reviews</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/transform-your-gaming-experience-with-the-sale-priced-acer-nitro-a-stunning-24-curved-monitor-now-available-at-a-fantastic-price-of-only-81/"><u>Transform Your Gaming Experience with the Sale-Priced Acer Nitro: A Stunning 24 Curved Monitor Now Available at a Fantastic Price of Only $ 81!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-gadget-breakdown-with-toms-hardware-hub/"><u>Ultimate Gadget Breakdown with Tom's Hardware Hub</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-screen-guide-choosing-the-best-displays-for-ps5-and-xbox-series-systems/"><u>Ultimate Screen Guide: Choosing the Best Displays for PS5 and Xbox Series Systems</u></a></li>
-<li><a href="https://video-capture.techidaily.com/voice-logger-innovations-for-mac-users-unveiling-the-best-5-apps/"><u>Voice Logger Innovations for Mac Users Unveiling the Best 5 Apps</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/what-it-means-when-you-see-a-red-x-next-to-wi-fi-in-system-tray-icons/"><u>What It Means When You See a Red X Next to Wi-Fi in System Tray Icons</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-instagrams-secret-weapon-tailoring-photos-to-standout-highlights/"><u>[New] 2024 Approved Instagram's Secret Weapon Tailoring Photos to Standout Highlights</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-expert-tips-for-procuring-unlocked-picture-frame-videos/"><u>[New] Expert Tips for Procuring Unlocked Picture Frame Videos</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-expert-tips-for-zoom-engagement-building-stronger-remote-relationships/"><u>[Updated] 2024 Approved Expert Tips for Zoom Engagement Building Stronger Remote Relationships</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-unlocking-the-power-of-pause-time-mastering-art-of-slow-motion-videos-using-photos-apps-and-websites/"><u>[Updated] In 2024, Unlocking the Power of Pause Time Mastering Art of Slow Motion Videos Using Photos Apps and Websites</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-the-latest-brother-hl-l2350dw-printer-software/"><u>Download and Install the Latest Brother HL-L2350DW Printer Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722975051631-fix-your-connection-woes-solutions-to-win-7-network-adapter-problems/"><u>Fix Your Connection Woes: Solutions to Win 7 Network Adapter Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-decide-on-msdatspeakerdll-management-preservation-or-purging/"><u>How to Decide on msdatspeaker.dll Management: Preservation or Purging</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-scanjet-software-upgrade-latest-version-compatible-with-windows-1187/"><u>HP Scanjet Software Upgrade - Latest Version Compatible with Windows 11/8/7</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resident-evil-village-stability-tips-for-windows-users-overcome-common-pc-glitches/"><u>Resident Evil Village Stability Tips for Windows Users – Overcome Common PC Glitches</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/secure-your-free-qualcomm-atheros-ar938x-drivers-without-hassle/"><u>Secure Your Free Qualcomm Atheros AR938X Drivers Without Hassle</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-instructions-updating-or-downloading-lenovo-monitor-graphics-drivers/"><u>Step-by-Step Instructions: Updating or Downloading Lenovo Monitor Graphics Drivers</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-realme-c67-4g-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Realme C67 4G Location | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-text-to-audio-conversion-from-words-to-mp3-across-all-devices-for-2024/"><u>Updated Text-to-Audio Conversion From Words to MP3 Across All Devices for 2024</u></a></li>
 </ul></div>
 

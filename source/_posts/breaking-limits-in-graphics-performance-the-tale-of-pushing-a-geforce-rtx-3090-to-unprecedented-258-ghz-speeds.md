@@ -1,7 +1,7 @@
 ---
 title: "Breaking Limits in Graphics Performance: The Tale of Pushing a GeForce RTX 3090 to Unprecedented 2.58 GHz Speeds"
-date: 2024-08-19T04:17:37.343Z
-updated: 2024-08-20T04:17:37.343Z
+date: 2025-01-31T21:44:35.318Z
+updated: 2025-02-01T18:33:17.767Z
 tags:
   - overclocking
 categories:
@@ -29,6 +29,10 @@ As DDR5 memory and supported platforms are approaching their launch, more makers
 
  Meanwhile, makers of memory modules for client PCs can also take advantage of this capability and equip their DIMMs with sophisticated VRMs and PMICs to amplify performance, differentiate from rivals, and maximize overclocking potential.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -45,6 +49,10 @@ As DDR5 memory and supported platforms are approaching their launch, more makers
 
 ![Galax](https://cdn.mos.cms.futurecdn.net/rPUC35ad3cZ9mw5hsJzTsD-320-80.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 (Image credit: Galax)
 
 <ins class="adsbygoogle"
@@ -53,8 +61,6 @@ As DDR5 memory and supported platforms are approaching their launch, more makers
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -62,8 +68,16 @@ As DDR5 memory and supported platforms are approaching their launch, more makers
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-calculating-the-storage-space-of-24-hour-videos-for-2024/"><u>[New] Calculating the Storage Space of 24-Hour Videos for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-strategies-for-successful-longer-content-on-social-media-hubs/"><u>[Updated] In 2024, Strategies for Successful Longer Content on Social Media Hubs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-pioneers-making-waves-in-digital-av-creation/"><u>[Updated] Top Pioneers Making Waves in Digital AV Creation</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-explore-windows-10s-best-new-applications-and-games/"><u>In 2024, Explore Windows 10'S Best New Applications & Games</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722978324322-intel-hd-graphics-630-windows-driver-troubles-heres-how-to-get-it-running-smoothly/"><u>Intel HD Graphics 630 Windows Driver Troubles? Here's How to Get It Running Smoothly!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-resolving-the-dark-display-issue-in-your-android-device/"><u>Step-by-Step Guide: Resolving the Dark Display Issue in Your Android Device</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-upgrading-your-bluetooth-usb-drivers-on-windows-devices/"><u>Step-by-Step Tutorial: Upgrading Your Bluetooth USB Drivers on Windows Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-aftermath-of-zen-5s-initial-ryzen-9000-die-failure-a-deep-dive-into-cracked-dice-and-residual-solder-evidence/"><u>The Aftermath of Zen 5'S Initial Ryzen 9000 Die Failure - A Deep Dive Into Cracked Dice & Residual Solder Evidence.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlock-the-secrets-to-fixing-your-wiredwireless-adapter-issues-in-windows-7/"><u>Unlock the Secrets to Fixing Your Wired/Wireless Adapter Issues in Windows 7</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: Lenovo's Ultimate Portable Secret Revealed! The Ingenious TrackPoint Feature & Extra Tricks Within | Insights
-date: 2025-01-19T19:38:48.493Z
-updated: 2025-01-25T01:24:48.695Z
+date: 2025-01-30T20:07:23.967Z
+updated: 2025-02-01T19:59:58.394Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -77,7 +77,7 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -116,14 +116,20 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-craft-a-vibrant-youtube-experience-with-tracks/"><u>[New] In 2024, Craft a Vibrant Youtube Experience with Tracks</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-essential-insights-getting-started-with-ifunny-memes/"><u>[New] In 2024, Essential Insights Getting Started with iFunny Memes</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dive-deep-into-technology-toms-comprehensive-hardware-reviews/"><u>Dive Deep Into Technology: Tom's Comprehensive Hardware Reviews</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/elevate-your-visual-and-connectivity-game-discover-asrocks-top-tier-32-oled-screen-with-impeccable-480-hz-performance-and-network-support/"><u>Elevate Your Visual and Connectivity Game: Discover ASROCK’s Top-Tier 32” OLED Screen with Impeccable 480 Hz Performance and Network Support</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-activation-lock-from-the-apple-iphone-13-pro-max-without-previous-owner-by-drfone-ios/"><u>How to Remove Activation Lock From the Apple iPhone 13 Pro Max Without Previous Owner?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/huge-screen-high-performance-a-comprehensive-review-of-the-crystal-pro-gaming-display-by-monoprice-for-only-285/"><u>Huge Screen, High Performance: A Comprehensive Review of the Crystal Pro Gaming Display by Monoprice for Only $285</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/in-depth-reviews-by-tom-your-guide-to-cutting-edge-hardware-solutions/"><u>In-Depth Reviews by Tom: Your Guide to Cutting-Edge Hardware Solutions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/in-depth-viewsonic-xg2n352-2k-oled-display-analysis-a-top-pick-for-enthusiastic-gamers/"><u>In-Depth ViewSonic XG2n352-2K OLED Display Analysis: A Top Pick for Enthusiastic Gamers</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/top-10-fixes-for-vanishing-youtube-shorts-thumbnails/"><u>Top 10 Fixes for Vanishing YouTube Shorts Thumbnails</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-cutting-edge-dvd-maker-apps-on-mac-sierra/"><u>[New] 2024 Approved Cutting-Edge DVD Maker Apps on Mac Sierra</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-transforming-your-channel-url-step-by-step-instructions/"><u>[New] 2024 Approved Transforming Your Channel URL Step-by-Step Instructions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/a-galactic-journey-through-gaming-the-story-and-action-of-the-outer-worlds-reviewed/"><u>A Galactic Journey Through Gaming: The Story and Action of 'The Outer Worlds' Reviewed</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-setup-fresh-downloads-for-your-asus-z370-e-board/"><u>Effortless Setup: Fresh Downloads for Your Asus Z370-E Board</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-samsung-galaxy-a05s-by-drfone-android/"><u>Full Guide to Unlock Your Samsung Galaxy A05s</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-6s-plus-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone 6s Plus</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-update-or-download-logitech-g29-racing-wheel-drivers-for-modern-windows-operating-systems/"><u>How to Update or Download Logitech G29 Racing Wheel Drivers for Modern Windows Operating Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-upscale-your-old-videos-with-madvr-for-windows/"><u>How to Upscale Your Old Videos With MadVR for Windows</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-unveiling-the-hidden-potential-of-screen-recording-on-mi-11-devices/"><u>In 2024, Unveiling the Hidden Potential of Screen Recording on Mi 11 Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-the-techkey-bluetooth-driver-on-your-window-based-device-windows-1178/"><u>Installing the Techkey Bluetooth Driver on Your Window-Based Device (Windows 11/7/8)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/legacy-over-how-llvm-compilers-departure-signals-the-end-of-amds-3dnow/"><u>Legacy Over: How LLVM Compiler's Departure Signals the End of AMD's 3DNow!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-error-how-to-successfully-restore-or-fix-your-pc-in-windows-10/"><u>Overcoming the Error: How to Successfully Restore or Fix Your PC in Windows 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/surface-book-driver-update-made-simple-download-now/"><u>Surface Book Driver Update Made Simple – Download Now</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-jaycut-2023-the-ultimate-guide-to-free-online-video-editing-software/"><u>Updated Jaycut 2023 The Ultimate Guide to Free Online Video Editing Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upgrade-gaming-experience-on-windows-11-8-or-7-download-nvidia-rtx-3090-drivers-now/"><u>Upgrade Gaming Experience on Windows 11, 8 or 7 - Download NVIDIA RTX 3090 Drivers Now</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "October Prime Day 2Amo: Top Savings for Gamers Still On Offer | ZDNET Exclusive Deals"
-date: 2025-01-20T01:08:07.083Z
-updated: 2025-01-24T19:16:56.015Z
+date: 2025-01-31T22:39:31.315Z
+updated: 2025-02-01T19:10:51.674Z
 tags:
   - laptops
 categories:
@@ -23,6 +23,10 @@ From Apple's [MacBook Pro M3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FUR
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Our favorite Amazon October Prime Day laptop deals
 
@@ -76,6 +80,10 @@ Microsoft's 2024 Surface Laptop is a fast, lightweight laptop with a fantastic b
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Windows-Touchscreen-Snapdragon%2Fdp%2FB0CXKQYNPD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cee75ad10-9c6a-4835-8646-b6e1cd59aff7%7Cdtp&dtb=1) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best laptops for students
 
 Dell/ZDNET
@@ -84,6 +92,10 @@ Dell/ZDNET
 * [Lenovo IdeaPad Slim 3 Chromebook](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-IdeaPad-Slim-Chromebook-Lightweight%2Fdp%2FB0D5HZVQDL%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cee75ad10-9c6a-4835-8646-b6e1cd59aff7%7Cdtp&dtb=1) for $209 ($10 off) - If you need a lightweight device with a good webcam, it doesn't get more affordable than Lenovo's IdeaPad Slim 3 Chromebook. Already at just a few hundred bucks, you can save some extra cash during Amazon's October Prime Day sale.
 * [Acer Chromebook 314](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FChromebook-CB314-4HT-32X6-i3-N305-Processor-Display%2Fdp%2FB0CMRRFGVN%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cee75ad10-9c6a-4835-8646-b6e1cd59aff7%7Cdtp&dtb=1) for $339 ($110 off) - For a Chromebook with a little bit more storage and a full HD display, this 14-inch Acer machine is a solid campus companion.
 * [Lenovo V15 Essential Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-Essential-Quad-core-Processor-Ethernet%2Fdp%2FB0D8524KVL%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cee75ad10-9c6a-4835-8646-b6e1cd59aff7%7Cdtp&dtb=1) for $399 ($100 off) - Lenovo's V15 laptop is a well-rounded machine with a full 1TB of storage, which is enough for multiple years' worth of documents and files.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best gaming laptops under $1,000
 
@@ -95,7 +107,7 @@ Asus/ZDNET
 * [Asus TUF Gaming A15 (2024)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Display-NVIDIA%C2%AE-GeForce-FA506NF-ES51%2Fdp%2FB0CRDF25TQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cee75ad10-9c6a-4835-8646-b6e1cd59aff7%7Cdtp&dtb=1) for $599 ($100 off) - The TUF line of laptops features solid gaming hardware along with military-grade durability. The A15 is a solid gaming laptop that fits this description to a T, marked way down to a competitive price for 8GB of RAM, 512GB of storage, and an Nvidia GeForce RTX 2050 graphics card.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best laptops for photo editing
@@ -126,31 +138,19 @@ Kyle Kucharski/ZDNET
 * [Apple MacBook Pro 16 M3 Max](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-macbook-pro-16-laptop-m3-max-chip-built-for-apple-intelligence-36gb-memory-30-core-gpu-1tb-ssd-space-black%2F6534635.p%3FskuId%3D6534635&publisher_slug=itechdaily19598&exclusive=1) for $2,999 (save $500): Apple's flagship content creation and workstation laptop has 36GB of RAM, a 1TB SSD, and M3 Max chip with integrated graphics processors.
 * [Acer Chromebook Spin 714](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Facer-chromebook-spin-714-intel-evo-laptop-14-1610-wuxga-1920-x-1200-touch-intel-core-i5-1335u-8gb-ram-256gb-ssd-steel-gray%2F6541841.p%3FskuId%3D6541841&publisher_slug=itechdaily19598&exclusive=1) for $499 (save $200): A budget-friendly 2-in-1 laptop that's perfect for students with a 14-inch touchscreen display, 8GB of RAM, and 256GB SSD.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQs
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### When is Amazon's October Prime Day 2024?
 
 Amazon Prime Day event lasts from Tuesday, Oct. 8 through Wednesday, Oct. 9, but there are noteworthy deals before and after those days as well. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Are laptops really cheaper on Prime Day?
 
 Amazon hasn't historically been the premiere destination for laptop deals, but the ones it lists for Prime Day have been too good to ignore. The MacBook deals, for example, were pretty major when they first dropped, since Apple is notorious for being restrictive about sales. The deals on Prime Day have gotten better each year, with more and more manufacturers participating with a broader range of devices. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How did we choose these October Prime Day deals?
 
@@ -230,22 +230,21 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-immersive-exploration-mastering-close-up-views-in-minecraft/"><u>[New] 2024 Approved Immersive Exploration Mastering Close-Up Views in Minecraft</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/apture-spectacular-video-on-youtube-top-webcam-picks-for-2024/"><u>[New] Capture Spectacular Video on YouTube Top Webcam Picks for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/resh-face-finds-budget-friendly-platforms-to-purchase-for-2024/"><u>[New] Fresh Face Finds Budget-Friendly Platforms to Purchase for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-ensure-flawless-playback-how-to-set-youtube-video-size-right/"><u>2024 Approved Ensure Flawless Playback How to Set YouTube Video Size Right</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862826938-amazing-deal-gigabyte-aorus-oled-gaming-monitor-now-at-all-time-low-just-969/"><u>Amazing Deal: Gigabyte Aorus OLED Gaming Monitor Now at All-Time Low - Just $969</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862803395-dont-miss-out-on-the-ultimate-gamers-bargain-snag-the-high-performance-curved-24-inch-acer-nitro-for-a-steal-at-just-81/"><u>Don't Miss Out on the Ultimate Gamers' Bargain - Snag the High-Performance, Curved 24-Inch Acer Nitro for a Steal at Just $81!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-hp-designjet-z3100-printer-driver-here/"><u>Get Your HP Designjet Z3100 Printer Driver Here!</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-decoding-aspect-ratios-for-effective-youtube-videos/"><u>In 2024, Decoding Aspect Ratios for Effective YouTube Videos</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862767750-lgs-best-34-ultragear-monitor-qhd-resolution-and-g-sync-tech-now-only-549-on-amazon/"><u>LG's Best: 34 Ultragear Monitor, QHD Resolution & G-Sync Tech - Now Only $549 on Amazon</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862809902-mega-savings-on-samsungs-new-49-oled-ultrawide-display-enjoy-an-unbelievable-600-discount/"><u>Mega Savings on Samsung’s New 49 OLED UltraWide Display: Enjoy an Unbelievable $600 Discount!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862797098-revolutionize-your-gaming-setup-the-premium-24-curved-display-by-sceptre-now-available-for-just-79/"><u>Revolutionize Your Gaming Setup: The Premium, 24 Curved Display by Sceptre Now Available for Just $79</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-5-essential-vocal-commands-that-maximize-your-ai-interaction/"><u>The 5 Essential Vocal Commands That Maximize Your AI Interaction</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862805594-top-deal-lg-ultragear-34qhd-display-featuring-g-sync-ultimate-for-just-549-on-amazon/"><u>Top Deal: LG Ultragear 34QHD Display, Featuring G-Sync Ultimate for Just $549 on Amazon!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-resolving-game-freezes-in-gta-v/"><u>Troubleshooting Guide: Resolving Game Freezes in GTA V</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862780792-unbeatable-deal-39-inch-lg-ultragear-gaming-monitor-with-wqhd-curved-display-now-999-on-amazon/"><u>Unbeatable Deal: 39-Inch LG Ultragear Gaming Monitor with WQHD Curved Display, Now $999 on Amazon</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862836096-unleash-your-gaming-potential-with-a-massive-39-inch-lg-ultragear-monitor-only-999-at-amazon-today/"><u>Unleash Your Gaming Potential with a Massive 39-Inch LG Ultragear Monitor – Only $999 at Amazon Today</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/1728478520623-windows-11-bitlocker/"><u>Windows 11上快速解決 BitLocker 設定 (八項指南)</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-a-fresh-take-on-frigidity-crafting-inviting-backdrops/"><u>[New] 2024 Approved A Fresh Take on Frigidity Crafting Inviting Backdrops</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-narrative-innovation-weaving-stories-through-movies-and-animations/"><u>[New] Narrative Innovation Weaving Stories Through Movies and Animations</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/treamlining-your-method-for-erasing-youtube-post-comments-for-2024/"><u>[New] Streamlining Your Method for Erasing YouTube Post-Comments for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-blackout-blitz-a-moments-work/"><u>[Updated] Blackout Blitz A Moment's Work</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-leveraging-visual-storytelling-in-podcast-trailer-production/"><u>[Updated] Leveraging Visual Storytelling in Podcast Trailer Production</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-ryzen-5-2600-driver-update-fast-and-simple-download-methods/"><u>AMD Ryzen 5 2600 Driver Update: Fast & Simple Download Methods</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-updated-drivers-for-your-lenovo-ideapad-x260-running-windows-11-installation-guide/"><u>Download Updated Drivers for Your Lenovo IdeaPad X260 Running Windows 11 - Installation Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-scansnap-installation-and-updates-for-windows-get-set-up-fast/"><u>Effortless ScanSnap Installation and Updates for Windows - Get Set Up Fast</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-compatibility-with-new-windows-11-download-nvidia-rtx-2060-super-drivers/"><u>Ensure Compatibility with New Windows 11 - Download NVIDIA RTX 2060 Super Drivers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-display-error-partial-window-views-in-w10-monitors/"><u>Fixed Display Error - Partial Window Views in W10 Monitors</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-driver-update-for-your-amd-vega-56-graphic-processor-quick-guide-for-windows-users/"><u>Get the Newest Driver Update for Your AMD Vega 56 Graphic Processor - Quick Guide for Windows Users</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-on-iphone-15-pro-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out On iPhone 15 Pro How to Bypass?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-vivo-y100a-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Vivo Y100A</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-nexiqs-usb-link-2-downloading-and-installation-instructions/"><u>Mastering Nexiq's USB Link 2: Downloading & Installation Instructions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tired-of-traditional-shoveling-discover-the-game-changing-electric-snow-blower-for-harsh-northeast-climates-on-zdnet/"><u>Tired of Traditional Shoveling? Discover the Game-Changing Electric Snow Blower for Harsh Northeast Climates on ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlocking-tech-secrets-a-journey-through-toms-hardware-zone/"><u>Unlocking Tech Secrets: A Journey Through Tom's Hardware Zone</u></a></li>
 </ul></div>
 

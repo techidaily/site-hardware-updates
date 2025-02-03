@@ -1,7 +1,7 @@
 ---
 title: Returning to Campus? Score Big Savings on Laptops, Tablets From Samsung | Student Deals
-date: 2025-01-20T17:39:21.348Z
-updated: 2025-01-24T22:54:05.692Z
+date: 2025-01-27T18:32:40.523Z
+updated: 2025-02-01T21:53:03.474Z
 tags:
   - laptops
 categories:
@@ -51,7 +51,7 @@ If you want to shop around, Samsung isn't the only brand offering student discou
 * [Razer Education Purchase Program](https://razer.a9yw.net/c/159047/642901/10229?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.razer.com%2Feducation%3F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -90,15 +90,22 @@ However, stock may expire at any time. ZDNET remains committed to finding, shari
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-surviving-the-apocalypse-top-8-zombie-classics/"><u>[Updated] Surviving the Apocalypse Top 8 Zombie Classics</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Oppo Find X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-iphone-voice-calls-a-comprehensive-how-to/"><u>Mastering the Art of iPhone Voice Calls: A Comprehensive How-To</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigate-the-world-of-hardware-with-toms-guidance/"><u>Navigate the World of Hardware with Tom's Guidance</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-hardware-innovations-with-tom-expert-reviews-and-guides/"><u>Navigating Hardware Innovations with Tom - Expert Reviews & Guides</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-technology-with-tom-a-guide-to-premium-hardware/"><u>Navigating Technology with Tom: A Guide to Premium Hardware</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-the-complexities-of-computer-components-at-toms-tech-forum/"><u>Navigating the Complexities of Computer Components at Tom’s Tech Forum</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/os-x-mavericks-the-ultimate-mp4-file-editor/"><u>OS X Mavericks The Ultimate MP4 File Editor</u></a></li>
-<li><a href="https://windows11.techidaily.com/seamless-integration-of-google-play-store-in-win11/"><u>Seamless Integration of Google Play Store in Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-speech-recognition-addressing-not-launched-problems/"><u>Windows Speech Recognition: Addressing Not Launched Problems</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-navigate-through-windows-11s-best-practices-for-imports/"><u>[New] 2024 Approved Navigate Through Windows 11'S Best Practices for Imports</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-blades-visual-journey-from-standard-to-stunning-4k/"><u>[Updated] In 2024, Blade's Visual Journey From Standard to Stunning 4K</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-samurai-spirit-explored-in-top-10-gaming-worlds/"><u>[Updated] Samurai Spirit, Explored in Top 10 Gaming Worlds</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722976143555-adjustment-of-corticosteroid-therapy-with-careful-assessment-to-reduce-their-use-balancing-anti-inflammatory-needs-and-minimizing-immunosuppression/"><u>Adjustment of Corticosteroid Therapy with Careful Assessment to Reduce Their Use, Balancing Anti-Inflammatory Needs and Minimizing Immunosuppression</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/augmented-world-wonders-iphoneandroids-finest-games-for-2024/"><u>Augmented World Wonders IPhone/Android's Finest Games for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-nova-y71-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Nova Y71</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-v27-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo V27 Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723262267890-elevate-your-amd-ryzen-9-the-ultimate-overclock-guide-skyrocket-performance-by-plus250mhz-and-dominate-with-27-better-scores-on-geekbench/"><u>Elevate Your AMD Ryzen 9 - The Ultimate Overclock Guide: Skyrocket Performance by +250MHz & Dominate with 27% Better Scores on Geekbench!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-video-graphics-adapter-updates-at-no-cost/"><u>Get the Newest Video Graphics Adapter Updates at No Cost!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721472139694-how-to-resolve-your-iphone-when-it-gets-stuck-at-startup-apple-icon-6-strategies-you-can-try-today/"><u>How to Resolve Your iPhone When It Gets Stuck at Startup (Apple Icon) - 6 Strategies You Can Try Today</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/insights-from-benchmark-leader-limited-field-for-qualcomm-copilotplus-windows-on-arm-gadgets-tested-naturally-merely-56-units-in-past-month/"><u>Insights From Benchmark Leader: Limited Field for Qualcomm Copilot+ Windows-on-ARM Gadgets Tested Naturally - Merely 56 Units in Past Month</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/newly-released-usb-to-hdmi-driver-downloads-for-optimal-performance/"><u>Newly Released USB to HDMI Driver Downloads for Optimal Performance</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/optimal-obs-studio-setup-top-configurations-guaranteed-to-enhance-your-recordings/"><u>Optimal Obs Studio Setup: Top Configurations Guaranteed to Enhance Your Recordings</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/overcoming-hurdles-in-downloading-and-configuring-your-dell-mouses-drivers/"><u>Overcoming Hurdles in Downloading and Configuring Your Dell Mouse's Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-fixing-compatibility-problems-with-lg-usb-devices-on-windows-systems/"><u>Step-by-Step Guide: Fixing Compatibility Problems with LG USB Devices on Windows Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-guide-for-updating-intel-centrino-advanced-n-wireless-network-adapter-62306237u-drivers/"><u>The Ultimate Guide for Updating Intel Centrino Advanced-N Wireless Network Adapter (6230/6237U) Drivers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-walkthrough-for-setting-up-your-fire-stick-through-cellular-hotspots/"><u>The Ultimate Walkthrough for Setting Up Your Fire Stick Through Cellular Hotspots</u></a></li>
 </ul></div>
 

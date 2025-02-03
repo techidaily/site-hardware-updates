@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Gaming Performance: How Cooler Master's MX Mighty 2800W/2000W PSUs Can Support Several NVIDIA RTX 4090 GPUs"
-date: 2024-08-19T04:12:19.791Z
-updated: 2024-08-20T04:12:19.791Z
+date: 2025-01-29T16:14:36.793Z
+updated: 2025-02-01T18:28:54.315Z
 tags:
   - power-supply
 categories:
@@ -64,32 +64,27 @@ See more Real Deals below.
 [View Deal](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB07S98YLHM%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-8780951100740110730-20)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Looking for more deals?
 
 Category
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/chevron-left.svg "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Back to Hubs & Switches
 
 Brand
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Intel
 
  Netgear
@@ -100,6 +95,10 @@ Colour
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Black
 
  Copper
@@ -109,8 +108,9 @@ Condition
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  New
 
  Refurbished
@@ -120,8 +120,9 @@ Price
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Any Price
 
  Showing 10 of 52 deals
@@ -288,8 +289,6 @@ Our Review
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -297,4 +296,21 @@ Our Review
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-cinema-craftsmanship-unleashed-youtube-green-screens-101/"><u>[Updated] 2024 Approved Cinema Craftsmanship Unleashed Youtube Green Screens 101</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-transforming-discord-chats-into-lasting-memories/"><u>[Updated] Transforming Discord Chats Into Lasting Memories</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/comment-pouvez-vous-visionner-un-fichier-mp4-sur-les-systemes-dexploitation-windows-10-8-et-7/"><u>Comment Pouvez-Vous Visionner Un Fichier MP4 Sur Les Systèmes D'Exploitation Windows 10, 8 Et 7 ?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-eveo-bluetooth-device-driver-free-download/"><u>Get the Latest Eveo Bluetooth Device Driver - Free Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-hp-laserjet-1320-driver-software-for-your-pc-with-windows-os/"><u>Get the Latest HP LaserJet ‪1320 Driver Software for Your PC with Windows OS</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-free-nvidia-3d-vision-driver-update-installed-on-any-version-of-windows-today/"><u>Get Your Free Nvidia 3D Vision Driver Update Installed on Any Version of Windows Today!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-proven-methods-for-obtaining-free-picture-screens/"><u>In 2024, Proven Methods for Obtaining Free Picture Screens</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-stepwise-approach-affordable-creation-of-engaging-youtube-intros/"><u>In 2024, Stepwise Approach Affordable Creation of Engaging YouTube Intros</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211111166-9781003811190-mind-over-matter/"><u>Mind Over Matter | Free Book</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-installing-the-latest-amd-drivers-for-windows-users/"><u>Step-by-Step Guide: Installing the Latest AMD Drivers for Windows Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-process-to-update-lenovo-docking-station-device-drivers/"><u>Step-by-Step Process to Update Lenovo Docking Station Device Drivers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-rhythm-of-the-skies-bebop-parrot-revisited/"><u>The Rhythm of the Skies Bebop Parrot Revisited</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/tutorial-downloading-and-installing-toshiba-drivers-on-a-windows-operating-system/"><u>Tutorial: Downloading & Installing Toshiba Drivers on a Windows Operating System</u></a></li>
+</ul></div>
 

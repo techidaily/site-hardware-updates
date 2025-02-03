@@ -1,7 +1,7 @@
 ---
 title: "Breaking Through Limits: Adata Raises DDR5 Memory Performance to a Remarkable 8118 MT/S"
-date: 2024-08-19T04:17:35.077Z
-updated: 2024-08-20T04:17:35.077Z
+date: 2025-01-25T21:19:00.791Z
+updated: 2025-02-01T20:42:46.673Z
 tags:
   - overclocking
 categories:
@@ -27,6 +27,10 @@ Based on Intel's Netburst microarchitecture and made using 65nm process technolo
 
  It is noteworthy that the 8.0 GHz barrier is rather hard to break, and to date, only 117 processors have managed to pass it. The vast majority of the processors to hit 8.0 GHz or higher frequency are AMD's FX 8000-series units, as well as Intel's Cedar Mill-based Celeron D or Pentium CPUs, but there are also several AMD's A-series APUs too.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -35,14 +39,11 @@ Based on Intel's Netburst microarchitecture and made using 65nm process technolo
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -51,8 +52,20 @@ Based on Intel's Netburst microarchitecture and made using 65nm process technolo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-exploring-the-best-free-youtube-video-editors-for-ios/"><u>[New] 2024 Approved Exploring the Best Free YouTube Video Editors for iOS</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unboxing-the-market-strategic-essentials/"><u>[New] Unboxing the Market Strategic Essentials</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-effortless-group-chats-joining-zoom-on-your-android/"><u>[Updated] 2024 Approved Effortless Group Chats Joining Zoom on Your Android</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-peering-into-triller-its-distinctive-features-and-identity/"><u>2024 Approved Peering Into Triller Its Distinctive Features and Identity</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-processor-benchmarks-and-comparisons-for-2-amd-vs-intel/"><u>Best Processor Benchmarks & Comparisons for 2# AMD vs Intel</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722971908825-boost-your-gaming-experience-secure-your-latest-steelseries-keyboard-driver-today/"><u>Boost Your Gaming Experience - Secure Your Latest SteelSeries Keyboard Driver Today</u></a></li>
+<li><a href="https://os-tips.techidaily.com/essential-apple-airpods-pro-add-ons-expert-picks-and-reviews/"><u>Essential Apple AirPods Pro Add-Ons: Expert Picks and Reviews</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-correctly-address-and-repair-missing-msidll-errors/"><u>How to Correctly Address and Repair Missing msi.dll Errors</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-unlimited-data-keep-essential-lists/"><u>Mastering Unlimited Data Keep Essential Lists</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722970730524-nvidia-driver-downloads-and-upgrades-enhance-your-gpu-performance-today/"><u>Nvidia Driver Downloads & Upgrades: Enhance Your GPU Performance Today!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/professional-gamers-guide-logistics-and-download-the-logitech-g-pro-gamepad-for-windows-users/"><u>Professional Gamers Guide: [Logistics & Download] The Logitech G Pro Gamepad for Windows Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-fixing-startup-failure-error-0xc000007b/"><u>Troubleshooting Tips for Fixing Startup Failure (Error 0Xc000007b)</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-windows-history-newly-opened-pages/"><u>Unlocking Windows History: Newly Opened Pages</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

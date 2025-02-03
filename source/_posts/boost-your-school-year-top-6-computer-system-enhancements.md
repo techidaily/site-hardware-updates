@@ -1,7 +1,7 @@
 ---
 title: "Boost Your School Year: Top 6 Computer System Enhancements"
-date: 2024-08-19T04:16:16.566Z
-updated: 2024-08-20T04:16:16.566Z
+date: 2025-01-28T19:12:36.455Z
+updated: 2025-02-01T22:00:45.183Z
 tags:
   - build
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/918ad49eae4bb09e7bbe637c097999923379261d1
 
 ![](https://cdn.mos.cms.futurecdn.net/gRWZJtRVgRiLT8Rc7hcKrV-320-80.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## System Builder Marathon Q4 2015
 
  Here are links to each of the five articles in this quarter’s System Builder Marathon (we’ll update them as each story is published). And remember, these systems are all being given away at the end of the marathon.
@@ -32,8 +36,9 @@ thumbnail: https://thmb.techidaily.com/918ad49eae4bb09e7bbe637c097999923379261d1
 5. $912 AMD LAN Box PC
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## $912 AMD LAN Box PC
 
  Even though my Intel-based revision of this quarter vindicates my assessments last quarter, a number of readers are still convinced that a properly cooled and overclocked 860K is the gateway to budget gaming goodness. After experiencing the limitations and frustrations last quarter, I still have my reservations. However, the SBM is a perfect place to empirically test this and give AMD's budget quad-core every chance to prove itself.
@@ -41,9 +46,9 @@ thumbnail: https://thmb.techidaily.com/918ad49eae4bb09e7bbe637c097999923379261d1
 ![](https://cdn.mos.cms.futurecdn.net/vaZRhuXWqcyB98KdTMVaK3-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  For your bonus build pleasure, here's the conclusion to the Munchkin Saga, Episode III: Revenge of 860K.
 
  LATEST VIDEOS FROM tomshardware Tom's Hardware
@@ -97,13 +102,14 @@ Deepcool Gamer Storm Gabriel
 
  Some of you out there might be groaning and asking, "What, this again?" Hold on a minute. Those asking for a better 860K overclock have a valid argument. The 860K was handicapped last quarter with insufficient cooling to get any kind of meaningful overclock. You can't argue with that. This time around the CPU gets better treatment in the form of an aftermarket cooler and a larger case. So no, we're not trying the exact same thing and expecting different results. Do I expect the 860K to outperform the i3-4170? No, I don't. However, in order for me to prove that one way or the other, I need hard numbers and data. I'm curious to see if it can close the gap, if not overcome it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Alternate Component Selection
 
  I don't need to spend time explaining the same parts from[two days ago](https://tools.techidaily.com) . To save space and time, I'll only address the three new components.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -145,8 +151,9 @@ Deepcool Gamer Storm Gabriel
 ![](https://cdn.mos.cms.futurecdn.net/kiyNGE2ogxSRTZjnNEBoST-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Overclocking
 
  I did a little more digging on 860K overclocking after last quarter. Most FM2+ motherboards are very liberal with CPU voltage at stock levels. This means it's usually possible to overclock the CPU while undervolting it. This held true for my particular 860K. Stock voltage was set at 1.45V, but I was able to get it to run at 4.0GHz on only 1.35V. Lowering the voltage helped temperatures, but the CPU still has a pretty hard thermal ceiling that won't let it be pushed as much as it could. Regardless of cooling solution or voltage, the CPU cuts back to 3.5 to 3.7GHz when it hits 65 degrees C (total, not over ambient). Even with the cooler at full speed, I was occasionally hitting that ceiling under the most demanding workloads.
@@ -159,16 +166,14 @@ Deepcool Gamer Storm Gabriel
 
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
-![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
  The RAM caused me no end of heartburn and frustration. I kept running into seemingly random crashes, regardless of RAM timings. I worried the RAM was somehow bad, but it worked flawlessly in the Intel build. After a quick appeal for help to Thomas, I found the motherboard simply required at least 1.64V to run the RAM, even at stock speeds. Again, the Intel build had no problem with 1.5V. I've never seen a motherboard that's more stable overclocked than at stock speeds, until now.
 
  My system this time around was only capable of reaching DDR3-2133, a bit shy of the 2400 speeds I got last quarter. I did get respectable timings of 10-11-10-31, but that was the limit. Along with the RAM, I upped the northbridge from 1800 to 2000MHz with only a slight bump in voltage to 1.1625V. I wasn't trying to match the frequency of last quarter, I simply couldn't boot the machine at anything past 2000MHz.
@@ -181,8 +186,6 @@ Deepcool Gamer Storm Gabriel
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -190,4 +193,26 @@ Deepcool Gamer Storm Gabriel
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-a-step-by-step-approach-to-professional-video-sharing/"><u>[Updated] 2024 Approved A Step-by-Step Approach to Professional Video Sharing</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-photo-text-editing-made-simple-tools-and-techniques/"><u>[Updated] 2024 Approved Photo Text Editing Made Simple Tools & Techniques</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-the-ultimate-guide-to-free-multimedia-content-creation/"><u>2024 Approved The Ultimate Guide to Free Multimedia Content Creation</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-radeon-pro-w5700-latest-driver-release-windows-users-guide-to-download-and-installation/"><u>AMD Radeon Pro W5700 - Latest Driver Release: Windows Users Guide to Download and Installation</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/approach-compare-symptoms-based-on-gestational-age-at-infection/"><u>Approach: Compare Symptoms Based on Gestational Age at Infection.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/compatible-driver-installation-guide-for-samsung-960-evo-on-windows-computers/"><u>Compatible Driver Installation Guide for Samsung 960 EVO on Windows Computers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/decoding-programming-languages-popularity-fluctuations-since-2016-lessons-and-predictions-codedigest/"><u>Decoding Programming Languages' Popularity Fluctuations Since 2016 - Lessons and Predictions | CodeDigest</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effective-solutions-for-ralink-rt3290-driver-problems-in-various-versions-of-windows/"><u>Effective Solutions for Ralink RT3290 Driver Problems in Various Versions of Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-your-display-with-the-latest-startech-usb-vga-driver-downloads-here/"><u>Enhance Your Display with the Latest StarTech USB VGA Driver - Downloads Here</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamers-grasp-which-control-wins-more/"><u>Gamers' Grasp: Which Control Wins More?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-poco-m6-5g-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Poco M6 5G to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-amplify-video-aesthetics-filters-for-every-screen/"><u>In 2024, Amplify Video Aesthetics Filters for Every Screen</u></a></li>
+<li><a href="https://change-location.techidaily.com/list-of-pokemon-go-joysticks-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/new-release-lenovo-thunderbolt-3-universal-docking-station-updates/"><u>New Release: Lenovo Thunderbolt 3 Universal Docking Station Updates</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-xiaomi-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Xiaomi</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-gadget-whisperers-guide-to-advanced-computer-components/"><u>The Gadget Whisperer's Guide to Advanced Computer Components</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/trustworthy-updates-and-installation-of-lenovo-thinkpad-device-drivers/"><u>Trustworthy Updates & Installation of Lenovo ThinkPad Device Drivers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/why-is-my-playstation-4-controller-showing-a-spectrum-of-blue-white-red-or-orange-lights/"><u>Why Is My PlayStation 4 Controller Showing a Spectrum of Blue, White, Red, or Orange Lights?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/windows-11-87xpvista-hp-officejet-pro-8610-drivers-update-and-installation-steps/"><u>Windows 11, 8/7/XP/Vista에서 HP Officejet Pro 8610 Drivers Update & Installation Steps</u></a></li>
+</ul></div>
 

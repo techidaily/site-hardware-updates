@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Most Accessible Triple-Decker CPU: The AMD Ryzen # Student: When Did World War II Start?"
-date: 2024-08-19T04:14:29.108Z
-updated: 2024-08-20T04:14:29.108Z
+date: 2025-01-29T21:49:39.963Z
+updated: 2025-02-01T19:42:35.231Z
 tags:
   - components
 categories:
@@ -29,6 +29,10 @@ Enjoy what's left of the summer as you prepare to head back to school or maybe t
  For some people, audio might not spring to mind as one of the most important considerations when you're off to college. But if you end up staying in your dorm room for long periods, or spend a lot of time traveling to and from school, having a way to relax to your favorite tunes or listen to an audiobook on a long journey is one of the best ways to pass the time.
 
  From speakers to over-the-ear headphones to earbuds, there are plenty of options for you to choose from, and many of them are not as expensive as you might think - which is always a good thing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## SoundPeats Space Wireless Headset
 
@@ -68,6 +72,10 @@ Enjoy what's left of the summer as you prepare to head back to school or maybe t
 
 [View Deal](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FAudeze-Maxwell-Wireless-Headset-Playstation%2Fdp%2FB0BP6BC17P%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-8383051658675473609-20)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Spotify Premium
 
 ![Spotify Logo](https://cdn.mos.cms.futurecdn.net/KDia7SawcTN93wuYZwQnuc-320-80.jpg)
@@ -84,9 +92,6 @@ Enjoy what's left of the summer as you prepare to head back to school or maybe t
 
 [View Deal](https://www.spotify.com/us/premium/)
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Entertainment
 
  When you need a break from your studies, to unwind and relax, either by yourself or with a couple of friends, there's always a use for a little entertainment to provide some much needed stimuli.
@@ -97,9 +102,6 @@ Enjoy what's left of the summer as you prepare to head back to school or maybe t
 
 ![Xbox Series X Games Console](https://cdn.mos.cms.futurecdn.net/FWrpbr8EsWYxBQwnUV8PdE-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Microsoft)
 
  Microsoft's latest generation games console the Xbox Series X gives you access to not only the suite of games made for the Xbox console but also Microsoft's Game Pass subscription service which opens up a multitude of games for a monthly subscription. If you opt for the Ultimate pass, then you can access games on both your console and PC which is superb value for money and a great option if you want access to a lot of entertainment. With Xbox also offering day-one games on Games Pass - such as the new Call of Duty - it's one of the best-value ways to consume video games.
@@ -133,9 +135,9 @@ Enjoy what's left of the summer as you prepare to head back to school or maybe t
  From popping more SSD's in your computer, or upgrading capacities, to portable storage solutions for easily transporting or backing up your important work, storage is something you should certainly consider or have at the ready.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Crucial P3 Plus
 
 ![Crucial P3 Plus](https://cdn.mos.cms.futurecdn.net/ALyLNNwPR3UGJkVdsgFN6c-320-80.jpg)
@@ -157,8 +159,9 @@ Enjoy what's left of the summer as you prepare to head back to school or maybe t
 [View Deal](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FCrucial-Plus-PCIe-NAND-5000MB%2Fdp%2FB0B25NTRGD%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1121119280149340044-20)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Crucial X9 Portable SSD
 
 ![Crucial X9 1TB External SSD](https://cdn.mos.cms.futurecdn.net/PbcVJWyXHTmfgbaMWrHXpi-320-80.jpg)
@@ -182,11 +185,16 @@ Enjoy what's left of the summer as you prepare to head back to school or maybe t
 [View Deal](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fshop-links.co%2Flink%3Fpublisher%255Fslug%3Dfuture%26exclusive%3D1%26u1%3Dtomshardware-us-6461667939973165955%26url%3Dhttps%253A%252F%252Fwww.bestbuy.com%252Fsite%252Fcrucial-x9-1tb-external-usb-c-ssd-black%252F6557871.p%26article%255Fname%3DBack%2520To%2520School%2520Tech%2520Deals%25202024%253A%2520Save%2520on%2520essential%2520tech%2520for%2520the%2520new%2520term%2520%257C%2520Tom%27s%2520Hardware%26article%255Furl%3Dhttps%253A%252F%252Fwww.tomshardware.com%252Fpc-components%252Fback-to-school-tech-deals-2024-save-on-essential-tech-for-the-new-term)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Crucial X10 Portable SSD
 
 ![Crucial X10 Pro 1TB External SSD](https://cdn.mos.cms.futurecdn.net/kpEAYHfyHPHNxwmQPeCSF4-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Crucial)
 
@@ -205,17 +213,15 @@ Enjoy what's left of the summer as you prepare to head back to school or maybe t
 [View Deal](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FCrucial-X10-Pro-Portable-CT1000X10PROSSD902%2Fdp%2FB0C9WGGZT9%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-3379043427879641339-20)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## USB Hubs and Docks
 
  Let's face it, there are never enough available USB-C ports on your computer whether it's a laptop or desktop PC, and with the number of devices - especially peripherals - using USB-C becoming more commonplace a USB hub is an essential piece of kit.
 
  I've been using hubs and docking stations for years to easily connect to devices, and I don't know what I'd do without them. Unless motherboard manufacturers or laptop makers start shipping their products with tons more included ports, hubs will be the only option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ## Satechi 4 in 1 USB C Hub and 2.5 Gigabit Ethernet Adapter
 
 ![Satechi 4 in 1 USB-C Hub and 2.5GHz Network Adapter](https://cdn.mos.cms.futurecdn.net/SRJF5S6CDsCotPErsTc4RF-320-80.jpg)
@@ -234,25 +240,14 @@ Enjoy what's left of the summer as you prepare to head back to school or maybe t
 
 [View Deal](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FSatechi-Ethernet-Adapter-Gigabit-Enhanced%2Fdp%2FB0D953K2WK%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1222265096208182448-20)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Keyboard and Mouse
 
  You're more than likely going to be using a computer a lot in your new year at school or college and whether it's a laptop or desktop, you want to have the best experience possible when using them. Something to seriously consider is what you're using the computer for, and the ergonomics of your setup. Adding a new mouse, keyboard, or even a wrist rest is a great way of improving your computer setup and can potentially even reduce the risks of any repetitive strain injuries you could incur from excessive computer use.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Logitech MX Keys S
 
 ![Logitech MX Keys S](https://cdn.mos.cms.futurecdn.net/RKag62xcWzrPgVBsAKm6MA-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
  (Image credit: Logitech)
 
  With its light and dark gray graphite styling (also available in Black and Pale Gray), the MX Keys S is an attractive keyboard that will look great on any desk. The MX Keys doesn’t boast per-key RGB like most modern day gaming keyboards, but instead has white backlighting, which it uses a proximity sensor located on the keyboard’s bottom edge which measures the magnetic field around the peripheral. The MX Keys S notices when your hands are touching the keyboard and lights up the keys without you having to press a button which is pretty cool.
@@ -269,12 +264,13 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 [View Deal](https://logitech.cfzu.net/c/221109/499820/8585?subId1=tomshardware-us-1293848247163695391&sharedId=tomshardware-us&u=https%3A%2F%2Fwww.logitech.com%2Fen-us%2Fproducts%2Fkeyboards%2Fmx-keys-s.920-011558.html)
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Logitech MX Master 3S
 
 ![Logitech MX Master 3S Wireless Mouse](https://cdn.mos.cms.futurecdn.net/u664eJMBpQNnX76znUeXSV-320-80.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Logitech)
 
@@ -296,13 +292,14 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 [View Deal](https://goto.walmart.com/c/5597632/565706/9383?subId1=techidaily-us-1446280923508857110&sharedId=techidaily-us&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FLogitech-MX-Master-3S-Wireless-Performance-Mouse-Ergo-8K-DPI-Quiet-Clicks-USB-C-Black%2F731473988)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## HyperX Wrist Rest
 
 ![HyperX Wrist Rest](https://cdn.mos.cms.futurecdn.net/Qp6sX9i4RfCgboeQFo9Pi3-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: HyperX)
 
  Something as simple as a wrist rest can make all the difference to your workstation setup. For instance, the HyperX wrist rest is a firm favorite amongst some of our Tom's Hardware editors including our Editor-in-Chief Avram Piltch who swears by the comfort of his longstanding HyperX wrist rest.
@@ -319,14 +316,15 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 [View Deal](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB07GP7JXQY%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-3681302020797219626-20)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Monitor
 
  For work or play a monitor is a good option for a screen above choosing a television as they can often be cheaper, have more connectivity choices, and vary in size. Perfect for setting up in a small dorm room over a 55-50-inch TV.
 
  If you want something just for work, to maybe hook up to a laptop for a bigger screen, you might want to look for something with a DisplayPort over USB-C, if you have a desktop then anything with an HDMI or DisplayPort should do the trick. Then it's just a case of budget and the type of screen and resolution you'd like to go for.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## MSI Optix G274RW
 
@@ -350,8 +348,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -359,4 +355,20 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-expert-techniques-for-effective-social-sharing-via-pins/"><u>[New] In 2024, Expert Techniques for Effective Social Sharing via Pins</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-facebooks-recent-views-uncovered-for-you/"><u>[Updated] 2024 Approved Facebook’s Recent Views Uncovered for You</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-crafting-connections-the-art-and-science-of-personalized-facebook-profiles/"><u>2024 Approved Crafting Connections The Art and Science of Personalized Facebook Profiles</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/7-ways-to-unlock-a-locked-samsung-galaxy-f54-5g-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Samsung Galaxy F54 5G Phone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/elevate-your-ambiance-chic-outdoor-led-string-lights-beyond-the-price-tag/"><u>Elevate Your Ambiance: Chic Outdoor LED String Lights Beyond the Price Tag</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-your-vintage-typewriter-experience-with-a-rustic-retro-numeric-pad/"><u>Enhance Your Vintage Typewriter Experience with a Rustic Retro Numeric Pad</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-routes-to-windows-recovery-toolkit/"><u>Essential Routes to Windows Recovery Toolkit</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/explore-the-markets-finest-leading-blu-raydvd-players/"><u>Explore the Market's Finest: Leading Blu-Ray/DVD Players</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-the-advantages-of-wi-fi-6-the-next-generation-wireless-protocol-80211ax-explained/"><u>Exploring the Advantages of Wi-Fi 6 - The Next Generation Wireless Protocol, 802.11AX Explained</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/game-on-anywhere-with-asuss-sleek-ultra-portable-14-fighter-the-perfect-blend-of-size-and-strength/"><u>Game On Anywhere with ASUS's Sleek, Ultra-Portable 14 Fighter – The Perfect Blend of Size and Strength!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-ceases-sales-of-exclusive-cloud-based-printing-solutions/"><u>HP Ceases Sales of Exclusive Cloud-Based Printing Solutions</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/ubersiedeln-von-programmen-auf-eine-neue-ssd-schnelllosungen-fur-windows-11-and-10/"><u>Übersiedeln Von Programmen Auf Eine Neue SSD - Schnelllösungen Für Windows 11 & 10</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Xiaomi 14 Ultra | Dr.fone</u></a></li>
+</ul></div>
 

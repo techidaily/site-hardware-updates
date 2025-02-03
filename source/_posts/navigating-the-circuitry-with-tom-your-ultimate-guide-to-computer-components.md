@@ -1,7 +1,7 @@
 ---
 title: Navigating the Circuitry with Tom - Your Ultimate Guide to Computer Components
-date: 2024-08-19T04:12:20.896Z
-updated: 2024-08-20T04:12:20.896Z
+date: 2025-01-29T23:08:31.121Z
+updated: 2025-02-01T17:55:07.077Z
 tags:
   - power-supply
 categories:
@@ -26,6 +26,10 @@ See more Real Deals below.
 * **Super Flower Leadex V Platinum PRO 850W PSU:** [**now $129 at Newegg**](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-1204575385719253865%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fsuper-flower-leadex-v-platinum-pro-sf-850f14tp-850w%252Fp%252F1HU-024C-00043) **(was $249)**
 * **Dell G3223D 32-inch USB-C Gaming Monitor:** [**now $299 at Dell**](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-8900246-12578053%3Fsid%3Dtomshardware-us-4397051959775015652%26url%3Dhttps%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-32-usb-c-gaming-monitor-g3223d%2Fapd%2F210-bejf%2Fmonitors-monitor-accessories) **(was $449)**
 * **Netgear 5-Port Gigabit Ethernet Switch:** [**now $14 at Amazon**](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB07S98YLHM%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-8422113522705017010-20) **(was $22)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Today’s best deals in detail
 
@@ -63,9 +67,6 @@ See more Real Deals below.
 
 [View Deal](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB07S98YLHM%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-8780951100740110730-20)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ## Looking for more deals?
 
 Category
@@ -74,14 +75,15 @@ Category
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/chevron-left.svg "Arrow")
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
  Back to Hubs & Switches
 
 Brand
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Intel
 
@@ -94,8 +96,9 @@ Colour
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Black
 
  Copper
@@ -105,8 +108,9 @@ Condition
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  New
 
  Refurbished
@@ -115,9 +119,6 @@ Price
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 Any Price
 
  Showing 10 of 52 deals
@@ -127,8 +128,9 @@ Any Price
 SORT BY Price (low to high)  Price (high to low) Product Name (A to Z)  Product Name (Z to A)  Retailer name (A to Z)  Retailer name (Z to A) ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [Netgear GS305E](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB07PJ7XZ7X%2Fref%3Dasc%5Fdf%5FB07PJ7XZ7X1723888800000%3Ftag%3Dhawk-future-20%26creative%3D395261%26creativeASIN%3DB07PJ7XZ7X%26linkCode%3Dasn%26ascsubtag%3Dtomshardware-us-1310836781021125979-20)
 
 1
@@ -287,8 +289,6 @@ Our Review
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -296,4 +296,20 @@ Our Review
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/tep-backward-in-time-reversing-youtube-media-for-2024/"><u>[New] Step Backward in Time Reversing YouTube Media for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-installation-of-updated-amd-vega-drivers-for-a-superior-gaming-setup/"><u>Easy Installation of Updated AMD Vega Drivers for a Superior Gaming Setup</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/exploring-the-elgato-stream-deck-neo-unboxing-and-early-analysis/"><u>Exploring the Elgato Stream Deck Neo - Unboxing and Early Analysis</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-and-download-the-compatible-driver-for-the-epson-et-2750-on-pcs-running-windows/"><u>Find and Download the Compatible Driver for the Epson ET- 2750 on PCs Running Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-download-updated-drivers-for-nvidia-geforce-rtx-1660-super-gpus/"><u>Free Download: Updated Drivers for NVIDIA GeForce RTX 1660 Super GPUs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722978260970-get-your-surface-book-updated-with-new-drivers-today/"><u>Get Your Surface Book Updated with New Drivers Today!</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Samsung Galaxy S23+? | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/optimize-your-music-experience-the-best-apps-for-turning-spotify-into-youtube-for-2024/"><u>Optimize Your Music Experience The Best Apps for Turning Spotify Into YouTube for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-and-simple-how-to-download-and-update-surface-book-drivers/"><u>Quick and Simple: How to Download and Update Surface Book Drivers</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-honor-magic-6-lite-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Honor Magic 6 Lite</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/remedying-pixelated-fonts-in-far-cry-6/"><u>Remedying Pixelated Fonts in Far Cry 6</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-14-editor-di-video-per-youtuber-la-guida-essenziale-del-2024/"><u>Top 14 Editor Di Video Per YouTuber: La Guida Essenziale Del 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-to-newest-amd-smbus-drivers-for-seamless-performance-download-today/"><u>Update to Newest AMD SMBus Drivers for Seamless Performance - Download Today!</u></a></li>
+</ul></div>
 

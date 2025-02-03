@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Evaluation of the Super Flower Sf-550F14mp Power Supply Unit: Insights From Tom’s Hardware"
-date: 2024-08-19T04:12:15.463Z
-updated: 2024-08-20T04:12:15.463Z
+date: 2025-01-31T19:58:48.700Z
+updated: 2025-02-01T19:16:25.933Z
 tags:
   - power-supply
 categories:
@@ -21,6 +21,10 @@ Today's deals focus on the container for your favorite PC parts. If you're looki
 
 See more of Friday's Real Deals below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## TL;DR — Today’s Best Deals
 
 * **Lian Li Lancool 215 Mid-Tower Case:** [**now $89 at B&H**](https://www.bhphotovideo.com/c/product/1616837-REG/lian%5Fli%5Flancool%5F215%5Fx%5Fblack%5Flancool%5F215%5Fx%5Fgaming.html?BI=20811&KBID=16572&SID=tomshardware-us-1549855989631705881) **(was $150)**
@@ -28,6 +32,10 @@ See more of Friday's Real Deals below.
 * **Elgato Stream Deck:** [**now $99 at Amazon**](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fgp%2Fproduct%2FB06XKNZT1P%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1065223293966699533-20) **(was $149)**
 * **ASUS ROG Thor 1000W PSU:** [**now $194 at Amazon**](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB09SGQ9PPC%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1088334992790324728-20) **(was $359)**
 * **Gigabyte B650M Aorus Elite AX:** [**now $189 at Newegg**](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-6379358999680672387%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fgigabyte-b650m-aorus-elite-ax%252Fp%252FN82E16813145413) **with rebate (was $199)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Today’s best deals in detail
 
@@ -67,22 +75,17 @@ See more of Friday's Real Deals below.
 [View Deal](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-2513991122203814191%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fgigabyte-b650m-aorus-elite-ax%252Fp%252FN82E16813145413)
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Looking for more deals?
 
 Category
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/chevron-left.svg "Arrow")
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
  Back to Everything
 
 Brand
@@ -102,8 +105,9 @@ Colour
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Black
 
  White
@@ -112,9 +116,6 @@ Price
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 Any Price
 
  Showing 10 of 40 deals
@@ -124,8 +125,9 @@ Any Price
 SORT BY Price (low to high)  Price (high to low) Product Name (A to Z)  Product Name (Z to A)  Retailer name (A to Z)  Retailer name (Z to A) ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [GIGABYTE B650M AORUS Elite AX](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F5057986138&subId1=techidaily-us-5322157473801276840&sharedId=techidaily-us)
 
 1
@@ -284,8 +286,6 @@ Our Review
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -293,4 +293,20 @@ Our Review
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-17-easy-ways-grab-your-webinars-without-financial-investment/"><u>[New] 17 Easy Ways Grab Your Webinars Without Financial Investment</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-ignite-your-imagination-a-look-at-the-leading-6-nft-makers/"><u>[Updated] In 2024, Ignite Your Imagination - A Look at the Leading 6 NFT Makers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/asus-network-driver-download-and-update-for-windows/"><u>Asus Network Driver Download and Update for Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/boost-your-game-time-with-faster-ubisoft-connection-speeds/"><u>Boost Your Game Time with Faster Ubisoft Connection Speeds</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/uch-do-youtube-clips-pay-per-view/"><u>How Much Do YouTube Clips Pay Per View?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-find-and-update-ch340-serial-device-drivers-on-your-pc-running-windows-10/"><u>How to Find and Update CH340 Serial Device Drivers on Your PC Running Windows 10</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-google-pixel-7a-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Google Pixel 7a Phone with Broken Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-x-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, iPhone X Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/magicard-rio-pro-driver-software-updated-downloads-for-modern-operating-systems-including-windows-7plus/"><u>Magicard Rio Pro Driver Software: Updated Downloads for Modern Operating Systems Including Windows 7+</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/overcoming-crc-errors-effective-strategies-for-trouble-free-dvd-rip-using-dvd-shrink/"><u>Overcoming CRC Errors: Effective Strategies for Trouble-Free DVD Rip Using DVD Shrink</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/panduan-mengenai-tanggap-layar-minecraft-yang-kecil-temukannya-dan-cara-simpannya-setidaknya-sekarang/"><u>Panduan Mengenai Tanggap Layar Minecraft Yang Kecil, Temukannya, Dan Cara Simpannya Setidaknya Sekarang</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-cpu-deals-of-2024-your-ultimate-comparison-chart-for-budget-friendly-choices/"><u>Top CPU Deals of 2024 - Your Ultimate Comparison Chart for Budget-Friendly Choices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-and-fixing-csr8510-a10-motherboard-drivers-in-windows-easily-resolved/"><u>Troubleshooting and Fixing CSR8510 A10 Motherboard Drivers in Windows Easily [RESOLVED]</u></a></li>
+</ul></div>
 

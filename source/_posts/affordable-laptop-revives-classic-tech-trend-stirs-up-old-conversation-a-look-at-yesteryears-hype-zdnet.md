@@ -1,7 +1,7 @@
 ---
 title: "Affordable Laptop Revives Classic Tech Trend, Stirs Up Old Conversation: A Look at Yesteryear's Hype! - ZDNet"
-date: 2025-01-22T23:04:34.658Z
-updated: 2025-01-24T22:53:35.846Z
+date: 2025-01-28T17:54:04.813Z
+updated: 2025-02-01T22:15:56.603Z
 tags:
   - laptops
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/4718cfe78df90fc96fd0823cd6a47f148478c5d53
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -85,7 +85,7 @@ I have been integrating Copilot into my workflow as I learn more about how to us
 The Surface's battery life has been fantastic, too. I get over 15 hours of use from a single charge, and it has yet to fully deplete to zero by the time I call a benchmarking test. The combination of smart design with meaningful trade-offs is what gives this laptop its marathon battery life, and opens it up for a variety of use cases from a creator or productivity perspective. Basically, this is a laptop you can work remotely with for the whole day without a charger.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -95,7 +95,7 @@ I mentioned this before, but the direction that Microsoft took with this laptop 
 The Surface Laptop is a flagship mid-range device that's well-rounded enough to take on a variety of roles. Despite a few trade-offs, it's everything it should be for the price. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -132,19 +132,16 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-simplified-methods-for-saving-screen-share-talks-for-2024/"><u>[New] Simplified Methods for Saving Screen-Share Talks for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-unite-video-files-into-playlist-assembly/"><u>2024 Approved Unite Video Files Into Playlist Assembly</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-ways-to-project-your-online-meetings-on-the-big-screen-using-zoom-and-tv-together/"><u>Easy Ways to Project Your Online Meetings on the Big Screen: Using Zoom & TV Together</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-infinix-note-30-pro-phone-by-drfone-android/"><u>How to Unlock a Network Locked Infinix Note 30 Pro Phone?</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-infinix-hot-40-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Infinix Hot 40 | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/origin-games-solving-issues-in-your-game-configuration/"><u>Origin Games: Solving Issues in Your Game Configuration</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/sale-alert-lg-ultragear-34-qhd-monitor-w-g-sync-ultimate-just-549-on-amazon/"><u>Sale Alert: LG Ultragear 34 QHD Monitor W/ G-Sync Ultimate - Just $549 on Amazon</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-comprehensive-guide-to-modern-computer-hardware-by-toms-domain/"><u>The Comprehensive Guide to Modern Computer Hardware by Tom's Domain</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-definitive-guide-to-the-asrock-pg27qft2a-a-high-performance-180-hz-gaming-display-reviewed/"><u>The Definitive Guide to the ASRock PG27QFT2A: A High-Performance 180 Hz Gaming Display Reviewed</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-7-cost-free-internet-fax-providers/"><u>Top 7 Cost-Free Internet Fax Providers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-portable-displays-of-2024-ideal-choices-for-gamers-and-professional-work/"><u>Top Rated Portable Displays of 2024: Ideal Choices for Gamers & Professional Work</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-ultra-hd-gaming-displays-for-computers-featuring-144hz-refresh-rates-and-curve-technology/"><u>Top-Rated Ultra HD Gaming Displays for Computers - Featuring 144Hz Refresh Rates & Curve Technology</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/turn-your-old-kindle-into-an-e-ink-display-instructions-for-successful-hacking/"><u>Turn Your Old Kindle Into an E Ink Display: Instructions for Successful Hacking</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/whos-watching-your-guide-to-instagram-eye-rolls-count-for-2024/"><u>Who's Watching? Your Guide to Instagram Eye-Rolls Count for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-trendsetting-tags-top-10-to-make-your-post-pop/"><u>[New] 2024 Approved Trendsetting Tags Top 10 To Make Your Post Pop</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-complete-circular-camera-investigation/"><u>[New] Complete Circular Camera Investigation</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-zte-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For ZTE</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/dealing-with-dts-audio-device-malfunction-tips-and-solutions/"><u>Dealing with DTS Audio Device Malfunction - Tips and Solutions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-intel-thunderbolt-device-drivers-fast-and-simple-guide/"><u>Download Intel Thunderbolt Device Drivers - Fast and Simple Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Nokia C02? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-intuitive-intel-ac-7260-wireless-network-adapter-with-this-simple-guide/"><u>Install Intuitive Intel AC 7260 Wireless Network Adapter with This Simple Guide.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-updated-drivers-for-your-hp-officejet-pro-8620-on-a-windows-pc-step-by-step-tutorial/"><u>Installing Updated Drivers for Your HP OfficeJet Pro 8620 on a Windows PC - Step-by-Step Tutorial</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/instructions-for-legit-free-vlc-player-download-on-macos/"><u>Instructions for Legit Free VLC Player Download on macOS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-ultimate-guide-to-hardware/"><u>Tom's Tech Insights: Ultimate Guide to Hardware</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-5-essential-barbecue-gadgets-in-2n22-revealed-by-zdnet/"><u>Top 5 Essential Barbecue Gadgets in 2N22 Revealed by ZDNet</u></a></li>
 </ul></div>
 

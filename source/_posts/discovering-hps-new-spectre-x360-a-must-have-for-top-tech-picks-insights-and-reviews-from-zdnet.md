@@ -1,7 +1,7 @@
 ---
 title: "Discovering HP's New Spectre X360: A Must-Have for Top Tech Picks - Insights & Reviews From ZDNet"
-date: 2025-01-20T22:14:36.792Z
-updated: 2025-01-24T20:47:05.602Z
+date: 2025-01-26T21:32:25.421Z
+updated: 2025-02-01T22:51:09.991Z
 tags:
   - laptops
 categories:
@@ -38,6 +38,10 @@ Cons
 * Heavy
 * Pricey
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Anker 747 GaNPrime 150W charger
 
 ### Best travel tech gadget overall
@@ -68,15 +72,7 @@ Cons
 * Only compatible for 100V to 250V devices
 * Max of 15W on USB-C
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Tessan International Plug Adapter
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best adapter for international travel
 
@@ -152,6 +148,10 @@ Headphone Type  Wireless earbuds
 
 Water-Resistant  Yes (IPX4 -- splash-proof)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## AirPods Pro 2
 
 ### Best travel earbuds
@@ -183,10 +183,14 @@ Cons
 * Doesn't have the newest M2 chip
 * Camera suite isn't as updated as newer models
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iPad Pro
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best travel tablet
@@ -217,10 +221,6 @@ Cons
 * Pricey at $280
 * Drains laptop battery
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Duex Plus monitor
 
 ### Best travel monitor
@@ -250,10 +250,6 @@ Pros
 Cons 
 * Software support can be sluggish
 * 360-footage requires a larger MicroSD card
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Insta360 X3
 
@@ -289,6 +285,10 @@ Cons
 * Only available as a website
 * No flight, transportation, or restaurant booking
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Guide AI trip planner
 
 ### Best travel planner
@@ -322,7 +322,7 @@ There are lots of tech gadgets that can optimize travel, from canceling out dist
  \*Lowest price at the time of writing. Please note that prices may vary based on retailer and available promotions, sales, or discounts.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which travel tech gadget should you buy?
@@ -340,6 +340,10 @@ All the items on this list were carefully selected, as most have various functio
 | Insta360 X3                              | Want a compact action camera that captures photos at every angle.                                                                                                                         |
 | Guide AI trip planner                    | Want to plan your trip itinerary using AI or looking to stay organized throughout your travels.                                                                                           |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How did I choose these travel tech gadgets?
 
 To compile my list and decide which travel tech was the best of the best, I turned to experts and enthusiasts. I consulted Nick Yiu, who took 15 flights in 2022, the executive editor of travel publication The Points Guy, [Scott Mayerowitz](https://thepointsguy.com/author/smayerowitz/), and Lonely Planet Destinations Managing Editor Alex Howard. As a frequent traveler myself, I also drew from my own experience and looked at products ZDNET has reviewed.   
@@ -349,10 +353,6 @@ Ultimately, I weighted the following aspects when curating this list:
 * **Durability:** No one likes to buy products that break at first use, which is why I only included items you could buy and count on their performance for years to come.
 * **Price:** Useful travel gadgets don't have to be a hefty investment, especially when you have hotel, transportation, and flights to consider -- or, let's be real, you can easily forget the gadgets in a car or hotel. The devices on this list are top-quality devices that won't break the bank.
 * **Functionality:** Traveling requires fitting all of your essentials in a tight, compact space. This means you should only take devices that advance common traveling components, such as charging your phone, tuning out noise on the plane, or storing and recording memories.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What should I look for in a good piece of travel tech?
 
@@ -365,7 +365,7 @@ That said, it's also important not to get the most expensive item on the market,
 I considered Mayerowitzs' tips on what to look for when compiling this list -- making sure I talked to someone who had hands-on experience with every product and could vouch for it's quality. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is smart luggage worth it?
@@ -420,20 +420,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-next-gen-realities-navigating-vrs-future-trajectory/"><u>[Updated] Next-Gen Realities Navigating VR's Future Trajectory</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-where-to-buy-gopro-cameras-best-cheap-gopro-deals/"><u>[Updated] Where to Buy GoPro Cameras Best Cheap GoPro Deals</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-youtube-analytics-how-to-analyze-your-and-competitors-youtube-video/"><u>[Updated] YouTube Analytics – How to Analyze Your and Competitor's YouTube Video</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-dial-down-the-din-quieting-background-in-recording/"><u>2024 Approved Dial Down the Din Quieting Background in Recording</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/a-new-dawn-for-ryzens-reliability-as-amd-closes-zenbleed-bug-enhanced-by-msis-bios-version-120ca/"><u>A New Dawn for Ryzen's Reliability as AMD Closes Zenbleed Bug, Enhanced by MSI’s BIOS Version 1.2.0.Ca</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/asus-drops-a-game-changer-the-economical-overclocking-motherboard-z790-ayw-wifi-edition/"><u>ASUS Drops a Game-Changer: The Economical Overclocking Motherboard, Z790-AYW WiFi Edition</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-hardware-guides-by-toms-experts/"><u>Comprehensive Hardware Guides by Tom's Experts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/dive-into-gadgets-with-toms-comprehensive-hardware-analysis/"><u>Dive Into Gadgets with Tom's Comprehensive Hardware Analysis</u></a></li>
-<li><a href="https://windows11.techidaily.com/ease-system-overload-in-your-linux-vmware-by-regaining-lost-storage-capacity-quickly/"><u>Ease System Overload in Your Linux Vmware by Regaining Lost Storage Capacity Quickly</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-pc-components-with-toms-hardware-guides/"><u>Exploring PC Components with Tom's Hardware Guides</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/gigabyte-teases-the-latest-ryzen-9000-and-zen-n-processors-promises-beta-firmware-updates-for-pcie-4x-motherboards/"><u>Gigabyte Teases the Latest Ryzen 9000 and Zen N Processors, Promises Beta Firmware Updates for PCIe 4X Motherboards</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/in-2024-your-story-your-stage-youtube-video-mastery/"><u>In 2024, Your Story, Your Stage YouTube Video Mastery</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/master-your-system-upgrades-with-expertise-from-toms-hardware/"><u>Master Your System Upgrades with Expertise From Tom's Hardware</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/mastering-metaverse-laughter-how-to-make-unforgettable-meme-art/"><u>Mastering Metaverse Laughter How to Make Unforgettable Meme Art</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/shop-our-top-nomad-iphone-case-picks-and-save-big-with-bogo-free-deal-limited-time-only-on-zdnet/"><u>Shop Our Top Nomad iPhone Case Picks & Save Big with BOGO FREE Deal - Limited Time Only on ZDNET!</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-precise-participation-the-key-to-zooming-in-on-google-meet-talks/"><u>[New] In 2024, Precise Participation The Key to Zooming in on Google Meet Talks</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/outube-video-magic-best-tools-for-effortless-webm-conversion/"><u>[New] YouTube Video Magic Best Tools for Effortless WebM Conversion</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-loop-like-a-boss-quick-and-easy-techniques-for-youtube-watchers/"><u>[Updated] In 2024, Loop Like a Boss Quick and Easy Techniques for YouTube Watchers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-olympic-rush-short-track-speed-skating-saga/"><u>[Updated] In 2024, Olympic Rush Short-Track Speed Skating Saga</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/1717308381276-2024-approved-youtubing-green-magic-ideas-that-come-to-life/"><u>2024 Approved Youtubing Green Magic – Ideas That Come to Life!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-download-and-setup-of-windows-10s-newest-displaylink-software/"><u>Effortless Download and Setup of Windows 10'S Newest DisplayLink Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-download-and-install-the-newest-microsoft-bluetooth-drivers-for-windows-users-win-10-win-11-win-8-win/"><u>How to Download & Install the Newest Microsoft Bluetooth Drivers for Windows Users (Win 10, Win 11, Win 8, Win 지)</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-ai-assisted-naming-wizards-the-best-10-for-podcasters/"><u>In 2024, AI-Assisted Naming Wizards The Best 10 for Podcasters</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-hp-officejet-inkjet-574t-printer-driver-on-your-pc-supports-windows-11-10-and-8/"><u>Install HP Officejet Inkjet 574T Printer Driver on Your PC - Supports Windows 11, 10 & 8</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installation-tutorial-arduino-nano-software-compatible-with-windows-platforms/"><u>Installation Tutorial: Arduino Nano Software Compatible with Windows Platforms</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/intel-arrow-lake-chip-shines-core-i7-14700k-triumphs-over-the-core-ultra-7-with-a-265kf-securing-7-higher-single-core-victory/"><u>Intel Arrow Lake Chip Shines: Core I7-14700K Triumphs over the Core Ultra 7 with a 265KF, Securing 7% Higher Single-Core Victory</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/samsung-photo-editor-review-2023-pros-con-features-and-guide-for-2024/"><u>Samsung Photo Editor Review 2023 - Pros, Con, Features, and Guide for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-fixes-for-handling-issues-in-i2c-hid-communication-drivers/"><u>Step-by-Step Fixes for Handling Issues in I2C HID Communication Drivers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-power-of-perception-transforming-thumbnails-with-captivating-bgs-and-fx-for-2024/"><u>The Power of Perception Transforming Thumbnails with Captivating BGs & FX for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/zebra-gk420d-driver-update-now-available-easy-tutorial-for-fast-installation/"><u>Zebra GK420D Driver Update Now Available – Easy Tutorial for Fast Installation</u></a></li>
 </ul></div>
 

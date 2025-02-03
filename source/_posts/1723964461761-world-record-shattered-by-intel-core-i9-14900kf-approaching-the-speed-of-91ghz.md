@@ -1,7 +1,7 @@
 ---
 title: "World Record Shattered by Intel Core I9-14900KF: Approaching the Speed of 9.1GHz!"
-date: 2024-08-19T04:17:47.193Z
-updated: 2024-08-20T04:17:47.193Z
+date: 2025-01-25T16:58:59.730Z
+updated: 2025-02-01T20:19:45.080Z
 tags:
   - overclocking
 categories:
@@ -25,6 +25,10 @@ Professional overclocker Hicookie managed to increase the frequency of one of In
 
  To overclock his Pentium G7400T to 5808 MHz, Hicookie increased its BCLK to 187 MHz (or by 87%), pushed the voltage to 1.656V (which is rather extreme for a 10nm CPU) and used liquid nitrogen cooling. The experiment was conducted on Gigabyte's expensive Aorus Z690 Tachyon motherboard, which is an uncommon pairing with such a cheap CPU. Still, since the purpose of the experiment was to find out the overclocking potential of Intel's Pentium G7400T (rather than build an entry-level machine with overclocking in mind), this choice was justified. What remains to be seen is whether the G7400T is a good overclocker without liquid nitrogen.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -39,8 +43,6 @@ Professional overclocker Hicookie managed to increase the frequency of one of In
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -48,8 +50,24 @@ Professional overclocker Hicookie managed to increase the frequency of one of In
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-a-comprehensive-guide-to-capturing-your-hp-pcs-display/"><u>[New] A Comprehensive Guide to Capturing Your HP PC's Display</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-depth-insights-for-youtube-sound-enhancement-for-2024/"><u>[New] In-Depth Insights for YouTube Sound Enhancement for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-undetected-consumer-of-life-streams-fb/"><u>[New] Undetected Consumer of Life Streams (FB)</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-low-cost-pc-performance-monitoring-programs/"><u>[Updated] 2024 Approved Low-Cost PC Performance Monitoring Programs</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-review-and-compare-streamlabs-and-embedding-platforms/"><u>[Updated] In 2024, Review and Compare StreamLabs & Embedding Platforms</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-video-creation-journey-from-adobe-premiere-to-youtube/"><u>[Updated] Video Creation Journey From Adobe Premiere to YouTube</u></a></li>
+<li><a href="https://win11.techidaily.com/a-guide-to-preserving-your-win-11-push-notification-functionality/"><u>A Guide to Preserving Your Win 11 Push Notification Functionality</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722977210074-amd-vega-64-driver-update-available-boost-your-windows-gaming-experience-today/"><u>AMD Vega 64 Driver Update Available! Boost Your Windows Gaming Experience Today.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/constraint-a-the-segment-must-be-titled-cooking-with-care-saving-money-and-the-planet-one-dish-at-a-time/"><u>Constraint A: The Segment Must Be Titled Cooking with Care: Saving Money & the Planet One Dish at a Time</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-your-msi-computer-sound-card-drivers-for-optimal-performance-in-windows/"><u>Download and Update Your MSI Computer Sound Card Drivers for Optimal Performance in Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722960805567-download-m-audio-fast-track-drivers-compatible-with-windows-11-7-8-and-81/"><u>Download M-Audio Fast Track Drivers Compatible with Windows 11, 7, 8 & 8.1</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-download-of-compatible-hp-wifi-and-ethernet-drivers-for-various-windows-versions-including-11-7-and-n8/"><u>Easy Download of Compatible HP WiFi & Ethernet Drivers for Various Windows Versions Including 11, 7 & N8</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-updating-your-broadcom-bluetooth-driver-on-windows-windows-10-8-and-7/"><u>Easy Guide to Updating Your Broadcom Bluetooth Driver on Windows (Windows 10, 8 & 7)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722997494550-fixing-launch-problems-with-cyberpunk-2077-success-stories-inside/"><u>Fixing Launch Problems with Cyberpunk 2077 – Success Stories Inside</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-windows-drivers-for-amd-radeon-r9-chipsets-easy-guide/"><u>Get the Latest Windows Drivers for AMD Radeon R9 Chipsets - Easy Guide!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-y36i-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo Y36i to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-epson-xp-310-driver-version-get-it-here-for-free/"><u>Latest Epson XP 310 Driver Version – Get It Here for Free!</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

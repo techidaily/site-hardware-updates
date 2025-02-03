@@ -1,7 +1,7 @@
 ---
 title: "Explore Lenovo's Latest Upgrades to the ThinkPad X1 Series: A Comprehensive Review by ZDNet"
-date: 2025-01-24T01:54:53.236Z
-updated: 2025-01-24T23:31:42.510Z
+date: 2025-01-29T20:32:36.267Z
+updated: 2025-02-01T20:27:14.567Z
 tags:
   - laptops
 categories:
@@ -22,7 +22,7 @@ Lenovo has showed off its forthcoming ThinkPad X1 laptops that will feature Inte
 The tech giant has showcased the high-end, 14-inch display [ThinkPad X1 Carbon Gen 11](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fnews.lenovo.com%2Fpressroom%2Fpress-releases%2Fthinkpad-x1-thinkvision-lenovo-go-power-hybrid-working%2F) and ThinkPad X1 Yoga Gen 8, as well as the 13-inch display ThinkPad X1 Nano Gen 3\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Windows 11
@@ -88,24 +88,22 @@ Neither the 14-inch or 16-inch IdeaPad Pro 5 with AMD will be available in North
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-optimal-technique-integrating-gopro-videos-into-compreited-cinematic-universe/"><u>[New] 2024 Approved Optimal Technique Integrating GoPro Videos Into Compreited Cinematic Universe</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-hololens-breakthrough-by-microsoft-a-3d-reality-revolution-for-2024/"><u>[New] HoloLens Breakthrough by Microsoft – A 3D Reality Revolution for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/aster-your-youtube-empire-with-creator-studio-tools/"><u>[New] Master Your YouTube Empire with Creator Studio Tools</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-restored-full-screen-in-obs-for-2024/"><u>[New] Restored Full Screen in OBS for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-solutions-to-uninterrupted-facebook-live-problems-for-2024/"><u>[New] Solutions to Uninterrupted Facebook Live Problems for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-the-comprehensive-affinity-guide-banishing-backgrounds-with-ease-for-2024/"><u>[New] The Comprehensive Affinity Guide Banishing Backgrounds with Ease for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-a-quality-curved-screen-for-gamers-acers-24-monitor-sale-hits-just-81/"><u>Get a Quality Curved Screen for Gamers – Acer's 24 Monitor Sale Hits Just $81!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-ultimate-deal-samsung-odyssey-g50a-27-qhd-ips-display-for-only-255-on-amazon/"><u>Get the Ultimate Deal: Samsung Odyssey G50A 27 QHD IPS Display for Only $255 on Amazon</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/huge-discount-experience-ultimate-gaming-with-the-sceptre-24-inch-curved-monitor-for-only-79/"><u>Huge Discount: Experience Ultimate Gaming with The Sceptre 24 Inch Curved Monitor for Only $79</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/immerse-in-unparalleled-viewing-with-asrocks-new-32-480hz-oled-monitor-the-ultimate-feast-for-vision-and-connectivity/"><u>Immerse in Unparalleled Viewing with ASROCK’s New 32 480Hz OLED Monitor – The Ultimate Feast for Vision and Connectivity</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-no-displayed-video-fixing-camera-issue-with-sony-a6400/"><u>In 2024, No Displayed Video Fixing Camera Issue with Sony A6400</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/in-depth-analysis-and-tips-from-toms-hardware-store/"><u>In-Depth Analysis and Tips From Tom's Hardware Store</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/inside-toms-pc-world-expert-insights-on-hardware-innovations/"><u>Inside Tom's PC World: Expert Insights on Hardware Innovations</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/leading-curved-gaming-screens-to-elevate-your-play-experience-2024/"><u>Leading Curved Gaming Screens to Elevate Your Play Experience, 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/les-plus-performants-outils-dajout-de-sous-titres-sans-depense-en-2024-votre-guide-exclusif/"><u>Les Plus Performants Outils D'Ajout De Sous-Titres Sans Dépense en 2024 - Votre Guide Exclusif</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/lgs-best-34-ultragear-monitor-qhd-resolution-and-g-sync-tech-now-only-549-on-amazon/"><u>LG's Best: 34 Ultragear Monitor, QHD Resolution & G-Sync Tech - Now Only $549 on Amazon!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-gadgets-and-pcs-with-tom-a-detailed-hardware-journey/"><u>Mastering Gadgets and PCs with Tom: A Detailed Hardware Journey</u></a></li>
-<li><a href="https://blog-min.techidaily.com/quick-and-easy-guide-to-moving-videos-onto-an-ipad-top-strategies/"><u>Quick and Easy Guide to Moving Videos Onto an iPad – Top Strategies</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/rapid-rhythmic-revision-software-roundup-mobiledesktop/"><u>Rapid Rhythmic Revision Software Roundup (Mobile/Desktop)</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-top-5-free-video-effects-sites/"><u>[New] 2024 Approved Top 5 Free Video Effects Sites</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-cultivate-community-interest-with-collaborative-lists/"><u>[New] In 2024, Cultivate Community Interest With Collaborative Lists</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-tailored-free-offer-unlock-our-exclusive-youtube-banner-pack/"><u>[New] In 2024, Tailored Free Offer - Unlock Our Exclusive YouTube Banner Pack</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/1-top-7-innovative-mobile-apps-for-professional-resume-photography-androidios/"><u>1. Top 7 Innovative Mobile Apps for Professional Resume Photography (Android/iOS)</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-experts-approach-to-inserting-subtitlescc-on-youtube-videos/"><u>2024 Approved The Expert's Approach to Inserting Subtitles/CC on YouTube Videos</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-ricoh-mp-c3003-printer-software-free-driver-pack/"><u>Download Ricoh MP C3003 Printer Software - Free Driver Pack</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/essential-download-guide-getting-started-with-your-new-logitech-m525-keyboard/"><u>Essential Download Guide: Getting Started with Your New Logitech M525 Keyboard</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-free-copy-of-the-m-audio-fast-track-ultra-driver-top-sound-drivers/"><u>Get Your Free Copy of the M-Audio Fast Track Ultra Driver – Top Sound Drivers</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-oppo-f25-pro-5g-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Oppo F25 Pro 5G Phone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-find-download-and-update-your-canon-mg3600-printer-software/"><u>How to Find, Download & Update Your Canon MG3600 Printer Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-hardware-insights-with-toms-technology-hub/"><u>Mastering Hardware Insights with Tom's Technology Hub</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamless-printing-on-windows-11-10-and-8-download-the-latest-epson-artisan-1430-drivers-today/"><u>Seamless Printing on Windows 11, 10 & 8: Download the Latest Epson Artisan 1430 Drivers Today!</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/skillful-strategies-for-sustaining-design-success/"><u>Skillful Strategies for Sustaining Design Success</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-instructions-to-optimize-amd-radeon-hd-7870-with-new-drivers-on-windows-10-platforms/"><u>Step-by-Step Instructions to Optimize AMD Radeon HD 7870 with New Drivers on Windows 10 Platforms</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-art-of-italian-signal-speaking/"><u>The Art of Italian Signal Speaking</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-improvements-in-the-latest-version-of-logitech-extreme-3d-driver/"><u>Unveiling Improvements in the Latest Version of Logitech Extreme 3D Driver</u></a></li>
 </ul></div>
 

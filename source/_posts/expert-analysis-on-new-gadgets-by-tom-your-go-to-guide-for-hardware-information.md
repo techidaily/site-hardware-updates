@@ -1,7 +1,7 @@
 ---
 title: Expert Analysis on New Gadgets by Tom - Your Go-To Guide for Hardware Information
-date: 2024-08-19T04:18:26.124Z
-updated: 2024-08-20T04:18:26.124Z
+date: 2025-01-27T17:21:49.658Z
+updated: 2025-02-01T16:34:50.608Z
 tags:
   - ssd
 categories:
@@ -16,6 +16,10 @@ AGI is a memory technology brand we’ve heard of but never tested... until toda
  Many drives in this category are outright slower than the AI818, at least on paper. This includes the[Kingston NV2](https://tools.techidaily.com) and drives like it, as well as PCIe 3.0 drives like the[Teamgroup MP34](https://tools.techidaily.com) . The latter is now using a Realtek controller, like our AI818 sample. Realtek controllers often feel last-generation and can run hotter, but offer a way to add more capacity at a lower cost. Unlike the MP34, though, our 2TB AI818 is using QLC NAND, which is being used on many budget PCIe 4.0 drives including the NV2 and the[Silicon Power UD90](https://tools.techidaily.com) — but not all, as the[Teamgroup MP44L](https://tools.techidaily.com) is one exception. As TLC cannot be guaranteed in most cases, caution is warranted on this class of drive.  
   
  Some of our results for the AI818 are surprising, and often not in a good way. We also don’t think this drive is the best choice for a laptop. However, it’s not the worst drive we’ve ever tested, and if you can find it at the right price it can get the job done. With this drive, budget is the name of the game.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specifications
 
@@ -50,9 +54,6 @@ AGI is a memory technology brand we’ve heard of but never tested... until toda
 
  AGI does not appear to offer any direct software downloads on its site, but there are free alternatives. We recommend CrystalDiskInfo for basic drive information including SMART health status. For imaging and cloning,[Clonezilla](https://tools.techidaily.com) should do the trick.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ## AGI AI818 — A Closer Look
 
  Image 1 of 3
@@ -60,27 +61,21 @@ AGI is a memory technology brand we’ve heard of but never tested... until toda
 ![AGI AI818 2TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ![AGI AI818 2TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![AGI AGI818 2TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  It's not the worst label we’ve ever seen. The drive is at least single-sided, which means it could work with a wider range of[laptops](https://tools.techidaily.com) . It should also be fine in the PS5\. However, we suspect a heatsink might be desirable, which makes it less palatable for a laptop. The label is supposedly graphene-based, which may help keep it from overheating in airy desktops at least.
@@ -90,15 +85,17 @@ AGI is a memory technology brand we’ve heard of but never tested... until toda
 ![AGI AI818 2TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ![AGI AI818 2TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  We weren’t too sure what flash to expect on this drive as it launched with YMTC’s 128-Layer TLC (X2-9060), at least at some capacities. There are two 1TB SKUs and one of them uses QLC instead. The drive launched with the Maxio MAP1602 controller, down-bussed to 1,600 MT/s to match that particular TLC flash. It’s possible this drive will have other variations in hardware but we’re looking at what is being delivered today, which certainly is an interesting combination.  
@@ -169,8 +166,6 @@ powered by
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -178,4 +173,23 @@ powered by
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-first-steps-in-filmmaking-essentials-for-new-youtube-talents/"><u>[Updated] 2024 Approved First Steps in Filmmaking Essentials for New YouTube Talents</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-real-time-unfollowers-detection-on-insta/"><u>[Updated] 2024 Approved Real-Time Unfollowers Detection on Insta</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/1728474315313-windowsonedrive/"><u>解決方法講你知：Windows電腦OneDrive中的遺失檔案重現技巧</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discovering-innovation-with-toms-computer-components-reviews/"><u>Discovering Innovation with Tom's Computer Components Reviews</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easily-update-to-the-latest-logitech-webcam-software-and-drivers-on-windows/"><u>Easily Update to the Latest Logitech Webcam Software & Drivers on Windows</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/experience-versatile-communication-tango-offers-free-video-chat-service/"><u>Experience Versatile Communication - Tango Offers Free Video Chat Service</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-toms-electronics-hub-your-go-to-source-for-cutting-edge-devices/"><u>Exploring Tom's Electronics Hub - Your Go-To Source for Cutting-Edge Devices</u></a></li>
+<li><a href="https://techidaily.com/factory-reset-on-apple-iphone-se-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset on Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/the-script-on-classic-films-7-list-for-2024/"><u>Flip the Script on Classic Films, #7 List for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-sm-bus-controller-software-downloads-compatible-with-windows-11-10-8-and-7/"><u>Free SM Bus Controller Software Downloads: Compatible with Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-download-and-setup-your-logitech-hd-webcam-model-c525-for-windows-users/"><u>How to Download and Setup Your Logitech HD Webcam Model C525 for Windows Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-cutting-edge-performance-latest-amd-radeon-r5-graphics-driver-for-every-window-os/"><u>Install Cutting-Edge Performance: Latest AMD Radeon R5 Graphics Driver for Every Window OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-installing-the-hp-laserjet-pro-m4n2-driver-on-your-windows-pc/"><u>Step-by-Step Guide: Installing the HP LaserJet Pro M4n2 Driver on Your Windows PC</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/streamline-social-video-downloads-with-new-app/"><u>Streamline Social Video Downloads with New App</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-what-to-do-when-your-software-doesnt-recognize-installed-hardware/"><u>Troubleshooting Guide: What to Do When Your Software Doesn't Recognize Installed Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722976969707-update-your-windows-system-with-new-nvidia-mx150-gpu-drivers-now/"><u>Update Your Windows System with New Nvidia MX150 GPU Drivers Now!</u></a></li>
+</ul></div>
 

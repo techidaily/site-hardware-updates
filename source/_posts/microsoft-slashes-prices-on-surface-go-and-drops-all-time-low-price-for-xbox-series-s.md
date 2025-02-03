@@ -1,7 +1,7 @@
 ---
 title: Microsoft Slashes Prices on Surface Go and Drops All-Time Low Price for Xbox Series S
-date: 2025-01-24T02:37:19.749Z
-updated: 2025-01-24T17:47:58.032Z
+date: 2025-01-28T16:25:16.625Z
+updated: 2025-02-01T21:16:05.033Z
 tags:
   - laptops
 categories:
@@ -27,7 +27,7 @@ Microsoft is known for its innovative products in gaming, computers, and more. A
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Save hundreds on Surface tablets and laptops**
@@ -43,7 +43,7 @@ Under the tablet's hood, you'll find a blazing-fast processor (12th Gen Intel Co
 Meanwhile, if you're preference is for laptops, then Microsoft has other deals for you. You can save $200 on the Surface Laptop 5, up to $646 on the Surface Laptop 4, and $150 on the Surface Laptop Go 2\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Get the Xbox Series S at its lowest price ever**
@@ -59,7 +59,7 @@ This is a digital console, meaning you'll have ample room to download games on i
 Overall, the Xbox Series S is an excellent gaming system for those looking for jaw-dropping graphics, access to a diverse gaming library, and fast performance. In addition, Microsoft lowered its price to $239.99, making it the best time to buy one. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Want to save even more on Microsoft devices?**
@@ -110,21 +110,21 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-scouring-deals-low-priced-gopro-cameras/"><u>[New] Scouring Deals Low-Priced GoPro Cameras</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-family-bonding-through-film-the-ultimate-classics-list/"><u>[Updated] Family Bonding Through Film The Ultimate Classics List</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-all-about-youtubes-elite-access-a-complete-breakdown/"><u>[Updated] In 2024, All About YouTube's Elite Access - A Complete Breakdown</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-zoom-meetings-on-chromebooks/"><u>[Updated] Mastering Zoom Meetings on Chromebooks</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/computex-showcase-leak-discover-asus-rog-ally-snapdragon-x-gaming-gpus-not-included-launch-list/"><u>Computex Showcase Leak: Discover Asus ROG Ally, Snapdragon X - Gaming GPUs Not Included Launch List</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/cutting-edge-cost-effective-risc-v-laptop-by-chinese-startup-for-developer-professionals-only-300/"><u>Cutting-Edge, Cost-Effective RISC-V Laptop by Chinese Startup for Developer Professionals – Only $300</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/dells-new-contenders-the-impressive-fusion-of-performance-and-style-in-the-xps-16-9640-and-xps-14-9440-plus-a-sneak-peek-at-their-unique-characteristics/"><u>Dell's New Contenders: The Impressive Fusion of Performance & Style in the XPS 16 (9640) & XPS 14 (9440), Plus a Sneak Peek at Their Unique Characteristics</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-cutting-edge-computers-at-toms-hardware-experts/"><u>Discover Cutting-Edge Computers at Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-the-first-asus-laptop-powered-by-intels-latest-lunar-lake-chips-meet-the-expertbook-p5/"><u>Discover the First ASUS Laptop Powered by Intel's Latest Lunar Lake Chips – Meet the ExpertBook P5</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-the-new-era-of-portability-with-hp-omnibooks-advanced-amd-ryzen-ai-chips-and-thunderbolt-4-support/"><u>Discover the New Era of Portability with HP OmniBook's Advanced AMD Ryzen AI Chips & Thunderbolt 4 Support</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/experience-extended-multi-day-battery-life-on-the-latest-laptops-from-acer-dell-hp-and-lenovo-new-1-099-snapdragon-x-and-windows-copilotplus-pcs-available-n14/"><u>Experience Extended 'Multi-Day Battery Life' On the Latest Laptops From Acer, Dell, HP & Lenovo: New $1, 099 Snapdragon X and Windows Copilot+ PCs Available Now!</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-6-plus-with-or-without-password-drfone-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone 6 Plus With or Without Password | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-black-ops-4-fatal-errors/"><u>How to Fix Black Ops 4 Fatal Errors</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-from-iphone-se-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock from iPhone SE</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-download-kinemaster-for-macstep-by-step-guide-for-2024/"><u>New Download KineMaster for MacStep-by-Step Guide for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-nubia-red-magic-8s-proplus-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Nubia Red Magic 8S Pro+ Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-illuminating-the-path-from-auto-to-4th-gen-hdr-shooting/"><u>[Updated] Illuminating the Path From Auto to 4Th Gen HDR Shooting</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-setting-up-zoom-like-a-pro-for-2024/"><u>[Updated] Setting Up Zoom Like a Pro for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-driver-update-essential-guide-for-blockchain-enthusiasts-using-windows/"><u>AMD Driver Update: Essential Guide for Blockchain Enthusiasts Using Windows</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/diy-guide-mastering-the-art-of-deleting-your-iphone-data/"><u>DIY Guide: Mastering the Art of Deleting Your iPhone Data</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722974721418-download-logitech-audio-driver-software-compatible-with-windows-11-7-and-8/"><u>Download Logitech Audio Driver Software Compatible with Windows 11, 7 & 8</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/easy-methods-to-save-and-listen-to-your-favorite-podcasts-on-windows-ios-devices-and-android-phones-with-movavi-solutions/"><u>Easy Methods to Save and Listen to Your Favorite Podcasts on Windows, iOS Devices & Android Phones with Movavi Solutions</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-lava-blaze-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-windows-compatible-amd-radeon-graphics-drivers-here/"><u>Get the Latest Windows-Compatible AMD Radeon Graphics Drivers Here!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-logitech-wireless-mouse-software-for-your-pc/"><u>Get the Newest Logitech Wireless Mouse Software for Your PC</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/how-much-cash-can-you-score-for-watching-a-million-videos-for-2024/"><u>How Much Cash Can You Score for Watching A Million Videos for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-easily-upgrade-windows-pc-speakers-install-microsofts-official-drivers-free-download/"><u>How to Easily Upgrade Windows PC Speakers: Install Microsoft's Official Drivers (Free Download)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-exploring-roleplayings-boundaries-rogues-and-roguities/"><u>In 2024, Exploring Roleplaying's Boundaries Rogues & Roguities</u></a></li>
+<li><a href="https://article-posts.techidaily.com/smaller-is-better-top-drone-brands-reviewed-for-2024/"><u>Smaller Is Better Top Drone Brands Reviewed for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-immersive-technologies-ar-vr-mr-and-xr-key-differences-explained/"><u>Understanding Immersive Technologies: AR, VR, MR & XR - Key Differences Explained</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-cutting-edge-gadgets-with-toms-hardware-review/"><u>Unveiling Cutting-Edge Gadgets with Tom's Hardware Review!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-pc-download-amd-rx-6800-drivers-for-windows-7-10-and-11/"><u>Update Your PC: Download AMD RX 6800 Drivers for Windows 7, 10 & 11</u></a></li>
 </ul></div>
 

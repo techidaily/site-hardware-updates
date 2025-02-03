@@ -1,7 +1,7 @@
 ---
 title: "Asus' Discreet Marvel: A Design That Hides Stellar Creative Capabilities Revealed by ZDNet"
-date: 2025-01-17T16:38:31.952Z
-updated: 2025-01-24T16:39:59.788Z
+date: 2025-01-26T21:03:35.014Z
+updated: 2025-02-01T17:19:21.186Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -73,7 +73,7 @@ Asus' Vivobook Pro 15 does a good job playing media. Hi-res videos look stunning
 In line with my initial impression, the device is a little on the bulky side, but the extra heft is not a big deal because it's lightweight and the extra room allows for a wide array of ports. You get two USB-Cs, a pair of USB-A inputs that support transfer speeds of up to 5GBPS, HDMI, an ethernet port, and an SD card slot.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -112,19 +112,15 @@ If you want something more powerful, I suggest checking out the MSI Creator Z16 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-mastering-thumbnail-creation-a-step-by-step-guide-for-2024/"><u>[New] Mastering Thumbnail Creation A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-online-beat-detectors-you-should-try-now-online-and-free/"><u>[Updated] In 2024, Online Beat Detectors You Should Try Now [Online & Free]</u></a></li>
-<li><a href="https://change-location.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Vivo V27e | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-insights-on-pc-components-at-toms-electronics-zone/"><u>Expert Insights on PC Components at Tom's Electronics Zone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-gadgets-with-tom-in-depth-reviews-and-advice-on-hardware-solutions/"><u>Exploring Gadgets with Tom: In-Depth Reviews and Advice on Hardware Solutions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-the-superior-features-of-kde-over-gnome-for-enhanced-productivity/"><u>Exploring the Superior Features of KDE Over GNOME for Enhanced Productivity</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-7-plus-to-other-iphone-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 7 Plus to Other iPhone? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ibaypower-snowblind-cpu-core-unleashed-comprehensive-review-by-toms-hardware-experts/"><u>IBaypower Snowblind CPU Core Unleashed - Comprehensive Review by Tom's Hardware Experts</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/e-look-what-makes-asmr-special-for-2024/"><u>Inside Look What Makes ASMR Special for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/interpreting-the-iconography-a-look-at-facebooks-use-of-blue-icons/"><u>Interpreting the Iconography A Look at Facebook’s Use of Blue Icons</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/professional-streams-from-obs-to-insta/"><u>Professional Streams From OBS to Insta</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-computer-components-expert-reviews-and-detailed-analysis/"><u>Tom's Computer Components: Expert Reviews and Detailed Analysis</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-for-msodll-disappearance-messages-on-pc/"><u>Troubleshooting Tips for 'Mso.dll' Disappearance Messages on PC</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unleashing-power-amds-new-epyc-milan-x-series-surpasses-limits-with-a-whopping-128-cores-enhanced-by-16-gb-l3-cache-and-boosted-to-an-impressive-48-ghz/"><u>Unleashing Power: AMD's New EPYC Milan-X Series Surpasses Limits with a Whopping 128 Cores, Enhanced by 1.6 GB L3 Cache and Boosted to an Impressive 4.8 GHz</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-highest-quality-radio-dramatic-works/"><u>[New] 2024 Approved Highest Quality Radio Dramatic Works</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-tech-savvy-tips-to-ensure-perfect-call-recording-on-facetime/"><u>[Updated] Tech-Savvy Tips to Ensure Perfect Call Recording on FaceTime</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-harness-the-power-of-instagram-best-free-video-converter-apps-for-windowsmacos/"><u>2024 Approved Harness the Power of Instagram Best Free Video Converter Apps for Windows/macOS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/advanced-tech-insights-delving-into-toms-expertise/"><u>Advanced Tech Insights: Delving Into Tom's Expertise</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-sapphire-graphics-drivers-for-windows-a-complete-guide/"><u>Download & Update Sapphire Graphics Drivers for Windows: A Complete Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/foundations-in-digital-visual-narratives-for-2024/"><u>Foundations in Digital Visual Narratives for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-secrets-of-selecting-a-powerful-streaming-device/"><u>The Secrets of Selecting a Powerful Streaming Device</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-quality-gigabyte-speaker-system-drivers-available-for-free-download/"><u>Top-Quality Gigabyte Speaker System Drivers Available for Free Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-to-newest-logitech-c270-webcam-drivers-for-enhanced-performance-on-windows-1011/"><u>Update to Newest Logitech C270 Webcam Drivers for Enhanced Performance on Windows 10/11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/wacom-artpad-hd-driver-update-enhance-your-digital-creations-today/"><u>Wacom ArtPad HD Driver Update: Enhance Your Digital Creations Today</u></a></li>
 </ul></div>
 

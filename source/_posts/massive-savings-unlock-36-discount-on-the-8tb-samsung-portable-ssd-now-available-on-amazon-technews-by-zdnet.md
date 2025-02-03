@@ -1,7 +1,7 @@
 ---
 title: "Massive Savings: Unlock 36%% Discount on the 8TB Samsung Portable SSD - Now Available on Amazon | TechNews by ZDNet"
-date: 2025-01-20T20:02:22.336Z
-updated: 2025-01-25T00:29:16.810Z
+date: 2025-01-28T20:36:22.242Z
+updated: 2025-02-01T20:41:05.992Z
 tags:
   - laptops
 categories:
@@ -28,7 +28,7 @@ With a truly impressive amount of storage space, you'll get read and write speed
 Along with great read and write speeds and more reliable data transfers, the [Samsung T5 Evo](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Portable-External-MU-PH8T0S-AM%2Fdp%2FB0CMDGGJTZ%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C2362e90f-b768-47d7-98bd-3041538b2c7e%7Cdtp&dtb=1) also features 256-bit AES encryption to keep your personal data and sensitive information safe from unauthorized access. Its outer casing is drop- and shock-resistant and can withstand falls up to six feet, making it perfect for on-location photographers and other mobile professionals who need a tough storage drive for offloading raw photos from camera storage or transferring important projects and documents between their home office and mobile work location. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -65,15 +65,22 @@ While the Amazon listing for the Samsung T5 Evo portable SSD does not have a cou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-everyones-guide-to-youtube-success-10-straightforward-video-tips/"><u>[New] In 2024, Everyone's Guide to YouTube Success 10 Straightforward Video Tips</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-boosting-your-channels-free-tips-for-youtube-video-popularity/"><u>[Updated] 2024 Approved Boosting Your Channels Free Tips for YouTube Video Popularity</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-flashing-lights-of-olympic-speed/"><u>[Updated] Flashing Lights of Olympic Speed</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-unleash-the-full-potential-of-your-chat-on-whatsapp-for-2024/"><u>[Updated] Unleash the Full Potential of Your Chat on WhatsApp for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/a-glimpse-into-the-past-ancient-crt-hit-remarkable-700hz-lowers-clarity-for-ultra-fast-refresh-rates/"><u>A Glimpse Into the Past: Ancient CRT Hit Remarkable 700Hz, Lowers Clarity for Ultra-Fast Refresh Rates</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/advanced-gadget-evaluations-by-toms-hardware-experts/"><u>Advanced Gadget Evaluations by Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/asus-rog-strix-xg27acs-gaming-monitor-a-comprehensive-qhd-180hz-revew/"><u>Asus Rog Strix XG27ACS Gaming Monitor - A Comprehensive QHD 180Hz Revew</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/budget-friendly-gamers-dream-best-2024-round-and-flat-screens-with-advanced-refresh-rate-tech/"><u>Budget-Friendly Gamer's Dream: Best 2024 Round and Flat Screens with Advanced Refresh Rate Tech</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-open-your-apple-iphone-15-without-a-home-button-drfone-by-drfone-ios/"><u>In 2024, How To Open Your Apple iPhone 15 Without a Home Button | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-approach-breaking-down-videos-into-chapters-for-youtube/"><u>In 2024, Innovative Approach Breaking Down Videos Into Chapters for YouTube</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/aunching-into-the-world-of-web-flipping-videos-from-mac-for-2024/"><u>[New] Launching Into the World of Web-Flipping Videos From Mac for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-paving-the-way-for-smooth-video-autoplay-on-social-media-platforms/"><u>[New] Paving the Way for Smooth Video Autoplay on Social Media Platforms</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-frame-your-shot-ultimate-software-guide-image-editors/"><u>[Updated] In 2024, Frame Your Shot Ultimate Software Guide Image Editors</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-leveraging-twitter-archive-for-research/"><u>[Updated] In 2024, Leveraging Twitter Archive for Research</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/20-zacitla-ceskych-mp3-konv-bezplatnych-pro-windows-movavi/"><u>20 Začítlá Českých MP3 Konv. Bezplatných Pro Windows - Movavi</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-xiaomi-redmi-note-12-4g-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Xiaomi Redmi Note 12 4G Fingerprint Lock</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/breakneck-progress-toward-polyglot-status/"><u>Breakneck Progress Toward Polyglot Status</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-technology-with-toms-hardware-guide/"><u>Exploring Technology with Tom's Hardware Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-genuine-logitech-drive-force-racing-wheel-control-software-download-for-pcs-running-windows-7-10/"><u>Get the Latest Genuine Logitech Drive Force Racing Wheel Control Software - Download for PCs Running Windows 7-10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-seamlessly-update-or-download-scansnap-drivers-in-windows-with-one-click-convenience/"><u>How to Seamlessly Update or Download ScanSnap Drivers in Windows with One-Click Convenience</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-printer-driver-download-and-update-for-windows-11-11/"><u>HP Printer Driver Download & Update for Windows 11, 11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-samsung-galaxy-s23-ultra-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Samsung Galaxy S23 Ultra Phone? Unlock It Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-displaylink-driver-updates-for-windows-11-8-and-7-free-download/"><u>Latest DisplayLink Driver Updates for Windows 11, 8 & 7 - Free Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-usb-to-hdmi-cable-drivers-download-the-updates-now/"><u>Latest USB to HDMI Cable Drivers: Download the Updates Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-usb-c-drivers-for-windows-11-free-download/"><u>Latest USB-C Drivers for Windows 11: Free Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/sm-bus-controller-drivers-download-options-for-windows-xp-vista-7-8-and-10/"><u>SM Bus Controller Drivers: Download Options for Windows XP, Vista, 7, 8 & 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleash-powerful-search-via-ai-at-bing-how-to-signup/"><u>Unleash Powerful Search via AI at Bing: How-To Signup</u></a></li>
 </ul></div>
 

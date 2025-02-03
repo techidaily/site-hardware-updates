@@ -1,7 +1,7 @@
 ---
 title: "Apple's Latest Battle: Comparing the M3 Vs. M2 MacBook Air on ZDNet"
-date: 2025-01-22T21:05:10.359Z
-updated: 2025-01-25T03:39:01.244Z
+date: 2025-01-29T23:33:07.991Z
+updated: 2025-02-01T19:56:53.561Z
 tags:
   - laptops
 categories:
@@ -25,7 +25,7 @@ Recently, I did a thing: I switched my heavyweight Windows PC for a docked [16-i
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### See also
@@ -45,14 +45,10 @@ So what if I told you you can remap the Apple keyboard so that the Globe key, wh
 (Even if you've always been a Mac user, and everything I just wrote meant nothing to you, you'll still want to read this. There's a good chance that the following remapping feature will benefit you just as much, too.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to remap the Globe key into the Command key
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Open up Keyboard settings
 
@@ -61,7 +57,7 @@ Let's start by running a Spotlight Search (clicking the magnifying glass on the 
 You can also access this menu by clicking the Apple icon on the top left of the status bar > System Preferences > and then Keyboard.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Open Modifier Keys
@@ -71,7 +67,7 @@ On the bottom right of the Keyboard settings should be a button labeled "Modifie
 Screenshot by June Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Remap the Globe key to Command
@@ -81,6 +77,10 @@ Make sure "Apple Internal Keyboard / Trackpad" is selected on the top menu and t
 Note: There is a "Control key" on the Mac keyboard but it doesn't function the same as that on Windows. The Command key is the direct alternative.
 
 Screenshot by June Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How this helps
 
@@ -116,24 +116,15 @@ From a Windows user perspective, being able to still access my usual keyboard sh
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ow-to-turn-on-av1-settings-on-youtube-and-why-you-should-do-it-for-2024/"><u>[New] How to Turn on AV1 Settings on YouTube and Why You Should Do It for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-from-screens-to-social-shares-your-guide-to-popular-metaverse-memes/"><u>[New] In 2024, From Screens to Social Shares Your Guide to Popular Metaverse Memes</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-shielding-imagery-best-practices-for-instagram-photowatermarking-for-2024/"><u>[New] Shielding Imagery Best Practices for Instagram Photowatermarking for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-retailing-revelations-and-methods-for-2024/"><u>[Updated] Retailing Revelations and Methods for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-from-zero-to-youtube-creating-a-stellar-new-chanel/"><u>2024 Approved From Zero to YouTube Creating a Stellar New Chanel</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Asus ROG Phone 8 | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-keep-your-desktops-zoom-updated-across-all-platforms/"><u>How to Keep Your Desktop's Zoom Updated Across All Platforms</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-essentials-for-elevated-gopro-usage/"><u>In 2024, Expert Essentials for Elevated GoPro Usage</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-the-ultimate-guide-to-choosing-a-top-10-windows-and-macos-digital-audio-workstation/"><u>New 2024 Approved The Ultimate Guide to Choosing a Top 10 Windows & macOS Digital Audio Workstation</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/sapphires-latest-budget-mini-itx-am5-motherboards-featuring-cost-saving-pcie-gen-4-now-available-in-china/"><u>Sapphire's Latest Budget Mini ITX AM5 Motherboards Featuring Cost-Saving PCIe Gen 4 - Now Available in China</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/splave-sets-unprecedented-clock-records-with-asrocks-latest-lightning-wifi-mobo-the-z790i/"><u>Splave Sets Unprecedented Clock Records with ASRock’s Latest Lightning WiFi Mobo, the Z790I</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-gigabyte-b65n-aorus-elite-ax-high-end-ice-cool-performance-pricey-but-boasts-many-usb-ports-in-depth-review/"><u>The Gigabyte B65n Aorus Elite AX: High-End Ice Cool Performance, Pricey but Boasts Many USB Ports - In-Depth Review</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-rare-asus-maxximus-xiii-frankenboard-custom-motherboards-with-so-dimm-slot-support-and-exclusive-kingston-fury-imprint/"><u>The Rare ASUS Maxximus XIII Frankenboard - Custom Motherboards with SO-DIMM Slot Support and Exclusive Kingston Fury Imprint</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-secret-of-evgas-masterpiece-unveiled-an-exclusive-look-at-the-declassified-motherboard/"><u>The Secret of EVGA's Masterpiece Unveiled - An Exclusive Look at the Declassified Motherboard</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-guide-to-computer-hardware-toms-tech-wisdom/"><u>The Ultimate Guide to Computer Hardware - Tom's Tech Wisdom</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-review-of-asrocks-z79i-lightning-wi-fi-board-packing-punch-within-minimalist-build/"><u>The Ultimate Review of ASRock's Z79#i Lightning Wi-Fi Board – Packing Punch Within Minimalist Build</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-exploring-computer-components/"><u>Tom's Tech Insights: Exploring Computer Components</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-review-comprehensive-guide-and-insights/"><u>Tom's Tech Review: Comprehensive Guide & Insights</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-improper-image-error-on-your-pc-running-windows-11-or-10/"><u>Troubleshooting Improper Image Error on Your PC Running Windows 11 or 10</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-elevate-your-channels-popularity-with-12-key-growth-techniques/"><u>[New] In 2024, Elevate Your Channel's Popularity with 12 Key Growth Techniques</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-installation-guide-for-epson-xp-420-printer-drivers/"><u>Download and Installation Guide for Epson XP-420 Printer Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exclusive-look-microsofts-revolutionary-ai-chip-takes-on-apple-macbook-zdnet/"><u>Exclusive Look: Microsoft's Revolutionary AI Chip Takes on Apple MacBook | ZDNet</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-motorola-edge-40-neo-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Motorola Edge 40 Neo? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-5-innovative-vr-headsets-perfect-for-aerial-sports/"><u>In 2024, 5 Innovative VR Headsets Perfect for Aerial Sports</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-screencapture-evaluation-interface/"><u>In 2024, ScreenCapture Evaluation Interface</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigate-the-digital-world-with-toms-hardware-advice/"><u>Navigate the Digital World with Tom's Hardware Advice</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-through-xp-pen-driver-updates-a-user-friendly-walkthrough/"><u>Navigating Through XP-PEN Driver Updates: A User-Friendly Walkthrough</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/optimize-your-system-comprehensive-driver-pack-for-the-msi-z370-a-pro-ready-for-instant-download/"><u>Optimize Your System: Comprehensive Driver Pack for the MSI Z370-A PRO Ready for Instant Download</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>Why does the pokemon go battle league not available On Apple iPhone 6s | Dr.fone</u></a></li>
 </ul></div>
 

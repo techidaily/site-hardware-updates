@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Black Friday Bargain: Snag Lenovo's Flex 지난에 $99 Deal Before Cyber Monday Chaos | ZDNET"
-date: 2025-01-23T00:35:15.316Z
-updated: 2025-01-24T20:44:08.590Z
+date: 2025-01-27T22:03:46.349Z
+updated: 2025-02-01T22:00:38.109Z
 tags:
   - laptops
 categories:
@@ -16,7 +16,7 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
 Cyber Monday is one of the best times of the year to purchase your next laptop or tablet. Considerable discounts plus major brands equal unparalleled savings. Say you're working within a limited budget, though -- under $100 or under $500\. I compared the best laptops by their standout features, including processing power, RAM, and operating system, to arrive at the best laptop under $500 and under $100 this Cyber Monday.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -24,7 +24,7 @@ Cyber Monday is one of the best times of the year to purchase your next laptop o
 [![04-bf-cm.png](https://www.zdnet.com/a/img/resize/954e855aae296b0590d40ff6eba4167fd27f3d67/2022/11/29/2911e8eb-1a11-4aa3-8ff7-015c7e854046/04-bf-cm.png?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best Black Friday and Cyber Monday tech deals still available If you missed out on this year's mega sale events, no problem. ZDNET is rounding up the best tech deals still available, right here.  Read now](https://www.zdnet.com/collection/cyber-monday/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 In the under $500 category, you get the highest savings on the [HP Pavilion 15t-eg200 laptop](https://www.tkqlhce.com/click-9041660-15850793?url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fhp-pavilion-laptop-15t-eg200-laptop-4u8e0av-1&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). The 15.6-inch laptop is on sale through HP for $450 -- a markdown of $450 from its original $900 price. It comes with a Windows 11 Home operating system, an Intel® Core™ i5 processor, an Intel® Iris® Xe Graphics card, 8 GB memory, and 256 GB storage. It has a fingerprint reader, a long lasting battery that supports fast charging of about 50% in 45 minutes, and an HD wide vision 720p HD camera that's perfect for Zoom calls with noise reduction and integrated microphones. 
@@ -73,15 +73,24 @@ If your budget is in the under $100 category, and you want the best value for yo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://mondly-stories.techidaily.com/por-que-the-english-interpretation-of-spanish-por-que/"><u>'Por Qué': The English Interpretation of Spanish 'Por Que'</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-apowersofts-role-in-screen-capture-analysis-and-comparisons/"><u>2024 Approved Apowersoft's Role in Screen Capture Analysis & Comparisons</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/download-techniques-for-youtube-shorts-expert-advice-from-yl-software-team/"><u>Download Techniques for YouTube Shorts - Expert Advice From YL Software Team</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/forgotten-the-voicemail-password-of-tecno-camon-20-premier-5g-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Tecno Camon 20 Premier 5G? Try These Fixes</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-infinix-note-30mirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Infinix Note 30Mirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/pioneering-hardware-analysis-by-toms-digital-experts/"><u>Pioneering Hardware Analysis by Tom's Digital Experts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/snag-the-best-deal-dell-s3222dgm-gaming-monitor-now-at-unbeatable-229-price/"><u>Snag the Best Deal: Dell S3222DGM Gaming Monitor Now at Unbeatable $229 Price</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transform-chatgpt-engagements-advanced-strategies-unveiled/"><u>Transform ChatGPT Engagements: Advanced Strategies Unveiled</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/transforming-visual-experience-meet-the-newly-upgraded-samsung-odyssey-smart-monitor-and-view-series-with-next-gen-ai-capabilities/"><u>Transforming Visual Experience: Meet the Newly Upgraded Samsung Odyssey, Smart Monitor & View Series with Next-Gen AI Capabilities</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultra-wide-curved-display-with-quantum-dot-technology-wqhd-resolution/"><u>Ultra-Wide Curved Display with Quantum Dot Technology - WQHD Resolution</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-violation-woes-abrupt-creative-cut-off/"><u>[New] In 2024, Violation Woes Abrupt Creative Cut-Off</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-unlock-your-fcp-potential-with-these-10-plugs/"><u>[New] Unlock Your FCP Potential with These 10 Plugs</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-enhance-visibility-top-methods-for-instagram-hits/"><u>[Updated] In 2024, Enhance Visibility Top Methods for Instagram Hits</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-mastering-macs-preview-a-comprehensive-tutorial/"><u>2024 Approved Mastering Mac's Preview A Comprehensive Tutorial</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-asus-vg248qe-monitor-driver-on-windows-quick-guide/"><u>Download & Install Asus VG248QE Monitor Driver on Windows - Quick Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-methods-to-download-and-improve-your-intel-hd-graphics-5500-software/"><u>Easy Methods to Download & Improve Your Intel HD Graphics 5500 Software</u></a></li>
+<li><a href="https://video-capture.techidaily.com/easy-routines-keeping-a-transcript-of-google-voice-calls-for-2024/"><u>Easy Routines Keeping a Transcript of Google Voice Calls for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-ricoh-mp-c3003-driver-installers-here/"><u>Get Your Ricoh MP C3003 Driver Installers Here</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-apply-the-recent-mono-laser-printer-driver-updates-on-dell-2330d2330dn-units/"><u>How to Apply the Recent Mono Laser Printer Driver Updates on Dell 2330D/2330DN Units</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-infinix-hot-30i-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Infinix Hot 30i to New Phone | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Tecno Spark 20? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/materials-used-in-scaffolding-should-be-chosen-based-on-their-strength-properties-to-withstand-various-forces/"><u>Materials Used in Scaffolding Should Be Chosen Based on Their Strength Properties to Withstand Various Forces.</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/meme-masterpieces-iphones-here/"><u>Meme Masterpieces, iPhones Here</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-high-end-gadgets-and-equipment-with-toms-wisdom/"><u>Navigating High-End Gadgets & Equipment with Tom's Wisdom</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/professional-audio-interface-upgrade-focusrite-scarlett-solo-driver-download-and-install-on-windows/"><u>Professional Audio Interface Upgrade: Focusrite Scarlett Solo Driver [Download & Install] on Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolving-driver-problems-with-arduino-uno-on-windows-pc/"><u>Resolving Driver Problems with Arduino Uno on Windows PC</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/revolutionizing-tech-with-microsofts-new-approach-to-cloud-services-and-devices-a-deep-dive-by-zdnet/"><u>Revolutionizing Tech with Microsoft's New Approach to Cloud Services & Devices – A Deep Dive by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/streamlined-driver-installation-for-hp-envy-5055-download-now-effortlessly/"><u>Streamlined Driver Installation for HP Envy 5055: Download Now Effortlessly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-fast-track-to-faster-download-speeds-on-steams-origin-platform-2024-insights/"><u>The Fast Track to Faster Download Speeds on Steam's Origin Platform - 2024 Insights</u></a></li>
 </ul></div>
 

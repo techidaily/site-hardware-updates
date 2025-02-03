@@ -1,7 +1,7 @@
 ---
 title: "Beyond ThinkPads and MacBooks: Discovering Exceptional Productivity Laptops for Power Users"
-date: 2025-01-17T20:20:03.201Z
-updated: 2025-01-25T01:02:11.950Z
+date: 2025-01-28T16:28:34.540Z
+updated: 2025-02-01T23:08:46.681Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -95,7 +95,7 @@ Instead, I see the Vivobook S 15 as a primary driver for remote workers or digit
 It also has a "full" keyboard (the number pad on the right side has slightly smaller keys, as typical for sub-16-inch machines), which is satisfying and responsive to typing on. The keyboard has colorful LED backlighting that can be configured in many different lights and effects, but again, this is not something that I would consider high on the priority list when optimizing battery life. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -134,22 +134,24 @@ All things considered, the starting price of $1,299 is quite competitive for thi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-asus-rog-phone-8-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Asus ROG Phone 8 System Crash Issue | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/aerial-mastery-reviewed-the-essence-of-gopro-karma-for-2024/"><u>Aerial Mastery Reviewed The Essence of GoPro Karma for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-analysis-of-viewsonic-va1655-a-standard-all-rounder-display-device/"><u>Comprehensive Analysis of ViewSonic VA1655 - a Standard All-Rounder Display Device</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-cutting-edge-visuals-on-aocs-agon-pro-ag456uczd-a-45-uhd-oled-monitor-with-lightning-fast-response-time-and-ultimate-gaming-comfort/"><u>Discover Cutting-Edge Visuals on AOC's Agon Pro AG456UCZD, a 45 UHD OLED Monitor with Lightning-Fast Response Time and Ultimate Gaming Comfort</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-the-ultimate-deal-39-lg-ultragear-wqhd-curved-gaming-display-for-just-999-on-amazon/"><u>Discover the Ultimate Deal: 39 LG Ultragear WQHD Curved Gaming Display for Just $999 on Amazon</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/dont-miss-out-on-the-ultimate-gamers-bargain-snag-the-high-performance-curved-24-inch-acer-nitro-for-a-steal-at-just-81/"><u>Don't Miss Out on the Ultimate Gamers' Bargain - Snag the High-Performance, Curved 24-Inch Acer Nitro for a Steal at Just $81</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/elevate-your-professional-workspace-with-asus-8k-mini-led-proart-monitor-the-ultimate-choice-in-superior-illumination-and-unmatched-visual-clarity-for-high-66/"><u>Elevate Your Professional Workspace with Asus' 8K Mini LED ProArt Monitor - The Ultimate Choice in Superior Illumination and Unmatched Visual Clarity for High-End Content Creation</u></a></li>
-<li><a href="https://program-issues.techidaily.com/epic-games-launcher-clearing-up-the-mystery-behind-the-opaque-interface-problems/"><u>Epic Games Launcher: Clearing Up the Mystery Behind the Opaque Interface Problems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exceptional-clarity-and-versatility-tested-an-in-depth-look-at-the-asus-rog-strix-xg27acs-monitor/"><u>Exceptional Clarity and Versatility Tested: An In-Depth Look at the Asus Rog Strix XG27ACS Monitor</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/experience-next-level-fps-with-the-asrock-pg27qft2a-180-hz-gamers-screen-review/"><u>Experience Next-Level FPS with the ASRock PG27QFT2A 180 Hz Gamer's Screen Review</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-gadget-analysis-at-toms-hardware-hub/"><u>Expert Gadget Analysis at Tom's Hardware Hub</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-agriculture-adventures-with-comrades-top-10-farmers-craft/"><u>In 2024, Agriculture Adventures with Comrades Top 10 Farmer's Craft</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-motorola-moto-g34-5g-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Motorola Moto G34 5G Phone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On OnePlus Open? | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-screen-capture-face-off-battle-of-the-best-obs-or-bandicam/"><u>In 2024, Screen Capture Face-Off Battle of the Best, OBS or Bandicam</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-ultimate-list-youtube-alternatives-for-video-creators-for-2024/"><u>The Ultimate List YouTube Alternatives for Video Creators for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbeatable-october-prime-day-offer-metas-latest-512gb-quest-3-top-choice-for-vr-enthusiasts-still-in-stock-techspot/"><u>Unbeatable October Prime Day Offer: Meta's Latest 512GB Quest 3 - Top Choice for VR Enthusiasts! (Still In Stock) | TechSpot</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/gnite-audience-interest-with-effective-strategies-in-video-outros-for-2024/"><u>[New] Ignite Audience Interest with Effective Strategies in Video Outros for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-how-to-make-gmail-meetings-work-zipping-up-zoom-integrations-for-2024/"><u>[Updated] How to Make Gmail Meetings Work Zipping Up Zoom Integrations for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-xiaomi-14-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722976542635-amd-rx-amoled-with-drivers-on-windows-111087-heres-your-guide/"><u>AMD RX Amoled with Drivers on Windows 11/10/8/7? Here's Your Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/re-chill-vibes-top-winter-bg-ideas-for-yt/"><u>Capture Chill Vibes Top Winter Bg Ideas for YT</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/detailed-guides-on-tech-gadgets-by-toms-hardware-experts/"><u>Detailed Guides on Tech Gadgets by Tom's Hardware Experts</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-corsair-k70-mouse-drivers-and-software-free/"><u>Download Corsair K70 Mouse Drivers & Software - Free</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-perfect-pairing-download-the-new-zexmte-bluetooth-driver-supported-by-windows-1178/"><u>Ensure Perfect Pairing: Download the New Zexmte Bluetooth Driver Supported by Windows 11/7/8</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-secure-your-samsung-phone-with-official-android-debug-bridge-drivers/"><u>How to Secure Your Samsung Phone with Official Android Debug Bridge Drivers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/june-30s-todays-nyt-logic-challenges-revealed-solutions-and-strategies-385/"><u>June 30'S Today's NYT Logic Challenges Revealed – Solutions & Strategies (#385)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/keep-your-brother-scanner-and-printer-running-smoothly-with-the-latest-windows-software-updates/"><u>Keep Your Brother Scanner & Printer Running Smoothly with the Latest Windows Software Updates</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/pure-sound-in-every-space-review-of-audio-technica-bk/"><u>Pure Sound in Every Space: Review of Audio-Technica BK</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/revamp-your-acer-sound-experience-seamless-and-rapid-audio-driver-upgrades/"><u>Revamp Your Acer Sound Experience: Seamless and Rapid Audio Driver Upgrades</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-canon-mg-series-printer-driver-installation-for-windows-users-versions-included/"><u>Step-by-Step Canon MG Series Printer Driver Installation for Windows Users (Versions Included)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-to-addressing-bcm-2045-a0-driver-glitches/"><u>Step-by-Step Guide to Addressing Bcm 2045 A0 Driver Glitches</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/transformative-power-of-vlc-from-mp4-to-a-multitude-of-formats/"><u>Transformative Power of VLC From MP4 to a Multitude of Formats</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-rtx-ablishing-a-safe-environment-in-which-individuals-can-express-their-emotions-and-offering-coping-strategies-to-manage-intense-feelings-const281/"><u>Update Your RTX Ablishing a Safe Environment in Which Individuals Can Express Their Emotions, and Offering Coping Strategies to Manage Intense Feelings Constructively without Resorting to Self-Harm.</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-explore-8-essential-rainfall-audio-libraries-available-to-download/"><u>Updated Explore 8 Essential Rainfall Audio Libraries Available to Download</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/video-editing-essentials-import-edit-and-export-in-adobe-premiere-2023/"><u>Video Editing Essentials Import, Edit, and Export in Adobe Premiere 2023</u></a></li>
 </ul></div>
 

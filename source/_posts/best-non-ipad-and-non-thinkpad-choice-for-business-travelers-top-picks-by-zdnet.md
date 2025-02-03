@@ -1,7 +1,7 @@
 ---
 title: "Best Non-iPad and Non-ThinkPad Choice for Business Travelers: Top Picks by ZDNet"
-date: 2025-01-18T23:24:53.472Z
-updated: 2025-01-25T02:37:06.663Z
+date: 2025-01-26T19:56:25.641Z
+updated: 2025-02-01T19:18:29.860Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Ed Bott/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -83,7 +83,7 @@ Cesar Cadenas/ZDNET
 And for one of the best qualities of this laptop: battery life is absolutely phenomenal. I [performed our usual test](https://www.zdnet.com/article/how-we-test-laptops/) of running a YouTube livestream at 720p and 50% brightness. At its peak, the Surface Pro lasted just under 13 hours on a single charge. That's just shy of Microsoft's purported 14-hour battery life. In practical usage, this is a device that will easily last multiple days on a single charge. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -122,17 +122,21 @@ Prices for the device start at $999.99\. My review unit with the 12-core Snapdra
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-3-simple-methods-to-brighten-a-video-on-iphone/"><u>[New] In 2024, 3 Simple Methods to Brighten a Video on iPhone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-best-practices-for-efficient-slide-capture/"><u>[New] In 2024, Best Practices for Efficient Slide Capture</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-mastering-the-art-of-tinder-profiles-top-tricks-for-instant-love-interest-for-2024/"><u>[New] Mastering the Art of Tinder Profiles Top Tricks for Instant Love Interest for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-essence-of-video-editing-filmoras-ten-wonders/"><u>[Updated] The Essence of Video Editing Filmora's Ten Wonders</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-oppo-a2-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Oppo A2</u></a></li>
-<li><a href="https://games-able.techidaily.com/customize-your-interactive-language-in-steam/"><u>Customize Your Interactive Language in Steam</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/immersive-curved-visuals-for-less-get-the-ultrawide-oled-monitor-samsung-g9-at-unprecedented-lows/"><u>Immersive Curved Visuals for Less – Get the Ultrawide OLED Monitor, Samsung G9 at Unprecedented Lows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/in-depth-computer-and-component-evaluations-from-toms-hardware-team/"><u>In-Depth Computer and Component Evaluations From Tom's Hardware Team</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/introducing-the-game-changer-asuss-latest-addition-a-sleek-27-oled-gaming-screen-with-zero-flickering-and-cutting-edge-adaptive-sync-features/"><u>Introducing the Game Changer: Asus's Latest Addition – A Sleek, 27 OLED Gaming Screen with Zero Flickering & Cutting-Edge Adaptive Sync Features</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-hardware-with-toms-expert-advice-and-reviews/"><u>Mastering Hardware with Tom's Expert Advice and Reviews</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-the-digital-landscape-with-insightful-articles-from-toms-hardware/"><u>Navigating the Digital Landscape with Insightful Articles From Tom's Hardware</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-meizu-21-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Meizu 21 for Streaming | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-console-chronos-review/"><u>[New] 2024 Approved Console Chronos Review</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-the-essential-guide-to-html5s-most-acclaimed-tools/"><u>[New] 2024 Approved The Essential Guide to HTML5's Most Acclaimed Tools</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-blu-ray-innovation-top-10-pioneers-of-24-for-2024/"><u>[New] Blu-Ray Innovation Top 10 Pioneers of '24 for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-enhancing-your-snapchat-experience-mobile-recordings/"><u>[Updated] Enhancing Your Snapchat Experience Mobile Recordings</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/behind-glasses-and-screens-vrs-evolutionary-tale/"><u>Behind Glasses and Screens VR’s Evolutionary Tale</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-amd-ryzen-drivers-safely-simple-guide/"><u>Download and Update AMD Ryzen Drivers Safely - Simple Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-does-android-system-intelligence-work-exploring-advanced-tech-features/"><u>How Does Android System Intelligence Work? Exploring Advanced Tech Features</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-successfully-install-the-canon-pro-100-drivers-for-windows-no-hassle/"><u>How to Successfully Install the Canon PRO 100 Drivers for Windows - No Hassle!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/intels-breakthrough-innovation-meet-the-new-generation-of-granite-rapids-chips-boasting-a-staggering-128-cores-and-an-impressive-500w-tdp-rating/"><u>Intel's Breakthrough Innovation: Meet the New Generation of Granite Rapids Chips, Boasting a Staggering 128 Cores and an Impressive #500W TDP Rating</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/locating-intels-device-drivers-update-tool/"><u>Locating Intel's Device Drivers Update Tool</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/no-more-disruptions-overcoming-battlefront-ii-freezing-issues-on-windows-machines/"><u>No More Disruptions: Overcoming Battlefront II Freezing Issues on Windows Machines</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723262295089-reaching-new-heights-pushing-an-amd-ryzen-7-9700x-up-to-a-stunning-58ghz-with-advanced-aio-liquid-cooling-plus-a-surprising-peak-at-6ghz-idle/"><u>Reaching New Heights: Pushing an AMD Ryzen #7 9700X Up to a Stunning 5.8GHz with Advanced AIO Liquid Cooling, Plus a Surprising Peak at 6GHz Idle</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-straightforward-way-to-upgrade-your-amd-graphic-driver-software/"><u>The Straightforward Way to Upgrade Your AMD Graphic Driver Software</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-the-wmvcoredll-missing-error-on-your-computer/"><u>Troubleshooting the Wmvcore.dll Missing Error on Your Computer</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722969965183-update-or-fresh-install-audio-drivers-for-windows-7-directly-here/"><u>Update or Fresh-Install Audio Drivers for Windows 7 Directly Here!</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Poco M6 Pro 4G | Dr.fone</u></a></li>
 </ul></div>
 

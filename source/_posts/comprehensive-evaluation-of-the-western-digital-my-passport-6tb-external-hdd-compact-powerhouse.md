@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Evaluation of the Western Digital My Passport 6TB External HDD - Compact Powerhouse
-date: 2024-08-19T04:18:18.076Z
-updated: 2024-08-20T04:18:18.076Z
+date: 2025-01-26T18:31:01.439Z
+updated: 2025-02-01T21:18:44.192Z
 tags:
   - ssd
 categories:
@@ -34,9 +34,17 @@ SSD Price Index by Model
 
  For even more savings, see our lists of the best[SSD deals](https://tools.techidaily.com) , [GPU deals](https://tools.techidaily.com) ,[CPU deals](https://tools.techidaily.com) , [gaming laptop deals](https://tools.techidaily.com) ,[monitor deals](https://tools.techidaily.com) , [3D printer deals](https://tools.techidaily.com) , and[PC hardware deals overall](https://tools.techidaily.com) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Lowest SSD Prices by Capacity and Model
 
  Why you can trust Tom's Hardware  Our expert reviewers spend hours testing and comparing products and services so you can choose the best for you.[Find out more about how we test](https://tools.techidaily.com) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## PCIe 5 SSDs: Lowest Prices
 
@@ -55,8 +63,9 @@ SSD Price Index by Model
 | MSI Spatium M570 2TB     | [$199](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB0BYRRD36V%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1194489255921165592-20)     | $199                   | 5        |
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4TB SSDs: Lowest Prices
 
  Below are all the PCIe 4 and 3 drives in 4TB capacity. Usually, you'll pay a premium for 4TB capacity, but it's a great size, particularly if you're planning for this to be your one and only drive. With 4TB, you can fit a ton of games, video clips, and even virtual machines or AI models on your system.
@@ -78,8 +87,9 @@ SSD Price Index by Model
 | WD Black SN850X        | [$279](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB0B7CQ2CHH%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1435418681249410954-20) | $229                   | 4        |
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2TB SSDs: Lowest Prices
 
  The sweet spot in price and capacity for a lot of consumers, 2TB SSD drives have enough storage for most applications and games and come at a more affordable price point. Some of our personal favorites include the Samsung 990 Pro and Western Digital SN850X because they are standout Gen 4 2TB SSDs.
@@ -110,8 +120,9 @@ SSD Price Index by Model
 | WD Blue SN570          | [$198](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB09JM8DJNS%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-3077597594994621287-20)                                                                                                                                                                                                                                               | $84                    | 3        |
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1TB SSDs: Lowest Prices
 
  While you can pick up a 512 or 256GB SSD in a pinch, 1TB is the minimum capacity you should have on a computing device these days. If you're not doing a ton of gaming, media editing or local AI modeling, you can definitely get by with a 1TB SSD as your boot drive.
@@ -153,8 +164,6 @@ SSD Price Index by Model
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,4 +171,24 @@ SSD Price Index by Model
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-concept-to-creation-crafting-youtube-video-splits-for-2024/"><u>[New] From Concept to Creation Crafting YouTube Video Splits for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-navigating-video-streams-across-networks-using-vlc/"><u>[New] Navigating Video Streams Across Networks Using VLC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-most-recent-printer-driver-software-for-your-brother-hl-2240-on-windows/"><u>Download the Most Recent Printer Driver Software for Your Brother HL-2240 on Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/elevate-your-cpu-game-with-an-amd-ryzen-9700x-overclocking-to-58ghz-and-beyond-using-cutting-edge-aio-liquid-coolers-surpassing-expectations-at-a-steady-idl32/"><u>Elevate Your CPU Game with an AMD Ryzen #9700X: Overclocking to 5.8GHz and Beyond Using Cutting-Edge AIO Liquid Coolers, Surpassing Expectations at a Steady Idle Speed of 6 GHz</u></a></li>
+<li><a href="https://discover-best.techidaily.com/evaluating-security-a-deep-dive-into-yl-computings-protections/"><u>Evaluating Security: A Deep Dive Into YL Computing's Protections</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-updated-epson-wf-2750-printer-driver-here/"><u>Get the Updated Epson WF-2750 Printer Driver Here!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Tecno Pova 5? | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-switching-from-snippet-to-live-play-in-yt/"><u>In 2024, Switching From Snippet to Live Play in YT</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-itel-a05s-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Itel A05s Phone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-solutions-to-tackle-bcm20-45a0-driver-troubles-with-ease/"><u>Quick Solutions to Tackle BCM20 45A0 Driver Troubles with Ease</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolved-the-issue-with-the-igfx-em-module-no-longer-functioning/"><u>Resolved: The Issue with the iGFX EM Module No Longer Functioning</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722957482635-speedy-links-secure-your-network-with-linksys-wrt32x-firmware-download-now/"><u>Speedy Links: Secure Your Network with Linksys WRT32X Firmware - Download Now!</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/step-by-step-guide-enhancing-youtube-content-with-ios-recording-for-2024/"><u>Step-by-Step Guide Enhancing YouTube Content with iOS Recording for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/successfully-installing-rndis-drivers-on-windows-a-step-by-step-solution/"><u>Successfully Installing RNDIS Drivers on Windows - A Step-by-Step Solution</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/tailored-screen-recording-guide-for-your-lenovo-device/"><u>Tailored Screen Recording Guide for Your Lenovo Device</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-technique-to-upgrade-graphics-card-software-on-windows-11-computers/"><u>The Ultimate Technique to Upgrade Graphics Card Software on Windows 11 Computers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-hp-workstation-z440-compatible-driver-releases-and-download-links/"><u>Update Your HP Workstation Z440: Compatible Driver Releases and Download Links</u></a></li>
+</ul></div>
 

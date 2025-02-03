@@ -1,7 +1,7 @@
 ---
 title: "Outperforming Apple: How LG Gram Pro Surpasses the MacBook Air Across Three Key Areas - Insights From a Comprehensive Review | ZDNet"
-date: 2025-01-23T02:15:53.529Z
-updated: 2025-01-24T19:00:55.053Z
+date: 2025-01-31T17:16:48.070Z
+updated: 2025-02-01T22:43:11.068Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Ed Bott/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -49,7 +49,7 @@ My original plan was to use the new Surface Pro as a secondary mobile device, wh
 How did this happen? Let's dive in.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The experience is familiar
@@ -81,7 +81,7 @@ Screenshot by Ed Bott/ZDNET
 At an average of more than 10 hours of actual, observed battery life, this Surface Pro is able to run for well over twice as long as my Intel-based Surface Pro 9\. That's also at least as long as the [M2 MacBook Air](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/) in my office.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Compatibility is good but not perfect
@@ -121,7 +121,7 @@ I had no hardware problems to speak of. My 10-year-old Logitech C930 webcam just
 Your mileage may vary, of course, especially if you have exotic hardware like video capture cards and ancient multifunction printers that require custom driver packs and won't work with the in-box Windows drivers. Thankfully, I have none of those.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The AI story is incomplete
@@ -145,7 +145,7 @@ The real question is whether those features are powerful enough to make you swit
 Even if you avoid the AI features completely, though, there's more than enough power in this [budget PC](https://www.zdnet.com/article/best-laptops-under-500/). Plus, as long as your apps and hardware requirements aren't exotic, you'll appreciate its cool, quiet operation.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test laptops
@@ -192,22 +192,21 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/nfusing-vitality-into-text-an-animated-adventure/"><u>[New] Infusing Vitality Into Text An Animated Adventure</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-creating-captivating-life-enriching-video-content-for-2024/"><u>[Updated] Creating Captivating Life-Enriching Video Content for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/dominating-gamers-worlds-unveiling-the-performance-and-colors-of-philips-evonia-monitor/"><u>Dominating Gamers' Worlds - Unveiling the Performance & Colors of Philips Evonia Monitor</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/experience-ultraportability-with-vaios-newly-launched-visionplus-14-monitor-just-072-pounds/"><u>Experience Ultraportability with Vaio's Newly Launched Vision+ 14 Monitor - Just 0.72 Pounds!</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/expert-tips-for-enhancing-ppts-with-auditory-content-for-2024/"><u>Expert Tips for Enhancing PPTs with Auditory Content for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/explore-computer-components-with-toms-hardware-experts/"><u>Explore Computer Components with Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exposing-displayport-21s-uhbr-cable-conundrum-how-this-affected-nvidia-to-clutch-on-using-dp-14-for-the-latest-rtx-40-lineup/"><u>Exposing DisplayPort 2.1’S UHBR-Cable Conundrum – How This Affected NVIDIA to Clutch on Using DP 1.4 for the Latest RTX 40 Lineup</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/feast-on-crisp-vibrant-colors-with-the-asrock-32-480hz-oled-monitor-the-ultimate-choice-for-streamers-and-gamers/"><u>Feast on Crisp, Vibrant Colors with the ASROCK 32 480Hz OLED Monitor: The Ultimate Choice for Streamers and Gamers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/find-your-perfect-game-viewing-companer-budget-monitors-curved-panels-and-g-sync-capabilities-await/"><u>Find Your Perfect Game Viewing Companer – Budget Monitors, Curved Panels & G-Sync Capabilities Await!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-best-deal-on-an-immersive-viewing-experience-the-lg-34-ultragear-monitor-at-only-499/"><u>Get the Best Deal on an Immersive Viewing Experience: The LG 34 UltraGear Monitor at Only $499!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/grab-yours-now-the-ultimate-steal-of-a-sceptre-24-inch-curved-tv-game-screen-at-79/"><u>Grab Yours Now! The Ultimate Steal of a Sceptre 24-Inch Curved TV Game Screen at $79.</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/how-can-i-share-videos-to-instagram-for-2024/"><u>How Can I Share Videos to Instagram for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/photo-perfection-highest-rated-phone-tripods/"><u>Photo Perfection Highest Rated Phone Tripods</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/professional-insights-into-androids-recording-features/"><u>Professional Insights Into Android's Recording Features</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/purchase-the-revolutionary-100-inch-ar-laptop-ultimate-viewing-experience-without-a-separate-monitor-exclusive-offer-on-zdnet/"><u>Purchase the Revolutionary 100-Inch AR Laptop: Ultimate Viewing Experience without a Separate Monitor – Exclusive Offer on ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-pick-for-lightweight-long-lasting-laptop-techspot/"><u>Top Pick for Lightweight, Long-Lasting Laptop | TechSpot</u></a></li>
-<li><a href="https://win11.techidaily.com/win11-unwaking-from-sleep-with-input-devices/"><u>Win11: Unwaking From Sleep with Input Devices</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-how-to-edit-photos-on-snapchat/"><u>[New] 2024 Approved How to Edit Photos on Snapchat</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-a-complete-strategy-for-superior-animoji-use-on-iphone-x/"><u>[Updated] 2024 Approved A Complete Strategy for Superior Animoji Use on iPhone X</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-expert-advice-for-embedding-youtube-playlists-with-ease/"><u>[Updated] 2024 Approved Expert Advice for Embedding YouTube Playlists with Ease</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-rapid-instagram-video-viewing-techniques/"><u>2024 Approved Rapid Instagram Video Viewing Techniques</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-cutting-edge-tech-innovative-reviews-from-toms-hardware-expertise/"><u>Discover Cutting-Edge Tech: Innovative Reviews From Tom's Hardware Expertise</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-enhance-audio-performance-driver-update-guide-for-windows-11107/"><u>How to Enhance Audio Performance: Driver Update Guide for Windows 11/10/7</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-pro-tips-effortless-capture-of-hulu-videos-across-windowsmaciphone/"><u>In 2024, Pro Tips Effortless Capture of Hulu Videos Across Windows/Mac/iPhone</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/key-precautions-when-modifying-the-registry-expert-advice-from-yl-software-experts/"><u>Key Precautions When Modifying the Registry: Expert Advice From YL Software Experts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-corsair-k55-keyboard-drivers-download-and-installation-steps/"><u>Latest Corsair K55 Keyboard Drivers: Download and Installation Steps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-m-audio-fast-track-driver-installation-files-for-windows-users-win-10-7-8-and-81/"><u>Latest M-Audio Fast Track Driver Installation Files for Windows Users (Win 10, 7, 8 & 8.1)</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mp4-video-repair-tool-repair-corrupt-damaged-unplayable-video-files-of-tecno-pova-5-pro-by-stellar-video-repair-mobile-video-repair/"><u>MP4 Video Repair Tool - Repair corrupt, damaged, unplayable video files of Tecno Pova 5 Pro</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-technology-the-toms-hardware-compendium/"><u>Navigating Technology: The Tom's Hardware Compendium</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-updating-your-epson-printers-drivers-on-windows-11/"><u>Step-by-Step Guide: Updating Your Epson Printer's Drivers on Windows 11</u></a></li>
+<li><a href="https://discover-able.techidaily.com/stunning-full-hd-wallpaper-pack-for-your-pcmac-exclusive-audi-themes-by-yl-software/"><u>Stunning Full HD Wallpaper Pack for Your PC/Mac - Exclusive Audi Themes by YL Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-hub-ultimate-guide-and-insights/"><u>Tom's Tech Hub: Ultimate Guide and Insights</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-tecno-camon-20-pro-5g-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Tecno Camon 20 Pro 5G Android SIM Unlock APK</u></a></li>
 </ul></div>
 

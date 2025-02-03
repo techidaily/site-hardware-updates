@@ -1,7 +1,7 @@
 ---
 title: Revolutionary Fish Tank Style MSI Enclosure (MSI CASE) Now Features Compatible Back Plug - Expect Retail Price to Hit $98-$105 Mark
-date: 2024-08-19T04:14:51.569Z
-updated: 2024-08-20T04:14:51.569Z
+date: 2025-01-27T21:58:14.281Z
+updated: 2025-02-01T20:24:11.840Z
 tags:
   - cases
 categories:
@@ -41,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/40d2bba30d8d7204e00531f0c8ae5a0019fd1a940
 
  This is a pretty roomy case for Micro-ATX at 440 x 235 x 405mm / 17.32 x 9.25 x 15.94 inches, so the decent max compatibility figures aren’t a surprise. Full specs can be seen in the datasheet below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -50,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/40d2bba30d8d7204e00531f0c8ae5a0019fd1a940
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
 ![MSI MAG Pano M100R PZ case](https://cdn.mos.cms.futurecdn.net/TzDYByQWKZZPQgpJWKBMod-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 (Image credit: MSI)
 
@@ -65,8 +73,6 @@ thumbnail: https://thmb.techidaily.com/40d2bba30d8d7204e00531f0c8ae5a0019fd1a940
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -74,8 +80,19 @@ thumbnail: https://thmb.techidaily.com/40d2bba30d8d7204e00531f0c8ae5a0019fd1a940
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-enhancing-revenue-the-15-premier-fb-insight-gadgets-for-2024/"><u>[New] Enhancing Revenue The 15 Premier FB Insight Gadgets for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-speedy-iphone-timelapses-made-simple/"><u>[New] In 2024, Speedy iPhone Timelapses Made Simple</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-humorhub-generate-awesome-memes/"><u>2024 Approved HumorHub Generate Awesome Memes</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-lava-blaze-curve-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Lava Blaze Curve 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/accelerating-media-playback-in-vlc-for-pc-users/"><u>Accelerating Media Playback in VLC for PC Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comparing-oled-vs-qled-televisions-top-picks-for-your-next-home-entertainment-investment/"><u>Comparing OLED Vs. QLED Televisions: Top Picks for Your Next Home Entertainment Investment</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comparing-wi-fi-range-boosters-with-mesh-wireless-networks-for-seamless-connectivity/"><u>Comparing Wi-Fi Range Boosters with Mesh Wireless Networks for Seamless Connectivity</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-evaluation-of-switchbot-s10-a-revolutionary-self-sufficient-robot-vacuum-with-automatic-water-refilling/"><u>Comprehensive Evaluation of Switchbot S10: A Revolutionary Self-Sufficient Robot Vacuum with Automatic Water Refilling</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/creating-a-comfortable-and-intelligent-living-space-a-step-by-step-tutorial-for-families/"><u>Creating a Comfortable and Intelligent Living Space: A Step-by-Step Tutorial for Families.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/daring-tech-trick-clean-your-electronics-safely-using-a-dishwasher/"><u>Daring Tech Trick: Clean Your Electronics Safely Using a Dishwasher</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-audio-issues-with-windows-computers-windows-10-and-7/"><u>Resolving Audio Issues with Windows Computers (Windows 10 and 7)</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/top-7-icloud-activation-bypass-tools-for-your-iphone-se-2022-by-drfone-ios/"><u>Top 7 iCloud Activation Bypass Tools For your iPhone SE (2022)</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->

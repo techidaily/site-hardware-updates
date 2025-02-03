@@ -1,7 +1,7 @@
 ---
 title: "Meet the Compact Multi-Device Charger: Ideal for Powering Up Laptops, Tablets & Phones"
-date: 2025-01-23T19:49:57.814Z
-updated: 2025-01-25T00:22:26.823Z
+date: 2025-01-30T19:04:51.243Z
+updated: 2025-02-01T18:34:34.288Z
 tags:
   - laptops
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/200bad50912773155a76642b85b00bc52b52d7ab3
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -93,7 +93,7 @@ Compared to a MacBook, one could argue that the Yoga Slim 7x is at least better 
 The MacBook is better suited for the iOS ecosystem, however Lenovo has been making strides in developing a data transfer feature between its laptop and iPhones. So if you're not sure which one to get, the Yoga Slim 7x might be the better long-term investment.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -134,18 +134,20 @@ Creators might also appreciate the fact that Lenovo is also giving [two free mon
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-a-synergy-for-success-merge-linktree-with-your-tiktok-bio/"><u>[New] A Synergy for Success Merge Linktree with Your TikTok Bio</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-vlc-utility-guide-for-mp4-to-multiple-file-types-transformation-for-2024/"><u>[Updated] VLC Utility Guide for MP4 to Multiple File Types Transformation for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-triple-trouble-how-to-handle-three-tubes-of-content-at-once/"><u>2024 Approved Triple Trouble How to Handle Three Tubes of Content at Once</u></a></li>
-<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-oppo-f23-5g-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Oppo F23 5G FRP</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/amd-driver-not-showing-up-in-device-manager-solved/"><u>AMD Driver Not Showing Up in Device Manager [Solved]</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-niche-to-noteworthy-the-ultimate-unboxing-strategy-on-instagram/"><u>In 2024, From Niche to Noteworthy The Ultimate Unboxing Strategy on Instagram</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-realme-narzo-60-5g-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Realme Narzo 60 5G Without PUK Codes</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/qualcomms-revolutionary-chips-in-laptops-how-the-snapdragon-x-series-powers-dell-xps-13-plus-with-extended-battery-life-at-half-price-of-intel-models/"><u>Qualcomm's Revolutionary Chips in Laptops: How the Snapdragon X Series Powers Dell XPS 13 Plus with Extended Battery Life at Half Price of Intel Models</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/scented-computing-redefined-by-asus-with-the-introduction-of-their-sweet-smelling-adol-book-laptop/"><u>Scented Computing Redefined by Asus with the Introduction of Their Sweet-Smelling Adol Book Laptop</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/score-a-bargain-16-inch-macbook-pro-w-m3-chip-at-discounted-prices-pre-prime-day/"><u>Score a Bargain: 16-Inch MacBook Pro W/ M3 Chip at Discounted Prices Pre-Prime Day</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/the-fbx-game-recorder-playbook-for-2024/"><u>The FBX Game Recorder Playbook for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-reviews-in-depth-analysis-of-the-latest-hardware/"><u>Tom's Tech Reviews: In-Depth Analysis of the Latest Hardware</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-comprehensive-hardware-reviews-and-advice/"><u>Tom's Tech: Comprehensive Hardware Reviews and Advice</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-mastering-windows-installation-of-your-new-focusrite-scarlett-2i2-audio-interface/"><u>[Download]: Mastering Windows Installation of Your New Focusrite Scarlett 2I2 Audio Interface!</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-the-streaming-spectrum-digital-vs-physical-frontiers/"><u>[Updated] 2024 Approved The Streaming Spectrum Digital vs Physical Frontiers</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-secret-to-slowed-movies-mastery-your-step-by-step-guide-on-instagram-reels-for-2024/"><u>[Updated] The Secret to Slowed Movies Mastery – Your Step by Step Guide on Instagram Reels for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/blueprints-to-hiring-creative-cinematographers/"><u>Blueprints to Hiring Creative Cinematographers</u></a></li>
+<li><a href="https://win11.techidaily.com/crafting-efficient-windows-11-shortcuts-for-uwp-apps/"><u>Crafting Efficient Windows 11 Shortcuts for UWP Apps</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discover-the-excellence-of-msfsx-gold-edition-the-ultimate-flight-simulation-experience-evaluated/"><u>Discover the Excellence of MSFSX Gold Edition: The Ultimate Flight Simulation Experience Evaluated</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-the-latest-samsung-960-evo-ssd-drivers-on-your-windows-pc/"><u>Download & Install the Latest Samsung 960 EVO SSD Drivers on Your Windows PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/first-look-at-langchains-large-language-models/"><u>First Look at LangChain's Large Language Models</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-enable-the-latest-hid-standard-mouse-support-on-your-pc/"><u>How to Enable the Latest HID Standard Mouse Support on Your PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-resident-evil-village-pc-performance-lags-a-complete-guide/"><u>How To Fix Resident Evil Village PC Performance Lags: A Complete Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-c53-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Realme C53 Phone with Broken Screen</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-driver-upgrades-for-your-canon-dslr-model-d530-easy-downloads-available/"><u>Latest Driver Upgrades for Your Canon DSLR, Model D530 – Easy Downloads Available</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-and-simple-wacom-intuos-pro-driver-download-for-windows-10-users/"><u>Quick & Simple Wacom Intuos Pro Driver Download for Windows 10 Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-review-comprehensive-guides-and-in-depth-analysis/"><u>Tom's Tech Review - Comprehensive Guides and In-Depth Analysis</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-itel-s23plus-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Itel S23+ Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
 </ul></div>
 

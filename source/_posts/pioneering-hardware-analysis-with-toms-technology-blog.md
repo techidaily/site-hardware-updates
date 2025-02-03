@@ -1,7 +1,7 @@
 ---
 title: Pioneering Hardware Analysis with Tom's Technology Blog
-date: 2024-08-19T04:16:40.859Z
-updated: 2024-08-20T04:16:40.859Z
+date: 2025-01-29T21:07:34.398Z
+updated: 2025-02-01T21:43:33.747Z
 tags:
   - build
 categories:
@@ -19,6 +19,10 @@ Are you looking for a cost-effective way to assemble a little gaming rig? You ca
 
 Keep scrolling for more of today's deals.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## TL;DR — Today’s Best Deals
 
 * **AMD Ryzen 7 5800X, Motherboard & RAM Combo:** [**now $333 at Newegg**](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-2064515025315493140%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252FProduct%252FComboDealDetails%253FItemList%253DCombo.4568496) **(was $427)**
@@ -26,6 +30,10 @@ Keep scrolling for more of today's deals.
 * **Corsair Katar Pro XT:** [**now $21 at Amazon**](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fgp%2Fproduct%2FB08SHCKVTG%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1623005334304824918-20) **(was $34)**
 * **SanDisk 256GB Ultra USB 3.0 Flash Drive:** [**now $12 at Walmart**](https://goto.walmart.com/c/5597632/565706/9383?subId1=techidaily-us-5142007615266812665&sharedId=techidaily-us&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FSanDisk-256GB-Ultra-USB-3-0-Flash-Drive-130MB-s-SDCZ48-256G-AW4%2F259605765) **(was $26)**
 * **Inland Glass PLA 3D Printer Filament:** [**now $10 at Amazon**](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB09PC96H21%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-6540726685219791860-20) **(was $22)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Today’s best deals in detail
 
@@ -65,10 +73,6 @@ Keep scrolling for more of today's deals.
 
 [View Deal](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB09PC96H21%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1136475424910050110-20)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Looking for more deals?
 
 Category
@@ -76,13 +80,11 @@ Category
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/chevron-left.svg "Arrow")
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
  Back to Processors
 
 Brand
@@ -90,8 +92,9 @@ Brand
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  AMD
 
  Corsair
@@ -104,9 +107,6 @@ Price
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 Any Price
 
  Showing 10 of 43 deals
@@ -115,9 +115,6 @@ Any Price
 
 SORT BY Price (low to high)  Price (high to low) Product Name (A to Z)  Product Name (Z to A)  Retailer name (A to Z)  Retailer name (Z to A) ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 [AMD Ryzen 7 5800X](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0815XFSGK%3Ftag%3Dhawk-future-20%26linkCode%3Dogi%26th%3D1%26psc%3D1%26ascsubtag%3Dtomshardware-us-6390834075952669047-20)
 
 (Black)
@@ -300,6 +297,10 @@ Our Review
 
  Load more deals
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -314,8 +315,6 @@ Our Review
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -323,4 +322,26 @@ Our Review
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-az-vision-recorder-complete-application-audits-and-substitutes-for-2024/"><u>[New] AZ Vision Recorder Complete Application Audits & Substitutes for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-viral-success-the-most-loved-ae-themes-for-social-media/"><u>[New] In 2024, Viral Success The Most Loved AE Themes for Social Media</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-instant-subscription-monitoring-tools/"><u>2024 Approved Instant Subscription Monitoring Tools</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-wacom-software-quickly-for-a-smooth-experience/"><u>Download Wacom Software Quickly for a Smooth Experience</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fixing-lg-monitor-drivers-on-pc-solutions-for-windows-10-7-and-81/"><u>Fixing LG Monitor Drivers on PC: Solutions for Windows 10, 7 & 8.1</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-amd-rx-5700-xt-graphics-card-drivers-for-all-windows-versions-111087/"><u>Get the Latest AMD RX 5700 XT Graphics Card Drivers for All Windows Versions (11/10/8/7)</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-newest-thunderbolt-support-program-for-microsoft-windows/"><u>Get the Newest Thunderbolt Support Program for Microsoft Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-up-and-running-with-wacom-devices-fast-driver-downloads-inside/"><u>Get Up and Running with Wacom Devices – Fast Driver Downloads Inside</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-your-new-epson-v600-scandriver/"><u>How to Install Your New Epson V600 ScanDriver</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-gmail-password-on-zte-blade-a73-5g-devices-by-drfone-android/"><u>How to Reset Gmail Password on ZTE Blade A73 5G Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722974670886-how-to-securely-get-and-install-linksys-ae250-wireless-router-updated-firmware-now/"><u>How to Securely Get & Install Linksys AE250# Wireless Router Updated Firmware Now!</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-access-your-iphone-13-pro-max-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Access Your iPhone 13 Pro Max When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-list-of-6-best-nft-platforms-for-artists/"><u>In 2024, The Ultimate List of 6 Best NFT Platforms for Artists</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-guide-how-to-properly-install-western-digital-sata-to-usb-caddy-with-updated-drivers/"><u>Latest Guide: How to Properly Install Western Digital SATA to USB Caddy with Updated Drivers</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-dial-down-the-distractions-effective-background-noise-removal-in-fcpx-for-2024/"><u>New Dial Down the Distractions Effective Background Noise Removal in FCPX for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolving-startech-drivers-problems-on-windows-11-8-and-7-a-step-by-step-guide/"><u>Resolving StarTech Drivers Problems on Windows 11, 8 & 7: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/selecting-the-right-audio-for-your-unboxing-projects-for-2024/"><u>Selecting the Right Audio for Your Unboxing Projects for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/speedy-download-of-samsung-c460-drivers-your-hassle-free-guide/"><u>Speedy Download of Samsung C460 Drivers: Your Hassle-Free Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-resolving-lack-of-sound-in-nvidias-high-definition-audio/"><u>Troubleshooting and Resolving Lack of Sound in NVIDIA's High Definition Audio</u></a></li>
+</ul></div>
 

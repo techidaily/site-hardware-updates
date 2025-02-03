@@ -1,7 +1,7 @@
 ---
 title: Score The HP Victus #15 Laptop for Gamers at a Steal – Only $450 on This Best Buy Deal | Insights via ZDNET
-date: 2025-01-17T18:43:47.299Z
-updated: 2025-01-24T18:06:06.240Z
+date: 2025-01-26T22:10:47.269Z
+updated: 2025-02-01T19:58:34.539Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,20 +63,21 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-navigating-apples-podcast-submission-requirements-clearly/"><u>[New] 2024 Approved Navigating Apple's Podcast Submission Requirements Clearly</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-unleash-your-inner-star-bold-steps-for-youtube-success/"><u>[Updated] Unleash Your Inner Star Bold Steps for YouTube Success</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amazing-deal-gigabyte-aorus-oled-gaming-monitor-now-at-all-time-low-just-969/"><u>Amazing Deal: Gigabyte Aorus OLED Gaming Monitor Now at All-Time Low - Just $969!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/aocs-newest-marvel-the-agon-pro-ag456uczd-a-gamers-review-of-the-spectacular-45-ultrawide-extreme-curve-oled-monitor-with-superior-speed-and-design-innovati56/"><u>AOC's Newest Marvel: The Agon Pro AG456UCZD - A Gamer's Review of the Spectacular 45 UltraWide, Extreme Curve OLED Monitor with Superior Speed & Design Innovation</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ng-the-cord-on-costs-select-best-free-yt-title-makers-for-2024/"><u>Cutting the Cord on Costs - Select Best-Free YT Title Makers for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/free-cam-software-roundup-innovation-at-your-fingertips/"><u>Free Cam Software Roundup Innovation at Your Fingertips</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Asus ROG Phone 8 Pro? | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-essential-strategies-for-effective-content-management-in-creator-studio/"><u>In 2024, Essential Strategies for Effective Content Management in Creator Studio</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-ghostly-horizons-video-tech-update/"><u>In 2024, Ghostly Horizons Video Tech Update</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-nokia-g22-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Nokia G22 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862789486-introducing-vaios-game-changing-portable-monitor-the-worlds-lightest-screen-weighing-only-072-pounds/"><u>Introducing Vaio's Game-Changing Portable Monitor - The World’s Lightest Screen, Weighing Only 0.72 Pounds!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862837764-save-big-on-innocns-27-240hz-ips-gaming-display-quality-and-affordability-at-199/"><u>Save Big on Innocn's 27 240Hz IPS Gaming Display - Quality and Affordability at $199</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/tips-to-overcome-mute-in-obs-streaming-for-2024/"><u>Tips to Overcome Mute in OBS Streaming for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862833971-ultimate-guide-to-the-aoc-agon-pro-ag456uczd-top-rated-45-ultrawide-oled-gamers-dream-display-with-incredible-speed-and-design/"><u>Ultimate Guide to the AOC Agon Pro AG456UCZD - Top Rated 45 Ultrawide OLED Gamer's Dream Display with Incredible Speed & Design</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862797779-ultrawide-revolution-with-samsungs-premium-oled-at-an-all-time-price-drop-shave-off-60-now/"><u>UltraWide Revolution with Samsung's Premium OLED at an All-Time Price Drop - Shave Off $60 Now!</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-complete-walkthrough-mastering-adobe-cloud-services/"><u>[New] 2024 Approved Complete Walkthrough Mastering Adobe Cloud Services</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-infusing-life-into-ppt-with-professional-voiceovers/"><u>[Updated] 2024 Approved Infusing Life Into PPT with Professional Voiceovers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-uniting-your-feeds-posting-videos-from-twitter-on-snapchat/"><u>[Updated] In 2024, Uniting Your Feeds Posting Videos From Twitter on Snapchat</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amds-fire-series-zen-5-processors-keep-fl1-chip-design-implications-for-upgraded-laptops-with-ryzen-60-gpus/"><u>AMD's Fire Series: Zen 5 Processors Keep FL1 Chip Design; Implications for Upgraded Laptops with Ryzen 60 GPUs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/before-you-go-electric-navigate-the-journey-with-these-9-key-questions/"><u>Before You Go Electric: Navigate the Journey with These 9 Key Questions</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/dissecting-deceptive-accounts-in-your-ad-audience-for-2024/"><u>Dissecting Deceptive Accounts in Your Ad Audience for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-downloading-epson-wf-2760-drivers-for-recent-windows-versions-11-10-and-e/"><u>Easy Guide to Downloading Epson WF-2760 Drivers for Recent Windows Versions (11, 10 & E)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-internal-audio-errors-in-audacity-for-windows-1111/"><u>Fixing Internal Audio Errors in Audacity for Windows 11/11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-hands-on-the-ultimate-gaming-setup-logitech-momo-racing-wheel-pc-drivers-now-available/"><u>Get Your Hands on the Ultimate Gaming Setup: Logitech MOMO Racing Wheel PC Drivers Now Available!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-officejet-pro-windows-11-8-7-xp-vista/"><u>HP Officejet Pro 지도 다운로드 - Windows 11, 8, 7, XP 및 Vista를 위한 업데이트 후보자</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-lock-from-apple-iphone-14-plus-by-drfone-ios/"><u>In 2024, How to Bypass iCloud Lock from Apple iPhone 14 Plus</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/introducing-core-ultra-k-a-peek-at-the-new-intel-4-processor-design-showing-5ghz-performance-without-avx-512-features/"><u>Introducing Core Ultra K: A Peek at the New Intel 4 Processor Design Showing 5GHz Performance without AVX-512 Features</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-samsung-galaxy-m14-5g-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Samsung Galaxy M14 5G</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-fetch-your-updated-hp-deskjet-2700-printer-drivers-for-a-seamless-print-experience/"><u>Step-by-Step Guide: Fetch Your Updated HP DeskJet 2700 Printer Drivers for a Seamless Print Experience</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-solution-for-increasing-cs-2-gameplay-smoothness-and-reducing-lag/"><u>Step-by-Step Solution for Increasing CS 2 Gameplay Smoothness and Reducing Lag</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/updating-your-microsoft-mouse-driver-a-step-by-step-guide-for-windows-users/"><u>Updating Your Microsoft Mouse Driver: A Step-by-Step Guide for Windows Users</u></a></li>
 </ul></div>
 
