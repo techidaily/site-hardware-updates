@@ -1,7 +1,7 @@
 ---
 title: "A Glimpse Into the Past: Ancient CRT Hit Remarkable 700Hz, Lowers Clarity for Ultra-Fast Refresh Rates"
-date: 2024-08-19T04:29:08.618Z
-updated: 2024-08-20T04:29:08.618Z
+date: 2025-02-11T06:15:26.068Z
+updated: 2025-02-16T04:28:50.813Z
 tags:
   - monitor
 categories:
@@ -29,6 +29,10 @@ Ultra-high refresh rate LCD and OLED displays are all the rage today, with the[B
   
  Granted, you aren't going to see a CRT on our list of the[best gaming monitors](https://tools.techidaily.com) , and most people in 2024 aren't going to actually enjoy the experience of gaming at a resolution below[80s-era CGA](https://en.wikipedia.org/wiki/Color%5FGraphics%5FAdapter) . But it's interesting to see enthusiasts pushing older, "outdated" tech beyond the limits of the best cutting-edge consumer gaming monitors you can buy today. There's one area where CRTs will never be able to compete with modern LCDs, though, and that's desk space.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -43,8 +47,6 @@ Ultra-high refresh rate LCD and OLED displays are all the rage today, with the[B
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -52,8 +54,26 @@ Ultra-high refresh rate LCD and OLED displays are all the rage today, with the[B
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-the-shadow-bidders-arena-virtual-artifacts-of-anonymity/"><u>[New] 2024 Approved The Shadow Bidders' Arena Virtual Artifacts of Anonymity</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-foremost-sites-for-digital-type-creation/"><u>[New] Foremost Sites for Digital Type Creation</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-top-app-development-cutting-edge-editor-tools/"><u>[Updated] In 2024, Top App Development Cutting-Edge Editor Tools</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/a-comprehensive-guide-to-refresh-the-software-for-your-logitech-m310-trackball-mouse/"><u>A Comprehensive Guide to Refresh the Software for Your Logitech M310 Trackball Mouse</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722958451319-amd-vega-graphics-card-download-new-drivers-and-elevate-your-game/"><u>AMD Vega Graphics Card: Download New Drivers and Elevate Your Game</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/boost-your-gameplay-with-updated-drivers-for-the-dell-g3-laptop/"><u>Boost Your Gameplay with Updated Drivers for the Dell G3 Laptop</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-evaluation-of-linksys-wrt3200acm-router-why-its-a-must-have-for-tech-enthusiasts/"><u>Comprehensive Evaluation of Linksys WRT3200ACM Router: Why It's a Must-Have for Tech Enthusiasts</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/critical-choices-for-perfect-snaps-for-2024/"><u>Critical Choices for Perfect Snaps for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-installation-windows-7-webcam-driver-downloads/"><u>Easy Installation: Windows 7 Webcam Driver Downloads</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722974437910-fire-extinguishing-agents-work-by-interrupting-the-chemical-reactions-involved-in-combustion/"><u>Fire Extinguishing Agents Work by Interrupting the Chemical Reactions Involved in Combustion</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-your-logitech-g633-headset-solutions-when-the-mic-fails-to-work/"><u>Fixing Your Logitech G633 Headset: Solutions When the Mic Fails to Work</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-download-epson-l3150-printer-driver-for-windows-1087-latest-version/"><u>Free Download: Epson L3150 Printer Driver for Windows 10/8/7 - Latest Version</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-aoc-monitor-driver-installed-in-minutes-works-with-windows-11108/"><u>Get Your AOC Monitor Driver Installed in Minutes - Works with Windows 11/10/8!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-s23-ultra-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy S23 Ultra to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-honor-play-8t-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Honor Play 8T with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-the-newest-magicard-rio-pro-driver-software-compatible-with-modern-and-legacy-windows-systems/"><u>Installing the Newest Magicard Rio Pro Driver Software: Compatible with Modern and Legacy Windows Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-version-of-amd-radeon-pro-w5700-driver-ready-for-windows-download-now-windows-11107/"><u>Latest Version of AMD Radeon Pro W5700 Driver Ready for Windows: Download Now (Windows 11/10/7)</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/understanding-italys-silent-communication-codes/"><u>Understanding Italy's Silent Communication Codes</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-enhanced-help-post-cortana-strategies/"><u>Windows' Enhanced Help: Post-Cortana Strategies</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->

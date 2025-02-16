@@ -1,7 +1,7 @@
 ---
 title: "Beyond ThinkPads and MacBooks: Discovering Exceptional Productivity Laptops for Power Users"
-date: 2025-01-30T17:15:58.388Z
-updated: 2025-02-03T02:12:00.081Z
+date: 2025-02-13T00:08:23.725Z
+updated: 2025-02-15T18:17:07.670Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -95,7 +95,7 @@ Instead, I see the Vivobook S 15 as a primary driver for remote workers or digit
 It also has a "full" keyboard (the number pad on the right side has slightly smaller keys, as typical for sub-16-inch machines), which is satisfying and responsive to typing on. The keyboard has colorful LED backlighting that can be configured in many different lights and effects, but again, this is not something that I would consider high on the priority list when optimizing battery life. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -134,24 +134,16 @@ All things considered, the starting price of $1,299 is quite competitive for thi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-clicks-to-cash-the-journey-of-youtubes-ajay-nagar-for-2024/"><u>[New] From Clicks to Cash The Journey of YouTube's Ajay Nagar for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-unlock-the-full-potential-of-your-xbox-gameplay-for-2024/"><u>[New] Unlock the Full Potential of Your Xbox Gameplay for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-macsierras-top-picks-for-dvd-creation-software/"><u>[Updated] MacSierra’s Top Picks for Dvd Creation Software</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/250-asus-laptop-deal-enjoy-15-inches-of-power-with-essential-hdmi-and-usb-ports-from-walmart/"><u>$250 ASUS Laptop Deal: Enjoy 15 Inches of Power with Essential HDMI and USB Ports From Walmart!</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-best-mouse-recorders-to-use/"><u>2024 Approved Best Mouse Recorders to Use</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-joining-independent-iphone-videos-with-ease/"><u>2024 Approved Joining Independent iPhone Videos with Ease</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-guide-find-your-ideal-hp-device-at-unbeatable-prices-this-holiday/"><u>Expert Guide: Find Your Ideal HP Device at Unbeatable Prices This Holiday</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/huge-savings-alert-on-black-friday-secure-lenovos-high-performance-thinkpad-x1-extreme-gen-4-laptop-for-an-unbelievable-discount-tech-experts-at-zdnet-revea126/"><u>Huge Savings Alert on Black Friday! Secure Lenovo's High-Performance ThinkPad X1 Extreme Gen 4 Laptop for an Unbelievable Discount | Tech Experts at ZDNET Reveal How.</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Oppo Find X7 Ultra | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-conserve-space-not-time-youtube-video-length-adjustment/"><u>In 2024, Conserve Space, Not Time YouTube Video Length Adjustment</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-xiaomi-redmi-k70e-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Xiaomi Redmi K70E Phone? | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/kazam-screen-recorder-review-for-2024/"><u>Kazam Screen Recorder Review for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-upgradable-laptop-memories-return-exclusive-early-release-on-thinkpads-showcases-new-ram-technology-zdnet-insights/"><u>Latest Upgradable Laptop Memories Return: Exclusive Early Release on ThinkPads Showcases New RAM Technology | ZDNet Insights</u></a></li>
-<li><a href="https://win-dash.techidaily.com/lg-monitor-drivers-troubleshooting-and-solutions-for-windows-10781/"><u>LG Monitor Drivers: Troubleshooting and Solutions for Windows 10/7/8.1</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/snag-your-perfect-viewing-experience-with-affordable-premium-displays-on-todays-hot-deals-for-ultraportable-computers-zdnet-insights/"><u>Snag Your Perfect Viewing Experience with Affordable Premium Displays on Today's Hot Deals for Ultraportable Computers | ZDNET Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-10-essential-mac-software-recommended-picks-by-tech-experts/"><u>Top 10 Essential Mac Software - Recommended Picks by Tech Experts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-performing-durable-laptop-with-stunning-display-reviewed/"><u>Top-Performing Durable Laptop with Stunning Display Reviewed</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-non-thinkpad-non-macbook-laptop-for-peak-efficiency-get-it-before-the-pricier-models-at-a-30-savings-on-prime-day-zdnet/"><u>Top-Rated Non-ThinkPad, Non-MacBook Laptop for Peak Efficiency - Get It Before the Pricier Models at a 30% Savings on Prime Day | ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/transform-your-work-efficiency-with-the-perfectly-priced-lenovo-laptop-for-hybrid-jobs-get-insider-info-on-the-1000-sale/"><u>Transform Your Work Efficiency with the Perfectly Priced Lenovo Laptop for Hybrid Jobs | Get Insider Info on the $1,000 Sale!</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-pro-tips-for-capturing-stunning-igtv-content-on-mobile-and-dslr/"><u>[New] 2024 Approved Pro Tips for Capturing Stunning IGTV Content on Mobile & DSLR</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-scoping-out-the-12-most-popular-flip-screen-video-cameras/"><u>[Updated] 2024 Approved Scoping Out the 12 Most Popular Flip-Screen Video Cameras</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-top-15-asmr-channels-to-follow/"><u>[Updated] Top 15 ASMR Channels to Follow</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-window-compatible-drivers-for-brother-hl-l2380dw-printer/"><u>Get the Latest Window Compatible Drivers for Brother HL-L2380DW Printer</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/insider-tips-what-you-need-to-know-before-trading-in-your-faulty-cellphones/"><u>Insider Tips: What You Need To Know Before Trading In Your Faulty Cellphones</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-your-brother-hl-228er-driver-on-windows-1110-easy-download-guide/"><u>Install Your Brother HL-228er Driver on Windows 11/10: Easy Download Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-hp-pagewide-477dw-printer-driver-software-for-modern-operating-systems/"><u>Latest HP PageWide 477DW Printer Driver Software for Modern Operating Systems</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/razer-blade-stealth-13-laptop-evaluation-revolutionizing-portable-power/"><u>Razer Blade Stealth 13 Laptop Evaluation: Revolutionizing Portable Power</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-guide-to-upgrading-your-samsung-phones-usb-connectivity-software/"><u>The Ultimate Guide to Upgrading Your Samsung Phone's USB Connectivity Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upgrade-or-freshly-install-epson-tm-c88v-drivers-for-optimal-performance-windows-edition/"><u>Upgrade or Freshly Install EPSON TM-C88V Drivers for Optimal Performance - Windows Edition</u></a></li>
 </ul></div>
 

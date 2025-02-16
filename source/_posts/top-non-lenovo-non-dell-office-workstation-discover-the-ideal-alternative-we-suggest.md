@@ -1,7 +1,7 @@
 ---
 title: "Top Non-Lenovo, Non-Dell Office Workstation: Discover The Ideal Alternative We Suggest!"
-date: 2025-01-27T00:49:17.303Z
-updated: 2025-02-02T18:51:19.561Z
+date: 2025-02-11T18:06:13.060Z
+updated: 2025-02-15T20:12:24.341Z
 tags:
   - laptops
 categories:
@@ -22,6 +22,10 @@ I've scoured the web to find the very best gaming laptop deals as well as discou
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Best holiday gaming laptop deals of 2023
 
 Razer/ZDNET
@@ -39,10 +43,6 @@ Razer/ZDNET
 * [Gigabyte Aero 16 AMOLED 4K](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fp%252FN82E16834233528R): $1400 (save $2600 at Neweeg, **open box**)
 * [Gigabyte Aorus 17 XE4](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fp%252FN82E16834725189R): $1200 (save $1250, **open box**)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best holiday gaming laptop deals at Amazon
 
 ASUS/ZDNET
@@ -50,6 +50,10 @@ ASUS/ZDNET
 * [Asus TUF A17](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Display-GeForce-Windows-FA707NV-ES74%2Fdp%2FB0C56T56WQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0cd0bcf2-28d2-4d8e-9797-ef0cf5b06a34%7Cdtp&dtb=1): $1198 (save $300)
 * [Asus ROG Strix G16](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BV7XQ9V9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0cd0bcf2-28d2-4d8e-9797-ef0cf5b06a34%7Cdtp&dtb=1): $1700 (save $300)
 * [Asus ROG Strix Scar 15](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Display-GeForce-Keyboard-G533ZW-AS94Q%2Fdp%2FB0BDTVSXS9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0cd0bcf2-28d2-4d8e-9797-ef0cf5b06a34%7Cdtp&dtb=1): $1450 (save $600)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best holiday gaming laptop deals at Best Buy
 
@@ -67,10 +71,6 @@ MSI/ZDNET
 * [HP Omen 16](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fhp-omen-16-165hz-full-hd-gaming-laptop-amd-ryzen-9-7940hs-16gb-memory-nvidia-geforce-rtx-4070-512gb-ssd-shadow-black%2F6536973.p%3FskuId%3D6536973&publisher_slug=itechdaily19598&exclusive=1): $1250 (save $600)
 * [Asus ROG Flow X13](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-rog-flow-x13-13-4-touchscreen-gaming-laptop-1920-x-1200-fhd-amd-ryzen-9-with-16gb-memory-512gb-ssd-off-black%2F6535502.p%3FskuId%3D6535502&publisher_slug=itechdaily19598&exclusive=1): $800 (save $450)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best holiday gaming laptop deals at B&H Photo
 
 Lenovo/ZDNET
@@ -81,10 +81,6 @@ Lenovo/ZDNET
 * [Razer Blade 17](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1687739-REG%2Frazer%5Frz09%5F0423ned3%5Fr3u1%5Frazer%5Fblade%5F17%5Fd8%5Fnt%5Fwin%5F11%5F17%5F3%5Fqhd%5F240hz%5Fi7%5Frtx.html): $2300 (save $900)
 * [Xenia XPG 15](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1766432-REG%2Fxpg%5F15260180%5F15%5F6%5Fxenia%5F15g%5Fgaming.html): $1200 (save $500)
 * [HP Omen 17](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1792500-REG%2Fhp%5F8r7u2ua%5Faba%5F17%5F3%5Fomen%5F17%5Fck2059nr%5Flaptop.html): $2499 (save $720)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best holiday laptop deals at Walmart
 
@@ -110,6 +106,10 @@ Lenovo/ZDNET
 * [PNY Revel Epic-X GeForce RTX 3070 XLR8](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1664982-REG%2Fpny%5Ftechnologies%5Fvcg30708ltfxppb%5Fgeforce%5Frtx%5F3070%5F8gb.html): $500 (save $220 at B&H Photo)
 * [Zotac GeForce RTX 4070 Twin Edge](https://goto.walmart.com/c/5597632/565706/9383?sharedId=zdnet&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FZOTAC-GAMING-GeForce-RTX-4070-Twin-Edge-DLSS-3-12GB-GDDR6X-192-bit-21-Gbps-PCIE-4-0-Compact-Gaming-Graphics-Card-IceStorm-2-0-Advanced-Cooling-SPECTR%2F3228525314%3Fathbdg%3DL1600&subId1=zd-__COM_CLICK_ID__-dtp): $550 (save $95 at Walmart)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best holiday gaming headset deals
 
 * [Razer Nari](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Frazer-nari-ultimate-wireless-gaming-headset-for-pc-ps5-and-ps4-gunmetal%2F6298660.p%3FskuId%3D6298660&publisher_slug=itechdaily19598&exclusive=1): $100 (save $100 at Best Buy)
@@ -129,7 +129,7 @@ Lenovo/ZDNET
 * [LG 34-inch curved 1440p](https://goto.walmart.com/c/5597632/565706/9383?sharedId=zdnet&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FLG-34-144-Hz-OC-180-Hz-Nano-IPS-UWQHD-Gaming-Monitor-NVIDIA-G-SYNC-ULTIMATE-3440-x-1440-2K-DCI-P3-98-CIE1976-HDMI-DisplayPort-USB-UltraGear-34GP950G%2F388961716&subId1=zd-__COM_CLICK_ID__-dtp): $699 (save $598 at Walmart)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best holiday digital PC game deals
@@ -141,6 +141,10 @@ Lenovo/ZDNET
 * [Madden NFL 23](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmadden-nfl-23-windows-digital%2F6508468.p%3FskuId%3D6508468&publisher_slug=itechdaily19598&exclusive=1): $19 (save $41 at Best Buy)
 * [XCOM: Enemy Unknown](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fp%252FN82E16832205142): $7 (save $23 at Newegg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How did we choose these holiday gaming laptop deals?
 
 ZDNET only writes about deals we want to buy -- devices and products we desire, need, or would recommend. Our experts looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
@@ -150,10 +154,6 @@ We also looked over customer reviews to find out what matters to real people who
 ## What is the best gaming laptop?
 
 ZDNET's Lena Borrelli chose the Razer Blade 17 as her top pick for the [best gaming laptop](https://www.zdnet.com/article/best-gaming-laptop/). It features an Nvidia GeForce RTX 3080 Ti graphics card and an Intel Core i9 processor for plenty of power to handle almost any game in your library or on your wishlist. It also has a 17-inch display capable of producing refresh rates of up to 300MHz to make motion blur all but a thing of the past.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is the best cheap gaming laptop?
 
@@ -228,20 +228,20 @@ ZDNET's experts have been searching for holiday deals across sites like Amazon, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-artisans-blueprint-for-striking-image-collage/"><u>[New] The Artisan's Blueprint for Striking Image Collage</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-tricks-for-recording-online-discussions-easily/"><u>[Updated] In 2024, Tricks for Recording Online Discussions Easily</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1-top-65-prime-day-game-discounts-of-2024-last-chance-bargains-pcmag/"><u>1. Top 65 Prime Day Game Discounts of 2024: Last Chance Bargains! - PCMag</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-the-power-of-persuasion-how-to-boost-instagram-post-reach/"><u>2024 Approved The Power of Persuasion How to Boost Instagram Post Reach</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/2024s-finest-a-curated-list-of-leading-linux-compatible-laptops-reviewed-by-professionals-cnet/"><u>2024'S Finest: A Curated List of Leading Linux-Compatible Laptops Reviewed by Professionals | CNET</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/best-bargains-on-amazon-before-the-excitement-of-prime-day-2024-insider-tips-techradar/"><u>Best Bargains on Amazon Before the Excitement of Prime Day 2024 - Insider Tips | TechRadar</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/bringing-text-to-life-dynamic-animated-content-on-ig-stories/"><u>Bringing Text to Life Dynamic Animated Content on IG Stories</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/illuminating-the-world-of-photography-with-adobes-hdr-techniques-for-2024/"><u>Illuminating the World of Photography with Adobe's HDR Techniques for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/improved-graphics-quality-for-a-crisp-experience-in-the-latest-outriders-patch/"><u>Improved Graphics Quality for a Crisp Experience in the Latest Outriders Patch</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Infinix Note 30 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/introducing-the-perfect-blend-of-weightless-design-and-powerful-specs-a-formidable-contender-to-macbook-air/"><u>Introducing the Perfect Blend of Weightless Design & Powerful Specs - A Formidable Contender to MacBook Air</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-downloading-your-favorite-netflix-films-directly-onto-your-laptop/"><u>Step-by-Step Guide: Downloading Your Favorite Netflix Films Directly Onto Your Laptop</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-24-amazing-christmas-and-festive-season-bargains-on-pcs-exploring-the-best-offers-from-best-buy-amazon-newegg-etc-insights-by-zdnet/"><u>Top 24 Amazing Christmas & Festive Season Bargains on PCs: Exploring the Best Offers From Best Buy, Amazon, Newegg, Etc. - Insights by ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlock-savings-of-up-to-5000-using-this-one-small-laptop-accessory-find-out-how-now-zdnet/"><u>Unlock Savings of Up to $5,000 Using This One Small Laptop Accessory - Find Out How Now! | ZDNET</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-metas-latest-offer-the-unbeatable-512gb-quest-3-bargain-top-virtual-reality-purchase-for-today/"><u>Unveiling Meta's Latest Offer: The Unbeatable 512GB Quest 3 Bargain - Top Virtual Reality Purchase for Today!</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-easing-into-your-youtube-watches-3-methods-50-chars/"><u>[New] In 2024, Easing Into Your YouTube Watches 3 Methods (50 Chars)</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-social-media-showdown-twitters-top-tiktok-trends-for-2024/"><u>[New] Social Media Showdown Twitters' Top TikTok Trends for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-breaking-ground-in-video-marketing-setting-up-a-review-chain/"><u>[Updated] In 2024, Breaking Ground in Video Marketing Setting Up a Review Chain</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-screen-replay-masters-leading-browser-capture-solutions/"><u>[Updated] Screen Replay Masters Leading Browser Capture Solutions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-improve-your-surface-book-with-latest-driver-software/"><u>Download and Improve Your Surface Book with Latest Driver Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-install-guide-downloading-and-setting-up-the-newest-epson-wf-3520-driver-on-windows-os/"><u>Easy Install Guide: Downloading and Setting up the Newest Epson WF-3520 Driver on Windows OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-version-download-the-hp-officejet-pro-9015-printing-software/"><u>Get the Latest Version: Download the HP OfficeJet Pro 9015 Printing Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722961808163-get-your-asus-atk0110-acpi-controller-drivers-for-free/"><u>Get Your ASUS ATK0110 ACPI Controller Drivers for Free</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/high-cost-fair-quality-exploring-the-features-and-flaws-of-samsung-un65nu8000fxza/"><u>High Cost, Fair Quality? Exploring the Features & Flaws of Samsung Un65nu8000fxza</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-update-or-install-epson-et-2750-printer-drivers-on-a-pc/"><u>How to Update or Install Epson ET-2750 Printer Drivers on a PC</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-incredible-inexpensive-stopwatch-solutions/"><u>In 2024, Incredible Inexpensive Stopwatch Solutions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-firmware-upgrade-for-canon-ts6220-series-printers-windows-compatible/"><u>Latest Firmware Upgrade for Canon TS6220 Series Printers (Windows Compatible)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-and-effortless-upgrade-to-latest-scansnap-ix500-windows-drivers-how-to-guide/"><u>Quick and Effortless Upgrade to Latest ScanSnap iX500 Windows Drivers: How To Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/rotating-videos-on-your-android-device-a-step-by-step-guide-using-movavi-clips/"><u>Rotating Videos on Your Android Device: A Step-by-Step Guide Using Movavi Clips</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/time-saving-routines-for-capturing-vimeo-media/"><u>Time-Saving Routines for Capturing Vimeo Media</u></a></li>
 </ul></div>
 

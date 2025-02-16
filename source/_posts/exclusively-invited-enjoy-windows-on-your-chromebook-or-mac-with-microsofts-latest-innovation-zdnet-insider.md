@@ -1,7 +1,7 @@
 ---
 title: "Exclusively Invited: Enjoy Windows on Your Chromebook or Mac with Microsoft's Latest Innovation | ZDNet Insider"
-date: 2025-01-27T01:29:59.402Z
-updated: 2025-02-02T21:01:58.967Z
+date: 2025-02-15T02:44:56.661Z
+updated: 2025-02-16T05:28:42.056Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ That's right. Apple said the "A" word, and it's not being shy about it, as my af
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Apple is _officially_ in the AI PC race
@@ -55,7 +55,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 Apple also wants you to know that it's _been_ in the [AI PC race](https://www.zdnet.com/article/what-is-an-ai-pc-and-should-you-buy-one/) since the very beginning, with just about every Mac model now carrying neural engines for machine learning. The new MacBook Air is "the best consumer laptop for AI," the company touts in its Monday press release, but we'll have to see for ourselves when we put the 13- and 15-inch models through the wringer soon.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. I can finally recommend the Midnight color
@@ -67,7 +67,7 @@ AI aside, there is one subtle design change to the new MacBooks that I really di
 Considering how easy it was to get smudges and marks on the original Midnight color of the MacBook Air -- which made lighter hue options look like rockstars -- this is a welcome change. Having fumbled with the MacBooks for a quick 10-minute photo-op, the fingerprints were noticeable, though not as bad as I remembered on the M2 Air. For me, this makes the Midnight variant recommendable again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Dual-monitor support is a bigger deal than it seems
@@ -110,16 +110,19 @@ All in all, the changes to the newest line of MacBook Air feel subtle on paper b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-the-bottom-line-podcasters-earnings-on-average-for-2024/"><u>[New] The Bottom Line Podcasters' Earnings, On Average for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-premium-web-outlets-for-gift-boxes-that-speak-to-you/"><u>2024 Approved Premium Web Outlets for Gift Boxes That Speak to You</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/2024s-elite-lineup-of-m2-ssds-in-depth-analysis-and-ratings-from-specialists-pcmag/"><u>2024'S Elite Lineup of M.2 SSDs: In-Depth Analysis and Ratings From Specialists | PCMag</u></a></li>
-<li><a href="https://win-web.techidaily.com/creating-a-multi-page-pdf-for-flipbook-tips-and-tricks-for-seamless-imports/"><u>Creating a Multi-Page PDF for FlipBook: Tips and Tricks for Seamless Imports</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/from-typist-to-tech-connoisseur-how-a-split-ergonomic-keyboard-revolutionized-my-workspace-ciotrends/"><u>From Typist to Tech Connoisseur: How a Split Ergonomic Keyboard Revolutionized My Workspace | CIOTrends</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-watch-avchd-mts-video-on-sony-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to watch AVCHD MTS video on Sony ?</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/innovative-pathways-select-7-tools-for-artwork-conversion-to-nfts-for-2024/"><u>Innovative Pathways Select 7 Tools for Artwork Conversion to NFTs for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/scores-get-your-hands-on-an-hp-victus-15-for-a-steal-at-530-during-best-buy-prime-day-sale-zdnet-insights/"><u>Scores! Get Your Hands on an HP Victus 15 for a Steal at $530 During Best Buy Prime Day Sale | ZDNet Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/stay-safe-how-the-fbis-warning-about-data-stealing-charging-points-can-help-you-guard-your-information-zdnet/"><u>Stay Safe: How the FBI's Warning About Data-Stealing Charging Points Can Help You Guard Your Information | ZDNET</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unbeatable-deal-alert-top-rated-gaming-speakers-now-30-discounted-on-amazon-exclusive-review-by-zdnet/"><u>Unbeatable Deal Alert: Top-Rated Gaming Speakers Now 30% Discounted on Amazon - Exclusive Review by ZDNet</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/virtual-sphere-access-the-leading-10-pc-vr-playback-titles/"><u>Virtual Sphere Access The Leading 10 PC VR Playback Titles</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-video-venues-verdict-find-your-fit-fast/"><u>[Updated] 2024 Approved Video Venues Verdict Find Your Fit Fast</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-pro-level-video-editing-with-vivacut-full-review-and-guidebook/"><u>2024 Approved Pro-Level Video Editing with VivaCut Full Review & Guidebook</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/compatible-driver-packs-for-brother-mfc-l2740dw-on-windows-operating-systems/"><u>Compatible Driver Packs for Brother MFC-L2740DW on Windows Operating Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-tutorial-to-get-and-update-your-epson-printers-drivers-for-windows-11-systems/"><u>Comprehensive Tutorial to Get & Update Your Epson Printer's Drivers for Windows 11 Systems</u></a></li>
+<li><a href="https://fox-links.techidaily.com/essential-guide-to-creating-stunning-timelapses-using-gopro-software/"><u>Essential Guide to Creating Stunning Timelapses Using GoPro Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-razer-graphics-card-drivers-for-windows-operating-systems-download-now-for-111087xpvista/"><u>Get the Newest Razer Graphics Card Drivers for Windows Operating Systems - Download Now for 11/10/8/7/XP/Vista</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-best-free-premiere-pro-templates/"><u>In 2024, Best Free Premiere Pro Templates</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-any-realme-gt-neo-5-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Realme GT Neo 5 Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-say-goodbye-to-vertical-and-horizontal-bars-in-youtube-movies/"><u>In 2024, Say Goodbye to Vertical and Horizontal Bars in YouTube Movies</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-samsung-galaxy-a05-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Samsung Galaxy A05 Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/instant-access-how-to-quickly-obtain-rs232-drivers-for-usb-devices/"><u>Instant Access: How to Quickly Obtain RS232 Drivers for USB Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/intel-wi-fi-6e-ax200-drivers-download-and-update-compatible-with-windows-1110-systems/"><u>Intel Wi-Fi 6E AX200 Drivers Download & Update: Compatible with Windows 11/10 Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-issues-when-your-final-usb-peripheral-fails-and-windows-ignores/"><u>Resolving Issues When Your Final USB Peripheral Fails & Windows Ignores</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upgrade-your-lenovo-webcam-firmware-on-windows-7-new-version-available/"><u>Upgrade Your Lenovo Webcam Firmware on Windows 7 - New Version Available</u></a></li>
 </ul></div>
 

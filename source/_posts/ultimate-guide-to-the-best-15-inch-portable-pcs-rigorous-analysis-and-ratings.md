@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide to the Best 15-Inch Portable PCs : Rigorous Analysis and Ratings"
-date: 2025-01-30T06:24:23.166Z
-updated: 2025-02-02T21:40:27.343Z
+date: 2025-02-15T02:55:02.997Z
+updated: 2025-02-15T22:14:31.590Z
 tags:
   - laptops
 categories:
@@ -21,10 +21,6 @@ For those of us who'd been working with Linux for some time, that was more a bot
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is the best Linux laptop right now?
 
@@ -48,6 +44,10 @@ Cons
 * Incompatible with discrete GPUs
 
 ## Lenovo ThinkPad Z13
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best Linux laptop overall
 
@@ -73,10 +73,6 @@ Pros
 Cons 
 * Expensive at higher configurations
 * No fast charge feature
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Dell XPS 15
 
@@ -108,7 +104,7 @@ Cons
 * Somewhat short battery life
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Acer Swift Edge
@@ -141,7 +137,7 @@ Cons
 * No 4K or touchscreen display options
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MSI Stealth Studio AI
@@ -172,11 +168,11 @@ Cons
 * Expensive
 * Somewhat thick and heavy design
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Microsoft Surface Laptop Studio 2
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best battery life in a Linux laptop
 
@@ -191,10 +187,6 @@ Both Kerry Wan and Max Buondonno of ZDNET got to try out the Surface Laptop Stud
 **Microsoft Surface Laptop Studio 2 specs - CPU:** Up to Intel Core i7-13800H | **GPU:** Up to Nvidia GeForce RTX 4060 | **RAM:** Up to 64GB | **Storage:** Up to 2TB SSD | **Display size:** 14 inches | **Display type:** LCD | **Resolution:** 2400 x 1600 | **Battery life:** 19 hours
 
 Show Expert Take Show less 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is the best Linux laptop?
 
@@ -224,10 +216,6 @@ However, if you're running with more experienced Linux crowds, you may want to c
 | MSI Stealth Studio AI             | A Linux-capable laptop for gaming. The MSI Stealth Studio offers up to a 17-inch display and up to an Nvidia RTX 4090 graphics card.                            |
 | Microsoft Surface Laptop Studio 2 | A Linux laptop with a long battery life. The Microsoft Surface Laptop Studio 2 offers up to 19 hours of use on a full charge.                                   |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Factors to consider when choosing a Linux laptop:
 
 What makes a machine worthy of belonging to the best Linux laptop list? Obviously, it has to work with Linux and not require the user to do any of the work to make that happen. Beyond that, here are the key features we considered when completing hands-on testing to compile this list:
@@ -236,6 +224,10 @@ What makes a machine worthy of belonging to the best Linux laptop list? Obviousl
 * **Design:** Not all laptops are designed the same way. I chose laptops with both eye-catching, gamer-inspired designs as well as laptops that would fit right in a traditional office setting.
 * **Cost:** Since Linux can run on just about any laptop as long as the hardware is supported, you can choose an older model (or even a used one) to load the operating system onto. This means you can save money on upgrades, especially if you're just starting out learning Linux.
 * **Open-source support:** Linux is an open-source operating system. You can find tons of online communities dedicated to learning Linux, tweaking source code, and reporting issues.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How did we choose these Linux laptops?
 
@@ -255,15 +247,15 @@ This is a bit of a complicated answer.
 
 Yes, you can run Linux operating systems on MacBooks, Mac Minis, and Mac desktops. But there's a catch: you have to opt for an older model that uses an Intel Core processor instead of Apple's own M1 or M2 chips. Apple's silicon chips are starting to see Linux hobbyists and pros alike build support, but at the time of writing, the only reliable way to get Linux to run on an M1/M2 Mac is to use a [virtual machine](https://azure.microsoft.com/en-au/resources/cloud-computing-dictionary/what-is-a-virtual-machine/) which is a type of emulation program.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Are there disadvantages to running Linux instead of Windows or MacOS?
 
 The biggest hurdles you'll have to face when using Linux over Windows or MacOS are the learning curve and general lack of support from brand-name software companies. Since Linux is an open-source operating system, there isn't a [single, unified version](https://en.wikipedia.org/wiki/List%5Fof%5FLinux%5Fdistributions) like there is for Windows 11 or macOS Catalina. This means that it's much more difficult to program applications like games, video players, and even weather apps to work consistently across all versions of Linux. Different versions also mean that just because you're familiar with Ubuntu, that doesn't mean your expertise will be of any use on a machine that runs a different Linux dispo.
 
 **Also:** [**Windows, Mac, or Linux? We compare the pros and cons of these computing platforms**](https://www.zdnet.com/article/windows-mac-or-linux-we-compare-the-pros-and-cons-of-these-computing-platforms/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What does "open-source" mean?
 
@@ -271,11 +263,19 @@ When talking about programming and coding, you may come across the term "open-so
 
 Linux is popular with programmers since it is open-source, which means that it's easy to try and make your own modifications or command lists. Or you can work together with the Linux community to resolve common bug issues or create new support programs for hardware like Apple's M3 Silicon Chips. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What's the oldest computer you can run with Linux?
 
 The great thing about Linux is that it is an open source operating system. Which means there are a lot of different versions out there on forums and also the Internet Archive. And since there are so many different release versions, newcomers looking to save money on their first dedicated or dual-boot Linux machine can pick up a vintage computer at a thrift store, estate sale, or other secondhand store and likely find an operating system version that will run with it.
 
 A thread on the [Linux Mint Forums](https://forums.linuxmint.com/viewtopic.php?t=228393) is full of users who were able to use various versions of Linux Mint as well as Puppy (a version of Linux designed to be run from a flash drive, making it great for hobbyists who restore vintage tech) and Ubuntu on Windows Vista and Windows 98 computers (which intrepid tech hunters may be able to find for a bargain at a thrift store or secondhand online). And Tech Tangents on YouTube, a channel dedicated to restoring and archiving retro computer hardware and software, was able to revive a [TeleVideo 950 terminal](https://www.youtube.com/watch?v=ob7cEzXLxXU) that was originally released in 1980 and use a version of Linux on it. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## More Linux laptops we tested
 
@@ -323,15 +323,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-enhancing-your-pubg-experience-through-sound-tweaks-for-2024/"><u>[New] Enhancing Your PUBG Experience Through Sound Tweaks for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-examining-youtubes-workflow-after-content-submission/"><u>[Updated] 2024 Approved Examining YouTube's Workflow After Content Submission</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/abbyy-et-xerox-collaborent-sur-abildoc-lors-de-la-conference-internationale-sur-la-documentation-de-2016/"><u>ABBYY Et Xerox Collaborent Sur AbilDoc Lors De La Conférence Internationale Sur La Documentation De 2016</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/can-the-msi-steam-deck-dominate-portable-gaming-and-challenge-competitors-insights-from-zdnet/"><u>Can the MSI Steam Deck Dominate Portable Gaming and Challenge Competitors? - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expertly-chosen-and-reviewed-ultimate-guide-to-the-best-touchscreen-laptops-insights/"><u>Expertly Chosen & Reviewed: Ultimate Guide to the Best Touchscreen Laptops Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-dells-high-end-3000-laptop-redefined-my-expectations-with-unique-features-insights-s-test-drive/"><u>How Dell's High-End $3,000 Laptop Redefined My Expectations with Unique Features - Insights 'S Test Drive</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/incorporating-excellent-srt-into-your-mp4-projects-a-2024-guide/"><u>Incorporating Excellent SRT Into Your MP4 Projects – A 2024 Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/scambia-il-tuo-swf-con-un-video-flv-senza-costi-utilizzando-leditor-di-movavi/"><u>Scambia Il Tuo SWF Con Un Video FLV Senza Costi Utilizzando L'editor Di Movavi</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/the-ultimate-broadcast-blueprint-for-enthralling-cricket-matches-for-2024/"><u>The Ultimate Broadcast Blueprint for Enthralling Cricket Matches for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-98-cyber-monday-bargains-of-2022-zdnet-unbeatable-offers-and-savings/"><u>Top 98 Cyber Monday Bargains of 2022 | ZDNet - Unbeatable Offers & Savings!</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-ultra-fast-instagram-video-views-for-smartphone-users/"><u>[New] 2024 Approved Ultra-Fast Instagram Video Views for Smartphone Users</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-charting-a-course-through-websites-of-youtube-affiliates/"><u>[Updated] In 2024, Charting a Course Through Websites of YouTube Affiliates</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-stunning-appraisal-and-alternative-suggestions/"><u>[Updated] Stunning Appraisal & Alternative Suggestions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-free-download-of-focusrite-scarlett-solo-for-windows-users/"><u>Best Free Download of Focusrite Scarlett Solo for Windows Users!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/correct-procedure-for-installing-new-drivers-on-dell-webcams/"><u>Correct Procedure for Installing New Drivers on Dell Webcams</u></a></li>
+<li><a href="https://games-able.techidaily.com/does-am08-pro-boost-validity-of-acemagic-gameplay/"><u>Does AM08 Pro Boost Validity of AceMagic Gameplay?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-update-of-nvidia-1080-graphics-driver-on-windows-11-systems/"><u>Effortless Update of NVIDIA 1080 Graphics Driver on Windows 11 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-download-complete-drivers-and-software-for-logitech-k400-plus-keyboard/"><u>Free Download: Complete Drivers & Software for Logitech K400 Plus Keyboard</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-connect-psvr-to-a-pc/"><u>How to Connect PSVR to a PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-latest-razer-software-updates-on-your-pc-windows-10-8-7-xp-or-vista/"><u>How to Get the Latest Razer Software Updates on Your PC: Windows 10, 8, 7, XP, or Vista</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-oneplus-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on OnePlus?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-master-recommendations-best-audio-crafting-pros/"><u>In 2024, Master Recommendations Best Audio Crafting Pros</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/keep-up-to-date-secure-download-of-updated-epson-wf-3520-drivers-for-seamless-windows-printing-experience/"><u>Keep Up to Date: Secure Download of Updated Epson WF-3520 Drivers for Seamless Windows Printing Experience</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-toshiba-silvertown-graphics-card-drivers-for-windows-users/"><u>Latest Toshiba SILVERTOWN Graphics Card Drivers for Windows Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-on-downloading-windows-7-compatible-keyboard-drivers/"><u>Step-by-Step Tutorial on Downloading Windows 7 Compatible Keyboard Drivers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-ultimate-tutorial-transferring-youtube-videos-to-dailymotion-for-2024/"><u>The Ultimate Tutorial Transferring YouTube Videos to Dailymotion for 2024</u></a></li>
+<li><a href="https://win-latest.techidaily.com/top-7-superior-video-conferencing-tools-for-efficient-telecommuting/"><u>Top 7 Superior Video Conferencing Tools for Efficient Telecommuting</u></a></li>
 </ul></div>
 

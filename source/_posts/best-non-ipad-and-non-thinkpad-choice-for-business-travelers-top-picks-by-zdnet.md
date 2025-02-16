@@ -1,7 +1,7 @@
 ---
 title: "Best Non-iPad and Non-ThinkPad Choice for Business Travelers: Top Picks by ZDNet"
-date: 2025-01-27T22:52:43.439Z
-updated: 2025-02-03T06:56:29.234Z
+date: 2025-02-13T00:13:44.897Z
+updated: 2025-02-16T01:23:56.599Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Ed Bott/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -83,7 +83,7 @@ Cesar Cadenas/ZDNET
 And for one of the best qualities of this laptop: battery life is absolutely phenomenal. I [performed our usual test](https://www.zdnet.com/article/how-we-test-laptops/) of running a YouTube livestream at 720p and 50% brightness. At its peak, the Surface Pro lasted just under 13 hours on a single charge. That's just shy of Microsoft's purported 14-hour battery life. In practical usage, this is a device that will easily last multiple days on a single charge. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -122,15 +122,24 @@ Prices for the device start at $999.99\. My review unit with the 12-core Snapdra
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-the-ultimate-video-upgrade-with-enhancer-22/"><u>[New] 2024 Approved The Ultimate Video Upgrade with Enhancer 2.2</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-gamings-finest-bike-battles-compiled/"><u>[New] Gaming's Finest Bike Battles Compiled</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-6-effortless-steps-to-add-social-media-live-content-online/"><u>[New] In 2024, 6 Effortless Steps to Add Social Media Live Content Online</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-effortless-snapchat-setup-for-mac-enthusiasts/"><u>[Updated] 2024 Approved Effortless Snapchat Setup for Mac Enthusiasts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-selection-the-ultimate-guide-to-the-best-laptop-stands/"><u>Expert Selection: The Ultimate Guide to the Best Laptop Stands</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/from-capture-to-share-a-quick-guide-to-instagram-video-uploads-on-desktop-for-2024/"><u>From Capture to Share A Quick Guide to Instagram Video Uploads on Desktop for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/google-enhances-chromebooks-with-top-notch-ai-capabilities-phasing-out-copilot-explore-the-new-features/"><u>Google Enhances Chromebooks with Top-Notch AI Capabilities, Phasing Out Copilot - Explore the New Features</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-motorola-moto-e13-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Motorola Moto E13 Phone Screen?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-restore-your-microsoft-windows-pro-license-post-reset-step-by-step-tutorial-by-zdnets-pc-experts/"><u>How to Restore Your Microsoft Windows Pro License Post-Reset | Step-by-Step Tutorial by ZDNet's PC Experts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-tier-screen-quality-meets-wallet-friendly-price-in-our-latest-pick-for-best-value-laptops-insights-s-tech-team/"><u>Top-Tier Screen Quality Meets Wallet-Friendly Price in Our Latest Pick for Best Value Laptops - Insights 'S Tech Team</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/nside-look-youtube-lives-image-interpretation-for-2024/"><u>[New] Inside Look YouTube Live's Image Interpretation for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-uniting-single-scenes-iphone-multi-media-magic/"><u>[New] Uniting Single Scenes IPhone Multi-Media Magic</u></a></li>
+<li><a href="https://win-latest.techidaily.com/1-effortless-steps-syncing-your-iphones-contact-list-with-itunes/"><u>1. Effortless Steps: Syncing Your iPhone's Contact List with iTunes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722962085035-amd-rx-480-driver-updates-made-easy-secure-your-optimal-performance-now/"><u>AMD RX 480 Driver Updates Made Easy - Secure Your Optimal Performance Now!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/bypassing-and-repairing-code-31-problems-expert-tips-for-windows-users/"><u>Bypassing and Repairing Code 31 Problems: Expert Tips for Windows Users</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/directing-your-podcast-to-itunes-stores-for-2024/"><u>Directing Your Podcast to iTunes Stores for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-latest-software-update-for-your-hp-deskjet-cuinti-one-printer-compatible-with-win-10-8-and-7/"><u>Get Latest Software Update for Your HP DeskJet Cuinti-One Printer - Compatible with Win 10, 8, and 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-fix-your-lg-monitors-connectivity-issues-with-older-and-newer-windows-os/"><u>How to Fix Your LG Monitor's Connectivity Issues with Older and Newer Windows OS</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-fixes-how-to-recover-forgotten-icloud-password-on-your-iphone-xs-by-drfone-ios/"><u>In 2024, Easy Fixes How To Recover Forgotten iCloud Password On your iPhone XS</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-top-tier-free-screen-capture-programs-2023-edition/"><u>In 2024, Top-Tier Free Screen Capture Programs – 2023 Edition</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installation-guide-the-most-recent-driver-update-for-brother-hl-l2350dw/"><u>Installation Guide: The Most Recent Driver Update for Brother HL-L2350DW</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/investing-in-the-right-keyboard-for-low-cost-maximum-output-for-2024/"><u>Investing in the Right Keyboard for Low Cost, Maximum Output for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-updates-for-intel-integrated-graphics-drivers-compatible-with-windows-11/"><u>Latest Updates for Intel Integrated Graphics Drivers: Compatible with Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722962573592-official-brother-support-get-your-hl-l2340dw-printer-drivers-on-windows-now/"><u>Official Brother Support: Get Your HL-L2340DW Printer Drivers on Windows Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-fix-for-your-acer-predator-xb271hu-secure-and-simple-driver-downloads-today/"><u>Quick Fix for Your Acer Predator XB271HU: Secure & Simple Driver Downloads Today</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/romance-languages-a-language-explorers-guide/"><u>Romance Languages: A Language Explorer's Guide</u></a></li>
+<li><a href="https://article-tips.techidaily.com/top-iphoneandroid-photo-editors-for-the-year-ahead-for-2024/"><u>Top iPhone/Android Photo Editors for the Year Ahead for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/up-to-date-drivers-for-enhancing-performance-of-nvidias-rtx-2080-across-various-windows-os/"><u>Up-to-Date Drivers for Enhancing Performance of NVIDIA's RTX 2080 Across Various Windows OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-dell-wireless-network-driver-today-download-here/"><u>Update Your Dell Wireless Network Driver Today - Download Here</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Asus' Discreet Marvel: A Design That Hides Stellar Creative Capabilities Revealed by ZDNet"
-date: 2025-01-28T02:07:46.076Z
-updated: 2025-02-02T18:55:34.169Z
+date: 2025-02-14T23:25:13.688Z
+updated: 2025-02-16T04:43:19.048Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -73,7 +73,7 @@ Asus' Vivobook Pro 15 does a good job playing media. Hi-res videos look stunning
 In line with my initial impression, the device is a little on the bulky side, but the extra heft is not a big deal because it's lightweight and the extra room allows for a wide array of ports. You get two USB-Cs, a pair of USB-A inputs that support transfer speeds of up to 5GBPS, HDMI, an ethernet port, and an SD card slot.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -112,18 +112,20 @@ If you want something more powerful, I suggest checking out the MSI Creator Z16 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-unveiling-the-top-6-favorite-short-form-video-download-tools/"><u>[New] Unveiling the Top 6 Favorite Short-Form Video Download Tools</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/build-your-dream-gaming-rig-top-tips-and-hardware-choices-from-zdnet/"><u>Build Your Dream Gaming Rig: Top Tips & Hardware Choices From ZDNet</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/expressing-gratitude-efficiently-the-best-16-ways-in-deutsch/"><u>Expressing Gratitude Efficiently: The Best 16 Ways In Deutsch</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-from-pixels-to-prints-master-snapseed-fundamentals/"><u>In 2024, From Pixels to Prints Master Snapseed Fundamentals</u></a></li>
-<li><a href="https://techtrends.techidaily.com/latest-ipad-genre-unveiled-discover-the-most-recent-advancements/"><u>Latest iPad Genre Unveiled: Discover the Most Recent Advancements</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-high-contrast-settings-for-mouse-cursors-in-windows-11/"><u>Navigating Through High-Contrast Settings for Mouse Cursors in Windows 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/productivity-powerhouses-chatgpts-top-10-pdf-plugins/"><u>Productivity Powerhouses: ChatGPT's Top 10 PDF Plugins</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/revolutionize-your-video-content-with-free-intro-designers/"><u>Revolutionize Your Video Content with Free Intro Designers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-installing-more-memory-in-your-notebook-tips-from-zdnet/"><u>Step-by-Step Guide: Installing More Memory in Your Notebook - Tips From ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-june-2024-discounts-at-best-buy-exclusive-offers-unveiled-by-zdnet/"><u>Top June 2024 Discounts at Best Buy: Exclusive Offers Unveiled by ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-online-notepad-applications-in-depth-comparison-and-reviews-by-tech-experts/"><u>Top-Rated Online Notepad Applications: In-Depth Comparison & Reviews - By Tech Experts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unfolding-brilliance-how-an-origami-inspired-laptop-sleeve-has-became-my-travel-must-have-accessory/"><u>Unfolding Brilliance: How an Origami-Inspired Laptop Sleeve Has Became My Travel Must-Have Accessory</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/wi-fi-adapter-no-more-windows-80211n-resolved-by-broadcom/"><u>Wi-Fi Adapter No More: Windows 802.11N Resolved by Broadcom</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pinterest-content-powered-free-high-speed-download-apps-reviewed/"><u>[New] Pinterest Content Powered Free, High-Speed Download Apps Reviewed</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-leading-no-cost-screen-recorders-for-windows-top-5-list/"><u>[Updated] 2024 Approved Leading No-Cost Screen Recorders For Windows – Top 5 List</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-seamless-tiktok-content-for-twitter-audience-for-2024/"><u>[Updated] Seamless TikTok Content for Twitter Audience for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-surveying-the-spectrum-of-windows-movie-maker-updates/"><u>[Updated] Surveying the Spectrum of Windows Movie Maker Updates</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-zipping-down-peaks-top-moments-from-olympic-snowboard-cross-event/"><u>2024 Approved Zipping Down Peaks Top Moments From Olympic Snowboard Cross Event</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/asus-mousepad-driver-download-for-windows/"><u>ASUS Mousepad Driver Download for Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-logitech-g29-steering-wheel-drivers-for-pc-windows-11-supported/"><u>Get Your Logitech G29 Steering Wheel Drivers for PC (Windows 11 Supported)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/getting-started-with-magic-mouse-downloading-and-setting-up-for-windows-systems/"><u>Getting Started with Magic Mouse: Downloading and Setting Up for Windows Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-new-graphics-card-drivers-for-your-amd-radeon-r9-on-a-window-os/"><u>How to Install New Graphics Card Drivers for Your AMD Radeon R9 on a Window OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-quickly-update-or-download-microsoft-drivers-on-your-pc-windows-1087/"><u>How To Quickly Update or Download Microsoft Drivers on Your PC (Windows 10/8/7)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722962932293-hp-sound-card-compatibility-fixes-with-windows-1187-now-solved/"><u>HP Sound Card Compatibility Fixes with Windows 11/8/7 – Now Solved!</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-jailbreak-icloud-locked-iphone-6-plus-by-drfone-ios/"><u>In 2024, How to jailbreak iCloud locked iPhone 6 Plus</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-geforce-rtx-2070-graphics-card-driver-update-now-available-for-windows-users-118-and-7/"><u>Latest Geforce RTX 2070 Graphics Card Driver Update Now Available for Windows Users (11,8 & 7)</u></a></li>
+<li><a href="https://facebook.techidaily.com/stealth-mode-for-facebook-eliminate-unexpected-glances/"><u>Stealth Mode for Facebook: Eliminate Unexpected Glances</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-leveraging-preview-capabilities-on-a-mac-for-2024/"><u>The Ultimate Guide to Leveraging Preview Capabilities on a Mac for 2024</u></a></li>
 </ul></div>
 

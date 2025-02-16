@@ -1,7 +1,7 @@
 ---
 title: Expert Insights on Owning the Budget-Friendly Surface Pro 11 - Top Tips From a Tech Guru | ZDNet
-date: 2025-01-31T17:23:04.647Z
-updated: 2025-02-02T21:54:38.385Z
+date: 2025-02-11T23:37:17.206Z
+updated: 2025-02-15T18:47:19.773Z
 tags:
   - laptops
 categories:
@@ -19,10 +19,6 @@ Ed Bott/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -49,7 +45,7 @@ My original plan was to use the new Surface Pro as a secondary mobile device, wh
 How did this happen? Let's dive in.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The experience is familiar
@@ -65,7 +61,7 @@ The big difference is that this next-gen device is extremely cool and quiet. Aft
 Of course, this new device also embodies everything you like and/or dislike about the Surface Pro design. If you're expecting a radical shift that will suddenly make the kickstand comfortable in your lap, I'm sorry to report you will be disappointed. If, however, you're comfortable with that design, you'll find this iteration completely familiar.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Battery life is a huge win
@@ -83,6 +79,10 @@ In real-world usage, the Surface Pro 11 battery lasts twice as long as an equiva
 Screenshot by Ed Bott/ZDNET
 
 At an average of more than 10 hours of actual, observed battery life, this Surface Pro is able to run for well over twice as long as my Intel-based Surface Pro 9\. That's also at least as long as the [M2 MacBook Air](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/) in my office.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Compatibility is good but not perfect
 
@@ -121,7 +121,7 @@ I had no hardware problems to speak of. My 10-year-old Logitech C930 webcam just
 Your mileage may vary, of course, especially if you have exotic hardware like video capture cards and ancient multifunction printers that require custom driver packs and won't work with the in-box Windows drivers. Thankfully, I have none of those.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The AI story is incomplete
@@ -145,7 +145,7 @@ The real question is whether those features are powerful enough to make you swit
 Even if you avoid the AI features completely, though, there's more than enough power in this [budget PC](https://www.zdnet.com/article/best-laptops-under-500/). Plus, as long as your apps and hardware requirements aren't exotic, you'll appreciate its cool, quiet operation.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test laptops
@@ -192,22 +192,21 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-backpedaling-through-imagery-an-insiders-guide-to-finding-originals-in-instagram/"><u>[Updated] 2024 Approved Backpedaling Through Imagery An Insider's Guide to Finding Originals in Instagram</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-groundbreaking-filmmakers-first-work-insight-and-alternate-films/"><u>2024 Approved Groundbreaking Filmmaker's First Work Insight & Alternate Films</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/a-symphony-of-selection-assembling-your-best-music-choices-on-youtube/"><u>A Symphony of Selection Assembling Your Best Music Choices on YouTube</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/affordable-excellence-the-ultimate-review-of-a-stunning-lightweight-laptop-display-on-any-budget/"><u>Affordable Excellence: The Ultimate Review of a Stunning, Lightweight Laptop Display on Any Budget!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amazons-exclusive-deal-top-ranked-tech-laptop-from-zdnet-discounted-by-500-before-prime-day-shop-now/"><u>Amazon's Exclusive Deal: Top-Ranked Tech Laptop From ZDNet Discounted by $500 Before Prime Day - Shop Now!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/dont-miss-out-on-unbeatable-octobr-prime-day-deals-in-gaming-save-big-now-before-it-ends-insider-tips-from-zdnet/"><u>Don't Miss Out on Unbeatable Octobr Prime Day Deals in Gaming: Save Big Now Before It Ends! - Insider Tips From ZDNET</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/dont-miss-out-save-on-the-sleek-meta-quest-3-with-512gb-storage-best-available-vr-bargains-this-october/"><u>Don't Miss Out! Save on the Sleek Meta Quest 3 with 512GB Storage - Best Available VR Bargains This October!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-image-converter-transform-rw2-to-jpg-format-with-movavi/"><u>Free Image Converter - Transform RW2 to JPG Format with Movavi</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/guide-saving-pptx-images-as-pdf-from-word/"><u>Guide: Saving PPTX Images as PDF From Word</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-samsung-galaxy-f15-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Samsung Galaxy F15 5G to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Realme V30 | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/metas-october-exclusive-get-your-hands-on-the-best-prime-day-deal-with-a-512gb-quest-pro-vr-headset-comprehensive-analysis/"><u>Meta's October Exclusive: Get Your Hands on the Best Prime Day Deal with a 512GB Quest Pro VR Headset | Comprehensive Analysis</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/microsoft-elevates-business-user-experience-with-copilotplus-integration-into-surface-lineup-explore-the-new-features-cnet-news/"><u>Microsoft Elevates Business User Experience with Copilot+ Integration Into Surface Lineup; Explore the New Features | CNET News</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/october-prime-day-gaming-extravaganza-top-deals-and-huge-savings-await-act-fast-before-theyre-gone/"><u>October Prime Day Gaming Extravaganza: Top Deals & Huge Savings Await – Act Fast Before They're Gone!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/reinventing-the-personal-computer-the-microsoft-surface-journey-from-unsteady-beginnings-to-industry-disruptor-insights/"><u>Reinventing the Personal Computer: The Microsoft Surface Journey From Unsteady Beginnings to Industry Disruptor - Insights</u></a></li>
-<li><a href="https://win11.techidaily.com/trimming-down-excessive-ntoskrnlexe-utilization/"><u>Trimming Down Excessive Ntoskrnl.exe Utilization</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/wmatoswf-movavi/"><u>ウェブ上でWMAtoSWF自由変換ツール - MOVAVI</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-understanding-instagrams-reels-vs-stories-format/"><u>[New] 2024 Approved Understanding Instagram’s Reels vs Stories Format</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-cutting-edge-icons-and-logos-from-6-innovative-websites/"><u>[New] In 2024, Cutting-Edge Icons and Logos From 6 Innovative Websites</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/nfographic-social-strategies-for-budget-brands/"><u>[New] Infographic Social Strategies for Budget Brands</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-secure-and-simple-grab-your-desired-youtube-cover-at-no-charge/"><u>2024 Approved Secure & Simple Grab Your Desired YouTube Cover at No Charge</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerate-your-pcs-wake-up-time-enabling-quick-start/"><u>Accelerate Your PC's Wake-Up Time: Enabling Quick Start</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-oppo-find-x7-ultra-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Oppo Find X7 Ultra? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fixing-hp-beats-audio-issues-on-windows-10-8-and-7-a-comprehensive-guide/"><u>Fixing HP Beats Audio Issues on Windows 10, 8 & 7: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-download-of-official-hp-laserjet-pro-m127fn-printer-drivers-compatible-with-all-os/"><u>Free Download of Official HP Laserjet Pro M127FN Printer Drivers - Compatible with All OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-right-brother-mfc-7360n-drivers-instantly-compatible-with-windows-11-8-and-7-download-and-update-today/"><u>Get the Right Brother MFC-7360N Drivers Instantly: Compatible with Windows 11, 8 and 7 - Download & Update Today</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolve-graphic-card-driver-warning-quickly-a-comprehensive-guide/"><u>Resolve 'Graphic Card Driver Warning' Quickly – A Comprehensive Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solution-guide-starting-up-vanguard-successfully-on-valorant-common-fixes-and-tips/"><u>Solution Guide: Starting Up Vanguard Successfully on Valorant - Common Fixes & Tips</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-enhancing-your-arduino-device-through-usb-drivers-for-windows-users/"><u>Step-by-Step Guide: Enhancing Your Arduino Device Through USB Drivers for Windows Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/successfully-overcoming-device-driver-hurdles-on-windows-7-8-and-tenth-with-startech/"><u>Successfully Overcoming Device Driver Hurdles on Windows 7, 8 & Tenth with StarTech</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-techniques-for-a-smooth-hogwarts-legacy-experience-preventing-initial-crashes/"><u>Top Techniques for a Smooth Hogwarts Legacy Experience: Preventing Initial Crashes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-swift-and-simple-setup-of-scansnap-s1100-scanner-drivers/"><u>Update: Swift and Simple Setup of ScanSnap S1100 Scanner Drivers</u></a></li>
+<li><a href="https://techidaily.com/whats-new-in-windows-11-creators-update-insider-preview-build-1503/"><u>What's New in Windows 11 Creators Update: Insider Preview Build 1503</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Uncover the Latest in Computing at Tom's Hardware Resource
-date: 2024-08-19T04:25:53.475Z
-updated: 2024-08-20T04:25:53.475Z
+date: 2025-02-10T05:29:58.796Z
+updated: 2025-02-16T05:36:26.016Z
 tags:
   - monitor
 categories:
@@ -47,6 +47,10 @@ Minisforum continues to widen its product portfolio, this time with a portable m
 
  Minisforum announced the availability of the MSS-A156 Portable Monitor on its site via both its US and Japan stores on its Discord channel. When we checked the US link also had links for buyers from the EU and UK. At the time of writing the MSS-A156 is listed at $189, which is claimed to be a $34 discount from the regular price. It's unclear how long that will last.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -61,8 +65,6 @@ Minisforum continues to widen its product portfolio, this time with a portable m
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -70,8 +72,23 @@ Minisforum continues to widen its product portfolio, this time with a portable m
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-instagrams-best-practices-for-video-editing-and-cropping/"><u>[New] 2024 Approved Instagram's Best Practices for Video Editing & Cropping</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-discovering-the-ins-and-outs-of-youtube-shorts-capital/"><u>[New] In 2024, Discovering the Ins and Outs of YouTube Shorts Capital</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-streamlined-processes-for-effective-apple-display-recording/"><u>[New] In 2024, Streamlined Processes for Effective Apple Display Recording</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-experts-rankings-top-social-media-viewers/"><u>[Updated] 2024 Approved Expert's Rankings Top Social Media Viewers</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-the-abcs-of-creative-facebook-advertising-a-guidebook/"><u>2024 Approved The ABCs of Creative Facebook Advertising A Guidebook</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-amd-vega-graphics-card-updates-get-the-latest-driver-downloads-now/"><u>Easy AMD Vega Graphics Card Updates: Get the Latest Driver Downloads Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-download-and-setup-your-dell-wd1e-hardware-drivers-with-ease/"><u>Find, Download, and Setup Your Dell WD1e Hardware Drivers with Ease</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-m-audio-fast-track-driver-downloads-compatible-with-windows-107881/"><u>Free M-Audio Fast Track Driver Downloads Compatible with Windows 10/7/8/8.1</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-ensure-your-logitech-m510-performs-optimally-drivers-update-guide/"><u>How To Ensure Your Logitech M510 Performs Optimally: Drivers Update Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-high-quality-avi-media-reader-mobile-and-desktop/"><u>In 2024, High-Quality Avi Media Reader Mobile & Desktop</u></a></li>
+<li><a href="https://windows11.techidaily.com/insider-tips-for-manual-windows-security-scanning/"><u>Insider Tips for Manual Windows Security Scanning</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-update-of-magicard-rio-pro-driver-available-now-for-windows-enthusiasts-compatible-with-win-11-81-and-7/"><u>Latest Update of Magicard Rio Pro Driver Available Now for Windows Enthusiasts | Compatible with Win 11, 8.1 and 7</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/mastering-the-art-of-cryptocurrency-a-beginners-guide-to-utilizing-cold-storage-wallets-with-yl-computing-solutions/"><u>Mastering the Art of Cryptocurrency: A Beginner's Guide to Utilizing Cold Storage Wallets with YL Computing Solutions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/premium-lineup-8-prime-5k-display-models/"><u>Premium Lineup 8 Prime 5K Display Models</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722963997404-randd-investments-and-their-role-in-maintaining-hahron-spices-competitive-edge/"><u>R&D Investments and Their Role in Maintaining HAHRON SPICE's Competitive Edge</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-revamping-ati-driver-software-in-microsoft-windows-environment/"><u>Step-by-Step Tutorial: Revamping ATI Driver Software in Microsoft Windows Environment</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

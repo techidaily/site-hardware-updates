@@ -1,7 +1,7 @@
 ---
 title: "Meet the Compact Multi-Device Charger: Ideal for Powering Up Laptops, Tablets & Phones"
-date: 2025-01-31T22:44:39.381Z
-updated: 2025-02-03T07:00:20.211Z
+date: 2025-02-10T01:54:41.085Z
+updated: 2025-02-15T20:01:44.189Z
 tags:
   - laptops
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/200bad50912773155a76642b85b00bc52b52d7ab3
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -93,7 +93,7 @@ Compared to a MacBook, one could argue that the Yoga Slim 7x is at least better 
 The MacBook is better suited for the iOS ecosystem, however Lenovo has been making strides in developing a data transfer feature between its laptop and iPhones. So if you're not sure which one to get, the Yoga Slim 7x might be the better long-term investment.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -134,24 +134,22 @@ Creators might also appreciate the fact that Lenovo is also giving [two free mon
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/he-psychology-of-persuasion-in-subscription-growth/"><u>[New] The Psychology of Persuasion in Subscription Growth</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-action-camera-showdown-gopro-hero-black-meets-yi-4k-update/"><u>[Updated] Action Camera Showdown GoPro Hero Black Meets Yi 4K Update</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-how-to-burn-video-to-dvd-on-mac/"><u>[Updated] How to Burn Video to DVD on Mac</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-mastering-your-syma-x8c-flight-patterns/"><u>[Updated] In 2024, Mastering Your Syma X8C Flight Patterns</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/1-understanding-pre-set-conditions-a-comprehensive-guide/"><u>1. Understanding Pre-Set Conditions: A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/asus-laptop-steal-of-the-show-at-best-buys-flash-deal-just-99/"><u>Asus Laptop Steal of the Show at Best Buy's Flash Deal - Just $99</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/beyond-size-limits-unveiling-an-exceptionally-adaptable-chromebook-amongst-the-tiniest-ones-reviewed-by-zdnet/"><u>Beyond Size Limits: Unveiling an Exceptionally Adaptable Chromebook Amongst the Tiniest Ones Reviewed by ZDNET</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effortless-file-transfers-with-macx-mediatrans-moving-your-iphones-media-to-pc/"><u>Effortless File Transfers with MacX MediaTrans - Moving Your iPhone's Media to PC</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-the-superior-features-of-the-asus-laptop-the-ideal-alternative-to-macbook-unveiled/"><u>Exploring the Superior Features of the Asus Laptop - The Ideal Alternative to MacBook Unveiled</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fix-your-age-of-empires-iv-ensure-smooth-downloading-and-setup-on-the-store-app/"><u>Fix Your Age of Empires IV: Ensure Smooth Downloading & Setup on the Store App</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-lenovo-flex-3-chromebook-for-an-unbeatable-price-of-99-this-black-friday-pre-cyber-monday-extravaganza-dealhunt-gadgets/"><u>Get the Lenovo Flex 3 Chromebook for an Unbeatable Price of $99 This Black Friday, Pre-Cyber Monday Extravaganza | DealHunt Gadgets</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-modern-ar-laptops-without-displays-are-outshining-their-predecessors-in-both-features-and-price-zdnet-insights/"><u>How Modern AR Laptops Without Displays Are Outshining Their Predecessors in Both Features and Price | ZDNET Insights</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-apods-made-simple-the-ultimate-audio-solution/"><u>In 2024, APods Made Simple The Ultimate Audio Solution</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-realme-11-5g-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Realme 11 5G Device</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/macbook-showdown-deciding-between-air-and-pro-models-a-detailed-analysis/"><u>MacBook Showdown: Deciding Between Air and Pro Models - A Detailed Analysis</u></a></li>
-<li><a href="https://extra-support.techidaily.com/speedy-file-assessment-on-windows-pcs-for-2024/"><u>Speedy File Assessment on Windows PCs for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-july-2024-laptop-bargains-exclusive-offers-featured/"><u>Top July 2024 Laptop Bargains: Exclusive Offers Featured</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/uncover-the-ultimate-tech-deals-the-top-16-items-at-walmart-revealed/"><u>Uncover the Ultimate Tech Deals: The Top 16 Items at Walmart Revealed</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unleash-your-gaming-potential-for-less-get-up-to-250-off-premium-laptops-this-memorial-weekend-at-zdnet-deals/"><u>Unleash Your Gaming Potential for Less: Get Up to $250 Off Premium Laptops This Memorial Weekend at ZDNet Deals!</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/he-non-indexable-world-of-youtube-a-compreayer-guide-to-unlisted-videos-for-2024/"><u>[New] The Non-Indexable World of YouTube A Compreayer Guide to ‘Unlisted’ Videos for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-best-free-webcam-video-capture-software/"><u>[Updated] 2024 Approved Best Free Webcam Video Capture Software</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-android-and-iphones-hottest-social-tools-to-increase-fb-likes/"><u>[Updated] In 2024, Android & iPhone's Hottest Social Tools to Increase FB Likes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/boost-your-msi-gs65-experience-free-download-of-optimized-windows-drivers-here/"><u>Boost Your MSI GS65 Experience - Free Download of Optimized Windows Drivers Here!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722966014960-complete-driver-package-for-brother-mfc-l2740dw-compatible-with-all-windows-versions-download-now/"><u>Complete Driver Package for Brother MFC-L2740DW - Compatible with All Windows Versions, Download Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-your-synaptic-drivers-hassle-free-windows-guide/"><u>Download & Update Your Synaptic Drivers: Hassle-Free Windows Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722969855312-download-and-update-drivers-for-hp-deskjet-3700-enhance-printing-quality-now/"><u>Download and Update Drivers for HP DeskJet 3700 - Enhance Printing Quality Now</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-alone-to-together-reestablishing-winmc-network-connections/"><u>From Alone to Together: Reestablishing WinMC Network Connections</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722977198511-get-the-newest-amd-ryzen-3-2200g-gpu-drivers-instantly/"><u>Get the Newest AMD Ryzen 3 2200G GPU Drivers Instantly!</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/how-to-clone-your-hard-disk-data-from-hdd-to-ssd-on-windows-11-10-8-and-7/"><u>How To Clone Your Hard Disk Data From HDD to SSD On Windows 11, 10, 8 And 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-thunderbolt-station-dock-driver-download-for-both-120w-and-230w-configurations-free-and-easy-installation/"><u>HP Thunderbolt Station (Dock) Driver Download for Both 120W and 230W Configurations - Free & Easy Installation</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-asus-rog-phone-8-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Asus ROG Phone 8 PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-unrivaled-gaming-monitors-at-4k-quality/"><u>In 2024, Unrivaled Gaming Monitors at 4K Quality</u></a></li>
+<li><a href="https://article-helps.techidaily.com/premier-computing-choices-the-finest-selection/"><u>Premier Computing Choices The Finest Selection</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/professional-insight-on-ergohead-mats-expert-evaluation-of-long-term-usability-and-comfort-levels-for-standing-desks/"><u>Professional Insight on Ergohead Mats: Expert Evaluation of Long-Term Usability and Comfort Levels for Standing Desks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-to-downloading-the-latest-logitech-g920-drivers-for-all-windows-versions/"><u>Step-by-Step Guide to Downloading the Latest Logitech G920 Drivers for All Windows Versions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-lenovo-tb3-dock-with-newest-compatible-drivers-available-now/"><u>Update Your Lenovo TB3 Dock with Newest Compatible Drivers Available Now!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Top Prime Day Video Game Discounts of October 2024 - Exclusive Sneak Peek on ZDNet
-date: 2025-01-27T18:41:48.742Z
-updated: 2025-02-02T22:25:30.910Z
+date: 2025-02-13T21:24:43.080Z
+updated: 2025-02-16T02:22:03.806Z
 tags:
   - laptops
 categories:
@@ -23,6 +23,10 @@ Brands like HP, [Samsung](https://www.zdnet.com/article/best-early-prime-day-sam
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Our favorite Amazon October Prime Day gaming deals
 
@@ -99,6 +103,10 @@ The Alienware x16 R2 is built with an Intel Core Ultra 9 processor, Nvidia GeFor
 
 [View now at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Falienware-x16-r2-240hz-gaming-laptop-intel-core-ultra-9-processor-nvidia-geforce-rtx-4070-32gb-memory-1-tb-ssd-lunar-silver%2F6576921.p%3FskuId%3D6576921&publisher_slug=itechdaily19598&exclusive=1) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## More October Prime Day 2024 gaming deals
 
 ZDNET
@@ -148,10 +156,6 @@ ZDNET
 * [Join Xbox Game Pass Ultimate for $1 (then $19.99 per month)](https://www.xbox.com/en-US/xbox-game-pass#join): Get access to hundreds of PC and Xbox Series X|S games for cloud gaming support, monthly free games, and exclusive discounts.
 * [Corsair Virtuoso RGB Wireless XT wireless gaming headset for $195 (save $75 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCORSAIR-VIRTUOSO-WIRELESS-High-Fidelity-Bluetooth%2Fdp%2FB09BXZKNDB%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce9b5fe8f-9985-4c3e-a7ed-fd8188cf38fd%7Cdtp&dtb=1): A high-end wireless gaming headset with Dolby Atmos support, iCUE RGB lighting control, and a broadcast-grade microphone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## October Prime Day Nintendo deals
 
 Nintendo/ZDNET
@@ -175,10 +179,6 @@ Nintendo/ZDNET
 * [Pokemon Shining Pearl for $45 (save $15)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FPokemon-Shining-Pearl-Nintendo-Nintendo-Switch%2F890677903%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This remaster of Pokemon Pearl features all new graphics, game modes, and mechanics for players returning to the Sinnoh region as well as fans visiting for the first time.
 * [Nintendo Switch Joy-Con in neon purple and neon orange for $55 (save $25 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FNintendo-Switch-Joy-Con-Pair-Neon-Purple-and-Neon-Orange%2F921709016%3FclassType%3DVARIANT%26athbdg%3DL1600&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Grab an extra Joy-Con controller for your Nintendo Switch to keep gaming while your other controller charges.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## October Prime Day gaming PC deals
 
 Kyle Kucharski/ZDNET
@@ -194,10 +194,6 @@ Kyle Kucharski/ZDNET
 * [HP Victus 15L desktop for $480 (save $370 at HP)](https://www.anrdoezrs.net/click-9041660-15850793?url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fvictus-by-hp-15l-gaming-desktop-tg02-0325m-59a32av-1&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An entry-level gaming desktop built with an AMD Ryzen 5 5600G processor, AMD Radeon RX 6400 GPU, 8GB of RAM, and a 256GB SSD.
 * [Alienware Aurora R16 for $3,700 (save $1,000 at Dell)](https://www.jdoqocy.com/click-9041660-15734614?url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdesktop-computers%2Falienware-aurora-r16-gaming-desktop%2Fspd%2Falienware-aurora-r16-desktop%2Fuseapctor16icc2&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Alienware's flagship gaming desktop is built with a 14th gen Intel Core i9 CPU, Nvidia GeForce RTX 4090 graphics card, 64GB of RAM, and 4TB of storage.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## October Prime Day gaming laptop deals
 
 Lenovo
@@ -211,7 +207,7 @@ Lenovo
 * [Alienware m18 R2 for $3,200 (save $800 at Dell)](https://www.jdoqocy.com/click-9041660-15734614?url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-computer-laptops%2Falienware-m18-r2-gaming-laptop%2Fspd%2Falienware-m18-r2-laptop%2Fuseashctom18r204&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A high-end gaming laptop with an Nvidia GeForce RTX 4090 GPU, Intel Core i9-14900K CPU, 64GB of RAM, 4TB of storage, and an 18-inch QHD+ display.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day gaming monitor deals
@@ -239,11 +235,11 @@ Samsung/ZDNET
 * [MSI Ventus GeForce RTX 4060 Ti for $430 (save $70 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FMSI-Ventus-GeForce-RTX-4060-Ti-16GB-GDDR6-PCI-Express-4-0-x8-ATX-Video-Card-RTX-4060-Ti-VENTUS-2X-BLACK-16G-OC%2F1508015956&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An Nivida 40 Series GPU with 16GB of DDR6 VRAM and support for up to 4 displays.
 * [Gigabyte GeForce RTX 4070 Ti Super Windforce Max OC Edition for $810 (save $114 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FGIGABYTE-GeForce-RTX-4070-Ti-SUPER-WINDFORCE-MAX-OC-16G-Graphics-Card-3x-WINDFORCE-Fans-16GB-256-bit-GDDR6X-GV-N407TSWF3MAX-OC-16GD-Video-Card%2F6941118252&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A high-end Nvidia RTX 40 Series graphics card with 16GB of VRAM, triple cooling fans, and dual BIOS controls.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQs
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### When is Amazon Prime Day 2024?
 
@@ -256,6 +252,10 @@ Games, consoles, and accessories can and do go on sale during Prime Day, though 
 ### How did we choose these Prime Day deals?
 
 I only chose deals on games that have been critically and commercially well-received, as well as accessories and peripherals from well-known and reputable brands like Razer and Logitech. I also only included deals that offered at least a 15 percent discount.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the best October Prime Day 2024 deals?
 
@@ -322,18 +322,22 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-from-novice-to-pro-navigating-streamlabs-obs-for-2024/"><u>[New] From Novice to Pro Navigating Streamlabs OBS for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-masters-choice-10-leading-photo-backdrop-swap-tools/"><u>[New] Master's Choice 10 Leading Photo Backdrop Swap Tools</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-detailed-guide-to-minecraft-capturing-techniques-on-mac-for-2024/"><u>[Updated] Detailed Guide to Minecraft Capturing Techniques on Mac for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-reviews-and-testing-of-leading-2024-laptop-models-comprehensive-guide/"><u>Expert Reviews & Testing of Leading 2024 Laptop Models | Comprehensive Guide</u></a></li>
-<li><a href="https://win-forum.techidaily.com/exploring-interactive-media-channels-the-power-of-facebook-twitter-instagram-and-youtube/"><u>Exploring Interactive Media Channels: The Power of Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/revolutionize-your-desk-setup-discover-the-unique-12-in-1-thunderbolt-hub-with-innovative-power-capabilities-specifically-designed-for-windows-enthusiasts.m130/"><u>Revolutionize Your Desk Setup: Discover the Unique 12-in-1 Thunderbolt Hub with Innovative Power Capabilities Specifically Designed for Windows Enthusiasts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/snag-the-deal-apple-m2-macbook-air-available-at-a-steal-during-octs-prime-day-event-spotted/"><u>Snag the Deal: Apple M2 MacBook Air Available at a Steal During Oct's Prime Day Event - Spotted</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-on-watching-the-2024-olympiad-in-real-time/"><u>Step-by-Step Tutorial on Watching the 2024 Olympiad in Real Time</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-game-changing-pact-blizzards-new-era-at-microsoft-with-ai-art-and-translation-insights-podcast-analysis/"><u>The Game-Changing Pact: Blizzard's New Era at Microsoft with AI Art & Translation Insights [Podcast Analysis]</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-techniques-for-correcting-stripes-on-samsung-displays/"><u>Troubleshooting Techniques for Correcting Stripes on Samsung Displays</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-windows-rpc-failures-with-ease/"><u>Troubleshooting Windows RPC Failures with Ease</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unbeatable-cyber-monday-bargains-top-laptops-below-500-and-a-special-offer-at-only-99-zdnet/"><u>Unbeatable Cyber Monday Bargains: Top Laptops Below $500 & a Special Offer at Only $99 - ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/winter-woes-understanding-the-reason-behind-charging-issues-with-ipads-macbooks-and-iphones-zdnet-insights/"><u>Winter Woes: Understanding the Reason Behind Charging Issues with iPads, MacBooks, and iPhones | ZDNet Insights</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-ultimate-guide-7-prime-free-video-tag-extractors/"><u>[Updated] 2024 Approved Ultimate Guide 7 Prime Free Video Tag Extractors</u></a></li>
+<li><a href="https://win11.techidaily.com/avoiding-the-pitfalls-of-error-xffffff-in-print-tasks/"><u>Avoiding the Pitfalls of Error XFFFFFF in Print Tasks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-acquiring-and-installing-corsair-k70-softwaredrivers-for-your-pc/"><u>Easy Guide to Acquiring and Installing Corsair K70 Software/Drivers for Your PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-setup-hp-envy-laptop-5660-model-drivers-quick-and-simple-installer/"><u>Easy Setup: HP Envy Laptop 5660 Model Drivers - Quick and Simple Installer</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722974428662-fast-and-easy-installation-of-microsoft-ergo-keyboard-4000-drivers-download-now/"><u>Fast & Easy Installation of Microsoft Ergo Keyboard 4000 Drivers - Download Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-seamlessly-update-microsoft-mouse-drivers-for-a-smoother-experience-on-windows-computers/"><u>How to Seamlessly Update Microsoft Mouse Drivers for a Smoother Experience on Windows Computers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-successfully-download-and-configure-surface-pro-n4-drivers-in-windows-environment/"><u>How to Successfully Download and Configure Surface Pro N°4 Drivers in Windows Environment</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-achieving-depth-in-indoor-vlogging-lighting/"><u>In 2024, Achieving Depth in Indoor Vlogging Lighting</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-boost-popularity-quickly-top-30-hashtags-every-gamer-needs/"><u>In 2024, Boost Popularity Quickly Top 30 Hashtags Every Gamer Needs</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-rhythm-in-reels-the-essentials-of-iphone-video-making/"><u>In 2024, Rhythm in Reels The Essentials of iPhone Video Making</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-synchronized-screenshots-pc-or-cloud-perfection/"><u>In 2024, Synchronized Screenshots PC or Cloud Perfection</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-utilizing-lut-filters-in-obs-studio-effectively/"><u>In 2024, Utilizing LUT Filters in OBS Studio Effectively</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/arch-of-success-pivotal-youtube-gatherings-after-vidcon-for-2024/"><u>In Search of Success Pivotal YouTube Gatherings (After VidCon) for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-epson-v39-scan-driver-on-windows-7810-step-by-step-guide-and-download-links/"><u>Install Epson V39 Scan Driver on Windows 7/8/10: Step-by-Step Guide and Download Links</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/newly-released-geforce-210-graphics-card-drivers-for-windows-11-systems/"><u>Newly Released GeForce 210 Graphics Card Drivers for Windows 11 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-on-updating-your-intel-optane-drive-software-on-windows-systems/"><u>Step-by-Step Tutorial on Updating Your Intel Optane Drive Software on Windows Systems</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/the-minecraft-archivists-guide-6-core-methods-for-capture-for-2024/"><u>The Minecraft Archivist's Guide 6 Core Methods for Capture for 2024</u></a></li>
 </ul></div>
 

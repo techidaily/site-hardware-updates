@@ -1,7 +1,7 @@
 ---
 title: "Breakthrough in High FPS: TCL Introduces a Revolutionary 4K Gaming Screen (1,000 Hz)"
-date: 2024-08-19T04:26:09.002Z
-updated: 2024-08-20T04:26:09.002Z
+date: 2025-02-10T03:25:46.935Z
+updated: 2025-02-15T19:50:30.094Z
 tags:
   - monitor
 categories:
@@ -17,6 +17,10 @@ For those who deal with fatigue while looking at a screen, there's always paper.
 
  Working with Dave Crossland and Wenting Zhang, (aka @zephray\_wenting who you may remember for documenting his adventures with a[prison laptop](https://tools.techidaily.com) ), Soto successfully created his ideal monitor. Since its software and hardware are both open-sourced via[GitHub](https://github.com/Modos-Labs/Glider) , ambitious enough DIYers may be enabled to create this display or a similar display for themselves.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Modos Tech Paper Monitor Core Specs
 
 * **Panel Type** : Monochrome E-Ink (optional Full-Color Panel also available)
@@ -28,6 +32,10 @@ For those who deal with fatigue while looking at a screen, there's always paper.
  For many, the most important aspect may be the low latench. Modos is promising "a consistent < 120ms latency, compared to competitors, up to 270ms latency," which would make it pretty fast.
 
  LATEST VIDEOS FROM tomshardware Tom's Hardware
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Modos Tech Paper Monitor Display Modes
 
@@ -42,8 +50,9 @@ For those who deal with fatigue while looking at a screen, there's always paper.
  In any case, those who are interested can submit their information to the Modos Paper Monitor's[Crowd Supply page](https://www.crowdsupply.com/modos-tech/modos-paper-monitor) to be kept in the loop for future updates. This does seem like a nice companion for those wanting to reduce their eyestrain, though its small size makes it seem more like a laptop companion than a desktop-appropriate display.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -58,8 +67,6 @@ For those who deal with fatigue while looking at a screen, there's always paper.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -67,4 +74,19 @@ For those who deal with fatigue while looking at a screen, there's always paper.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ow-you-can-get-paid-for-videos/"><u>[New] How You Can Get Paid for Videos</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-crafting-engaging-instagram-reels-step-by-step/"><u>[New] In 2024, Crafting Engaging Instagram Reels Step-by-Step</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-strategies-for-acquiring-flawless-photos-on-the-internet/"><u>[Updated] In 2024, Strategies for Acquiring Flawless Photos on the Internet</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-ios-guide-to-stunning-time-lapse-cinematography/"><u>2024 Approved IOS Guide to Stunning Time-Lapse Cinematography</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-lava-yuva-2-pro-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Lava Yuva 2 Pro via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-install-logitech-wireless-mouse-driver-download-for-windows-pcs/"><u>Easy Install: Logitech Wireless Mouse Driver Download for Windows PCs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-compatibility-downloading-updated-drivers-for-your-hp-officejet-pro-9015-printer/"><u>Ensure Compatibility: Downloading Updated Drivers for Your HP OfficeJet Pro 9015 Printer</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-most-recent-driver-support-for-your-hp-printer-on-windows-10-11/"><u>How to Get the Most Recent Driver Support for Your HP Printer on Windows 10, 11</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-prime-methods-to-adapt-track-paceplay-in-spotify-app/"><u>In 2024, Prime Methods to Adapt Track Paceplay in Spotify App</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/top-strategies-for-integrating-facebook-live-into-your-site/"><u>Top Strategies for Integrating Facebook Live Into Your Site</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-your-logitech-g9ns-headset-a-guide-for-windriver-fixes/"><u>Troubleshooting Your Logitech G9n_s Headset: A Guide for WinDriver Fixes</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-bring-your-photos-to-life-the-best-animation-tools/"><u>Updated Bring Your Photos to Life The Best Animation Tools</u></a></li>
+</ul></div>
 

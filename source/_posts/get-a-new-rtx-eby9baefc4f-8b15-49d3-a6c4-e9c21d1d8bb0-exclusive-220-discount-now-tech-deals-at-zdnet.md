@@ -1,7 +1,7 @@
 ---
 title: Get a New RTX Eby_9baefc4f-8b15-49d3-A6c4-E9c21d1d8bb0! Exclusive $220 Discount Now | Tech Deals at ZDNET!
-date: 2025-02-02T02:28:41.261Z
-updated: 2025-02-02T16:42:48.525Z
+date: 2025-02-13T20:17:43.557Z
+updated: 2025-02-15T20:17:09.215Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kerry Wan/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the deal?
@@ -31,7 +31,7 @@ Right now, Amazon is selling the [15-inch MacBook Air (M2) for $250 off](https:/
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -107,7 +107,7 @@ The laptop is capable of 4K exports on Adobe Premiere Pro and editing RAW files 
 What I found myself missing when testing the MacBook Air was the 120Hz ProMotion display from the Pro line. All it took was an hour or two before my eyes adapted to the slower, less smooth 60Hz panel, but the larger 15-inch display didn't make the transition easy. In fact, it made the difference more apparent.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -146,17 +146,24 @@ But everything else about it is as good as the current $1,050 price point gets. 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-efficient-techniques-for-moving-snapshot-to-photo-library/"><u>[Updated] 2024 Approved Efficient Techniques for Moving SnapShot to Photo Library</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amazon-prime-day-deals-apple-m2-macbook-air-available-at-just-749-a-comprehensive-guide/"><u>Amazon Prime Day Deals: Apple M2 MacBook Air Available at Just $749 - A Comprehensive Guide</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/epic-quests-unveiled-top-games-mirroring-ghost-of-tsushima-for-2024/"><u>Epic Quests Unveiled Top Games Mirroring Ghost of Tsushima for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exclusive-list-2022s-must-have-cyber-monday-bargains-score-big-savings-today/"><u>Exclusive List: 2022'S Must-Have Cyber Monday Bargains - Score Big Savings Today!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-lg-gram-pro-17-features-and-sale-update-for-amazon-prime-day-insider-tech-review/"><u>Exploring LG Gram Pro 17 Features and Sale Update for Amazon Prime Day | Insider Tech Review</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/gopro-vs-yi-4k-updated-review-of-ultimate-action-cams-for-2024/"><u>GoPro Vs. Yi 4K Updated Review of Ultimate Action Cams for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-oneplus-ace-3-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked OnePlus Ace 3 Phone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-photos-stuck-correct-icloud-sync-issues-with-these-vehicle-maintenance-and-the-importance-of-regular-inspections-to-ensure-safety-on-the-road/"><u>IPhone Photos Stuck? Correct iCloud Sync Issues with These Vehicle Maintenance, and the Importance of Regular Inspections to Ensure Safety on the Road</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/recharge-ready-140w-high-capacity-usb-battery-bank-charges-up-to-7-gadgets-simultaneously-azernio/"><u>Recharge-Ready: 140W High-Capacity USB Battery Bank Charges Up To 7 Gadgets Simultaneously - AZERNIO</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleashing-potential-bypassing-the-turing-trial/"><u>Unleashing Potential: Bypassing the Turing Trial</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unleashing-power-user-potential-essential-traits-of-the-lenovo-laptop-that-wowed-us-insights/"><u>Unleashing Power User Potential: Essential Traits of the Lenovo Laptop That Wowed Us - Insights</u></a></li>
-<li><a href="https://win-able.techidaily.com/mp3-mp3/"><u>フリーMP3エディタ - MP3のカット、マージ、レベル設定編集手順ガイド</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-does-youtube-offer-frequent-payments-to-you/"><u>[New] 2024 Approved Does YouTube Offer Frequent Payments to You?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/solved-lg-monitor-driver-issues-on-windows-11-7-81/"><u>[Solved] LG Monitor Driver Issues on Windows 11, 7, 8.1</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-tips-top-6-apps-that-make-storing-linkedin-videos-simple/"><u>[Updated] Expert Tips Top 6 Apps That Make Storing LinkedIn Videos Simple</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/6-cost-free-ai-models-that-match-openais-phi-capabilities/"><u>6 Cost-Free AI Models That Match OpenAI's Phi Capabilities</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/advancing-the-future-with-apples-latest-ai-innovations-unveiling-capabilities-of-their-new-models-tech-insights-from-zdnet/"><u>Advancing the Future with Apple's Latest AI Innovations: Unveiling Capabilities of Their New Models - Tech Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722969306267-brother-hl-l2370dw-printer-drivers-download-latest-version-now/"><u>Brother HL-L2370DW Printer Drivers: Download Latest Version Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/brother-mfc-7860dw-inkjet-printer-software-installation-and-latest-updates-for-windows/"><u>Brother MFC-7860DW Inkjet Printer Software Installation and Latest Updates for Windows</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/conversion-gratuite-des-fichiers-wav-en-aiff-en-ligne-service-web-rapide-avec-movavi/"><u>Conversion Gratuite Des Fichiers WAV en AIFF en Ligne - Service Web Rapide Avec Movavi</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/directing-youtube-and-twitter-videos-via-whatsapp-messages-for-2024/"><u>Directing YouTube & Twitter Videos via WhatsApp Messages for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-guide-how-to-effortlessly-install-new-sata-interface-drivers-in-windows/"><u>Download & Update Guide: How to Effortlessly Install New SATA Interface Drivers in Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-8-chatgpt-tactics-to-cut-down-on-screen-time-distractions/"><u>Essential 8 ChatGPT Tactics to Cut Down on Screen Time Distractions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fast-and-hassle-free-installation-of-amd-ryzen-5-2400g-driver-updates/"><u>Fast and Hassle-Free Installation of AMD Ryzen 5 2400G Driver Updates</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-logitech-g900-controller-up-and-running-on-windows-pcs-win11win10win8win7/"><u>Get Your Logitech G900 Controller Up and Running on Windows PCs (Win11/Win10/Win8/Win7)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-seamlessly-install-latest-canon-driver-software-for-your-pc/"><u>How to Seamlessly Install Latest Canon Driver Software for Your PC</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-samsung-galaxy-f14-5g-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Samsung Galaxy F14 5G</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/include-stage-directions-that-metaphorically-represent-scientific-processes-eg-characters-absorbing-information-as-silica-gel-absorbs-water/"><u>Include Stage Directions that Metaphorically Represent Scientific Processes (E.g., Characters 'Absorbing' Information as Silica Gel Absorbs Water).</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/movavi-aacaiff/"><u>Movaviで無料アクセス! AACファイルをAIFFにシームレスに変更する方法</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/obtain-updated-drivers-for-your-amd-radeon-pro-w5700-on-windows-11-10-and-7/"><u>Obtain Updated Drivers for Your AMD Radeon Pro W5700 on Windows 11, 10 & 7</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/reviving-your-iphone-top-5-methods-for-repairing-damaged-or-unreadable-backup-files/"><u>Reviving Your iPhone: Top 5 Methods for Repairing Damaged or Unreadable Backup Files</u></a></li>
 </ul></div>
 

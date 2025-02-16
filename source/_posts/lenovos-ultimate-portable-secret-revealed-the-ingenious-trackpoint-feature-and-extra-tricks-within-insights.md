@@ -1,7 +1,7 @@
 ---
 title: Lenovo's Ultimate Portable Secret Revealed! The Ingenious TrackPoint Feature & Extra Tricks Within | Insights
-date: 2025-01-30T00:54:42.051Z
-updated: 2025-02-02T21:10:24.981Z
+date: 2025-02-11T03:40:17.431Z
+updated: 2025-02-15T23:22:40.316Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -77,7 +77,7 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -116,17 +116,20 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-step-by-step-to-a-luminous-world-of-android-videos/"><u>2024 Approved Step-by-Step to a Luminous World of Android Videos</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exclusive-overview-of-the-galaxy-line-up-introduced-at-samsung-unpacked-insights-from-zdnet/"><u>Exclusive Overview of the Galaxy Line-Up Introduced at Samsung Unpacked: Insights From ZDNet</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Nokia C12 Pro | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Lava Blaze Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-reel-mastery-made-simple-with-these-free-apps-to-manage-instagram-videos/"><u>In 2024, Reel Mastery Made Simple with These Free Apps to Manage Instagram Videos</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/prime-18-webcam-recorders-your-ultimate-tech-companion-for-2024/"><u>Prime 18 Webcam Recorders Your Ultimate Tech Companion for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/purchase-the-revolutionary-ar-laptop-featuring-a-massive-100-screen-eliminating-the-need-for-an-external-monitor/"><u>Purchase the Revolutionary AR Laptop Featuring a Massive 100 Screen, Eliminating the Need for an External Monitor!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ring-spotlight-cam-pro-review-an-unanticipated-revelation/"><u>Ring Spotlight Cam Pro Review - An Unanticipated Revelation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/snipgrab-hiccups-9-effective-remedies-inside/"><u>SnipGrab Hiccups? 9 Effective Remedies Inside</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-pick-the-ultra-versatile-laptop-that-wins-hearts-and-delivers-powerful-performance-insights/"><u>Top Pick: The Ultra-Versatile Laptop That Wins Hearts and Delivers Powerful Performance - Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-discounts-on-apples-macbook-and-mac-mini-in-january-2n-exclusive-offers-revealed-by-zdnet/"><u>Top-Rated Discounts on Apple's MacBook & Mac Mini in January 2N - Exclusive Offers Revealed by ZDNet</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unlocking-iphone-14-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>Unlocking iPhone 14 Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unlocking-youtube-simplified-methods-for-cc-and-subtitle-integration/"><u>[New] Unlocking YouTube Simplified Methods for CC and Subtitle Integration</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-optimal-series-professional-webcam-stabilizers-for-2024/"><u>[Updated] Optimal Series Professional Webcam Stabilizers for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/2024mp4/"><u>2024年版ムービー製作で直面するMP4保存問題とその回避手段 - プロの方法教えます</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/can-you-unlock-iphone-xs-max-after-forgetting-the-passcode-by-drfone-ios/"><u>Can You Unlock iPhone XS Max After Forgetting the Passcode?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-latest-validity-fingerprint-sensor-driver-fast-and-simple-installation/"><u>Download the Latest Validity Fingerprint Sensor Driver: Fast and Simple Installation</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-and-immediate-downloading-of-acer-wireless-network-driver-no-cost/"><u>Effortless & Immediate Downloading of Acer Wireless Network Driver | No Cost!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-officejet-5255-fresh-driver-download-and-update-for-optimal-performance/"><u>HP OfficeJet 5255: Fresh Driver Download & Update for Optimal Performance</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-or-update-nvidias-mx150-graphics-drivers-for-windows-systems/"><u>Install or Update NVIDIA's MX150 Graphics Drivers for Windows Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722971335816-logitech-c615-drivers-easy-trouble-shoot-and-solutions-provided/"><u>Logitech C615 Drivers – Easy Trouble-Shoot & Solutions Provided</u></a></li>
+<li><a href="https://article-files.techidaily.com/navigating-the-maze-of-cloud-data-tariffs-for-2024/"><u>Navigating the Maze of Cloud Data Tariffs for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolve-your-lenovo-usb-driver-problems-with-simple-techniques/"><u>Resolve Your Lenovo USB Driver Problems with Simple Techniques</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/successful-installation-downloading-and-updating-d-link-drivers-on-windows/"><u>Successful Installation: Downloading and Updating D-Link Drivers on Windows</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/tinyframe-videotaker-assessment-with-alternatives-for-2024/"><u>TinyFrame Videotaker Assessment with Alternatives for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-gionee-f3-pro-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Gionee F3 Pro Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-seamless-video-editing-on-arm-devices-filmora-x-makes-it-happen/"><u>Updated 2024 Approved Seamless Video Editing on ARM Devices Filmora X Makes It Happen</u></a></li>
 </ul></div>
 

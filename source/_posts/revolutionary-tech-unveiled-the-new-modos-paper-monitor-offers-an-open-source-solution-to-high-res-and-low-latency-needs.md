@@ -1,7 +1,7 @@
 ---
 title: "Revolutionary Tech Unveiled: The New Modos Paper Monitor Offers an Open-Source Solution to High Res and Low Latency Needs!"
-date: 2024-08-19T04:29:36.233Z
-updated: 2024-08-20T04:29:36.233Z
+date: 2025-02-11T16:28:25.626Z
+updated: 2025-02-15T18:11:56.688Z
 tags:
   - monitor
 categories:
@@ -29,6 +29,10 @@ Ultra-high refresh rate LCD and OLED displays are all the rage today, with the[B
   
  Granted, you aren't going to see a CRT on our list of the[best gaming monitors](https://tools.techidaily.com) , and most people in 2024 aren't going to actually enjoy the experience of gaming at a resolution below[80s-era CGA](https://en.wikipedia.org/wiki/Color%5FGraphics%5FAdapter) . But it's interesting to see enthusiasts pushing older, "outdated" tech beyond the limits of the best cutting-edge consumer gaming monitors you can buy today. There's one area where CRTs will never be able to compete with modern LCDs, though, and that's desk space.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -43,8 +47,6 @@ Ultra-high refresh rate LCD and OLED displays are all the rage today, with the[B
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -52,8 +54,24 @@ Ultra-high refresh rate LCD and OLED displays are all the rage today, with the[B
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-3-must-know-methods-to-record-on-your-ipad/"><u>[New] 3 Must-Know Methods to Record on Your iPad</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-expertly-convert-your-content-to-stellar-hd-with-top-tools/"><u>[Updated] In 2024, Expertly Convert Your Content to Stellar HD with Top Tools</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-the-essential-handbook-for-iphone-time-reversal/"><u>2024 Approved The Essential Handbook for iPhone Time-Reversal</u></a></li>
+<li><a href="https://win-guides.techidaily.com/avoid-missed-sales-master-the-no-sale-feature-in-massmailer-software/"><u>Avoid Missed Sales: Master the 'No Sale' Feature in MassMailer Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-the-epson-wf-3520-driver-step-by-step-tutorial-for-pc-users/"><u>Download & Update the Epson WF-3520 Driver - Step by Step Tutorial for PC Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722977968492-expert-tips-easy-windows-7-webcam-driver-installation-and-setup/"><u>Expert Tips: Easy Windows 7 Webcam Driver Installation and Setup</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-windows-7-mirror-flip-mistake/"><u>Fixing Windows 7 Mirror Flip Mistake</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-easily-upgrade-your-nvidia-quadro-rtx-4000-drivers-secure-and-fast-downloads-available-now/"><u>How to Easily Upgrade Your NVIDIA Quadro RTX 4000 Drivers – Secure & Fast Downloads Available Now</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-oppo-k11x-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Oppo K11x</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-exploring-advanced-gloves-for-enhanced-vr-experience/"><u>In 2024, Exploring Advanced Gloves for Enhanced VR Experience</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-your-corsair-h80i-v2-aio-cooler-free-system-driver-download/"><u>Install Your Corsair H80i V2 AIO Cooler - Free System Driver Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/instant-access-to-samsung-c460c465-printer-drivers-easy-download-options-inside/"><u>Instant Access to Samsung C460/C465 Printer Drivers: Easy Download Options Inside</u></a></li>
+<li><a href="https://fox-links.techidaily.com/instant-image-perfection-advanced-cropping-guide-for-2024/"><u>Instant Image Perfection - Advanced Cropping Guide for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-intel-wireless-ac-9560-driver-software-upgrade/"><u>Latest Intel Wireless AC 9560 Driver Software Upgrade</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/solution-guide-for-audio-device-cannot-play-dts-ensuring-proper-functionality/"><u>Solution Guide for 'Audio Device Cannot Play DTS': Ensuring Proper Functionality</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-instructions-to-download-and-update-hp-spectre-x360-windows-drivers/"><u>Step-by-Step Instructions to Download and Update HP Spectre X360 Windows Drivers</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-realme-12-pro-5g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Realme 12 Pro 5G Bricked Devices | Dr.fone</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

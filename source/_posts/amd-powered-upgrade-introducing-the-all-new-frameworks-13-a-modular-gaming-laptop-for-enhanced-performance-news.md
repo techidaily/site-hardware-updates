@@ -1,7 +1,7 @@
 ---
 title: "AMD-Powered Upgrade: Introducing the All-New Frameworks 13 - A Modular Gaming Laptop for Enhanced Performance News"
-date: 2025-01-29T05:26:07.215Z
-updated: 2025-02-02T19:16:07.166Z
+date: 2025-02-11T19:32:29.663Z
+updated: 2025-02-16T04:32:22.012Z
 tags:
   - laptops
 categories:
@@ -37,6 +37,10 @@ Cons
 
 ## G.Skill RipJaws S5
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best RAM overall
 
 **G.Skill RipJaws S5 specs: Speed:** Up to 6,000MHz | **Type:** 288-pin DDR5 | **Timing:** 30-40-40-96 | **Chipset support:** Intel | **Capacity:** Up to 96GB
@@ -60,10 +64,14 @@ Pros
 Cons 
 * No heat spreader
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Corsair Vengeance SODIMM DDR5
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best RAM for laptops
@@ -90,7 +98,15 @@ Cons
 * Pricey
 * May not be compatible with some newer DDR5-enabled motherboards
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## G.Skill Trident Z RGB
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best RAM for gaming
 
@@ -118,10 +134,6 @@ Cons
 
 ## Kingston Fury Renegade Pro
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best RAM for servers
 
 **Kingston Fury Renegade Pro specs: Speed:** Up to 6,000MHz | **Type:** 288-pin DDR5 | **Timing:** 36-38-38 | **Chipset support:** Intel XMP, AMD | **Capacity:** Up to 256GB 
@@ -145,10 +157,6 @@ Cons
 
 ## Patriot Memory Signature Line
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best budget RAM
 
 **Patriot Signature specs: Speed:** 4,800MHz | **Type:** 288-pin DDR5 | **Timing:** 40-40=40-77 | **Chipset support:** Intel, AMD | **Capacity:** Up to 64GB
@@ -156,10 +164,6 @@ Cons
 Whether you're sticking to a budget while building a PC, or don't want to spend a lot of money on a RAM upgrade, the Patriot Signature is an excellent option. You can configure bundles up to 64GB, while still staying under $200\. Each RAM stick features an on-board thermal sensor to automatically monitor operating temperatures and alert you to any issues before they can ruin your computer. They also are made with enhanced error-correcting code for better data processing and power efficiency. The Signature series is also available in UDIMM format for high-efficiency gaming rigs or work stations.
 
 Show Expert Take Show less 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is the best RAM?
 
@@ -197,10 +201,6 @@ While researching RAM for this best list, I kept these criteria in mind:
 * **Use cases:** As I mentioned above, not all RAM is created equal. Along with traditional desktop and laptop RAM options, I also made sure to include RAM bundles intended for enterprise and server use.
 * **Performance:** Each option on this list has been researched to ensure that the RAM conforms to minimum system requirements for popular programs like web browsers, Adobe Creative Cloud, and gaming.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Should I use all four RAM slots? Or leave two open?
 
 You can absolutely use all four RAM slots on your motherboard, but there's a caveat. If you want to use all four RAM slots, make sure that you purchase a set of four RAM sticks. Bundles of RAM are often tested and matched together based on base clock speeds. If you install one or two RAM sticks and then go in later with a different brand or clock speed, it could cause some performance issues.
@@ -208,7 +208,7 @@ You can absolutely use all four RAM slots on your motherboard, but there's a cav
 If one pair of RAM sticks are rated for lower clock speeds than the other, your computer will try to match all four RAM to the lower speed. Usually this doesn't cause major issues, but you may see some stuttering while playing demanding games or multitasking in work programs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is 64GB of RAM too much?
@@ -228,10 +228,6 @@ Show less
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB097K2WKZW%2Fref%3Dasc%5Fdf%5FB097K2WKZW1728298800000%3Fcreative%3D395261%26creativeASIN%3DB097K2WKZW%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C341cfb2a-bb4c-4008-b035-2a2ae79b8710%7Cdtp&dtb=1)[View now at Walmart](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F202148232&subId1=zd-__COM_CLICK_ID__-dtp)
 
 Full Review [Read Full Review](https://www.zdnet.com/article/best-ram/Design: Mini Listicle)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Kingston Beast Fury DDR4
 
@@ -288,6 +284,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 * [The best Android phones you can buy (including a surprise pick)](https://www.zdnet.com/article/best-android-phone/ "The best Android phones you can buy (including a surprise pick)")
 * [The best robot vacuum and mop combos (and if they're worth the money)](https://www.zdnet.com/article/best-robot-vacuum-mop/ "The best robot vacuum and mop combos (and if they're worth the money)")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###   
 
 ###
@@ -307,15 +307,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-top-7-cost-effective-user-friendly-movie-software/"><u>[New] In 2024, Top 7 Cost-Effective, User-Friendly Movie Software</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-essential-imovie-techniques-to-upgrade-your-youtube-content/"><u>[Updated] In 2024, Essential iMovie Techniques to Upgrade Your YouTube Content</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-ps5xbox-gaming-monitors-the-5-most-exciting-choices/"><u>2024 Approved PS5/Xbox Gaming Monitors The 5 Most Exciting Choices</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/experiencing-the-future-of-tech-my-first-encounter-with-lenovos-transparent-notebook-at-mwc/"><u>Experiencing the Future of Tech - My First Encounter with Lenovo's Transparent Notebook at MWC</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/is-investing-in-linkedin-premium-worth-it/"><u>Is Investing in LinkedIn Premium Worth It?</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/seamless-video-playback-on-sony-tvs-how-to-transform-your-mkv-files-with-ease/"><u>Seamless Video Playback on Sony TVs: How to Transform Your MKV Files with Ease</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-dual-function-device-of-2023-with-a-hidden-gem-beneficial-for-workspaces-discover-on-zdnet/"><u>Top Rated Dual-Function Device of 2023 with a Hidden Gem Beneficial for Workspaces - Discover on ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1721832631940-transform-how-you-search-bings-ai-ready-for-mobile-devices/"><u>Transform How You Search: Bing’s AI Ready for Mobile Devices.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unleashing-your-laptops-full-potential-with-this-overlooked-hardware-hack-techwise/"><u>Unleashing Your Laptop's Full Potential with This Overlooked Hardware Hack | TechWise</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/why-many-users-prefer-this-budget-friendly-laptop-over-macbook-air-without-sacrificing-performance-expert-insights/"><u>Why Many Users Prefer This Budget-Friendly Laptop Over MacBook Air without Sacrificing Performance | Expert Insights</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-engineering-eye-catching-teaser-tales/"><u>[New] 2024 Approved Engineering Eye-Catching Teaser Tales</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-shining-spotlight-on-luminous-hdr-techniques/"><u>[New] Shining Spotlight on Luminous HDR Techniques</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-offline-android-delights-top-screen-free-game-list-you-must-play-in-2024/"><u>[Updated] Offline Android Delights Top Screen-Free Game List You Must Play, In 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-tickler-toolkit-image-mashup/"><u>[Updated] Tickler Toolkit Image Mashup</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-driver-suite-for-hp-officejet-3830-running-on-your-windows-computer/"><u>Complete Driver Suite for HP OfficeJet 지휘기 3830 Running on Your Windows Computer</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-instructions-for-obtaining-the-most-recent-updates-for-your-hp-officejet-4655-printer-drivers/"><u>Easy Instructions for Obtaining the Most Recent Updates for Your HP OfficeJet 4655 Printer Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-tutorial-driver-refresh-for-dell-xps-laptop-in-windows-operating-system/"><u>Easy Tutorial: Driver Refresh for Dell XPS Laptop in Windows Operating System</u></a></li>
+<li><a href="https://games-able.techidaily.com/econopcs-meet-gaming-budget-board-guide/"><u>EconoPCs Meet Gaming: Budget Board Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722972694691-find-and-install-your-hp-ink-advantage-3520-printer-driver-today/"><u>Find & Install Your HP Ink Advantage 3520 Printer Driver Today</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-the-newest-brother-scan-and-print-drivers-in-windows-step-by-step-instructions/"><u>How to Install the Newest Brother Scan and Print Drivers in Windows - Step by Step Instructions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-edge-40-neo-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Edge 40 Neo Pictures An Easy Method Explained.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Vivo Y100? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-itel-p55plus-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Itel P55+ Through Google Earth?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-brother-printer-driver-updates-compatible-with-windows/"><u>Latest Brother Printer Driver Updates Compatible with Windows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-microsoft-skills-the-ultimate-guide-to-premium-technical-certifications-recommended-by-zdnet/"><u>Mastering Microsoft Skills: The Ultimate Guide to Premium Technical Certifications Recommended by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-fix-how-to-swiftly-upgrade-your-synaptic-ps2-touchpad-drivers/"><u>Quick Fix: How to Swiftly Upgrade Your Synaptic PS/2 Touchpad Drivers</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-connection-issues-a-guide-to-fixing-your-airpods-on-windows-11/"><u>Resolving Connection Issues: A Guide to Fixing Your AirPods on Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-downloading-and-installing-nexiq-usb-link-driver-for-seamless-connectivity/"><u>Ultimate Guide to Downloading & Installing Nexiq USB-Link Driver for Seamless Connectivity</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/updated-epson-wf-3620-driver-software-for-compatibility-with-windows-operating-systems-1087/"><u>Updated Epson WF-3620 Driver Software for Compatibility with Windows Operating Systems (10/8/7)</u></a></li>
 </ul></div>
 

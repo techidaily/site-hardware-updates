@@ -1,7 +1,7 @@
 ---
 title: Unveiling Samsung's Game-Changing Copilot+ Laptop - Exclusive Review & Top Deal on Windows Devices!
-date: 2025-01-29T02:07:01.607Z
-updated: 2025-02-03T08:04:17.626Z
+date: 2025-02-13T02:34:56.003Z
+updated: 2025-02-16T02:54:24.490Z
 tags:
   - laptops
 categories:
@@ -19,6 +19,10 @@ Kerry Wan/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -39,10 +43,6 @@ There's no question that the laptop looks unique. It's not every day you see a l
 A laptop with two screens is perhaps one of the tamest designs it has come up with, and I'm a big fan of it. [We were left impressed with last year's model](https://www.zdnet.com/article/lenovos-yoga-book-9i-review/), if a bit let down by some of the shortcomings that come with a laptop of this caliber. For 2024, Lenovo has thrown in an upgraded processor and some extra software features while keeping the design exactly the same.
 
 It's given me a chance to revisit the idea of having two screens on my laptop, and once again, it's tempting me to switch away from my boring-in-comparison MacBook Pro.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Specifications (as reviewed)
 
@@ -79,7 +79,7 @@ There's a lot that the dual-screen design of the Yoga Book 9i enables, and the v
 Switching back to my single-screen MacBook Pro was, to put it lightly, tough. I missed having all the extra screen real estate and the ability to have two full documents open side-by-side while writing. I felt limited in a way that I wasn't expecting, which says a lot about how effective Lenovo's dual-screen design is.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How does it perform?
@@ -103,7 +103,7 @@ To power the Yoga Book 9i, Lenovo includes an 80W battery that's rated for about
 Charging the laptop is as straightforward as it comes. There's a Rapid Charge adapter in the box that gives you about two hours of runtime with just 15 minutes of charging. I found this mostly to be true, although you have to shut the lid if you want charging speeds to really pick up.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Evaluating Lenovo's dual-screen software
@@ -127,7 +127,7 @@ It's weird; I've had apps like Chrome and Spotify show up on the lower display w
 I'll give Lenovo credit, the new Yoga Book 9i feels smoother than the old one did. I don't notice as much scruff or weird glitches with the software, and the bundled Bluetooth keyboard doesn't produce nearly as many double-key entries as before. Still, it's not a perfect experience, which is something to keep in mind if you're going to spend $2,000 on a laptop.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## One thing to keep in mind
@@ -141,7 +141,7 @@ When I'm working on my MacBook or -- quite frankly -- any other laptop in my ars
 Of course, you'll eventually get used to it, but it'll never be as convenient as shutting your laptop lid and moving on with your day.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -182,22 +182,14 @@ If none of that matters to you and you're cool with living with the Yoga Book 9i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-pioneering-platform-potential-the-10-most-effective-igtv-strategies-for-brands/"><u>[New] 2024 Approved Pioneering Platform Potential The 10 Most Effective IGTV Strategies for Brands</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-optimizing-facebook-live-from-pcmaclaptop-through-obs/"><u>[Updated] 2024 Approved Optimizing Facebook Live From PC/Mac/Laptop Through OBS</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-collage-alchemy-transforming-scraps-into-art/"><u>2024 Approved Collage Alchemy Transforming Scraps Into Art</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-pioneering-youtube-success-stories-via-tubebuddy/"><u>2024 Approved Pioneering YouTube Success Stories via TubeBuddy</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-top-9-free-custom-youtube-branding-tools-online/"><u>2024 Approved Top 9 FREE Custom YouTube Branding Tools Online</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/choosing-the-right-device-chromebook-or-traditional-laptop-a-comprehensive-guide-by-zdnet/"><u>Choosing the Right Device: Chromebook or Traditional Laptop - A Comprehensive Guide by ZDNet</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comparing-kobo-nia-and-amazon-kindle-a-thorough-review-and-analysis/"><u>Comparing Kobo Nia & Amazon Kindle - A Thorough Review and Analysis</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effective-utilization-of-the-microsoft-teams-copilot-feature/"><u>Effective Utilization of the Microsoft Teams Copilot Feature</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/elite-selection-of-touchscreen-notebooks-comprehensive-testing-and-reviews-by-specialists/"><u>Elite Selection of Touchscreen Notebooks: Comprehensive Testing & Reviews by Specialists</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exclusive-list-of-top-24-black-friday-dell-offers-across-major-sites-including-newegg-walmart-and-ebay/"><u>Exclusive List of Top 24 Black Friday Dell Offers Across Major Sites Including Newegg, Walmart, and eBay</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-realme-11-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Realme 11 5G Data? | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-lumafusion-for-mac-install-it-or-get-alternatives-for-2024/"><u>New Lumafusion for Mac Install It or Get Alternatives for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/score-big-savings-top-notch-screened-laptop-discounted-just-in-time-for-tech-enthusiasts/"><u>Score Big Savings! Top-Notch Screened Laptop Discounted Just In Time for Tech Enthusiasts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-tech-bargains-of-prime-day-sale-the-ultimate-guide-for-gamers-october-2024/"><u>Top Tech Bargains of Prime Day Sale - The Ultimate Guide for Gamers (October 2024)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/transform-your-laptop-with-upgraded-4k-introducing-a-device-that-enables-dual-screen-support-on-unsupported-hardware-techradar/"><u>Transform Your Laptop with Upgraded 4K: Introducing a Device That Enables Dual Screen Support on Unsupported Hardware | TechRadar</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unleashing-power-and-play-the-definitive-rankings-of-2024s-elite-gaming-laptops-by-leading-brands-like-razer-acer-msi-zdnet-analysis/"><u>Unleashing Power and Play: The Definitive Rankings of 2024'S Elite Gaming Laptops by Leading Brands Like Razer, Acer, MSI | ZDNET Analysis</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlocking-massive-financial-benefits-a-closer-look-at-the-game-changing-50-laptop-add-on-revealed/"><u>Unlocking Massive Financial Benefits: A Closer Look at the Game-Changing $50 Laptop Add-On Revealed</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-ideal-portals-to-rewind-at-your-computer-ps3-edition/"><u>[New] 2024 Approved Ideal Portals to Rewind at Your Computer (PS3 Edition)</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-pros-in-the-field-pick-their-favorite-asmr-mics/"><u>[New] 2024 Approved Pros in the Field Pick Their Favorite ASMR Mics</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-supercharge-your-chat-essential-whatsapp-tactics-revealed/"><u>[Updated] 2024 Approved Supercharge Your Chat Essential WhatsApp Tactics Revealed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/anthem-on-windows-10-silent-problem-expert-fixes-and-solutions/"><u>Anthem on Windows 10 Silent Problem – Expert Fixes & Solutions!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722978499661-easy-and-speedy-arduino-mega-25n0-driver-downloads-start-your-project-now/"><u>Easy and Speedy Arduino Mega 25N0 Driver Downloads - Start Your Project Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-update-installing-the-scansnap-s1100-scanner-driver-with-speed-and-simplicity/"><u>Get the Latest Update: Installing the ScanSnap S1100 Scanner Driver with Speed and Simplicity</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-from-your-iphone-13-pro-max-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID From your iPhone 13 Pro Max without Security Questions?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-nvidia-geforce-rtx-1080-driver-downloads-compatible-with-windows-10-quick-guide/"><u>Latest Nvidia GeForce RTX 1080 Driver Downloads Compatible with Windows 10 - Quick Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-tip-acquiring-basic-input-devices-drivers-missing-from-windows-10-operating-system/"><u>Troubleshooting Tip: Acquiring Basic Input Devices Drivers Missing From Windows 10 Operating System</u></a></li>
 </ul></div>
 

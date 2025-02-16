@@ -1,7 +1,7 @@
 ---
 title: Returning to Campus? Score Big Savings on Laptops, Tablets From Samsung | Student Deals
-date: 2025-01-31T02:41:43.398Z
-updated: 2025-02-02T20:16:45.406Z
+date: 2025-02-12T05:28:17.676Z
+updated: 2025-02-15T21:01:50.829Z
 tags:
   - laptops
 categories:
@@ -51,7 +51,7 @@ If you want to shop around, Samsung isn't the only brand offering student discou
 * [Razer Education Purchase Program](https://razer.a9yw.net/c/159047/642901/10229?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.razer.com%2Feducation%3F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -90,20 +90,18 @@ However, stock may expire at any time. ZDNET remains committed to finding, shari
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-maximizing-marketing-the-best-highlight-techniques-for-brands/"><u>[New] 2024 Approved Maximizing Marketing The Best Highlight Techniques for Brands</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-viral-vibrancy-trending-audio-amplifying-your-yt-shorts/"><u>[New] In 2024, Viral Vibrancy Trending Audio Amplifying Your YT Shorts</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-is-your-facebook-video-more-engaging-in-a-vertical-format/"><u>[New] Is Your Facebook Video More Engaging in a Vertical Format?</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-photography-refinement-removing-backgrounds-and-blurring-effectively/"><u>[New] Photography Refinement Removing Backgrounds & Blurring Effectively</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-elevate-your-brand-with-these-biz-channel-standouts/"><u>[Updated] In 2024, Elevate Your Brand with These Biz Channel Standouts</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-unleash-your-potential-with-snapchats-commerce-tools-for-2024/"><u>[Updated] Unleash Your Potential with Snapchat's Commerce Tools for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/google-meet-recording-made-easy-for-smartphone-users-for-2024/"><u>Google Meet Recording Made Easy for Smartphone Users for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-the-new-lg-gram-pro-outperforms-apples-macbook-air-in-key-aspects-insights-by-zdnet/"><u>How the New LG Gram Pro Outperforms Apple's MacBook Air in Key Aspects | Insights by ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/office-ready-laptops-beyond-dell-and-lenovo-expert-picks-on-the-markets-hidden-gems-tech-advisor/"><u>Office-Ready Laptops Beyond Dell and Lenovo: Expert Picks on the Market's Hidden Gems | Tech Advisor</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723004713026-pc-gaming-problem-solved-unfreeze-your-fall-guys-experience-today/"><u>PC Gaming Problem Solved: Unfreeze Your Fall Guys Experience Today!</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/smartphone-image-editing-ios-and-androids-top-picks-2e-edition-for-2024/"><u>Smartphone Image Editing IOS & Android's Top Picks (2E Edition) for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/surpassing-expectations-in-ruggedness-and-customizability-a-deep-dive-into-the-laptop-that-stands-out-from-getacs/"><u>Surpassing Expectations in Ruggedness & Customizability: A Deep Dive Into the Laptop That Stands Out From Getacs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-affordable-laptops-in-2eighty-four-comprehensive-reviews-and-ratings-below-1k-tech-insights/"><u>Top-Rated Affordable Laptops in 2Eighty-Four: Comprehensive Reviews & Ratings Below $1K - Tech Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unbeatable-deals-score-apples-m2-macbook-air-at-just-749-during-october-prime-day-amazon-zdnet/"><u>Unbeatable Deals: Score Apple's M2 MacBook Air at Just $749 During October Prime Day - Amazon | ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/uncover-hidden-gems-top-notch-laptops-under-700-featured-by-zdnet/"><u>Uncover Hidden Gems: Top-Notch Laptops Under $700 Featured by ZDNet</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-non-gamebar-recorders-best-tools-for-game-capture/"><u>[New] 2024 Approved Non-GameBar Recorders Best Tools for Game Capture</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-quality-upgrade-switch-codecs-to-av1-for-youtube-viewing/"><u>[New] Quality Upgrade Switch Codecs to AV1 for YouTube Viewing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fast-track-photo-and-video-editing-via-mobile-luts/"><u>2024 Approved Fast-Track Photo & Video Editing via Mobile LUTs</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-maximizing-youtube-engagement-with-strategic-hashes/"><u>2024 Approved Maximizing YouTube Engagement with Strategic Hashes</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620267152-discover-the-ultimate-list-of-zero-cost-tools-to-track-your-calls-easily-ideal-for-iphones-from-5-to-x-series/"><u>Discover the Ultimate List of Zero-Cost Tools to Track Your Calls Easily - Ideal for iPhones From 5 to X Series</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-latest-hp-printer-driver-update-hp-officejet-4500-year-2024/"><u>Get Your Latest HP Printer Driver Update: HP Officejet 4500 (Year 2024)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-officejet-pro-8740-drivers-fresh-download-options-for-windows-users-11108/"><u>HP OfficeJet Pro 8740 Drivers - Fresh Download Options for Windows Users (11/10/8)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-focusrite-scarlett-nvidia-2i2-driver-download-for-windows-pcs/"><u>Latest Focusrite Scarlett nVidia 2I2 Driver Download for Windows PCs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamless-setup-for-dell-latitude-e6420-with-fast-driver-download-options/"><u>Seamless Setup for Dell Latitude E6420 with Fast Driver Download Options</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-fresh-epson-xp-640-driver-download-and-setup-for-windows-users/"><u>Step-by-Step Guide: Fresh Epson XP-640 Driver Download and Setup for Windows Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/techkeys-official-bluetooth-driver-software-downloads-for-windows-operating-systems-1178/"><u>Techkey's Official Bluetooth Driver Software: Downloads for Windows Operating Systems (11/7/8)</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-a-comprehensive-guide-to-the-latest-hardware-innovations/"><u>Tom's Tech Insights: A Comprehensive Guide to the Latest Hardware Innovations</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/unlocking-whatsapp-wizardry-your-essential-guide-for-2024/"><u>Unlocking WhatsApp Wizardry Your Essential Guide for 2024</u></a></li>
 </ul></div>
 

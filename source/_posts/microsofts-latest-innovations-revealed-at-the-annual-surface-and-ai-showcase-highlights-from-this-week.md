@@ -1,7 +1,7 @@
 ---
 title: "Microsoft's Latest Innovations Revealed at the Annual Surface and AI Showcase: Highlights From This Week"
-date: 2025-02-02T08:51:34.814Z
-updated: 2025-02-03T04:14:18.356Z
+date: 2025-02-11T19:21:04.746Z
+updated: 2025-02-16T01:44:32.950Z
 tags:
   - laptops
 categories:
@@ -25,7 +25,7 @@ After months of [speculation](https://www.zdnet.com/article/microsofts-october-1
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Featured
@@ -42,7 +42,7 @@ Here's everything that the company announced during its October event.
 **Also: [How did Microsoft manage to get it right with Surface?](https://www.zdnet.com/article/how-did-microsoft-manage-to-get-it-right-with-surface/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Surface Laptop 5 gets a splash of color
@@ -62,7 +62,7 @@ What's different about the new Surface Laptop starts with the 12th-generation In
 The Surface Laptop 5 will be available in select markets beginning on Oct. 25 with a [starting price of $999](https://www.microsoft.com/en-us/store/configure/Surface-Laptop-5/8XN49V61S1BN?) for the i5, 8GB of RAM, and 256GB model. The laptop will be available in classic Platinum, Black, and Sandstone colorways, as well as a new leafy "Sage" option. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Goodbye Surface Pro X, hello Surface Pro 9
@@ -83,10 +83,6 @@ Not-so-big news: The rest is a standard Surface Pro affair; 2-in-1 design with a
 
 As far as pricing goes, the Intel-based Surface Pro 9 starts at [$999](https://www.microsoft.com/en-us/store/configure/Surface-Pro-9/93VKD8NP4FVK?) (i5, 8GB RAM, 128GB), and the ARM-based model starts at [$1,299](https://www.microsoft.com/en-us/store/configure/Surface-Pro-9/93VKD8NP4FVK?) (SQ3, 8GB RAM, 128GB). The former comes in Platinum, Graphite, Forest, and Sapphire, while the latter only comes in Platinum. Preorders start today. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The aptly-named Surface Studio 2+
 
 The Surface Studio 2+ looks nearly identical to the Surface Studio 2.
@@ -102,7 +98,7 @@ For all the performance gains that you're getting, Microsoft is making you pay t
 [Buy the Surface Studio 2+ View now at Microsoft](https://www.microsoft.com/en-us/store/configure/Surface-Studio-2/8VLFQC3597K4?)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Microsoft Presenter+ and Audio Dock
@@ -116,6 +112,10 @@ Releasing alongside the new Surface products are the Microsoft Presenter+ and Mi
 **More: [Microsoft's new accessories are geared toward the hybrid era of work](https://www.zdnet.com/article/microsofts-new-accessories-are-geared-toward-the-hybrid-era-of-work/)**
 
 The Microsoft Audio Dock is both a docking station with four ports (HDMI, 2x USB-C, and USB-A) and a speaker for audio input and output. For $249, which is not cheap for either of its two functions, Microsoft promises "premium sound" and noise-reducing microphones that will help you "be heard clearly in your next online meeting."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Microsoft Designer takes on Canva
 
@@ -163,24 +163,19 @@ Microsoft officials say that Designer is targeted at consumers more than anyone 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-top-ranked-independent-offline-mobile-gaming-android/"><u>[New] 2024 Approved Top-Ranked Independent Offline Mobile Gaming (Android)</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-non-sharex-heroes-for-secure-file-sharing/"><u>[Updated] 2024 Approved Non-ShareX Heroes for Secure File Sharing</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-mastering-instagrams-hashtag-language-for-enhanced-engagement/"><u>[Updated] In 2024, Mastering Instagram's Hashtag Language for Enhanced Engagement</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/affordable-luxury-m3-macbook-pro-for-less-than-10k-premium-features-that-challenge-expectations-techspot/"><u>Affordable Luxury: M3 MacBook Pro for Less than $10K - Premium Features that Challenge Expectations | TechSpot</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/avchd-mts-converter-for-huawei-by-aiseesoft-video-converter-play-mts-on-android/"><u>AVCHD MTS Converter for Huawei </u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/beat-the-hype-exclusive-550-discount-on-best-buys-samsung-odyssey-neo-g8-for-prime-shoppers-review/"><u>Beat the Hype: Exclusive $550 Discount on Best Buy's Samsung Odyssey Neo G8 for Prime Shoppers Review</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-the-ideal-laptop-for-your-creative-workflow-professional-ratings-and-in-depth-analysis-zdnet-exclusive/"><u>Discover the Ideal Laptop for Your Creative Workflow: Professional Ratings & In-Depth Analysis | ZDNet Exclusive</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-the-marvels-of-my-top-pick-an-innovative-origami-designed-laptop-sleeve-for-adventurous-travelers-insights/"><u>Discover the Marvels of My Top Pick: An Innovative Origami-Designed Laptop Sleeve for Adventurous Travelers - Insights</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Vivo T2x 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-get-started-with-wax-a-free-video-editing-software-tutorial/"><u>New Get Started with Wax A Free Video Editing Software Tutorial</u></a></li>
-<li><a href="https://win11.techidaily.com/remedying-the-non-responder-service-error-on-windows/"><u>Remedying the Non-Responder Service Error on Windows</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ride-the-waves-with-top-tier-surf-cameras/"><u>Ride the Waves with Top-Tier Surf Cameras</u></a></li>
-<li><a href="https://techtrends.techidaily.com/set-up-the-clock-on-your-kindle-paperwhite-easy-instructions-for-perfect-timing/"><u>Set Up the Clock on Your Kindle Paperwhite: Easy Instructions for Perfect Timing</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/snag-the-last-apple-m2-macbook-air-at-unbeatable-price-of-749-during-octobers-huge-amazon-prime-day-sale-dont-miss-out/"><u>Snag the Last Apple M2 MacBook Air at Unbeatable Price of $749 During October's Huge Amazon Prime Day Sale – Don't Miss Out!</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/swiftswirl-momentmirror-recording/"><u>SwiftSwirl MomentMirror Recording</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-underrated-champion-of-laptops-exploring-dells-latest-model-brimming-with-smart-features-at-an-attractive-cost-gadgetguru/"><u>The Underrated Champion of Laptops: Exploring Dell’s Latest Model Brimming With Smart Features at an Attractive Cost | GadgetGuru</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-prime-day-electronics-offers-exclusive-laptops-bargains-await-this-oct04/"><u>Top Prime Day Electronics Offers: Exclusive Laptops Bargains Await This Oct'04!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unbeatable-october-savings-metas-just-released-512gb-quest-3-offers-top-pick-for-vr-enthusiasts-during-prime-day-sales-insights/"><u>Unbeatable October Savings: Meta's Just-Released 512GB Quest 3 Offers Top Pick for VR Enthusiasts During Prime Day Sales - Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlocking-a-hassle-free-windows-free-experience-with-discounted-hp-chromebook-insights-and-tips/"><u>Unlocking a Hassle-Free Windows-Free Experience with Discounted HP Chromebook: Insights & Tips</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-10-best-youtube-music-reaction-video-and-how-to-make-one/"><u>[New] 2024 Approved 10 Best YouTube Music Reaction Video & How to Make One</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-ultimate-8-choice-of-cameras-for-excellent-video-feeds/"><u>[Updated] 2024 Approved Ultimate 8 Choice of Cameras for Excellent Video Feeds</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/asrock-ab350-pro4-windows-driver-downloads-at-no-cost-simplified-guide/"><u>ASRock AB350 Pro4 Windows Driver Downloads at No Cost – Simplified Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-update-lenovo-drivers-for-windows-11/"><u>Download Update Lenovo Drivers for Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-downloading-and-installing-epson-v500-driver-software/"><u>Easy Guide to Downloading and Installing Epson V500 Driver Software</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/editors-choice-17-software-pick-to-perfect-picture-backgrounds/"><u>Editor's Choice 17 Software Pick to Perfect Picture Backgrounds</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>How To Simulate GPS Movement With Location Spoofer On Apple iPhone 6s? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-edge-40-neo-phone-without-google-account-by-drfone-android/"><u>How to Unlock Motorola Edge 40 Neo Phone without Google Account?</u></a></li>
+<li><a href="https://win-able.techidaily.com/instant-remedy-stop-repeatedly-crashing-during-your-outriders-gaming-sessions/"><u>Instant Remedy: Stop Repeatedly Crashing During Your Outriders Gaming Sessions</u></a></li>
+<li><a href="https://fox-info.techidaily.com/masterpiece-episodes-for-airwaves/"><u>Masterpiece Episodes for Airwaves</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/cting-privacy-during-youtube-to-mp4-conversion/"><u>Protecting Privacy During YouTube-to-MP4 Conversion</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/quick-tips-for-burning-a-dvd-to-an-internal-hdd-with-winxdvd-on-windows-11-and-windows-7/"><u>Quick Tips for Burning a DVD to an Internal HDD with WinXDVD on Windows 11 and Windows 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolving-playstation-metro-exodus-game-crashes-winning-strategies/"><u>Resolving PlayStation Metro Exodus Game Crashes - Winning Strategies!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolving-your-computers-zoom-audio-problem-for-clear-calls/"><u>Resolving Your Computer's Zoom Audio Problem for Clear Calls</u></a></li>
 </ul></div>
 

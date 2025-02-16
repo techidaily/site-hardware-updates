@@ -1,7 +1,7 @@
 ---
 title: Top 48 Unmissable Cyber Monday Bargains in Gaming - Save on Consoles, PCs, Laptops & Games | ZDNet
-date: 2025-01-27T20:57:58.026Z
-updated: 2025-02-03T07:59:39.419Z
+date: 2025-02-10T04:14:03.548Z
+updated: 2025-02-15T18:25:35.864Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ Normally priced at $2,799, the [Razer Blade 14](https://buy.geni.us/Proxy.ashx?T
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Razer Blade 14 tech specs
@@ -45,7 +45,7 @@ Normally priced at $2,799, the [Razer Blade 14](https://buy.geni.us/Proxy.ashx?T
 * Cooling: Vapor chamber
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -90,24 +90,22 @@ Unlike a Mac, the [Razor Blade 14](https://buy.geni.us/Proxy.ashx?TSID=368250&GR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-expert-advice-for-saving-and-archiving-periscope-footage-for-2024/"><u>[New] Expert Advice for Saving and Archiving Periscope Footage for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-flashing-feathersticks-short-film-characters-music/"><u>[New] In 2024, Flashing Feathersticks Short Film Characters' Music</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-digital-canvas-delight-premier-apps-for-ipados-artistry-for-2024/"><u>[Updated] Digital Canvas Delight Premier Apps for iPadOS Artistry for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-visionary-insights-selecting-from-5-premier-slow-cameras/"><u>[Updated] Visionary Insights Selecting From 5 Premier Slow Cameras</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/2024s-ultimate-list-of-windows-laptops-tested-reviewed-and-ranked-by-professionals-zdnet/"><u>2024'S Ultimate List of Windows Laptops - Tested, Reviewed & Ranked by Professionals | ZDNET</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-the-bargain-asus-notebook-for-250-on-walmart-shelves-complete-with-all-essential-ports/"><u>Discover the Bargain Asus Notebook for $250 on Walmart Shelves - Complete with All Essential Ports</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/discover-the-best-5-devices-to-stream-and-record-sessions/"><u>Discover the Best 5 Devices to Stream & Record Sessions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-microsofts-latest-innovations-introducing-the-surface-pro-10-and-laptop/"><u>Exploring Microsoft's Latest Innovations: Introducing the Surface Pro 10 & Laptop</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-the-best-asus-laptop-that-outperforms-apples-macbook-a-must-read-for-tech-enthusiasts/"><u>Exploring the Best Asus Laptop That Outperforms Apple's MacBook - A Must-Read for Tech Enthusiasts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-will-microsofts-windows-copilot-compete-against-googles-latest-innovation-the-new-chromebook-plus-with-advanced-ai-integration-exploring-industry-perspe79/"><u>How Will Microsoft's Windows Copilot Compete Against Google's Latest Innovation: The New Chromebook Plus With Advanced AI Integration? Exploring Industry Perspectives at ZDNET</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-astral-adventures-with-your-luxury-sj4000-essential-accompaniments/"><u>In 2024, Astral Adventures with Your Luxury SJ4000 - Essential Accompaniments</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/limited-offer-snag-your-macbook-pro-w-latest-m3-pro-chip-at-a-steep-discount-this-presidents-day-save-200-now-on-zdnet/"><u>Limited Offer: Snag Your MacBook Pro W/ Latest M3 Pro Chip at a Steep Discount This Presidents' Day - Save $200 Now on ZDNet!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/microsoft-releases-innovative-surface-pro-10-and-laptop/"><u>Microsoft Releases Innovative Surface Pro 10 & Laptop</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/optimizing-productivity-through-chatgpt-driven-workflow-management-techniques/"><u>Optimizing Productivity Through ChatGPT-Driven Workflow Management Techniques</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-disappearing-windows-issue-quick-tricks-and-solutions/"><u>Resolve Disappearing Windows Issue: Quick Tricks & Solutions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/score-big-in-the-game-arena-secure-a-steal-on-acer-nitro-5-slash-costs-by-250-as-revealed-insiders/"><u>Score Big in the Game Arena: Secure a Steal on Acer Nitro 5, Slash Costs by $250 as Revealed Insiders!</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-game-changing-update-to-yakuza-like-a-dragon-tailored-and-tuned-for-the-ultimate-pc-playthrough/"><u>The Game-Changing Update to Yakuza: Like a Dragon, Tailored and Tuned for the Ultimate PC Playthrough</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-98-unmissable-cyber-monday-offers-of-2022-explore-the-hottest-bargains-on-zdnet/"><u>Top 98 Unmissable Cyber Monday Offers of 2022 - Explore the Hottest Bargains on ZDNet</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-insights-into-computing-visit-toms-hardware-hub/"><u>Ultimate Insights Into Computing - Visit Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/immediate-download-advanced-gpio-software-tool-from-amd-optimized-for-your-pc/"><u>[Immediate Download] Advanced GPIO Software Tool From AMD, Optimized for Your PC</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-cost-efficient-4k-camera-options-(1k/"><u>[New] Cost-Efficient 4K Camera Options <$1K</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-peak-performers-in-the-world-of-web-videos/"><u>[Updated] 2024 Approved Peak Performers in the World of Web Videos</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-a-step-by-step-process-of-board-use-in-zoom-sessions-desktopiosandroid/"><u>2024 Approved A Step-by-Step Process of Board Use in Zoom Sessions (Desktop/iOS/Android)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/bluetooth-device-drivers-download-compatible-with-windows-11-and-10/"><u>Bluetooth Device Drivers Download: Compatible with Windows 11 & 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-solution-for-updating-broadcom-netlink-gigabit-ethernet-drivers-on-windows-10-systems/"><u>Complete Solution for Updating Broadcom NetLink Gigabit Ethernet Drivers on Windows 10 Systems</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/cut-to-impact-video-editing-secrets-for-instagram-professionals-for-2024/"><u>Cut to Impact Video Editing Secrets for Instagram Professionals for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-top-tier-pc-parts-with-toms-hardware-reviews/"><u>Discover Top-Tier PC Parts with Tom's Hardware Reviews</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722966394637-free-canon-printer-driver-downloads-and-latest-updates-get-started-now/"><u>Free Canon Printer Driver Downloads and Latest Updates - Get Started Now</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-honor-play-8t-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Honor Play 8T Location by Number | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-s23-ultra-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy S23 Ultra to Outlook | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-crafting-captivating-edu-vids-on-youtube-a-step-by-step-guide/"><u>In 2024, Crafting Captivating Edu-Vids on YouTube A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/iphone-15-assessment-top-suggestions-and-insights-for-expert-audience-techinsight/"><u>IPhone 15 Assessment: Top Suggestions and Insights for Expert Audience | TechInsight</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolving-issues-the-newest-fix-for-the-acpi-drivers-in-dells-smo8-cuisine/"><u>Resolving Issues: The Newest Fix for the ACPI Drivers in Dell's SMO8 Cuisine.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-driver-installation-for-brother-mfc-l2700dw-in-windows-environments/"><u>Step-by-Step Driver Installation for Brother MFC-L2700DW in Windows Environments</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-updating-your-canon-mg3000-printing-system/"><u>Step-by-Step Guide: Updating Your Canon MG3000 Printing System</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-alert-lenovo-laptop-external-docking-station-firmware/"><u>Update Alert: Lenovo Laptop External Docking Station Firmware</u></a></li>
 </ul></div>
 

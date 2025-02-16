@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Cyber Monday Offers on Apple MacBook Air with New M2 Processor: Snap Up the Ultimate Discounts at ZDNet!"
-date: 2025-01-29T00:22:56.739Z
-updated: 2025-02-02T18:54:55.839Z
+date: 2025-02-14T22:33:09.340Z
+updated: 2025-02-15T21:45:33.337Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -75,7 +75,7 @@ Of course, I can't forget the speaker system. Dell's Inspiron 14 2-in-1 has a ni
 For the battery, I performed ZDNET's usual test of running a medium load on the laptop. This consists of playing a YouTube livestream nonstop at 720p and 50% brightness. I clocked the Inspiron 2-in-1 at about eight hours max while on Best Power Efficiency mode. Not too shabby; that's enough to last you a whole day, although it would've been nice if it lasted 10 or 12 hours. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,20 +114,24 @@ I also recommend picking Midnight Blue as your laptop color. The Ice Blue option
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-frontline-contenders-top-7-action-fps-games/"><u>[Updated] 2024 Approved Frontline Contenders Top 7 Action FPS Games</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amazons-limited-time-offer-get-an-8tb-samsung-t5-nvme-ssd-for-up-to-36-less-exclusive-info-by-zdnet/"><u>Amazon's Limited-Time Offer: Get an 8TB Samsung T5 NVMe SSD for Up to 36% Less – Exclusive Info by ZDNET</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebook-faces-setback-with-ios-145-update/"><u>Facebook Faces Setback with iOS 14.5 Update</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-realme-gt-5-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Realme GT 5? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-honor-x7b-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Honor X7b Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-high-flying-brain-games-top-11-knowledge-channels/"><u>In 2024, High-Flying Brain Games Top 11 Knowledge Channels</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-swiftly-craft-custom-thumbnails-for-youtube-shorts-with-these-hacks/"><u>In 2024, Swiftly Craft Custom Thumbnails for YouTube Shorts with These Hacks</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/leading-usb-wi-fi-dongles-for-optimal-connectivity-2024-edition/"><u>Leading USB Wi-Fi Dongles for Optimal Connectivity - 2024 Edition</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/overcoming-fear-of-ai-in-education-8-strategic-advantages-for-teachers-and-students/"><u>Overcoming Fear of AI in Education: 8 Strategic Advantages for Teachers and Students</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/save-big-top-choice-macbook-usb-c-chargers-under-70-available-today-at-amazon-zdnet/"><u>Save Big: Top Choice MacBook USB-C Chargers Under $70 - Available Today at Amazon! - ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-overlooked-gem-of-multifunction-devices-discover-zdnets-picks-for-office-productivity-boosters/"><u>The Overlooked Gem of Multifunction Devices : Discover ZDNet's Picks for Office Productivity Boosters</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-laptop-picks-for-2nndvier-comprehensive-testing-and-reviews-by-pros/"><u>Top-Rated Laptop Picks for 2Nndvier: Comprehensive Testing & Reviews by Pros</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-tier-price-cut-metas-latest-offer-on-the-512gb-oculus-quest-3-a-leading-pick-for-current-virtual-reality-bargains/"><u>Top-Tier Price Cut: Meta's Latest Offer on the 512GB Oculus Quest 3 - A Leading Pick for Current Virtual Reality Bargains</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-preventing-metro-exodus-pc-enhanced-edition-from-shutdown-failures/"><u>Troubleshooting Guide: Preventing Metro Exodus PC Enhanced Edition From Shutdown Failures</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/upgrade-your-storage-with-8tb-samsung-t5-ssd-at-36-off-check-out-the-deal-on-amazon-today-insider-info-by-zdnet/"><u>Upgrade Your Storage with 8TB Samsung T5 SSD at 36% Off! Check Out the Deal on Amazon Today - Insider Info by ZDNET</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-exploring-magix-media-editor/"><u>[New] 2024 Approved Exploring MAGIX Media Editor</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-paving-the-pathway-to-popularity-thriving-on-instagram/"><u>[Updated] Paving the Pathway to Popularity Thriving on Instagram</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-radeon-rx-email-protected-free-drivers-available-for-win11-win10-win8-and-win7/"><u>AMD Radeon RX ^ [Email Protected] ^ - Free Drivers Available for Win11, Win10, Win8 & Win7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/canon-mf8500c-driver-installation-guide-for-windows-7-to-10-users/"><u>Canon MF8500C Driver Installation Guide for Windows 7 to 10 Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-canon-mf8500c-printer-drivers-compatible-with-windows-7-81-and-10/"><u>Download Canon MF8500C Printer Drivers: Compatible with Windows 7, 8.1 & 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fix-realtek-rtl8723be-driver-issue/"><u>Fix Realtek RTL8723BE Driver Issue</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722979109565-get-your-zebra-gk420d-driver-now-fast-easy-installation-guide-included/"><u>Get Your Zebra GK420D Driver Now – Fast, Easy Installation Guide Included</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-to-flawlessly-merge-streamlabs-and-obs-on-mac/"><u>How to Flawlessly Merge Streamlabs & OBS on Mac</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-11-pro-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 11 Pro To Other iPhone 14 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722976133230-hp-spectre-x360-windows-drivers-get-them-here/"><u>HP Spectre X360 Windows Drivers - Get Them Here!</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-how-to-adjust-audio-volume-in-videos-4-ways/"><u>In 2024, How to Adjust Audio Volume in Videos 4 Ways</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-lenovo-thinkphone-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Lenovo ThinkPhone Phones</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722971791012-magicard-rio-professional-racing-game-drivers-update-now-on-windows-10817/"><u>Magicard Rio Professional Racing Game Drivers Update – Now on Windows 10/8.1/7</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/231044-9781420909609-mysticism/"><u>Mysticism | Free Book</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/restoring-erased-phone-details-on-android-devices-techniques-and-tips/"><u>Restoring Erased Phone Details on Android Devices - Techniques and Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transition-from-apples-finewoven-to-high-quality-beats-leather-and-fabric-cases-exclusive-insights-by-zdnet/"><u>Transition From Apple's FineWoven to High-Quality Beats Leather & Fabric Cases | Exclusive Insights by ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-installing-new-steelseries-gamepads-and-controllers-windows-compatibility/"><u>Ultimate Guide: Installing New SteelSeries Gamepads & Controllers - Windows Compatibility</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upgrade-to-best-in-class-graphics-download-nvidias-newest-geforce-drivers-for-your-pc/"><u>Upgrade to Best-in-Class Graphics: Download Nvidia's Newest GeForce Drivers for Your PC</u></a></li>
 </ul></div>
 

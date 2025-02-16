@@ -1,7 +1,7 @@
 ---
 title: Navigating the Latest in Technology with Insights From Tom's Hardware
-date: 2024-08-19T04:27:19.148Z
-updated: 2024-08-20T04:27:19.148Z
+date: 2025-02-10T06:42:57.296Z
+updated: 2025-02-16T03:54:54.650Z
 tags:
   - monitor
 categories:
@@ -17,6 +17,10 @@ For those who deal with fatigue while looking at a screen, there's always paper.
 
  Working with Dave Crossland and Wenting Zhang, (aka @zephray\_wenting who you may remember for documenting his adventures with a[prison laptop](https://tools.techidaily.com) ), Soto successfully created his ideal monitor. Since its software and hardware are both open-sourced via[GitHub](https://github.com/Modos-Labs/Glider) , ambitious enough DIYers may be enabled to create this display or a similar display for themselves.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Modos Tech Paper Monitor Core Specs
 
 * **Panel Type** : Monochrome E-Ink (optional Full-Color Panel also available)
@@ -28,6 +32,10 @@ For those who deal with fatigue while looking at a screen, there's always paper.
  For many, the most important aspect may be the low latench. Modos is promising "a consistent < 120ms latency, compared to competitors, up to 270ms latency," which would make it pretty fast.
 
  LATEST VIDEOS FROM tomshardware Tom's Hardware
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Modos Tech Paper Monitor Display Modes
 
@@ -42,9 +50,9 @@ For those who deal with fatigue while looking at a screen, there's always paper.
  In any case, those who are interested can submit their information to the Modos Paper Monitor's[Crowd Supply page](https://www.crowdsupply.com/modos-tech/modos-paper-monitor) to be kept in the loop for future updates. This does seem like a nice companion for those wanting to reduce their eyestrain, though its small size makes it seem more like a laptop companion than a desktop-appropriate display.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -59,8 +67,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -68,4 +74,23 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-grasp-the-typical-earning-curve-for-podcasters/"><u>[New] Grasp the Typical Earning Curve for Podcasters</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-zero-to-cool-video-star-your-mac-youtube-journey-starts-here/"><u>[New] In 2024, From Zero to Cool Video Star Your Mac Youtube Journey Starts Here</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-unleash-potential-the-best-10-motivational-movies/"><u>[New] Unleash Potential The Best 10 Motivational Movies</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-game-capturing-excellence-the-best-of-windows-11-methods-unveiled-for-2024/"><u>[Updated] Game Capturing Excellence The Best of Windows 11 Methods Unveiled for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-unlocking-the-power-of-instagrams-visual-storytelling-covers-edition-for-2024/"><u>[Updated] Unlocking the Power of Instagram's Visual Storytelling Covers Edition for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-install-brother-mfc-7360n-printer-drivers-for-windows-10-8-and-eby-latest-updates-available/"><u>Easy Install: Brother MFC-7360N Printer Drivers for Windows 10, 8 & Eby | Latest Updates Available</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-guide-how-to-retrieve-the-newest-amd-graphics-drivers-instantly/"><u>Effortless Guide: How to Retrieve the Newest AMD Graphics Drivers Instantly</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-download-and-update-intel-uhd-graphics-drivers-on-windows-1011-computers/"><u>How to Download and Update Intel UHD Graphics Drivers on Windows 10/11 Computers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-or-update-your-microsoft-bluetooth-drivers-for-windows-11-10-8-and-7/"><u>How to Install or Update Your Microsoft Bluetooth Drivers for Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-show-wi-fi-password-on-lava-blaze-2-pro-by-drfone-android/"><u>How to Show Wi-Fi Password on Lava Blaze 2 Pro</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-step-into-the-rhythm-of-social-video-editing-with-music/"><u>In 2024, Step Into the Rhythm of Social Video Editing with Music</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-oneplus-nord-3-5g-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your OnePlus Nord 3 5G Phone Hassle-Free</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-setup-fresh-printer-drivers-for-your-hp-officejet-3830-compatible-with-windows/"><u>Quick Setup: Fresh Printer Drivers for Your HP OfficeJet 3830 - Compatible with Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolved-troubleshoot-bcm2045a0-driver-problems-with-simple-steps/"><u>Resolved: Troubleshoot BCM2045A0 Driver Problems with Simple Steps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-role-of-generative-ai-in-facilitating-todays-disinformation-campaigns-an-analysis/"><u>The Role of Generative AI in Facilitating Today's Disinformation Campaigns: An Analysis</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshoot-and-enhance-updating-webcam-drivers-on-the-latest-windows-os/"><u>Troubleshoot & Enhance: Updating Webcam Drivers on the Latest Windows OS</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Elevate Your Game Day Audio: Grab the Epic Gaming Headset System for 35%% Off at Amazon - The Inside Scoop by ZDNET"
-date: 2025-01-28T00:13:08.121Z
-updated: 2025-02-03T04:05:15.953Z
+date: 2025-02-09T01:05:05.763Z
+updated: 2025-02-16T02:01:00.348Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an AMD Radeon RX 6550M graphics card and a screen capable of a 144Hz
 With 8GB of RAM, a 512GB SSD, and an AMD Ryzen 5 7000 series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,20 +63,16 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ost-effective-techniques-for-youtube-intro-creation/"><u>[New] Cost-Effective Techniques for YouTube Intro Creation</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-instagram-video-tricks-uncovered-for-2024/"><u>[New] Instagram Video Tricks Uncovered for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-editors-workshop-enhancing-your-youtube-video-visibility/"><u>[Updated] Editor's Workshop Enhancing Your Youtube Video Visibility</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/an-easy-to-follow-guide-adding-youtube-playlists-to-your-online-platform-for-2024/"><u>An Easy-to-Follow Guide Adding YouTube Playlists to Your Online Platform for 2024</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/essential-usb-c-gadgets-every-tech-enthusiast-needs-perfect-for-both-mac-and-pc-with-8k-display-compatibility-techradar/"><u>Essential USB-C Gadgets Every Tech Enthusiast Needs – Perfect for Both Mac & PC with 8K Display Compatibility | TechRadar</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-tips-for-maintaining-a-fresh-look-on-your-macbook-pro-a-guide-from-zdnet/"><u>Expert Tips for Maintaining a Fresh Look on Your MacBook Pro: A Guide From ZDNet</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-infinix-note-30-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Infinix Note 30 Location | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/the-premier-screen-recording-software-roundup-for-2024/"><u>The Premier Screen Recording Software Roundup for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-and-tricks-for-revoking-read-only-in-win11/"><u>Tips and Tricks for Revoking Read-Only in Win11</u></a></li>
-<li><a href="https://fox-http.techidaily.com/toolwiz-for-professionals-a-thorough-app-assessment/"><u>Toolwiz for Professionals A Thorough App Assessment</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-5-longest-lasting-laptop-batteries-a-comprehensive-review-by-techradar/"><u>Top 5 Longest-Lasting Laptop Batteries : A Comprehensive Review by TechRadar</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unleashing-potential-from-home-discover-why-the-new-hp-copilotplus-is-essential-for-remote-workers-as-endorsed-on-zdnet/"><u>Unleashing Potential From Home? Discover Why the New HP Copilot+ Is Essential for Remote Workers, as Endorsed on ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-dells-latest-innovation-the-xps-laptops-that-exceed-all-expectations-review/"><u>Unveiling Dell's Latest Innovation: The XPS Laptops That Exceed All Expectations Review</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/why-savvy-users-choose-these-high-performance-windows-notebooks-over-the-macbook-air/"><u>Why Savvy Users Choose These High-Performance Windows Notebooks Over the MacBook Air</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-screen-casting-features-in-vlc-examined/"><u>[New] In 2024, Screen Casting Features in VLC Examined</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-premium-online-streams-convert-youtube-to-mp3-instantly/"><u>[Updated] In 2024, Premium Online Streams Convert YouTube to MP3 Instantly</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-top-8-subtitle-editors-transforming-into-srt-format-for-windows-and-macos-for-2024/"><u>[Updated] Top 8 Subtitle Editors Transforming Into SRT Format for Windows & MacOS for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-honor-x7b-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Honor X7b</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-guide-updating-your-webcam-drivers-on-windows-10/"><u>Easy Guide: Updating Your Webcam Drivers on Windows 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-steps-to-install-latest-drivers-on-an-acer-nitro-5-laptop-or-desktop/"><u>Easy Steps to Install Latest Drivers on an Acer Nitro 5 Laptop or Desktop</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-download-of-hp-universal-print-software-for-windows-users/"><u>Effortless Download of HP Universal Print Software for Windows Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-and-install-your-dells-network-drivers-on-windows-7/"><u>Find and Install Your Dell's Network Drivers on Windows 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-thunderbolt-device-drivers-for-windows-systems-install-now/"><u>Free Thunderbolt Device Drivers for Windows Systems - Install Now</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/high-end-humor-scripts/"><u>High-End Humor Scripts</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Xiaomi Redmi Note 12R? | Dr.fone</u></a></li>
 </ul></div>
 

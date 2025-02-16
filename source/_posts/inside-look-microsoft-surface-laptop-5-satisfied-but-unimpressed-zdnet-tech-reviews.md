@@ -1,7 +1,7 @@
 ---
 title: "Inside Look: Microsoft Surface Laptop 5 - Satisfied but Unimpressed | ZDNet Tech Reviews"
-date: 2025-01-30T20:03:46.149Z
-updated: 2025-02-03T03:30:37.078Z
+date: 2025-02-14T04:34:33.408Z
+updated: 2025-02-16T06:20:43.341Z
 tags:
   - laptops
 categories:
@@ -41,7 +41,7 @@ All of the precision-machined cases and blazing-fast performance here couldn't m
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -56,6 +56,10 @@ All of the precision-machined cases and blazing-fast performance here couldn't m
 | Connectivity    | Wi-Fi 6, Bluetooth 5.1                                                                     |
 | Ports           | 1 x USB-C 4.0/Thunderbolt 4, 1 x USB-A 3.1, 3.5mm headphone jack, 1 x Surface Connect Port |
 | Size and weight | 12.1 L x 8.8 W x .57 H inches, 2.8 lbs                                                     |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How's the build quality?
 
@@ -74,10 +78,6 @@ Michael Gariffo/ZDNET
 **A note about materials**: My review unit was the all-aluminum model. Microsoft offers configurations with Alcantara material on the keyboard deck. If you hate the feel of cold metal on your wrists, it could be a great option. But, I'd consider the trials and tribulations you put your laptop through, and how that material will hold up to them, before buying. 
 
 **More: [The best laptops: Does Apple take the crown?](https://www.zdnet.com/article/best-laptop/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Features and ports
 
@@ -140,7 +140,7 @@ This might be forgivable in a budget model. But even the base config [Surface La
 **More: [The 10 best webcams: Join your next Zoom call in HD](https://www.zdnet.com/article/best-webcam/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Performance and battery life
@@ -166,7 +166,7 @@ Overall, I'd have no qualms about leaving my charger at home and expecting to ge
 [Microsoft Surface Laptop 5 $1,117 at Walmart](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F1738938556&subId1=zd-__COM_CLICK_ID__-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -176,7 +176,7 @@ I may seem like I had high standards for this review, and I did. This is a flags
 If you never videoconference or if wasted space around your display doesn't bother you, you're looking at the best Windows laptop you could buy right now. Even if those things do irk a bit, I'd recommend balancing them against the exceptional performance, build, and aesthetics. The Surface Laptop 5 is frustratingly close to being that universal leader among Windows portables that Microsoft wants it to be. But, if Microsoft wants that crown, I hope it updates the components that held this generation back when it comes time to design the Surface Laptop 6.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -227,19 +227,24 @@ Dell's latest entry in the XPS 13 lineup looks like it comes from further down t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/igh-end-sound-pumping-tools-pcs-and-smartphones/"><u>[New] High-End Sound Pumping Tools PCs & Smartphones</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-11-best-color-correction-and-color-grading-tutorial/"><u>[Updated] 11 Best Color Correction and Color Grading Tutorial</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-discovering-japanese-style-snap-creativity-on-snapchat/"><u>[Updated] In 2024, Discovering Japanese-Style Snap Creativity on Snapchat</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-blueprint-designing-your-first-youtube-trailer/"><u>[Updated] The Blueprint Designing Your First YouTube Trailer</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-youtube-creator-summit-a-getaway-for-youtubes-top-talent/"><u>2024 Approved The YouTube Creator Summit - A Getaway for YouTube's Top Talent</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/2024s-leading-smart-electric-radiators-reviewed-for-ultimate-home-comfort/"><u>2024'S Leading Smart Electric Radiators Reviewed for Ultimate Home Comfort</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-practical-advice-for-documenting-online-conferencing-sessions/"><u>In 2024, Practical Advice for Documenting Online Conferencing Sessions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/introducing-the-revolutionary-upgrade-lenovo-enhances-essential-functionality-in-latest-2-in-1-thinkpad-for-professionals-insights/"><u>Introducing the Revolutionary Upgrade: Lenovo Enhances Essential Functionality in Latest 2-in-1 ThinkPad for Professionals - Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-mac-customization-changing-command-key-settings-as-explained-by-zdnet/"><u>Mastering Mac Customization: Changing Command Key Settings as Explained by ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-expanding-realm-of-deprecated-mac-devices-apple-introduces-9-additional-models-to-obsolete-roster-zdnet-analysis/"><u>The Expanding Realm of Deprecated Mac Devices - Apple Introduces 9 Additional Models to 'Obsolete' Roster | ZDNet Analysis</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-110-unbeatable-seasonal-bargains-on-tech-gadgets-including-iphones-televisions-notebooks-and-extra-explore-savings-at-zdnet/"><u>Top 110 Unbeatable Seasonal Bargains on Tech Gadgets Including iPhones, Televisions, Notebooks & Extra! - Explore Savings at ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-ranking-touchscreen-laptop-picks-thoroughly-evaluated-by-tech-gurus-a-comprehensive-guide/"><u>Top-Ranking Touchscreen Laptop Picks: Thoroughly Evaluated by Tech Gurus - A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-discounted-laptops-on-prime-day-sale-event-october-2024-highlights-zdnet/"><u>Top-Rated Discounted Laptops on Prime Day Sale Event - October 2024 Highlights | ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/transforming-workspace-comfort-a-first-hand-experience-of-going-ergonomic-for-a-week-and-its-impact-on-other-gadgets-powered-by-zdnet/"><u>Transforming Workspace Comfort: A First-Hand Experience of Going Ergonomic for a Week & Its Impact on Other Gadgets | Powered by ZDNET</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-android-and-iphone-select-top-tier-mobile-multimedia-tools/"><u>[New] Android & iPhone Select Top-Tier Mobile Multimedia Tools</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-instagram-and-soundtracks-demystifying-legalities/"><u>[New] Instagram & Soundtracks Demystifying Legalities</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-checklist-for-professional-macro-videographers/"><u>[Updated] The Ultimate Checklist for Professional Macro Videographers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-video-show-revamp-complete-analysis-and-guide/"><u>2024 Video Show Revamp - Complete Analysis & Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/acer-monitor-drivers-find-download-and-install-correctly-today/"><u>Acer Monitor Drivers - Find, Download & Install Correctly Today</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/brother-hl-l2340dw-printer-drivers-direct-download-links-for-windows-users-looking-to-improve-their-print-experience/"><u>Brother HL-L2340DW Printer Drivers: Direct Download Links for Windows Users Looking to Improve Their Print Experience</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ct-cost-effective-seminars-using-youtube-for-2024/"><u>Conduct Cost-Effective Seminars Using YouTube for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/corsair-h80i-v2-latest-driver-installation-guide-and-download-links/"><u>Corsair H80i v2: Latest Driver Installation Guide and Download Links</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-acers-latest-wifi-drivers-for-free-fast-and-simple-setup/"><u>Download Acer's Latest WiFi Drivers for Free - Fast and Simple Setup</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-our-top-picks-the-15-best-free-bootable-anti-virus-solutions-available-online/"><u>Explore Our Top Picks: The 15 Best Free Bootable Anti-Virus Solutions Available Online</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-and-install-the-newest-printer-driver-for-your-epson-wf-2760-on-windows-81011/"><u>Find and Install the Newest Printer Driver for Your Epson WF-2760 on Windows 8/10/11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-xiaomi-redmi-k70e-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Xiaomi Redmi K70E IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unveiling-the-art-of-youtube-split-screens/"><u>In 2024, Unveiling the Art of YouTube Split-Screens</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-up-to-date-drivers-for-your-hp-elitebook-x360-model-1030-g2/"><u>Install Up-to-Date Drivers for Your HP EliteBook X360 Model 1030 G2</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-official-dell-bluetooth-software-and-driver-packs-for-windows-systems/"><u>Installing Official Dell Bluetooth Software & Driver Packs for Windows Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/techkey-bluetooth-adapter-software-downloads-supported-by-windows-10-7-and-8-systems/"><u>Techkey Bluetooth Adapter Software Downloads – Supported by Windows 10, 7, and 8 Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unbeatable-labor-day-blowout-grab-your-discounted-2astoffer-at-zdnet-for-up-to-700-off-the-latest-ipad-pro/"><u>Unbeatable Labor Day Blowout: Grab Your Discounted 2Astoffer at ZDNet for Up to $700 Off the Latest iPad Pro</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlock-full-potential-of-your-pc-get-the-newest-asus-z170-a-driver-software-supporting-windows-10-8-and-7/"><u>Unlock Full Potential of Your PC: Get the Newest ASUS Z170-A Driver Software Supporting Windows 10, 8 & 7</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/why-youll-love-the-curves-of-samsung-ru7300-our-expert-take-on-this-stunning-55-smart-led-tv/"><u>Why You'll Love the Curves of Samsung RU7300 - Our Expert Take on This Stunning 55 Smart LED TV</u></a></li>
 </ul></div>
 

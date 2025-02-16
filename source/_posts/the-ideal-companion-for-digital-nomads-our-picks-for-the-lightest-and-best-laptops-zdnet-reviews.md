@@ -1,7 +1,7 @@
 ---
 title: "The Ideal Companion for Digital Nomads: Our Picks for the Lightest & Best Laptops | ZDNet Reviews"
-date: 2025-01-30T05:59:08.809Z
-updated: 2025-02-02T17:36:36.439Z
+date: 2025-02-14T20:23:49.464Z
+updated: 2025-02-15T16:36:12.023Z
 tags:
   - laptops
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/00d8a989d7a324ab139f90cea816e72b6f2451ab8
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -93,7 +93,7 @@ Compared to a MacBook, one could argue that the Yoga Slim 7x is at least better 
 The MacBook is better suited for the iOS ecosystem, however Lenovo has been making strides in developing a data transfer feature between its laptop and iPhones. So if you're not sure which one to get, the Yoga Slim 7x might be the better long-term investment.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -134,24 +134,21 @@ Creators might also appreciate the fact that Lenovo is also giving [two free mon
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-bring-back-windows-photo-viewer-steps-in-win-11-edition/"><u>[New] Bring Back Windows Photo Viewer Steps in Win 11 Edition</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-collaborative-filmmaking-teamwork-in-producing-instagram-content/"><u>[New] Collaborative Filmmaking Teamwork in Producing Instagram Content</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-textual-enhancement-techniques-for-instagram-live-and-igtv/"><u>[New] In 2024, Textual Enhancement Techniques for Instagram Live and IGTV</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-advanced-users-techniques-for-effective-macscreencasting/"><u>[Updated] 2024 Approved Advanced Users Techniques for Effective MacScreencasting</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-televisions-as-a-window-to-facebook-world-vids/"><u>[Updated] In 2024, Televisions as a Window to Facebook World Vids</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-perfect-pair-merging-your-youtube-video-library/"><u>[Updated] Perfect Pair Merging Your YouTube Video Library</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-the-best-bargain-on-high-performance-computing-secure-your-new-gigabyte-aero-16-at-half-price-endorsed-by-zdnet-for-gamers-and-professionals-alike.66/"><u>Discover the Best Bargain on High-Performance Computing: Secure Your New Gigabyte Aero 16 at Half Price, Endorsed by ZDNet for Gamers and Professionals Alike!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-the-leading-productivity-laptop-thats-not-from-lenovo-or-apple-exclusive-review/"><u>Discover the Leading Productivity Laptop That's Not From Lenovo or Apple: Exclusive Review</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-ignite-social-media-fanfare-master-these-9-instagram-commandments/"><u>In 2024, Ignite Social Media Fanfare Master These 9 Instagram Commandments</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/leverage-free-luts-to-upgrade-your-obs-video-production-quality/"><u>Leverage Free LUTs to Upgrade Your OBS Video Production Quality</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-tech-with-tom-a-comprehensive-guide-to-new-and-improved-systems/"><u>Navigating Tech with Tom: A Comprehensive Guide to New and Improved Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/picking-perfect-portability-or-power-macbook-air-versus-macbook-pro-find-your-ideal-apple-device-zdnet/"><u>Picking Perfect Portability or Power: MacBook Air Versus MacBook Pro – Find Your Ideal Apple Device | ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/prime-day-countdown-unbeatable-deals-and-tips-to-score-on-amazons-shopping-fiesta-zdnet-analysis/"><u>Prime Day Countdown: Unbeatable Deals & Tips to Score on Amazon's Shopping Fiesta | ZDNET Analysis</u></a></li>
-<li><a href="https://win11.techidaily.com/resolve-missing-external-devices-in-microsoft-system/"><u>Resolve Missing External Devices in Microsoft System</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/snag-the-deal-samsung-8tb-portable-ssd-t5-holds-a-steady-36-discount-on-amazon-insights-from-zdnet/"><u>Snag the Deal: Samsung 8TB Portable SSD T5 Holds a Steady 36% Discount on Amazon, Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-all-rounder-how-this-powerhouse-laptop-won-hearts-and-delivers-quality-performance/"><u>The Ultimate All-Rounder: How This Powerhouse Laptop Won Hearts and Delivers Quality Performance</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-gaming-discounts-on-prime-day-sale-october-2024-edition-zdnet/"><u>Top Gaming Discounts on Prime Day Sale - October 2024 Edition | ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-picks-for-gaming-laptop-powerhouses-comparing-razer-acer-and-msi-on-zdnet/"><u>Top Picks for Gaming Laptop Powerhouses - Comparing Razer, Acer & MSI on ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-streaming-webcams-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top Rated Streaming Webcams : Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-omniscope-networking-an-experts-guide-to-selecting-a-media-company/"><u>[New] OmniScope Networking An Expert's Guide to Selecting a Media Company</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-unleash-your-inner-influencer-9-essential-instagram-steps/"><u>[Updated] 2024 Approved Unleash Your Inner Influencer 9 Essential Instagram Steps</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-building-an-online-empire-through-effective-marketing/"><u>[Updated] Building an Online Empire Through Effective Marketing</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/asus-usb-bt50-bluetooth-drivers-for-windows-fresh-download-guide-versions-11-10-and-eb/"><u>Asus USB-BT50 Bluetooth Drivers for Windows: Fresh Download Guide (Versions 11, 10 & Eb)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/charging-your-ev-at-home-everything-you-need-to-know/"><u>Charging Your EV at Home: Everything You Need to Know</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-the-persistent-halo-e4ue4-crash-glitches-edition/"><u>Effective Solutions for the Persistent Halo E4UE4 Crash Glitches Edition</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722973801750-fast-and-easy-installation-of-intel-chipset-drivers-get-them-now/"><u>Fast and Easy Installation of Intel Chipset Drivers - Get Them Now!</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-dive-into-iphones-audio-memos-made-simple/"><u>In 2024, Dive Into iPhone's Audio Memos Made Simple</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-logitech-rx-250-mouse-driver-complete-guide-for-windows-users-windows-7-to-10/"><u>Installing Logitech RX-250 Mouse Driver: Complete Guide for Windows Users (Windows 7 to 10)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722974742434-installing-printer-drivers-made-simple-epson-wf-2750-software-free/"><u>Installing Printer Drivers Made Simple - Epson WF-2750 Software FREE</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-elevating-your-home-films-auditory-impact-a-2023-perspective/"><u>New Elevating Your Home Films Auditory Impact A 2023 Perspective</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/no-cost-all-benefits-with-fcp-downloads-for-2024/"><u>No Cost, All Benefits with FCP Downloads for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722965049767-quick-and-easy-guide-to-installing-microsoft-ergonomic-keyboard-4000-get-the-latest-drivers-now/"><u>Quick & Easy Guide to Installing Microsoft Ergonomic Keyboard 4000 - Get the Latest Drivers Now</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedying-windows-activation-flaw-error-0x803f700f/"><u>Remedying Windows Activation Flaw: Error 0X803F700F</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722965734229-roccat-mouse-suite-free-downloads-available-now/"><u>Roccat Mouse Suite - Free Downloads Available Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-windows-11-when-it-wont-recognize-your-external-hardware/"><u>Troubleshooting Windows 11 When It Won't Recognize Your External Hardware</u></a></li>
 </ul></div>
 

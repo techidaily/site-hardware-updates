@@ -1,7 +1,7 @@
 ---
 title: "Massive $950 Off: Snap Up Lenovo's Premium Office Laptop Before October's Prime Deals - Insider Tips From ZDNet"
-date: 2025-01-27T03:51:29.727Z
-updated: 2025-02-03T00:43:48.085Z
+date: 2025-02-10T21:43:53.147Z
+updated: 2025-02-16T06:34:38.518Z
 tags:
   - laptops
 categories:
@@ -38,7 +38,7 @@ This laptop isn't solely for business professionals. Everybody can enjoy the dev
 Right now is the best time to buy this device. The [Lenovo Gen 12 ThinkPad X1 Carbon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D1D5J1J1%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cddc033e3-08fa-42b2-b4fe-eb896d4675a3%7Cdtp&dtb=1) is currently on sale at Amazon for $1,500\. That is almost $1,000 off the original price. I should also mention that there is a variant of the laptop with a 2.8K OLED display, which is the model [I tested back in February](https://www.zdnet.com/article/the-thinkpad-i-recommend-for-hybrid-workers-is-not-lenovos-newest-model/). The [OLED version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D5SNKGZ4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cddc033e3-08fa-42b2-b4fe-eb896d4675a3%7Cdtp&dtb=1) is much more expensive, but I recommend it as an alternative if you can afford it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -75,19 +75,20 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://solve-manuals.techidaily.com/wdbackupico-windows-1011/"><u>簡易操作：WD雲端同步及Backup@ICO - Windows 10/11版本下載</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/achieve-high-quality-streams-the-top-4k-youtube-tools-for-2024/"><u>Achieve High-Quality Streams The Top 4K YouTube Tools for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/ai-powered-screen-webcam-and-microphone-recording-made-easy-with-winxvideo/"><u>AI-Powered Screen, Webcam & Microphone Recording Made Easy with WinxVideo!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/beyond-hp-and-lenovo-discover-the-best-performing-2-in-1-laptops-tested-by-experts-at-zdnet/"><u>Beyond HP & Lenovo: Discover the Best Performing 2-in-1 Laptops Tested by Experts at ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-the-hidden-charge-capabilities-exploring-the-12-in-1-thunderbolt-docks-unique-power-perk-for-pc-enthusiasts-insights-from-zdnet/"><u>Discover the Hidden Charge Capabilities: Exploring the 12-in-1 Thunderbolt Dock's Unique Power Perk for PC Enthusiasts - Insights From ZDNet</u></a></li>
-<li><a href="https://extra-information.techidaily.com/elevate-your-video-aesthetics-with-obss-customizable-luts/"><u>Elevate Your Video Aesthetics with OBS's Customizable LUTs</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-unlock-6-figure-visibility-on-youtube-via-optimal-hashtags/"><u>In 2024, Unlock 6-Figure Visibility on YouTube via Optimal Hashtags</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/luminous-techniques-for-web-based-cinema/"><u>Luminous Techniques for Web-Based Cinema</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/mastery-of-the-blink-security-camera-a-comprehensive-walkthrough-on-the-fourth-gen-model/"><u>Mastery of the Blink Security Camera: A Comprehensive Walkthrough on the Fourth Gen Model</u></a></li>
-<li><a href="https://fox-that.techidaily.com/maximizing-image-quality-tips-for-iphones-with-low-mp-cameras/"><u>Maximizing Image Quality: Tips for iPhones with Low MP Cameras</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/new-eco-friendly-asus-laptops-tailored-for-professionals-and-learners-explore-green-tech-at-work-and-study/"><u>New Eco-Friendly Asus Laptops Tailored for Professionals and Learners - Explore Green Tech at Work and Study!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/save-big-with-high-quality-macbook-charger-deals-for-less-than-70-on-amazon-insider-tips-by-zdnet/"><u>Save Big with High-Quality MacBook Charger Deals for Less Than $70 on Amazon | Insider Tips by ZDNET</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-failed-plugin-loads-on-google-chrome-for-windows-11-users/"><u>Troubleshooting Failed Plugin Loads on Google Chrome for Windows 11 Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/why-the-latest-wave-of-arm-ready-windows-software-is-game-changing-news/"><u>Why the Latest Wave of ARM-Ready Windows Software Is Game-Changing News</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-from-novice-to-nifty-mastering-snapchats-digital-artistry-for-2024/"><u>[New] From Novice to Nifty Mastering Snapchat’s Digital Artistry for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-master-windows-10s-native-features-to-cut-videos-instantly/"><u>[New] Master Windows 10'S Native Features to Cut Videos Instantly</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-top-techniques-live-streaming-games-via-obs-for-2024/"><u>[New] Top Techniques Live-Streaming Games via OBS for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-quick-witness-youtube-techniques-for-rapid-rendering-for-2024/"><u>[Updated] Quick-Witness YouTube Techniques for Rapid Rendering for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-upgrade-netgear-wireless-network-adapter-drivers-easy-guide/"><u>Download and Upgrade NETGEAR Wireless Network Adapter Drivers - Easy Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-downloading-and-installing-epson-wf-2630-drivers-on-windows-systems-71081/"><u>Easy Guide to Downloading and Installing Epson WF-2630 Drivers on Windows Systems (7/10/8.1)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-top-performance-the-ultimate-guide-to-epson-xp-640-driver-update-on-windows/"><u>Ensure Top Performance: The Ultimate Guide to Epson XP-640 Driver Update on Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-gigaware-serial-converter-software-and-installers-compatible-with-microsoft-windows-os/"><u>Free Gigaware Serial Converter Software and Installers Compatible with Microsoft Windows OS</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-future-together-top-vr-gear/"><u>In 2024, Exploring the Future Together Top VR Gear</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Motorola Edge+ (2023) | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-syncing-songs-safely-with-insta-rules/"><u>In 2024, Syncing Songs Safely with Insta Rules</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-top-tier-pdf-visual-improvements/"><u>In 2024, Top-Tier PDF Visual Improvements</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-window-flicker-issues-on-windows-11-a-comprehensive-guide/"><u>Resolving Window Flicker Issues on Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ricoh-print-management-downloading-and-setting-up-windows-drivers/"><u>Ricoh Print Management: Downloading & Setting Up Windows Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-audio-technica-the-ultimate-guide-for-updating-drivers/"><u>Troubleshooting Audio Technica: The Ultimate Guide for Updating Drivers</u></a></li>
 </ul></div>
 

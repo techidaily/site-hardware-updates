@@ -1,7 +1,7 @@
 ---
 title: Best Buy Anti-Prime Day Alert! Secure Your Discounted HP Victus 지킷랄로피 ($515) - Gaming Laptop Deal Unveiled by ZDNet
-date: 2025-01-30T04:24:32.500Z
-updated: 2025-02-02T22:56:37.058Z
+date: 2025-02-14T06:34:44.224Z
+updated: 2025-02-15T17:52:07.906Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,20 +63,21 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-uncovering-the-efficacy-of-youtubes-4-second-rule/"><u>[Updated] In 2024, Uncovering the Efficacy of YouTube's 4-Second Rule</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/300-savings-alert-find-the-high-performance-asus-vivobook-pro-now-for-less-only-on-amazon-s-hot-sale/"><u>$300 Savings Alert: Find the High-Performance Asus VivoBook Pro Now for Less Only on Amazon 'S Hot Sale!</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-incorporating-soundscapes-into-your-social-media-masterpieces/"><u>2024 Approved Incorporating Soundscapes Into Your Social Media Masterpieces</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-winning-tools-the-top-five-windows-screen-cutters/"><u>2024 Approved Winning Tools The Top Five Windows Screen Cutters</u></a></li>
-<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-samsung-galaxy-s23-fe-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Samsung Galaxy S23 FE? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/best-buys-prime-day-hot-deals-for-october-202n4-top-picks-still-on-sale-zdnet-insights/"><u>Best Buy's Prime Day Hot Deals for October 202N4: Top Picks Still on Sale | ZDNET Insights</u></a></li>
-<li><a href="https://win-premium.techidaily.com/guia-paso-a-paso-para-replicar-una-particion-entera-con-secure-boot-activo-en-un-ssd-bajo-sistema-operativo-windows/"><u>Guía Paso a Paso Para Replicar Una Partición Entera Con Secure Boot Activo En Un SSD Bajo Sistema Operativo Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hp-envy-x360-black-friday-sale-202n-stunning-2-in-1-laptop-at-40-off-for-only-499-shop-smart/"><u>HP Envy X360 Black Friday Sale 202N: Stunning 2-In-1 Laptop at 40% Off for Only $499 - Shop Smart!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mcafee-introduces-revolutionary-ai-tool-against-deepfakes-assessing-its-trustworthiness/"><u>McAfee Introduces Revolutionary AI Tool Against Deepfakes – Assessing Its Trustworthiness</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-stop-motion-animation-made-easy-top-software-for-mac-and-pc/"><u>New Stop Motion Animation Made Easy Top Software for Mac and PC</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/score-metas-exclusive-512gb-quest-3-at-half-price-the-premier-vr-deal-of-october-prime-days-featured/"><u>Score Meta's Exclusive 512GB Quest 3 at Half-Price: The Premier VR Deal of October Prime Days, Featured</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unbeatable-deal-alert-top-rated-gaming-speakers-now-30-less-on-amazon/"><u>Unbeatable Deal Alert: Top-Rated Gaming Speakers Now 30% Less on Amazon</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unboxing-the-future-of-gaming-how-dells-luxe-3000-laptop-upgraded-my-experience-techradar-insights/"><u>Unboxing the Future of Gaming - How Dell’s Luxe $3,000 Laptop Upgraded My Experience | TechRadar Insights</u></a></li>
-<li><a href="https://windows11.techidaily.com/unexpected-rav-guard-find-its-source-and-quit-methods/"><u>Unexpected Rav Guard? Find Its Source & Quit Methods</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-11s-high-dynamic-range-mastered-for-the-modern-user/"><u>Windows 11'S High Dynamic Range Mastered for the Modern User</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-opening-and-managing-srt-files-seamlessly/"><u>[Updated] In 2024, Opening and Managing SRT Files Seamlessly</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-search-for-auditory-perfection-try-these-top-rated-discord-bots/"><u>[Updated] In Search for Auditory Perfection? Try These Top-Rated Discord Bots</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-exploring-the-depths-of-screen-recording-software/"><u>2024 Approved Exploring the Depths of Screen Recording Software</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-how-to-reply-message-on-discord/"><u>2024 Approved How to Reply Message on Discord</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/chrome-users-rejoice-eliminate-all-pop-up-ads-with-these-4-effective-strategies/"><u>Chrome Users Rejoice: Eliminate All Pop-Up Ads with These 4 Effective Strategies</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-hidden-charge-protection-on-this-versatile-12-port-thunderbolt-hub-a-must-have-for-windows-pcs-according-to-zdnet/"><u>Discover the Hidden Charge Protection on This Versatile 12-Port Thunderbolt Hub: A Must-Have for Windows PCs, According to ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-tips-for-overcoming-realtek-rtl8723be-wireless-drivers-malfunction/"><u>Expert Tips for Overcoming Realtek RTL8723BE Wireless Drivers Malfunction</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-download-of-logitech-high-definition-c525-webcam-drivers-for-microsoft-windows-devices/"><u>Free Download of Logitech High Definition C525 Webcam Drivers for Microsoft Windows Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-download-and-update-your-insignia-bluetooth-cards-drivers-on-pc/"><u>How to Download and Update Your Insignia Bluetooth Card's Drivers on PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/improve-your-pc-graphics-nvidia-geforce-rtx-3080-drivers-for-windows-download-today/"><u>Improve Your PC Graphics: NVIDIA GeForce RTX 3080 Drivers for Windows - Download Today</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolve-corsair-h115i-drivers-conflicts-on-windows-81011-systems/"><u>Resolve Corsair H115i Drivers Conflicts on Windows 8/10/11 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-right-approach-to-install-latest-webcam-drivers-on-dell-devices/"><u>The Right Approach to Install Latest Webcam Drivers on Dell Devices</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ltimate-guide-to-choosing-stunning-thumbnail-fonts/"><u>The Ultimate Guide to Choosing Stunning Thumbnail Fonts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-toughest-and-most-resilient-laptops-expert-reviews-and-buying-guide-techradar/"><u>Top 5 Toughest and Most Resilient Laptops - Expert Reviews & Buying Guide | TechRadar</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unraveling-the-mystery-the-absence-of-facebook-marketplace-on-your-account/"><u>Unraveling the Mystery: The Absence of Facebook Marketplace on Your Account</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722960731876-update-your-nvidia-quadro-rtx-4000-with-the-newest-drivers-here/"><u>Update Your Nvidia Quadro RTX #4000 with the Newest Drivers Here!</u></a></li>
 </ul></div>
 

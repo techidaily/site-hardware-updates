@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Our Laptop Benchmarking Process: A Behind-the-Scenes Look at ZDNet"
-date: 2025-01-28T21:20:51.907Z
-updated: 2025-02-02T22:40:53.710Z
+date: 2025-02-09T05:43:12.166Z
+updated: 2025-02-15T19:43:04.168Z
 tags:
   - laptops
 categories:
@@ -24,6 +24,10 @@ The term laptop is often used interchangeably with Chromebook, but there are som
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is a Chromebook?
 
 A Chromebook is a portable computer [running ChromeOS](https://www.zdnet.com/article/google-chromeos-flex-stable-release-breathes-new-life-to-enterprise-laptops/), a specialized operating system designed by Google to rely more heavily on connected and cloud-based services than traditional operating systems like Windows or MacOS do. Chromebooks look nearly identical to most laptops or notebook PCs, but generally include less powerful hardware due to their reliance on those cloud-based services, instead of locally installed software that requires more horsepower.
@@ -41,7 +45,7 @@ In this comparison, "laptop" refers to portable computers running traditional op
 For example, a person editing a photo on a standard laptop could use locally installed programs like Microsoft Paint, Adobe Photoshop, or GIMP, or photo-editing web apps like [Pixlr](https://pixlr.com/), [Imgur](https://imgur.com/edit?deletehash=TBFOmNPuPRoKQfh), or [Photoshop on the web (beta)](https://photoshop.adobe.com/). A user wanting to complete the same task on a Chromebook would need to rely on web apps, as locally installed options like Paint and Photoshop are not compatible with ChromeOS.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can a Chromebook do everything a laptop can?
@@ -57,7 +61,7 @@ This makes Chromebooks excellent for students, office workers, and anyone who wo
 Getty
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can Chromebooks be used for gaming?
@@ -75,7 +79,7 @@ That said, you can get close to the ideal experience by sticking with lighter-we
 Michael Gariffo/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Do Chromebooks need to be connected to the Internet?
@@ -90,6 +94,10 @@ To be clear, you shouldn't purchase a Chromebook if you don't intend to have it 
 
 Google
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Are Chromebooks expensive?
 
 ### **ZDNET** Recommends
@@ -103,10 +111,6 @@ Their reliance on connected and cloud-based services means their internal compon
 You could buy a very low-end laptop for around the same price, but the build quality and components would very likely be disappointing. Meanwhile, Chromebooks in this price range are nearly as fully capable as far more expensive options. 
 
 As an exception, there are several more high-priced Chromebooks available. High-end models like [Google's Pixelbook Go](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fgoogle-pixelbook-go-13-3-touch-screen-chromebook-intel-core-m3-8gb-memory-64gb-solid-state-drive-just-black%2F6382912.p&publisher_slug=itechdaily19598&exclusive=1) or [Samsung's Galaxy Chromebook](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Chromebook-Computer-Touchscreen-Processor%2Fdp%2FB088T2C912%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4fe93112-1c69-4877-99b1-6f6ee78fc62d%7Cdtp&dtb=1) incorporate premium materials, high-resolution displays, and internal components that would be at home in a high-end laptop. While these models are overkill for most Chromebook users, they could suit someone expecting their Chromebook to be their primary computing device.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is the best Chromebook?
 
@@ -131,10 +135,6 @@ This is the Chromebook I've recommended to several family members and friends, a
 [Acer Chromebook 516 GE $559.95 at Walmart](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F1414639532&subId1=zd-__COM_CLICK_ID__-dtp)
 
 I've reviewed two of the three Chromebooks included in the first wave of gaming-centric models, and the Acer 516 GE slightly edged out its competition due to the inclusion of an Ethernet port. If you're purely a Wi-Fi user with a great connection, the [Lenovo IdeaPad Gaming Chromebook](https://lenovo.vzew.net/c/5597632/218864/3808?sharedId=zdnet&u=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fideapad%2Fideapad-gaming-laptops%2Fideapad-5i-gaming-chromebook-gen-7-%2816-inch-intel%29%2Flen101i0062&subId1=zd-__COM_CLICK_ID__-dtp) could be a great option too. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### For the road warrior:
 
@@ -178,24 +178,14 @@ I wouldn't call the Dell Chromebook 3100 disposable at $100, but it's as close a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-elaborate-survey-gopro-silver-sensor-hero4-testing/"><u>[New] Elaborate Survey GoPro Silver Sensor HERO4 Testing</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-next-gen-display-top-5-hdmi-21-infinity-refresh-monitors-ps5/"><u>[Updated] In 2024, Next-Gen Display Top 5 HDMI 2.1 Infinity Refresh Monitors [PS5]</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-conversion-wizardry-zip-to-subrip-transformation/"><u>2024 Approved Conversion Wizardry ZIP to SubRip Transformation</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-swift-stylizing-boost-your-digital-artistry-on-pc-photos-editor/"><u>2024 Approved Swift Stylizing Boost Your Digital Artistry on PC Photos Editor</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/affordable-top-pick-non-lenovonon-dell-2-in-1-laptop-deal-before-prime-day-insights/"><u>Affordable Top Pick: Non-Lenovo/Non-Dell 2-in-1 Laptop Deal Before Prime Day - Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/apples-strategic-move-to-fortify-last-years-13-inch-macbook-air-a-closer-look-at-its-impact-on-tech/"><u>Apple’s Strategic Move to Fortify Last Year's 13-Inch MacBook Air - A Closer Look at Its Impact on Tech</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/crafting-captivating-windows-11-visual-themes-for-2024/"><u>Crafting Captivating Windows 11 Visual Themes for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-the-top-rated-multi-functional-laptop-with-stellar-hardware-that-impresses-everyone-according-to-zdnet/"><u>Discover the Top-Rated, Multi-Functional Laptop with Stellar Hardware That Impresses Everyone According to ZDNET</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/film-fanatics-unite-ioss-best-free-and-paid-filmmaking-tools/"><u>Film-Fanatics Unite! IOS's Best Free & Paid Filmmaking Tools</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-best-screen-quality-for-less-with-our-latest-lightweight-laptop-deal-now-on-sale/"><u>Get the Best Screen Quality for Less with Our Latest Lightweight Laptop Deal - Now On Sale</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-reliable-is-chatgpt-as-a-tool-for-grammar-and-spelling-checks/"><u>How Reliable Is ChatGPT as a Tool for Grammar and Spelling Checks?</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-laugh-ledger-the-ultimate-list-of-hilarious-tweets/"><u>In 2024, Laugh Ledger The Ultimate List of Hilarious Tweets</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-vivo-g2-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Vivo G2? Here Is the Answer | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolved-how-to-fix-concurrent-accidents-in-your-computer-system/"><u>Resolved: How to Fix Concurrent Accidents in Your Computer System</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/snag-metas-exclusive-512gb-quest-3-offer-top-pick-for-october-prime-day-saves-in-virtual-reality/"><u>Snag Meta's Exclusive 512GB Quest 3 Offer - Top Pick for OctoBER Prime Day SAVES in Virtual Reality!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-pick-unbeatable-black-friday-laptop-bargains-exclusive-offers-you-cant-miss-in-oct-24-pcmag/"><u>Top Pick: Unbeatable Black Friday Laptop Bargains - Exclusive Offers You Can't Miss in Oct '24 | PCMag</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-2024-webcams-optimized-for-live-streaming-in-depth-analysis-by-tech-experts/"><u>Top-Rated 2024 Webcams Optimized for Live Streaming - In-Depth Analysis by Tech Experts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unbeatable-bargain-meta-unveils-mega-savings-on-512gb-quest-3-top-pick-for-virtual-reality-enthusiasts-zdnet/"><u>Unbeatable Bargain: Meta Unveils Mega-Savings on 512GB Quest 3, Top Pick for Virtual Reality Enthusiasts - ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/upcoming-launch-of-apples-m4-chips-enhanced-ai-performance-across-the-full-range-of-mac-devices-schedule-insights/"><u>Upcoming Launch of Apple's M4 Chips: Enhanced AI Performance Across the Full Range of Mac Devices | Schedule Insights</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-diy-video-mastery-10-straightforward-concepts-everyone-should-try/"><u>[New] 2024 Approved DIY Video Mastery 10 Straightforward Concepts Everyone Should Try</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-enhance-your-synaptic-touchpad-drivers-step-by-step/"><u>Download & Enhance Your Synaptic Touchpad Drivers - Step by Step</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-find-and-upgrade-your-surface-book-2-drivers-with-minimal-hassle/"><u>How to Find and Upgrade Your Surface Book 2 Drivers with Minimal Hassle</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/mastering-video-recording-and-editing-with-adobe-connect/"><u>Mastering Video Recording & Editing with Adobe Connect</u></a></li>
+<li><a href="https://fox-info.techidaily.com/pro-action-recorder-guide-top-15-camcorder-list/"><u>Pro Action Recorder Guide Top 15 Camcorder List</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722975022655-samsung-m2070fw-driver-downloads-at-lightning-speed-get-them-here/"><u>Samsung M2070FW Driver Downloads at Lightning Speed – Get Them Here</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-to-download-canon-mg3620-printing-drivers-securely/"><u>Step-by-Step Tutorial to Download Canon MG3620 Printing Drivers Securely</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-guide-to-the-best-stylus-enabled-tablets-of-2024-in-depth-analysis-and-ratings/"><u>Ultimate Guide to the Best Stylus Enabled Tablets of 2024: In-Depth Analysis and Ratings</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-netgear-a61-wireless-adapter-with-the-latest-windows-drivers-how-to/"><u>Update Your Netgear A61^ Wireless Adapter with the Latest Windows Drivers: How To</u></a></li>
 </ul></div>
 

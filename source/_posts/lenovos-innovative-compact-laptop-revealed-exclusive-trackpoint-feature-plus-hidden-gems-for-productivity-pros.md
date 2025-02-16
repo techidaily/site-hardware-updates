@@ -1,7 +1,7 @@
 ---
 title: "Lenovo’s Innovative Compact Laptop Revealed: Exclusive TrackPoint Feature + Hidden Gems for Productivity Pros!"
-date: 2025-01-28T16:56:50.798Z
-updated: 2025-02-02T21:40:10.248Z
+date: 2025-02-15T00:49:36.714Z
+updated: 2025-02-16T03:07:22.353Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -95,7 +95,7 @@ Instead, I see the Vivobook S 15 as a primary driver for remote workers or digit
 It also has a "full" keyboard (the number pad on the right side has slightly smaller keys, as typical for sub-16-inch machines), which is satisfying and responsive to typing on. The keyboard has colorful LED backlighting that can be configured in many different lights and effects, but again, this is not something that I would consider high on the priority list when optimizing battery life. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -134,19 +134,18 @@ All things considered, the starting price of $1,299 is quite competitive for thi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-hack-the-youtube-timeline-increase-or-decrease-sound/"><u>[New] Hack the YouTube Timeline Increase or Decrease Sound</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-smartphone-editing-10-top-tiktok-choices/"><u>[Updated] 2024 Approved Smartphone Editing 10 Top TikTok Choices</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-optimize-meetings-using-snap-camera-for-better-communication-in-teams-for-2024/"><u>[Updated] Optimize Meetings Using Snap Camera for Better Communication in Teams for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1-huge-discount-alert-top-tier-gaming-laptop-slashes-price-by-50-during-october-prime-day-insider-report/"><u>1. Huge Discount Alert: Top-Tier Gaming Laptop Slashes Price by 50% During October Prime Day - Insider Report</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-capture-and-create-first-edits-in-lunapic-photo-editor/"><u>2024 Approved Capture & Create First Edits in LunaPic Photo Editor</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-t-view-hevc-h-265-content-on-redmi-13c-5g-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Can’t view HEVC H.265 content on Redmi 13C 5G</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/diagnosing-and-repairing-problems-in-usb-mobile-hotspot-functionality/"><u>Diagnosing and Repairing Problems in USB Mobile Hotspot Functionality</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-my-life-became-simpler-with-this-hp-chromebook-no-need-for-windows/"><u>How My Life Became Simpler with This HP Chromebook - No Need for Windows!</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-royalty-free-video-heaven-top-download-sites/"><u>In 2024, Royalty-Free Video Heaven Top Download Sites</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/maximizing-visual-storytelling-with-b-roll-integration/"><u>Maximizing Visual Storytelling with B Roll Integration</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/sale-alert-save-nearly-half-on-the-4tb-samsung-t5-nvme-ssd-now-available-on-amazon-insights-from-zdnet/"><u>Sale Alert: Save Nearly Half on the 4TB Samsung T5 NVMe SSD - Now Available on Amazon! Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/save-big-on-hp-victus-15-top-deals-at-515-during-prime-day-score-it-now-from-best-buy/"><u>Save Big on HP Victus 15: Top Deals at $515 During Prime Day - Score It Now From Best Buy!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/snag-the-deal-8tb-samsung-t5-nvme-ssds-available-at-a-steep-36-discount-on-amazon-insights-from-zdnet/"><u>Snag the Deal: 8TB Samsung T5 NVMe SSDs Available at a Steep 36% Discount on Amazon - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/solid-build-and-flexibility-make-this-crowd-favorite-laptop-top-among-those-weve-evaluated-insights/"><u>Solid Build and Flexibility Make This Crowd-Favorite Laptop Top Among Those We've Evaluated - Insights</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-google-meet-entry-on-computersmobile-phones/"><u>[New] Google Meet Entry On Computers/Mobile Phones</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/bring-your-photos-to-life-a-detailed-ken-burns-effect-guide/"><u>Bring Your Photos to Life A Detailed Ken Burns Effect Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-apple-iphone-13-pro-max-is-off-drfone-by-drfone-virtual-ios/"><u>Can Life360 Track You When Your Apple iPhone 13 Pro Max is off? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-mpow-bluetooth-driver-supports-windows-11-8-and-7-systems/"><u>Download & Update MPOW Bluetooth Driver - Supports Windows 11, 8, & 7 Systems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-tips-and-tricks-for-keeping-your-ati-radeon-drivers-current-in-windows-os/"><u>Easy Tips & Tricks for Keeping Your ATI Radeon Drivers Current in Windows OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-razer-naga-software-updates-for-your-computer-running-windows/"><u>Get the Newest Razer Naga Software Updates for Your Computer Running Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-download-and-install-acer-paddriver-pro-the-ultimate-guide-for-windows-11-users/"><u>How to Download and Install Acer PadDriver Pro: The Ultimate Guide for Windows 11 Users</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-motorola-moto-g23-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Motorola Moto G23 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/imovie-on-a-budget-the-best-free-online-video-editing-alternatives/"><u>IMovie on a Budget The Best Free Online Video Editing Alternatives</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/new-release-universal-bluetooth-adapter-software-update-for-pcs/"><u>New Release: Universal Bluetooth Adapter Software Update for PCs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/secrets-to-watching-the-new-samsung-releases-live-from-anywhere-in-the-world/"><u>Secrets to Watching the New Samsung Releases Live From Anywhere in the World</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/secure-and-fast-corsair-keyboard-support-downloads-for-windows-no-cost-involved/"><u>Secure and Fast CORSAIR Keyboard Support Downloads for Windows - No Cost Involved</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-to-solving-beats-audio-driver-problems-in-hp-devices-on-windows-1187/"><u>Step-by-Step Guide to Solving Beats Audio Driver Problems in HP Devices on Windows 11/8/7</u></a></li>
 </ul></div>
 

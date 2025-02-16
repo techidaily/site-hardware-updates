@@ -1,7 +1,7 @@
 ---
 title: "Outperforming Apple: How LG Gram Pro Surpasses the MacBook Air Across Three Key Areas - Insights From a Comprehensive Review | ZDNet"
-date: 2025-01-28T01:17:31.229Z
-updated: 2025-02-02T17:01:29.790Z
+date: 2025-02-10T23:21:45.893Z
+updated: 2025-02-16T02:10:59.379Z
 tags:
   - laptops
 categories:
@@ -45,7 +45,7 @@ My original plan was to use the new Surface Pro as a secondary mobile device, wh
 How did this happen? Let's dive in.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The experience is familiar
@@ -61,7 +61,7 @@ The big difference is that this next-gen device is extremely cool and quiet. Aft
 Of course, this new device also embodies everything you like and/or dislike about the Surface Pro design. If you're expecting a radical shift that will suddenly make the kickstand comfortable in your lap, I'm sorry to report you will be disappointed. If, however, you're comfortable with that design, you'll find this iteration completely familiar.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Battery life is a huge win
@@ -81,7 +81,7 @@ Screenshot by Ed Bott/ZDNET
 At an average of more than 10 hours of actual, observed battery life, this Surface Pro is able to run for well over twice as long as my Intel-based Surface Pro 9\. That's also at least as long as the [M2 MacBook Air](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/) in my office.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Compatibility is good but not perfect
@@ -121,7 +121,7 @@ I had no hardware problems to speak of. My 10-year-old Logitech C930 webcam just
 Your mileage may vary, of course, especially if you have exotic hardware like video capture cards and ancient multifunction printers that require custom driver packs and won't work with the in-box Windows drivers. Thankfully, I have none of those.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The AI story is incomplete
@@ -145,7 +145,7 @@ The real question is whether those features are powerful enough to make you swit
 Even if you avoid the AI features completely, though, there's more than enough power in this [budget PC](https://www.zdnet.com/article/best-laptops-under-500/). Plus, as long as your apps and hardware requirements aren't exotic, you'll appreciate its cool, quiet operation.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test laptops
@@ -192,16 +192,18 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-comprehensive-degree-of-view-analysis/"><u>[New] 2024 Approved Comprehensive Degree of View Analysis</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-discover-the-evolution-of-video-technology-with-mycams-review/"><u>[New] Discover the Evolution of Video Technology with MyCam's Review</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-maximize-social-media-impact-tiktoks-top-data-analysis-resources/"><u>[New] In 2024, Maximize Social Media Impact TikTok's Top Data Analysis Resources</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-unlimited-visual-potential-free-themes-for-channels/"><u>[New] Unlimited Visual Potential – Free Themes for Channels</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amazon-reinstates-stock-for-the-highly-demanded-4tb-samsung-t5-ssd-at-a-steep-50-off-read-more/"><u>Amazon Reinstates Stock for the Highly Demanded 4TB Samsung T5 SSD at a Steep 50% Off: Read More</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-hp-defied-industry-norms-with-their-latest-laptop-surpassing-even-the-fearless-approach-of-apple-zdnet/"><u>How HP Defied Industry Norms with Their Latest Laptop - Surpassing Even the Fearless Approach of Apple | ZDNET</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/huge-discount-alert-secure-your-high-performance-dell-xps-15-at-a-steal-this-black-friday-save-up-to-700-with-zdnet/"><u>Huge Discount Alert: Secure Your High-Performance Dell XPS 15 at a Steal This Black Friday – Save up to $700 with ZDNet!</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-how-to-change-volume-in-media-files-for-2024/"><u>New How to Change Volume in Media Files for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/purchase-these-top-three-apple-devices-showcased-at-wwdc-immediately-availability-and-pre-order-links-from-zdnet/"><u>Purchase These Top Three Apple Devices Showcased at WWDC Immediately: Availability and Pre-Order Links From ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-mobile-device-analysis-techniques-by-zdnet-experts/"><u>Unveiling Mobile Device Analysis Techniques by ZDNet Experts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/why-lenovos-2024-thinkbook-at-just-749-could-dominate-as-the-top-value-windows-laptop-insights-by-zdnet/"><u>Why Lenovo's 2024 ThinkBook at Just $749 Could Dominate as the Top Value Windows Laptop - Insights by ZDNet</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-cutting-edge-fullscreen-capture-programs-for-2024/"><u>[New] Cutting-Edge Fullscreen Capture Programs for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-unveiling-paid-content-in-product-analysis/"><u>[New] In 2024, Unveiling Paid Content in Product Analysis</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-archiving-your-favorites-the-complete-list-of-9-podcast-recording-steps/"><u>[Updated] Archiving Your Favorites The Complete List of 9 Podcast Recording Steps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-plot-to-post-a-detailed-guide-to-writing-youtube-videos/"><u>[Updated] In 2024, From Plot to Post A Detailed Guide to Writing YouTube Videos</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-guide-to-installing-logitech-g29-drives-and-software-for-windows-users/"><u>Complete Guide to Installing Logitech G29 Drives and Software for Windows Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-latest-drivers-for-hp-elitebook-8460p-on-windows-complete-guide/"><u>Download and Install Latest Drivers for HP EliteBook 8460P on Windows: Complete Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-successfully-update-intel-hd-5500-graphics-driver-a-users-manual/"><u>How to Successfully Update Intel HD 5500 Graphics Driver - A User's Manual</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-realme-11-proplus-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Realme 11 Pro+ Phone?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maintain-optimal-print-quality-with-the-latest-epson-wf-nano-1936-a-comprehensive-guide-to-updating-drivers-on-windows/"><u>Maintain Optimal Print Quality with the Latest Epson WF-Nano 1936 - A Comprehensive Guide to Updating Drivers on Windows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/preserve-your-virtual-discussions-with-gpt/"><u>Preserve Your Virtual Discussions with GPT</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamless-integration-steps-for-downloading-and-setting-up-logitech-mx-master-applications/"><u>Seamless Integration: Steps for Downloading and Setting Up Logitech MX Master Applications</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-techniques-for-refreshing-your-motherboard-software-on-a-windows-machine/"><u>Ultimate Techniques for Refreshing Your Motherboard Software on a Windows Machine</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-oppo-a1-5g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Oppo A1 5G Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
 </ul></div>
 

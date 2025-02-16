@@ -1,7 +1,7 @@
 ---
 title: Is the Release of an M3 MacBook Air Signaling a Shift Away From iPhone Hype? Insights From ZDNet
-date: 2025-01-31T23:12:03.295Z
-updated: 2025-02-03T03:34:12.636Z
+date: 2025-02-10T01:15:58.446Z
+updated: 2025-02-16T06:11:54.670Z
 tags:
   - laptops
 categories:
@@ -34,10 +34,6 @@ Based on all my experience, here's why Chromebooks are the perfect laptops for m
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Chromebooks are cheap
 
 The first reason is beyond dispute. Given how the economy has had a rather crushing effect on so many of our budgets, finding an inexpensive piece of hardware can be a real plus for anyone looking to stay productive. That's not to say every Chromebook is cheap. I once paid a premium for a [Chromebook Pixel](https://www.zdnet.com/article/googles-chromebook-pixel-lives-on-but-you-cant-buy-one/) \-- and that laptop remains one of my favorites. (The display and keyboard were best in class at the time.) 
@@ -63,7 +59,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Chromebooks are user-proof
@@ -79,7 +75,7 @@ I've known users -- hello, family, are you listening? -- who've suffered to no e
 I've watched users continually break Windows and MacOS laptops (and come to me for help). The number of times I've had a Chromebook user do the same thing is… nil. Sure, a couple of times someone asked me, "How do I get this thing connected to a printer?" That's about it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Chromebooks are fast
@@ -92,6 +88,10 @@ It's not just about how quickly apps open (Android _and_ Linux apps, see above),
 
 If you want a fast laptop at a reasonable price, get a Chromebook.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Chromebooks are reliable
 
 In the 10 years since I've been using Chromebooks, I've only had one device with problems, and that was the original Pixelbook (which suffered from Bluetooth and networking issues). Beyond that, I've never had a problem with a Chromebook. It just doesn't happen. Yes, that's partly because ChromeOS is "mostly" a web browser masquerading as an OS, but even with Linux and Android app support enabled, I've never suffered from a problem. 
@@ -101,7 +101,7 @@ In the 10 years since I've been using Chromebooks, I've only had one device with
 Even when using the [non-stable ChromeOS channel](https://www.zdnet.com/article/how-to-switch-release-channels-on-your-chromebook/), I've found the operating system to be exponentially more reliable than Windows. Anyone who argues this point hasn't used ChromeOS enough.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Chromebooks are secure
@@ -112,6 +112,10 @@ Thanks to ChromeOS's built-in security, even older, out-of-support Chromebooks a
 
 You won't need antivirus or anti-malware. Just make sure to apply any/all updates when they become available, avoid suspicious websites, and only install extensions from the official Google Chrome Store, and you're good to go. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Chromebooks can be easily restored
 
 Speaking of reliability, should you wind up having a problem with ChromeOS misbehaving (extremely unlikely, see above), you can simply do a "powerwash" (a factory reset), log back into your Google account, and you'll find everything there, minus whatever problem you were experiencing (and anything you'd previously saved to the Downloads folder).
@@ -119,10 +123,6 @@ Speaking of reliability, should you wind up having a problem with ChromeOS misbe
 **Also: [5 ChromeOS settings you should change for a more secure Chromebook - here's how](https://www.zdnet.com/article/5-chromeos-settings-you-should-change-for-a-more-secure-chromebook-heres-how/)**
 
 No other operating system can compete with ChromeOS's ability to factory reset and return you to a pristine working state without having lost your data, bookmarks, apps, and more. I've never once worried about doing anything with a Chromebook, simply because I know I can do a quick power wash and be back working in minutes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bottom line
 
@@ -158,16 +158,22 @@ Chromebooks may not be the ideal solution for everyone. (Attempt any serious vid
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://techno-recovery.techidaily.com/how-to-resolve-apple-watch-standing-not-recording-problems/"><u>How To Resolve Apple Watch Standing Not Recording Problems?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-realme-gt-3-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Realme GT 3 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-messages-from-apple-iphone-12-to-other-iphone-all-ios-versions-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Messages From Apple iPhone 12 to other iPhone All iOS Versions | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-the-art-of-taking-screenshots-dell-lenovo-and-mac-laptop-guides-zdnet/"><u>Mastering the Art of Taking Screenshots: Dell, Lenovo & Mac Laptop Guides - ZDNet</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/seamless-idevice-support-package-address-any-ios-challenge-with-ease/"><u>Seamless iDevice Support Package – Address Any iOS Challenge with Ease</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-oneplus-12-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For OnePlus 12 Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-98-cyber-week-offers-and-discounts-of-2022-insights/"><u>Top 98 Cyber Week Offers & Discounts of 2022 - Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-ranking-gaming-graphics-cards-insights-from-zdnet/"><u>Top-Ranking Gaming Graphics Cards - Insights From ZDNet</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-when-your-nvidia-control-center-wont-launch-or-freezes/"><u>Troubleshooting Guide: When Your NVIDIA Control Center Won't Launch or Freezes</u></a></li>
-<li><a href="https://win-blog.techidaily.com/ultimate-guide-fixing-hitman-3-pc-instability-issues/"><u>Ultimate Guide: Fixing Hitman 3 PC Instability Issues</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-list-save-big-on-cyber-monday-with-these-98-hot-deals-from-zdnet-in-2e22/"><u>Ultimate List: Save Big on Cyber Monday with These 98 Hot Deals From ZDNet in 2E22!</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-optimal-techniques-to-record-your-snapchat-stories/"><u>[Updated] Optimal Techniques to Record Your Snapchat Stories</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-vivo-y100-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Vivo Y100 Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-zte-nubia-z60-ultra-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from ZTE Nubia Z60 Ultra to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-asus-atk0110-acpi-control-software-for-free/"><u>Download ASUS ATK0110 ACPI Control Software for Free</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-canon-mf8200c-printer-drivers-fully-updated-for-windows-users/"><u>Download Canon MF8200C Printer Drivers - Fully Updated for Windows Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-latest-asus-atk0110-acpi-control-and-bios-files-at-no-cost/"><u>Download the Latest ASUS ATK0110 ACPI Control and BIOS Files at No Cost</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722958641944-easy-download-of-hp-deskjet-3520-software-ensure-compatible-operation-with-any-pc/"><u>Easy Download of HP DeskJet 3520 Software - Ensure Compatible Operation with Any PC</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebooks-shortcomings-highlighting-5-times-users-were-let-down/"><u>Facebook's Shortcomings: Highlighting 5 Times Users Were Let Down</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-download-compatible-acer-touch-to-screen-pad-drivers-for-windows-11/"><u>Free Download: Compatible Acer Touch-to-Screen Pad Drivers for Windows 11</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-samsung-galaxy-s24-ultra-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Samsung Galaxy S24 Ultra FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-streaming-supremacy-the-peak-of-youtuber-popularity/"><u>In 2024, Streaming Supremacy The Peak of YouTuber Popularity</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-remote-server-connection-failures-effective-troubleshooting-techniques/"><u>Overcoming Remote Server Connection Failures: Effective Troubleshooting Techniques</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolved-microsoft-battery-driver-problems-ensuring-acpi-compliance/"><u>Resolved Microsoft Battery Driver Problems - Ensuring ACPI Compliance</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/solving-the-common-driver-problems-for-synaptics-touchpadpointing-device-in-windows-10/"><u>Solving the Common Driver Problems for Synaptics Touchpad/Pointing Device in Windows 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/swift-and-simple-installation-of-intel-dual-band-wireless-ac-n2000ac-7265ac-1200-network-adapter-driver-v813436900plus/"><u>Swift and Simple Installation of Intel Dual Band Wireless-AC N2000/AC 7265/AC 1200 Network Adapter Driver V.8.13.43.6900+]</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-for-obs-not-screen-record-problems/"><u>Troubleshooting Tips for 'OBS Not Screen Record' Problems</u></a></li>
+<li><a href="https://solve-help.techidaily.com/troubleshooting-unresponsive-pc-fixes-for-non-functional-mouse-and-keyboard-in-windows-tips-from-yl-computing/"><u>Troubleshooting Unresponsive PC: Fixes for Non-Functional Mouse & Keyboard in Windows - Tips From YL Computing</u></a></li>
 </ul></div>
 

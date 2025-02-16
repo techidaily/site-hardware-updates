@@ -1,7 +1,7 @@
 ---
 title: Love at First Swipe with the Lighter-Than-Ever Gram Pro 17 - Available Now for Black Friday Deals!
-date: 2025-01-30T10:04:24.374Z
-updated: 2025-02-03T04:17:03.414Z
+date: 2025-02-10T20:58:06.742Z
+updated: 2025-02-16T04:36:04.028Z
 tags:
   - laptops
 categories:
@@ -50,7 +50,7 @@ Finally, one of the best parts of the Vivobook line are these laptops' bold desi
 All in all, if you're looking for a sleek, lightweight travel laptop or a backup machine while working remotely, the [Vivobook Go 15.6](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FASUS-Vivobook-Go-15-6-PC-Laptop-Intel-i3-N305-8GB-256GB-Win-11-Home-S-mode-Mixed-Black-E1504GA-WS36%2F5727766555&subId1=zd-__COM_CLICK_ID__-dtp) has a nice-sized screen that's not too big or too small for only $249 ($80 off at the time of writing). The full-sized keyboard offers a comfortable work setup, and the generous port selections make this computer well-rounded enough for a variety of everyday use cases. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -87,18 +87,24 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-a-comprehensible-breakdown-for-youtube-annotation-and-card-implementation/"><u>[New] In 2024, A Comprehensible Breakdown for YouTube Annotation and Card Implementation</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-final-thoughts-on-youtubing-best-makers-tips-and-templates/"><u>[Updated] 2024 Approved Final Thoughts on YouTubing - Best Makers, Tips, and Templates</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-shattering-standards-an-in-depth-look-at-the-eizo-coloredge-monitor/"><u>[Updated] In 2024, Shattering Standards – An In-Depth Look at the EIZO ColorEdge Monitor</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-roadmap-to-captivating-shorts-visuals-custom-thumbnail-essentials-for-2024/"><u>[Updated] The Roadmap to Captivating Shorts Visuals Custom Thumbnail Essentials for 2024</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/complete-tutorial-sending-photos-from-apple-iphone-14-pro-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>Complete Tutorial Sending Photos From Apple iPhone 14 Pro to iPad | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-nokia-xr21-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Nokia XR21 Phone Screen?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/just-40-instant-discount-on-nordvpn-and-microsoft-office-suite-limited-offer/"><u>Just $40 Instant Discount on NordVPN & Microsoft Office Suite - Limited Offer</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-your-ifunny-meme-journey-for-2024/"><u>Mastering Your iFunny Meme Journey for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/revolutionary-m3-macbook-air-unveiled-the-new-accessible-ai-powered-laptop-from-apple-comprehensive-review-on-zdnet/"><u>Revolutionary M3 MacBook Air Unveiled: The New Accessible, AI-Powered Laptop From Apple - Comprehensive Review on ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/snagging-the-top-meta-quest-3-offer-in-town-a-deep-dive-into-the-sizzling-deal-with-512gb-storage-by-zdnet/"><u>Snagging the Top Meta Quest 3 Offer in Town? A Deep Dive Into the Sizzling Deal with 512GB Storage by ZDNET</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/unify-mf4770n-with-windows-environment-in-win11win87/"><u>Unify MF4770n with Windows Environment in Win11/Win8/7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/why-professionals-prefer-this-lenovo-laptop-unveiling-its-two-key-attributes-for-power-use/"><u>Why Professionals Prefer This Lenovo Laptop: Unveiling Its Two Key Attributes for Power Use</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/zdnet-highlights-metas-exclusive-deal-on-the-new-512gb-oculus-quest-3-a-must-have-steal-this-octobers-prime-day-vr-offer/"><u>ZDNet Highlights Meta's Exclusive Deal on the New 512GB Oculus Quest 3 – A Must-Have Steal This October’s Prime Day VR Offer!</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-from-concept-to-completion-a-windows-10-video-editors-journey/"><u>[New] From Concept to Completion A Windows 10 Video Editor’s Journey</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-now-instant-setup-of-nahimic-enhanced-sound-experience/"><u>[Update Now] Instant Setup of Nahimic: Enhanced Sound Experience</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-comprehensive-tips-ifunny-meme-download-and-use/"><u>2024 Approved Comprehensive Tips IFunny Meme Download & Use</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/discover-ways-to-optimize-your-computers-battery-life-insights-from-yl-software-experts/"><u>Discover Ways to Optimize Your Computer's Battery Life: Insights From YL Software Experts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/diy-techniques-for-addressing-and-repairing-the-realtek-rtl811au-driver-malfunctions/"><u>DIY Techniques for Addressing and Repairing the Realtek RTL8^11AU Driver Malfunctions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-newest-hp-deskjet-3755-inkjet-all-in-one-printer-driver-compatible-with-windows-10-8-and-ebx/"><u>Download the Newest HP DeskJet 3755 Inkjet All-In-One Printer Driver Compatible with Windows 10, 8 & Ebx</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-download-updated-m-audio-drivers-supporting-windows-11-7-8-and-81/"><u>Easy Download: Updated M-Audio Drivers Supporting Windows 11, 7, 8 & 8.1</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-msi-z370-a-pro-drivers-for-optimal-performance-download-now/"><u>Get the Latest MSI Z370-A Pro Drivers for Optimal Performance – Download Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-seamlessly-update-your-sata-ahci-controllers-software/"><u>How to Seamlessly Update Your SATA AHCI Controller's Software</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Samsung Galaxy F54 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-successfully-install-atheros-network-device-drivers-for-windows-users/"><u>How to Successfully Install Atheros Network Device Drivers for Windows Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-deskjet-3520-driver-installation-step-by-step-guide-and-download-links/"><u>HP Deskjet 3520 Driver Installation: Step-by-Step Guide and Download Links</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-3-ways-to-unlock-your-iphone-15-for-free-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Your iPhone 15 for Free</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-iphone-6s-plus-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your iPhone 6s Plus Without a Passcode</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-taking-your-filmed-artistry-on-a-journey-with-imovie-and-youtube/"><u>In 2024, Taking Your Filmed Artistry on a Journey with iMovie & YouTube</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-dell-bios-update-for-enhanced-sm-bus-controller-performance/"><u>Latest Dell BIOS Update for Enhanced SM Bus Controller Performance</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-how-to-fix-microsoft-flight-simulator-2020-update-issue/"><u>Resolved: How to Fix Microsoft Flight Simulator 2020 Update Issue</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-picks-cost-effective-remobell-video-doorbells-for-your-home/"><u>Top Picks: Cost-Effective RemoBell Video Doorbells for Your Home</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-troubleshooting-guide-resolving-steam-file-access-issues-and-securing-privileges/"><u>Ultimate Troubleshooting Guide: Resolving Steam File Access Issues & Securing Privileges</u></a></li>
 </ul></div>
 

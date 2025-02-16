@@ -1,7 +1,7 @@
 ---
 title: "Affordable Laptop Revives Classic Tech Trend, Stirs Up Old Conversation: A Look at Yesteryear's Hype! - ZDNet"
-date: 2025-01-28T01:38:55.012Z
-updated: 2025-02-02T21:21:37.341Z
+date: 2025-02-11T21:22:53.561Z
+updated: 2025-02-15T18:07:45.011Z
 tags:
   - laptops
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/4718cfe78df90fc96fd0823cd6a47f148478c5d53
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -85,7 +85,7 @@ I have been integrating Copilot into my workflow as I learn more about how to us
 The Surface's battery life has been fantastic, too. I get over 15 hours of use from a single charge, and it has yet to fully deplete to zero by the time I call a benchmarking test. The combination of smart design with meaningful trade-offs is what gives this laptop its marathon battery life, and opens it up for a variety of use cases from a creator or productivity perspective. Basically, this is a laptop you can work remotely with for the whole day without a charger.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -95,7 +95,7 @@ I mentioned this before, but the direction that Microsoft took with this laptop 
 The Surface Laptop is a flagship mid-range device that's well-rounded enough to take on a variety of roles. Despite a few trade-offs, it's everything it should be for the price. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -132,21 +132,16 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-top-10-best-webcam-covers/"><u>[New] In 2024, Top 10 Best Webcam Covers</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-next-gen-recording-greener-choices/"><u>[Updated] 2024 Approved Next-Gen Recording Greener Choices</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-crafting-professional-looks-after-effects-and-lut-techniques/"><u>2024 Approved Crafting Professional Looks After Effects and LUT Techniques</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/elevate-your-workspace-experience-the-dual-monitor-capability-with-your-m3-macbook-pro-just-as-you-can-with-the-m3-macbook-air/"><u>Elevate Your Workspace: Experience the Dual Monitor Capability with Your M3 MacBook Pro, Just as You Can With the M3 MacBook Air</u></a></li>
-<li><a href="https://win-answers.techidaily.com/guide-to-repairing-your-league-of-legends-network-issues/"><u>Guide to Repairing Your League of Legends Network Issues</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-samsung-galaxy-f15-5g-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Samsung Galaxy F15 5G Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/octobers-premier-savings-event-unmissable-gaming-discounts-up-to-1000-grab-them-before-theyre-gone/"><u>October's Premier Savings Event! Unmissable Gaming Discounts Up to $1,000 - Grab Them Before They're Gone!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/protect-your-privacy-avoid-unauthorized-access-by-computer-tech-experts/"><u>Protect Your Privacy: Avoid Unauthorized Access by Computer Tech Experts</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-win32ksys-bsod-a-step-by-step-guide/"><u>Resolving Win32K.sys BSOD: A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/score-big-savings-with-the-black-friday-blowout-gigabytes-a5-k1-gaming-laptop-at-an-exclusive-40-off-insider-tips/"><u>Score Big Savings with the Black Friday Blowout: Gigabyte's A5 K1 Gaming Laptop at an Exclusive 40% Off Insider Tips</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/score-big-savings-find-the-best-value-nvidia-gaming-laptops-on-sale-for-amazon-prime-day-2024-according-to-zdnet/"><u>Score Big Savings: Find the Best-Value Nvidia Gaming Laptops on Sale for Amazon Prime Day 2024, According to ZDNet</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/smooth-shooting-secured-choosing-ideal-tripods-and-gimbals/"><u>Smooth Shooting Secured Choosing Ideal Tripods & Gimbals</u></a></li>
-<li><a href="https://win-web.techidaily.com/step-by-step-guide-to-opening-the-windows-control-panel-tips-by-yl-computing/"><u>Step-by-Step Guide to Opening the Windows Control Panel - Tips by YL Computing</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-solving-non-functional-fortnite-audio/"><u>Troubleshooting Steps for Solving Non-Functional Fortnite Audio</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-buying-guide-for-black-friday-and-cyber-monday-laptop-bargains-techradar-insights/"><u>Ultimate Buying Guide for Black Friday and Cyber Monday Laptop Bargains - TechRadar Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unmissable-amazon-prime-day-offers-in-october-2024-top-bargains-you-can-snag-now/"><u>Unmissable Amazon Prime Day Offers in October 2024 - Top Bargains You Can Snag Now!</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-how-to-master-switch-pro-controller-gaming-in-steam/"><u>[New] In 2024, How to Master Switch Pro Controller Gaming in Steam</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-pioneering-video-structuring-methods-on-youtube/"><u>[New] In 2024, Pioneering Video Structuring Methods on YouTube</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-pinnacle-promotion-reels/"><u>[Updated] Pinnacle Promotion Reels</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/6-methods-for-switching-from-apple-iphone-11-pro-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>6 Methods for Switching from Apple iPhone 11 Pro to Samsung | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722978232951-download-official-nvidia-geforce-rtx-3070-ti-drivers-compatible-with-windows-1187/"><u>Download Official NVIDIA GeForce RTX 3070 Ti Drivers Compatible with Windows 11/8/7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-gaming-and-graphics-with-the-latest-nvidia-rtx-2070-super-drivers-on-windows-11/"><u>Enhance Gaming & Graphics with the Latest Nvidia RTX 2070 Super Drivers on Windows 11</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Vivo T2 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/keep-your-computer-running-smoothly-intel-rst-driver-software-downloads-for-quick-boot-and-data-safety/"><u>Keep Your Computer Running Smoothly - Intel RST Driver Software Downloads for Quick Boot & Data Safety</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-potential-of-claude-everything-you-need-to-know-about-its-applications/"><u>Mastering the Potential of Claude: Everything You Need to Know About Its Applications</u></a></li>
+<li><a href="https://extra-support.techidaily.com/podcast-logo-basics-key-principles-for-striking-art-for-2024/"><u>Podcast Logo Basics Key Principles for Striking Art for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-updating-and-downloading-drivers-on-the-microsoft-surface-book-2/"><u>Step-by-Step Tutorial: Updating and Downloading Drivers on the Microsoft Surface Book 2</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[Query]: What Are some Fascinating Examples of Animal Intelligence?"
-date: 2025-01-28T06:07:03.913Z
-updated: 2025-02-03T02:24:01.866Z
+date: 2025-02-14T18:58:44.677Z
+updated: 2025-02-15T21:49:10.360Z
 tags:
   - laptops
 categories:
@@ -20,7 +20,7 @@ This week, Microsoft held its fall Microsoft Surface launch event where the comp
 Surface remains one of Microsoft's most popular products, with revenue increasing 3% year-over-year by $226 million in the fourth quarter of its [2022 financial year](https://www.microsoft.com/en-us/Investor/earnings/FY-2022-Q3/more-personal-computing-performance#:~:text=Surface%20revenue%20increased%20%24195%20million,increased%20%24305%20million%20or%207%25.&text=Gross%20margin%20increased%20%24755%20million,and%20Search%20and%20news%20advertising.). But that wasn't always the case, and Surface represents a big shift in Microsoft's business over the last decade. Here is how the Surface earned its spot as one of Microsoft's best sellers. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Windows
@@ -119,18 +119,18 @@ Microsoft has to make sure that it continues to upgrade its Surface lineup to st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-the-art-of-targeting-optimizing-ad-reach-on-snap/"><u>[New] 2024 Approved The Art of Targeting Optimizing Ad Reach on Snap</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-extensive-eye-level-surveillance-guide/"><u>[New] Extensive Eye-Level Surveillance Guide</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-voyage-to-greatness-youtubes-best-travel-vids/"><u>[Updated] In 2024, Voyage to Greatness YouTube's Best Travel Vids</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-saving-your-hangout-participation-for-2024/"><u>[Updated] Saving Your Hangout Participation for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-audio-enthusiasts-guide-to-premier-9-mic-devices/"><u>2024 Approved Audio Enthusiasts Guide to Premier 9 Mic Devices</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-evaluation-of-the-acer-chromebook-n516-ge-ideal-for-immersive-cloud-based-gaming-experience-zdnet/"><u>Comprehensive Evaluation of the Acer Chromebook N516 GE: Ideal for Immersive Cloud-Based Gaming Experience | ZDNET</u></a></li>
-<li><a href="https://fox-info.techidaily.com/cutting-edge-online-methods-for-supercharging-vhs-artifacts/"><u>Cutting-Edge Online Methods for Supercharging VHS Artifacts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-the-power-and-savings-apples-latest-macbook-air-featuring-the-m2-processor-slashed-to-just-799-in-pre-prime-time-sale/"><u>Discover the Power and Savings: Apple's Latest MacBook Air Featuring the M2 Processor Slashed to Just $799 in Pre-Prime Time Sale!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/essential-guide-protecting-your-iphone-16-with-the-right-case-a-must-read-for-first-time-users/"><u>Essential Guide: Protecting Your iPhone 16 with the Right Case – A Must-Read for First-Time Users!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/experiencing-lenovos-revolutionary-auto-swivel-design-a-first-look-at-ifa-2024-insights-and-impressions-tech/"><u>Experiencing Lenovo's Revolutionary Auto-Swivel Design: A First Look at IFA 2024 - Insights & Impressions Tech</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/google-enhances-chromebook-with-cutting-edge-ai-tools-potentially-outshining-microsofts-copilot-exclusive-report-from-zdnet/"><u>Google Enhances Chromebook with Cutting-Edge AI Tools, Potentially Outshining Microsoft's Copilot - Exclusive Report From ZDNET</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/sim-unlock-xiaomi-redmi-k70-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Xiaomi Redmi K70 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-pinnacle-of-laptop-graphics-nvidias-enhanced-studio-series-outperforms-competitors-featured-on-zdnet/"><u>Unveiling the Pinnacle of Laptop Graphics: Nvidia's Enhanced Studio Series Outperforms Competitors, Featured on ZDNet</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expertly-selected-360-cameras-for-youtube-and-facebook/"><u>[New] Expertly Selected 360° Cameras for YouTube & Facebook</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-walkthrough-to-downloading-and-updating-intel-hd-graphics-5500s-software/"><u>Comprehensive Walkthrough to Downloading & Updating Intel HD Graphics 5500'S Software</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-how-to-identify-if-someones-using-an-airtag-for-surveillance-expert-tips-from-zdnet/"><u>Discover How to Identify If Someone's Using an AirTag for Surveillance – Expert Tips From ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-advice-eliminating-the-persistent-0x80004005-error/"><u>Expert Advice: Eliminating the Persistent 0X80004005 Error</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-the-impact-and-purpose-of-runtime-brokers-on-pcs/"><u>Exploring the Impact and Purpose of Runtime Brokers on PCs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-logitech-g29-steering-wheel-setup-software-compatible-with-windows-11-10-and-7/"><u>Free Logitech G29 Steering Wheel Setup Software Compatible with Windows 11, 10 & 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-up-and-running-with-the-ergokeyboard-40eboard-by-microsoft-fast-drivers-download-available/"><u>Get Up and Running with the ErgoKeyboard 40Eboard by Microsoft - Fast Drivers Download Available!</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-mp4mpeg-audio-extraction-tool/"><u>In 2024, MP4/MPEG Audio Extraction Tool</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-download-hp-stream-driver-software/"><u>Quick Download: HP Stream Driver Software</u></a></li>
+<li><a href="https://extra-support.techidaily.com/snowflakes-splendor-beijings-winter-wonder-for-2024/"><u>Snowflakes Splendor Beijing's Winter Wonder for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-instructions-to-fix-and-install-rndis-drivers-on-your-pc-with-windows-os/"><u>Step-by-Step Instructions to Fix and Install RNDIS Drivers on Your PC with Windows OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-resource-for-canon-mx560-driver-download-and-quick-updates/"><u>The Ultimate Resource for Canon MX560 Driver Download and Quick Updates</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-tecno-pova-5-pro-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Tecno Pova 5 Pro FRP Bypass</u></a></li>
 </ul></div>
 

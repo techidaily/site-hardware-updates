@@ -1,7 +1,7 @@
 ---
 title: Windows Fans Rejoice! Lenovo Unveils a Competing Mac Studio, Promising Superior Features | ZDNET
-date: 2025-01-28T07:40:52.052Z
-updated: 2025-02-03T07:43:15.132Z
+date: 2025-02-11T18:44:08.667Z
+updated: 2025-02-15T19:51:19.354Z
 tags:
   - laptops
 categories:
@@ -22,7 +22,7 @@ At [CES 2024](https://www.zdnet.com/topic/ces-2024/), Lenovo plans to show off a
 Without question, the new PC resembles a [Mac Studio](https://www.zdnet.com/article/apple-mac-studio-m2-ultra-review/), coming with a main desktop unit in the shape of a small box alongside a monitor. It houses all of the major components like a neural processing unit, or NPU for short. This utilizes [AI](https://www.zdnet.com/article/what-is-ai-heres-everything-you-need-to-know-about-artificial-intelligence/) to provide a third resource for the computer, improving its overall performance. It can even be upgraded, letting you modulate the device's performance however you want.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Special Feature
@@ -85,20 +85,14 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-cutting-the-cord-of-creation-how-to-setup-a-youtube-channel-from-phone-to-platform/"><u>[New] In 2024, Cutting the Cord of Creation How to Setup a YouTube Channel From Phone to Platform</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-embark-on-elevating-voice-startup-steps-for-an-engaging-product-vlog-channel/"><u>[Updated] Embark on Elevating Voice Startup Steps for an Engaging Product Vlog Channel</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-enhance-your-tv-experience-mastering-fb-live-and-roku/"><u>[Updated] Enhance Your TV Experience Mastering FB Live and Roku</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-harmonizing-photo-and-video-in-one-iphone-session/"><u>2024 Approved Harmonizing Photo & Video in One iPhone Session</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/bypassing-windows-10-lock-screen-seamlessly-a-comprehensive-how-to/"><u>Bypassing Windows 10 Lock Screen Seamlessly – A Comprehensive How-To</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-picks-for-the-ultimate-laptop-raising-solutions-zdnets-guide-to-2024-models/"><u>Expert Picks for the Ultimate Laptop Raising Solutions - ZDNet's Guide to 2024 Models</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-install-the-latest-iosipados-beta-version-on-iphone-13-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS/iPadOS Beta Version on iPhone 13 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-time-travel-photos-on-snapchat-step-by-step-guide/"><u>In 2024, Time-Travel Photos on Snapchat Step by Step Guide</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/in-depth-look-why-the-google-pixelbook-go-stands-out-in-the-premium-chromebook-market/"><u>In-Depth Look: Why the Google Pixelbook Go Stands Out in the Premium Chromebook Market</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-october-sale-metas-exclusive-499-512gb-quest-2-offer-a-must-have-vr-bargain-this-prime-day-technews/"><u>Top October Sale: Meta's Exclusive $499 512GB Quest 2 Offer - A Must-Have VR Bargain This Prime Day | TechNews</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-non-microsoft-non-lenovo-tablet-unleashes-productivity-on-business-trips-explored-and-reviewed-at-zdnet/"><u>Top-Rated Non-Microsoft, Non-Lenovo Tablet Unleashes Productivity on Business Trips | Explored and Reviewed at ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-webcams-for-live-broadcasts-comprehensive-reviews-by-tech-pros/"><u>Top-Rated Webcams for Live Broadcasts : Comprehensive Reviews by Tech Pros</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unbeatable-october-prime-day-offer-metas-512gb-quest-2-pro-at-great-value-still-awaiting-bidders/"><u>Unbeatable October Prime Day Offer: Meta’s 512GB Quest 2 Pro at Great Value – Still Awaiting Bidders</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-latest-upgrade-samsung-enhances-its-copilotplus-pc-featuring-advanced-ai-capabilities-insights-from-zdnet/"><u>Unveiling the Latest Upgrade: Samsung Enhances Its Copilot+ PC Featuring Advanced AI Capabilities - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/zdnets-ultimate-guide-to-premium-laptops-of-2024-in-depth-assessments-and-comparisons/"><u>ZDNet's Ultimate Guide to Premium Laptops of 2024: In-Depth Assessments & Comparisons</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-top-10-mindfulness-moments-in-mobile-games/"><u>2024 Approved Top 10 Mindfulness Moments in Mobile Games</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-gigabytes-optimal-ethernet-controller-software/"><u>Download and Install Gigabyte's Optimal Ethernet Controller Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-downloading-and-installing-mpow-bluetooth-drivers-on-windows-platforms-11-8-7/"><u>Easy Guide to Downloading & Installing MPOW Bluetooth Drivers on Windows Platforms (11, 8, 7)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-scam-alert-to-twitsignature-metas-progressive-stride/"><u>From Scam Alert to TwitSignature: Meta's Progressive Stride</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-ch340-g-hardware-interface-driver-compatible-with-windows-11/"><u>Get the Newest CH340 G Hardware Interface Driver Compatible with Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-rtx-nvidia-graphics-card-driver-for-windows-11-7-and-8-systems/"><u>Get the Newest RTX Nvidia Graphics Card Driver for Windows 11, 7 and 8 Systems</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-motorola-g54-5g-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Motorola G54 5G to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/win11-system-spontaneously-shuts-down/"><u>Win11 System Spontaneously Shuts Down</u></a></li>
 </ul></div>
 

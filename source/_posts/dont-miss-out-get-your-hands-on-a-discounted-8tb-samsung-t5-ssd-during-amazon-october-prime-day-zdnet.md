@@ -1,7 +1,7 @@
 ---
 title: Don't Miss Out! Get Your Hands on a Discounted 8TB Samsung T5 SSD During Amazon October Prime Day | ZDNET
-date: 2025-01-31T16:40:02.789Z
-updated: 2025-02-03T01:17:50.860Z
+date: 2025-02-14T19:39:43.113Z
+updated: 2025-02-15T16:41:44.281Z
 tags:
   - laptops
 categories:
@@ -28,7 +28,7 @@ With a truly impressive amount of storage space, you'll get read and write speed
 Along with great read and write speeds and more reliable data transfers, the [Samsung T5 Evo](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Portable-External-MU-PH8T0S-AM%2Fdp%2FB0CMDGGJTZ%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce74f4426-3b28-4d32-87bd-c6b12107cdc1%7Cdtp&dtb=1) also features 256-bit AES encryption to keep your personal data and sensitive information safe from unauthorized access. Its outer casing is drop- and shock-resistant and can withstand falls up to six feet, making it perfect for on-location photographers and other mobile professionals who need a tough storage drive for offloading raw photos from camera storage or transferring important projects and documents between their home office and mobile work location. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -65,15 +65,18 @@ While the Amazon listing for the Samsung T5 Evo portable SSD does not have a cou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-iphone-savvy-crafting-elegant-time-stretched-videos/"><u>[New] 2024 Approved IPhone Savvy Crafting Elegant Time-Stretched Videos</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/budget-friendly-surface-pro-11-insights-from-a-seasoned-microsoft-guru/"><u>Budget-Friendly Surface Pro 11 Insights From a Seasoned Microsoft Guru</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-the-amazing-deal-on-asus-vivobook-pro-save-300-now-on-amazon-exclusive-sale-covered-by-zdnet/"><u>Discover the Amazing Deal on Asus VivoBook Pro - Save $300 Now on Amazon! Exclusive Sale Covered by ZDNet</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-htc-u23-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On HTC U23? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/hp-revolutionizes-computing-with-the-omnibook-ultra-14-now-equipped-with-advanced-amd-ryzen-ai-300-processor-and-superior-thunderbolt-4-connectivity/"><u>HP Revolutionizes Computing with the OmniBook Ultra 14 - Now Equipped with Advanced AMD Ryzen AI 300 Processor and Superior Thunderbolt 4 Connectivity</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-magic-6-lite-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Honor Magic 6 Lite Bootloader Easily</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-oppo-a59-5g-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Oppo A59 5G</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-18-unbeatable-prime-day-offers-on-hp-apple-razer-and-other-brands-exclusive-deals/"><u>Top 18 Unbeatable Prime Day Offers on HP, Apple, Razer & Other Brands - Exclusive Deals !</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-the-finest-touchpad-computers-professional-evaluations-on-latest-models/"><u>Ultimate Guide to the Finest Touchpad Computers: Professional Evaluations on Latest Models</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-perfect-guide-to-excel-in-tiktok-live-shopping/"><u>Updated Perfect Guide To Excel in TikTok Live Shopping</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-broadcasting-tweeted-videos-to-facebook-friends-for-2024/"><u>[New] Broadcasting Tweeted Videos to Facebook Friends for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-merge-visual-media-with-music-tracks-in-premiere-pro/"><u>2024 Approved Merge Visual Media With Music Tracks in Premiere Pro</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-instructions-to-downloading-the-latest-ftdi-drivers-for-your-windows-pc/"><u>Easy Instructions to Downloading the Latest FTDI Drivers for Your Windows PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/efficient-methods-for-swift-and-simple-gtx-1660-graphics-driver-update/"><u>Efficient Methods for Swift and Simple GTX 1660 Graphics Driver Update</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elevate-your-content-with-advanced-vsco-techniques/"><u>Elevate Your Content with Advanced VSCO Techniques</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-critical-gobi-error-in-ubisofts-co-op-shooter-back-4-blood-with-unreal-engine-4/"><u>Fixing the Critical Gobi Error in Ubisoft's Co-Op Shooter: Back 4 Blood with Unreal Engine 4</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-the-latest-drivers-for-your-lenovo-ideapad-100-compatible-with-windows-10/"><u>How to Install the Latest Drivers for Your Lenovo IdeaPad 100: Compatible with Windows 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/language-learning-lab-mistral-versus-chatgpt/"><u>Language Learning Lab: Mistral Versus ChatGPT</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-fixes-for-your-troubled-realtek-rtl8723be-network-adapter-drivers/"><u>Quick Fixes for Your Troubled Realtek RTL8723BE Network Adapter Drivers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/section-2c-increasingly-complex-questions/"><u>Section 2C: Increasingly Complex Questions</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unleashing-new-markets-how-digital-twins-and-process-simulations-pave-the-way-for-enterprise-growth/"><u>Unleashing New Markets: How Digital Twins & Process Simulations Pave the Way for Enterprise Growth</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-secrets-of-instagram-an-in-depth-exploration/"><u>Unveiling the Secrets of Instagram: An In-Depth Exploration</u></a></li>
 </ul></div>
 

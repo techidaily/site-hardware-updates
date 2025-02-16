@@ -1,7 +1,7 @@
 ---
 title: "October Prime Day 2Amo: Top Savings for Gamers Still On Offer | ZDNET Exclusive Deals"
-date: 2025-01-29T02:35:44.397Z
-updated: 2025-02-03T05:48:37.433Z
+date: 2025-02-10T17:18:14.948Z
+updated: 2025-02-15T23:55:58.357Z
 tags:
   - laptops
 categories:
@@ -23,6 +23,10 @@ From Apple's [MacBook Pro M3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FUR
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Our favorite Amazon October Prime Day laptop deals
 
@@ -76,10 +80,6 @@ Microsoft's 2024 Surface Laptop is a fast, lightweight laptop with a fantastic b
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Windows-Touchscreen-Snapdragon%2Fdp%2FB0CXKQYNPD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cee75ad10-9c6a-4835-8646-b6e1cd59aff7%7Cdtp&dtb=1) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best laptops for students
 
 Dell/ZDNET
@@ -88,6 +88,10 @@ Dell/ZDNET
 * [Lenovo IdeaPad Slim 3 Chromebook](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-IdeaPad-Slim-Chromebook-Lightweight%2Fdp%2FB0D5HZVQDL%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cee75ad10-9c6a-4835-8646-b6e1cd59aff7%7Cdtp&dtb=1) for $209 ($10 off) - If you need a lightweight device with a good webcam, it doesn't get more affordable than Lenovo's IdeaPad Slim 3 Chromebook. Already at just a few hundred bucks, you can save some extra cash during Amazon's October Prime Day sale.
 * [Acer Chromebook 314](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FChromebook-CB314-4HT-32X6-i3-N305-Processor-Display%2Fdp%2FB0CMRRFGVN%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cee75ad10-9c6a-4835-8646-b6e1cd59aff7%7Cdtp&dtb=1) for $339 ($110 off) - For a Chromebook with a little bit more storage and a full HD display, this 14-inch Acer machine is a solid campus companion.
 * [Lenovo V15 Essential Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-Essential-Quad-core-Processor-Ethernet%2Fdp%2FB0D8524KVL%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cee75ad10-9c6a-4835-8646-b6e1cd59aff7%7Cdtp&dtb=1) for $399 ($100 off) - Lenovo's V15 laptop is a well-rounded machine with a full 1TB of storage, which is enough for multiple years' worth of documents and files.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best gaming laptops under $1,000
 
@@ -99,7 +103,7 @@ Asus/ZDNET
 * [Asus TUF Gaming A15 (2024)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Display-NVIDIA%C2%AE-GeForce-FA506NF-ES51%2Fdp%2FB0CRDF25TQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cee75ad10-9c6a-4835-8646-b6e1cd59aff7%7Cdtp&dtb=1) for $599 ($100 off) - The TUF line of laptops features solid gaming hardware along with military-grade durability. The A15 is a solid gaming laptop that fits this description to a T, marked way down to a competitive price for 8GB of RAM, 512GB of storage, and an Nvidia GeForce RTX 2050 graphics card.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best laptops for photo editing
@@ -118,10 +122,6 @@ Kyle Kucharski/ZDNET
 * [Acer Swift Go 14](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Facer-Display-Experiences-Processor-SFG14-72T-718K%2Fdp%2FB0CNDTGC77%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cee75ad10-9c6a-4835-8646-b6e1cd59aff7%7Cdtp&dtb=1) for $927 (save $72): This lightweight laptop features an Intel Core Ultra 7 155H CPU, Intel Arc graphics, 16GB of RAM, and a 512GB SSD.
 * [HP 17-inch Touch Laptop](https://qvc.uikc.net/c/159047/565130/9368?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.qvc.com%2Fhp-17-touch-laptop-intel-n200-4gb-ram-128gb-ssd-w-hp-mouse-%2526-ms365.product.E324465.html&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for $479 (Save $80): For a large-screen laptop with touch capabilities, HP's 17-inch Touch comes in a variety of bold colorways, and is bundled with a mouse in this QVC deal. This is a solid choice for users who want a large screen to play media, but only need a basic hardware configuration.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best Buy laptop deals
 
 * [Asus ROG Strix Scar 17](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-rog-strix-scar-17-3-240hz-gaming-laptop-wqhd-amd-ryzen-9-x3d-with-32gb-memory-nvidia-geforce-rtx-4090-2tb-ssd-off-black%2F6564531.p%3FskuId%3D6564531&publisher_slug=itechdaily19598&exclusive=1) for $3,000 (save $700): This high-end gaming laptop is built with an AMD Ryzen 9 X3D processor, 32GB of RAM, a 2TB SSD, and Nvidia GeForce RTX 4090 graphics card.
@@ -134,11 +134,11 @@ Kyle Kucharski/ZDNET
 * [Apple MacBook Pro 16 M3 Max](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-macbook-pro-16-laptop-m3-max-chip-built-for-apple-intelligence-36gb-memory-30-core-gpu-1tb-ssd-space-black%2F6534635.p%3FskuId%3D6534635&publisher_slug=itechdaily19598&exclusive=1) for $2,999 (save $500): Apple's flagship content creation and workstation laptop has 36GB of RAM, a 1TB SSD, and M3 Max chip with integrated graphics processors.
 * [Acer Chromebook Spin 714](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Facer-chromebook-spin-714-intel-evo-laptop-14-1610-wuxga-1920-x-1200-touch-intel-core-i5-1335u-8gb-ram-256gb-ssd-steel-gray%2F6541841.p%3FskuId%3D6541841&publisher_slug=itechdaily19598&exclusive=1) for $499 (save $200): A budget-friendly 2-in-1 laptop that's perfect for students with a 14-inch touchscreen display, 8GB of RAM, and 256GB SSD.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQs
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### When is Amazon's October Prime Day 2024?
 
@@ -149,7 +149,7 @@ Amazon Prime Day event lasts from Tuesday, Oct. 8 through Wednesday, Oct. 9, but
 Amazon hasn't historically been the premiere destination for laptop deals, but the ones it lists for Prime Day have been too good to ignore. The MacBook deals, for example, were pretty major when they first dropped, since Apple is notorious for being restrictive about sales. The deals on Prime Day have gotten better each year, with more and more manufacturers participating with a broader range of devices. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How did we choose these October Prime Day deals?
@@ -230,15 +230,24 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/updated-revamping-online-speech-chromebooks-top-5-voice-alteration-tools-revealed/"><u>[Updated] Revamping Online Speech Chromebook's Top 5 Voice Alteration Tools Revealed</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-direct-playback-connecting-fb-vids-to-tvs/"><u>2024 Approved Direct Playback Connecting FB Vids to TVs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/chromeos-gets-a-fresh-update-with-integrated-windows-11-elements-to-revolutionize-your-chromebook-reveals-expert-analysis/"><u>ChromeOS Gets a Fresh Update with Integrated Windows 11 Elements to Revolutionize Your Chromebook, Reveals Expert Analysis</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exclusive-deals-on-premium-lenovo-laptops-perfect-for-hybrid-professionals-shop-smart-saving-big-at-zdnet/"><u>Exclusive Deals on Premium Lenovo Laptops Perfect for Hybrid Professionals - Shop Smart, Saving Big at ZDNET!</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-best-mac-screen-recorder-with-audio/"><u>In 2024, Best Mac Screen Recorder with Audio</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-factory-reset-ipad-or-apple-iphone-xs-max-without-icloud-password-or-apple-id-by-drfone-ios/"><u>In 2024, How to Factory Reset iPad or Apple iPhone XS Max without iCloud Password or Apple ID?</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-innovative-steps-to-preserve-voice-memos-of-whatsapp-calls/"><u>In 2024, Innovative Steps to Preserve Voice Memos of WhatsApp Calls</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-gaming-bargains-await-this-october-grab-huge-discounts-and-save-big-before-it-ends/"><u>Top Gaming Bargains Await This October: Grab Huge Discounts & Save Big Before It Ends !</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-choosing-a-video-editing-powerhouse-zdnets-best-picks-and-expert-opinions/"><u>Ultimate Guide to Choosing a Video Editing Powerhouse: ZDNet's Best Picks & Expert Opinions</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-features-of-samsung-qn55q6f-revolutionizing-home-entertainment-with-advanced-hdr-and-4k-technology/"><u>Unveiling the Features of Samsung QN55Q6F - Revolutionizing Home Entertainment with Advanced HDR & 4K Technology</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-essential-youtube-beauty-influencers-10-creators-to-watch/"><u>[New] 2024 Approved Essential YouTube Beauty Influencers 10 Creators to Watch</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-crafting-life-into-photos-motion-blur-on-face-images/"><u>[New] Crafting Life Into Photos Motion Blur on Face Images</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-essential-tips-for-digitizing-internet-radio-programming/"><u>[Updated] 2024 Approved Essential Tips for Digitizing Internet Radio Programming</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/bypassing-issues-installing-asus-pce-ac56-drivers-on-windows-7811-successfully-resolved/"><u>Bypassing Issues: Installing Asus PCE-AC56 Drivers on Windows 7/8/11 Successfully Resolved</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-to-overcoming-quicktimes-avi-compatibility-issues-across-mac-and-pc-platforms/"><u>Comprehensive Guide to Overcoming QuickTime's AVI Compatibility Issues Across Mac and PC Platforms</u></a></li>
+<li><a href="https://media-tips.techidaily.com/discover-the-power-of-windows-11-key-capabilities-seamless-update-process-and-expert-tips/"><u>Discover the Power of Windows 11: Key Capabilities, Seamless Update Process & Expert Tips</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722970912244-download-qualcomm-atheros-ar938x-drivers-for-free-simple-steps/"><u>Download Qualcomm Atheros AR938X Drivers for Free – Simple Steps!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-installation-and-regular-updates-of-the-epson-et-3760-driver-on-microsoft-windows-platforms/"><u>Easy Installation & Regular Updates of the Epson ET-3760 Driver on Microsoft Windows Platforms</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-htc-u23-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/far-cry-6-no-more-blank-screens-ultimate-fix-guide/"><u>Far Cry 6 No More Blank Screens: Ultimate Fix Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-logitech-driving-force-gt-software-download-compatible-with-windows-7-10-and-11/"><u>Free Logitech Driving Force GT Software Download Compatible with Windows 7, 10 & 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722975913329-get-your-behringer-usb-interface-now-secure-and-direct-links-here/"><u>Get Your Behringer USB Interface Now – Secure and Direct Links Here!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-fetch-and-setup-the-most-recent-nvidia-driver-updates-for-optimal-performance/"><u>How to Fetch and Setup the Most Recent Nvidia Driver Updates for Optimal Performance</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-share-mac-to-apple-iphone-6-plus-drfone-by-drfone-ios/"><u>How to Screen Share Mac to Apple iPhone 6 Plus? | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-the-complete-guide-to-mastering-polarrs-image-precision/"><u>In 2024, The Complete Guide to Mastering Polarr's Image Precision</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-guide-obtain-and-install-updated-nvidia-gpu-drivers-for-enhanced-gaminggraphics-experience/"><u>Quick Guide: Obtain & Install Updated NVIDIA GPU Drivers for Enhanced Gaming/Graphics Experience</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reawaken-your-apple-device-troubleshooting-disabled-iphones-and-ipads/"><u>Reawaken Your Apple Device: Troubleshooting Disabled iPhones and iPads</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/streamlined-process-to-obtain-new-drivers-for-your-lenovo-t450-laptop/"><u>Streamlined Process to Obtain New Drivers for Your Lenovo T450 Laptop</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-walkthrough-ensuring-your-amd-radeon-hd-7850-is-running-on-updated-graphics-drivers-in-windows-11/"><u>The Ultimate Walkthrough: Ensuring Your AMD Radeon HD 7850 Is Running on Updated Graphics Drivers in Windows 11</u></a></li>
 </ul></div>
 

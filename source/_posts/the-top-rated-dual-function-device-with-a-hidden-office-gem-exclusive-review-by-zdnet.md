@@ -1,7 +1,7 @@
 ---
 title: "The Top-Rated Dual-Function Device with a Hidden Office Gem: Exclusive Review by ZDNet"
-date: 2025-01-27T02:21:07.624Z
-updated: 2025-02-02T16:16:52.443Z
+date: 2025-02-14T03:13:52.596Z
+updated: 2025-02-16T00:59:06.238Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -81,7 +81,7 @@ Alongside them are a pair of discrete microphones capable of picking out the fin
 So the high visual resolution, combined with the powerful audio system and recording features, make the HP Elitebook x360 one of the better laptops out there for on-the-go video calls.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -120,19 +120,24 @@ For more traditional users, I'd recommend the [Acer Swift 14](https://shop-links
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-elevate-presentations-10-must-have-slide-show-designs-at-no-cost/"><u>[New] In 2024, Elevate Presentations 10 Must-Have Slide Show Designs at No Cost</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-ultimate-conclusion-to-your-youtube-journey/"><u>[New] The Ultimate Conclusion to Your YouTube Journey</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-how-to-repost-photos-and-video-on-instagram/"><u>[Updated] How to Repost Photos and Video on Instagram</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-snapshot-to-sequence-capturing-life-in-motion/"><u>[Updated] In 2024, Snapshot to Sequence Capturing Life in Motion</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-video-connectivity-sharing-across-twitter-and-tumblr-for-2024/"><u>[Updated] Video Connectivity Sharing Across Twitter & Tumblr for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amazing-budget-friendly-laptop-for-peak-performance-beats-thinkpads-and-macbooks-sale-exclusive-prime-day-discount/"><u>Amazing Budget-Friendly Laptop for Peak Performance Beats ThinkPads and MacBooks - Sale! Exclusive Prime Day Discount</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/dont-miss-out-snag-the-discounted-m2-macbook-air-for-just-749-during-amazons-october-prime-day-expert-analysis-by-zdnet/"><u>Don't Miss Out: Snag the Discounted M2 MacBook Air for Just $749 During Amazon's October Prime Day – Expert Analysis by ZDNET</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exclusive-offer-grab-the-affordable-8-iphone-cam-mount-at-a-steal-cyber-monday-blowout-continues/"><u>Exclusive Offer: Grab the Affordable $8 iPhone Cam Mount at a Steal - Cyber Monday Blowout Continues !</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-razer-naga-software-updates-for-windows-users/"><u>Get the Latest Razer Naga Software Updates for Windows Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ideal-thinkpad-models-for-the-modern-hybrid-worker-beyond-lenovos-latest-innovations-techadvice/"><u>Ideal ThinkPad Models for the Modern Hybrid Worker: Beyond Lenovo's Latest Innovations | TechAdvice</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-bite-sized-biographical-look/"><u>In 2024, Bite-Sized Biographical Look</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ntaneous-timestamping-for-your-youtube-urls-for-2024/"><u>Instantaneous Timestamping for Your YouTube URLs for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/introducing-lenovos-new-alternative-a-mac-studio-inspired-design-tailored-for-windows-enthusiasts-could-it-surpass-apple-techdigest/"><u>Introducing Lenovo's New Alternative: A Mac Studio-Inspired Design Tailored for Windows Enthusiasts - Could It Surpass Apple? | TechDigest</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/maximizing-xbox-broadcast-transitioning-to-fb-live/"><u>Maximizing Xbox Broadcast Transitioning to FB Live</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/nriching-youtube-content-with-improved-sound-quality/"><u>[New] Enriching YouTube Content with Improved Sound Quality</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-disable-unsolicited-youtube-video-listings/"><u>[New] In 2024, Disable Unsolicited YouTube Video Listings</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-layout-layers-elevating-your-youtube-videos/"><u>[Updated] 2024 Approved Layout Layers Elevating Your YouTube Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hdr-rating-does-aurora-deliver-quality/"><u>[Updated] HDR Rating Does Aurora Deliver Quality?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-correct-no-sound-issue-on-shared-videos/"><u>[Updated] In 2024, Correct No Sound Issue on Shared Videos</u></a></li>
+<li><a href="https://games-able.techidaily.com/7-must-play-ps5-games-from-ea-play/"><u>7 Must-Play PS5 Games From EA Play</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-the-latest-fingerprint-authentication-suite-on-windows-pcs/"><u>Download and Install the Latest Fingerprint Authentication Suite on Windows PCs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-microsoft-bluetooth-drivers-for-windows-11-10-8-and-7/"><u>Download and Update Microsoft Bluetooth Drivers for Windows 11, 10, 8, and 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-hp-laserjet-pro-mfp-m428fdw-printer-drivers-compatible-with-windows-11-10-and-7/"><u>Download HP LaserJet Pro MFP M428fdw Printer Drivers: Compatible with Windows 11, 10 & 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-samsung-android-debug-bridge-adb-drivers-fast-and-easy/"><u>Download Samsung Android Debug Bridge (ADB) Drivers - Fast & Easy</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dropped-offline-the-internets-lament/"><u>Dropped Offline: The Internet's Lament</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-setup-how-to-connect-your-surface-dock-in-minutes/"><u>Effortless Setup: How to Connect Your Surface Dock in Minutes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-your-wi-fi-experience-the-essentials-of-wireless-software-and-driver-refresh-on-windows-pcs/"><u>Enhance Your Wi-Fi Experience: The Essentials of Wireless Software and Driver Refresh on Windows PCs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-downloads-essential-drivers-for-the-logitee-k400plus-mouse-and-trackpad/"><u>Free Downloads: Essential Drivers for the Logitee K400+ Mouse & Trackpad</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-latest-microsoft-bluetooth-drivers-for-windows-11-10-8-and-7-download-now/"><u>How to Get the Latest Microsoft Bluetooth Drivers for Windows 11, 10, 8 & 7 - Download Now</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/sky-high-insights-comprehensive-phantom-4-breakdown-for-2024/"><u>Sky-High Insights Comprehensive Phantom 4 Breakdown for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/1719150058146-social-media-preference-poll-here/"><u>Social Media Preference Poll Here!</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-the-5-best-free-m4a-audio-editors-you-need-to-try/"><u>Updated The 5 Best Free M4A Audio Editors You Need to Try</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upgrade-now-simplified-setup-of-the-latest-nahimic-sound-card-software/"><u>Upgrade Now: Simplified Setup of the Latest Nahimic Sound Card Software</u></a></li>
 </ul></div>
 

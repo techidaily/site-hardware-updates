@@ -1,7 +1,7 @@
 ---
 title: Huge Discount on Apple's New M3 MacBook Air - Save $250 at the Amazon Prime Day Event in Oct | ZDNet
-date: 2025-01-30T06:13:31.953Z
-updated: 2025-02-03T02:46:28.834Z
+date: 2025-02-12T05:17:33.012Z
+updated: 2025-02-15T20:33:32.913Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Jason Hiner/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the deal?
@@ -31,7 +31,7 @@ The Apple [M3 MacBook Pro 14"](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FU
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -59,7 +59,7 @@ In addition, with up to 22 hours of battery life, the M3 improves on previous ve
 The [M3 MacBook Pros](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CM5JLWJK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb12ee2ea-4d7b-4e84-84d3-0702024ae9c4%7Cdtp&dtb=1) come in three iconic colors of silver, space gray, and space black, with the all-aluminum body designed to resist scratches and dents, adding to the line's durable reputation. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -98,24 +98,18 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/rafting-a-pro-sports-youtube-feed-on-macos-for-2024/"><u>[New] Crafting a Pro Sports YouTube Feed on MacOS for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unveiling-the-full-potential-of-powerdirector-24/"><u>[New] Unveiling the Full Potential of PowerDirector '24</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-the-ultimate-free-guide-to-youtube-ad-videos/"><u>2024 Approved The Ultimate Free Guide to YouTube Ad Videos</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/choosing-the-perfect-college-laptop-top-4-factors-and-10-recommended-models-insights/"><u>Choosing the Perfect College Laptop: Top 4 Factors & 10 Recommended Models - Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-the-ultimate-best-buy-bargains-for-octobers-prime-day-2024-live-savings-spotlight-on-zdnet/"><u>Discover the Ultimate Best Buy Bargains for October's Prime Day, 2024 - Live Savings Spotlight on ZDNET</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-new-apple-macbook-air-with-m1-for-just-799-this-october-prime-day-special-at-amazon-revealed-by-zdnet/"><u>Get the New Apple MacBook Air with M1 for Just $799 This October - Prime Day Special at Amazon Revealed by ZDNet!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/guide-switching-language-settings-in-single-android-applications/"><u>Guide: Switching Language Settings in Single Android Applications</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-htc-u23-pro-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from HTC U23 Pro.</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Xiaomi 14 | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Motorola Moto G73 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-vivo-y27-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Vivo Y27 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-windows-10-sound-issues-restoring-headphone-functionality/"><u>Solving Windows 10 Sound Issues: Restoring Headphone Functionality</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-tips-for-scoring-amazing-october-2024-prime-day-discounts-on-high-performance-laptops/"><u>Top Tips for Scoring Amazing October 2024 Prime Day Discounts on High-Performance Laptops</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-vpn-providers-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated VPN Providers : Comprehensive Reviews by Tech Experts - ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-choosing-a-high-performance-touchscreen-laptop-expert-ratings-and-thorough-testing-by-zdnet/"><u>Ultimate Guide to Choosing a High-Performance Touchscreen Laptop: Expert Ratings & Thorough Testing by ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-choosing-a-video-editors-laptop-industry-insights-and-ratings-cnet/"><u>Ultimate Guide to Choosing a Video Editor's Laptop: Industry Insights & Ratings | CNET</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-score-amazing-savings-on-laptops-this-oct-24-exclusive-deals-revealed/"><u>Ultimate Guide: Score Amazing Savings on Laptops This Oct '24 – Exclusive Deals Revealed</u></a></li>
-<li><a href="https://fox-access.techidaily.com/ultimate-headset-guide-for-drone-racing-enthusiasts/"><u>Ultimate Headset Guide for Drone Racing Enthusiasts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unleashing-creativity-this-festive-season-essential-gift-ideas-for-handy-diyers-as-recommended/"><u>Unleashing Creativity This Festive Season: Essential Gift Ideas for Handy DIYers, as Recommended</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-top-youtube-name-makers-plus-creative-idea-sparking-techniques/"><u>[New] Top YouTube Name Makers + Creative Idea Sparking Techniques</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-bandicam-your-compreayer-for-high-quality-screen-recording/"><u>[Updated] 2024 Approved Bandicam Your Compreayer for High-Quality Screen Recording</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-buzzing-on-both-platforms-top-10-tiktok-tweets-explored-for-2024/"><u>[Updated] Buzzing on Both Platforms Top 10 TikTok Tweets Explored for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-effective-methods-for-downloading-audio-tracks-from-pinterest-videos-for-2024/"><u>[Updated] Effective Methods for Downloading Audio Tracks From Pinterest Videos for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-futures-how-gpt-4-will-reshape-diy/"><u>Crafting Futures: How GPT-4 Will Reshape DIY</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-newest-hp-deskjet-3755-all-in-one-printer-software-compatible-with-windows-1187/"><u>Download the Newest HP DeskJet 3755 All-In-One Printer Software Compatible with Windows 11/8/7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-system-upgraded-nvidias-latest-gaming-drivers-for-windows-11-and-10/"><u>Get Your System Upgraded: Nvidia's Latest Gaming Drivers for Windows 11 & 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-logitech-k350-software-for-smooth-setup-begin-your-download-today/"><u>Latest Logitech K350 Software for Smooth Setup: Begin Your Download Today</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-slug-lines-for-effective-storytelling/"><u>Mastering Slug Lines for Effective Storytelling</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/professional-procrastination-buster-top-windows-productivity-hacks/"><u>Professional Procrastination Buster: Top Windows Productivity Hacks</u></a></li>
+<li><a href="https://techidaily.com/remove-xiaomi-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Xiaomi unlock screen</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210336911-9781789047059-the-i-ching-oracle-a-guide-through-the-human-maze/"><u>The I Ching Oracle: A Guide Through The Human Maze | Free Book</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-fix-guide-for-windows-11s-troublesome-bluetooth-pairings-now-working/"><u>Ultimate Fix Guide for Windows 11'S Troublesome Bluetooth Pairings - Now Working!</u></a></li>
 </ul></div>
 

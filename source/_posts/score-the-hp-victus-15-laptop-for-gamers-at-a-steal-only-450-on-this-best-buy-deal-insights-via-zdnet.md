@@ -1,7 +1,7 @@
 ---
 title: Score The HP Victus #15 Laptop for Gamers at a Steal – Only $450 on This Best Buy Deal | Insights via ZDNET
-date: 2025-01-27T18:08:26.069Z
-updated: 2025-02-02T22:26:00.666Z
+date: 2025-02-12T20:54:55.831Z
+updated: 2025-02-16T05:30:06.945Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,21 +63,14 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-exploring-the-mystery-of-the-blue-video-symbol-on-fb-messages/"><u>[New] 2024 Approved Exploring the Mystery of the Blue Video Symbol on FB Messages</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-integration-hacks-adding-vimeo-content-to-powerpoint-decks/"><u>[Updated] 2024 Approved Integration Hacks Adding Vimeo Content to PowerPoint Decks</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-pick-the-best-top-8-srt-tools-without-payment/"><u>[Updated] Pick the Best Top 8 SRT Tools Without Payment</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/choosing-between-the-macbook-pro-and-macbook-air-a-comprehensive-guide-on-picking-the-ideal-apple-device/"><u>Choosing Between the MacBook Pro & MacBook Air: A Comprehensive Guide on Picking the Ideal Apple Device</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/decoding-fraudgpt-vital-insights-and-protective-techniques-against-this-risky-bot/"><u>Decoding FraudGPT: Vital Insights and Protective Techniques Against This Risky Bot</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-the-concealed-trackpoint-and-more-in-this-portable-lenovo-laptop-exclusive-insights/"><u>Discover the Concealed TrackPoint and More in This Portable Lenovo Laptop - Exclusive Insights</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/dual-display-dominance-top-videographer-verdict-for-2024/"><u>Dual Display Dominance Top Videographer Verdict for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unbeatable-summer-movie-list-10-familial-classics/"><u>In 2024, Unbeatable Summer Movie List 10 Familial Classics</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-magic-of-ar-mastering-lut-applications/"><u>In 2024, Unveiling the Magic of AR Mastering LUT Applications</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/introducing-lenovos-latest-innovation-the-ideal-ai-powered-thinkpad-designed-specifically-for-business-professionals-insights-from-zdnet/"><u>Introducing Lenovo's Latest Innovation: The Ideal AI-Powered ThinkPad Designed Specifically for Business Professionals - Insights From ZDNet</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/lightning-fast-visualization-for-win11-users/"><u>Lightning-Fast Visualization for Win11 Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/power-user-paradise-discover-the-top-duo-of-innovative-features-in-this-amazing-lenovo-laptop-insights/"><u>Power User Paradise: Discover the Top Duo of Innovative Features in This Amazing Lenovo Laptop - Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-fall-sale-alert-score-amazing-discounts-on-premium-laptops-this-october-for-upcoming-prime-days-zdnet-picks/"><u>Ultimate Fall Sale Alert! Score Amazing Discounts on Premium Laptops This October for Upcoming Prime Days - ZDNET Picks</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unleash-powerhouse-performance-exclusive-deals-on-top-tier-nvidia-gaming-notebooks-at-2024-amazon-prime-day-zdnet/"><u>Unleash Powerhouse Performance: Exclusive Deals on Top-Tier Nvidia Gaming Notebooks at 2024 Amazon Prime Day - ZDNet</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unlock-potential-intel-graphics-on-underpowered-devices/"><u>Unlock Potential: Intel Graphics on Underpowered Devices</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/why-opting-for-a-chromebook-discover-6-compelling-reasons-that-make-it-the-best-laptop-option-according-to-zdnet-experts/"><u>Why Opting for a Chromebook? Discover 6 Compelling Reasons That Make It the Best Laptop Option, According to ZDNet Experts</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-from-passive-to-active-income-profitable-facebook-tactics-for-2024/"><u>[New] From Passive to Active Income Profitable Facebook Tactics for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-20-free-public-license-pubg-gallery-mixes/"><u>[Updated] Best 20 Free Public License PUBG Gallery Mixes</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-captivating-audience-leading-5-tiktok-font-generators-of-2023-for-2024/"><u>[Updated] Captivating Audience Leading 5 TikTok Font Generators of 2023 for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-expert-strategies-for-high-quality-macbook-webcam-recordings/"><u>[Updated] Expert Strategies for High-Quality MacBook Webcam Recordings</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-radeon-rx-6800-xt-comprehensive-guide-to-download-and-update-drivers-on-various-windows-platforms/"><u>AMD Radeon RX 6800 XT: Comprehensive Guide to Download & Update Drivers on Various Windows Platforms</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-canon-drivers-with-simplicity-on-windows-systems/"><u>Download & Update Canon Drivers with Simplicity on Windows Systems!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-vivo-x100-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Vivo X100 to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-amd-gpu-driver-support-for-windows-operating-systems-windows-10117/"><u>Latest AMD GPU Driver Support for Windows Operating Systems (Windows 10/11/7)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-encryption-device-issues-on-pci-interface-now-stable/"><u>Mastering Encryption Device Issues on PCI Interface [Now Stable]</u></a></li>
 </ul></div>
 

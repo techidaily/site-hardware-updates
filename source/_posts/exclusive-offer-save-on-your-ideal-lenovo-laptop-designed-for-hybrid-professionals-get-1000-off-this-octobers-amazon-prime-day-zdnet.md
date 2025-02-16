@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Offer: Save on Your Ideal Lenovo Laptop Designed for Hybrid Professionals - Get $1,000 Off This October's Amazon Prime Day! | ZDNet"
-date: 2025-01-28T01:59:38.842Z
-updated: 2025-02-03T06:47:56.254Z
+date: 2025-02-15T02:58:01.447Z
+updated: 2025-02-16T06:38:25.460Z
 tags:
   - laptops
 categories:
@@ -42,7 +42,7 @@ This laptop isn't solely for business professionals, though. It's well-rounded e
 Right now is the best time to buy the [Lenovo Gen 12 ThinkPad X1 Carbon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D1D5J1J1%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3714981f-3a77-4004-9f5f-505a32073051%7Cdtp&dtb=1) since it's currently on sale at Amazon for $1,520 -- nearly $1,000 off the original price. I should also mention that there is a variant of the laptop with a 2.8K OLED display, which is the model [I tested back in February](https://www.zdnet.com/article/the-thinkpad-i-recommend-for-hybrid-workers-is-not-lenovos-newest-model/). The [OLED version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D5SNKGZ4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3714981f-3a77-4004-9f5f-505a32073051%7Cdtp&dtb=1) is much more expensive, but I recommend it as an alternative if you can afford it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -79,16 +79,21 @@ At the time of this writing, it is the second day of Amazon's October Prime Day 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-secrets-unveiled-perfect-your-360-youtube-live-experience/"><u>[New] Secrets Unveiled Perfect Your 360° YouTube Live Experience</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-uncovering-niche-experts-on-instagram-a-guide-to-impactful-collaborators-for-2024/"><u>[New] Uncovering Niche Experts on Instagram A Guide to Impactful Collaborators for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-elite-virtual-classrooms-finding-value-outside-udemys-ecosystem/"><u>[Updated] 2024 Approved Elite Virtual Classrooms Finding Value Outside Udemy's Ecosystem</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-masterclass-in-visualization-perfectly-cropped-instagram-videos/"><u>[Updated] In 2024, Masterclass in Visualization Perfectly Cropped Instagram Videos</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-one-source-livestream-perfection-a-streamers-blueprint/"><u>[Updated] One-Source Livestream Perfection A Streamer's Blueprint</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/conquering-quick-pause-in-windows-11-comprehensive-strategies-unveiled/"><u>Conquering Quick Pause in Windows 11: Comprehensive Strategies Unveiled</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/experience-unmatched-gaming-performance-with-discounts-on-alienwares-beastly-m18-laptop-after-labor-day-tech-analysis/"><u>Experience Unmatched Gaming Performance with Discounts on Alienware's Beastly M18 Laptop After Labor Day | Tech Analysis</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-the-laptop-that-beats-apples-macbook-air-cost-vs-power-comparison-insights-from-zdnet/"><u>Exploring the Laptop That Beats Apple's MacBook Air: Cost vs Power Comparison | Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/immersed-in-lenovos-revolutionary-auto-swivel-laptop-unveiled-at-ifa-2024-an-exclusive-insight-zdn/"><u>Immersed in Lenovo’s Revolutionary Auto-Swivel Laptop Unveiled at IFA 2024: An Exclusive Insight | ZDN</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/inside-look-i-experienced-every-new-ai-update-on-copilot-pcs-and-heres-why-it-might-just-live-up-to-its-hype-zdnet-insider-report/"><u>Inside Look: I Experienced Every New AI Update on Copilot PCs & Here's Why It Might Just Live Up to Its Hype | ZDNET Insider Report</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-must-have-accessories-for-mac-and-pc-users-enhance-your-visual-experience-on-ultra-hd-8k-monitors-wired-gadgets/"><u>Top Must-Have Accessories for Mac and PC Users: Enhance Your Visual Experience on Ultra HD 8K Monitors | Wired Gadgets</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-harnessing-facebooks-potential-for-maximum-revenue/"><u>[New] 2024 Approved Harnessing Facebook's Potential for Maximum Revenue</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-avoid-the-fake-out-maintaining-authenticity-in-likes/"><u>[Updated] In 2024, Avoid the Fake-Out Maintaining Authenticity in Likes</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-mastering-live-tv-is-vmix-or-wirecast-your-go-to-tool/"><u>[Updated] In 2024, Mastering LIVE TV Is VMix or Wirecast Your Go-To Tool?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-customize-your-scroll-delete-instagram-suggestions/"><u>2024 Approved Customize Your Scroll Delete Instagram Suggestions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ace-your-career-paths-mastering-interviews-via-chatgpt/"><u>Ace Your Career Paths: Mastering Interviews via ChatGPT</u></a></li>
+<li><a href="https://games-able.techidaily.com/banish-blue-screen-blues-repairing-the-launcher-hitch/"><u>Banish Blue Screen Blues: Repairing the Launcher Hitch</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-driver-pack-for-intel-wi-fi-6-ax200-on-your-pc-windows-1110/"><u>Download & Update Driver Pack for Intel Wi-Fi 6 AX200 on Your PC (Windows 11/10)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-your-epson-v600-driver-today/"><u>Download & Update Your Epson V600 Driver Today</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-steps-downloading-and-installing-samsung-ssd-drives-successfully/"><u>Easy Steps: Downloading & Installing Samsung SSD Drives - Successfully!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/essential-guide-installing-and-updating-hp-spectre-x360-drivers-on-windows/"><u>Essential Guide: Installing & Updating HP Spectre X360 Drivers on Windows</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-key-points-in-youtube-monetization-overhaul/"><u>In 2024, Key Points in YouTube Monetization Overhaul</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/step-by-step-guide-addingremoving-applications-via-control-panel-tips-from-yl-computing/"><u>Step-by-Step Guide: Adding/Removing Applications via Control Panel - Tips From YL Computing</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-and-resolving-synaptics-touchpad-driver-conflicts-in-windows-10/"><u>Troubleshooting and Resolving Synaptics Touchpad Driver Conflicts in Windows 10</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-powershell-and-cmd-in-a-targeted-folder-with-simple-steps/"><u>Unlocking PowerShell and CMD in a Targeted Folder with Simple Steps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-instructions-for-samsung-usb-drivers-in-mobile-devices/"><u>Update Instructions for Samsung USB Drivers in Mobile Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/windows-users-get-your-logitech-g602-mouse-up-and-running/"><u>Windows Users: Get Your Logitech G602 Mouse Up and Running!</u></a></li>
 </ul></div>
 

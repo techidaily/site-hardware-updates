@@ -1,7 +1,7 @@
 ---
 title: Innovative Laptop Holder Enables Mobile Phones to Act as Extra Monitors, Says ZDNet Review
-date: 2025-02-02T00:14:11.251Z
-updated: 2025-02-02T20:32:09.304Z
+date: 2025-02-12T17:50:58.486Z
+updated: 2025-02-15T17:30:29.034Z
 tags:
   - laptops
 categories:
@@ -41,7 +41,7 @@ Here are some of the most interesting features I saw during my hands-on briefing
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Smart Share
@@ -61,7 +61,7 @@ Kyle Kucharski/ZDNET
 Besides the Smart Share features, there are four different "modes" that activate various features. You can toggle each feature on or off individually, to avoid being bombarded with different prompts. Here are the most impactful ones I saw during my time trying the new laptops.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Shield Mode
@@ -70,7 +70,7 @@ Besides the Smart Share features, there are four different "modes" that activate
 * The VPN auto-launch feature will start your preferred VPN automatically upon connecting to any public Wi-Fi network, a handy function if you spend a lot of time working in coffee shops.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Attention Mode
@@ -80,7 +80,7 @@ Besides the Smart Share features, there are four different "modes" that activate
 Kyle Kucharski/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Collaboration Mode
@@ -88,7 +88,7 @@ Kyle Kucharski/ZDNET
 * Designed mostly for virtual meetings, activating this mode enables your preset camera features, such as background blur, low light enhancer, or touch ups.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Wellness Mode
@@ -133,22 +133,20 @@ We'll definitely be doing some additional testing of the smart modes when we get
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-discover-ultimate-sites-for-stunning-sky-photos/"><u>[New] 2024 Approved Discover Ultimate Sites for Stunning Sky Photos</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-enhance-snaps-with-cultural-pop-culture-learn-anime-on-snapchat/"><u>[New] 2024 Approved Enhance Snaps with Cultural Pop-Culture Learn Anime On Snapchat</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-fist-of-legends-highest-rated-kung-fu-virtual-battles/"><u>[Updated] Fist of Legends Highest-Rated Kung Fu Virtual Battles</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-increase-viewership-fairly-insights-for-video-marketers/"><u>[Updated] Increase Viewership Fairly Insights for Video Marketers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/a-tech-expert-reviews-the-best-all-rounder-laptop-popular-durable-and-packed-with-high-quality-components-zdnet-insights/"><u>A Tech Expert Reviews the Best All-Rounder Laptop – Popular, Durable & Packed with High-Quality Components | ZDNet Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/affordably-powerful-the-compact-8-in-1-adapter-outperforms-expectations-ideal-for-tech-enthusiasts/"><u>Affordably Powerful - The Compact 8-in-1 Adapter Outperforms Expectations, Ideal for Tech Enthusiasts!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-why-most-users-love-the-affordable-high-quality-15-macbook-air-with-250-off-zdnets-expert-take/"><u>Discover Why Most Users Love the Affordable, High-Quality 15” MacBook Air with $250 Off - ZDNet's Expert Take!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-installation-instructions-for-brother-mfc-l2700dw-on-windows-machines/"><u>Download & Installation Instructions for Brother MFC-L2700DW on Windows Machines</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/essential-tricks-for-mac-users-handling-persistent-cooling-fan-activity-tips-by-zdnet/"><u>Essential Tricks for Mac Users: Handling Persistent Cooling Fan Activity, Tips by ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/explore-lenovos-enhanced-thinkpad-x1-unveiling-the-fresh-features-with-insights-from-zdnet/"><u>Explore Lenovo's Enhanced ThinkPad X1: Unveiling the Fresh Features with Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-the-latest-wave-of-alienware-gaming-laptops-showcased-at-ces-2023-insights-and-preview-by-zdnet/"><u>Exploring the Latest Wave of Alienware Gaming Laptops Showcased at CES 2023 | Insights & Preview by ZDNET</u></a></li>
-<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-oppo-a1-5g-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Oppo A1 5G FRP Locks</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-nvidia-geforce-rtx-groovy-3080-ti-gpu-drivers-on-windows-11-8-and-7/"><u>Get the Latest NVIDIA GeForce RTX Groovy! 3080 Ti GPU Drivers on Windows 11, 8 & 7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/prime-day-preview-essential-money-saving-deals-on-amazon-ahead-of-2024s-event-featured/"><u>Prime Day Preview: Essential Money-Saving Deals on Amazon Ahead of 2024’S Event, Featured</u></a></li>
-<li><a href="https://facebook.techidaily.com/reinventing-your-social-interactions-without-the-facebook-network/"><u>Reinventing Your Social Interactions without the Facebook Network</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlocking-chromes-battery-boost-activating-energy-saving-settings-for-optimal-performance-why-it-matters/"><u>Unlocking Chrome's Battery Boost: Activating Energy Saving Settings for Optimal Performance (Why It Matters)</u></a></li>
-<li><a href="https://article-helps.techidaily.com/unlocking-the-world-of-premium-banners-for-media-for-2024/"><u>Unlocking the World of Premium Banners for Media for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/immediate-access-secure-qualcomm-atheros-ar938x-networking-drivers-for-optimal-performance-complimentary/"><u>[Immediate Access] Secure Qualcomm Atheros AR938X Networking Drivers for Optimal Performance - Complimentary</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-tighten-up-your-timeline-youtube-video-trimming-techniques/"><u>2024 Approved Tighten Up Your Timeline YouTube Video Trimming Techniques</u></a></li>
+<li><a href="https://techtrends.techidaily.com/decoding-virtual-versus-augmented-versus-mixed-realities-an-in-depth-guide-to-types-of-digital-environments/"><u>Decoding Virtual Versus Augmented Versus Mixed Realities: An In-Depth Guide to Types of Digital Environments</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-installation-of-linksys-ea3000-drivers-start-now/"><u>Effortless Installation of Linksys EA3000 Drivers - Start Now</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-memory-efficiency-with-edge-webview2-fixes/"><u>Enhancing Memory Efficiency with Edge WebView2 Fixes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-and-install-updated-drivers-for-your-toshiba-dynabook-on-windows-computers/"><u>Find and Install Updated Drivers for Your Toshiba Dynabook on Windows Computers</u></a></li>
+<li><a href="https://windows11.techidaily.com/guidelines-to-correct-err-87-on-windows-loadlib/"><u>Guidelines to Correct Err 87 on Windows LoadLib</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-oppo-k11-5g-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Oppo K11 5G FRP Without Computer</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/intel-hd-graphics-630-driver-issues-in-windows-solved/"><u>Intel HD Graphics 630 Driver Issues In Windows [SOLVED]</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/keep-your-printer-running-smoothly-with-the-new-epson-wf-3620-windows-driver-update/"><u>Keep Your Printer Running Smoothly with the New Epson WF-3620 Windows Driver Update!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/metaverse-expedition-leading-vr-accessories-reviewed/"><u>Metaverse Expedition Leading VR Accessories Reviewed</u></a></li>
+<li><a href="https://win-net.techidaily.com/navigate-your-deskless-files-with-windows-ai-powered-recall-feature-exclusive-guide/"><u>Navigate Your Deskless Files with Windows' AI-Powered Recall Feature – Exclusive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/rapid-download-compatible-geforce-rtx-2060-super-graphics-card-drivers-with-windows-10-11/"><u>Rapid Download: Compatible GeForce RTX 2060 Super Graphics Card Drivers with Windows 10, 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722963283780-speedy-windows-guide-to-downloading-and-setting-up-bcm207n02a0-drivers/"><u>Speedy Window's Guide to Downloading & Setting Up BCM207n02A0 Drivers</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-the-future-of-video-editing-fast-reliable-and-64-bit-compatible/"><u>Updated 2024 Approved The Future of Video Editing Fast, Reliable, and 64-Bit Compatible</u></a></li>
 </ul></div>
 

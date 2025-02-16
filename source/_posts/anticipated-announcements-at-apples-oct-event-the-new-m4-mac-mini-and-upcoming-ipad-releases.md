@@ -1,7 +1,7 @@
 ---
 title: "Anticipated Announcements at Apple's Oct Event: The New M4 Mac Mini & Upcoming iPad Releases"
-date: 2025-01-30T06:24:52.267Z
-updated: 2025-02-03T02:07:05.833Z
+date: 2025-02-10T05:02:33.889Z
+updated: 2025-02-16T06:26:13.149Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,21 +118,22 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-illuminate-a-guide-to-great-vlog-images/"><u>[New] In 2024, How to Illuminate A Guide to Great Vlog Images</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-finding-pixel-ringtone-treasures-online/"><u>[Updated] Finding Pixel Ringtone Treasures Online</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-groundbreaking-8-android-video-call-services-more-than-four/"><u>[Updated] In 2024, Groundbreaking 8 Android Video Call Services, More Than Four</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/2023-ultimate-memory-guide-professional-workstation-and-gaming-upgrades-revealed-top-picks/"><u>2023 Ultimate Memory Guide: Professional Workstation and Gaming Upgrades Revealed Top Picks</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/2023s-most-impactful-tech-innovations-unveiled-how-they-transformed-the-game-featured/"><u>2023'S Most Impactful Tech Innovations Unveiled | How They Transformed the Game - Featured</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-vivo-y100t-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Vivo Y100t</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/choosing-between-ipad-pro-and-macbook-air-expert-analysis-on-which-is-ideal-for-you-insights-from-zdnet/"><u>Choosing Between iPad Pro and MacBook Air: Expert Analysis on Which Is Ideal for You | Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-the-leading-antivirus-solutions-as-chosen-experts/"><u>Discover the Leading Antivirus Solutions as Chosen Experts</u></a></li>
-<li><a href="https://driver-install.techidaily.com/efficient-installation-of-netgear-a6200-dongle/"><u>Efficient Installation of Netgear A6200 Dongle</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-infinix-smart-7-hd-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Infinix Smart 7 HD in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/modificacoes-de-arquivos-para-wav-offline-e-online-gratuitas-pelo-movavi/"><u>Modificações De Arquivos Para WAV Offline E Online Gratuitas Pelo Movavi!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-9-unbeatable-gaming-laptop-offers-in-february-2023-exclusive-picks-by-zdnet/"><u>Top 9 Unbeatable Gaming Laptop Offers in February 2023 - Exclusive Picks by ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-leading-macos-applications-insights/"><u>Ultimate Guide to Leading macOS Applications : Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-savings-guide-for-pre-prime-day-2024-shopping-best-deals-curated-by-zdnet/"><u>Ultimate Savings Guide for Pre-Prime Day 2024 Shopping | Best Deals Curated by ZDNET</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unboxing-and-testing-the-2022-upgraded-apple-macbook-air-with-m2-chip-enhanced-performance-slimmer-build-but-is-it-worth-the-price-hike-gadgetgurus/"><u>Unboxing & Testing the 2022 Upgraded Apple MacBook Air with M2 Chip: Enhanced Performance, Slimmer Build - But Is It Worth the Price Hike? | GadgetGurus</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/what-software-does-youtube-vloggers-use-and-what-is-the-best-free-video-editing-software-for-vlogger-beginners-in-this-article-youll-find-5-best-vlog-video-/"><u>What Software Does YouTube Vloggers Use? And What Is the Best Free Video Editing Software for Vlogger Beginners? In This Article, Youll Find 5 Best Vlog Video Editing Software. You Can Now Choose Th</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-share-a-private-youtube-video-with-google-account/"><u>[New] 2024 Approved How to Share a Private YouTube Video with Google Account?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unmarked-image-accumulation-essentials/"><u>[New] Unmarked Image Accumulation Essentials</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-advancing-well-being-with-facebook-campaign-insights/"><u>[Updated] Advancing Well-Being with Facebook Campaign Insights</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-creating-impressive-video-tracks-with-a-newbie-mac-user/"><u>2024 Approved Creating Impressive Video Tracks with a Newbie Mac User</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/boosting-gaming-experience-why-asus-geforce-970-pro-is-a-top-choice/"><u>Boosting Gaming Experience: Why Asus GeForce 970 Pro Is a Top Choice</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/brother-mfc-7360n-driver-updates-seamless-integration-with-windows-11-8-and-7-systems/"><u>Brother MFC-7360N Driver Updates - Seamless Integration with Windows 11, 8 & 7 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-official-canon-imageclass-mf4800-drivers-here/"><u>Download Official Canon ImageCLASS MF4800 Drivers Here!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-latest-huion-h610-pro-graphics-tablet-software/"><u>Download the Latest Huion H610 Pro Graphics Tablet Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-downloading-of-your-elgato-driver-tools/"><u>Effortless Downloading of Your Elgato Driver Tools</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-hp-deskjet-2652-printer-drivers-you-need-supporting-windows-11-10-8-and-7-systems/"><u>Get the HP DeskJet 2652 Printer Drivers You Need: Supporting Windows 11, 10, 8 & 7 Systems</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-honor-x9b-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Honor X9b</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-apple-iphone-11-pro-max-without-him-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Two Ways to Track My Boyfriends Apple iPhone 11 Pro Max without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://discover-great.techidaily.com/ipod-sound-shuffle-three-proven-strategies-for-successful-music-migration/"><u>IPod Sound Shuffle: Three Proven Strategies for Successful Music Migration</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-logitech-m525-device-software-and-driver-downloads/"><u>Latest Logitech M525 Device Software and Driver Downloads</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/mastering-instavid-promotion-crafting-a-successful-marketing-gameplan-for-2024/"><u>Mastering InstaVid Promotion Crafting a Successful Marketing Gameplan for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/realtek-rtl81andampcu-drivers-free-download-for-windows-10-and-7/"><u>Realtek RTL81^&amp;CU Drivers: Free Download for Windows 10 & 7</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Microsoft Slashes Prices on Surface Go and Drops All-Time Low Price for Xbox Series S
-date: 2025-01-27T20:07:14.582Z
-updated: 2025-02-03T01:11:29.574Z
+date: 2025-02-14T05:12:41.077Z
+updated: 2025-02-16T01:15:54.675Z
 tags:
   - laptops
 categories:
@@ -27,7 +27,7 @@ Microsoft is known for its innovative products in gaming, computers, and more. A
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Save hundreds on Surface tablets and laptops**
@@ -43,7 +43,7 @@ Under the tablet's hood, you'll find a blazing-fast processor (12th Gen Intel Co
 Meanwhile, if you're preference is for laptops, then Microsoft has other deals for you. You can save $200 on the Surface Laptop 5, up to $646 on the Surface Laptop 4, and $150 on the Surface Laptop Go 2\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Get the Xbox Series S at its lowest price ever**
@@ -59,7 +59,7 @@ This is a digital console, meaning you'll have ample room to download games on i
 Overall, the Xbox Series S is an excellent gaming system for those looking for jaw-dropping graphics, access to a diverse gaming library, and fast performance. In addition, Microsoft lowered its price to $239.99, making it the best time to buy one. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Want to save even more on Microsoft devices?**
@@ -110,19 +110,19 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-budget-friendly-backdrops-a-journey-through-tiktoks-visual-wonderland/"><u>[New] Budget-Friendly Backdrops A Journey Through TikTok's Visual Wonderland</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-dual-display-audio-preservation/"><u>[New] In 2024, Dual-Display Audio Preservation</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-discovering-chromium-phone-sonics-online-for-2024/"><u>[Updated] Discovering Chromium Phone Sonics Online for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ace-your-academics-with-ease-best-multi-tasking-2-in-1-laptops-reviewed/"><u>Ace Your Academics with Ease: Best Multi-Tasking 2-in-1 Laptops Reviewed</u></a></li>
-<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-lava-blaze-2-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Lava Blaze 2</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/anticipating-innovations-at-apples-event-this-month-unveiling-the-m4-mac-mini-enhanced-ipads-and-breakthroughs-in-machine-learning-technology/"><u>Anticipating Innovations at Apple's Event This Month - Unveiling the M4 Mac Mini, Enhanced iPads, and Breakthroughs in Machine Learning Technology</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-recover-deleted-text-messages-on-any-phone/"><u>How to Recover Deleted Text Messages on Any Phone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hp-victus-steals-at-515-unbeatable-gametech-during-best-buy-prime-days-exclusive-offer/"><u>HP Victus ✨ Steals at $515 - Unbeatable GameTech During Best Buy Prime Days! [Exclusive Offer]</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-k70-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi K70 Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-vivo-x90s-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Vivo X90S IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-apple-gadgets-launched-this-week-including-the-iphone-15-pro-advanced-series-n-apple-watch-and-revolutionary-airpods-zdnet/"><u>Latest Apple Gadgets Launched This Week Including the iPhone 15 Pro, Advanced Series N Apple Watch, and Revolutionary AirPods | ZDNET</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/superior-approaches-turning-visual-content-into-music-files-for-2024/"><u>Superior Approaches Turning Visual Content Into Music Files for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-resolving-easy-anti-cheat-issues-in-new-world-game/"><u>Troubleshooting Tips for Resolving 'Easy Anti-Cheat' Issues in New World Game</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/windows-fans-upgrade-to-lenovos-new-mac-studio-rivaling-apples-own-exclusive-analysis-zdnet/"><u>Windows Fans Upgrade to Lenovo's New Mac Studio Rivaling Apple’s Own – Exclusive Analysis | ZDNet</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-cutting-edge-techniques-mastering-youtube-subtitlecc-additions-for-2024/"><u>[New] Cutting-Edge Techniques Mastering YouTube Subtitle/CC Additions for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-creating-custom-subscribe-urls-for-online-content/"><u>[Updated] 2024 Approved Creating Custom Subscribe URLs for Online Content</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-streamlining-call-logs-the-4-step-guide-for-fb-calls/"><u>[Updated] In 2024, Streamlining Call Logs The 4-Step Guide for FB Calls</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-smoothie-your-phone-converting-iphones-jpegpng-to-pdf/"><u>2024 Approved Smoothie Your Phone Converting iPhone's JPEG/PNG to PDF</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-2022s-ultimate-shopping-event-dates-and-top-bargains-of-black-friday-insights-from-zdnet/"><u>Discovering 2022'S Ultimate Shopping Event: Dates & Top Bargains of Black Friday – Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-latest-easycap-drivers-now-for-optimal-performance-and-support/"><u>Download the Latest EasyCAP Drivers Now for Optimal Performance & Support</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-netgear-wifi-card-software-for-smooth-connectivity/"><u>Get the Latest NETGEAR Wifi Card Software for Smooth Connectivity</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-right-lenovo-t430-drivers-for-your-windows-1087-system-fast-and-effortless/"><u>Get the Right Lenovo T430 Drivers for Your Windows 10/8/7 System – Fast & Effortless!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-rise-and-fall-of-vegas-pro-a-critical-look/"><u>In 2024, The Rise and Fall of Vegas Pro A Critical Look</u></a></li>
+<li><a href="https://win-forum.techidaily.com/new-beginnings-in-windows-11-heres-your-guide-to-a-full-system-restore/"><u>New Beginnings in Windows 11? Here's Your Guide to a Full System Restore</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722976785304-streamline-gaming-setup-secure-official-corsair-icue-app-downloads-for-windows-1110-systems/"><u>Streamline Gaming Setup: Secure Official Corsair iCUE App Downloads for WIndows 11/10 Systems</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/trouble-with-apple-iphone-15-pro-max-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>Trouble with Apple iPhone 15 Pro Max Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-guide-resolving-beats-audio-driver-problems-on-windows-pcs/"><u>Troubleshooting Guide: Resolving Beats Audio Driver Problems on Windows PCs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-realtek-alc887-driver-trouble-with-windows-systems/"><u>Troubleshooting Realtek ALC887 Driver Trouble with Windows Systems</u></a></li>
 </ul></div>
 

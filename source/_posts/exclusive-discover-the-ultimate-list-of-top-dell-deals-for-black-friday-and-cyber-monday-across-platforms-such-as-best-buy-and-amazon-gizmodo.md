@@ -1,7 +1,7 @@
 ---
 title: "Exclusive: Discover the Ultimate List of Top Dell Deals for Black Friday and Cyber Monday Across Platforms Such as Best Buy & Amazon | Gizmodo"
-date: 2025-02-01T06:01:54.150Z
-updated: 2025-02-02T18:00:05.870Z
+date: 2025-02-11T02:20:02.508Z
+updated: 2025-02-15T17:30:54.185Z
 tags:
   - laptops
 categories:
@@ -21,10 +21,6 @@ If you're shopping for a great deal on tech for this holiday season, ZDNET is tr
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best Dell holiday deals
 
@@ -94,7 +90,7 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C6FJGWK9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C2eb0ed0a-1482-4b7e-ad6d-938aa7fb75d0%7Cdtp&dtb=1) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Dell laptop holiday deals
@@ -106,7 +102,7 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell XPS 13 9310 13.4-inch touch laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-XPS-9310-Laptop-Touchscreen%2Fdp%2FB09PR52BHK%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C2eb0ed0a-1482-4b7e-ad6d-938aa7fb75d0%7Cdtp&dtb=1) for $1,071 (save $429)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Dell desktop holiday deals
@@ -119,7 +115,7 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell OptiPlex 3000 Desktop](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fdell-optiplex-3000-student-home-office%252Fp%252F1VK-0001-6EUX9) for $1,200 (save $440)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Dell monitor holiday deals
@@ -128,6 +124,10 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell SE2422HX 24-inch monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-inch-Monitor-1920-1080%2Fdp%2FB096MXR34N%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C2eb0ed0a-1482-4b7e-ad6d-938aa7fb75d0%7Cdtp&dtb=1): $100 (save $30)
 * [Dell 27-inch 4K FreeSync monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-S2721QS-Ultra-Thin-DisplayPort-Certified%2Fdp%2FB08DQWG3JG%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C2eb0ed0a-1482-4b7e-ad6d-938aa7fb75d0%7Cdtp&dtb=1) for $297 (save $33)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How did we choose these holiday deals?
 
 ZDNET only writes about deals we want to buy -- devices and products we desire, need, or would recommend. Our experts looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
@@ -135,7 +135,7 @@ ZDNET only writes about deals we want to buy -- devices and products we desire, 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the best holiday deals?
@@ -210,17 +210,18 @@ Here are the top deals by category we've found so far:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-unleash-your-brands-potential-on-igtv-with-these-top-10-tactics/"><u>[New] 2024 Approved Unleash Your Brand’s Potential on IGTV with These Top 10 Tactics</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-premium-cloud-storage-services-a-guides-choice/"><u>2024 Approved Premium Cloud Storage Services A Guide's Choice</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-realme-gt-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Realme GT 5 | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/elite-touchscreen-laptop-picks-in-depth-analysis-and-ratings-from-industry-specialists/"><u>Elite Touchscreen Laptop Picks: In-Depth Analysis & Ratings From Industry Specialists</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-the-new-features-in-samsunger-copilotplus-pc-with-cutting-edge-ai-spotlight-by-zdnet/"><u>Exploring the New Features in Samsung'er Copilot+ PC with Cutting-Edge AI | Spotlight by ZDNET</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-realme-11x-5g-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Realme 11X 5G</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-vivo-y27s-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Vivo Y27s Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/offer-excellent-customer-service/"><u>Offer Excellent Customer Service</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolving-ue4-madness-how-to-overcome-unexpected-clashes-in-outriders-gameplay/"><u>Resolving 'UE4-Madness': How to Overcome Unexpected Clashes in Outriders Gameplay</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/returning-to-academia-maximize-your-budget-with-samsungs-exclusive-discounts-for-students-laptops-tablets-and-accessories/"><u>Returning to Academia? Maximize Your Budget with Samsung’s Exclusive Discounts for Students: Laptops, Tablets & Accessories</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/sound-sanitization-cleaning-up-your-online-footage-for-2024/"><u>Sound Sanitization Cleaning Up Your Online Footage for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-laptop-picks-for-2vearly-testing-insights-from-tech-experts-at-zdnet/"><u>Top-Rated Laptop Picks for 2Vearly Testing - Insights From Tech Experts at ZDNet</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-boosting-yield-strategies-for-successful-money-making-on-mobile-youtube-for-2024/"><u>[Updated] Boosting Yield Strategies for Successful Money-Making on Mobile YouTube for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/compatible-with-any-windows-os-secure-your-oculus-driver-downloads-now-windows-11-10-8-and-7/"><u>Compatible with Any Windows OS: Secure Your Oculus Driver Downloads Now! (Windows 11, 10, 8 & 7)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-amd-radeon-hd-graphics-drivers-on-windows-7/"><u>Download AMD Radeon HD Graphics Drivers on Windows 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-official-microsoft-audio-interface-cards-software-for-windows-systems-here/"><u>Download Official Microsoft Audio Interface Cards Software for Windows Systems Here</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-updates-and-downloads-for-your-surface-books-drivers-get-started-here/"><u>Effortless Updates and Downloads for Your Surface Book's Drivers – Get Started Here</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-access-to-latest-version-wi-fi-drivers-compatible-with-win11win10win8win7-download-today/"><u>Free Access to Latest-Version Wi-Fi Drivers Compatible with Win11/Win10/Win8/Win7 - Download Today!</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-iphone-7-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My iPhone 7 After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-meizu-21-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Meizu 21 Unlock Without Password</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-how-to-select-a-youtube-gaming-introduction-maker-free-or-paid-edition/"><u>In 2024, How to Select a YouTube Gaming Introduction Maker Free or Paid Edition</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-xiaomi-mix-fold-3-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Xiaomi Mix Fold 3 Phone</u></a></li>
+<li><a href="https://win-able.techidaily.com/new-world-continues-to-experience-chilling-halts-a-comprehensive-guide/"><u>New World Continues to Experience Chilling Halts: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/streamlined-process-for-asus-z370-e-drivers-begin-your-update-today/"><u>Streamlined Process for ASUS Z370-E Drivers - Begin Your Update Today</u></a></li>
+<li><a href="https://win-data.techidaily.com/yl-softwares-premium-calumon-image-set-for-desktop-and-mobile-screensavers/"><u>YL Software's Premium Calumon Image Set for Desktop & Mobile Screensavers</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Apple's Latest Battle: Comparing the M3 Vs. M2 MacBook Air on ZDNet"
-date: 2025-01-27T21:38:29.327Z
-updated: 2025-02-03T10:02:45.778Z
+date: 2025-02-10T16:50:44.751Z
+updated: 2025-02-16T01:16:00.051Z
 tags:
   - laptops
 categories:
@@ -25,7 +25,7 @@ Recently, I did a thing: I switched my heavyweight Windows PC for a docked [16-i
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### See also
@@ -44,10 +44,14 @@ So what if I told you you can remap the Apple keyboard so that the Globe key, wh
 
 (Even if you've always been a Mac user, and everything I just wrote meant nothing to you, you'll still want to read this. There's a good chance that the following remapping feature will benefit you just as much, too.)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to remap the Globe key into the Command key
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open up Keyboard settings
@@ -57,7 +61,7 @@ Let's start by running a Spotlight Search (clicking the magnifying glass on the 
 You can also access this menu by clicking the Apple icon on the top left of the status bar > System Preferences > and then Keyboard.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Open Modifier Keys
@@ -67,7 +71,7 @@ On the bottom right of the Keyboard settings should be a button labeled "Modifie
 Screenshot by June Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Remap the Globe key to Command
@@ -77,10 +81,6 @@ Make sure "Apple Internal Keyboard / Trackpad" is selected on the top menu and t
 Note: There is a "Control key" on the Mac keyboard but it doesn't function the same as that on Windows. The Command key is the direct alternative.
 
 Screenshot by June Wan/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How this helps
 
@@ -116,20 +116,21 @@ From a Windows user perspective, being able to still access my usual keyboard sh
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-cutting-edge-simple-win-11-recorders/"><u>[New] Cutting-Edge Simple Win 11 Recorders</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-harnessing-success-with-freefire-hashtag-tips-for-2024/"><u>[New] Harnessing Success with FreeFire Hashtag Tips for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/choosing-between-ipad-pro-and-macbook-air-an-in-depth-comparison-tech-insights/"><u>Choosing Between iPad Pro and MacBook Air: An In-Depth Comparison | Tech Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/difficulties-in-measuring-and-predicting-the-outcomes-of-microbial-activity-in-response-to-crop-rotation-changes/"><u>Difficulties in Measuring and Predicting the Outcomes of Microbial Activity in Response to Crop Rotation Changes</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effective-solution-found-for-igfx-graphics-module-failure/"><u>Effective Solution Found for iGFX Graphics Module Failure</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exceptional-endurance-discovering-the-ultimate-13-laptop-with-extended-battery-and-striking-aesthetics-as-reviewed-by-zdnet/"><u>Exceptional Endurance: Discovering the Ultimate 13 Laptop with Extended Battery & Striking Aesthetics, as Reviewed by ZDNet!</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-xs-online-here-are-6-easy-ways-by-drfone-ios/"><u>How to Unlock Apple iPhone XS Online? Here are 6 Easy Ways</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-11-pro-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone 11 Pro Unavailable Issue With Ease | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-guide-restoring-visibility-of-bluetooth-on-pcs-device-manager/"><u>Solution Guide: Restoring Visibility of Bluetooth on PC's Device Manager</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-49-unbeatable-holiday-promotions-on-newegg-find-your-savings-today/"><u>Top 49 Unbeatable Holiday Promotions on Newegg – Find Your Savings Today!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-notch-display-and-great-deal-get-your-hands-on-this-ultraportable-laptop-today-sale-techradar/"><u>Top-Notch Display & Great Deal: Get Your Hands on This Ultraportable Laptop Today! [Sale] | TechRadar</u></a></li>
-<li><a href="https://fox-within.techidaily.com/unlocking-your-files-expert-guide-to-retrieving-data-from-bitlocker-encrypted-drives/"><u>Unlocking Your Files: Expert Guide to Retrieving Data From BitLocker-Encrypted Drives</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-new-lenovo-innovation-a-dual-os-laptoptablet-for-enhanced-flexibility-and-power/"><u>Unveiling the New Lenovo Innovation: A Dual-OS Laptop/Tablet for Enhanced Flexibility and Power</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/upcoming-apple-m-series-chip-enhanced-ai-capabilities-set-to-transform-the-full-range-of-macbooks-and-desktops-release-timeline-revealed/"><u>Upcoming Apple M-Series Chip: Enhanced AI Capabilities Set to Transform the Full Range of MacBooks & Desktops – Release Timeline Revealed</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/youtubes-visual-impact-crafting-effective-thumbnails-for-2024/"><u>YouTube's Visual Impact Crafting Effective Thumbnails for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-transform-with-the-10-most-exceptional-yoga-video-platforms/"><u>[New] 2024 Approved Transform with the 10 Most Exceptional Yoga Video Platforms</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-make-a-boomerang-on-snapchat-a-comprehensive-guide/"><u>[New] In 2024, Make a Boomerang on Snapchat – A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-lenovos-secrets-to-effortless-screenshots-for-2024/"><u>[New] Lenovo's Secrets to Effortless Screenshots for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722978309819-download-and-install-epson-wf-2750-drivers-complete-guide/"><u>Download & Install Epson WF-2750 Drivers - Complete Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-official-dell-g15-graphics-driver-for-your-windows-pc/"><u>Download and Install Official Dell G15 Graphics Driver for Your Windows PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-setup-access-official-canon-mf4500-printer-drivers-and-support-files/"><u>Easy Setup: Access Official Canon MF4500 Printer Drivers & Support Files</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-steps-update-or-install-synaptic-touchpad-driver-with-ease/"><u>Easy Steps: Update or Install Synaptic Touchpad Driver with Ease</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enhanced-avi-player-ultimate-performance-pcmobile/"><u>Enhanced Avi Player Ultimate Performance PC/Mobile</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-download-focusrite-scarlett-solo-desktop-audio-interface-for-pc/"><u>Free Download: Focusrite Scarlett Solo Desktop Audio Interface for PC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-a-million-token-dataset-in-gemini-15-sets-new-standards-for-language-models/"><u>How a Million-Token Dataset in Gemini 1.5 Sets New Standards for Language Models</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-fixes-to-solve-iphone-xs-max-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve iPhone XS Max Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-optimize-visibility-choosing-the-right-hashtags-today/"><u>In 2024, Optimize Visibility Choosing the Right Hashtags Today</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-top-6-youtube-outro-makers-lots-of-free-options/"><u>In 2024, Top 6 YouTube Outro Makers - Lots of FREE Options</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/k400-plus-keyboard-drivers-free-download-and-installation-guide/"><u>K400 Plus Keyboard Drivers - Free Download & Installation Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-audio-interface-device-drivers-for-your-windows-computer/"><u>Latest Audio Interface Device Drivers for Your Windows Computer</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/no-quality-loss-techniques-for-rotating-mp4-files-by-90180270-degrees-a-step-by-step-tutorial/"><u>No-Quality-Loss Techniques for Rotating MP4 Files by 90/180/270 Degrees: A Step-by-Step Tutorial</u></a></li>
 </ul></div>
 
