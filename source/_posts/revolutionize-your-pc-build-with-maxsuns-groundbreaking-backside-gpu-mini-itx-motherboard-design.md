@@ -1,7 +1,7 @@
 ---
 title: Revolutionize Your PC Build with Maxsun's Groundbreaking Backside GPU Mini-ITX Motherboard Design
-date: 2024-08-19T04:22:33.327Z
-updated: 2024-08-20T04:22:33.327Z
+date: 2025-01-30T00:23:47.682Z
+updated: 2025-02-02T17:13:14.489Z
 tags:
   - motherboards
 categories:
@@ -45,6 +45,10 @@ Maxsun brought many unique motherboards to[Computex](https://tools.techidaily.co
 
  Typical of mini-ITX motherboards, there are only two memory slots. The ones on the MS-Challenger B760BKB D5 are[DDR5](https://tools.techidaily.com) slots, so you can have up to 96GB of memory and more when 64GB DDR5 memory modules are available. Speed-wise, these should be up to DDR5-8000, assuming your processor can handle it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -63,8 +67,6 @@ Maxsun brought many unique motherboards to[Computex](https://tools.techidaily.co
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -72,8 +74,23 @@ Maxsun brought many unique motherboards to[Computex](https://tools.techidaily.co
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-expert-studio-walkthrough-xstudio-reviewed/"><u>[New] In 2024, Expert Studio Walkthrough XStudio Reviewed</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-the-essentials-of-uploading-and-broadcasting-old-footage-on-fb/"><u>[New] The Essentials of Uploading and Broadcasting Old Footage on FB</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-screenrecorderpro-a-detailed-analysis-of-video-capture-software/"><u>[Updated] 2024 Approved ScreenRecorderPro A Detailed Analysis of Video Capture Software</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-elevate-your-channel-game-tubebuddy-insights-for-2024/"><u>[Updated] Elevate Your Channel Game - TubeBuddy Insights for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-assessing-the-financial-impact-of-music-videos/"><u>2024 Approved Assessing the Financial Impact of Music Videos</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-unbeatable-memorial-day-savings-save-550-on-the-ultra-capable-lenovo-notebook-exclusive-deals-from-zdnet/"><u>Experience Unbeatable Memorial Day Savings: Save $550 on the Ultra-Capable Lenovo Notebook - Exclusive Deals From ZDNet!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/guide-to-conserve-data-with-audio-playback-from-youtube-videos/"><u>Guide to Conserve Data with Audio Playback From YouTube Videos</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-the-hp-copilotplus-laptop-boosted-my-remote-work-efficiency-a-test-run-review/"><u>How the HP Copilot+ Laptop Boosted My Remote Work Efficiency - A Test Run Review</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/how-to-restore-audio-on-your-vlc-player-comprehensive-guide-to-resolving-the-no-sound-issue/"><u>How to Restore Audio on Your VLC Player: Comprehensive Guide to Resolving the 'No Sound' Issue</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/huge-savings-alert-secure-an-8tb-samsung-t5-ssd-at-a-steal-for-36-off-after-october-prime-deals-ends-insiders-guide-by-zdnet/"><u>Huge Savings Alert! Secure an 8TB Samsung T5 SSD at a Steal for 36% Off After October Prime Deals Ends | Insider's Guide by ZDNET</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Vivo S18 Pro? | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-guideline-for-beginners-about-lexis-audio-editor/"><u>New 2024 Approved Guideline for Beginners About Lexis Audio Editor</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/slash-your-budget-for-ultimate-game-sound-immersion-get-an-exclusive-150-discount-on-elite-speaker-systems-featured/"><u>Slash Your Budget for Ultimate Game Sound Immersion – Get an Exclusive $150 Discount on Elite Speaker Systems, Featured</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-48-unbeatable-cyber-monday-bargains-on-consoles-pcs-and-games-get-the-latest-discounts-now-zdnet/"><u>Top 48 Unbeatable Cyber Monday Bargains on Consoles, PCs & Games – Get the Latest Discounts Now! | ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unmissable-bargains-on-sale-secure-your-favorites-during-the-october-prime-day-2024-extravaganza-some-deals-are-still-there/"><u>Unmissable Bargains on Sale! Secure Your Favorites During the October Prime Day 2024 Extravaganza - Some Deals Are Still There!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-enhanced-performance-apple-rolls-out-macbook-air-with-advanced-m3-chip-in-13-and-cuisine-tech-analysis-and-review-at-zdnet/"><u>Unveiling Enhanced Performance: Apple Rolls Out MacBook Air with Advanced M3 Chip in 13 and Cuisine | Tech Analysis & Review at ZDNet</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

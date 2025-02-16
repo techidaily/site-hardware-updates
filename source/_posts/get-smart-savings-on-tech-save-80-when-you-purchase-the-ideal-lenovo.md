@@ -1,7 +1,7 @@
 ---
 title: "Get Smart Savings on Tech: Save $80 When You Purchase the Ideal Lenovo"
-date: 2025-01-28T22:07:56.171Z
-updated: 2025-02-01T19:38:54.125Z
+date: 2025-02-01T21:53:45.525Z
+updated: 2025-02-02T17:16:09.812Z
 tags:
   - laptops
 categories:
@@ -23,7 +23,7 @@ Adrian Kingsley-Hughes/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -43,7 +43,7 @@ One tool I've found to be quite effective is the [StarTech.com Universal Laptop 
 [ZDNET RECOMMENDS StarTech.com Universal Laptop Lock This anti-theft laptop locking system features a push-to-lock system that allows for quick-lock without a key. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fexec%2Fobidos%2FASIN%2FB0CG9WXC8P%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1543b5d4-da8c-4f2b-8aec-3447eb62e023%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The specs
@@ -97,7 +97,7 @@ Adrian Kingsley-Hughes/ZDNET
 All in all, this is a tough lock that's well-designed to keep your stuff secured. The only real downside: a steel cable weighing some 5.2 oz (147 g) is a fair weight to lug around with you if you plan on using this when out and about.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -134,22 +134,18 @@ While a determined or skilled attacker could potentially overcome this lock, suc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-the-ultimate-guide-to-capturing-and-editing-high-quality-slow-motion-videos-for-instagram/"><u>[New] 2024 Approved The Ultimate Guide to Capturing and Editing High-Quality Slow Motion Videos for Instagram</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-free-online-image-perfection-at-your-fingertips/"><u>[New] Free Online Image Perfection at Your Fingertips</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-a-deep-dive-into-professional-3d-lut-creation/"><u>[Updated] 2024 Approved A Deep Dive Into Professional 3D LUT Creation</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-stop-facebook-video-pause-during-streaming/"><u>[Updated] 2024 Approved Stop Facebook Video Pause During Streaming</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/5-precise-ways-to-check-gpt-written-function/"><u>5 Precise Ways to Check GPT’ Written Function</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/all-about-the-apple-studio-display-specifications-innovative-features-and-key-information-at-a-glance-tech-insights/"><u>All About the Apple Studio Display: Specifications, Innovative Features, and Key Information at a Glance - Tech Insights</u></a></li>
-<li><a href="https://games-able.techidaily.com/behind-the-scenes-repairing-your-own-xbox-sensors/"><u>Behind-the-Scenes: Repairing Your Own Xbox Sensors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/combat-dxgierror-with-device-reattachment/"><u>Combat DXGI_ERROR with Device Reattachment</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722958202896-ensure-smooth-performance-update-targus-displaylink-drivers-in-windows-10-8-and-(br)7-today/"><u>Ensure Smooth Performance: Update Targus DisplayLink Drivers in Windows 10, 8 & <Br>7 Today</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/find-and-install-the-newest-drivers-for-your-hp-laserjet-p3n-p3015-with-this-comprehensive-resource-for-windows-users/"><u>Find and Install the Newest Drivers for Your HP LaserJet P3n (P3015) with This Comprehensive Resource for Windows Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-hp-image-transfer-app-for-windows-systems/"><u>Get the Latest HP Image Transfer App for Windows Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-properly-acquire-the-epson-xp-830-printer-driver-the-fixes-you-need/"><u>How To Properly Acquire the Epson XP-830 Printer Driver – The Fixes You Need</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/official-nvidia-drivers-now-available-geforce-rtx-3070-ti-for-win-1187-safe-to-download/"><u>Official NVIDIA Drivers Now Available: GeForce RTX 3070 Ti for Win 11/8/7 - Safe to Download!</u></a></li>
-<li><a href="https://win-web3.techidaily.com/outperforming-rivals-in-the-sing-along-arena-a-guide-to-elevate-your-karaoke-enterprise-using-pcdj/"><u>Outperforming Rivals in the Sing-Along Arena: A Guide to Elevate Your Karaoke Enterprise Using PCDJ</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-tutorial-on-updating-hid-keyboard-drivers-with-software/"><u>Quick Tutorial on Updating HID Keyboard Drivers with Software</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722975566645-surface-book-upgrades-easy-access-to-newest-drivers/"><u>Surface Book Upgrades: Easy Access to Newest Drivers!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-your-screens-software-find-and-install-the-right-aoc-driver-on-windows-systems/"><u>Update Your Screen's Software: Find and Install the Right AOC Driver on Windows Systems</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-mystery-behind-missing-facebook-video-suggests-for-2024/"><u>[New] Mystery Behind Missing Facebook Video Suggests for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-bridging-the-gap-enhancing-skype-with-zooms-features-for-2024/"><u>[Updated] Bridging the Gap Enhancing Skype with Zoom's Features for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-from-startup-to-success-skyrocketing-youtube-subs/"><u>2024 Approved From Startup to Success Skyrocketing Youtube Subs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unleash-your-devices-potential-how-to-download-and-customize-whatsapp-ringtones/"><u>2024 Approved Unleash Your Device's Potential How to Download and Customize WhatsApp Ringtones</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/boost-your-channels-income-understanding-critical-view-thresholds/"><u>Boost Your Channel's Income Understanding Critical View Thresholds</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-optimal-handheld-video-quality-cameras/"><u>In 2024, Optimal Handheld Video Quality Cameras</u></a></li>
+<li><a href="https://article-posts.techidaily.com/maximizing-your-iphones-photographic-skills-in-ios-11/"><u>Maximizing Your iPhone's Photographic Skills in iOS 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/outstandingly-adaptable-and-well-loved-laptop-surprises-with-exceptional-specs-a-review/"><u>Outstandingly Adaptable and Well-Loved Laptop Surprises with Exceptional Specs - A Review</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/surpassing-macbook-air-the-lightweight-laptop-that-blew-me-away-in-performance-and-portability/"><u>Surpassing MacBook Air: The Lightweight Laptop That Blew Me Away in Performance and Portability</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/unlock-elite-aspnet-design-with-creative-tims-professional-themes-and-templates-collection/"><u>Unlock Elite ASP.NET Design with Creative Tim's Professional Themes & Templates Collection</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlocking-insights-discover-how-chromebooks-dominated-tech-trends/"><u>Unlocking Insights: Discover How Chromebooks Dominated Tech Trends</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/zooming-in-on-lenovo-thinkpad-z16-superior-performance-but-lacks-in-video-quality-an-insightful-assessment/"><u>Zooming In on Lenovo ThinkPad Z16: Superior Performance but Lacks in Video Quality - An Insightful Assessment</u></a></li>
 </ul></div>
 

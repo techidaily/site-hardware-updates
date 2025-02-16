@@ -1,7 +1,7 @@
 ---
 title: Innovative Laptop Holder Enables Mobile Phones to Act as Extra Monitors, Says ZDNet Review
-date: 2025-01-29T20:42:30.155Z
-updated: 2025-02-01T22:07:28.380Z
+date: 2025-02-02T00:14:11.251Z
+updated: 2025-02-02T20:32:09.304Z
 tags:
   - laptops
 categories:
@@ -41,7 +41,7 @@ Here are some of the most interesting features I saw during my hands-on briefing
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Smart Share
@@ -61,7 +61,7 @@ Kyle Kucharski/ZDNET
 Besides the Smart Share features, there are four different "modes" that activate various features. You can toggle each feature on or off individually, to avoid being bombarded with different prompts. Here are the most impactful ones I saw during my time trying the new laptops.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Shield Mode
@@ -70,7 +70,7 @@ Besides the Smart Share features, there are four different "modes" that activate
 * The VPN auto-launch feature will start your preferred VPN automatically upon connecting to any public Wi-Fi network, a handy function if you spend a lot of time working in coffee shops.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Attention Mode
@@ -80,7 +80,7 @@ Besides the Smart Share features, there are four different "modes" that activate
 Kyle Kucharski/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Collaboration Mode
@@ -88,7 +88,7 @@ Kyle Kucharski/ZDNET
 * Designed mostly for virtual meetings, activating this mode enables your preset camera features, such as background blur, low light enhancer, or touch ups.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Wellness Mode
@@ -133,22 +133,22 @@ We'll definitely be doing some additional testing of the smart modes when we get
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-facebook-overhaul-the-2023-updates-explained/"><u>[New] Facebook Overhaul The 2023 Updates Explained</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-unlock-iphonepcs-full-potential-with-these-top-8-converters/"><u>[New] Unlock iPhone/PC's Full Potential With These Top 8 Converters</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-easy-gaming-memories-start-recording-now/"><u>2024 Approved Easy Gaming Memories Start Recording Now</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/2024-approved-what-is-ai-api/"><u>2024 Approved What Is AI API?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-tecno-phantom-v-flip-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Tecno Phantom V Flip to Roku | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/a-new-era-for-wow-exclusive-embrace-of-advanced-3d-graphics/"><u>A New Era for WoW: Exclusive Embrace of Advanced 3D Graphics</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/chipolo-one-bluetooth-tracking-device-reviewed-a-solidly-trustworthy-gps-finder/"><u>Chipolo One Bluetooth Tracking Device Reviewed: A Solidly Trustworthy GPS Finder</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-installation-guide-for-broadcom-bluetooth-drivers-windows-11-8-7/"><u>Download & Installation Guide for Broadcom Bluetooth Drivers (Windows 11, 8, 7)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-steelseries-game-enhancer-for-windows-10-boost-your-gaming-experience/"><u>Download SteelSeries Game Enhancer for Windows 10 - Boost Your Gaming Experience</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-download-top-quality-behringer-audio-drivers-available-now/"><u>Free Download: Top-Quality Behringer Audio Drivers Available Now!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-latest-msi-bluetooth-driver-for-seamless-windows-11-and-10-experience/"><u>Get Your Latest MSI Bluetooth Driver for Seamless Windows 11 and 10 Experience</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-latest-nvme-driver-software-for-windows-systems/"><u>How To Get the Latest NVMe Driver Software for Windows Systems</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-how-to-stream-in-superior-quality-on-facebook-network/"><u>In 2024, How To Stream in Superior Quality on Facebook Network</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722969507618-latest-amd-smbus-driver-update-fast-simple-installation-steps/"><u>Latest AMD SMBus Driver Update: Fast, Simple Installation Steps!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/multitasking-efficiency/"><u>Multitasking Efficiency</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/new-release-download-the-latest-nvidia-quadro-rtx-8000-drivers-compatible-with-windows-1187/"><u>New Release: Download the Latest Nvidia Quadro RTX #8000 Drivers Compatible with Windows 11/8/7</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-silencing-the-stridor-techniques-for-defeating-hiss-in-professional-recordings/"><u>Updated 2024 Approved Silencing the Stridor Techniques for Defeating Hiss in Professional Recordings</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-discover-ultimate-sites-for-stunning-sky-photos/"><u>[New] 2024 Approved Discover Ultimate Sites for Stunning Sky Photos</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-enhance-snaps-with-cultural-pop-culture-learn-anime-on-snapchat/"><u>[New] 2024 Approved Enhance Snaps with Cultural Pop-Culture Learn Anime On Snapchat</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-fist-of-legends-highest-rated-kung-fu-virtual-battles/"><u>[Updated] Fist of Legends Highest-Rated Kung Fu Virtual Battles</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-increase-viewership-fairly-insights-for-video-marketers/"><u>[Updated] Increase Viewership Fairly Insights for Video Marketers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/a-tech-expert-reviews-the-best-all-rounder-laptop-popular-durable-and-packed-with-high-quality-components-zdnet-insights/"><u>A Tech Expert Reviews the Best All-Rounder Laptop – Popular, Durable & Packed with High-Quality Components | ZDNet Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/affordably-powerful-the-compact-8-in-1-adapter-outperforms-expectations-ideal-for-tech-enthusiasts/"><u>Affordably Powerful - The Compact 8-in-1 Adapter Outperforms Expectations, Ideal for Tech Enthusiasts!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-why-most-users-love-the-affordable-high-quality-15-macbook-air-with-250-off-zdnets-expert-take/"><u>Discover Why Most Users Love the Affordable, High-Quality 15” MacBook Air with $250 Off - ZDNet's Expert Take!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-installation-instructions-for-brother-mfc-l2700dw-on-windows-machines/"><u>Download & Installation Instructions for Brother MFC-L2700DW on Windows Machines</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/essential-tricks-for-mac-users-handling-persistent-cooling-fan-activity-tips-by-zdnet/"><u>Essential Tricks for Mac Users: Handling Persistent Cooling Fan Activity, Tips by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/explore-lenovos-enhanced-thinkpad-x1-unveiling-the-fresh-features-with-insights-from-zdnet/"><u>Explore Lenovo's Enhanced ThinkPad X1: Unveiling the Fresh Features with Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-the-latest-wave-of-alienware-gaming-laptops-showcased-at-ces-2023-insights-and-preview-by-zdnet/"><u>Exploring the Latest Wave of Alienware Gaming Laptops Showcased at CES 2023 | Insights & Preview by ZDNET</u></a></li>
+<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-oppo-a1-5g-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Oppo A1 5G FRP Locks</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-nvidia-geforce-rtx-groovy-3080-ti-gpu-drivers-on-windows-11-8-and-7/"><u>Get the Latest NVIDIA GeForce RTX Groovy! 3080 Ti GPU Drivers on Windows 11, 8 & 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/prime-day-preview-essential-money-saving-deals-on-amazon-ahead-of-2024s-event-featured/"><u>Prime Day Preview: Essential Money-Saving Deals on Amazon Ahead of 2024’S Event, Featured</u></a></li>
+<li><a href="https://facebook.techidaily.com/reinventing-your-social-interactions-without-the-facebook-network/"><u>Reinventing Your Social Interactions without the Facebook Network</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlocking-chromes-battery-boost-activating-energy-saving-settings-for-optimal-performance-why-it-matters/"><u>Unlocking Chrome's Battery Boost: Activating Energy Saving Settings for Optimal Performance (Why It Matters)</u></a></li>
+<li><a href="https://article-helps.techidaily.com/unlocking-the-world-of-premium-banners-for-media-for-2024/"><u>Unlocking the World of Premium Banners for Media for 2024</u></a></li>
 </ul></div>
 

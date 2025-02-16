@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Insights: In-Depth Reviews & Comparisons of the Latest Hardware"
-date: 2024-08-19T04:19:24.379Z
-updated: 2024-08-20T04:19:24.379Z
+date: 2025-01-28T09:11:18.481Z
+updated: 2025-02-02T18:58:41.931Z
 tags:
   - ssd
 categories:
@@ -42,6 +42,10 @@ NEM-PA8TB  (Image credit: Nextorage)
 
  The NEM-PA8TB is already available on[Amazon](https://tools.techidaily.com) for[$849.99](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB0CTGTNSDX%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1185771451787124906-20) . The vanilla NE1N8TB, however, hasn't gone up at any U.S. retailers. In Japan, the NEM-PA8TB costs[2,000 yen](https://go.redirectingat.com/?id=92X1584492&xcust=tomshardware%5Fus%5F1271651936150678199&xs=1&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0CTGV11V4%3Fth%3D1&sref=https%3A%2F%2Fwww.tomshardware.com%2Fpc-components%2Fssds%2Fnextorage-launches-8tb-ssd-for-pc-gamers-and-ps5-owners-dollar849-for-8tb-of-storage-at-7300-mbs) more than the NE1N8TB, which is around $13.34\. Therefore, the NE1N8TB could retail for about the $836.65 mark.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -56,8 +60,6 @@ NEM-PA8TB  (Image credit: Nextorage)
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -65,8 +67,26 @@ NEM-PA8TB  (Image credit: Nextorage)
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-everything-you-need-to-know-about-youtube-shorts-for-2024/"><u>[New] Everything You Need to Know About YouTube Shorts for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-the-route-to-richer-tiktok-bios-including-linktree-links/"><u>[New] In 2024, The Route to Richer TikTok Bios Including Linktree Links</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-prime-approaches-to-chronicle-lol-clashes/"><u>[Updated] In 2024, Prime Approaches to Chronicle LOL Clashes</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-the-experts-resource-advanced-screen-capture-techniques-by-zd/"><u>[Updated] In 2024, The Expert's Resource Advanced Screen Capture Techniques by ZD</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-ranked-e-learning-presentation-palette/"><u>[Updated] Top-Ranked E-Learning Presentation Palette</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-logitech-g402-input-device-drivers-and-utility-tools-download-instructions/"><u>Complete Logitech G402 Input Device Drivers & Utility Tools Download Instructions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-guide-downloading-and-updating-windows-audio-card-drivers/"><u>Comprehensive Guide: Downloading and Updating Windows Audio Card Drivers</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabling-apple-iphone-12-mini-parental-restrictions-withwithout-password-by-drfone-ios/"><u>Disabling Apple iPhone 12 mini Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-epson-v700-driver-here-supports-windows-7-through-to-10/"><u>Get Your Epson V700 Driver Here! Supports Windows 7 Through to 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-thunderbolt-support-on-your-windows-machine-download-essential-drivers/"><u>How to Get Thunderbolt Support on Your Windows Machine: Download Essential Drivers</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-construct-chortling-characters-via-giphy/"><u>In 2024, Construct Chortling Characters via Giphy</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-fixing-the-obs-fullscreen-hurdle/"><u>In 2024, Fixing the OBS Fullscreen Hurdle</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/intels-extended-warranties-unveiled-a-detailed-look-at-coverage-for-tiger-lake-tgl-and-rocket-lake-based-processors/"><u>Intel's Extended Warranties Unveiled - A Detailed Look at Coverage for Tiger Lake (TGL) and Rocket Lake-Based Processors</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/leading-the-sled-team/"><u>Leading the Sled Team</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/smart-shopping-alert-land-the-best-discounted-amd-and-intel-processors-of-24/"><u>Smart Shopping Alert! Land the Best Discounted AMD & Intel Processors of '24</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-astro-a10-microphone-issues-troubleshooting-and-fixes/"><u>Solving Astro A10 Microphone Issues: Troubleshooting and Fixes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-fixing-driver-conflicts-for-arduino-uno-on-microsoft-operating-systems/"><u>Step-by-Step Guide: Fixing Driver Conflicts for Arduino Uno on Microsoft Operating Systems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721480233921-troubleshooting-no-more-text-left-issue-on-iphones-easy-fixes/"><u>Troubleshooting 'No More Text Left' Issue on iPhones - Easy Fixes!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722978517342-upgrade-to-windows-11-grab-the-ultimate-steelseries-engine-for-optimal-performance/"><u>Upgrade to Windows 11? Grab the Ultimate SteelSeries Engine for Optimal Performance</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->

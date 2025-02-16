@@ -1,7 +1,7 @@
 ---
 title: Gigabyte Teases the Latest Ryzen 9000 and Zen N Processors, Promises Beta Firmware Updates for PCIe 4X Motherboards
-date: 2024-08-19T04:21:59.076Z
-updated: 2024-08-20T04:21:59.076Z
+date: 2025-02-02T09:52:35.719Z
+updated: 2025-02-02T23:48:49.937Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +62,22 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-vegas-pro-21-a-comprehenive-examination-for-gamblers-and-techies-alike/"><u>[New] Vegas Pro '21 A Comprehenive Examination for Gamblers and Techies Alike</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-best-freebies-winning-windowsmac-video-tools/"><u>[Updated] Best Freebies Winning Windows/Mac Video Tools</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-dji-flight-packages-essential-premium-high-definition-pro/"><u>[Updated] DJI Flight Packages Essential, Premium, High Definition Pro</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-famous-gamers-software-choices/"><u>[Updated] In 2024, Famous Gamers' Software Choices</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-mastering-windows-11-video-creation-and-editing-techniques/"><u>2024 Approved Mastering Windows 11 Video Creation & Editing Techniques</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-the-spoken-word-writing-compelling-narratives/"><u>Crafting the Spoken Word Writing Compelling Narratives</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/diy-how-to-perform-self-service-repairs-on-your-broken-iphone-or-macbook-with-apples-new-initiative-learn-now/"><u>DIY: How to Perform Self-Service Repairs on Your Broken iPhone or MacBook with Apple's New Initiative - Learn Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/dont-miss-out-score-your-lenovo-flex-aturkey-deal-at-only-99-this-black-friday-pre-cyber-monday-blitz-zdnet/"><u>Don't Miss Out - Score Your Lenovo Flex Aturkey Deal at Only $99 This Black Friday, Pre-Cyber Monday Blitz | ZDNET</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-all-about-iphone-13-unlock-chip-you-need-to-know-by-drfone-ios/"><u>In 2024, All About iPhone 13 Unlock Chip You Need to Know</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-xiaomi-redmi-note-12-pro-4g-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Xiaomi Redmi Note 12 Pro 4G is off? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/innovative-dual-function-the-lenovo-convertible-laptoptablet-that-impresses-in-testing-insights/"><u>Innovative Dual-Function: The Lenovo Convertible Laptop/Tablet That Impresses in Testing - Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/is-the-m3-macbook-pro-right-for-you-a-detailed-comparison-with-the-previous-m2-macbook-air-zdnet-insights/"><u>Is the M3 MacBook Pro Right for You? A Detailed Comparison with the Previous M2 MacBook Air | ZDNET Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/metas-sizzling-october-prime-deal-alert-get-the-new-512gb-quest-3-virtual-reality-headset-at-unmatched-prices-dont-miss-out/"><u>Meta's Sizzling October Prime Deal Alert! Get the New 512GB Quest 3 Virtual Reality Headset at Unmatched Prices – Don't Miss Out!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-16-best-hp-laptop-bargains-this-festive-season-insider-tips-from-zdnet/"><u>Top 16 Best HP Laptop Bargains This Festive Season - Insider Tips From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-picks-the-best-13/"><u>Top Picks: The Best 13</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->

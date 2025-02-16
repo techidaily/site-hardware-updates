@@ -1,7 +1,7 @@
 ---
 title: Top 40 Unbeatable Festive Laptop Bargains Including Brands Like Apple & Asus - Exclusively
-date: 2025-01-19T02:01:39.845Z
-updated: 2025-01-25T01:21:31.148Z
+date: 2025-01-28T08:53:46.073Z
+updated: 2025-02-03T03:40:41.190Z
 tags:
   - laptops
 categories:
@@ -24,6 +24,10 @@ Here are the best holiday laptop deals we've found so far. We'll continue updati
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best holiday laptop deals
 
 * [Samsung Galaxy Book3 360 2-in-1](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsamsung-galaxy-book3-360-2-in-1-15-6-fhd-amoled-touch-screen-laptop-intel-13th-gen-evo-core-i7-1360p-16gb-memory-1tb-ssd-graphite%2F6531070.p%3FskuId%3D6531070&publisher_slug=itechdaily19598&exclusive=1): $950 (save $600 at Best Buy)
@@ -34,6 +38,10 @@ Here are the best holiday laptop deals we've found so far. We'll continue updati
 * [Asus ZenBook Pro Duo 15 OLED 4K](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-i7-12700H-ScreenPad-Celestial-UX582ZW-AB76T%2Fdp%2FB09TPTNZLG%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C15aec2d9-77d0-4d20-a5e1-8b29d55767a1%7Cdtp&dtb=1): $1689 (save $811 at Amazon)
 * [LG Gram 17](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flg-gram-17-laptop-wqxga-intel-13th-gen-core-i7-with-16gb-memory-nvidia-geforce-rtx-3050-1tb-ssd-black%2F6540475.p%3FskuId%3D6540475&publisher_slug=itechdaily19598&exclusive=1): $1300 (save $700 at Best Buy)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Top Amazon holiday laptop deals
 
 MSI/ZDNET
@@ -43,10 +51,6 @@ MSI/ZDNET
 * [Apple MacBook Air 13 M1 (2020)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-13-inch-256GB-Storage%2Fdp%2FB08N5LNQCX%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C15aec2d9-77d0-4d20-a5e1-8b29d55767a1%7Cdtp&dtb=1): $750 (save $250)
 * [Acer Swift Go](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLaptop-1920x1200-Display-i7-1355U-SFG14-71T-72QV%2Fdp%2FB0BTQWR77M%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C15aec2d9-77d0-4d20-a5e1-8b29d55767a1%7Cdtp&dtb=1): $650 (save $250)
 * [Lenovo IdeaPad 15](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-IdeaPad-Processor-i5-1035G7-Accessories%2Fdp%2FB0CNGV8C34%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C15aec2d9-77d0-4d20-a5e1-8b29d55767a1%7Cdtp&dtb=1): $350 (save $350)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Top Best Buy holiday laptop deals
 
@@ -75,7 +79,7 @@ HP/ZDNET
 * [Lenovo IdeaPad Slim 5i](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FLenovo-IdeaPad-Slim-5i-Laptop-82XF002SUS-Intel-i7-1355U-16GB-RAM-1TB-SSD-16-0-Windows-11-Home-Intel-Iris-Xe-Graphics%2F3634632586%3Fathbdg%3DL1700&subId1=zd-__COM_CLICK_ID__-dtp): $680 (save $270)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Top B&H Photo holiday laptop deals
@@ -92,7 +96,7 @@ Best Buy/ZDNET
 * [Microsoft Surface Laptop 5](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1729196-REG%2Fmicrosoft%5Frkl%5F00001%5F15%5Fsurface%5Flaptop%5F4.html): $1899 (save $400)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## More holiday laptop deals
@@ -130,23 +134,19 @@ The Lenovo Yoga 7 is a 2-in-1 laptop, which means you can use it either as a tab
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-i7-12700H-Fingerprint-Long-Lasting-Win11Pro%2Fdp%2FB0D666LJLD%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C15aec2d9-77d0-4d20-a5e1-8b29d55767a1%7Cdtp&dtb=1) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How did we choose these holiday deals?
 
 ZDNET only writes about deals we want to buy -- devices and products we desire, need, or would recommend. Our experts looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is the best laptop?
 
 If you're in the market for a new laptop and want the best of the best, you should check out our number one pick for the [best laptop of 2023](https://www.zdnet.com/article/best-laptop/): the MacBook Pro 16 M2 Max. It features the new M2 Max chipset from Apple for enhanced performance, multitasking, and graphics capabilities. It also gives you a 22-hour battery life for all-day work or play. You can configure the MacBook Pro 12 M2 Max with up to 96GB of RAM and with up to 8TB of storage. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the best holiday 2023 deals?
 
@@ -213,17 +213,18 @@ If you're in the market for a new laptop and want the best of the best, you shou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-constructing-compelling-channel-overviews/"><u>[Updated] Constructing Compelling Channel Overviews</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-toms-gear-roundup-in-depth-reviews-of-cutting-edge-hardware/"><u>Exploring Tom's Gear Roundup: In-Depth Reviews of Cutting-Edge Hardware</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-8-plus-to-other-iphone-14-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 8 Plus to other iPhone 14 devices? | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-how-to-safely-increase-your-youtube-fanbase-to-one-million/"><u>In 2024, How to Safely Increase Your YouTube Fanbase To One Million</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/innovative-equipment-evaluations-by-tom-top-rated-hardware-analysis/"><u>Innovative Equipment Evaluations by Tom - Top-Rated Hardware Analysis</u></a></li>
-<li><a href="https://extra-information.techidaily.com/reimagining-art-top-6-influencers-shaping-nft-culture/"><u>Reimagining Art Top 6 Influencers Shaping NFT Culture</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/reinventing-sound-how-creatives-x-fi-transforms-after-nearly-two-decades-with-cutting-edge-ai-ear-mapping-innovation/"><u>Reinventing Sound: How Creative's X-Fi Transforms After Nearly Two Decades with Cutting-Edge AI Ear Mapping Innovation</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/revolutionary-tiny-radiation-sensor-unveiled-capable-of-piercing-through-barriers-and-potentially-fitting-in-smartphones-according-to-scientists/"><u>Revolutionary Tiny Radiation Sensor Unveiled; Capable of Piercing Through Barriers and Potentially Fitting in Smartphones, According to Scientists</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-students-toolkit-utilizing-chatgpt-for-effective-writing-and-research-projects/"><u>The Student's Toolkit: Utilizing ChatGPT for Effective Writing & Research Projects</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-hub-exploring-the-world-of-advanced-hardware/"><u>Tom's Tech Hub: Exploring the World of Advanced Hardware</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-oppo-reno-9a-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Oppo Reno 9A for Parents | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96316794-9781401933371-your-personality-your-health/"><u>Your Personality, Your Health | Free Book</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-top-8-android-multi-user-video-chat-tools/"><u>[New] 2024 Approved Top 8 Android Multi-User Video Chat Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-navigating-the-nuances-of-premieres-fullscreen-mode/"><u>[Updated] Navigating the Nuances of Premiere's Fullscreen Mode</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/budget-friendly-dual-4k-hdmi-docking-station-available-for-just-49-discover-the-ultimate-13-in-1-solution-zdnet/"><u>Budget-Friendly Dual 4K HDMI Docking Station Available for Just $49 - Discover the Ultimate 13-in-1 Solution | ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expertly-selected-elite-security-keys-gadgethub/"><u>Expertly Selected Elite Security Keys | GadgetHub</u></a></li>
+<li><a href="https://win11.techidaily.com/fix-excel-wont-display-in-notepad-on-windows/"><u>Fix: Excel Won't Display in Notepad on Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-hands-on-the-best-vr-deal-of-october-grab-metas-premium-512gb-quest-3-at-an-exclusive-prime-day-discount/"><u>Get Your Hands on the Best VR Deal of October! Grab Meta's Premium 512GB Quest 3 at an Exclusive Prime Day Discount</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-7-plus-without-passcode-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 7 Plus Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-voice-over-techniques-video-production-edition/"><u>In 2024, Voice Over Techniques Video Production Edition</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-s-hottest-iphone-apps-what-you-need-to-know/"><u>New In 2024, S Hottest iPhone Apps What You Need to Know</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/tech-unboxed-immersive-dive-into-lenovos-cutting-edge-snapdragon-x-series-laptops-thinner-and-more-powerful-than-ever-zdnet-reviews/"><u>Tech Unboxed: Immersive Dive Into Lenovo's Cutting-Edge Snapdragon X Series Laptops - Thinner and More Powerful than Ever | ZDNET Reviews</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-17-unbeatable-cyber-monday-bargains-discounted-tvs-headphones-and-speakers-shop-now-at-zdnet/"><u>Top 17 Unbeatable Cyber Monday Bargains: Discounted TVs, Headphones & Speakers - Shop Now at ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-outdoor-security-floodlight-options-a-comprehensive-review-by-zdnet/"><u>Top-Rated Outdoor Security Floodlight Options : A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-latest-apple-m3-macbook-air-innovations-my-must-know-findings-after-an-exclusive-test-drive-tech-analysis-by-zdnet/"><u>Unveiling the Latest Apple M3 MacBook Air Innovations: My Must-Know Findings After an Exclusive Test Drive | Tech Analysis by ZDNET</u></a></li>
 </ul></div>
 

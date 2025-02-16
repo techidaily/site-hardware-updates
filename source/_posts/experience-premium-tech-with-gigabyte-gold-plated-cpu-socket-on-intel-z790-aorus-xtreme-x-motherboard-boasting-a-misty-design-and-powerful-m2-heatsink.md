@@ -1,7 +1,7 @@
 ---
 title: "Experience Premium Tech with Gigabyte: Gold-Plated CPU Socket on Intel Z790 Aorus XTreme X Motherboard, Boasting a Misty Design & Powerful M.2 Heatsink"
-date: 2024-08-19T04:20:22.898Z
-updated: 2024-08-20T04:20:22.898Z
+date: 2025-01-29T18:41:48.639Z
+updated: 2025-02-02T19:52:22.324Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +62,26 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://hardware-updates.techidaily.com/1726809475279-6x-90/"><u> [6X = 90 </u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-optimize-capture-smooth-screenshots-with-dell-models/"><u>[New] Optimize Capture Smooth Screenshots with Dell Models</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-charting-the-course-to-digital-stardom-launch-your-chanel-today-for-2024/"><u>[Updated] Charting the Course to Digital Stardom Launch Your Chanel Today for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-a-step-by-step-approach-for-properly-placing-music-emojis-in-instagram/"><u>[Updated] In 2024, A Step-by-Step Approach for Properly Placing Music Emojis in Instagram</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-constructing-captivating-podcast-vignettes/"><u>[Updated] In 2024, Constructing Captivating Podcast Vignettes</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-visual-narrative-weaver/"><u>[Updated] Visual Narrative Weaver</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/achieve-ultimate-clarity-3-key-projector-adjustments-guaranteed-by-experts-at-zdnet/"><u>Achieve Ultimate Clarity: 3 Key Projector Adjustments Guaranteed by Experts at ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amazing-deal-alert-top-ranked-samsung-television-up-to-43-discount-on-labor-day-exclusive-insights-from-a-recent-review-by-zdnet/"><u>Amazing Deal Alert: Top-Ranked Samsung Television Up to 43% Discount on Labor Day – Exclusive Insights From a Recent Review by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comparing-oled-vs-led-technology-understanding-key-differences-and-determining-superiority/"><u>Comparing OLED vs LED Technology: Understanding Key Differences and Determining Superiority</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/cutting-the-power-bill-with-smart-tv-adjustments-discover-zdnets-secret-to-saving-electricity-on-your-set-up/"><u>Cutting the Power Bill with Smart TV Adjustments! Discover ZDNet's Secret to Saving Electricity on Your Set-Up.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-how-to-turn-off-acr-across-all-tv-brands-slash-advertisements-and-understand-the-reasons-expert-insights-from-zdnet/"><u>Discover How to Turn Off ACR Across All TV Brands, Slash Advertisements & Understand the Reasons: Expert Insights From ZDNet</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-tecno-pova-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/masterful-marketing-essential-expressions-for-professionals-for-2024/"><u>Masterful Marketing Essential Expressions for Professionals for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pioneering-communication-3-methods-of-chatgpt-wolfram-alpha-synergy/"><u>Pioneering Communication: 3 Methods of ChatGPT-Wolfram Alpha Synergy</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-voice-in-dota-2-solving-the-pc-microphone-problem/"><u>Revive Your Voice in Dota 2: Solving the PC Microphone Problem</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-deal-alert-save-200-on-the-stunning-58-hisense-4k-fire-tv-now-at-just-349-shop-today/"><u>Unbeatable Deal Alert: Save $200 on the Stunning 58 Hisense 4K Fire TV, Now at Just $349 - Shop Today!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unexpected-audio-marvels-my-top-pick-for-an-immersive-sound-system-outside-of-bose-and-sonos-reviewed-on-zdnet/"><u>Unexpected Audio Marvels: My Top Pick for an Immersive Sound System Outside of Bose & Sonos, Reviewed on ZDNET</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-productivity-introducing-microsoft-copilot/"><u>Unlocking Productivity: Introducing Microsoft Copilot</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upgrade-your-television-display-with-simple-adjustments-top-5-settings-to-elevate-picture-quality/"><u>Upgrade Your Television Display with Simple Adjustments: Top 5 Settings to Elevate Picture Quality</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Best Affordable Lenovo Devices: Powerful Options for Today's Hybrid Workforce with a $1,000 Deal!"
-date: 2025-01-28T18:59:05.892Z
-updated: 2025-02-01T22:19:16.884Z
+date: 2025-01-26T21:11:12.476Z
+updated: 2025-02-03T02:11:31.599Z
 tags:
   - laptops
 categories:
@@ -42,7 +42,7 @@ This laptop isn't solely for business professionals, though. It's well-rounded e
 Right now is the best time to buy the [Lenovo Gen 12 ThinkPad X1 Carbon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D1D5J1J1%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7de9d47f-95cf-42d0-9213-b57cc5420698%7Cdtp&dtb=1) since it's currently on sale at Amazon for $1,500 -- $1,000 off the original price. I should also mention that there is a variant of the laptop with a 2.8K OLED display, which is the model [I tested back in February](https://www.zdnet.com/article/the-thinkpad-i-recommend-for-hybrid-workers-is-not-lenovos-newest-model/). The [OLED version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D5SNKGZ4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7de9d47f-95cf-42d0-9213-b57cc5420698%7Cdtp&dtb=1) is much more expensive, but I recommend it as an alternative if you can afford it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -79,20 +79,24 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-dividing-drama-how-to-split-vimeo-videos-for-2024/"><u>[New] Dividing Drama How to Split Vimeo Videos for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-elite-visionaries-video-realm-for-2024/"><u>[New] Elite Visionaries Video Realm for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-snickerslide-lighten-up-your-online-presence/"><u>2024 Approved SnickerSlide Lighten Up Your Online Presence</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-the-ultimate-guide-for-effective-periscope-use/"><u>2024 Approved The Ultimate Guide for Effective Periscope Use</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211447420-9798330379460-66-hmeres-gia-na-alla3ete-th-zwh-sas/"><u>66 ημέρες για να αλλάξετε τη ζωή σας | Free Book</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/advanced-tech-reviews-by-toms-hardware-specialists/"><u>Advanced Tech Reviews by Tom's Hardware Specialists</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/canon-mf8200c-printer-drivers-optimized-downloads-for-win-78110-users/"><u>Canon MF8200C Printer Drivers: Optimized Downloads for Win 7/8.1/10 Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-advice-on-streamlining-troubleshooting-for-i2c-hid-device-connection-issues/"><u>Expert Advice on Streamlining Troubleshooting for I2C HID Device Connection Issues</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-fix-lg-display-problems-with-easy-driver-updates-on-various-windows-systems/"><u>How to Fix LG Display Problems with Easy Driver Updates on Various Windows Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-newest-amd-vega-grook-56-drivers-on-your-windows-pc-step-by-step-walkthrough/"><u>How to Get the Newest AMD Vega Grook 56 Drivers on Your Windows PC: Step-by-Step Walkthrough</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-google-pixel-8-pro-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Google Pixel 8 Pro Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-growth-by-numbers-tapping-into-youtube-analytics-power/"><u>In 2024, Growth by Numbers Tapping Into YouTube Analytics Power</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/luxury-makeup-techniques-unveiled/"><u>Luxury Makeup Techniques Unveiled</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/resolving-startech-device-drivers-problems-on-windows-10-8-and-7-complete-guide/"><u>Resolving StarTech Device Drivers Problems on Windows 10, 8 & 7 - Complete Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/17256525522481-toms-tech-hub-in-depth-reviews-and-guides/"><u>Tom's Tech Hub: In-Depth Reviews & Guides</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-elevate-your-content-game-top-20-best-practices-for-captivating-tiktok-captions/"><u>[New] 2024 Approved Elevate Your Content Game Top 20 Best Practices for Captivating TikTok Captions</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-calm-clicks-the-ideal-screen-free-puzzles/"><u>[Updated] 2024 Approved Calm Clicks The Ideal Screen-Free Puzzles</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-android-screen-recording-tutorial-essentials-for-2024/"><u>[Updated] Android Screen Recording Tutorial Essentials for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/a-week-with-an-ergo-split-keyboard-how-my-typing-experience-transformed-insights/"><u>A Week with an Ergo-Split Keyboard: How My Typing Experience Transformed - Insights</u></a></li>
+<li><a href="https://techtrends.techidaily.com/beat-the-lag-proven-fixes-to-synchronize-your-chromecast-audio-flawlessly/"><u>Beat the Lag: Proven Fixes to Synchronize Your Chromecast Audio Flawlessly</u></a></li>
+<li><a href="https://win-dash.techidaily.com/complete-guide-to-downloading-and-setting-up-logitech-g29-drives-for-pc-windows-os/"><u>Complete Guide to Downloading & Setting Up Logitech G29 Drives for PC (Windows OS)</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-steps-to-download-and-update-drivers-for-your-hp-officejet-pro-8720-using-windows-devices/"><u>Easy Steps to Download and Update Drivers for Your HP Officejet Pro 8720 Using Windows Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/elite-picks-for-touchscreen-notebooks-in-depth-testing-and-professional-insights/"><u>Elite Picks for Touchscreen Notebooks: In-Depth Testing & Professional Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-access-top-amazon-prime-day-savings-in-october-2024-limited-stock/"><u>Exclusive Access: Top Amazon Prime Day Savings in October 2024 - Limited Stock!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-the-premier-laptops-at-ces-2024-insider-tips-and-reviews-zdnet/"><u>Exploring the Premier Laptops at CES 2024 - Insider Tips & Reviews - ZDNet</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-motorola-razr-40-ultra-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Motorola Razr 40 Ultra Pattern Lock Screen</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maximize-your-productivity-top-rated-laptop-power-bank-endures-years-of-use-and-currently-offers-50-savings-discover-more/"><u>Maximize Your Productivity: Top-Rated Laptop Power Bank Endures Years of Use and Currently Offers 50% Savings | Discover More</u></a></li>
+<li><a href="https://extra-information.techidaily.com/premier-pros-pathway-to-perfect-sound-cutting/"><u>Premier Pro's Pathway to Perfect Sound Cutting</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/snag-your-hp-victus-15-gaming-notebook-at-an-unbeatable-price-of-just-515-during-the-biggest-savings-best-buys-prime-day-exclusive-offer-insider-tips/"><u>Snag Your HP Victus 15 Gaming Notebook at an Unbeatable Price of Just $515 During the Biggest Savings: Best Buy's Prime Day Exclusive Offer - Insider Tips!</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/1728510129213-ssdhdd/"><u>SSD克隆HDD方法：成功的硬盘数据迁移和重新分区指导</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/stay-safe-how-the-fbis-warning-about-data-stealing-charging-points-can-help-you-guard-your-information/"><u>Stay Safe: How the FBI's Warning About Data-Stealing Charging Points Can Help You Guard Your Information</u></a></li>
+<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-motorola-edge-40-neo-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Motorola Edge 40 Neo FRP</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-ranked-lenovo-notebooks-in-depth-analysis-and-reviews-by-tech-experts-zdnet/"><u>Top-Ranked Lenovo Notebooks : In-Depth Analysis & Reviews by Tech Experts - ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/zdnet-explores-dells-cutting-edge-gaming-laptop-ultraportability-meets-workplace-efficiency-in-their-latest-offering/"><u>ZDNet Explores Dell's Cutting-Edge Gaming Laptop: Ultraportability Meets Workplace Efficiency in Their Latest Offering</u></a></li>
 </ul></div>
 

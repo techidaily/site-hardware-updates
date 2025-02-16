@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Insights: Comprehensive Guide to Hardware"
-date: 2024-08-19T04:22:39.746Z
-updated: 2024-08-20T04:22:39.746Z
+date: 2025-02-02T05:16:10.679Z
+updated: 2025-02-03T04:48:26.068Z
 tags:
   - motherboards
 categories:
@@ -41,6 +41,10 @@ Hardware enthusiast[Jiacheng Liu](https://x.com/unnatural%5F%5Flog/status/179755
 
  The EVGA X670E Classified prototypes were briefly available on Xianyu, a popular second-hand market platform in China. Liu said he had paid around $620 for four PCBs without heatsinks; meanwhile, the retail-looking sample with heatsinks set him back $1,378\. Apparently, another buyer flew to Shenzhen, China, to buy a single PCB for $689.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -57,8 +61,6 @@ Hardware enthusiast[Jiacheng Liu](https://x.com/unnatural%5F%5Flog/status/179755
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -66,8 +68,16 @@ Hardware enthusiast[Jiacheng Liu](https://x.com/unnatural%5F%5Flog/status/179755
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-sail-the-seas-with-these-superior-underwater-recorders-for-2024/"><u>[New] Sail the Seas with These Superior Underwater Recorders for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/oar-in-popularity-with-key-seo-strategies-for-your-youtube-content/"><u>[New] Soar in Popularity with Key SEO Strategies for Your YouTube Content</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-essential-speedster-games-for-pcandroid-devices/"><u>[Updated] Essential Speedster Games for PC/Android Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-bargain-finds-on-amazons-oct-2024-prime-day-bonanza-grab-your-discounted-treasures-before-theyre-gone/"><u>Exclusive Bargain Finds on Amazon's Oct 2024 Prime Day Bonanza: Grab Your Discounted Treasures Before They're Gone!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-the-best-of-cyber-monday-savings-at-costco-ultimate-guide-to-deals-on-tvs-computers-and-tablets-insights-by-zdnet/"><u>Experience the Best of Cyber Monday Savings at Costco: Ultimate Guide to Deals on TVs, Computers & Tablets | Insights by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-the-future-with-lenovos-premium-thinkpad-x13s-unveiling-arm-powered-ultraportable-tech-enhanced-by-5g-and-extended-battery-life-insights/"><u>Experience the Future with Lenovo's Premium ThinkPad X13s - Unveiling Arm Powered Ultraportable Tech Enhanced by 5G and Extended Battery Life Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/is-it-time-to-upgrade-alternatives-to-apples-discontinued-iphone-13-and-iphone-15-pro-as-recommended-by-tech-experts-at-zdnet/"><u>Is It Time to Upgrade: Alternatives to Apple's Discontinued iPhone 13 & iPhone 15 Pro as Recommended by Tech Experts at ZDNet</u></a></li>
+<li><a href="https://article-files.techidaily.com/masterclass-choosing-the-pinnacle-in-hdr-cameras-for-2024/"><u>Masterclass Choosing the Pinnacle in HDR Cameras for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-mac-computers-expert-picks/"><u>Top Mac Computers : Expert Picks</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->

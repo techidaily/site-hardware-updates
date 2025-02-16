@@ -1,7 +1,7 @@
 ---
 title: "Experience Next-Level Performance: ASROCK's Fresh Batch of Arrow Lake Motherboards Includes a Groundbreaking Taichi Design Equipped for CAMM2 Memory"
-date: 2024-08-19T04:21:18.300Z
-updated: 2024-08-20T04:21:18.300Z
+date: 2025-01-28T09:37:32.119Z
+updated: 2025-02-02T22:09:19.176Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +62,20 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-shaping-tomorrow-celebrating-the-top-6-in-nft-artistry/"><u>[New] Shaping Tomorrow Celebrating the Top 6 in NFT Artistry</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-breakthrough-visuals-top-10-monitors-for-your-macbook/"><u>[Updated] 2024 Approved Breakthrough Visuals Top 10 Monitors For Your MacBook</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-preventing-and-addressing-live-pause-issues-fb/"><u>[Updated] 2024 Approved Preventing and Addressing Live Pause Issues (FB)</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-complete-video-revenue-playbook-dm-vs-yo-edition-for-2024/"><u>[Updated] The Complete Video Revenue Playbook Dm Vs. Yo Edition for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-twitters-top-jokesters-for-2024/"><u>[Updated] Twitter's Top Jokesters for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-realme-11-5g-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discovering-longevity-and-beauty-in-tech-in-depth-analysis-of-a-highly-durable-laptop-boasting-exceptional-display-quality/"><u>Discovering Longevity and Beauty in Tech: In-Depth Analysis of a Highly Durable Laptop Boasting Exceptional Display Quality</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exceptional-longevity-and-breathtaking-display-discover-the-best-long-lasting-laptop-reviewed-by-zdnet/"><u>Exceptional Longevity and Breathtaking Display: Discover the Best Long-Lasting Laptop Reviewed by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-access-top-video-game-discounts-on-prime-day-2024-save-big-until-oct-end/"><u>Exclusive Access: Top Video Game Discounts on Prime Day 2024 - Save Big Until Oct End!</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-chart-wolfs-sonorous-call-pattern/"><u>New In 2024, Chart Wolfs Sonorous Call Pattern</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/revolutionizing-the-corporate-world-with-ai-integrated-lenovo-thinkpads-the-perfect-solution-for-business-professionals-digital-trends/"><u>Revolutionizing the Corporate World with AI Integrated Lenovo ThinkPads - The Perfect Solution for Business Professionals | Digital Trends</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/score-a-steal-upgrade-to-an-hp-victus-15-pc-at-just-515-during-amazon-prime-exclusive-sale-insider-tips/"><u>Score a Steal: Upgrade to an HP Victus ^$15 PC at Just $515 During Amazon Prime Exclusive Sale - Insider Tips</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/work-from-home-essential-adonit-nest-drops-to-65-best-usb-hub-offer-today-featured-on-zdnet/"><u>Work From Home Essential: Adonit Nest Drops to $65 - Best USB Hub Offer Today! Featured on ZDNet</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

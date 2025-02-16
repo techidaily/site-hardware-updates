@@ -1,7 +1,7 @@
 ---
 title: Lenovo's Ultimate Portable Secret Revealed! The Ingenious TrackPoint Feature & Extra Tricks Within | Insights
-date: 2025-01-30T20:07:23.967Z
-updated: 2025-02-01T19:59:58.394Z
+date: 2025-01-30T00:54:42.051Z
+updated: 2025-02-02T21:10:24.981Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -77,7 +77,7 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -116,20 +116,17 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-cutting-edge-dvd-maker-apps-on-mac-sierra/"><u>[New] 2024 Approved Cutting-Edge DVD Maker Apps on Mac Sierra</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/024-approved-transforming-your-channel-url-step-by-step-instructions/"><u>[New] 2024 Approved Transforming Your Channel URL Step-by-Step Instructions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/a-galactic-journey-through-gaming-the-story-and-action-of-the-outer-worlds-reviewed/"><u>A Galactic Journey Through Gaming: The Story and Action of 'The Outer Worlds' Reviewed</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-setup-fresh-downloads-for-your-asus-z370-e-board/"><u>Effortless Setup: Fresh Downloads for Your Asus Z370-E Board</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-samsung-galaxy-a05s-by-drfone-android/"><u>Full Guide to Unlock Your Samsung Galaxy A05s</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-6s-plus-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone 6s Plus</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-update-or-download-logitech-g29-racing-wheel-drivers-for-modern-windows-operating-systems/"><u>How to Update or Download Logitech G29 Racing Wheel Drivers for Modern Windows Operating Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-upscale-your-old-videos-with-madvr-for-windows/"><u>How to Upscale Your Old Videos With MadVR for Windows</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-unveiling-the-hidden-potential-of-screen-recording-on-mi-11-devices/"><u>In 2024, Unveiling the Hidden Potential of Screen Recording on Mi 11 Devices</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/installing-the-techkey-bluetooth-driver-on-your-window-based-device-windows-1178/"><u>Installing the Techkey Bluetooth Driver on Your Window-Based Device (Windows 11/7/8)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/legacy-over-how-llvm-compilers-departure-signals-the-end-of-amds-3dnow/"><u>Legacy Over: How LLVM Compiler's Departure Signals the End of AMD's 3DNow!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-the-error-how-to-successfully-restore-or-fix-your-pc-in-windows-10/"><u>Overcoming the Error: How to Successfully Restore or Fix Your PC in Windows 10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/surface-book-driver-update-made-simple-download-now/"><u>Surface Book Driver Update Made Simple – Download Now</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-jaycut-2023-the-ultimate-guide-to-free-online-video-editing-software/"><u>Updated Jaycut 2023 The Ultimate Guide to Free Online Video Editing Software</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/upgrade-gaming-experience-on-windows-11-8-or-7-download-nvidia-rtx-3090-drivers-now/"><u>Upgrade Gaming Experience on Windows 11, 8 or 7 - Download NVIDIA RTX 3090 Drivers Now</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-step-by-step-to-a-luminous-world-of-android-videos/"><u>2024 Approved Step-by-Step to a Luminous World of Android Videos</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-overview-of-the-galaxy-line-up-introduced-at-samsung-unpacked-insights-from-zdnet/"><u>Exclusive Overview of the Galaxy Line-Up Introduced at Samsung Unpacked: Insights From ZDNet</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-reel-mastery-made-simple-with-these-free-apps-to-manage-instagram-videos/"><u>In 2024, Reel Mastery Made Simple with These Free Apps to Manage Instagram Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/prime-18-webcam-recorders-your-ultimate-tech-companion-for-2024/"><u>Prime 18 Webcam Recorders Your Ultimate Tech Companion for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/purchase-the-revolutionary-ar-laptop-featuring-a-massive-100-screen-eliminating-the-need-for-an-external-monitor/"><u>Purchase the Revolutionary AR Laptop Featuring a Massive 100 Screen, Eliminating the Need for an External Monitor!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ring-spotlight-cam-pro-review-an-unanticipated-revelation/"><u>Ring Spotlight Cam Pro Review - An Unanticipated Revelation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/snipgrab-hiccups-9-effective-remedies-inside/"><u>SnipGrab Hiccups? 9 Effective Remedies Inside</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-pick-the-ultra-versatile-laptop-that-wins-hearts-and-delivers-powerful-performance-insights/"><u>Top Pick: The Ultra-Versatile Laptop That Wins Hearts and Delivers Powerful Performance - Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-discounts-on-apples-macbook-and-mac-mini-in-january-2n-exclusive-offers-revealed-by-zdnet/"><u>Top-Rated Discounts on Apple's MacBook & Mac Mini in January 2N - Exclusive Offers Revealed by ZDNet</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlocking-iphone-14-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>Unlocking iPhone 14 Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
 </ul></div>
 

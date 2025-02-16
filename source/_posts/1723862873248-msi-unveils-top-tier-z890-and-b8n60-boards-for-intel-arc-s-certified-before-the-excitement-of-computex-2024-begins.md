@@ -1,7 +1,7 @@
 ---
 title: MSI Unveils Top-Tier Z890 and B8n60 Boards for Intel Arc S, Certified Before the Excitement of Computex 2024 Begins
-date: 2024-08-19T04:20:18.203Z
-updated: 2024-08-20T04:20:18.203Z
+date: 2025-02-02T05:08:11.471Z
+updated: 2025-02-02T16:16:24.595Z
 tags:
   - motherboards
 categories:
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/96d4e4e3696a3d428399dbec4c54090942565cd5b
 
  There is no Snapdragon X desktop chip yet, except for in[the Snapdragon X Elite dev kit](https://tools.techidaily.com) . But if these new Arm chips perform as expected, people might be tempted to put them in desktop computers. This would give many users the advantage of a smaller, lighter mini-PC, but still have the power of a full-on tower computer — this development will threaten Intel’s supremacy in the desktop computing space.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -45,8 +49,6 @@ thumbnail: https://thmb.techidaily.com/96d4e4e3696a3d428399dbec4c54090942565cd5b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -54,8 +56,20 @@ thumbnail: https://thmb.techidaily.com/96d4e4e3696a3d428399dbec4c54090942565cd5b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-streamline-your-life-quick-tips-to-beginning-on-discord-broadcasts-for-2024/"><u>[New] Streamline Your Life Quick Tips to Beginning on Discord Broadcasts for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-get-your-tweets-right-comply-with-aspect-ratio-standards/"><u>[Updated] In 2024, Get Your Tweets Right Comply with Aspect Ratio Standards</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/experience-the-next-wave-watching-fb-live-on-roku/"><u>Experience the Next Wave Watching FB Live on Roku</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/googles-guide-to-seamless-podcast-submission-for-2024/"><u>Google's Guide to Seamless Podcast Submission for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-cost-effective-cumulus-vault-for-colossal-archives/"><u>In 2024, Cost-Effective Cumulus Vault for Colossal Archives</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-xiaomi-redmi-k70-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Xiaomi Redmi K70 Data? | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-unleash-creative-potential-best-free-title-crafting-for-yt/"><u>In 2024, Unleash Creative Potential Best Free Title Crafting for YT</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-best-brit-tv-programs-available-on-netflix-updated-list/"><u>The Best Brit TV Programs Available on Netflix – Updated List!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-tv-deals-for-independence-day-celebrations-on-zdnet/"><u>Top TV Deals for Independence Day Celebrations on ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-walmart-bargains-in-july-2024-exclusive-saves-and-discounts-unveiled-by-zdnet/"><u>Top Walmart Bargains in July 2024: Exclusive Saves and Discounts Unveiled by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-ranked-gaming-televisions-features-and-reviews-by-zdnet/"><u>Top-Ranked Gaming Televisions : Features and Reviews by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-40-inch-television-models-industry-picks-featured-by-zdnet/"><u>Top-Rated 40-Inch Television Models - Industry Picks Featured by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-televisions-unveiled-at-ces-2024-discoveries-from-tech-insider-zdnet/"><u>Top-Rated Televisions Unveiled at CES 2024 - Discoveries From Tech Insider ZDNet</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

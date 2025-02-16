@@ -1,7 +1,7 @@
 ---
 title: "Discovering the New Era: ASROCK's Expanded Selection of Motherboards, Now with Enhanced Arrow Lake Compatibility and a Reinvented Taichi Edition Utilizing CAMM2 Memory Technology"
-date: 2024-08-19T04:19:39.245Z
-updated: 2024-08-20T04:19:39.245Z
+date: 2025-02-01T19:29:10.250Z
+updated: 2025-02-03T00:50:04.305Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +62,23 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-toddler-tycoon-how-ryans-channel-earnings-shook-the-internet/"><u>[Updated] 2024 Approved Toddler Tycoon How Ryan's Channel Earnings Shook the Internet</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-elevate-your-biz-game-youtube-channels-that-succeeded-for-2024/"><u>[Updated] Elevate Your Biz Game YouTube Channels That Succeeded for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-achieving-flawless-gameplay-optimizing-your-switch-pro-experience-on-steam/"><u>[Updated] In 2024, Achieving Flawless Gameplay Optimizing Your Switch Pro Experience on Steam</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-recording-to-viewing-a-complete-guide-for-sharing-ultra-hd-on-youtube/"><u>[Updated] In 2024, From Recording to Viewing A Complete Guide for Sharing Ultra HD on Youtube</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-veil-of-secrecy-hiding-objects-from-digital-eyes/"><u>2024 Approved Veil of Secrecy Hiding Objects From Digital Eyes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/aiff-bestandsen-omzetten-intoe-gratis-vaardigheden-verkregen-door-movavi/"><u>AIFF-Bestandsen Omzetten Intoe: Gratis, Vaardigheden Verkregen Door Movavi</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-your-scansnap-s1300i-driver-today-with-this-simple-tutorial/"><u>Download & Update Your ScanSnap S1300i Driver Today with This Simple Tutorial</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-asus-clickpad-drivers-latest-version-compatible-with-windows/"><u>Download ASUS ClickPad Drivers - Latest Version Compatible with Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-to-follow-steps-for-downloading-and-installing-canons-mx340-drivers-on-windows-11-8-or-7-devices/"><u>Easy-to-Follow Steps for Downloading & Installing Canon's MX340 Drivers on Windows 11, 8, or 7 Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-setup-for-thrustmaster-t150-racing-gear-faster-driver-downloads-await/"><u>Effortless Setup for ThrustMaster T150 Racing Gear - Faster Driver Downloads Await!</u></a></li>
+<li><a href="https://fox-links.techidaily.com/enhancing-android-viewing-latest-in-vr-and-360-videos/"><u>Enhancing Android Viewing - Latest in VR & 360 Videos</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-most-recent-windows-drivers-for-your-netgear-a61-0-device-here/"><u>Get the Most Recent Windows Drivers for Your Netgear A61 0 Device Here</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-frost-your-view-freezing-desktop-on-pcs/"><u>In 2024, Frost Your View Freezing Desktop on PCs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/inside-look-at-toms-hardware-breakdowns-and-comparisons/"><u>Inside Look at Tom's Hardware Breakdowns and Comparisons</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722978813528-synaptics-drivers-for-windows-made-easy-free-download-and-update-options/"><u>Synaptics Drivers for Windows Made Easy – Free Download & Update Options</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-free-online-dailymotion-converter-easy-and-fast/"><u>Updated In 2024, Free Online Dailymotion Converter Easy and Fast</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

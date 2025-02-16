@@ -1,7 +1,7 @@
 ---
 title: "Anticipated Announcements at Apple's Oct Event: The New M4 Mac Mini & Upcoming iPad Releases"
-date: 2025-01-29T16:09:19.204Z
-updated: 2025-02-01T22:47:06.728Z
+date: 2025-01-30T06:24:52.267Z
+updated: 2025-02-03T02:07:05.833Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,20 +118,21 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-gentle-audio-dimming-methods-in-os-xwindows/"><u>[New] Gentle Audio Dimming Methods in OS X/Windows</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-legality-of-capturing-and-reproducing-youtube-video-playbacks/"><u>[New] Legality of Capturing and Reproducing YouTube Video Playbacks</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-experts-choice-top-10-best-free-lut-downloads/"><u>[Updated] In 2024, Expert's Choice - Top 10 Best Free LUT Downloads</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-precision-toolkit-for-flawless-webp-to-jpg-changeover/"><u>[Updated] In 2024, Precision Toolkit for Flawless WebP to JPG Changeover</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-unlocking-the-secrets-to-outro-mastery-free-tutorials-1-6-for-2024/"><u>[Updated] Unlocking the Secrets to Outro Mastery (FREE Tutorials 1-6) for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/best-source-to-obtain-logitech-unifying-receiver-driver-for-windows-users/"><u>Best Source to Obtain Logitech Unifying Receiver Driver for Windows Users</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/easy-fixes-how-to-recover-forgotten-icloud-password-from-your-apple-iphone-6-plus-by-drfone-ios/"><u>Easy Fixes How To Recover Forgotten iCloud Password From your Apple iPhone 6 Plus</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722964307118-ensure-optimal-performance-download-hp-elitebook-x360-1030-g2-drivers-today/"><u>Ensure Optimal Performance: Download HP EliteBook X360 1030 G2 Drivers Today!</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/forderung-des-engagements-wie-kunstliche-intelligenz-den-sicheren-dokumentenzugriff-erleichtert/"><u>Förderung Des Engagements: Wie Künstliche Intelligenz Den Sicheren Dokumentenzugriff Erleichtert</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Oppo A1x 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-securely-obtain-new-drivers-for-netgear-adapters-comprehensive-guide/"><u>How to Securely Obtain New Drivers for NETGEAR Adapters: Comprehensive Guide</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-infinix-hot-30-5g-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Infinix Hot 30 5G FRP</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mrsa-is-an-example-of-a-bacteria-that-has-developed-resistance-to-commonly-used-antibiotics-like-methicillin/"><u>MRSA Is an Example of a Bacteria that Has Developed Resistance to Commonly Used Antibiotics Like Methicillin.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/no-turning-back-intels-non-k-processor-crash-woes-extend-to-65w-and-up-recall-missing/"><u>No Turning Back: Intel’s Non-K Processor Crash Woes Extend to 65W and Up, Recall Missing</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/speedy-driver-download-for-samsung-m2070fw-easy-steps-inside/"><u>Speedy Driver Download for Samsung M2070FW – Easy Steps Inside</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-illuminate-a-guide-to-great-vlog-images/"><u>[New] In 2024, How to Illuminate A Guide to Great Vlog Images</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-finding-pixel-ringtone-treasures-online/"><u>[Updated] Finding Pixel Ringtone Treasures Online</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-groundbreaking-8-android-video-call-services-more-than-four/"><u>[Updated] In 2024, Groundbreaking 8 Android Video Call Services, More Than Four</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/2023-ultimate-memory-guide-professional-workstation-and-gaming-upgrades-revealed-top-picks/"><u>2023 Ultimate Memory Guide: Professional Workstation and Gaming Upgrades Revealed Top Picks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/2023s-most-impactful-tech-innovations-unveiled-how-they-transformed-the-game-featured/"><u>2023'S Most Impactful Tech Innovations Unveiled | How They Transformed the Game - Featured</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-vivo-y100t-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Vivo Y100t</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/choosing-between-ipad-pro-and-macbook-air-expert-analysis-on-which-is-ideal-for-you-insights-from-zdnet/"><u>Choosing Between iPad Pro and MacBook Air: Expert Analysis on Which Is Ideal for You | Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-leading-antivirus-solutions-as-chosen-experts/"><u>Discover the Leading Antivirus Solutions as Chosen Experts</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficient-installation-of-netgear-a6200-dongle/"><u>Efficient Installation of Netgear A6200 Dongle</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-infinix-smart-7-hd-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Infinix Smart 7 HD in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/modificacoes-de-arquivos-para-wav-offline-e-online-gratuitas-pelo-movavi/"><u>Modificações De Arquivos Para WAV Offline E Online Gratuitas Pelo Movavi!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-9-unbeatable-gaming-laptop-offers-in-february-2023-exclusive-picks-by-zdnet/"><u>Top 9 Unbeatable Gaming Laptop Offers in February 2023 - Exclusive Picks by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-leading-macos-applications-insights/"><u>Ultimate Guide to Leading macOS Applications : Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-savings-guide-for-pre-prime-day-2024-shopping-best-deals-curated-by-zdnet/"><u>Ultimate Savings Guide for Pre-Prime Day 2024 Shopping | Best Deals Curated by ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unboxing-and-testing-the-2022-upgraded-apple-macbook-air-with-m2-chip-enhanced-performance-slimmer-build-but-is-it-worth-the-price-hike-gadgetgurus/"><u>Unboxing & Testing the 2022 Upgraded Apple MacBook Air with M2 Chip: Enhanced Performance, Slimmer Build - But Is It Worth the Price Hike? | GadgetGurus</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/what-software-does-youtube-vloggers-use-and-what-is-the-best-free-video-editing-software-for-vlogger-beginners-in-this-article-youll-find-5-best-vlog-video-/"><u>What Software Does YouTube Vloggers Use? And What Is the Best Free Video Editing Software for Vlogger Beginners? In This Article, Youll Find 5 Best Vlog Video Editing Software. You Can Now Choose Th</u></a></li>
 </ul></div>
 

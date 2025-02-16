@@ -1,7 +1,7 @@
 ---
 title: "Meet the Compact Multi-Device Charger: Ideal for Powering Up Laptops, Tablets & Phones"
-date: 2025-01-30T19:04:51.243Z
-updated: 2025-02-01T18:34:34.288Z
+date: 2025-01-31T22:44:39.381Z
+updated: 2025-02-03T07:00:20.211Z
 tags:
   - laptops
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/200bad50912773155a76642b85b00bc52b52d7ab3
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -93,7 +93,7 @@ Compared to a MacBook, one could argue that the Yoga Slim 7x is at least better 
 The MacBook is better suited for the iOS ecosystem, however Lenovo has been making strides in developing a data transfer feature between its laptop and iPhones. So if you're not sure which one to get, the Yoga Slim 7x might be the better long-term investment.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -134,20 +134,24 @@ Creators might also appreciate the fact that Lenovo is also giving [two free mon
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-updates.techidaily.com/download-mastering-windows-installation-of-your-new-focusrite-scarlett-2i2-audio-interface/"><u>[Download]: Mastering Windows Installation of Your New Focusrite Scarlett 2I2 Audio Interface!</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-the-streaming-spectrum-digital-vs-physical-frontiers/"><u>[Updated] 2024 Approved The Streaming Spectrum Digital vs Physical Frontiers</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-the-secret-to-slowed-movies-mastery-your-step-by-step-guide-on-instagram-reels-for-2024/"><u>[Updated] The Secret to Slowed Movies Mastery – Your Step by Step Guide on Instagram Reels for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/blueprints-to-hiring-creative-cinematographers/"><u>Blueprints to Hiring Creative Cinematographers</u></a></li>
-<li><a href="https://win11.techidaily.com/crafting-efficient-windows-11-shortcuts-for-uwp-apps/"><u>Crafting Efficient Windows 11 Shortcuts for UWP Apps</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/discover-the-excellence-of-msfsx-gold-edition-the-ultimate-flight-simulation-experience-evaluated/"><u>Discover the Excellence of MSFSX Gold Edition: The Ultimate Flight Simulation Experience Evaluated</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-the-latest-samsung-960-evo-ssd-drivers-on-your-windows-pc/"><u>Download & Install the Latest Samsung 960 EVO SSD Drivers on Your Windows PC</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/first-look-at-langchains-large-language-models/"><u>First Look at LangChain's Large Language Models</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-enable-the-latest-hid-standard-mouse-support-on-your-pc/"><u>How to Enable the Latest HID Standard Mouse Support on Your PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-resident-evil-village-pc-performance-lags-a-complete-guide/"><u>How To Fix Resident Evil Village PC Performance Lags: A Complete Guide</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-c53-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Realme C53 Phone with Broken Screen</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-driver-upgrades-for-your-canon-dslr-model-d530-easy-downloads-available/"><u>Latest Driver Upgrades for Your Canon DSLR, Model D530 – Easy Downloads Available</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-and-simple-wacom-intuos-pro-driver-download-for-windows-10-users/"><u>Quick & Simple Wacom Intuos Pro Driver Download for Windows 10 Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-review-comprehensive-guides-and-in-depth-analysis/"><u>Tom's Tech Review - Comprehensive Guides and In-Depth Analysis</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-9-itel-s23plus-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Itel S23+ Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/he-psychology-of-persuasion-in-subscription-growth/"><u>[New] The Psychology of Persuasion in Subscription Growth</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-action-camera-showdown-gopro-hero-black-meets-yi-4k-update/"><u>[Updated] Action Camera Showdown GoPro Hero Black Meets Yi 4K Update</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-how-to-burn-video-to-dvd-on-mac/"><u>[Updated] How to Burn Video to DVD on Mac</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-mastering-your-syma-x8c-flight-patterns/"><u>[Updated] In 2024, Mastering Your Syma X8C Flight Patterns</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/1-understanding-pre-set-conditions-a-comprehensive-guide/"><u>1. Understanding Pre-Set Conditions: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/asus-laptop-steal-of-the-show-at-best-buys-flash-deal-just-99/"><u>Asus Laptop Steal of the Show at Best Buy's Flash Deal - Just $99</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/beyond-size-limits-unveiling-an-exceptionally-adaptable-chromebook-amongst-the-tiniest-ones-reviewed-by-zdnet/"><u>Beyond Size Limits: Unveiling an Exceptionally Adaptable Chromebook Amongst the Tiniest Ones Reviewed by ZDNET</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effortless-file-transfers-with-macx-mediatrans-moving-your-iphones-media-to-pc/"><u>Effortless File Transfers with MacX MediaTrans - Moving Your iPhone's Media to PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-the-superior-features-of-the-asus-laptop-the-ideal-alternative-to-macbook-unveiled/"><u>Exploring the Superior Features of the Asus Laptop - The Ideal Alternative to MacBook Unveiled</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fix-your-age-of-empires-iv-ensure-smooth-downloading-and-setup-on-the-store-app/"><u>Fix Your Age of Empires IV: Ensure Smooth Downloading & Setup on the Store App</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-lenovo-flex-3-chromebook-for-an-unbeatable-price-of-99-this-black-friday-pre-cyber-monday-extravaganza-dealhunt-gadgets/"><u>Get the Lenovo Flex 3 Chromebook for an Unbeatable Price of $99 This Black Friday, Pre-Cyber Monday Extravaganza | DealHunt Gadgets</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-modern-ar-laptops-without-displays-are-outshining-their-predecessors-in-both-features-and-price-zdnet-insights/"><u>How Modern AR Laptops Without Displays Are Outshining Their Predecessors in Both Features and Price | ZDNET Insights</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-apods-made-simple-the-ultimate-audio-solution/"><u>In 2024, APods Made Simple The Ultimate Audio Solution</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-realme-11-5g-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Realme 11 5G Device</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/macbook-showdown-deciding-between-air-and-pro-models-a-detailed-analysis/"><u>MacBook Showdown: Deciding Between Air and Pro Models - A Detailed Analysis</u></a></li>
+<li><a href="https://extra-support.techidaily.com/speedy-file-assessment-on-windows-pcs-for-2024/"><u>Speedy File Assessment on Windows PCs for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-july-2024-laptop-bargains-exclusive-offers-featured/"><u>Top July 2024 Laptop Bargains: Exclusive Offers Featured</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/uncover-the-ultimate-tech-deals-the-top-16-items-at-walmart-revealed/"><u>Uncover the Ultimate Tech Deals: The Top 16 Items at Walmart Revealed</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unleash-your-gaming-potential-for-less-get-up-to-250-off-premium-laptops-this-memorial-weekend-at-zdnet-deals/"><u>Unleash Your Gaming Potential for Less: Get Up to $250 Off Premium Laptops This Memorial Weekend at ZDNet Deals!</u></a></li>
 </ul></div>
 

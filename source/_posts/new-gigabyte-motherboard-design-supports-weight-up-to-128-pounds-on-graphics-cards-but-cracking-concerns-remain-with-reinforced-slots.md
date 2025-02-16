@@ -1,7 +1,7 @@
 ---
 title: "New Gigabyte Motherboard Design: Supports Weight Up to 128 Pounds on Graphics Cards - But Cracking Concerns Remain with Reinforced Slots"
-date: 2024-08-19T04:22:32.264Z
-updated: 2024-08-20T04:22:32.264Z
+date: 2025-02-02T00:59:15.944Z
+updated: 2025-02-02T22:21:08.470Z
 tags:
   - motherboards
 categories:
@@ -47,6 +47,10 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
 
  The fact is, Loongson has developed its own CPU just a few generations behind Intel and AMD. Considering the Chinese firm has to work around U.S. sanctions and claims to insist on doing everything based on its own IP, the performance could actually be considered impressive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -63,8 +67,6 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -72,8 +74,17 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-15-best-free-youtube-introduction-tools/"><u>[New] In 2024, 15 Best Free YouTube Introduction Tools</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/choosing-between-ipad-pro-and-macbook-air-a-comprehensive-guide-to-make-the-right-decision/"><u>Choosing Between iPad Pro and MacBook Air: A Comprehensive Guide to Make the Right Decision</u></a></li>
+<li><a href="https://win-tips.techidaily.com/diagnose-and-enhance-performance-of-lagging-windows-programs-with-proven-techniques-by-yl-software-specialists/"><u>Diagnose and Enhance Performance of Lagging Windows Programs with Proven Techniques by YL Software Specialists</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/from-novice-to-specialist-a-step-by-step-journey-through-adobe-ps-background-removal-techniques/"><u>From Novice to Specialist A Step-by-Step Journey Through Adobe PS Background Removal Techniques</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-discovering-video-content-on-fb-a-comprehensive-guide/"><u>In 2024, Discovering Video Content on FB A Comprehensive Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-haunting-shots-next-gen-action-hddc/"><u>In 2024, Haunting Shots Next-Gen Action HDDC</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-latest-guide-on-ipad-23-and-iphone-6s-plus-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Latest Guide on iPad 2/3 and iPhone 6s Plus iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/surprising-top-picks-a-highly-competent-alternative-to-hp-or-lenovos-2-in-1-devices-discovered-experts/"><u>Surprising Top Picks: A Highly Competent Alternative to HP or Lenovo's 2-in-1 Devices, Discovered Experts!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-battle-of-portables-when-lg-gram-pro-surpasses-apples-macbook-air-review/"><u>The Battle of Portables: When LG Gram Pro Surpasses Apple's MacBook Air Review</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-cyber-week-low-cost-laptops-top-picks-below-500-plus-extra-bargain-at-only-99-explore-the-best-offers-on-zdnet/"><u>Unbeatable Cyber Week Low-Cost Laptops - Top Picks Below $500 + Extra Bargain at Only $99! Explore the Best Offers on ZDNet</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

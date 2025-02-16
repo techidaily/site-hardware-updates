@@ -1,7 +1,7 @@
 ---
 title: "Explore Lenovo's Latest Upgrades to the ThinkPad X1 Series: A Comprehensive Review by ZDNet"
-date: 2025-01-29T20:32:36.267Z
-updated: 2025-02-01T20:27:14.567Z
+date: 2025-01-30T08:04:32.523Z
+updated: 2025-02-03T00:28:28.199Z
 tags:
   - laptops
 categories:
@@ -22,7 +22,7 @@ Lenovo has showed off its forthcoming ThinkPad X1 laptops that will feature Inte
 The tech giant has showcased the high-end, 14-inch display [ThinkPad X1 Carbon Gen 11](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fnews.lenovo.com%2Fpressroom%2Fpress-releases%2Fthinkpad-x1-thinkvision-lenovo-go-power-hybrid-working%2F) and ThinkPad X1 Yoga Gen 8, as well as the 13-inch display ThinkPad X1 Nano Gen 3\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Windows 11
@@ -88,22 +88,20 @@ Neither the 14-inch or 16-inch IdeaPad Pro 5 with AMD will be available in North
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-top-5-free-video-effects-sites/"><u>[New] 2024 Approved Top 5 Free Video Effects Sites</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-cultivate-community-interest-with-collaborative-lists/"><u>[New] In 2024, Cultivate Community Interest With Collaborative Lists</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-tailored-free-offer-unlock-our-exclusive-youtube-banner-pack/"><u>[New] In 2024, Tailored Free Offer - Unlock Our Exclusive YouTube Banner Pack</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/1-top-7-innovative-mobile-apps-for-professional-resume-photography-androidios/"><u>1. Top 7 Innovative Mobile Apps for Professional Resume Photography (Android/iOS)</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-experts-approach-to-inserting-subtitlescc-on-youtube-videos/"><u>2024 Approved The Expert's Approach to Inserting Subtitles/CC on YouTube Videos</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-ricoh-mp-c3003-printer-software-free-driver-pack/"><u>Download Ricoh MP C3003 Printer Software - Free Driver Pack</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/essential-download-guide-getting-started-with-your-new-logitech-m525-keyboard/"><u>Essential Download Guide: Getting Started with Your New Logitech M525 Keyboard</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-free-copy-of-the-m-audio-fast-track-ultra-driver-top-sound-drivers/"><u>Get Your Free Copy of the M-Audio Fast Track Ultra Driver – Top Sound Drivers</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-oppo-f25-pro-5g-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Oppo F25 Pro 5G Phone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-find-download-and-update-your-canon-mg3600-printer-software/"><u>How to Find, Download & Update Your Canon MG3600 Printer Software</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-hardware-insights-with-toms-technology-hub/"><u>Mastering Hardware Insights with Tom's Technology Hub</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/seamless-printing-on-windows-11-10-and-8-download-the-latest-epson-artisan-1430-drivers-today/"><u>Seamless Printing on Windows 11, 10 & 8: Download the Latest Epson Artisan 1430 Drivers Today!</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/skillful-strategies-for-sustaining-design-success/"><u>Skillful Strategies for Sustaining Design Success</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-instructions-to-optimize-amd-radeon-hd-7870-with-new-drivers-on-windows-10-platforms/"><u>Step-by-Step Instructions to Optimize AMD Radeon HD 7870 with New Drivers on Windows 10 Platforms</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/the-art-of-italian-signal-speaking/"><u>The Art of Italian Signal Speaking</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-improvements-in-the-latest-version-of-logitech-extreme-3d-driver/"><u>Unveiling Improvements in the Latest Version of Logitech Extreme 3D Driver</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/onetization-mastery-unleashing-earnings-from-your-online-content-for-2024/"><u>[New] Monetization Mastery Unleashing Earnings From Your Online Content for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-channel-image-makeovers-on-the-house/"><u>[Updated] 2024 Approved Channel Image Makeovers on the House</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-seeking-outno-cost-clip-art-deposits-for-2024/"><u>[Updated] Seeking Outno-Cost Clip Art Deposits for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-cutting-edge-apple-macbook-air-laptop-m2-chip-for-record-low-prices-this-cyber-monday-exclusive-deals-await-you/"><u>Get the Cutting-Edge Apple MacBook Air Laptop (M2 Chip) for Record-Low Prices This Cyber Monday! Exclusive Deals Await You .</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-vivo-y100i-power-5g-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Vivo Y100i Power 5G by Name | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-framework-for-cost-analysis-in-music-video-making/"><u>In 2024, Framework for Cost Analysis in Music Video Making</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/introducing-lenovos-latest-ai-powered-thinkpad-the-ideal-solution-for-todays-business-professionals-exclusive-insight-from-zdnet/"><u>Introducing Lenovo's Latest AI-Powered ThinkPad: The Ideal Solution for Today's Business Professionals - Exclusive Insight From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/lenovo-windows-tabletlaptop-combo-reviewed-discovering-the-remarkable-potential-of-this-innovative-device/"><u>Lenovo Windows Tablet/Laptop Combo Reviewed : Discovering the Remarkable Potential of This Innovative Device</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/massive-950-off-gear-up-with-lenovos-premium-business-laptop-for-an-exclusive-pre-prime-day-offer-on-amazon-tech-insights/"><u>Massive $950 Off: Gear Up with Lenovo's Premium Business Laptop for an Exclusive Pre-Prime Day Offer on Amazon - Tech Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-screen-capture-techniques-for-laptops-including-dell-and-lenovo-plus-a-mac-twist/"><u>Mastering Screen Capture: Techniques for Laptops Including Dell and Lenovo, Plus a Mac Twist</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/score-the-best-october-deal-with-metas-512gb-quest-vr-headset-at-half-price-on-prime-day-zdnet-coverage/"><u>Score the Best October Deal with Meta's 512GB Quest VR Headset at Half Price on Prime Day | ZDNet Coverage</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-math-behind-making-money-youtubes-viewer-insights-for-2024/"><u>The Math Behind Making Money YouTube’s Viewer Insights for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-gaming-audio-systems-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated Gaming Audio Systems : Comprehensive Reviews by Tech Experts - ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-guide-to-choosing-a-premium-vpn-on-mac-pros-cons-and-picks-pcmag/"><u>Ultimate Guide to Choosing a Premium VPN on Mac: Pros, Cons, and Picks - PCMag</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/your-ultimate-resource-for-catching-spider-man-no-way-home-through-streaming-services/"><u>Your Ultimate Resource for Catching 'Spider-Man: No Way Home' Through Streaming Services</u></a></li>
 </ul></div>
 

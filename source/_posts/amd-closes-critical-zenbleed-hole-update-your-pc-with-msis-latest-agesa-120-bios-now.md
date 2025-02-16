@@ -1,7 +1,7 @@
 ---
 title: "AMD Closes Critical 'Zenbleed' Hole: Update Your PC With MSI's Latest AGESA 1.2.0 BIOS Now"
-date: 2024-08-19T04:22:12.747Z
-updated: 2024-08-20T04:22:12.747Z
+date: 2025-02-02T02:16:39.332Z
+updated: 2025-02-02T21:59:11.490Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +62,20 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ed-purchasing-options-choosing-premium-vs-standard-fixtures-and-whether-they-are-integrated-or-retrofit-options-can-alter-costs-for-2024/"><u>[Updated] __Purchasing Options__ Choosing Premium Vs. Standard Fixtures and Whether They Are Integrated or Retrofit Options Can Alter Costs for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-bargains-before-prime-day-2024-top-saves-and-steals-on-zdnet/"><u>Best Bargains Before Prime Day 2024: Top Saves & Steals on ZDNet</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/full-guide-to-unlock-your-motorola-g24-power-by-drfone-android/"><u>Full Guide to Unlock Your Motorola G24 Power</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-many-attempts-to-unlock-apple-iphone-15-pro-by-drfone-ios/"><u>How Many Attempts To Unlock Apple iPhone 15 Pro</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-successfully-solve-windows-1n-tens-system-service-exception-issues/"><u>How to Successfully Solve Windows 1N Ten's System Service Exception Issues</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-hd-audio-with-idts-codec-driver-seamless-integration-into-windows-11/"><u>Mastering HD Audio with IDT's Codec Driver: Seamless Integration Into Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maximize-productivity-with-a-versatile-10-in-1-dock-now-just-35-cheaper-exclusive-review/"><u>Maximize Productivity with a Versatile 10-in-1 Dock, Now Just 35% Cheaper | Exclusive Review</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/1728491235445-sd/"><u>SD卡数据重新加密解密指南：从头到尾</u></a></li>
+<li><a href="https://fox-access.techidaily.com/secrets-to-high-resolution-pics-on-deal-for-2024/"><u>Secrets to High-Resolution Pics on Deal for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/simple-techniques-for-downloading-youtube-content/"><u>Simple Techniques for Downloading YouTube Content</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-ranking-laptops-for-professional-graphic-artists-in-depth-analysis-and-reviews-by-industry-experts-techadvise/"><u>Top-Ranking Laptops for Professional Graphic Artists: In-Depth Analysis & Reviews by Industry Experts | TechAdvise</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlock-savings-on-the-newest-macbook-air-exclusive-presidents-day-offer-with-300-discount/"><u>Unlock Savings on the Newest MacBook Air - Exclusive Presidents' Day Offer with $300 Discount !</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->

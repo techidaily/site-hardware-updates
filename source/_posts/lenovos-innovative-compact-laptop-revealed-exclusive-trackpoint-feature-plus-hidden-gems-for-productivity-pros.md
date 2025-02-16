@@ -1,7 +1,7 @@
 ---
 title: "Lenovo’s Innovative Compact Laptop Revealed: Exclusive TrackPoint Feature + Hidden Gems for Productivity Pros!"
-date: 2025-01-30T18:11:49.495Z
-updated: 2025-02-01T17:58:16.207Z
+date: 2025-01-28T16:56:50.798Z
+updated: 2025-02-02T21:40:10.248Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -95,7 +95,7 @@ Instead, I see the Vivobook S 15 as a primary driver for remote workers or digit
 It also has a "full" keyboard (the number pad on the right side has slightly smaller keys, as typical for sub-16-inch machines), which is satisfying and responsive to typing on. The keyboard has colorful LED backlighting that can be configured in many different lights and effects, but again, this is not something that I would consider high on the priority list when optimizing battery life. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -134,20 +134,19 @@ All things considered, the starting price of $1,299 is quite competitive for thi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-gamelog-analysts-guide/"><u>[New] In 2024, GameLog Analyst's Guide</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-perfecting-the-pulse-news-outro-techniques/"><u>[New] In 2024, Perfecting the Pulse News Outro Techniques</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-navigating-legalities-in-sharing-musical-works/"><u>[Updated] Navigating Legalities in Sharing Musical Works</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-youtube-mastering-the-use-of-tags-for-maximum-reach/"><u>2024 Approved YouTube Mastering the Use of Tags for Maximum Reach</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-installation-updated-amd-rx-580-gpu-drivers-for-optimal-performance/"><u>Effortless Installation: Updated AMD RX 580 GPU Drivers for Optimal Performance</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/expert-level-data-revival-software-secure-all-varieties-of-data-with-ease/"><u>Expert-Level Data Revival Software: Secure All Varieties of Data with Ease</u></a></li>
-<li><a href="https://discover-great.techidaily.com/free-online-solution-for-transforming-mp4-videos-into-mp3-audio-step-by-step-tutorial/"><u>Free Online Solution for Transforming MP4 Videos Into MP3 Audio : Step-by-Step Tutorial</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-canon-mp56nmp560-printer-drivers-quick-and-effortless-download/"><u>Get the Latest Canon MP56n/MP560 Printer Drivers - Quick and Effortless Download!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-nvidia-quadro-graphics-driver-for-windows-10-here/"><u>Get the Latest NVIDIA Quadro Graphics Driver for Windows 10 Here!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-install-epson-v600-driver-step-by-step-guide-with-download-links/"><u>How to Install Epson V600 Driver: Step-by-Step Guide with Download Links</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-converting-mac-image-types-a-step-by-step-process/"><u>In 2024, Converting Mac Image Types A Step-by-Step Process</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-enhance-your-projects-top-10-after-effects-text-plans/"><u>In 2024, Enhance Your Projects Top 10 After Effects Text Plans</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/stay-one-step-ahead-of-cpu-issues-game-devs-breakthrough-alert-for-intel-core-processors-easy-fix-procedures-revealed/"><u>Stay One Step Ahead of CPU Issues: Game Dev's Breakthrough Alert for Intel Core Processors - Easy Fix Procedures Revealed</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-easiest-way-to-secure-new-samsung-c460-drivers-in-minutes/"><u>The Easiest Way to Secure New Samsung C460 Drivers in Minutes</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/unlock-the-potential-of-hero5-black-for-stunning-visuals-for-2024/"><u>Unlock the Potential of Hero5 Black for Stunning Visuals for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-hack-the-youtube-timeline-increase-or-decrease-sound/"><u>[New] Hack the YouTube Timeline Increase or Decrease Sound</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-smartphone-editing-10-top-tiktok-choices/"><u>[Updated] 2024 Approved Smartphone Editing 10 Top TikTok Choices</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-optimize-meetings-using-snap-camera-for-better-communication-in-teams-for-2024/"><u>[Updated] Optimize Meetings Using Snap Camera for Better Communication in Teams for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1-huge-discount-alert-top-tier-gaming-laptop-slashes-price-by-50-during-october-prime-day-insider-report/"><u>1. Huge Discount Alert: Top-Tier Gaming Laptop Slashes Price by 50% During October Prime Day - Insider Report</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-capture-and-create-first-edits-in-lunapic-photo-editor/"><u>2024 Approved Capture & Create First Edits in LunaPic Photo Editor</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-view-hevc-h-265-content-on-redmi-13c-5g-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Can’t view HEVC H.265 content on Redmi 13C 5G</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diagnosing-and-repairing-problems-in-usb-mobile-hotspot-functionality/"><u>Diagnosing and Repairing Problems in USB Mobile Hotspot Functionality</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-my-life-became-simpler-with-this-hp-chromebook-no-need-for-windows/"><u>How My Life Became Simpler with This HP Chromebook - No Need for Windows!</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-royalty-free-video-heaven-top-download-sites/"><u>In 2024, Royalty-Free Video Heaven Top Download Sites</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/maximizing-visual-storytelling-with-b-roll-integration/"><u>Maximizing Visual Storytelling with B Roll Integration</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/sale-alert-save-nearly-half-on-the-4tb-samsung-t5-nvme-ssd-now-available-on-amazon-insights-from-zdnet/"><u>Sale Alert: Save Nearly Half on the 4TB Samsung T5 NVMe SSD - Now Available on Amazon! Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/save-big-on-hp-victus-15-top-deals-at-515-during-prime-day-score-it-now-from-best-buy/"><u>Save Big on HP Victus 15: Top Deals at $515 During Prime Day - Score It Now From Best Buy!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/snag-the-deal-8tb-samsung-t5-nvme-ssds-available-at-a-steep-36-discount-on-amazon-insights-from-zdnet/"><u>Snag the Deal: 8TB Samsung T5 NVMe SSDs Available at a Steep 36% Discount on Amazon - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/solid-build-and-flexibility-make-this-crowd-favorite-laptop-top-among-those-weve-evaluated-insights/"><u>Solid Build and Flexibility Make This Crowd-Favorite Laptop Top Among Those We've Evaluated - Insights</u></a></li>
 </ul></div>
 

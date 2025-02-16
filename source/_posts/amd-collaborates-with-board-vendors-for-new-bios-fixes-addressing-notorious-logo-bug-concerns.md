@@ -1,7 +1,7 @@
 ---
 title: AMD Collaborates with Board Vendors for New BIOS Fixes, Addressing Notorious Logo Bug Concerns
-date: 2024-08-19T04:21:08.127Z
-updated: 2024-08-20T04:21:08.127Z
+date: 2025-01-28T08:45:52.277Z
+updated: 2025-02-03T03:45:32.017Z
 tags:
   - motherboards
 categories:
@@ -47,6 +47,10 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
 
  The fact is, Loongson has developed its own CPU just a few generations behind Intel and AMD. Considering the Chinese firm has to work around U.S. sanctions and claims to insist on doing everything based on its own IP, the performance could actually be considered impressive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -63,8 +67,6 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -72,8 +74,22 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-dynamic-viewership-statistics-platforms/"><u>[New] 2024 Approved Dynamic Viewership Statistics Platforms</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-guide-to-outstanding-hdr-cameras/"><u>[Updated] A Guide to Outstanding HDR Cameras</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-ai-powered-by-microsoft-like-chatgpt-design-secure-and-efficient-fitness-routines-custom-made-for-your-needs/"><u>Can AI Powered By Microsoft Like ChatGPT Design Secure And Efficient Fitness Routines Custom-Made For Your Needs?</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/decoding-the-battle-between-ring-and-nest-an-in-depth-user-comparison/"><u>Decoding the Battle Between Ring and Nest: An In-Depth User Comparison</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/double-delight-maximizing-the-use-of-netflixs-floating-window-for-2024/"><u>Double Delight Maximizing the Use of Netflix's Floating Window for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-black-friday-offer-secure-lenovos-top-of-the-line-thinkpad-x1-extreme-gen-4-for-just-half-the-price-shop-smart/"><u>Exclusive Black Friday Offer: Secure Lenovo's Top-of-the-Line ThinkPad X1 Extreme Gen 4 for Just Half the Price | Shop Smart</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-unprecedented-cinematic-brilliance-with-hps-revolutionary-imax-certified-envy-x360-discover-what-sets-it-apart/"><u>Experience Unprecedented Cinematic Brilliance with HP's Revolutionary IMAX-Certified Envy X360: Discover What Sets It Apart</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-exceptional-office-laptops-insights-on-alternatives-to-lenovo-and-apple-devices/"><u>Exploring Exceptional Office Laptops: Insights on Alternatives to Lenovo and Apple Devices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/gratis-gif-inpakt-naar-wmv-professioneel-converter-met-movavi-online/"><u>Gratis GIF-Inpakt Naar WMV: Professioneel Converter Met Movavi - Online</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ideal-first-linux-os-options-thoroughly-tested-and-critiqued-by-professionals-zdnet-insights/"><u>Ideal First Linux OS Options: Thoroughly Tested & Critiqued by Professionals – ZDnet Insights</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-vivo-y27-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Vivo Y27 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maximize-productivity-with-the-ultimate-16-port-hub-for-creative-professionals-featured/"><u>Maximize Productivity with the Ultimate 16-Port Hub for Creative Professionals, Featured</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/snag-the-deal-samsung-8tb-portable-ssd-t5-holds-a-steady-36-discount-on-amazon-insights/"><u>Snag the Deal: Samsung 8TB Portable SSD T5 Holds a Steady 36% Discount on Amazon, Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-performing-adaptable-laptop-wins-fans-and-praise-for-its-strong-tech-specs-insights/"><u>Top Performing, Adaptable Laptop Wins Fans and Praise for Its Strong Tech Specs - Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-the-full-potential-of-craft-your-definitive-step-by-step-macos-document-tool-tutorial/"><u>Unlock the Full Potential of Craft - Your Definitive Step-by-Step macOS Document Tool Tutorial</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->

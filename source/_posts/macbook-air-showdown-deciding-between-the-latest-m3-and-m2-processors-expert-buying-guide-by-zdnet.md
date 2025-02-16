@@ -1,7 +1,7 @@
 ---
 title: "MacBook Air Showdown: Deciding Between the Latest M3 and M2 Processors | Expert Buying Guide by ZDNET"
-date: 2025-01-28T22:09:14.024Z
-updated: 2025-02-01T19:00:21.940Z
+date: 2025-01-29T23:04:53.806Z
+updated: 2025-02-03T07:08:01.990Z
 tags:
   - laptops
 categories:
@@ -45,7 +45,7 @@ Since there are many variations and generations of both the iPad and the MacBook
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## You should buy an iPad Pro if...
@@ -66,6 +66,10 @@ For digital artists, drawing on a tablet with a stylus can be much easier than w
 
 As ZDNET editor-in-chief Jason Hiner noted in his [hands-on review](https://www.zdnet.com/article/ipad-pro-and-ipad-air-2024-buying-advice/), "The M4 OLED iPad Pro is a much easier sell for professional digital artists."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. You need something portable for on-the-go tasks
 
 Tablets are naturally smaller and easier to carry than laptops, making the iPad Pro great for photo editing, note-taking, web browsing, and even streaming movies. The 11-inch iPad Pro weighs less than a pound, compared to the MacBook Air's 2.7 or 3.3 pounds. 
@@ -84,16 +88,12 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## You should buy a MacBook if...
 
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. You need a reliable device for work tasks
@@ -104,6 +104,10 @@ While the iPad Pro is touted as a "laptop replacement," it still can't quite liv
 
 The MacBook Air also has more internal storage options than the iPad Pro: 8GB, 16GB, or 24GB, giving you more storage space options. However, keep in mind that higher storage specs will cost you more (between $200-$400 more).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. You use AI applications
 
 The MacBook Air is compatible with AI features and applications, thanks to its M3 processor. This allows you to better handle AI workloads, like summarizing longer text, browsing the web with a specific focus, generating Excel formulas, writing code, making graphs and charts, and more.
@@ -111,7 +115,7 @@ The MacBook Air is compatible with AI features and applications, thanks to its M
 MacOS is getting an [Apple Intelligence](https://www.zdnet.com/article/apple-intelligence-arrives-next-month-6-ai-upgrades-iphone-users-can-expect-first/) update in September 2024, so AI will be even more seamlessly involved in the MacBook Air experience, with everything from Siri to creating unique images. Plus, the M3 chip means the MacBook Air is future-proofed for the inevitable deluge of AI applications coming.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. You like the option of using external displays
@@ -121,10 +125,6 @@ Some people can work on one screen, but many prefer a two-screen display to opti
 You can access everything on your MacBook Air on a larger display setup, allowing for improved multitasking, increased productivity, and an overall more comfortable viewing experience. 
 
 [Buy the MacBook Air $1,149 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX23GFMJ%2Fref%3Dasc%5Fdf%5FB0CX23GFMJ1727780400000%3Fcreative%3D395261%26creativeASIN%3DB0CX23GFMJ%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C63a7d4d6-107c-438e-8197-16d84e5e454d%7Cdtp&dtb=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -160,18 +160,21 @@ You can access everything on your MacBook Air on a larger display setup, allowin
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-a-tutorial-for-adding-vintage-touches-instagram-filters-on-existing-media/"><u>[Updated] 2024 Approved A Tutorial for Adding Vintage Touches Instagram Filters on Existing Media</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-ethereal-3-face-off-apparition-4-takes-the-stage/"><u>[Updated] In 2024, Ethereal 3 Face-Off Apparition 4 Takes the Stage</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-mastering-the-art-of-measuring-igtv-video-quality-for-2024/"><u>[Updated] Mastering the Art of Measuring IGTV Video Quality for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-picperfect-pro-enhance-your-mobile-images-for-free-for-2024/"><u>[Updated] PicPerfect Pro Enhance Your Mobile Images for Free for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-evaluation-top-rated-file-restoration-software-recuva/"><u>Comprehensive Evaluation: Top Rated File Restoration Software - Recuva</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-enhance-performance-with-updated-amd-vision-modules-today/"><u>Download & Enhance Performance with Updated AMD Vision Modules Today</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/file-system-limitations/"><u>File System Limitations</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-successfully-update-or-download-hp-officejet-4655-printer-drivers/"><u>How to Successfully Update or Download HP Officejet 4655 Printer Drivers</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-vivo-y78t-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Vivo Y78t to iPhone | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-realme-gt-5-pro-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Realme GT 5 Pro Phone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-infinite-gaming-space-10-ssds-hdds-for-ps5/"><u>In 2024, Infinite Gaming Space #10 SSDs, HDDs for PS5</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-hardware-maintenance-a-comprehensive-tutorial-on-upgrading-motherboard-drivers-for-windows-systems/"><u>Mastering Hardware Maintenance: A Comprehensive Tutorial on Upgrading Motherboard Drivers for Windows Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-new-technology-insights-with-toms-hardware-guide/"><u>Unveiling New Technology Insights with Tom's Hardware Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-perfect-livestream-match-10-top-tier-platform-recommendations/"><u>[New] Perfect Livestream Match 10 Top-Tier Platform Recommendations</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transforming-ordinary-to-extraordinary-with-engaging-tiktok-unboxings/"><u>[Updated] Transforming Ordinary to Extraordinary with Engaging TikTok Unboxings</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-invisible-observers-the-ultimate-list-of-apps/"><u>2024 Approved Invisible Observers The Ultimate List of Apps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/adapting-office-gadgets-for-tomorrows-ai-revolution-insights/"><u>Adapting Office Gadgets for Tomorrow's AI Revolution - Insights</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effortless-screen-capturing-in-windows-11-unlock-these-4-proven-tricks/"><u>Effortless Screen Capturing in Windows 11? Unlock These 4 Proven Tricks!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-preview-enhanced-features-of-the-latest-samsung-copilotplus-ai-powered-desktops-unveiled-by-zdnet/"><u>Exclusive Preview: Enhanced Features of the Latest Samsung Copilot+ AI-Powered Desktops Unveiled by ZDNet</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-baldurs-gate-pc/"><u>Fixing Baldur's Gate 지정: PC에서 실패하는 방법</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-poco-c55mirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Poco C55Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-14-plus-to-android-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 14 Plus To Android? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maximize-productivity-with-the-perfect-lenovo-workstation-at-a-steep-discount-unlock-50-off-on-amazon-prime-day-in-october-insights/"><u>Maximize Productivity with the Perfect Lenovo Workstation at a Steep Discount: Unlock 50% Off on Amazon Prime Day in October – Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mega-deal-alert-secure-your-8tb-samsung-portable-ssd-at-a-stunning-36-discount-on-amazon/"><u>Mega Deal Alert: Secure Your 8TB Samsung Portable SSD at a Stunning 36% Discount on Amazon!</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/personal-evolution-building-an-enduring-youtubing-identity/"><u>Personal Evolution Building an Enduring YouTubing Identity</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-non-dell-non-lenovo-business-laptops-the-ideal-picks-for-your-workspace-insights-by-zdnet/"><u>Top Non-Dell, Non-Lenovo Business Laptops: The Ideal Picks for Your Workspace - Insights by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-ranking-oled-laptop-picks-comprehensive-reviews-and-analysis-by-tech-experts-gizmocritic/"><u>Top-Ranking OLED Laptop Picks - Comprehensive Reviews & Analysis by Tech Experts | GizmoCritic</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshoot-your-macbook-pro-charger-issues-a-step-by-step-guide-to-restoring-power-without-cost/"><u>Troubleshoot Your MacBook Pro Charger Issues: A Step-by-Step Guide to Restoring Power Without Cost</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-realme-12-5g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Realme 12 5G Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Exclusively Invited: Enjoy Windows on Your Chromebook or Mac with Microsoft's Latest Innovation | ZDNet Insider"
-date: 2025-01-29T19:37:59.972Z
-updated: 2025-02-01T16:48:59.468Z
+date: 2025-01-27T01:29:59.402Z
+updated: 2025-02-02T21:01:58.967Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ That's right. Apple said the "A" word, and it's not being shy about it, as my af
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Apple is _officially_ in the AI PC race
@@ -55,7 +55,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 Apple also wants you to know that it's _been_ in the [AI PC race](https://www.zdnet.com/article/what-is-an-ai-pc-and-should-you-buy-one/) since the very beginning, with just about every Mac model now carrying neural engines for machine learning. The new MacBook Air is "the best consumer laptop for AI," the company touts in its Monday press release, but we'll have to see for ourselves when we put the 13- and 15-inch models through the wringer soon.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. I can finally recommend the Midnight color
@@ -67,7 +67,7 @@ AI aside, there is one subtle design change to the new MacBooks that I really di
 Considering how easy it was to get smudges and marks on the original Midnight color of the MacBook Air -- which made lighter hue options look like rockstars -- this is a welcome change. Having fumbled with the MacBooks for a quick 10-minute photo-op, the fingerprints were noticeable, though not as bad as I remembered on the M2 Air. For me, this makes the Midnight variant recommendable again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Dual-monitor support is a bigger deal than it seems
@@ -110,22 +110,16 @@ All in all, the changes to the newest line of MacBook Air feel subtle on paper b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-unveiling-ace-video-capturers-guide/"><u>[New] Unveiling Ace Video Capturers Guide</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-premier-capturing-device-for-exceptional-youtube-productions/"><u>[Updated] 2024 Approved Premier Capturing Device for Exceptional YouTube Productions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-historical-stop-motion-masterpieces-15-essential-viewing/"><u>[Updated] Historical Stop-Motion Masterpieces #15 Essential Viewing</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-mastering-facebook-live-broadcasting-recorded-videos/"><u>[Updated] In 2024, Mastering Facebook Live Broadcasting Recorded Videos</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-precise-image-selection-from-clips-via-photo-app/"><u>[Updated] Precise Image Selection From Clips via Photo App</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-streamlining-social-sharing-coordinating-vids-on-tweets-plus-tumbles/"><u>[Updated] Streamlining Social Sharing Coordinating Vids on Tweets + Tumbles</u></a></li>
-<li><a href="https://extra-information.techidaily.com/avoiding-darkness-with-lightrooms-dynamic-range-technique-for-2024/"><u>Avoiding Darkness with Lightroom’s Dynamic Range Technique for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-access-to-free-hp-designjet-500-printer-drivers-online/"><u>Easy Access to Free HP DesignJet 500 Printer Drivers Online</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/find-and-update-to-the-current-hp-deskjet-270n-series-printer-drivers-step-by-step-guide/"><u>Find and Update to the Current HP DeskJet 270N Series Printer Drivers - Step by Step Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/find-and-update-your-windows-printer-drivers-brother-mfc-786ebefore-2019/"><u>Find and Update Your Windows Printer Drivers - Brother MFC-786ebefore 2019</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastering-haul-videos-tips-and-tricks-for-editors/"><u>In 2024, Mastering Haul Videos Tips & Tricks for Editors</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-canon-mg3600-driver-downloads-and-installation-guide/"><u>Latest Canon MG3600 Driver Downloads and Installation Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-new-gadgets-and-gizmos-at-toms-hardware-hub/"><u>Navigating New Gadgets & Gizmos at Tom's Hardware Hub</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/review-the-lenovo-tab-m1n-hd-2020-ideal-for-online-browsing-and-streaming-media-on-a-budget/"><u>Review: The Lenovo Tab M1n HD (2020) – Ideal for Online Browsing and Streaming Media on a Budget</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/single-core-showdown-how-amd-outperforms-the-apple-m3-max-with-their-latest-laptop-processor/"><u>Single-Core Showdown: How AMD Outperforms the Apple M3 Max with Their Latest Laptop Processor</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-guide-to-tech-gadgets-insights-from-toms-hardware/"><u>The Ultimate Guide to Tech Gadgets - Insights From Tom's Hardware</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-your-pc-download-nvidias-latest-geforce-rtx-3080-driver-for-windows-users/"><u>Update Your PC: Download NVIDIA's Latest GeForce RTX 3080 Driver for Windows Users!</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-the-bottom-line-podcasters-earnings-on-average-for-2024/"><u>[New] The Bottom Line Podcasters' Earnings, On Average for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-premium-web-outlets-for-gift-boxes-that-speak-to-you/"><u>2024 Approved Premium Web Outlets for Gift Boxes That Speak to You</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/2024s-elite-lineup-of-m2-ssds-in-depth-analysis-and-ratings-from-specialists-pcmag/"><u>2024'S Elite Lineup of M.2 SSDs: In-Depth Analysis and Ratings From Specialists | PCMag</u></a></li>
+<li><a href="https://win-web.techidaily.com/creating-a-multi-page-pdf-for-flipbook-tips-and-tricks-for-seamless-imports/"><u>Creating a Multi-Page PDF for FlipBook: Tips and Tricks for Seamless Imports</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/from-typist-to-tech-connoisseur-how-a-split-ergonomic-keyboard-revolutionized-my-workspace-ciotrends/"><u>From Typist to Tech Connoisseur: How a Split Ergonomic Keyboard Revolutionized My Workspace | CIOTrends</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-watch-avchd-mts-video-on-sony-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to watch AVCHD MTS video on Sony ?</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/innovative-pathways-select-7-tools-for-artwork-conversion-to-nfts-for-2024/"><u>Innovative Pathways Select 7 Tools for Artwork Conversion to NFTs for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/scores-get-your-hands-on-an-hp-victus-15-for-a-steal-at-530-during-best-buy-prime-day-sale-zdnet-insights/"><u>Scores! Get Your Hands on an HP Victus 15 for a Steal at $530 During Best Buy Prime Day Sale | ZDNet Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/stay-safe-how-the-fbis-warning-about-data-stealing-charging-points-can-help-you-guard-your-information-zdnet/"><u>Stay Safe: How the FBI's Warning About Data-Stealing Charging Points Can Help You Guard Your Information | ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-deal-alert-top-rated-gaming-speakers-now-30-discounted-on-amazon-exclusive-review-by-zdnet/"><u>Unbeatable Deal Alert: Top-Rated Gaming Speakers Now 30% Discounted on Amazon - Exclusive Review by ZDNet</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/virtual-sphere-access-the-leading-10-pc-vr-playback-titles/"><u>Virtual Sphere Access The Leading 10 PC VR Playback Titles</u></a></li>
 </ul></div>
 

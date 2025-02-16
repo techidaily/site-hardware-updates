@@ -1,7 +1,7 @@
 ---
 title: Intel Leads the Way in Chip Cooling Technology With Its Latest LGA1851 Socket, Eliminating Reduced Load ILM Dependence
-date: 2024-08-19T04:23:01.653Z
-updated: 2024-08-20T04:23:01.653Z
+date: 2025-01-28T02:06:08.998Z
+updated: 2025-02-02T16:15:02.144Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +62,17 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-navigate-to-full-screen-bliss-on-facebook/"><u>[Updated] 2024 Approved Navigate to Full-Screen Bliss on Facebook</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/best-10-apps-to-add-stickers-to-photos-for-iphone-and-android/"><u>Best 10 Apps to Add Stickers to Photos for iPhone and Android</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/developing-better-empathy-and-self-awareness-through-chatgpt-tools/"><u>Developing Better Empathy and Self-Awareness Through ChatGPT Tools</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/enhanced-performance-using-advanced-cookie-technology/"><u>Enhanced Performance Using Advanced Cookie Technology</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-a-discounted-acer-nitro-5-for-your-gaming-needs-save-250-deal/"><u>Get a Discounted Acer Nitro 5 for Your Gaming Needs | Save $250 Deal!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-oneplus-12frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your OnePlus 12FRP Lock</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-solution-for-fixing-microsoft-surface-wi-fi-connection-errors/"><u>Step-by-Step Solution for Fixing Microsoft Surface Wi-Fi Connection Errors</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/still-on-sale-top-bargains-of-amazon-prime-day-2024-in-october-techradar/"><u>Still on Sale - Top Bargains of Amazon Prime Day 2024 in October | TechRadar</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-highlights-from-ces-2024-expert-recommendations-analysts/"><u>Top Highlights From CES 2024: Expert Recommendations Analysts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/triple-display-setup-made-simple-how-the-ugreen-dock-enhances-your-m1-mac-experience-zdnet-guide/"><u>Triple Display Setup Made Simple: How the Ugreen Dock Enhances Your M1 Mac Experience - ZDNet Guide</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

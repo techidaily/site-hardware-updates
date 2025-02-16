@@ -1,7 +1,7 @@
 ---
 title: In-Depth Analysis on Tom's Computer Hardware
-date: 2024-08-19T04:19:44.517Z
-updated: 2024-08-20T04:19:44.517Z
+date: 2025-01-27T09:11:31.015Z
+updated: 2025-02-03T07:26:51.177Z
 tags:
   - motherboards
 categories:
@@ -15,9 +15,17 @@ The days of sticks of RAM may be coming to an end. A new standard, CAMM2 (Compre
 
  But this new memory is popping up in desktops, too, with its own unique benefits. Here's what you need to know about CAMM2 and LP CAMM 2:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Where did CAMM2 come from?
 
  CAMM[originated with Dell](https://tools.techidaily.com) as a project to replace bulkier SO-DIMM memory slots. But the company[worked with JEDEC](https://tools.techidaily.com) , a semiconductor standards body, which tweaked it and made CAMM2 available to a number of different PC companies.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are CAMM2 and LPCAMM2? What are their benefits?
 
@@ -33,9 +41,17 @@ The days of sticks of RAM may be coming to an end. A new standard, CAMM2 (Compre
 
 ![CAMM2](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ![CAMM2](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -47,16 +63,14 @@ The days of sticks of RAM may be coming to an end. A new standard, CAMM2 (Compre
 
  The modules might help enable new form factors, too. At Computex,[Adata showed off its Nia handheld](https://tools.techidaily.com) , which uses LPCAMM2 using LPDDR5X.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How much memory fits on a CAMM2 module?
 
 Between 8GB and 128GB of memory fits on a single module.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Is LPCAMM2 faster than existing SO-DIMMs and DIMMs?
 
  Yes. As of this writing,[Crucial is listing](https://www.crucial.com/memory/ddr5/ct64g75c2lp5xg) 32GB and 64GB LPDDR5X-7200 LPCAMM2 modules. At Computex, TeamGroup said its 16GB, 32GB, and 64GB memory will go up to 9600 MT/s. Samsung's[page on LPCAMM2](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fgo.redirectingat.com%2F%3Fid%3D92X1584492%26xcust%3Dtomshardware%255Fus%255F4400621493195954499%26xs%3D1%26url%3Dhttps%253A%252F%252Fsemiconductor.samsung.com%252Femea%252Fdram%252Fmodule%252Flpcamm2%252F%26sref%3Dhttps%253A%252F%252Fwww.tomshardware.com%252Fpc-components%252Fmotherboards%252Fwhat-is-camm2) lists an "extraordinary data transfer rate of 8,533Mbps," the same number memory company[Geil showed at Computex](https://www.techpowerup.com/323173/geil-presents-a-wide-range-of-memories-at-computex-camm2-lpcamm2-alongside-many-ddr5s) .
@@ -65,9 +79,6 @@ Between 8GB and 128GB of memory fits on a single module.
 
  We haven't seen any DDR5 CAMM2 products on the market just yet, so we don't know if those speeds will go even higher.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ## What are alternatives to CAMM2?
 
  In theory, there's nothing stopping vendors from using standard DIMMs or SO-DIMMs, or continuing to solder memory to the motherboard. Staying with the status quo is an alternative, at least for now.
@@ -82,8 +93,6 @@ Between 8GB and 128GB of memory fits on a single module.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -91,4 +100,22 @@ Between 8GB and 128GB of memory fits on a single module.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-enthralling-evaluation-and-secondary-recommendations-for-2024/"><u>[New] Enthralling Evaluation & Secondary Recommendations for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-the-screen-recorder-showdown-experts-take-on-popular-tools/"><u>[New] The Screen Recorder Showdown Experts' Take on Popular Tools</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-transform-subtitles-quickly-best-8-converters-from-sub-to-streamlined-srtr-for-2024/"><u>[New] Transform Subtitles Quickly! Best 8 Converters From SUB to Streamlined SRTR for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-the-ultimate-guide-to-youtube-thumbnails-that-get-views/"><u>[Updated] In 2024, The Ultimate Guide to YouTube Thumbnails that Get Views</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-reviving-past-joy-on-fb-the-look-back-video-editing-path/"><u>2024 Approved Reviving Past Joy on FB The Look Back Video Editing Path</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amds-new-gaming-benchmarks-showcase-zen-4-flagship-overpowering-older-zen-5-ryzen-7-7800x3d-emerges-as-the-faster-contender-leading-by-up-to-23-against-ryze2/"><u>AMD's New Gaming Benchmarks Showcase Zen 4 Flagship Overpowering Older Zen 5: Ryzen 7 7800X3D Emerges as the Faster Contender, Leading by Up to 23% Against Ryzen 9 9900X</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/boost-your-bumble-profile-tips-to-land-matches-and-break-the-no-results-barrier/"><u>Boost Your Bumble Profile: Tips to Land Matches and Break the 'No Results' Barrier</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-leading-cpus-for-an-enhanced-gaming-experience/"><u>Discover the Leading CPUs for an Enhanced Gaming Experience</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-official-epson-v700-printing-software-for-windows-operating-systems-windows-71081/"><u>Get Official Epson V700 Printing Software for Windows Operating Systems [Windows 7/10/8.1]</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-boost-your-content-20-premium-tiktok-caption-strategies/"><u>In 2024, Boost Your Content 20 Premium TikTok Caption Strategies</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/keep-your-dell-xps-15-running-smoothly-with-updated-driver-instructions-for-windows/"><u>Keep Your Dell XPS 15 Running Smoothly with Updated Driver Instructions (For Windows)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-nvidia-geforce-gtx-1650-super-drivers-for-enhanced-performance-on-windows-11/"><u>Latest NVIDIA GeForce GTX 1650 Super Drivers for Enhanced Performance on Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-access-amd-radeon-rx-470-driver-downloads-and-updates/"><u>Quick Access: AMD Radeon RX 470 Driver Downloads & Updates</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/windows-10-64-bit-epson-ds-530-driver-download-and-installation-guide/"><u>Windows 10 64-Bit Epson DS-530 Driver Download & Installation Guide</u></a></li>
+</ul></div>
 

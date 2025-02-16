@@ -1,7 +1,7 @@
 ---
 title: Pastel-Colored Intel iCraft B760M Motherboard – Perfect for Anime Enthusiasts
-date: 2024-08-19T04:22:08.549Z
-updated: 2024-08-20T04:22:08.549Z
+date: 2025-01-30T19:58:16.440Z
+updated: 2025-02-03T06:14:47.825Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +62,23 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-dualview-photography-analysis-for-2024/"><u>[New] DualView Photography Analysis for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/crypto-red-flags-how-to-detect-phony-bingcrypt-schemes/"><u>Crypto Red Flags: How to Detect Phony BingCrypt Schemes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/data-breach-alert-how-to-shield-your-data-and-photos-from-snooping-technicians-new-research-warns-zdnet/"><u>Data Breach Alert! How to Shield Your Data and Photos From Snooping Technicians, New Research Warns | ZDNET</u></a></li>
+<li><a href="https://win-info.techidaily.com/dealing-with-a-lazy-mouse-effective-solutions-for-non-responsive-mice-by-yl-software-specialists/"><u>Dealing with a Lazy Mouse: Effective Solutions for Non-Responsive Mice by YL Software Specialists</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-the-top-rated-samsung-copilotplus-series-exceptional-value-on-windows-laptops-today/"><u>Exploring the Top-Rated Samsung Copilot+ Series - Exceptional Value on Windows Laptops Today!</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719163479927-get-ready-for-youtubes-mini-games-a-call-to-gamers/"><u>Get Ready for YouTube’s Mini Games: A Call to Gamers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-vivo-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Vivo</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-how-to-change-name-in-google-meet/"><u>In 2024, How to Change Name in Google Meet?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-motorola-defy-2-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Motorola Defy 2 Phone Network-Ready</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/professional-graphic-artists-guide-to-optimal-laptop-performance-comprehensive-reviews-and-ratings-pcmag/"><u>Professional Graphic Artists' Guide to Optimal Laptop Performance: Comprehensive Reviews & Ratings | PCMag</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/shop-the-incredible-discount-apples-macbook-air-with-m2-chip-goes-for-only-749-on-amazons-october-prime-day-spotlight-by-zdnet/"><u>Shop the Incredible Discount: Apple's MacBook Air with M2 Chip Goes for Only $749 on Amazon's October Prime Day – Spotlight by ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-comprehensive-guide-to-free-online-language-learning-platforms-top-9-picks/"><u>The Comprehensive Guide to Free Online Language Learning Platforms (Top 9 Picks)</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-go-to-accessory-for-active-individuals-a-detailed-examination-of-the-garmin-vivomove-hr-watch/"><u>The Go-To Accessory for Active Individuals: A Detailed Examination of the Garmin Vivomove HR Watch</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-pick-the-best-long-lasting-ultralight-laptop-of-the-year-a-comprehensive-review-by-zdnet/"><u>Top Pick: The Best Long-Lasting Ultralight Laptop of the Year - A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-ultrabooks-comprehensive-tests-and-reviews-by-tech-gurus-zdnets-picks/"><u>Top-Rated Ultrabooks : Comprehensive Tests & Reviews by Tech Gurus | ZDNet's Picks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/what-will-you-discover-at-apples-next-big-reveal-m4-mac-mini-and-advancements-in-apple-intelligence-to-watch-for-tech-analysis/"><u>What Will You Discover at Apple's Next Big Reveal? M4 Mac Mini and Advancements in Apple Intelligence to Watch for | Tech Analysis</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

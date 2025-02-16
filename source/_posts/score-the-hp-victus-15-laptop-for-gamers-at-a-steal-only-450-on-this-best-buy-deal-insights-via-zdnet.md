@@ -1,7 +1,7 @@
 ---
 title: Score The HP Victus #15 Laptop for Gamers at a Steal – Only $450 on This Best Buy Deal | Insights via ZDNET
-date: 2025-01-26T22:10:47.269Z
-updated: 2025-02-01T19:58:34.539Z
+date: 2025-01-27T18:08:26.069Z
+updated: 2025-02-02T22:26:00.666Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,21 +63,21 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-complete-walkthrough-mastering-adobe-cloud-services/"><u>[New] 2024 Approved Complete Walkthrough Mastering Adobe Cloud Services</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-infusing-life-into-ppt-with-professional-voiceovers/"><u>[Updated] 2024 Approved Infusing Life Into PPT with Professional Voiceovers</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-uniting-your-feeds-posting-videos-from-twitter-on-snapchat/"><u>[Updated] In 2024, Uniting Your Feeds Posting Videos From Twitter on Snapchat</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amds-fire-series-zen-5-processors-keep-fl1-chip-design-implications-for-upgraded-laptops-with-ryzen-60-gpus/"><u>AMD's Fire Series: Zen 5 Processors Keep FL1 Chip Design; Implications for Upgraded Laptops with Ryzen 60 GPUs</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/before-you-go-electric-navigate-the-journey-with-these-9-key-questions/"><u>Before You Go Electric: Navigate the Journey with These 9 Key Questions</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/dissecting-deceptive-accounts-in-your-ad-audience-for-2024/"><u>Dissecting Deceptive Accounts in Your Ad Audience for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-downloading-epson-wf-2760-drivers-for-recent-windows-versions-11-10-and-e/"><u>Easy Guide to Downloading Epson WF-2760 Drivers for Recent Windows Versions (11, 10 & E)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-internal-audio-errors-in-audacity-for-windows-1111/"><u>Fixing Internal Audio Errors in Audacity for Windows 11/11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-hands-on-the-ultimate-gaming-setup-logitech-momo-racing-wheel-pc-drivers-now-available/"><u>Get Your Hands on the Ultimate Gaming Setup: Logitech MOMO Racing Wheel PC Drivers Now Available!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hp-officejet-pro-windows-11-8-7-xp-vista/"><u>HP Officejet Pro 지도 다운로드 - Windows 11, 8, 7, XP 및 Vista를 위한 업데이트 후보자</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-lock-from-apple-iphone-14-plus-by-drfone-ios/"><u>In 2024, How to Bypass iCloud Lock from Apple iPhone 14 Plus</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/introducing-core-ultra-k-a-peek-at-the-new-intel-4-processor-design-showing-5ghz-performance-without-avx-512-features/"><u>Introducing Core Ultra K: A Peek at the New Intel 4 Processor Design Showing 5GHz Performance without AVX-512 Features</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-samsung-galaxy-m14-5g-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Samsung Galaxy M14 5G</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-fetch-your-updated-hp-deskjet-2700-printer-drivers-for-a-seamless-print-experience/"><u>Step-by-Step Guide: Fetch Your Updated HP DeskJet 2700 Printer Drivers for a Seamless Print Experience</u></a></li>
-<li><a href="https://win-blog.techidaily.com/step-by-step-solution-for-increasing-cs-2-gameplay-smoothness-and-reducing-lag/"><u>Step-by-Step Solution for Increasing CS 2 Gameplay Smoothness and Reducing Lag</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/updating-your-microsoft-mouse-driver-a-step-by-step-guide-for-windows-users/"><u>Updating Your Microsoft Mouse Driver: A Step-by-Step Guide for Windows Users</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-exploring-the-mystery-of-the-blue-video-symbol-on-fb-messages/"><u>[New] 2024 Approved Exploring the Mystery of the Blue Video Symbol on FB Messages</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-integration-hacks-adding-vimeo-content-to-powerpoint-decks/"><u>[Updated] 2024 Approved Integration Hacks Adding Vimeo Content to PowerPoint Decks</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-pick-the-best-top-8-srt-tools-without-payment/"><u>[Updated] Pick the Best Top 8 SRT Tools Without Payment</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/choosing-between-the-macbook-pro-and-macbook-air-a-comprehensive-guide-on-picking-the-ideal-apple-device/"><u>Choosing Between the MacBook Pro & MacBook Air: A Comprehensive Guide on Picking the Ideal Apple Device</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-fraudgpt-vital-insights-and-protective-techniques-against-this-risky-bot/"><u>Decoding FraudGPT: Vital Insights and Protective Techniques Against This Risky Bot</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-concealed-trackpoint-and-more-in-this-portable-lenovo-laptop-exclusive-insights/"><u>Discover the Concealed TrackPoint and More in This Portable Lenovo Laptop - Exclusive Insights</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/dual-display-dominance-top-videographer-verdict-for-2024/"><u>Dual Display Dominance Top Videographer Verdict for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unbeatable-summer-movie-list-10-familial-classics/"><u>In 2024, Unbeatable Summer Movie List 10 Familial Classics</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-magic-of-ar-mastering-lut-applications/"><u>In 2024, Unveiling the Magic of AR Mastering LUT Applications</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/introducing-lenovos-latest-innovation-the-ideal-ai-powered-thinkpad-designed-specifically-for-business-professionals-insights-from-zdnet/"><u>Introducing Lenovo's Latest Innovation: The Ideal AI-Powered ThinkPad Designed Specifically for Business Professionals - Insights From ZDNet</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/lightning-fast-visualization-for-win11-users/"><u>Lightning-Fast Visualization for Win11 Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/power-user-paradise-discover-the-top-duo-of-innovative-features-in-this-amazing-lenovo-laptop-insights/"><u>Power User Paradise: Discover the Top Duo of Innovative Features in This Amazing Lenovo Laptop - Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-fall-sale-alert-score-amazing-discounts-on-premium-laptops-this-october-for-upcoming-prime-days-zdnet-picks/"><u>Ultimate Fall Sale Alert! Score Amazing Discounts on Premium Laptops This October for Upcoming Prime Days - ZDNET Picks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unleash-powerhouse-performance-exclusive-deals-on-top-tier-nvidia-gaming-notebooks-at-2024-amazon-prime-day-zdnet/"><u>Unleash Powerhouse Performance: Exclusive Deals on Top-Tier Nvidia Gaming Notebooks at 2024 Amazon Prime Day - ZDNet</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unlock-potential-intel-graphics-on-underpowered-devices/"><u>Unlock Potential: Intel Graphics on Underpowered Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/why-opting-for-a-chromebook-discover-6-compelling-reasons-that-make-it-the-best-laptop-option-according-to-zdnet-experts/"><u>Why Opting for a Chromebook? Discover 6 Compelling Reasons That Make It the Best Laptop Option, According to ZDNet Experts</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Affordable Laptop Revives Classic Tech Trend, Stirs Up Old Conversation: A Look at Yesteryear's Hype! - ZDNet"
-date: 2025-01-28T17:54:04.813Z
-updated: 2025-02-01T22:15:56.603Z
+date: 2025-01-28T01:38:55.012Z
+updated: 2025-02-02T21:21:37.341Z
 tags:
   - laptops
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/4718cfe78df90fc96fd0823cd6a47f148478c5d53
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -85,7 +85,7 @@ I have been integrating Copilot into my workflow as I learn more about how to us
 The Surface's battery life has been fantastic, too. I get over 15 hours of use from a single charge, and it has yet to fully deplete to zero by the time I call a benchmarking test. The combination of smart design with meaningful trade-offs is what gives this laptop its marathon battery life, and opens it up for a variety of use cases from a creator or productivity perspective. Basically, this is a laptop you can work remotely with for the whole day without a charger.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -95,7 +95,7 @@ I mentioned this before, but the direction that Microsoft took with this laptop 
 The Surface Laptop is a flagship mid-range device that's well-rounded enough to take on a variety of roles. Despite a few trade-offs, it's everything it should be for the price. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -132,16 +132,21 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-trendsetting-tags-top-10-to-make-your-post-pop/"><u>[New] 2024 Approved Trendsetting Tags Top 10 To Make Your Post Pop</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-complete-circular-camera-investigation/"><u>[New] Complete Circular Camera Investigation</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-zte-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For ZTE</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/dealing-with-dts-audio-device-malfunction-tips-and-solutions/"><u>Dealing with DTS Audio Device Malfunction - Tips and Solutions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-intel-thunderbolt-device-drivers-fast-and-simple-guide/"><u>Download Intel Thunderbolt Device Drivers - Fast and Simple Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Nokia C02? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-intuitive-intel-ac-7260-wireless-network-adapter-with-this-simple-guide/"><u>Install Intuitive Intel AC 7260 Wireless Network Adapter with This Simple Guide.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/installing-updated-drivers-for-your-hp-officejet-pro-8620-on-a-windows-pc-step-by-step-tutorial/"><u>Installing Updated Drivers for Your HP OfficeJet Pro 8620 on a Windows PC - Step-by-Step Tutorial</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/instructions-for-legit-free-vlc-player-download-on-macos/"><u>Instructions for Legit Free VLC Player Download on macOS</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-ultimate-guide-to-hardware/"><u>Tom's Tech Insights: Ultimate Guide to Hardware</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-5-essential-barbecue-gadgets-in-2n22-revealed-by-zdnet/"><u>Top 5 Essential Barbecue Gadgets in 2N22 Revealed by ZDNet</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-top-10-best-webcam-covers/"><u>[New] In 2024, Top 10 Best Webcam Covers</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-next-gen-recording-greener-choices/"><u>[Updated] 2024 Approved Next-Gen Recording Greener Choices</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-crafting-professional-looks-after-effects-and-lut-techniques/"><u>2024 Approved Crafting Professional Looks After Effects and LUT Techniques</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/elevate-your-workspace-experience-the-dual-monitor-capability-with-your-m3-macbook-pro-just-as-you-can-with-the-m3-macbook-air/"><u>Elevate Your Workspace: Experience the Dual Monitor Capability with Your M3 MacBook Pro, Just as You Can With the M3 MacBook Air</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guide-to-repairing-your-league-of-legends-network-issues/"><u>Guide to Repairing Your League of Legends Network Issues</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-samsung-galaxy-f15-5g-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Samsung Galaxy F15 5G Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/octobers-premier-savings-event-unmissable-gaming-discounts-up-to-1000-grab-them-before-theyre-gone/"><u>October's Premier Savings Event! Unmissable Gaming Discounts Up to $1,000 - Grab Them Before They're Gone!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/protect-your-privacy-avoid-unauthorized-access-by-computer-tech-experts/"><u>Protect Your Privacy: Avoid Unauthorized Access by Computer Tech Experts</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-win32ksys-bsod-a-step-by-step-guide/"><u>Resolving Win32K.sys BSOD: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/score-big-savings-with-the-black-friday-blowout-gigabytes-a5-k1-gaming-laptop-at-an-exclusive-40-off-insider-tips/"><u>Score Big Savings with the Black Friday Blowout: Gigabyte's A5 K1 Gaming Laptop at an Exclusive 40% Off Insider Tips</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/score-big-savings-find-the-best-value-nvidia-gaming-laptops-on-sale-for-amazon-prime-day-2024-according-to-zdnet/"><u>Score Big Savings: Find the Best-Value Nvidia Gaming Laptops on Sale for Amazon Prime Day 2024, According to ZDNet</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/smooth-shooting-secured-choosing-ideal-tripods-and-gimbals/"><u>Smooth Shooting Secured Choosing Ideal Tripods & Gimbals</u></a></li>
+<li><a href="https://win-web.techidaily.com/step-by-step-guide-to-opening-the-windows-control-panel-tips-by-yl-computing/"><u>Step-by-Step Guide to Opening the Windows Control Panel - Tips by YL Computing</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-solving-non-functional-fortnite-audio/"><u>Troubleshooting Steps for Solving Non-Functional Fortnite Audio</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-buying-guide-for-black-friday-and-cyber-monday-laptop-bargains-techradar-insights/"><u>Ultimate Buying Guide for Black Friday and Cyber Monday Laptop Bargains - TechRadar Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unmissable-amazon-prime-day-offers-in-october-2024-top-bargains-you-can-snag-now/"><u>Unmissable Amazon Prime Day Offers in October 2024 - Top Bargains You Can Snag Now!</u></a></li>
 </ul></div>
 

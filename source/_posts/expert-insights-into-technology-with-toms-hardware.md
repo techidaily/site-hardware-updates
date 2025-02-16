@@ -1,7 +1,7 @@
 ---
 title: Expert Insights Into Technology with Tom's Hardware
-date: 2024-08-19T04:21:19.393Z
-updated: 2024-08-20T04:21:19.393Z
+date: 2025-02-02T00:37:33.368Z
+updated: 2025-02-02T21:45:02.015Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +62,22 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/udiovisual-power-evaluating-mirrorless-vs-dslr-cameras/"><u>[New] Audiovisual Power Evaluating Mirrorless vs DSLR Cameras</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-transform-tales-gratuitous-enhancements-across-platforms-for-2024/"><u>[New] Transform Tales Gratuitous Enhancements Across Platforms for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-masterful-stardew-upgrades-uncovered-the-seven-best/"><u>[Updated] 2024 Approved Masterful Stardew Upgrades Uncovered The Seven Best</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-currently-hot-in-vr-tech/"><u>[Updated] Currently Hot in VR Tech</u></a></li>
+<li><a href="https://win-webster.techidaily.com/boost-your-pcs-efficiency-on-windows-11-with-these-simple-steps-insights-by-yl-software/"><u>Boost Your PC's Efficiency on Windows 11 with These Simple Steps - Insights by YL Software</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-missing-full-screen-on-11-window-monitors/"><u>Fixed Missing Full Screen on 11 Window Monitors</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlock-advanced-editing-text-insertion-tips-on-images-in-microsofts-photos/"><u>In 2024, Unlock Advanced Editing Text Insertion Tips on Images in Microsoft's Photos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-your-iphone-step-by-step-guide-to-podcast-acquisition-for-2024/"><u>Mastering Your iPhone Step-by-Step Guide to Podcast Acquisition for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/octobers-top-vr-offer-meta-unveils-incredible-sale-on-their-latest-512gb-quest-pro-for-prime-day-shoppers-detailed-review/"><u>October's Top VR Offer: Meta Unveils Incredible Sale on Their Latest 512GB Quest Pro for Prime Day Shoppers - Detailed Review</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/premium-design-powerhouse-microsoft-surface-studio-2-analysis/"><u>Premium Design Powerhouse - Microsoft Surface Studio 2 Analysis</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/score-the-hp-victus-15-gaming-laptop-for-a-steal-this-prime-day-only-530-at-best-buy-zdnet/"><u>Score the HP Victus 15 Gaming Laptop for a Steal This Prime Day - Only $530 at Best Buy | ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/tech-predictions-for-apples-fall-event-discover-whats-in-store-with-the-next-gen-mac-mini-and-innovative-ipad-updates-insights-from-zdnet/"><u>Tech Predictions for Apple's Fall Event: Discover What's in Store with the Next-Gen Mac Mini and Innovative iPad Updates | Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-guide-to-maximizing-your-workflow-with-the-new-thunderbolt-dock-and-its-ingenious-power-functionality-for-windows-users-zdnet/"><u>The Ultimate Guide to Maximizing Your Workflow with the New Thunderbolt Dock and Its Ingenious Power Functionality for Windows Users | ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-the-top-rated-portable-laptop-ideal-for-telecommuters-insider-review/"><u>Ultimate Guide: The Top-Rated Portable Laptop Ideal for Telecommuters - Insider Review</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/why-this-lenovo-laptop-is-a-game-changer-for-serious-users-an-in-depth-review/"><u>Why This Lenovo Laptop Is a Game-Changer for Serious Users: An In-Depth Review</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

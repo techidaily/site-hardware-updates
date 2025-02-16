@@ -1,7 +1,7 @@
 ---
 title: Is the Release of an M3 MacBook Air Signaling a Shift Away From iPhone Hype? Insights From ZDNet
-date: 2025-01-26T19:29:17.956Z
-updated: 2025-02-01T17:32:42.899Z
+date: 2025-01-31T23:12:03.295Z
+updated: 2025-02-03T03:34:12.636Z
 tags:
   - laptops
 categories:
@@ -34,6 +34,10 @@ Based on all my experience, here's why Chromebooks are the perfect laptops for m
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Chromebooks are cheap
 
 The first reason is beyond dispute. Given how the economy has had a rather crushing effect on so many of our budgets, finding an inexpensive piece of hardware can be a real plus for anyone looking to stay productive. That's not to say every Chromebook is cheap. I once paid a premium for a [Chromebook Pixel](https://www.zdnet.com/article/googles-chromebook-pixel-lives-on-but-you-cant-buy-one/) \-- and that laptop remains one of my favorites. (The display and keyboard were best in class at the time.) 
@@ -59,7 +63,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Chromebooks are user-proof
@@ -75,7 +79,7 @@ I've known users -- hello, family, are you listening? -- who've suffered to no e
 I've watched users continually break Windows and MacOS laptops (and come to me for help). The number of times I've had a Chromebook user do the same thing is… nil. Sure, a couple of times someone asked me, "How do I get this thing connected to a printer?" That's about it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Chromebooks are fast
@@ -88,10 +92,6 @@ It's not just about how quickly apps open (Android _and_ Linux apps, see above),
 
 If you want a fast laptop at a reasonable price, get a Chromebook.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Chromebooks are reliable
 
 In the 10 years since I've been using Chromebooks, I've only had one device with problems, and that was the original Pixelbook (which suffered from Bluetooth and networking issues). Beyond that, I've never had a problem with a Chromebook. It just doesn't happen. Yes, that's partly because ChromeOS is "mostly" a web browser masquerading as an OS, but even with Linux and Android app support enabled, I've never suffered from a problem. 
@@ -100,6 +100,10 @@ In the 10 years since I've been using Chromebooks, I've only had one device with
 
 Even when using the [non-stable ChromeOS channel](https://www.zdnet.com/article/how-to-switch-release-channels-on-your-chromebook/), I've found the operating system to be exponentially more reliable than Windows. Anyone who argues this point hasn't used ChromeOS enough.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Chromebooks are secure
 
 Reliability isn't just about stability -- it's also about security, and -- thanks to the Linux kernel -- [ChromeOS is a very secure option](https://www.zdnet.com/article/5-chromeos-settings-you-should-change-for-a-more-secure-chromebook-heres-how/). On top of that, Chromebooks are secured with verification at boot, a read-only OS that blocks executables, data encryption, sandboxing, and more. 
@@ -107,10 +111,6 @@ Reliability isn't just about stability -- it's also about security, and -- thank
 Thanks to ChromeOS's built-in security, even older, out-of-support Chromebooks are safer than a newer macOS or Windows laptop. Skeptical? In Chromebook's 10-year history, [only 45 ChromeOS security exploits](https://www.cvedetails.com/vulnerability-list/vendor%5Fid-1224/product%5Fid-20320/Google-Chrome-Os.html) have been documented
 
 You won't need antivirus or anti-malware. Just make sure to apply any/all updates when they become available, avoid suspicious websites, and only install extensions from the official Google Chrome Store, and you're good to go. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Chromebooks can be easily restored
 
@@ -121,7 +121,7 @@ Speaking of reliability, should you wind up having a problem with ChromeOS misbe
 No other operating system can compete with ChromeOS's ability to factory reset and return you to a pristine working state without having lost your data, bookmarks, apps, and more. I've never once worried about doing anything with a Chromebook, simply because I know I can do a quick power wash and be back working in minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -158,22 +158,16 @@ Chromebooks may not be the ideal solution for everyone. (Attempt any serious vid
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-ultimate-list-templates-for-youtube-previews-for-2024/"><u>[Updated] Ultimate List Templates for YouTube Previews for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-mastering-video-capture-a-review-of-recmeisters-capabilities/"><u>2024 Approved Mastering Video Capture A Review of Recmeister's Capabilities</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conquering-system-integration-windows-plus-kali-linux-setup/"><u>Conquering System Integration: Windows + Kali Linux Setup</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/corsair-k55-drivers-free-download-and-installation-guide/"><u>Corsair K55 Drivers - Free Download & Installation Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-installation-guide-free-canon-scanning-software-for-windows-os/"><u>Easy Installation Guide: Free Canon Scanning Software for Windows OS</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-wi-fi-connection-secure-and-download-your-network-adapters-drivers-today/"><u>Effortless Wi-Fi Connection: Secure and Download Your Network Adapters' Drivers Today</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/elevating-the-chilly-selecting-five-warm-video-backgrounds-for-2024/"><u>Elevating the Chilly Selecting Five Warm Video Backgrounds for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-review-on-huions-inspiroy-g10t-tablet-excellence-in-performance-and-design-quality/"><u>Expert Review on Huion's Inspiroy G10T Tablet - Excellence in Performance & Design Quality</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-updated-canon-d530-camera-control-program-here-fast-and-secure/"><u>Get the Updated Canon D530 Camera Control Program Here – Fast and Secure</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-install-or-upgrade-razer-mouse-drivers-on-various-windows-versions/"><u>How to Install or Upgrade Razer Mouse Drivers on Various Windows Versions</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-snappy-business-tactics-on-snapchat/"><u>In 2024, Snappy Business Tactics on Snapchat</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/instant-download-master-the-art-of-zebra-gk420d-controls/"><u>Instant Download: Master the Art of Zebra GK420D Controls</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/no-cost-full-functionality-logitech-webcam-drivers-windows-download/"><u>No Cost, Full Functionality: Logitech Webcam Drivers Windows Download</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionary-printing-speed-attained-modified-3d-printer-renders-speed-benchy-model-in-record-time/"><u>Revolutionary Printing Speed Attained: Modified 3D Printer Renders 'Speed Benchy' Model in Record Time!</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/ryans-revenue-revolution-from-childhood-to-youtube-riches/"><u>Ryan’s Revenue Revolution From Childhood to YouTube Riches</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/troubleshooting-tips-successfully-installing-ralink-rt3290-drivers-in-various-windows-versions/"><u>Troubleshooting Tips: Successfully Installing Ralink RT3290 Drivers in Various Windows Versions</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/windowsmac-os-x-dvd/"><u>コンバートマニュアル：WindowsとMac OS X DVDへのビデオフォーマット切り替え方法</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-resolve-apple-watch-standing-not-recording-problems/"><u>How To Resolve Apple Watch Standing Not Recording Problems?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-realme-gt-3-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Realme GT 3 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-messages-from-apple-iphone-12-to-other-iphone-all-ios-versions-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Messages From Apple iPhone 12 to other iPhone All iOS Versions | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-the-art-of-taking-screenshots-dell-lenovo-and-mac-laptop-guides-zdnet/"><u>Mastering the Art of Taking Screenshots: Dell, Lenovo & Mac Laptop Guides - ZDNet</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/seamless-idevice-support-package-address-any-ios-challenge-with-ease/"><u>Seamless iDevice Support Package – Address Any iOS Challenge with Ease</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-oneplus-12-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For OnePlus 12 Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-98-cyber-week-offers-and-discounts-of-2022-insights/"><u>Top 98 Cyber Week Offers & Discounts of 2022 - Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-ranking-gaming-graphics-cards-insights-from-zdnet/"><u>Top-Ranking Gaming Graphics Cards - Insights From ZDNet</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-when-your-nvidia-control-center-wont-launch-or-freezes/"><u>Troubleshooting Guide: When Your NVIDIA Control Center Won't Launch or Freezes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-fixing-hitman-3-pc-instability-issues/"><u>Ultimate Guide: Fixing Hitman 3 PC Instability Issues</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-list-save-big-on-cyber-monday-with-these-98-hot-deals-from-zdnet-in-2e22/"><u>Ultimate List: Save Big on Cyber Monday with These 98 Hot Deals From ZDNet in 2E22!</u></a></li>
 </ul></div>
 

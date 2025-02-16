@@ -1,7 +1,7 @@
 ---
 title: Get a New RTX Eby_9baefc4f-8b15-49d3-A6c4-E9c21d1d8bb0! Exclusive $220 Discount Now | Tech Deals at ZDNET!
-date: 2025-01-29T20:18:11.582Z
-updated: 2025-02-01T16:19:04.945Z
+date: 2025-02-02T02:28:41.261Z
+updated: 2025-02-02T16:42:48.525Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kerry Wan/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the deal?
@@ -31,7 +31,7 @@ Right now, Amazon is selling the [15-inch MacBook Air (M2) for $250 off](https:/
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -107,7 +107,7 @@ The laptop is capable of 4K exports on Adobe Premiere Pro and editing RAW files 
 What I found myself missing when testing the MacBook Air was the 120Hz ProMotion display from the Pro line. All it took was an hour or two before my eyes adapted to the slower, less smooth 60Hz panel, but the larger 15-inch display didn't make the transition easy. In fact, it made the difference more apparent.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -146,22 +146,17 @@ But everything else about it is as good as the current $1,050 price point gets. 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-extensive-review-capturing-every-angle-with-gear-360/"><u>[New] Extensive Review Capturing Every Angle with Gear 360</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-prioritizing-quality-the-best-skype-recorders-listed/"><u>[Updated] 2024 Approved Prioritizing Quality The Best Skype Recorders Listed</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/aviwav-movavi/"><u>「オンラインでのフリーAVIからWAVへの移行: Movavi使い方レポート」</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/5pa55rov44gr44ki44kl44kk44oz44k44o844on44od44oi5lia5pmc44ov44kh44kk44or44gu6jih55sfic0g44or44k944kz44oz44ks5ps55zae44gz44kl57ch5y2y44gq44og44kv44ol44od44kv.73/"><u>方法によるインターネット一時ファイルの蘇生 - パソコンを改善する簡単なテクニック</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-download-and-setup-of-the-epson-et-4550-printer-software-for-windows-devices/"><u>Easy Download & Setup of the Epson ET-4550 Printer Software for Windows Devices</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-installation-of-the-latest-netgear-wna3100-drivers/"><u>Effortless Installation of the Latest Netgear WNA3100 Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722966652839-get-your-gigabyte-ethernet-controller-up-to-date-with-this-free-driver-package/"><u>Get Your Gigabyte Ethernet Controller Up-to-Date with This Free Driver Package</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-logitech-k400-plus-keyboard-running-comprehensive-driver-downloads/"><u>Get Your Logitech K400 Plus Keyboard Running: Comprehensive Driver Downloads</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-oppo-a78-by-drfone-android/"><u>How to Bypass FRP from Oppo A78?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-asus-mouse-pad-drivers-downloaded-onto-a-windows-computer/"><u>How to Get the ASUS Mouse Pad Drivers Downloaded Onto a Windows Computer</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-the-upgrade-of-epson-print-software-on-windows-11-tips-and-tricks-for-smooth-operation/"><u>Mastering the Upgrade of Epson Print Software on Windows 11: Tips and Tricks for Smooth Operation</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/navigating-common-video-downloadupload-pitfalls-on-fb-for-2024/"><u>Navigating Common Video Download/Upload Pitfalls on FB for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/price-efficiency-index-top-cloud-stores-of-the-year-for-2024/"><u>Price-Efficiency Index Top Cloud Stores of the Year for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-the-issue-why-does-my-iphones-screen-time-reflect-unfamiliar-sites/"><u>Solving the Issue: Why Does My iPhone's Screen Time Reflect Unfamiliar Sites?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-process-to-securely-download-the-nexiq-usb-link-2-drivers/"><u>Step-by-Step Process to Securely Download the Nexiq USB-Link 2 Drivers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unlocking-potential-a-comprehensive-review-of-the-gskill-trident-z5-rgb-for-advanced-ddr5-dual-dimm-systems/"><u>Unlocking Potential: A Comprehensive Review of the G.SKILL Trident Z5 RGB for Advanced DDR5 Dual-DIMM Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-your-windows-computer-with-new-arduino-usb-software/"><u>Update Your Windows Computer with New Arduino USB Software</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-efficient-techniques-for-moving-snapshot-to-photo-library/"><u>[Updated] 2024 Approved Efficient Techniques for Moving SnapShot to Photo Library</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amazon-prime-day-deals-apple-m2-macbook-air-available-at-just-749-a-comprehensive-guide/"><u>Amazon Prime Day Deals: Apple M2 MacBook Air Available at Just $749 - A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/epic-quests-unveiled-top-games-mirroring-ghost-of-tsushima-for-2024/"><u>Epic Quests Unveiled Top Games Mirroring Ghost of Tsushima for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-list-2022s-must-have-cyber-monday-bargains-score-big-savings-today/"><u>Exclusive List: 2022'S Must-Have Cyber Monday Bargains - Score Big Savings Today!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-lg-gram-pro-17-features-and-sale-update-for-amazon-prime-day-insider-tech-review/"><u>Exploring LG Gram Pro 17 Features and Sale Update for Amazon Prime Day | Insider Tech Review</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/gopro-vs-yi-4k-updated-review-of-ultimate-action-cams-for-2024/"><u>GoPro Vs. Yi 4K Updated Review of Ultimate Action Cams for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-oneplus-ace-3-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked OnePlus Ace 3 Phone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-photos-stuck-correct-icloud-sync-issues-with-these-vehicle-maintenance-and-the-importance-of-regular-inspections-to-ensure-safety-on-the-road/"><u>IPhone Photos Stuck? Correct iCloud Sync Issues with These Vehicle Maintenance, and the Importance of Regular Inspections to Ensure Safety on the Road</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/recharge-ready-140w-high-capacity-usb-battery-bank-charges-up-to-7-gadgets-simultaneously-azernio/"><u>Recharge-Ready: 140W High-Capacity USB Battery Bank Charges Up To 7 Gadgets Simultaneously - AZERNIO</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleashing-potential-bypassing-the-turing-trial/"><u>Unleashing Potential: Bypassing the Turing Trial</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unleashing-power-user-potential-essential-traits-of-the-lenovo-laptop-that-wowed-us-insights/"><u>Unleashing Power User Potential: Essential Traits of the Lenovo Laptop That Wowed Us - Insights</u></a></li>
+<li><a href="https://win-able.techidaily.com/mp3-mp3/"><u>フリーMP3エディタ - MP3のカット、マージ、レベル設定編集手順ガイド</u></a></li>
 </ul></div>
 

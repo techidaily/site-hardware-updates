@@ -1,7 +1,7 @@
 ---
 title: "Essential Tricks: Handling Constant On-Off of Mac's Cooling Fans"
-date: 2025-01-17T18:35:24.375Z
-updated: 2025-01-24T23:31:36.143Z
+date: 2025-01-28T20:54:50.450Z
+updated: 2025-02-02T16:46:15.433Z
 tags:
   - laptops
 categories:
@@ -27,7 +27,7 @@ While the chips promise a notable leap in power and efficiency, the spotlight no
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fast, but an iterative advancement
@@ -43,7 +43,7 @@ Jason Hiner/ZDNET
 There's no actual new functionality in these chips; it's like comparing a Lamborghini (or a Tesla Model S "Plaid") from a few years ago with 600HP to one with 1000HP. Impressive performance boost, yes, but what's the actual impact for the average end-user? We can still only legally drive 65 mph/105 kph on most crowded highways in North America -- we need the application autobahn to fully take advantage of them.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## GPU optimization and AI improvements, but where are the apps?
@@ -55,7 +55,7 @@ The enhancements in GPU optimization and improved and increased AI cores in the 
 In the long term, these improvements will also likely trickle down into the [Vision Pro headset](https://www.zdnet.com/article/i-tried-apple-vision-pro-and-its-far-ahead-of-where-i-expected/) and, potentially, [iPad Pro](https://www.zdnet.com/article/ipad-pro-2022-review/). However, where do the apps take advantage of these on the consumer side? Yes, some Pro apps and some 3D games can today, but that's a relatively small part of Apple's target market today. And let's face it, the PC is still the gaming king, for now.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Generative AI question
@@ -73,7 +73,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Don't discount the low-end Macbook as an industry disruptor
@@ -87,7 +87,7 @@ I know of many professionals who aren't content creation types who spend a lot o
 We should also consider what impact the lower-end M3 systems are going to have on an already weakened Wintel market. Firstly, any M1 and M2 Mac machines already in the retail channel that were already very competitive with the Intel machines being offered by other manufacturers will drop in price significantly and will apply even more pressure, additionally decimating Intel's relevancy in many market segments.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## This is ultimately an Intel-killing play
@@ -132,18 +132,24 @@ The M3 chips aren't merely a product release; they are Apple's bold statement of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-key-approaches-to-mute-motion-capture/"><u>[New] In 2024, Key Approaches to Mute Motion Capture</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-master-strategies-for-crafting-impactful-testimonials/"><u>[New] Master Strategies for Crafting Impactful Testimonials</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-art-of-iphone-photography-in-the-dark/"><u>[Updated] The Art of iPhone Photography in the Dark</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-vivo-s18-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Vivo S18</u></a></li>
-<li><a href="https://win-lab.techidaily.com/download-metacafe-on-pc-and-mac-ultimate-video-sharing-platform/"><u>Download Metacafe on PC & Mac: Ultimate Video Sharing Platform</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-new-horizons-with-toms-hardware-guides/"><u>Exploring New Horizons with Tom's Hardware Guides</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-oneplus-nord-3-5g-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror OnePlus Nord 3 5G to Roku | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-dell-wi-fi-adapter-drivers-for-smooth-internet-connection/"><u>Latest Dell Wi-Fi Adapter Drivers for Smooth Internet Connection</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722976335840-obtain-ft232-direct-rs-232rs-485-driver-in-a-flash/"><u>Obtain FT232 Direct RS-232/RS-485 Driver in a Flash</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-non-functional-search-on-windows-11/"><u>Overcoming Non-Functional Search on Windows 11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-setting-up-your-intel-wireless-ac-3160-for-optimal-performance/"><u>Step-by-Step Tutorial: Setting Up Your Intel Wireless-AC 3160 for Optimal Performance</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-computer-tech-ultimate-guide/"><u>Tom's Computer Tech: Ultimate Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unraveling-technology-mysteries-at-toms-equipment-central/"><u>Unraveling Technology Mysteries at Tom's Equipment Central</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-navigating-through-instagrams-new-features-reels-and-stories/"><u>[New] Navigating Through Instagram's New Features Reels & Stories</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-ios-and-androids-finest-the-creme-de-la-creme-of-snapchat-edits/"><u>[Updated] In 2024, IOS & Android's Finest The Crème De La Créme of Snapchat Edits</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/discovering-best-in-class-live-church-broadcast/"><u>Discovering Best-in-Class Live Church Broadcast</u></a></li>
+<li><a href="https://program-issues.techidaily.com/elevate-your-gaming-experience-the-path-to-infinite-riches-with-how-to-fix-like-a-dragon-on-your-personal-computer/"><u>Elevate Your Gaming Experience: The Path to Infinite Riches with How to Fix Like a Dragon on Your Personal Computer</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-roundup-of-the-top-oled-laptops-in-depth-evaluations-and-expert-insights-computedaily/"><u>Exclusive Roundup of the Top OLED Laptops : In-Depth Evaluations and Expert Insights | ComputeDaily</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-the-best-soundscapes-for-gamers-with-a-whopping-150-discount-on-premium-speaker-systems-featured/"><u>Experience the Best Soundscapes for Gamers with a Whopping $150 Discount on Premium Speaker Systems | Featured</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expertly-selected-elite-enote-companebuys-features-comparisons-and-insights-reviewed/"><u>Expertly Selected Elite eNote Companebuys: Features, Comparisons, and Insights Reviewed</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/future-proofing-your-workspace-the-evolution-of-devices-for-the-ai-revolution-expert-analysis/"><u>Future-Proofing Your Workspace: The Evolution of Devices for the AI Revolution | Expert Analysis</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-zte-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock ZTE Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/middle-of-the-road-meets-modesty-a-critical-look-at-the-dell-inspiron-3671-desktop/"><u>Middle-of-the-Road Meets Modesty: A Critical Look at the Dell Inspiron 3671 Desktop</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-through-10-steps-for-win-11s-display-settings/"><u>Navigate Through 10 Steps for Win 11'S Display Settings</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/samsung-t5-ssd-huge-discount-save-nearly-half-the-price-on-amazon-prior-to-octobers-prime-day-deals-zdnet/"><u>Samsung T5 SSD Huge Discount: Save Nearly Half the Price on Amazon Prior to October's Prime Day Deals | ZDNet</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/seamless-hevc-video-viewing-fixes-for-common-problems-on-windows-11-and-10/"><u>Seamless HEVC Video Viewing: Fixes for Common Problems on Windows 11 & 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlock-best-of-the-best-october-prime-deals-on-laptops-spotted-early-by-zdnet/"><u>Unlock Best-of-the-Best October Prime Deals on Laptops, Spotted Early by ZDNet!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlock-the-secret-of-scoring-your-own-free-macbook-air-m3-with-this-clever-best-buy-strategy/"><u>Unlock the Secret of Scoring Your Own Free MacBook Air M3 with This Clever Best Buy Strategy</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-htc-u23-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your HTC U23 Device</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-intels-revolutionary-ai-chip-the-future-of-your-laptops-and-its-extraordinary-perks-zdnet/"><u>Unveiling Intels Revolutionary AI Chip: The Future of Your Laptops & Its Extraordinary Perks | ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upcoming-prime-day-specials-ultimate-best-buy-deals-featured-by-zdnet/"><u>Upcoming Prime Day Specials - Ultimate Best Buy Deals Featured by ZDNET</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-the-three-key-techniques-to-uniform-audio-amplitude/"><u>Updated 2024 Approved The Three Key Techniques to Uniform Audio Amplitude</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Top Durable Laptop Picks - Recommendations by ZDNet
-date: 2025-01-30T22:29:04.559Z
-updated: 2025-02-01T16:50:37.350Z
+date: 2025-02-02T04:32:15.822Z
+updated: 2025-02-03T03:53:47.648Z
 tags:
   - laptops
 categories:
@@ -26,6 +26,10 @@ You can even find rugged laptops with enterprise-level security software, which 
 
 We've tested and researched some of the best rugged laptops on the market. Our top pick for the best rugged laptop is the [Getac S510](https://www.getac.com/us/products/laptops/s510/#product-info) for its highly configurable options for shock, drop, moisture, and dust resistance as well as options for multiple storage drives, touchscreen, and even dual SIM, 4G/5G LTE connectivity, and GPS tracking. Keep reading below to find out more about the Getac S510 as well as our other top picks for the best rugged laptops.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The best rugged laptops of 2024
 
 Show less 
@@ -45,7 +49,7 @@ Cons
 ## Getac S510
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best rugged laptop overall
@@ -74,7 +78,7 @@ Cons
 * No AMD option
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Panasonic ToughBook 40 Mk2
@@ -103,10 +107,6 @@ Pros
 
 Cons 
 * Can't upgrade RAM or storage
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Acer Chromebook Spin 512
 
@@ -139,7 +139,7 @@ Cons
 ## Asus ZenBook Pro Duo 15 OLED
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best rugged laptop splurge
@@ -172,11 +172,11 @@ Cons
 * No touchscreen option
 * No Intel option
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Asus TUF A14
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best rugged laptop for gaming
 
@@ -199,6 +199,10 @@ I chose the Getac S510 as the best rugged laptop for its highly customizable con
 | Panasonic Toughbook 40 Mk2   | $4,700              | Up to 2TB SSD | Up to Intel Core Ultra 7 165H |
 | Asus ZenBook Pro Duo 15 OLED | $1,700              | 1TB SSD       | Intel Core i7-12700H          |
 | Asus TUF A14                 | $1,400              | 1TB SSD       | AMD Ryzen 7 8845HS            |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Which rugged laptop is right for you?
 
@@ -224,10 +228,6 @@ Laptop manufacturers helpfully label these systems as "semi-rugged" or "rugged,"
 
 The rugged laptops listed here are from major manufacturers in the space (Dell, Panasonic, Getac), including some with which ZDNET staff have had hands-on experience. For more on how we test laptops, check out our comprehensive [laptop testing methodology](https://www.zdnet.com/article/how-we-test-laptops/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What does "rugged laptop" mean?
 
 A rugged laptop, sometimes listed as a "ruggedized" laptop, is a computer that is built specifically to handle extreme situations and weather conditions. Many rugged laptops are water- and dirt-resistant, resistant to drops and shocks, and can operate in both very hot and very cold temperatures. 
@@ -240,17 +240,9 @@ A laptop that is listed as "military grade" doesn't necessarily mean that it was
 
 Laptops meant for military use are more rigorously tested against a laundry list of conditions, while commercially available laptops labeled "military grade" are only tested against a few of the MIL-STD-810 standards.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Does Apple make a rugged laptop?
 
 At the time of writing, Apple does not have a ruggedized version of any of their MacBooks for sale, either through their official store or authorized sellers. You can, however, purchase rugged cases like the [Urban Armor Gear](https://www.amazon.com/URBAN-ARMOR-GEAR-Feather-Light-Translucent/dp/B08M5KWNW4/?tag-zdnet-deals-20) for the 13-inch MacBook Pro, the [Ibenezer case](https://www.amazon.com/dp/B07D848J6V/?tag-zdnet-deals-20) for the 13-inch MacBook Air, or the [Pelican 1085](https://www.amazon.com/Pelican-1095CC-Laptop-Case-Liner/dp/B006C21MCU/?tag-zdnet-deals-20) hardshell carrying case.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## More rugged laptops to consider
 
@@ -272,6 +264,10 @@ Show less
 
 Full Review [Read Full Review](https://www.zdnet.com/article/best-rugged-laptop/Design: Mini Listicle)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Getac B360
 
 I got the chance to test out the Getac B360 and saw first-hand just how tough it really is. Weighing in at a hefty 5.1 pounds, it's both MIL-STD-810H and MIL-STD-416G certified for shock and moisture resistance and can be customized for salt fog and Class I electrical hazard certification. 
@@ -283,6 +279,10 @@ Show less
 [View now at Panasonic](https://connect.na.panasonic.com/toughbook/rugged-computers/toughbook-55)
 
 Full Review [Read Full Review](https://www.zdnet.com/article/best-rugged-laptop/Design: Mini Listicle)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Panasonic Toughbook 55
 
@@ -320,19 +320,19 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-enhancing-instagram-visibility-with-powerful-promotions/"><u>[New] Enhancing Instagram Visibility with Powerful Promotions</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-unlock-brand-potential-access-50-banners-at-no-cost/"><u>[New] Unlock Brand Potential - Access 50 Banners at No Cost</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-vivo-s18-pro-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Vivo S18 Pro Fingerprint Lock</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/beyond-ustream-a-comparative-analysis-of-streams-for-2024/"><u>Beyond Ustream A Comparative Analysis of Streams for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/comparing-chatgpt-and-huggingfaces-huggingchat-determining-the-superior-conversational-ai/"><u>Comparing ChatGPT and HuggingFace's HuggingChat: Determining the Superior Conversational AI</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/complete-tutorial-download-and-install-canon-mf4500-printer-driver-today/"><u>Complete Tutorial: Download & Install Canon MF4500 Printer Driver Today!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-latest-updates-for-canon-eos-dslr-camera-model-d530/"><u>Download and Latest Updates for Canon EOS DSLR Camera Model D530</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-acer-device-online-free-wifi-drivers-and-step-by-step-setup-tutorials/"><u>Get Your Acer Device Online: FREE WiFi Drivers & Step-by-Step Setup Tutorials</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/going-against-the-grain-instagram-video-reversal-for-2024/"><u>Going Against the Grain Instagram Video Reversal for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/guide-finding-and-downloading-epson-xp-830-driver-a-step-by-step-approach/"><u>Guide: Finding & Downloading Epson XP-830 Driver - A Step by Step Approach</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-oppo-find-x6-pro-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Oppo Find X6 Pro Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/maximize-your-media-movement-with-winx-mediatrans-leading-solution-for-iphone-and-ipad-content-transfer-fromto-pcs/"><u>Maximize Your Media Movement with WinX MediaTrans: Leading Solution for iPhone & iPad Content Transfer From/To PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-the-challenges-of-xbox-game-pass-error-0x00000001-with-windows-11-pcs/"><u>Tackling the Challenges of Xbox Game Pass Error 0X00000001 with Windows 11 PCs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-advice-expert-gadget-guidance/"><u>Tom's Tech Advice: Expert Gadget Guidance</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/stablishing-a-mac-based-sports-media-outlet/"><u>[New] Establishing a Mac-Based Sports Media Outlet</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-precision-editing-picarts-techniques-for-background-subtraction/"><u>[New] Precision Editing PicArt's Techniques for Background Subtraction</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-7-best-budget-friendly-dvd-players-for-computers/"><u>[Updated] 7 Best Budget-Friendly DVD Players for Computers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-ultimate-guide-to-hash-trackers-fb-twt-and-ig-networks-for-2024/"><u>[Updated] The Ultimate Guide to Hash Trackers FB, Twt & IG Networks for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ces-2023-highlights-from-day-two-top-tech-innovations-unveiled/"><u>CES 2023 Highlights From Day Two: Top Tech Innovations Unveiled!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/doctors-vs-algorithms-why-rely-on-professionals/"><u>Doctors vs Algorithms: Why Rely on Professionals</u></a></li>
+<li><a href="https://article-files.techidaily.com/dynamic-range-enhancement-a-compreeved-tutorial-guide-for-2024/"><u>Dynamic Range Enhancement A Compreeved Tutorial Guide for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Tecno Spark 20? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/revolutionize-your-workspace-how-this-new-gadget-offers-dual-4k-displays-for-non-compatible-laptops-cnets-latest-discovery/"><u>Revolutionize Your Workspace: How This New Gadget Offers Dual 4K Displays for Non-Compatible Laptops | CNET's Latest Discovery</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-100-unbeatable-holiday-bargains-at-walmart-discover-your-savings/"><u>Top 100 Unbeatable Holiday Bargains at Walmart - Discover Your Savings</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-affordable-laptop-options-beyond-lenovo-and-dell-experiencing-price-reductions-zdnets-expert-selection/"><u>Top Affordable Laptop Options Beyond Lenovo & Dell, Experiencing Price Reductions | ZDNet's Expert Selection</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-windows-laptops-that-outperform-apples-macbook-air-and-offer-comparable-power/"><u>Top Windows Laptops That Outperform Apple's MacBook Air and Offer Comparable Power</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unleash-ultimate-gaming-audio-bliss-with-top-rated-speakers-now-discounted-at-best-buy-exclusively-featured/"><u>Unleash Ultimate Gaming Audio Bliss with Top-Rated Speakers Now Discounted at Best Buy – Exclusively Featured</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-itel-p55-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Itel P55? | Dr.fone</u></a></li>
 </ul></div>
 

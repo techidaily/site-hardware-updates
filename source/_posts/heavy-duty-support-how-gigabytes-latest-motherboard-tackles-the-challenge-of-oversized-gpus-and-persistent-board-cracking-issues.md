@@ -1,7 +1,7 @@
 ---
 title: "Heavy-Duty Support: How Gigabyte's Latest Motherboard Tackles the Challenge of Oversized GPUs and Persistent Board Cracking Issues"
-date: 2024-08-19T04:19:43.465Z
-updated: 2024-08-20T04:19:43.465Z
+date: 2025-02-02T08:27:05.616Z
+updated: 2025-02-02T17:45:04.284Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,9 +62,21 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-advanced-steps-for-documenting-online-meetings/"><u>[New] 2024 Approved Advanced Steps for Documenting Online Meetings</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-exiting-the-invisible-web-of-tiktok-shadowbaning/"><u>[Updated] 2024 Approved Exiting the Invisible Web of TikTok Shadowbaning</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-front-runners-in-4k-gaming-graphics/"><u>[Updated] 2024 Approved Front-Runners in 4K Gaming Graphics</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-get-rid-of-youtube-distractions-ad-blocking-on-chrome-firefox-and-ios/"><u>[Updated] In 2024, Get Rid of YouTube Distractions Ad-Blocking on Chrome, Firefox & iOS</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ensure-seamless-printing-finding-and-installing-the-updated-epson-wf-7720-driver-on-your-windows-pc/"><u>Ensure Seamless Printing: Finding and Installing the Updated Epson WF-7720 Driver on Your Windows PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/eveo-bluetooth-receiver-get-the-latest-driver-here/"><u>EVEO Bluetooth Receiver - Get the Latest Driver Here</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-officejet-5740-printer-driver-setup-made-simple-immediate-download-access/"><u>HP Officejet 5740 Printer Driver Setup Made Simple: Immediate Download Access</u></a></li>
+<li><a href="https://os-tips.techidaily.com/introducing-the-updated-partner-for-apples-satellite-based-emergency-aid-service/"><u>Introducing the Updated Partner for Apple's Satellite-Based Emergency Aid Service</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-tech-trends-with-precision-at-toms-hardware-reviews/"><u>Navigating Tech Trends with Precision at Tom's Hardware Reviews</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/quick-tip-to-uncover-your-recently-watched-movies-on-fb/"><u>Quick Tip to Uncover Your Recently Watched Movies on FB</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/speedy-driver-refresh-techniques-for-the-new-dell-xps-7586-g7-notebooks/"><u>Speedy Driver Refresh Techniques for the New Dell XPS 7586 G7 Notebooks</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-your-roms-internationally-using-translation-patches/"><u>Transform Your ROMs Internationally Using Translation Patches</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-and-get-new-features-with-free-hp-deskjet-ink-advantage-3050a-driver-for-microsoft-windows/"><u>Update & Get New Features with Free HP Deskjet Ink Advantage 3050A Driver for Microsoft Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upgrade-to-the-newest-epson-wf-3620-printer-driver-version-on-your-windows-1187-system-today/"><u>Upgrade to the Newest Epson WF-3620 Printer Driver Version on Your Windows 11/8/7 System Today</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->

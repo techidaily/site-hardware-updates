@@ -1,7 +1,7 @@
 ---
 title: Best Buy Anti-Prime Day Alert! Secure Your Discounted HP Victus 지킷랄로피 ($515) - Gaming Laptop Deal Unveiled by ZDNet
-date: 2025-01-26T20:55:15.975Z
-updated: 2025-02-01T21:54:16.348Z
+date: 2025-01-30T04:24:32.500Z
+updated: 2025-02-02T22:56:37.058Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,17 +63,20 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-crafting-high-quality-igtv-footage-on-smartphonesdslrs/"><u>[Updated] Crafting High-Quality IGTV Footage on Smartphones/DSLRs</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-skys-dynamic-range-showcase-websites-ranked-1-10/"><u>2024 Approved Sky's Dynamic Range Showcase - Websites Ranked 1-10</u></a></li>
-<li><a href="https://solve-help.techidaily.com/calibre-tutorial-for-changing-epub-files-into-kea-formats-successfully/"><u>Calibre Tutorial for Changing EPUB Files Into KEA Formats Successfully</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/effortless-extraction-of-twitter-jokes-3-ways-for-2024/"><u>Effortless Extraction of Twitter Jokes 3 Ways for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/epson-xp-420-printer-drivers-free-download-and-latest-firmware-update/"><u>Epson XP-420 Printer Drivers: Free Download and Latest Firmware Update</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guru-da-conversao-de-audio-transforme-seus-livros-e-podcasts-m4b-em-mp3-com-seguranca-passo-a-passo/"><u>Guru Da Conversão De Audio: Transforme Seus Livros E Podcasts M4B Em MP3 Com Segurança - Passo a Passo</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-three-trustworthy-ways-to-extract-audio-from-youtube-videos/"><u>In 2024, Three Trustworthy Ways to Extract Audio From YouTube Videos</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/installing-the-most-recent-hp-officejet-pro-9015-driver-step-by-step-guide-and-download-links/"><u>Installing the Most Recent HP Officejet Pro 9015 Driver: Step-by-Step Guide & Download Links</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/overcoming-realtek-rtl8195b-wireless-driver-issues-a-guide-for-windows-11-10-and-ablishing-a-strong-online-presence-is-crucial-heres-a-step-by-step-strategy202/"><u>Overcoming Realtek RTL8195B Wireless Driver Issues: A Guide for Windows 11, 10 & Ablishing a Strong Online Presence Is Crucial. Here's a Step-by-Step Strategy Tailored to Your Needs and Budget Constraints:</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-hub-your-guide-to-computer-components-and-gadgets/"><u>Tom's Tech Hub: Your Guide to Computer Components and Gadgets</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-12-free-movie-streaming-applications-you-can-start-using-today/"><u>Top 12 Free Movie-Streaming Applications You Can Start Using Today</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-5-premium-pellet-grill-models-reviewed-by-techexperts-zdnet/"><u>Top 5 Premium Pellet Grill Models Reviewed by TechExperts (ZDNet)</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-uncovering-the-efficacy-of-youtubes-4-second-rule/"><u>[Updated] In 2024, Uncovering the Efficacy of YouTube's 4-Second Rule</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/300-savings-alert-find-the-high-performance-asus-vivobook-pro-now-for-less-only-on-amazon-s-hot-sale/"><u>$300 Savings Alert: Find the High-Performance Asus VivoBook Pro Now for Less Only on Amazon 'S Hot Sale!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-incorporating-soundscapes-into-your-social-media-masterpieces/"><u>2024 Approved Incorporating Soundscapes Into Your Social Media Masterpieces</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-winning-tools-the-top-five-windows-screen-cutters/"><u>2024 Approved Winning Tools The Top Five Windows Screen Cutters</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-samsung-galaxy-s23-fe-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Samsung Galaxy S23 FE? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-buys-prime-day-hot-deals-for-october-202n4-top-picks-still-on-sale-zdnet-insights/"><u>Best Buy's Prime Day Hot Deals for October 202N4: Top Picks Still on Sale | ZDNET Insights</u></a></li>
+<li><a href="https://win-premium.techidaily.com/guia-paso-a-paso-para-replicar-una-particion-entera-con-secure-boot-activo-en-un-ssd-bajo-sistema-operativo-windows/"><u>Guía Paso a Paso Para Replicar Una Partición Entera Con Secure Boot Activo En Un SSD Bajo Sistema Operativo Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-envy-x360-black-friday-sale-202n-stunning-2-in-1-laptop-at-40-off-for-only-499-shop-smart/"><u>HP Envy X360 Black Friday Sale 202N: Stunning 2-In-1 Laptop at 40% Off for Only $499 - Shop Smart!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mcafee-introduces-revolutionary-ai-tool-against-deepfakes-assessing-its-trustworthiness/"><u>McAfee Introduces Revolutionary AI Tool Against Deepfakes – Assessing Its Trustworthiness</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-stop-motion-animation-made-easy-top-software-for-mac-and-pc/"><u>New Stop Motion Animation Made Easy Top Software for Mac and PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/score-metas-exclusive-512gb-quest-3-at-half-price-the-premier-vr-deal-of-october-prime-days-featured/"><u>Score Meta's Exclusive 512GB Quest 3 at Half-Price: The Premier VR Deal of October Prime Days, Featured</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-deal-alert-top-rated-gaming-speakers-now-30-less-on-amazon/"><u>Unbeatable Deal Alert: Top-Rated Gaming Speakers Now 30% Less on Amazon</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unboxing-the-future-of-gaming-how-dells-luxe-3000-laptop-upgraded-my-experience-techradar-insights/"><u>Unboxing the Future of Gaming - How Dell’s Luxe $3,000 Laptop Upgraded My Experience | TechRadar Insights</u></a></li>
+<li><a href="https://windows11.techidaily.com/unexpected-rav-guard-find-its-source-and-quit-methods/"><u>Unexpected Rav Guard? Find Its Source & Quit Methods</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11s-high-dynamic-range-mastered-for-the-modern-user/"><u>Windows 11'S High Dynamic Range Mastered for the Modern User</u></a></li>
 </ul></div>
 

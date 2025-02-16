@@ -1,7 +1,7 @@
 ---
 title: McAfee Debuts Advanced AI Tool for Catching Deepfake Sounds - Is It Truly Trustworthy?
-date: 2025-01-17T22:43:26.280Z
-updated: 2025-01-25T03:06:01.457Z
+date: 2025-01-28T06:03:08.468Z
+updated: 2025-02-03T04:18:31.720Z
 tags:
   - laptops
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to configure specific DNS servers on your Chromebook
@@ -47,7 +47,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 **What you'll need:** The only thing you'll need for this is a Chromebook with an updated version of Chrome OS. Make sure to always keep your operating system up-to-date, so you always have the latest features and (more importantly) the latest security and bug fixes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open Settings
@@ -61,7 +61,7 @@ Screenshot by Jack Wallen/ZDNET
 **Also: [How to connect to a network share from your Chromebook](https://www.zdnet.com/home-and-office/work-life/how-to-connect-to-a-network-share-from-your-chromebook/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Disable automatic IP address configuration
@@ -73,7 +73,7 @@ By default, Chrome OS uses DHCP to acquire IP addresses. To use a specific DNS s
 Screenshot by Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Change the Name Servers
@@ -120,22 +120,22 @@ And that's all you need to do to give your Chromebook a speed and security boost
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-a-novices-vision-on-vectors-categories-explored-and-apps/"><u>[New] A Novice's Vision on Vectors Categories Explored and Apps</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-learn-to-produce-nfts-with-minimal-hassle/"><u>[New] Learn to Produce NFTs With Minimal Hassle</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-the-fastest-methods-to-uncover-hidden-reddit-articles-for-2024/"><u>[New] The Fastest Methods to Uncover Hidden Reddit Articles for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-the-complete-snapchat-editors-toolbox-for-photo-finesse/"><u>[Updated] 2024 Approved The Complete Snapchat Editor's Toolbox for Photo Finesse</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-get-superior-visuals-from-youtube-downloading-thumbnails-free/"><u>2024 Approved Get Superior Visuals From YouTube - Downloading Thumbnails Free!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/cambia-tus-audios-de-aiff-a-formato-flac-sin-gastar-descubre-el-metodo-gratuitamente-en-linea-para-una-transicion-perfecta/"><u>Cambia Tus Audios De AIFF a Formato FLAC Sin Gastar: Descubre El Método Gratuitamente en Línea Para Una Transición Perfecta</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/extensive-benchmarking-of-engineering-sample-for-amd-ryzen-9-9950x-using-blender-at-diverse-thermal-design-power-ratings-showcasing-noteworthy-gains-in-proc59/"><u>Extensive Benchmarking of 'Engineering Sample' For AMD Ryzen 9 9950X Using Blender at Diverse Thermal Design Power Ratings - Showcasing Noteworthy Gains in Processor Efficiency</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/find-and-install-hp-designjet-500-printer-drivers-with-this-direct-link/"><u>Find and Install HP DesignJet 500 Printer Drivers With This Direct Link</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722972897815-free-download-install-your-steelseries-gaming-mouse-drivers-today/"><u>Free Download: Install Your SteelSeries Gaming Mouse Drivers Today!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722960220672-get-your-behringer-usb-audio-drivers-fast-and-easy-download/"><u>Get Your Behringer USB Audio Drivers - Fast & Easy Download</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-focusrite-scarlett-solo-now-premium-sound-drivers-for-pcs/"><u>Get Your Focusrite Scarlett Solo Now – Premium Sound Drivers for PCs</u></a></li>
-<li><a href="https://howto.techidaily.com/gmail-not-working-on-motorola-g54-5g-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Motorola G54 5G 7 Common Problems & Fixes | Dr.fone</u></a></li>
-<li><a href="https://win-docs.techidaily.com/guida-alla-scelta-del-software-di-copia-hard-drive-piu-efficiente-su-windows-soluzioni-top-ranking-e-suggerimenti-seo/"><u>Guida Alla Scelta Del Software Di Copia Hard Drive Più Efficiente Su Windows: Soluzioni Top-Ranking E Suggerimenti SEO</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-disabled-apple-iphone-6-plusipad-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Disabled Apple iPhone 6 Plus/iPad Without Computer | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-tech-expert-analysis-on-toms-devices/"><u>Navigating Tech: Expert Analysis on Tom's Devices</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-fix-how-to-easily-obtain-and-install-asus-router-wi-fi-drivers/"><u>Quick Fix: How to Easily Obtain and Install ASUS Router Wi-Fi Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-obtaining-huion-digitizer-drivers-and-updates-windows-platform/"><u>Step-by-Step Tutorial: Obtaining Huion Digitizer Drivers & Updates Windows Platform</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-the-complete-users-manual-on-durecorder-for-2024/"><u>[New] The Complete User’s Manual on DuRecorder for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/outube-optimization-for-new-vloggers-for-2024/"><u>[New] YouTube Optimization for New Vloggers for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-top-tier-talk-transcribers-in-schools/"><u>2024 Approved Top-Tier Talk Transcribers in Schools</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-tecno-spark-20-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Tecno Spark 20 Pro? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/behind-the-see-through-screen-a-deep-dive-into-lenovos-functional-transparent-laptop-showcase-at-mwc-with-zdnet/"><u>Behind the See-Through Screen: A Deep Dive Into Lenovo's Functional Transparent Laptop Showcase at MWC with ZDNet</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-redmi-note-12t-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Redmi Note 12T Pro</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1109885-9780857010971-everyday-qigong-practice/"><u>Everyday Qigong Practice | Free Book</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Apple iPhone XR? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-showcases-new-generation-of-smart-spectre-laptops-with-stunning-peripherals-at-ces-insights-for-tech-enthusiasts-on-zdnet/"><u>HP Showcases New Generation of Smart Spectre Laptops with Stunning Peripherals at CES | Insights for Tech Enthusiasts on ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-innovations-revealed-by-microsoft-during-recent-surface-and-ai-showcase-insights-from-zdnet/"><u>Latest Innovations Revealed by Microsoft During Recent Surface & AI Showcase - Insights From ZDNet</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ready-set-repair-comprehensive-solutions-for-a-nonfunctional-rust-microphone/"><u>Ready, Set, Repair! Comprehensive Solutions for a Nonfunctional Rust Microphone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/score-big-savings-on-presidents-day-snag-the-latest-m2-macbook-air-at-300-less-exclusive-offer-from-zdnet/"><u>Score Big Savings on Presidents' Day: Snag the Latest M2 MacBook Air at $300 Less - Exclusive Offer From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/supercharge-your-workstation-experience-the-versatile-power-of-a-10-in-1-docking-station-now-with-35-off-find-it-here-at-zdnet/"><u>Supercharge Your Workstation! Experience the Versatile Power of a 10-in-1 Docking Station Now with 35% Off | Find It Here at ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-windows-laptop-that-rivals-macbook-air-price-wise-is-currently-on-discount-discover-why-its-a-hit/"><u>Top Windows Laptop That Rivals MacBook Air Price-Wise Is Currently On Discount: Discover Why It's A Hit</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-the-leading-vpn-services-for-20225-featuring-in-depth-analysis-and-ratings-cnet/"><u>Ultimate Guide to the Leading VPN Services for 202([[25] - Featuring In-Depth Analysis and Ratings | CNET</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unzipping-subtitles-turning-zip-archives-into-srt-files/"><u>Unzipping Subtitles Turning Zip Archives Into .SRT Files</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/zdnets-comprehensive-guide-to-the-framework-chromebook-leading-the-way-in-durability-and-upgradability/"><u>ZDNet's Comprehensive Guide to the Framework Chromebook: Leading the Way in Durability & Upgradability</u></a></li>
 </ul></div>
 

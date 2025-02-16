@@ -1,7 +1,7 @@
 ---
 title: "Discover the X60nAM5-ITX: ASRock's Ultra Thin Mini-ITX Board Designed for DIY HTPC Enthusiasts"
-date: 2024-08-19T04:21:14.118Z
-updated: 2024-08-20T04:21:14.118Z
+date: 2025-01-30T07:10:53.226Z
+updated: 2025-02-02T21:57:31.022Z
 tags:
   - motherboards
 categories:
@@ -27,6 +27,10 @@ ASRock showcased its next-generation Z890 Taichi Aqua flagship motherboard at[Co
   
  ASRock could be starting a whole new trend with its Type-C-only motherboard. Greater Type-C adoption in the desktop space would help unify the Type-C form factor on all devices, improving compatibility and reducing waste. Having all devices on Type-C could allow users to ditch clunky adapters and allow more peripherals and devices to work with both desktops and mobile phones. But USB Type-A connectors have proven persistent if nothing else, and aren't likely to ride off into the sunset any time soon.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -41,8 +45,6 @@ ASRock showcased its next-generation Z890 Taichi Aqua flagship motherboard at[Co
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -50,8 +52,24 @@ ASRock showcased its next-generation Z890 Taichi Aqua flagship motherboard at[Co
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-photographic-sparkle-essential-ideas-for-inspired-posts/"><u>[New] In 2024, Photographic Sparkle Essential Ideas for Inspired Posts</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-laugh-out-loud-crafting-humorous-video-ideas-for-short-films/"><u>2024 Approved Laugh Out Loud Crafting Humorous Video Ideas for Short Films</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-picture-and-sound-summary-device/"><u>2024 Approved Picture and Sound Summary Device</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/breaking-down-the-new-microsoft-surface-pro-9-is-it-time-for-windows-users-to-switch-from-mac-insights/"><u>Breaking Down the New Microsoft Surface Pro 9 - Is It Time for Windows Users to Switch From Mac? | Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-ultimate-selection-of-februarys-premium-deals-on-gaming-laptops-zdnet-your-guide-to-savings/"><u>Discover the Ultimate Selection of February's Premium Deals on Gaming Laptops (ZDNET) - Your Guide to Savings!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-ultimate-work-travel-companer-an-exceptional-tablet-thats-not-from-microsoft-or-lenovo-insights-and-analysis/"><u>Discover the Ultimate Work Travel Companer: An Exceptional Tablet That's Not From Microsoft or Lenovo – Insights & Analysis</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-deal-alert-top-picks-now-cheaper-by-500-before-prime-day-starts-shop-smart/"><u>Exclusive Deal Alert: Top Picks Now Cheaper by $500 Before Prime Day Starts - Shop Smart!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-july-202n4-apple-blowouts-revealed-score-iphones-and-more-at-unbeatable-prices-detailed-listings/"><u>Exclusive July 202N4 Apple Blowouts Revealed: Score IPhones & More at Unbeatable Prices | Detailed Listings</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-analysis-the-downside-of-dells-latest-xps-14-laptop-revealed/"><u>Expert Analysis: The Downside of Dell's Latest XPS 14 Laptop Revealed</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-stream-and-play-your-favorite-steam-titles-on-mobile/"><u>How to Stream & Play Your Favorite Steam Titles on Mobile</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Motorola Moto G34 5G? | Dr.fone</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-is-this-a-pigeon-meme-generator/"><u>New Is This a Pigeon Meme Generator</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/tailoring-photo-flipping-parameters-size-and-palette-controls-with-flipbuilder/"><u>Tailoring Photo Flipping Parameters: Size and Palette Controls with FlipBuilder</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-lenovo-notebook-choice-at-a-1k-discount-ideal-tech-for-remote-and-office-tasks-this-prime-day-picks/"><u>Top Lenovo Notebook Choice at a $1K Discount: Ideal Tech for Remote and Office Tasks This Prime Day Picks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-fixes-how-to-repair-microsoft-teams-microphone-issues-in-windows-11-and-10/"><u>Troubleshooting Fixes: How to Repair Microsoft Teams Microphone Issues in Windows 11 & 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlock-the-potential-of-m3-macbook-pro-exceptional-performance-for-less-than-10k-insights/"><u>Unlock the Potential of M3 MacBook Pro: Exceptional Performance for Less Than $10K - Insights</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->

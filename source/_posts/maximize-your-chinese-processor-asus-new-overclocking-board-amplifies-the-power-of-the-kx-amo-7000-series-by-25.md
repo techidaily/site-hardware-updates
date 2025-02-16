@@ -1,7 +1,7 @@
 ---
 title: "Maximize Your Chinese Processor: Asus' New Overclocking Board Amplifies the Power of the KX-Amo 7000 Series by 25%%"
-date: 2024-08-19T04:20:37.046Z
-updated: 2024-08-20T04:20:37.046Z
+date: 2025-02-01T03:33:26.758Z
+updated: 2025-02-02T16:18:01.863Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +62,24 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-hack-the-youtube-timeline-increase-or-decrease-sound/"><u>[Updated] Hack the YouTube Timeline Increase or Decrease Sound</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-securely-accessing-insta-stories-anon-pcandroidios-guide/"><u>[Updated] In 2024, Securely Accessing Insta Stories Anon PC/Android/iOS Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-step-by-step-audio-addition-for-impactful-instagram-visuals/"><u>[Updated] In 2024, Step-by-Step Audio Addition for Impactful Instagram Visuals</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-the-art-of-crafting-captivating-facebook-stories/"><u>[Updated] In 2024, The Art of Crafting Captivating Facebook Stories</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/all-inclusive-data-revival-package-complete-software-for-retrieving-any-data-type/"><u>All-Inclusive Data Revival Package: Complete Software for Retrieving Any Data Type</u></a></li>
+<li><a href="https://change-location.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-note-30-pro-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Infinix Note 30 Pro Phone without Any Data Loss</u></a></li>
+<li><a href="https://games-able.techidaily.com/opera-vs-edge-ultimate-challenge-to-identify-best-game-browser/"><u>Opera Vs Edge - Ultimate Challenge to Identify Best Game Browser</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-ranked-smart-tv-models-a-comprehensive-review-by-zdnet/"><u>Top-Ranked Smart TV Models : A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-ranking-alternative-discover-the-ultimate-non-vizio-non-jbl-audio-experience-in-our-latest-tests-tech-insights/"><u>Top-Ranking Alternative: Discover the Ultimate Non-Vizio, Non-JBL Audio Experience in Our Latest Tests | Tech Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-ranking-lg-oled-tv-on-sale-enjoy-a-huge-discount-today-insider-review-by-zdnet/"><u>Top-Ranking LG OLED TV on Sale: Enjoy a Huge Discount Today - Insider Review by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-2024-tv-models-optimized-for-playstation-5-gaming-experience-comprehensive-reviews-and-testing-by-protechgurus/"><u>Top-Rated 2024 TV Models Optimized for PlayStation 5 Gaming Experience - Comprehensive Reviews & Testing by ProTechGurus</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-outdoor-television-sets-featured-by-experts-techradar/"><u>Top-Rated Outdoor Television Sets Featured by Experts | TechRadar</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-tv-monitor-cleansing-solutions-of-2024-expert-picks-by-zdnet/"><u>Top-Rated TV Monitor Cleansing Solutions of 2024 - Expert Picks by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-tv-monitor-refreshing-solutions-2024s-premier-guide-zdnet/"><u>Top-Rated TV Monitor Refreshing Solutions: 2024'S Premier Guide – ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-tier-audio-experience-unmatched-by-bose-or-sonos-discover-the-alternative-on-zdnet/"><u>Top-Tier Audio Experience Unmatched by Bose or Sonos - Discover the Alternative on ZDNet</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->

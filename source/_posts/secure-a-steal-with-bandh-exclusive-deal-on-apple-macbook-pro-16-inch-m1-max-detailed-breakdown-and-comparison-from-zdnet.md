@@ -1,7 +1,7 @@
 ---
 title: "Secure a Steal with B&H: Exclusive Deal on Apple MacBook Pro 16-Inch M1 Max - Detailed Breakdown & Comparison From ZDNet"
-date: 2025-01-19T21:26:00.384Z
-updated: 2025-01-24T19:51:03.729Z
+date: 2025-01-27T18:13:33.265Z
+updated: 2025-02-02T20:05:18.129Z
 tags:
   - laptops
 categories:
@@ -40,14 +40,10 @@ For a recap of all the products unveiled during Apple's "Scary Fast" event -- an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What products did get announced
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## M3 chips in all sizes
@@ -71,7 +67,7 @@ Much like the M2 processors that classify Apple's latest Mac computers by perfor
 * M3 Max: Starting at 16 main processing cores (12 performance and four efficiency) and 40 graphics cores, and now supports up to 128GB of unified memory
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. 14-inch and 16-inch MacBook Pro
@@ -102,11 +98,11 @@ Apple says the M3 chip allows the new 24-inch iMac to perform at twice the speed
 
 The 24-inch iMac is now available for preorder starting at $1,299 and will begin shipping next week.
 
-## What products didn't get announced
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## What products didn't get announced
 
 ## 1\. 13-inch MacBook Pro
 
@@ -119,7 +115,7 @@ It's not unreasonable to assume that it may be the end of the line for Apple's f
 If there was any time for the company to further the gap between its old laptops and the new, Apple's "Scary Fast" event just made the most sense.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Magic Keyboard and Mouse with USB-C
@@ -131,6 +127,10 @@ With the iPhone being the last major product to transition over from Lightning t
 **Also: [Best USB-C chargers and accessories for iPhone 15 Pro: Expert tested](https://www.zdnet.com/article/best-usb-c-and-wireless-chargers-and-accessories-for-iphone-15-pro/)**
 
 With the new 24-inch iMac, Apple will continue to bundle Lightning-equipped Magic Keyboard and Mouse peripherals, giving some users reasons to retain their cables.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to rewatch Apple's 'Scary Fast' event
 
@@ -166,22 +166,20 @@ The keynote presentation began on Monday, Oct. 30, 2023, at 5 p.m. PT (8 p.m. ET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-time-honored-vhs-hacks-a-curators-choice-of-visual-tricks/"><u>[New] 2024 Approved Time-Honored VHS Hacks A Curator’s Choice of Visual Tricks</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-clearing-up-confusion-addressing-youtube-short-concerns-for-2024/"><u>[New] Clearing Up Confusion Addressing YouTube Short Concerns for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-top-mac-hd-frame-gems-guide-char-limit-156/"><u>[Updated] Top Mac HD Frame Gems Guide (Char Limit 156)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/brother-mfc-l2700dw-software-installation-for-windows-quick-and-simple-steps/"><u>Brother MFC-L2700DW Software Installation for Windows: Quick and Simple Steps</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-download-of-epson-wf-2750-printer-software-and-installation-instructions/"><u>Easy Download of Epson WF-2750 Printer Software & Installation Instructions</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/essential-online-tools-to-refine-your-music-with-superior-mp3-processing-for-2024/"><u>Essential Online Tools to Refine Your Music with Superior MP3 Processing for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exclusive-deal-get-your-hands-on-the-topmost-essential-app-for-all-new-mac-users-now-at-a-steep-discount-featured-by-zdnet/"><u>Exclusive Deal: Get Your Hands on the Topmost Essential App for All New Mac Users - Now at a Steep Discount, Featured by ZDNet!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-efficiency-enhancements-extensive-benchmarking-of-the-amd-ryzen-9-9950x-engineering-sample-with-blender-across-a-spectrum-of-thermal-design-power-36/"><u>Exploring Efficiency Enhancements: Extensive Benchmarking of the AMD Ryzen 9 9950X Engineering Sample with Blender Across a Spectrum of Thermal Design Power Settings</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-aoc-graphics-card-drivers-for-your-windows-operating-system-efficiently/"><u>Get the Latest AOC Graphics Card Drivers for Your Windows Operating System Efficiently</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722967434010-get-your-brother-hl-l2360dw-ready-download-essential-printer-drivers-now/"><u>Get Your Brother HL-L2360DW Ready: Download Essential Printer Drivers Now!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-ensure-proper-operation-updating-usb-serial-controller-hardware-drivers/"><u>How To Ensure Proper Operation: Updating USB-Serial Controller Hardware Drivers</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-elevate-your-content-with-professional-end-screen-templates/"><u>In 2024, Elevate Your Content with Professional End Screen Templates</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-vivo-y100i-by-drfone-android/"><u>In 2024, How to Bypass FRP on Vivo Y100i?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/master-the-process-seamless-graphics-driver-enhancement-for-windows-11-users/"><u>Master the Process: Seamless Graphics Driver Enhancement for Windows 11 Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/speedy-driver-update-tutorial-for-dell-xps-7590-g7/"><u>Speedy Driver Update Tutorial for Dell XPS 7590 (G7)</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/startup-steps-for-stream-money-in-periscope-for-2024/"><u>Startup Steps for Stream Money in Periscope for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/the-art-of-changing-meeting-screens-on-microsoft-teams/"><u>The Art of Changing Meeting Screens on Microsoft Teams</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-breaking-down-different-windows-movie-maker-phases/"><u>[New] 2024 Approved Breaking Down Different Windows Movie Maker Phases</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/levating-your-contents-presence-perfecting-youtube-thumbnails-size-for-2024/"><u>[New] Elevating Your Content's Presence Perfecting YouTube Thumbnails Size for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-enhancing-speed-for-vimeo-playback/"><u>[Updated] Enhancing Speed for Vimeo Playback</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/acer-swift-edge-unveiled-exploring-the-worlds-lightest-4k-oled-notebook-zdnet-insights/"><u>Acer Swift Edge Unveiled: Exploring the World’s Lightest 4K OLED Notebook | ZDNet Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-guide-to-metas-best-prime-day-sale-yet-unbeatable-512gb-quest-3-vr-headset-bargain-in-october-zdnet/"><u>Exclusive Guide to Meta's Best Prime Day Sale Yet: Unbeatable 512GB Quest 3 VR Headset Bargain in October | ZDNet</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/expert-teamblend-strategies-for-clear-conference-shots/"><u>Expert Teamblend Strategies for Clear Conference Shots</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-vivo-y27s-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Vivo Y27s | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-vivo-y200e-5g-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Vivo Y200e 5G online without jailbreak</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/massive-savings-alert-celebrate-best-buys-milestone-with-unbeatable-deals-on-tech-gadgets-including-tablets-and-watches/"><u>Massive Savings Alert: Celebrate Best Buy's Milestone with Unbeatable Deals on Tech Gadgets Including Tablets & Watches</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maximize-your-vr-experience-with-metas-limited-offer-on-the-512gb-oculus-quest-3-the-superior-choice-for-immersive-gaming/"><u>Maximize Your VR Experience with Meta's Limited Offer on the 512GB Oculus Quest 3 – The Superior Choice for Immersive Gaming</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-honor-x7b-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Honor X7b Android SIM Unlock APK</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-macintosh-models-unveiled-2024s-ultimate-lineup/"><u>Top-Rated Macintosh Models Unveiled: 2024'S Ultimate Lineup</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-hp-victus-15-laptop-deal-only-530-with-best-buy-on-prime-day-in-depth-insights-from-zdnet/"><u>Unbeatable HP Victus 15 Laptop Deal: Only $530 with Best Buy on Prime Day - In-Depth Insights From ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unfolding-the-magic-discover-the-amazing-origami-laptop-sleeve-the-ultimate-travel-companion-zdnet-review/"><u>Unfolding the Magic: Discover the Amazing Origami Laptop Sleeve - The Ultimate Travel Companion [ZDNet Review]</u></a></li>
 </ul></div>
 

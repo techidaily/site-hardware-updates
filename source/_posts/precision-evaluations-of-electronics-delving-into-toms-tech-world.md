@@ -1,7 +1,7 @@
 ---
 title: Precision Evaluations of Electronics - Delving Into Tom's Tech World
-date: 2024-08-19T04:21:33.676Z
-updated: 2024-08-20T04:21:33.676Z
+date: 2025-02-01T06:43:14.366Z
+updated: 2025-02-03T07:50:48.124Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +62,26 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-boost-creativity-with-free-audio-effects-online/"><u>[Updated] In 2024, Boost Creativity with Free Audio Effects Online</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-selecting-the-best-equipment-for-expeditions/"><u>2024 Approved Selecting the Best Equipment for Expeditions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/2024s-elite-selection-of-gaming-pcs-reviewed-unveiling-the-pros-and-cons-of-brands-like-razer-acer-msi-with-expert-analysis-at-zdnet/"><u>2024'S Elite Selection of Gaming PCs Reviewed: Unveiling the Pros and Cons of Brands Like Razer, Acer, MSI with Expert Analysis at ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/a-week-with-the-split-ergonomic-keyboard-how-it-transformed-my-tech-habits-zdnet/"><u>A Week with the Split Ergonomic Keyboard: How It Transformed My Tech Habits | ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/astonishing-save-get-hp-victus-15-at-an-unbeatable-price-of-515-during-best-buys-prime-day-sale-featured/"><u>Astonishing Save! Get HP Victus 15 at an Unbeatable Price of $515 During Best Buy's Prime Day Sale - Featured</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-budget-laptop-picks-under-1k-in-depth-expert-analysis-by-zdnet/"><u>Best Budget Laptop Picks (Under $1K) - In-Depth Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://facebook.techidaily.com/beyond-social-media-the-rise-and-reality-of-facebooks-metaverse/"><u>Beyond Social Media: The Rise and Reality of Facebook’s Metaverse</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/crafting-the-perfect-gamers-paradise-insider-secrets-for-an-unbeatable-setup/"><u>Crafting The Perfect Gamer's Paradise: Insider Secrets for an Unbeatable Setup</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-top-benefits-how-chromebooks-outshine-traditional-laptops-for-everyone-techexplorers/"><u>Discover the Top Benefits: How Chromebooks Outshine Traditional Laptops for Everyone | TechExplorers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/excellent-apps-to-record-in-high-definition-for-2024/"><u>Excellent Apps to Record in High Definition for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/filmmakers-checklist-on-the-go-gear-guide/"><u>Filmmaker's Checklist On-the-Go Gear Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-mastering-screen-recordings-on-windows-10-systems/"><u>In 2024, Mastering Screen Recordings on Windows 10 Systems</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ohne-qualitatseinbusse-drehen-sie-ihre-mp4-filme-um-die-winkel-90180270-grad/"><u>Ohne Qualitätseinbuße Drehen Sie Ihre MP4-Filme Um Die Winkel 90/180/270 Grad</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/overcoming-screen-stains-effective-methods-to-fix-permanent-image-problems-on-screens/"><u>Overcoming Screen Stains: Effective Methods to Fix Permanent Image Problems on Screens</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/providing-exceptional-customer-service-across-all-channels-including-online-support-in-person-interactions-and-post-purchase-follow-ups/"><u>Providing Exceptional Customer Service Across All Channels, Including Online Support, In-Person Interactions, and Post-Purchase Follow-Ups.</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/streamlining-business-with-azure-speech-services/"><u>Streamlining Business with Azure Speech Services</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-10-update-issues-a-comprehensive-guide/"><u>Troubleshooting Windows 10 Update Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-deal-get-the-asus-gaming-laptop-under-500-from-best-buy-top-tips-on-how-to-save-more/"><u>Unbeatable Deal: Get the ASUS Gaming Laptop Under $500 From Best Buy - Top Tips on How to Save More!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unleashing-the-power-of-high-end-pcs-my-experience-with-dells-3000-beast-insights-for-gamers/"><u>Unleashing the Power of High-End PCs: My Experience with Dell's $3,000 Beast - Insights for Gamers</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "Best Non-iPad and Non-ThinkPad Choice for Business Travelers: Top Picks by ZDNet"
-date: 2025-01-26T19:56:25.641Z
-updated: 2025-02-01T19:18:29.860Z
+date: 2025-01-27T22:52:43.439Z
+updated: 2025-02-03T06:56:29.234Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Ed Bott/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -83,7 +83,7 @@ Cesar Cadenas/ZDNET
 And for one of the best qualities of this laptop: battery life is absolutely phenomenal. I [performed our usual test](https://www.zdnet.com/article/how-we-test-laptops/) of running a YouTube livestream at 720p and 50% brightness. At its peak, the Surface Pro lasted just under 13 hours on a single charge. That's just shy of Microsoft's purported 14-hour battery life. In practical usage, this is a device that will easily last multiple days on a single charge. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -122,21 +122,15 @@ Prices for the device start at $999.99\. My review unit with the 12-core Snapdra
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-console-chronos-review/"><u>[New] 2024 Approved Console Chronos Review</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-the-essential-guide-to-html5s-most-acclaimed-tools/"><u>[New] 2024 Approved The Essential Guide to HTML5's Most Acclaimed Tools</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-blu-ray-innovation-top-10-pioneers-of-24-for-2024/"><u>[New] Blu-Ray Innovation Top 10 Pioneers of '24 for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-enhancing-your-snapchat-experience-mobile-recordings/"><u>[Updated] Enhancing Your Snapchat Experience Mobile Recordings</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/behind-glasses-and-screens-vrs-evolutionary-tale/"><u>Behind Glasses and Screens VR’s Evolutionary Tale</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-update-amd-ryzen-drivers-safely-simple-guide/"><u>Download and Update AMD Ryzen Drivers Safely - Simple Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-does-android-system-intelligence-work-exploring-advanced-tech-features/"><u>How Does Android System Intelligence Work? Exploring Advanced Tech Features</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-successfully-install-the-canon-pro-100-drivers-for-windows-no-hassle/"><u>How to Successfully Install the Canon PRO 100 Drivers for Windows - No Hassle!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/intels-breakthrough-innovation-meet-the-new-generation-of-granite-rapids-chips-boasting-a-staggering-128-cores-and-an-impressive-500w-tdp-rating/"><u>Intel's Breakthrough Innovation: Meet the New Generation of Granite Rapids Chips, Boasting a Staggering 128 Cores and an Impressive #500W TDP Rating</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/locating-intels-device-drivers-update-tool/"><u>Locating Intel's Device Drivers Update Tool</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/no-more-disruptions-overcoming-battlefront-ii-freezing-issues-on-windows-machines/"><u>No More Disruptions: Overcoming Battlefront II Freezing Issues on Windows Machines</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723262295089-reaching-new-heights-pushing-an-amd-ryzen-7-9700x-up-to-a-stunning-58ghz-with-advanced-aio-liquid-cooling-plus-a-surprising-peak-at-6ghz-idle/"><u>Reaching New Heights: Pushing an AMD Ryzen #7 9700X Up to a Stunning 5.8GHz with Advanced AIO Liquid Cooling, Plus a Surprising Peak at 6GHz Idle</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-straightforward-way-to-upgrade-your-amd-graphic-driver-software/"><u>The Straightforward Way to Upgrade Your AMD Graphic Driver Software</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-the-wmvcoredll-missing-error-on-your-computer/"><u>Troubleshooting the Wmvcore.dll Missing Error on Your Computer</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722969965183-update-or-fresh-install-audio-drivers-for-windows-7-directly-here/"><u>Update or Fresh-Install Audio Drivers for Windows 7 Directly Here!</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-the-ultimate-video-upgrade-with-enhancer-22/"><u>[New] 2024 Approved The Ultimate Video Upgrade with Enhancer 2.2</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-gamings-finest-bike-battles-compiled/"><u>[New] Gaming's Finest Bike Battles Compiled</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-6-effortless-steps-to-add-social-media-live-content-online/"><u>[New] In 2024, 6 Effortless Steps to Add Social Media Live Content Online</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-effortless-snapchat-setup-for-mac-enthusiasts/"><u>[Updated] 2024 Approved Effortless Snapchat Setup for Mac Enthusiasts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-selection-the-ultimate-guide-to-the-best-laptop-stands/"><u>Expert Selection: The Ultimate Guide to the Best Laptop Stands</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/from-capture-to-share-a-quick-guide-to-instagram-video-uploads-on-desktop-for-2024/"><u>From Capture to Share A Quick Guide to Instagram Video Uploads on Desktop for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/google-enhances-chromebooks-with-top-notch-ai-capabilities-phasing-out-copilot-explore-the-new-features/"><u>Google Enhances Chromebooks with Top-Notch AI Capabilities, Phasing Out Copilot - Explore the New Features</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-motorola-moto-e13-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Motorola Moto E13 Phone Screen?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-restore-your-microsoft-windows-pro-license-post-reset-step-by-step-tutorial-by-zdnets-pc-experts/"><u>How to Restore Your Microsoft Windows Pro License Post-Reset | Step-by-Step Tutorial by ZDNet's PC Experts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-tier-screen-quality-meets-wallet-friendly-price-in-our-latest-pick-for-best-value-laptops-insights-s-tech-team/"><u>Top-Tier Screen Quality Meets Wallet-Friendly Price in Our Latest Pick for Best Value Laptops - Insights 'S Tech Team</u></a></li>
 </ul></div>
 

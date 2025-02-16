@@ -1,7 +1,7 @@
 ---
 title: The Ultimate List of Exclusive Black Friday-Like Discounts on Video Games for Oct '24 - AZNET Guide
-date: 2025-01-19T18:51:46.605Z
-updated: 2025-01-24T17:05:36.040Z
+date: 2025-01-27T05:59:20.078Z
+updated: 2025-02-02T16:52:38.067Z
 tags:
   - laptops
 categories:
@@ -23,7 +23,7 @@ If you're shopping for a great deal on tech for this holiday season, ZDNET is tr
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Dell holiday deals
@@ -35,10 +35,6 @@ If you're shopping for a great deal on tech for this holiday season, ZDNET is tr
 * [Dell 14-inch portable monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-Dual-Screen-Productivity-Switching-Connectivity%2Fdp%2FB0C8LM4ZZD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C2eb0ed0a-1482-4b7e-ad6d-938aa7fb75d0%7Cdtp&dtb=1) for $274 (save $91)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## More Dell holiday deals
 
@@ -97,6 +93,10 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C6FJGWK9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C2eb0ed0a-1482-4b7e-ad6d-938aa7fb75d0%7Cdtp&dtb=1) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best Dell laptop holiday deals
 
 * [Dell G15 gaming laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-G15-5535-Gaming-Laptop%2Fdp%2FB0CJGBMD42%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C2eb0ed0a-1482-4b7e-ad6d-938aa7fb75d0%7Cdtp&dtb=1): $1,000 (save $150)
@@ -106,7 +106,7 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell XPS 13 9310 13.4-inch touch laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-XPS-9310-Laptop-Touchscreen%2Fdp%2FB09PR52BHK%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C2eb0ed0a-1482-4b7e-ad6d-938aa7fb75d0%7Cdtp&dtb=1) for $1,071 (save $429)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Dell desktop holiday deals
@@ -119,7 +119,7 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell OptiPlex 3000 Desktop](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fdell-optiplex-3000-student-home-office%252Fp%252F1VK-0001-6EUX9) for $1,200 (save $440)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Dell monitor holiday deals
@@ -128,15 +128,15 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell SE2422HX 24-inch monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-inch-Monitor-1920-1080%2Fdp%2FB096MXR34N%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C2eb0ed0a-1482-4b7e-ad6d-938aa7fb75d0%7Cdtp&dtb=1): $100 (save $30)
 * [Dell 27-inch 4K FreeSync monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-S2721QS-Ultra-Thin-DisplayPort-Certified%2Fdp%2FB08DQWG3JG%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C2eb0ed0a-1482-4b7e-ad6d-938aa7fb75d0%7Cdtp&dtb=1) for $297 (save $33)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How did we choose these holiday deals?
 
 ZDNET only writes about deals we want to buy -- devices and products we desire, need, or would recommend. Our experts looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the best holiday deals?
 
@@ -210,22 +210,19 @@ Here are the top deals by category we've found so far:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-how-can-i-view-friends-shared-vids-and-photos/"><u>[New] In 2024, How Can I View Friend’s Shared Vids and Photos?</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-the-beginners-blueprint-achieving-superior-image-clarity-in-videos/"><u>[New] The Beginner’s Blueprint Achieving Superior Image Clarity in Videos</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-techniques-for-smooth-audio-transitions/"><u>[Updated] In 2024, Techniques for Smooth Audio Transitions</u></a></li>
-<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Nubia Z50 Ultra | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-installation-of-latest-hid-keyboard-drivers-free-downloads-available/"><u>Effortless Installation of Latest HID Keyboard Drivers - Free Downloads Available!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/enhance-your-gameplay-update-acer-predator-helios-300-graphics-drivers/"><u>Enhance Your Gameplay: Update Acer Predator Helios 300 Graphics Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/find-and-install-new-canon-mg2900-printer-drivers-with-this-comprehensive-tutorial/"><u>Find and Install New Canon MG2900 Printer Drivers with This Comprehensive Tutorial</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-fix-microsoft-xbox-accessory-drivers-in-windows-10-8-and-7/"><u>How to Fix Microsoft Xbox Accessory Drivers in Windows 10, 8 & 7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-install-the-latest-drivers-for-universal-serial-bus-usb-human-interface-devices/"><u>How to Install the Latest Drivers for Universal Serial Bus (USB) Human Interface Devices</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Samsung Galaxy F54 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-reddit-a-step-by-step-guide-for-effective-posts/"><u>In 2024, Mastering Reddit A Step-By-Step Guide for Effective Posts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/instantly-upgrade-sound-performance-free-gigabyte-audio-drivers-available-today/"><u>Instantly Upgrade Sound Performance: Free Gigabyte Audio Drivers Available Today</u></a></li>
-<li><a href="https://win11.techidaily.com/mending-amd-software-failures-on-your-computer/"><u>Mending AMD Software Failures on Your Computer</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-steps-for-a-fresh-install-of-asus-maximus-x-hero-gpu-drivers/"><u>Quick Steps for a Fresh Install of ASUS Maximus X Hero GPU Drivers</u></a></li>
-<li><a href="https://win-unique.techidaily.com/retrieving-accidentally-removed-files-in-windows-essential-steps-with-expert-advice-from-yl-software/"><u>Retrieving Accidentally Removed Files in Windows: Essential Steps with Expert Advice From YL Software</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/seamless-installation-wacom-intuos-pro-driver-compatible-with-windows-10/"><u>Seamless Installation: Wacom Intuos Pro Driver Compatible with Windows 10</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-controlling-your-google-home-devices-from-a-pc/"><u>Step-by-Step Guide: Controlling Your Google Home Devices From a PC</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-snapchat-to-device-the-step-by-step-process-explained/"><u>[New] 2024 Approved Snapchat to Device - The Step by Step Process Explained</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-perfect-360-rotation-visual-exploration/"><u>[New] Perfect 360° Rotation Visual Exploration</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-top-10-collage-apps-for-android-top-picks/"><u>[New] Top 10 Collage Apps for Android (Top Picks)</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-conquer-copious-drafts-with-clever-edits-on-tiktok/"><u>[Updated] In 2024, Conquer Copious Drafts with Clever Edits on TikTok</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/desbloquea-tu-dvd-regional-transforma-un-disco-de-region-locked-en-region-free-con-windows-10-8-o-7/"><u>Desbloquea Tu DVD Regional: Transforma Un Disco De Region Locked en Región-Free Con Windows 10, 8 O 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-all-there-is-to-know-about-the-revolutionary-apple-m2-processor-detailed-analysis-by-zdnet/"><u>Discover All There Is To Know About The Revolutionary Apple M2 Processor - Detailed Analysis by ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/introducing-microsofts-latest-innovations-the-surface-pro-10-and-laptop-e6-enhanced-with-advanced-ai-capabilities-discover-the-updates/"><u>Introducing Microsoft's Latest Innovations: The Surface Pro 10 & Laptop E6 Enhanced with Advanced AI Capabilities - Discover the Updates!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/secure-an-unbeatable-bargain-on-anker-portable-power-bank-save-big-at-a-discount-of-30-act-fast/"><u>Secure an Unbeatable Bargain on Anker Portable Power Bank, Save Big at a Discount of $30 - Act Fast!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/speedy-techniques-for-modifying-macos-keyboard-illumination-intensity-insider-tips/"><u>Speedy Techniques for Modifying macOS Keyboard Illumination Intensity – Insider Tips</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/strategies-to-extend-gopro-battery-hours-for-2024/"><u>Strategies to Extend GoPro Battery Hours for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211445314--the-little-book-of-breathing/"><u>The Little Book of Breathing | Free Book</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-m2-upgrade-in-macbook-air-a-teardrop-worthy-experience-revealed/"><u>The M2 Upgrade in MacBook Air: A Teardrop-Worthy Experience, Revealed .</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-google-pixel-7a-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Google Pixel 7a Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Apple iPhone 14 Plus | Dr.fone</u></a></li>
 </ul></div>
 

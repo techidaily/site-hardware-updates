@@ -1,7 +1,7 @@
 ---
 title: Gigabyte B650 Aorus Elite AX Motherboard Insights - An Icy Affair at a Premium with Superb USB Connectivity
-date: 2024-08-19T04:22:21.213Z
-updated: 2024-08-20T04:22:21.213Z
+date: 2025-02-01T01:19:39.490Z
+updated: 2025-02-03T06:08:56.799Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +62,22 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-choosing-between-bandicam-and-camtasia/"><u>[New] In 2024, Choosing Between Bandicam & Camtasia</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-elevate-video-creation-with-windows-xp-edition/"><u>[Updated] In 2024, Elevate Video Creation with Windows XP Edition</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/your-names-game-changing-discovery-the-hp-copilotplus-laptop-and-its-impact-on-efficient-remote-working/"><u>[Your Name]'s Game-Changing Discovery: The HP Copilot+ Laptop and Its Impact on Efficient Remote Working</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-prime-examples-14-dynamic-text-animations/"><u>2024 Approved Prime Examples 14 Dynamic Text Animations</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/building-your-perfect-gamers-paradise-a-complete-guide-with-tips/"><u>Building Your Perfect Gamer's Paradise: A Complete Guide with Tips</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/683361-9781429992459-creativity/"><u>Creativity | Free Book</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-updated-drivers-for-your-hp-p3015-laserjet-printer-on-windows-devices/"><u>Install Updated Drivers for Your HP P3015 LaserJet Printer on Windows Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/is-the-lenovo-yoga-book-9i-successful-in-popularizing-dual-screen-laptops-an-in-depth-review-by-zdnet/"><u>Is the Lenovo Yoga Book 9I Successful in Popularizing Dual-Screen Laptops? An In-Depth Review by ZDNet</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-mp4-video-tag-management-made-easy-best-editors-for-windows-and-mac-for-2024/"><u>New MP4 Video Tag Management Made Easy Best Editors for Windows and Mac for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/oct-24-game-deals-alert-prime-day-savings-still-going-strong-cut-costs-by-1000plus/"><u>Oct '24 Game Deals Alert: Prime Day Savings Still Going Strong – Cut Costs by $1,000+</u></a></li>
+<li><a href="https://article-helps.techidaily.com/picart-strategies-for-stunning-image-purification-for-2024/"><u>PicArt Strategies for Stunning Image Purification for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-unstick-your-discord-stream-for-smooth-viewing/"><u>Troubleshooting Guide: Unstick Your Discord Stream for Smooth Viewing</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/zdnet-evaluates-dells-high-end-3000-gamer-laptop-with-cutting-edge-surprises/"><u>ZDNet Evaluates Dell's High-End $3,000 Gamer Laptop with Cutting-Edge Surprises!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/zdnet-shows-off-the-perfect-blend-of-high-end-screen-and-affordability-in-new-slender-laptop-model/"><u>ZDNet Shows Off the Perfect Blend of High-End Screen and Affordability in New Slender Laptop Model</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

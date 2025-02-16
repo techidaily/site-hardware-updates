@@ -1,7 +1,7 @@
 ---
 title: New Arrow Lake M/B Range From ASROCK Hits Shelves - The Upgraded Taichi Board Redefining Memory Capabilities with CAMM2 Technology
-date: 2024-08-19T04:20:41.238Z
-updated: 2024-08-20T04:20:41.238Z
+date: 2025-01-31T23:27:02.497Z
+updated: 2025-02-02T19:32:24.133Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +62,22 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-experts-guide-to-backward-video-playback-on-snap/"><u>[Updated] Expert's Guide to Backward Video Playback on Snap</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-extensive-investigation-the-future-of-panorama-cams-with-samsung/"><u>[Updated] Extensive Investigation The Future of Panorama Cams with Samsung</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-stealthy-sound-suppression-techniques-for-fade-out/"><u>[Updated] Stealthy Sound Suppression Techniques for Fade-Out</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-tomorrow-today-with-samsungs-revolutionary-8k-television-why-you-might-want-to-blink-twice/"><u>Experience Tomorrow Today with Samsung's Revolutionary 8K Television - Why You Might Want to Blink Twice</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-guide-effective-techniques-for-safely-cleansing-your-flat-panel-display/"><u>Expert Guide: Effective Techniques for Safely Cleansing Your Flat-Panel Display</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-picks-leading-roku-models-for-ultimate-home-entertainment-featured-by-zdnet/"><u>Expert Picks: Leading Roku Models for Ultimate Home Entertainment | Featured by ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experts-rate-top-ranked-qled-tv-now-available-with-stunning-1000-off-for-the-holiday-weekend-zdnet-tech-review/"><u>Experts Rate Top-Ranked QLED TV Now Available with Stunning $1,000 Off for the Holiday Weekend | ZDNET Tech Review</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-the-most-innovative-tvs-unveiled-at-ces-2er-2024-a-review-by-zdnet/"><u>Exploring the Most Innovative TVs Unveiled at CES 2Er 2024 - A Review by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/flagship-features-face-off-selecting-the-superior-screen-with-lg-g4-and-g3-oled-models-tech-comparison-guide/"><u>Flagship Features Face-Off: Selecting the Superior Screen with LG G4 & G3 OLED Models | Tech Comparison Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-the-sony-a8no-tvs-smart-upscaling-technology-delivers-stunning-hd-visuals-for-under-2-grand-cnet-insider/"><u>How the Sony A8nO TV's Smart Upscaling Technology Delivers Stunning HD Visuals for Under 2 Grand | CNET Insider</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-oneplus-ace-3-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track OnePlus Ace 3 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mastering-obs-and-streamlabs-mac-integration/"><u>Mastering OBS & Streamlabs Mac Integration</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-converting-mp4-videos-into-high-efficiency-av1-format/"><u>Step-by-Step Guide: Converting MP4 Videos Into High-Efficiency AV1 Format</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/understanding-dvd-video-quality-are-they-hd-with-480p-720p-or-full-108nf-resolution/"><u>Understanding DVD Video Quality: Are They HD with 480P, 720P, or Full 108Nf Resolution?</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-create-a-stunning-video-resume-4-top-tools-and-free-resources-for-2024/"><u>Updated Create a Stunning Video Resume 4 Top Tools and Free Resources for 2024</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->

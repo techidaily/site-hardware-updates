@@ -1,7 +1,7 @@
 ---
 title: Top 44 Discounts on Seasonal Memory Units & Solid-State Drives - Insights From ZDNet
-date: 2025-01-28T22:52:03.235Z
-updated: 2025-02-01T17:53:42.451Z
+date: 2025-02-01T03:26:01.904Z
+updated: 2025-02-02T22:17:16.140Z
 tags:
   - laptops
 categories:
@@ -28,10 +28,6 @@ Here are some of our favorite Best Buy deals that remain available on the digita
 
 ![galaxy-s24-ultra-2024](https://www.zdnet.com/a/img/resize/01cdf104edbcfc2824d2887471bb859bd9300f88/2024/07/12/02e3a444-211a-4951-92d4-e777f151db7e/galaxy-s24-ultra-2024.jpg?auto=webp&width=1280)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Amazon/ZDNET
 
 * [LG 65-inch Class C4 Series evo 4K for $1,499 (save $1,200)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flg-65-class-c4-series-oled-evo-4k-uhd-smart-webos-tv-2024%2F6578042.p%3FskuId%3D6578042&publisher%5Fslug=zdnet&article%5Fname=top%20best%20buy%20deals%20for%20october%20prime%20day%202024%3A%20still%20available&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fbest-buy-prime-day-deals-2024-10-11%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): The high color accuracy, perfect contrast, and wide viewing angles of this OLED display TV come with a staggering price drop.
@@ -42,7 +38,7 @@ Amazon/ZDNET
 * [Govee Hexa Wall Light Panels for $99 (save $30)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fgovee-hexa-wall-light-panels-7-panels-multi%2F6503425.p%3FskuId%3D6503425&publisher%5Fslug=zdnet&article%5Fname=top%20best%20buy%20deals%20for%20october%20prime%20day%202024%3A%20still%20available&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fbest-buy-prime-day-deals-2024-10-11%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Create a personalized lighting display with inspiration for your gaming room, living room, bedroom, and more.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Buy deals under $30
@@ -58,7 +54,7 @@ Best Buy/ZDNET
 **Also:** [**Best Prime Day deals under $25**](https://www.zdnet.com/article/best-prime-day-deals-under-25-2024-10-07/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Buy laptop deals
@@ -72,6 +68,10 @@ Best Buy/ZDNET
 * [Dell Inspiron 15-inch Touchscreen Laptop for $399 (save $230)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fdell-inspiron-15-touch-screen-laptop-intel-core-i5-8gb-512gb-ssd-carbon-black%2F6573731.p%3FskuId%3D6573731&publisher%5Fslug=zdnet&article%5Fname=top%20best%20buy%20deals%20for%20october%20prime%20day%202024%3A%20still%20available&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fbest-buy-prime-day-deals-2024-10-11%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This laptop comes with 8GB of high-bandwidth RAM to smoothly run your games and photo- and video-editing applications, as well as multiple programs and browser tabs all at once.
 
 **Also:** [**Best Prime Day laptop deals**](https://www.zdnet.com/article/best-early-prime-day-laptop-deals-2024/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best Buy TV deals
 
@@ -89,10 +89,6 @@ Samsung/ZDNET
 
 **Also: [Best Prime Day TV deals](https://www.zdnet.com/home-and-office/home-entertainment/best-prime-day-tv-deals-10-07-2024/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best Buy appliance deals
 
 LG/ZDNET
@@ -108,7 +104,7 @@ LG/ZDNET
 ## FAQs
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Does Best Buy price match Amazon Prime Day deals?
@@ -120,6 +116,10 @@ No. Best Buy's Price Match Guarantee does not apply to discounts that are exclus
 ZDNET only writes about deals we want to buy -- devices and products we desire, need, or would recommend. Our experts looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What are the best October Prime Day 2024 deals?
 
@@ -187,15 +187,21 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-unheard-vocal-verifiers-6-stealthy-smartphone-recordings-for-2024/"><u>[New] Unheard Vocal Verifiers 6 Stealthy Smartphone Recordings for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-examine-groups-collaborative-media-on-messenger/"><u>[Updated] 2024 Approved Examine Group's Collaborative Media on Messenger</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/9-leading-live-gaming-services/"><u>9 Leading Live Gaming Services</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-lava-yuva-3-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Lava Yuva 3</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-installation-of-epson-wf-3540-driver-on-windows-systems-complete-tutorial/"><u>Easy Installation of Epson WF-3540 Driver on Windows Systems - Complete Tutorial</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-downloads-of-realteks-pci-express-feature-device-controllers-for-windows-11/"><u>Free Downloads of Realtek's PCI-Express Feature Device Controllers for Windows 11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-newest-80211n-wi-fi-drivers-compatible-with-win11win10win8win7-free-download/"><u>Get the Newest 802.11N Wi-Fi Drivers Compatible with Win11/Win10/Win8/Win7 - Free Download</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/logitech-g510-driver-setup-files-install-on-windows-7-to-10-os/"><u>Logitech G510 Driver Setup Files - Install on Windows 7 to 10 OS</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/snag-your-hp-victus-15-pre-built-gaming-pc-at-just-530-during-prime-day-savings-top-off-with-a-best-buy-exclusive-deal-detailed-review/"><u>Snag Your HP Victus 15 Pre-Built Gaming PC at Just $530 During Prime Day Savings: Top Off With a Best Buy Exclusive Deal - Detailed Review</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/streamline-your-experience-quick-and-simple-guide-to-downloading-asus-monitor-drivers/"><u>Streamline Your Experience: Quick and Simple Guide to Downloading ASUS Monitor Drivers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-stabilization-of-video-on-personal-tech-devices/"><u>[New] Mastering Stabilization of Video on Personal Tech Devices</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-the-ultimate-guide-to-earning-on-tiktok-step-by-step-8-methods/"><u>[Updated] 2024 Approved The Ultimate Guide to Earning on TikTok, Step by Step (8 Methods)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-quick-and-easy-comedy-unraveling-ifunnys-meme-magic/"><u>[Updated] Quick & Easy Comedy Unraveling iFunny's Meme Magic</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-safe-video-extraction-from-youtube-tips-on-downloading-to-mp4/"><u>[Updated] Safe Video Extraction From YouTube - Tips on Downloading to MP4</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ai-integration-in-apple-macbooks-unveiling-the-new-m4-chips-and-their-release-timeline/"><u>AI Integration in Apple MacBooks: Unveiling the New M4 Chips and Their Release Timeline</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/durable-and-upgradable-chromebook-evaluation-discovering-the-ultimate-fixer-upper-model/"><u>Durable and Upgradable Chromebook Evaluation: Discovering the Ultimate Fixer-Upper Model</u></a></li>
+<li><a href="https://win-forum.techidaily.com/efficiently-creating-and-handling-windows-11-passkeys-an-in-depth-tutorial/"><u>Efficiently Creating & Handling Windows 11 Passkeys: An In-Depth Tutorial</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/honor-bypass-tools-to-bypass-lock-screen-honor-magic-6-lite-by-drfone-android-unlock-android-unlock/"><u>Honor Bypass Tools to Bypass Lock Screen(Honor Magic 6 Lite)</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-realme-c33-2023-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Realme C33 2023 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-streaming-platforms-face-off-choosing-between-vimeo-youtube-dailymotion/"><u>In 2024, Streaming Platforms Face-Off Choosing Between Vimeo, YouTube, DailyMotion</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/new-apple-unveils-m3-chip-powered-macbook-air-explore-the-upgrades-in-the-latest-13-and-15-models-insights/"><u>New Apple Unveils M3 Chip Powered MacBook Air: Explore the Upgrades in the Latest 13 & 15 Models - Insights !</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/score-the-ultimate-bargain-grab-an-8tb-samsung-t5-at-a-steep-36-reduction-after-prime-day-as-revealed-by-zdnet/"><u>Score the Ultimate Bargain! Grab an 8TB Samsung T5 at a Steep 36% Reduction After Prime Day, as Revealed by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/tiny-tech-marvels-discover-the-remarkable-capabilities-of-this-compact-8-in-1-adapter-beyond-its-affordable-price-tag-zdnet-review/"><u>Tiny Tech Marvels: Discover the Remarkable Capabilities of This Compact 8-in-1 Adapter Beyond Its Affordable Price Tag | ZDNET Review</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-tested-ultraportable-laptop-with-extended-battery-performance-discover-why-it-stands-out/"><u>Top Tested Ultraportable Laptop with Extended Battery Performance: Discover Why It Stands Out</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-the-finest-touchscreen-laptops-comprehensive-evaluations-by-specialists/"><u>Ultimate Guide to the Finest Touchscreen LAPTOPS: Comprehensive Evaluations by Specialists</u></a></li>
 </ul></div>
 

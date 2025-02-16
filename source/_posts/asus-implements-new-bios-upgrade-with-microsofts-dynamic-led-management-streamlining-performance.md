@@ -1,7 +1,7 @@
 ---
 title: Asus Implements New BIOS Upgrade with Microsoft's Dynamic LED Management, Streamlining Performance
-date: 2024-08-19T04:22:14.850Z
-updated: 2024-08-20T04:22:14.850Z
+date: 2025-01-26T16:20:44.277Z
+updated: 2025-02-03T05:47:19.156Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +62,24 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/new-beginners-tutorial-composing-youtube-video-content/"><u>[New] Beginner's Tutorial Composing YouTube Video Content</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-unlocking-fbx-filming-in-games/"><u>[New] In 2024, Unlocking FBX Filming in Games</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-step-by-step-guide-to-stunning-instagram-videos-for-2024/"><u>[New] Step-by-Step Guide to Stunning Instagram Videos for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-flash-flick-narrative-template/"><u>[Updated] 2024 Approved Flash Flick Narrative Template</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-major-6-social-media-venues-optimized-for-company-growth/"><u>[Updated] 2024 Approved Major 6 Social Media Venues Optimized for Company Growth</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-mental-wellness-through-virtual-environments/"><u>[Updated] In 2024, Mental Wellness Through Virtual Environments</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-jailbreak-comedy-hour-best-fb-moments-of-amusement-and-awe/"><u>[Updated] Jailbreak Comedy Hour Best FB Moments of Amusement and Awe</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-optimizing-youtube-view-duration-three-steps-52-chars/"><u>[Updated] Optimizing YouTube View Duration - Three Steps (52 Chars)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-reel-it-in-top-5-action-cameras-for-anglers/"><u>[Updated] Reel It In Top 5 Action Cameras for Anglers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/250-asus-15/"><u>$250 ASUS 15</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-of-copilot-enabled-pcs-unveiled-at-ifa-2024-featuring-a-gaming-powerhouse/"><u>Best of Copilot-Enabled PCs Unveiled at IFA 2024, Featuring a Gaming Powerhouse</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/crafting-the-perfect-gamers-paradise-expert-advice-for-an-unbeatable-setup-curated/"><u>Crafting the Perfect Gamer's Paradise: Expert Advice for an Unbeatable Setup, Curated</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expertly-selected-ultimate-guide-to-the-finest-touchscreen-notebooks-in-depth-analysis-and-ratings-zdnet/"><u>Expertly Selected Ultimate Guide to the Finest Touchscreen Notebooks: In-Depth Analysis & Ratings | ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-reveals-compact-aio-desktop-surprising-twists-beyond-at-tech-conference-zdnet/"><u>HP Reveals Compact AIO Desktop: Surprising Twists Beyond at Tech Conference | ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-mini-yet-powerful-chromebook-experience-insights-from-a-comprehensive-zdnet-evaluation/"><u>The Mini, Yet Powerful Chromebook Experience - Insights From a Comprehensive ZDNet Evaluation</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-choosing-a-graphics-designers-laptop-expert-opinions-testing-and-ratings/"><u>Ultimate Guide to Choosing a Graphics Designer's Laptop: Expert Opinions, Testing, and Ratings</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-dealing-with-mac-overheating-and-persistent-cooling-fan-noise-zdnet/"><u>Ultimate Guide: Dealing with Mac Overheating & Persistent Cooling Fan Noise | ZDNet</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

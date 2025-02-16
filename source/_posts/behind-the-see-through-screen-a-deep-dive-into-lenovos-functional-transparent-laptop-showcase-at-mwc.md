@@ -1,7 +1,7 @@
 ---
 title: "Behind the See-Through Screen: A Deep Dive Into Lenovo's Functional Transparent Laptop Showcase at MWC"
-date: 2025-01-18T19:06:57.209Z
-updated: 2025-01-24T19:04:50.728Z
+date: 2025-01-30T04:05:21.328Z
+updated: 2025-02-02T23:14:33.862Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -67,7 +67,7 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -106,22 +106,17 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-clearer-streams-youtube-video-borderless-adjustment/"><u>[New] 2024 Approved Clearer Streams YouTube Video Borderless Adjustment</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-time-honored-treasures-free-of-restrictions/"><u>[New] 2024 Approved Time-Honored Treasures, Free of Restrictions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/access-new-firmware-and-drivers-for-the-epson-xp-310-with-this-tutorial/"><u>Access New Firmware and Drivers for the Epson XP-310 with This Tutorial</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-killer-e2500-drivers-for-high-speed-internet-connection/"><u>Download Killer E2500 Drivers for High-Speed Internet Connection</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/exploracion-detallada-sobre-el-corazon-desde-el-estomago-a-los-pulmones-en-espanol/"><u>Exploración Detallada Sobre El Corazón: Desde El Estómago A Los Pulmones En Español</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/fixing-network-adaptor-glitches-in-windows-7-a-comprehensive-guide/"><u>Fixing Network Adaptor Glitches in Windows 7: A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hassle-free-installation-of-updated-dell-monitor-drivers-from-home/"><u>Hassle-Free Installation of Updated Dell Monitor Drivers From Home</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-samsung-galaxy-a54-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Samsung Galaxy A54 5G to New Phone | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-harness-the-full-potential-of-video-tags-in-youtube/"><u>In 2024, Harness the Full Potential of Video Tags in YouTube</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722975420790-instant-setup-microsoft-wireless-mouse-5000-download-and-install-drivers-today/"><u>Instant Setup: Microsoft Wireless Mouse 5000 – Download & Install Drivers Today!</u></a></li>
-<li><a href="https://fox-access.techidaily.com/morphvox-mastery-a-complete-voice-modification-companion-for-2024/"><u>MorphVOX Mastery A Complete Voice Modification Companion for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/nvidia-graphics-driver-update-supports-windows-11-7-and-newest-release/"><u>Nvidia Graphics Driver Update - Supports Windows 11, 7, and ^Newest ^Release</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/premium-zero-price-point-live-capture-app-for-2024/"><u>Premium Zero-Price Point Live Capture App for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-realme-gt-3-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Realme GT 3</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/revolutionizing-image-post-processing-advanced-use-of-3d-luts-in-ps-for-2024/"><u>Revolutionizing Image Post-Processing Advanced Use of 3D LUTs in PS for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722975257076-up-to-date-hp-scanjet-printer-drivers-download-and-install-on-your-windows-pc/"><u>Up-to-Date HP Scanjet Printer Drivers - Download and Install on Your Windows PC!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/updated-drives-for-enhanced-performance-how-to-update-or-reinstall-hp-laptop-drivers-on-windows-machines/"><u>Updated Drives for Enhanced Performance: How to Update or Reinstall HP Laptop Drivers on Windows Machines</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-leap-into-virtual-gatherings-xbox-zoom-mastery/"><u>[New] 2024 Approved Leap Into Virtual Gatherings Xbox Zoom Mastery</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-live-streaming-on-tiktokmusically/"><u>[New] 2024 Approved Live Streaming on TikTok/Musical.ly</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-zoom-on-a-chromebook-key-techniques/"><u>[New] Mastering Zoom on a Chromebook Key Techniques</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-whats-next-for-apple-in-october-spotlight-on-upcoming-m4-mac-mini-enhanced-ipad-lineup-and-ai-advancements-zdnet-insights/"><u>Exploring What's Next for Apple in October: Spotlight on Upcoming M4 Mac Mini, Enhanced iPad Lineup, and AI Advancements | ZDNET Insights</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-xiaomi-redmi-note-12-4g-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Xiaomi Redmi Note 12 4G Device</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/limited-time-offer-exclusive-laptop-bargains-for-the-summer-of-2eighteen-pcmagazine/"><u>Limited Time Offer: Exclusive Laptop Bargains for the Summer of 2Eighteen | PCMagazine</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/stay-cool-online-shopping-alert-score-amazing-discounts-on-laptop-fans-this-cyber-monday-2022-deals-to-keep-your-pc-frosty-gizmodo/"><u>Stay Cool Online Shopping Alert! Score Amazing Discounts on Laptop Fans This Cyber Monday, 2022 Deals to Keep Your PC Frosty | Gizmodo</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-prime-day-discounts-on-computers-best-laptops-of-2024s-october-sale-featured/"><u>Top Prime Day Discounts on Computers: Best Laptops of 2024'S October Sale Featured</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-tech-alert-score-an-affordable-15-asus-laptop-with-comprehensive-ports-from-walmart-for-a-steal-at-250-revealed/"><u>Top Tech Alert: Score an Affordable 15 Asus Laptop With Comprehensive Ports From Walmart for a Steal at $250, Revealed !</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-travel-devices-of-2024-expert-picks/"><u>Top-Rated Travel Devices of 2024: Expert Picks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-resolve-your-counter-strike-2-audio-problems-today/"><u>Troubleshoot and Resolve Your Counter-Strike 2 Audio Problems Today!</u></a></li>
 </ul></div>
 

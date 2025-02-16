@@ -1,7 +1,7 @@
 ---
 title: "US Launch: Affordable Longsheng (Loongson) CPU-Based Motherboards & Systems Starting at Just $373 - Get the Ultimate Value Deal!"
-date: 2024-08-19T04:21:04.185Z
-updated: 2024-08-20T04:21:04.185Z
+date: 2025-01-27T08:23:21.950Z
+updated: 2025-02-02T17:35:42.643Z
 tags:
   - motherboards
 categories:
@@ -47,6 +47,10 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
 
  The fact is, Loongson has developed its own CPU just a few generations behind Intel and AMD. Considering the Chinese firm has to work around U.S. sanctions and claims to insist on doing everything based on its own IP, the performance could actually be considered impressive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -63,8 +67,6 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -72,8 +74,24 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-acclaimed-websites-for-google-pixel-tonal-sounds-for-2024/"><u>[New] Acclaimed Websites for Google Pixel Tonal Sounds for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-picsart-mastery-in-depth-look-at-the-2024-version/"><u>[New] PicsArt Mastery In-Depth Look at the 2024 Version</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-top-picks-scrutinizing-active-and-leading-recorders-feats/"><u>[Updated] In 2024, Top Picks Scrutinizing Active and Leading Recorder's Feats</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-finest-sustainable-mobile-devices-of-2024-our-expert-picks-zdnet-insights/"><u>Discover the Finest Sustainable Mobile Devices of 2024: Our Expert Picks | ZDNet Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-ultimate-work-travel-tablet-a-leading-contender-beyond-microsoft-and-lenovo-revealed-in-our-in-depth-analysis-zdnet-tech-news/"><u>Discover the Ultimate Work Travel Tablet: A Leading Contender Beyond Microsoft and Lenovo Revealed in Our In-Depth Analysis | ZDNet Tech News</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-elite-9-directors-cuts-downloader/"><u>In 2024, Elite 9 Directors' Cuts Downloader</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/in-depth-analysis-of-the-sturdy-panasonic-toughbook-g2-notebook-customizable-compact-laptop-reviewed-by-zdnet/"><u>In-Depth Analysis of the Sturdy Panasonic Toughbook G2 Notebook | Customizable, Compact Laptop Reviewed by ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/introducing-the-all-in-one-100-ar-display-laptop-no-external-screen-required-shop-now-at-zdnet/"><u>Introducing the All-in-One 100 AR Display Laptop - No External Screen Required | Shop Now at ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-ubuntu-2404-enhancements-with-expert-tips-from-zdnets-guide/"><u>Mastering Ubuntu 24.04 Enhancements with Expert Tips From ZDNet's Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/revealing-the-years-most-exceptional-dual-function-laptop-office-enthusiasts-will-adore-its-concealed-advantage/"><u>Revealing the Year's Most Exceptional Dual-Function Laptop: Office Enthusiasts Will Adore Its Concealed Advantage!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/seamless-collaboration-in-apple-pages-files-through-icloud-tips-and-tricks-from-a-tech-expert-at-zdnet/"><u>Seamless Collaboration in Apple Pages Files Through iCloud – Tips and Tricks From a Tech Expert at ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/snag-the-best-ultimate-cyber-monday-deals-on-high-performance-laptops-(1000-at-dell-costco-and-amazon-recommendations-by-zdnet/"><u>Snag the Best: Ultimate Cyber Monday Deals on High-Performance Laptops <$1000 at Dell, Costco & Amazon | Recommendations by ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-5-crucial-aspects-for-buying-used-laptops-confidently/"><u>The Ultimate Guide: 5 Crucial Aspects for Buying Used Laptops Confidently</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-apple-savings-and-offers-in-july-2024-iphone-discounts-apple-watch-bargains-affordable-ipad-deals-find-them-all-on-zdnet/"><u>Top Apple Savings & Offers in July 2024: IPhone Discounts, Apple Watch Bargains, Affordable iPad Deals – Find Them All on ZDNet!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unleashing-the-power-of-high-end-pcs-my-experience-with-dells-3000-beast-insights-for-gamers-zdnet/"><u>Unleashing the Power of High-End PCs: My Experience with Dell's $3,000 Beast - Insights for Gamers | ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-lenovos-latest-innovation-the-enhanced-2-in-1-thinkpad-with-key-upgrades-for-professionals-detailed-review/"><u>Unveiling Lenovo's Latest Innovation: The Enhanced 2-in-1 ThinkPad with Key Upgrades for Professionals - Detailed Review</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/utilizing-gpt-recognition-for-authenticity-verification/"><u>Utilizing GPT Recognition for Authenticity Verification</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->

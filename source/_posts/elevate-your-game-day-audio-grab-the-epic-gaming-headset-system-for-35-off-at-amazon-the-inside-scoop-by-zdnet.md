@@ -1,7 +1,7 @@
 ---
 title: "Elevate Your Game Day Audio: Grab the Epic Gaming Headset System for 35%% Off at Amazon - The Inside Scoop by ZDNET"
-date: 2025-01-28T20:09:16.464Z
-updated: 2025-02-01T21:33:36.689Z
+date: 2025-01-28T00:13:08.121Z
+updated: 2025-02-03T04:05:15.953Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an AMD Radeon RX 6550M graphics card and a screen capable of a 144Hz
 With 8GB of RAM, a 512GB SSD, and an AMD Ryzen 5 7000 series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,22 +63,20 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-editing-excellence-the-ultimate-guide-to-top-notebooks-for-2024/"><u>[New] Editing Excellence The Ultimate Guide to Top Notebooks for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/etting-started-with-your-new-youtube-premium-account-for-2024/"><u>[New] Getting Started with Your New YouTube Premium Account for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-origami-inspired-best-minimalist-homes-in-minecraft/"><u>2024 Approved Origami Inspired Best Minimalist Homes in Minecraft</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/asus-realtek-audio-software-keys-free-download-instructions-and-tips/"><u>ASUS Realtek Audio Software Keys: Free Download Instructions & Tips</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/beyond-power-supply-problems-insights-from-leaked-intel-documents-on-ongoing-chip-stability-issues/"><u>Beyond Power Supply Problems: Insights From Leaked Intel Documents on Ongoing Chip Stability Issues</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-apple-iphone-13-is-off-drfone-by-drfone-virtual-ios/"><u>Can Life360 Track You When Your Apple iPhone 13 is off? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-walkthrough-for-obtaining-epson-xp-830-print-device-software/"><u>Comprehensive Walkthrough for Obtaining Epson XP-830 Print Device Software</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-update-ch340g-usb-to-serial-adapter-drivers-for-windows-10/"><u>Download & Update CH340G USB-to-Serial Adapter Drivers for Windows 10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-amd-rx-580-drivers-fast-and-trouble-free-download-process/"><u>Get the Latest AMD RX 580 Drivers – Fast & Trouble-Free Download Process</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-resolve-device-not-recognized-issues-for-usbs-in-windows-10/"><u>How to Resolve 'Device Not Recognized' Issues for USBs in Windows 10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-update-your-evga-driver-software-for-optimal-windows-performance/"><u>How to Update Your EVGA Driver Software for Optimal Windows Performance</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-infinix-smart-7-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Infinix Smart 7 Phone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-lava-blaze-curve-5g-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Lava Blaze Curve 5G Device</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/sauvegardes-incrementielles-sous-windows-quelle-economie-en-termes-de-temps-et-despace/"><u>Sauvegardes Incrémentielles Sous Windows : Quelle Économie en Termes De Temps Et D'Espace !</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-vmstart-with-top-solutions-for-wm11plusvmware/"><u>Streamlining VMstart with Top Solutions for WM11+VMware</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-to-the-most-recent-razer-naga-mice-drivers-for-optimal-performance-in-windows-environments/"><u>Update to the Most Recent Razer Naga Mice Drivers for Optimal Performance in Windows Environments</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/1725290478908-winx-mediatrans/"><u>WinX MediaTrans 使用ガイド - 完全な解説付き ユーザーマニュアル</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ost-effective-techniques-for-youtube-intro-creation/"><u>[New] Cost-Effective Techniques for YouTube Intro Creation</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-instagram-video-tricks-uncovered-for-2024/"><u>[New] Instagram Video Tricks Uncovered for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-editors-workshop-enhancing-your-youtube-video-visibility/"><u>[Updated] Editor's Workshop Enhancing Your Youtube Video Visibility</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/an-easy-to-follow-guide-adding-youtube-playlists-to-your-online-platform-for-2024/"><u>An Easy-to-Follow Guide Adding YouTube Playlists to Your Online Platform for 2024</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/essential-usb-c-gadgets-every-tech-enthusiast-needs-perfect-for-both-mac-and-pc-with-8k-display-compatibility-techradar/"><u>Essential USB-C Gadgets Every Tech Enthusiast Needs – Perfect for Both Mac & PC with 8K Display Compatibility | TechRadar</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-tips-for-maintaining-a-fresh-look-on-your-macbook-pro-a-guide-from-zdnet/"><u>Expert Tips for Maintaining a Fresh Look on Your MacBook Pro: A Guide From ZDNet</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-infinix-note-30-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Infinix Note 30 Location | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/the-premier-screen-recording-software-roundup-for-2024/"><u>The Premier Screen Recording Software Roundup for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-and-tricks-for-revoking-read-only-in-win11/"><u>Tips and Tricks for Revoking Read-Only in Win11</u></a></li>
+<li><a href="https://fox-http.techidaily.com/toolwiz-for-professionals-a-thorough-app-assessment/"><u>Toolwiz for Professionals A Thorough App Assessment</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-5-longest-lasting-laptop-batteries-a-comprehensive-review-by-techradar/"><u>Top 5 Longest-Lasting Laptop Batteries : A Comprehensive Review by TechRadar</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unleashing-potential-from-home-discover-why-the-new-hp-copilotplus-is-essential-for-remote-workers-as-endorsed-on-zdnet/"><u>Unleashing Potential From Home? Discover Why the New HP Copilot+ Is Essential for Remote Workers, as Endorsed on ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-dells-latest-innovation-the-xps-laptops-that-exceed-all-expectations-review/"><u>Unveiling Dell's Latest Innovation: The XPS Laptops That Exceed All Expectations Review</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/why-savvy-users-choose-these-high-performance-windows-notebooks-over-the-macbook-air/"><u>Why Savvy Users Choose These High-Performance Windows Notebooks Over the MacBook Air</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Massive Savings: Unlock 36%% Discount on the 8TB Samsung Portable SSD - Now Available on Amazon | TechNews by ZDNet"
-date: 2025-01-28T20:36:22.242Z
-updated: 2025-02-01T20:41:05.992Z
+date: 2025-02-02T06:42:11.004Z
+updated: 2025-02-02T23:10:54.428Z
 tags:
   - laptops
 categories:
@@ -28,7 +28,7 @@ With a truly impressive amount of storage space, you'll get read and write speed
 Along with great read and write speeds and more reliable data transfers, the [Samsung T5 Evo](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Portable-External-MU-PH8T0S-AM%2Fdp%2FB0CMDGGJTZ%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C2362e90f-b768-47d7-98bd-3041538b2c7e%7Cdtp&dtb=1) also features 256-bit AES encryption to keep your personal data and sensitive information safe from unauthorized access. Its outer casing is drop- and shock-resistant and can withstand falls up to six feet, making it perfect for on-location photographers and other mobile professionals who need a tough storage drive for offloading raw photos from camera storage or transferring important projects and documents between their home office and mobile work location. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -65,22 +65,24 @@ While the Amazon listing for the Samsung T5 Evo portable SSD does not have a cou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/aunching-into-the-world-of-web-flipping-videos-from-mac-for-2024/"><u>[New] Launching Into the World of Web-Flipping Videos From Mac for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-paving-the-way-for-smooth-video-autoplay-on-social-media-platforms/"><u>[New] Paving the Way for Smooth Video Autoplay on Social Media Platforms</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-frame-your-shot-ultimate-software-guide-image-editors/"><u>[Updated] In 2024, Frame Your Shot Ultimate Software Guide Image Editors</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-leveraging-twitter-archive-for-research/"><u>[Updated] In 2024, Leveraging Twitter Archive for Research</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/20-zacitla-ceskych-mp3-konv-bezplatnych-pro-windows-movavi/"><u>20 Začítlá Českých MP3 Konv. Bezplatných Pro Windows - Movavi</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-xiaomi-redmi-note-12-4g-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Xiaomi Redmi Note 12 4G Fingerprint Lock</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/breakneck-progress-toward-polyglot-status/"><u>Breakneck Progress Toward Polyglot Status</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-technology-with-toms-hardware-guide/"><u>Exploring Technology with Tom's Hardware Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-genuine-logitech-drive-force-racing-wheel-control-software-download-for-pcs-running-windows-7-10/"><u>Get the Latest Genuine Logitech Drive Force Racing Wheel Control Software - Download for PCs Running Windows 7-10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-seamlessly-update-or-download-scansnap-drivers-in-windows-with-one-click-convenience/"><u>How to Seamlessly Update or Download ScanSnap Drivers in Windows with One-Click Convenience</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hp-printer-driver-download-and-update-for-windows-11-11/"><u>HP Printer Driver Download & Update for Windows 11, 11</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-samsung-galaxy-s23-ultra-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Samsung Galaxy S23 Ultra Phone? Unlock It Now</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-displaylink-driver-updates-for-windows-11-8-and-7-free-download/"><u>Latest DisplayLink Driver Updates for Windows 11, 8 & 7 - Free Download</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-usb-to-hdmi-cable-drivers-download-the-updates-now/"><u>Latest USB to HDMI Cable Drivers: Download the Updates Now!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-usb-c-drivers-for-windows-11-free-download/"><u>Latest USB-C Drivers for Windows 11: Free Download</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/sm-bus-controller-drivers-download-options-for-windows-xp-vista-7-8-and-10/"><u>SM Bus Controller Drivers: Download Options for Windows XP, Vista, 7, 8 & 10</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleash-powerful-search-via-ai-at-bing-how-to-signup/"><u>Unleash Powerful Search via AI at Bing: How-To Signup</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/6-common-chatgpt-errors-and-their-fixes/"><u>6 Common ChatGPT Errors and Their Fixes</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/a-comprehensive-guide-setting-up-vcenter-on-esxi-and-windows-servers-a-step-by-step-tutorial/"><u>A Comprehensive Guide: Setting Up vCenter on ESXi & Windows Servers - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/all-you-need-to-know-about-adobe-storages-including-top-non-adobe-alternates-for-2024/"><u>All You Need to Know About Adobe Storages, Including Top Non-Adobe Alternates for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/charge-up-to-7-gadgets-simultaneously-with-this-compact-140w-mobile-power-bank-uninterrupted-charging-at-your-fingertips/"><u>Charge Up to 7 Gadgets Simultaneously with This Compact 140W Mobile Power Bank - Uninterrupted Charging at Your Fingertips</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-review-on-lenovo-x1-carbon-gen-8-exceptional-arm-performance-advanced-5g-features-and-long-lasting-battery-insights/"><u>Comprehensive Review on Lenovo X1 Carbon Gen 8: Exceptional Arm Performance, Advanced 5G Features and Long-Lasting Battery Insights</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabled-iphone-13-pro-how-to-unlock-a-disabled-iphone-13-pro-drfone-by-drfone-ios/"><u>Disabled iPhone 13 Pro How to Unlock a Disabled iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-the-power-of-amd-rdna-35-its-launch-window/"><u>Discovering the Power of AMD RDNA 3.5 - Its Launch Window</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/essential-usb-c-gadgets-for-both-mac-and-pc-enthusiasts-compatible-with-stunning-8k-displays-insights/"><u>Essential USB-C Gadgets for Both Mac & PC Enthusiasts: Compatible with Stunning 8K Displays - Insights</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-samsung-galaxy-xcover-7-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Samsung Galaxy XCover 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/lenovo-introduces-innovative-2-in-1-device-a-hybrid-of-windows-laptop-and-android-tablet-zdnet/"><u>Lenovo Introduces Innovative 2-in-1 Device: A Hybrid of Windows Laptop and Android Tablet - ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/lightning-fast-performance-meets-portability-discover-the-ultimate-windows-laptop-replacing-macbook-air/"><u>Lightning-Fast Performance Meets Portability: Discover the Ultimate Windows Laptop Replacing MacBook Air</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-multiple-ways-how-to-remove-icloud-activation-lock-on-your-apple-iphone-xs-by-drfone-ios/"><u>New Multiple Ways How To Remove iCloud Activation Lock On your Apple iPhone XS</u></a></li>
+<li><a href="https://driver-download.techidaily.com/recognizing-and-solving-usb-recognition-errors-in-windows-11/"><u>Recognizing and Solving USB Recognition Errors in Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/save-200-on-the-new-apple-m3-macbook-pro-with-retina-display-at-amazons-spectacular-spring-promo-exclusive-deals/"><u>Save $200 on the New Apple M3 MacBook Pro with Retina Display at Amazon’s Spectacular Spring Promo - Exclusive Deals!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/steal-the-show-this-cyber-weekend-grab-apple-macbook-air-m2-at-never-before-seen-prices-on-zdnet-limited-time-offer/"><u>Steal the Show This Cyber Weekend: Grab Apple MacBook Air (M2) at Never-Before-Seen Prices on ZDNET, Limited Time Offer!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ideal-blend-of-portability-and-endurance-my-favorite-ultraportable-laptop-of-the-year-pcmag/"><u>The Ideal Blend of Portability & Endurance: My Favorite Ultraportable Laptop of the Year | PCMag</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-excessive-processor-load-on-windows-11-systems-solutions-revealed/"><u>Troubleshooting Excessive Processor Load on Windows 11 Systems - Solutions Revealed</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-9-strengths-that-make-pcs-preferable-to-macs/"><u>Unveiling 9 Strengths That Make PCs Preferable to Macs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/zdnets-guide-to-miniaturization-mastery-unveiling-the-surprising-versatility-of-the-smallest-webcam-ever-made/"><u>ZDNet's Guide to Miniaturization Mastery: Unveiling the Surprising Versatility of the Smallest Webcam Ever Made!</u></a></li>
 </ul></div>
 

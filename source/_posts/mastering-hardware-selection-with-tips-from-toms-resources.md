@@ -1,7 +1,7 @@
 ---
 title: Mastering Hardware Selection with Tips From Tom's Resources
-date: 2024-08-19T04:23:05.850Z
-updated: 2024-08-20T04:23:05.850Z
+date: 2025-02-01T20:57:40.766Z
+updated: 2025-02-02T22:50:20.191Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,9 +62,24 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-pro-level-recording-highlighting-9-best-remote-mic-systems-23/"><u>[New] 2024 Approved Pro-Level Recording Highlighting 9 Best Remote Mic Systems ('23)</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-essential-10-hd-android-video-player-apps-list/"><u>[New] In 2024, Essential 10 HD Android Video Player Apps List</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/product-name-the-revolutionary-accessory-for-upgrading-to-dual-twin-4k-displays-on-any-laptop-regardless-of-inbuilt-capabilities/"><u>[Product Name]: The Revolutionary Accessory for Upgrading to Dual Twin 4K Displays on Any Laptop, Regardless of Inbuilt Capabilities</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-advanced-techniques-for-efficient-use-of-luts-in-cs6cc/"><u>[Updated] 2024 Approved Advanced Techniques for Efficient Use of LUTs in CS6/CC</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-from-ground-to-sky-expert-and-beginners-guide-to-editing-drones/"><u>[Updated] 2024 Approved From Ground to Sky - Expert and Beginner's Guide to Editing Drones</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-fresh-film-views-ranked-alternatives-1-7/"><u>2024 Approved Fresh Film Views Ranked Alternatives #1-7</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-primer-on-chatgpt-utilization/"><u>A Primer on ChatGPT Utilization</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/dont-miss-out-grab-the-8tb-samsung-t5-external-ssd-at-an-amazing-36-off-price-as-featured/"><u>Don't Miss Out! Grab the 8TB Samsung T5 External SSD at an Amazing 36% Off Price, As Featured</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721460612073-iphoneipad-overheating-understand-the-reasons-behind-it-and-fix-them-now/"><u>IPhone/iPad Overheating? Understand the Reasons Behind It & Fix Them Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maximize-savings-with-this-essential-50-gadget-discover-how-it-could-slash-costs-for-tech-enthusiasts/"><u>Maximize Savings with This Essential $50 Gadget: Discover How It Could Slash Costs for Tech Enthusiasts!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/october-prime-day-surprise-255-chromebook-deal-exposed-as-an-outrageous-bargain/"><u>October Prime Day Surprise: $255 Chromebook Deal Exposed as an Outrageous Bargain !</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/perfect-print-setup-how-to-validate-your-printers-configuration-with-yl-software-tips/"><u>Perfect Print Setup: How To Validate Your Printer's Configuration with YL Software Tips</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/slash-priced-asus-laptop-deal-get-the-15-model-for-a-steal-at-250-from-walmart-all-ports-included/"><u>Slash-Priced ASUS Laptop Deal! Get the 15 Model for a Steal at $250 From Walmart, All Ports Included.</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/streamline-updating-win10s-intel-graphics-drivers/"><u>Streamline Updating Win10's Intel Graphics Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-44-discounts-on-seasonal-memory-units-and-solid-state-drives-insights/"><u>Top 44 Discounts on Seasonal Memory Units & Solid-State Drives - Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-ranking-touchscreen-laptop-reviews-in-depth-analysis-by-tech-experts-zdnet/"><u>Top-Ranking Touchscreen Laptop Reviews: In-Depth Analysis by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-find-the-ideal-gaming-laptop-during-sales-season-picks/"><u>Ultimate Guide: Find the Ideal Gaming Laptop During Sales Season Picks!</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->

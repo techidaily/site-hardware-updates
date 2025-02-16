@@ -1,7 +1,7 @@
 ---
 title: "Apple October Event Preview: Exciting Releases on the Horizon with M4 Mac Mini and Enhanced iPads - What You Need to Know | Featured by ZDNET"
-date: 2025-01-31T22:27:21.636Z
-updated: 2025-02-01T16:09:39.780Z
+date: 2025-01-26T21:22:27.193Z
+updated: 2025-02-03T07:33:38.688Z
 tags:
   - laptops
 categories:
@@ -46,7 +46,7 @@ Image: Charles McLellan / ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Design
@@ -70,7 +70,7 @@ For connections, you're limited to two USB-C (3.2 Gen 2) ports on the left side,
 You can access the innards of the ThinkPad X13s by removing six screws and prising off the bottom cover, although upgrade options are limited. We did poke around inside our first review unit, which arrived with no functioning Wi-Fi and no access to the webcam, to no avail. Our second review unit worked just fine. For all its thin-and-lightness, the ThinkPad X13s is [MIL-STD-810H](https://en.wikipedia.org/wiki/MIL-STD-810)\-tested and should cope with the rigours of a mobile professional's routine. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Features
@@ -84,7 +84,7 @@ There are three screen options, all IPS panels with WUXGA (1920 x 1200) resoluti
 As well as the biometric authentication methods noted earlier, the ThinkPad X13s includes internal security features such as a discrete TPM 2.0 chip, Microsoft's [Pluton TPM architecture](https://learn.microsoft.com/en-us/windows/security/information-protection/pluton/pluton-as-tpm) running on the Snapdragon 8cx Gen 3's SPU (Secure Processing Unit) and a self-healing BIOS. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Performance & battery life
@@ -116,7 +116,7 @@ Thermal camera images of the ThinkPad X13s under load.
 Images: Charles McLellan / ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Conclusions
@@ -170,7 +170,7 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -218,18 +218,24 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-instagrams-secret-weapon-tailoring-photos-to-standout-highlights/"><u>[New] 2024 Approved Instagram's Secret Weapon Tailoring Photos to Standout Highlights</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-expert-tips-for-procuring-unlocked-picture-frame-videos/"><u>[New] Expert Tips for Procuring Unlocked Picture Frame Videos</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-expert-tips-for-zoom-engagement-building-stronger-remote-relationships/"><u>[Updated] 2024 Approved Expert Tips for Zoom Engagement Building Stronger Remote Relationships</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-unlocking-the-power-of-pause-time-mastering-art-of-slow-motion-videos-using-photos-apps-and-websites/"><u>[Updated] In 2024, Unlocking the Power of Pause Time Mastering Art of Slow Motion Videos Using Photos Apps and Websites</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-the-latest-brother-hl-l2350dw-printer-software/"><u>Download and Install the Latest Brother HL-L2350DW Printer Software</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722975051631-fix-your-connection-woes-solutions-to-win-7-network-adapter-problems/"><u>Fix Your Connection Woes: Solutions to Win 7 Network Adapter Problems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-decide-on-msdatspeakerdll-management-preservation-or-purging/"><u>How to Decide on msdatspeaker.dll Management: Preservation or Purging</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hp-scanjet-software-upgrade-latest-version-compatible-with-windows-1187/"><u>HP Scanjet Software Upgrade - Latest Version Compatible with Windows 11/8/7</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resident-evil-village-stability-tips-for-windows-users-overcome-common-pc-glitches/"><u>Resident Evil Village Stability Tips for Windows Users – Overcome Common PC Glitches</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/secure-your-free-qualcomm-atheros-ar938x-drivers-without-hassle/"><u>Secure Your Free Qualcomm Atheros AR938X Drivers Without Hassle</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-instructions-updating-or-downloading-lenovo-monitor-graphics-drivers/"><u>Step-by-Step Instructions: Updating or Downloading Lenovo Monitor Graphics Drivers</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-realme-c67-4g-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Realme C67 4G Location | Dr.fone</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-text-to-audio-conversion-from-words-to-mp3-across-all-devices-for-2024/"><u>Updated Text-to-Audio Conversion From Words to MP3 Across All Devices for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-best-software-for-live-broadcasting/"><u>[New] 2024 Approved Best Software for Live Broadcasting</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-asian-themed-mini-mansions-for-creative-builders/"><u>[New] Asian Themed Mini Mansions for Creative Builders</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/astering-youtubes-short-form-content-key-tips-revealed-for-2024/"><u>[New] Mastering YouTube's Short-Form Content Key Tips Revealed for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/alive-and-crawling-the-return-of-bedbug-infestations-in-school-laptops-insights-from-zdnets-latest-investigation/"><u>Alive and Crawling: The Return of Bedbug Infestations in School Laptops - Insights From ZDNet's Latest Investigation</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/bargain-hunters-gem-snag-a-30-discount-on-the-durable-anker-er-737-power-bank-deals-curated-by-zdnet/"><u>Bargain Hunter’s Gem: Snag a $30 Discount on the Durable Anker Er 737 Power Bank | Deals Curated by ZDNET</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/boost-visual-quality-a-comprehensive-guide-to-installing-updated-ati-drivers-in-windows/"><u>Boost Visual Quality: A Comprehensive Guide to Installing Updated ATI Drivers in Windows</u></a></li>
+<li><a href="https://extra-information.techidaily.com/develop-meme-art-in-adobe-suite/"><u>Develop Meme Art in Adobe Suite</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discovering-the-new-chromebook-plus-and-its-groundbreaking-generative-ai-features-on-zdnet/"><u>Discovering the New Chromebook Plus and Its Groundbreaking Generative AI Features on ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-exceptional-visuals-with-asus-newest-laptop-showcasing-one-of-the-finest-oled-screens-backed-by-rigorous-testing-of-countless-units/"><u>Experience Exceptional Visuals with Asus' Newest Laptop Showcasing One of the Finest OLED Screens, Backed by Rigorous Testing of Countless Units</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-the-laptop-with-superior-performance-and-stunning-screen-quality-insights-from-zdnet-testing/"><u>Exploring the Laptop with Superior Performance and Stunning Screen Quality - Insights From ZDNet Testing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/from-flat-to-framed-achieving-realistic-text-effects-in-photoshop/"><u>From Flat to Framed Achieving Realistic Text Effects in Photoshop</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-inside-scoop-on-unbeatable-labor-day-sales-for-notebooks-featuring-top-picks/"><u>Get the Inside Scoop on Unbeatable Labor Day Sales for Notebooks - Featuring Top Picks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-microsofts-new-focus-on-ai-may-impact-the-future-of-handheld-computing-and-gaming-systems/"><u>How Microsoft's New Focus on AI May Impact the Future of Handheld Computing and Gaming Systems</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-perform-factory-reset-windows-10-revo-uninstaller-pro-4/"><u>How to Perform Factory Reset Windows 10 - Revo Uninstaller Pro 4</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/lg-unveils-new-slimline-gram-laptop-model-a-revolution-in-portability-zdnet/"><u>LG Unveils New Slimline GRAM Laptop Model: A Revolution in Portability - ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/octobers-ultimate-virtual-reality-bargain-metas-512gb-quest-3-offers-unbeatable-value-this-prime-day-insights/"><u>October's Ultimate Virtual Reality Bargain: Meta's 512GB Quest 3 Offers Unbeatable Value This Prime Day – Insights</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/online-visionaries-subscriber-play-button-triumphs/"><u>Online Visionaries Subscriber, Play Button Triumphs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/simplify-tech-transitions-smartphone-vr-integration-guide/"><u>Simplify Tech Transitions Smartphone-VR Integration Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/slash-the-price-secure-your-lenovo-business-laptop-before-prime-day-with-up-to-975-off-now-available-on-amazon/"><u>Slash the Price: Secure Your Lenovo Business Laptop Before Prime Day with Up to $975 Off – Now Available on Amazon</u></a></li>
 </ul></div>
 

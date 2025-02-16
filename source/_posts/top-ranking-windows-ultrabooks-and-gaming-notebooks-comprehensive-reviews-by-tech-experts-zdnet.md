@@ -1,7 +1,7 @@
 ---
 title: Top-Ranking Windows Ultrabooks & Gaming Notebooks , Comprehensive Reviews by Tech Experts | ZDNet
-date: 2025-01-17T21:28:17.417Z
-updated: 2025-01-24T21:04:15.135Z
+date: 2025-01-30T20:30:14.579Z
+updated: 2025-02-02T23:50:09.023Z
 tags:
   - laptops
 categories:
@@ -45,7 +45,15 @@ Cons
 * 8GB of RAM on base model is limiting
 * Built-in speakers could be stronger
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple MacBook Air M3
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best lightweight laptop overall
 
@@ -75,14 +83,10 @@ Cons
 * Generic design
 * Loud fans
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Acer Swift Go 14
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best lightweight laptop for AI
@@ -110,10 +114,6 @@ Pros
 Cons 
 * Compact size means it can run hot
 * Comes pre-loaded with bloatware
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Asus ROG Zephyrus G14
 
@@ -145,10 +145,6 @@ Pros
 Cons 
 * Design tradeoffs for ultra portability
 * Expensive
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## LG Gram Pro 17
 
@@ -183,6 +179,10 @@ Cons
 
 ## Lenovo ThinkPad X1 Carbon
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best lightweight laptop for work
 
 Lenovo's ThinkPad laptop series has been popular with professionals seeking durable Windows machines for years now, and the X1 Carbon is no exception. This is an elegant, lightweight workhorse of a laptop designed with the working professional in mind, and comes with a host of powerful hardware to back it up. 
@@ -196,10 +196,6 @@ It also comes with an 8MP webcam that can shoot in 4K, perfect for presenting a 
 **Lenovo ThinkPad X1 Carbon t** **ech specs:** Intel Core Ultra 7 155H processor | Integrated Intel graphics card | 16GB memory, 1TB SSD | 14-inch OLED display | Up to 8 hours of battery life | 2.47 lbs 
 
 Show Expert Take Show less 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is the best lightweight laptop?
 
@@ -225,10 +221,6 @@ The best lightweight laptop for you depends on what you want to get out of it. L
 | LG Gram Pro 17                      | The lightest, thinnest 17-inch laptop on the market, no matter the cost.                 |
 | Lenovo X1 Carbon                    | A durable, powerful laptop for work.                                                     |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How we test lightweight laptops
 
 Kyle Kucharski/ZDNET
@@ -252,6 +244,10 @@ These laptops all offer solid performance in their own right, but paired with th
 * **Display:** All of the laptops evaluated here are the 14" versions, except the Gram Pro 17 of course, which is 17-inches and still one of the lightest.
 * **Battery life:** In order to be considered for this list, I considered machines with better-than-average battery life. This is one metric that will vary significantly based on use case, but all of these laptops will easily last an entire workday (eight hours) on one charge, even while undergoing demanding workloads
 * **Price:** Cost is an important factor and will make or break many consumers' choices. The reality is that ultraportability does come at a cost, as none of these laptops would be considered "budget" by any rate. The Acer Swift Go 14, however, is still quite affordable, starting at $800, though upgrades will move that number more in line with the others on this list.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why does having a lightweight laptop matter?
 
@@ -278,7 +274,7 @@ We love lightweight laptops because they're easy to carry around. But the backpa
 [ZDNET RECOMMENDS Matein Travel Laptop Backpack Packed with travel-friendly features like a luggage strap and an anti-theft back pocket that protects your valuables, the Matein travel laptop is an inexpensive and solid travel backpack for your laptop. A bonus feature is an external USB charging port for easy charging on the go. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBackpack-Business-Charging-Resistant-Computer%2Fdp%2FB06XZTZ7GB%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb372b0e0-f807-4ada-91fc-3819fe7f0ce6%7Cdtp&dtb=1)[ZDNET RECOMMENDS Herschel Little America Backpack Herschel backpacks have a timeless design that's comfortable to wear thanks to the contoured padded back straps. It comes in two sizes which can hold up to a 13-inch laptop or a 15-inch laptop. Its drawstring closure expands to create extra storage space while the magnetic front straps secure what's inside. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB00838TCGO%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb372b0e0-f807-4ada-91fc-3819fe7f0ce6%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which operating system should you choose: Windows, MacOS, Chrome OS, or Linux?
@@ -288,6 +284,10 @@ While every computing platform has its loyal supporters, most people end up usin
 **Also:** **[Comparing the best Macs: Is a MacBook or Mac Studio right for you?](https://www.zdnet.com/article/best-mac/)** 
 
 All Windows devices listed here meet the requirements for Windows 11\. If you purchase a device with Windows 10 installed, you will be able to upgrade to Windows 11 if you choose to do so. Note that after October 14, 2025, Windows 10 support will end, and there will be no further security patches or feature updates.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Are there alternative lightweight laptops worth considering?
 
@@ -335,19 +335,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-a-step-by-written-guide-to-luts-for-professional-photographers/"><u>[New] A Step-By Written Guide to LUTs for Professional Photographers</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-unlocking-fb-video-content-with-1-5-downloaders/"><u>[New] Unlocking FB Video Content with #1-5 Downloaders</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-unlocking-the-secrets-to-successful-rapid-subscribing-on-youtube/"><u>[Updated] Unlocking the Secrets to Successful Rapid Subscribing on YouTube</u></a></li>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-honor-magic-5-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Honor Magic 5 Lite | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-free-qualcomm-atheros-ar938x-drivers-with-simple-steps/"><u>Download the Free Qualcomm Atheros AR938X Drivers with Simple Steps</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-amd-radeon-r9-200-graphics-cards-windows-drivers-here/"><u>Get the Latest AMD Radeon R9 200 Graphics Cards Windows Drivers Here!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-installing-new-firmware-on-your-logitech-m510-a-comprehensive-guide/"><u>How To: Installing New Firmware on Your Logitech M510 - A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/installation-guide-logitech-pts-webcam-drivers-on-windows-11/"><u>Installation Guide: Logitech PTS Webcam Drivers on Windows 11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-blockchain-communication-the-top-8-plugins-for-cryptocurrency-enthusiasts/"><u>Mastering Blockchain Communication: The Top 8 Plugins for Cryptocurrency Enthusiasts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-windows-11-how-to-successfully-update-your-gpus-drivers/"><u>Mastering Windows 11: How to Successfully Update Your GPU's Drivers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-photo-import-glitches-with-ios-devices-on-windows/"><u>Overcoming Photo Import Glitches with iOS Devices on Windows</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/quick-remedies-to-resolve-six-common-gpt-vehicle-problems/"><u>Quick Remedies to Resolve Six Common GPT Vehicle Problems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/streamlined-process-to-download-and-install-asus-laptop-touchpad-driver-for-windows-10/"><u>Streamlined Process to Download & Install ASUS Laptop Touchpad Driver for Windows 10</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-creating-stunning-time-lapses-using-gopro-studio/"><u>[New] In 2024, Creating Stunning Time Lapses Using GoPro Studio</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-unleash-your-dj-iq-with-free-luts-for-djis-minis-and-air-series-for-2024/"><u>[New] Unleash Your DJ IQ with FREE LUTs for DJI's Minis & Air Series for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-premier-video-network-for-live-and-on-demand-viewers/"><u>[Updated] 2024 Approved Premier Video Network for Live and On-Demand Viewers</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-content-cash-cow-how-much-does-the-meme-king-make-for-2024/"><u>[Updated] Content Cash Cow How Much Does the Meme King Make for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-essential-tools-for-android-and-ios-users-seeking-playlist-extractors/"><u>[Updated] Essential Tools for Android & iOS Users Seeking Playlist Extractors</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-formulating-flashy-podcast-announcements/"><u>[Updated] Formulating Flashy Podcast Announcements</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/beyond-the-norm-a-deep-dive-into-the-toughest-and-most-adaptable-notebook-that-isnt-made-by-getac-insights/"><u>Beyond the Norm: A Deep Dive Into the Toughest and Most Adaptable Notebook That Isn't Made by Getac Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/dell-upgrades-iconic-xps-series-introducing-cutting-edge-artificial-intelligence-enhancements-while-retaining-timeless-design-insights/"><u>Dell Upgrades Iconic XPS Series: Introducing Cutting-Edge Artificial Intelligence Enhancements, While Retaining Timeless Design - Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discovering-the-latest-enhancements-in-samsungs-copilotplus-ai-for-pcs-an-expert-first-glance-tech-innovator/"><u>Discovering the Latest Enhancements in Samsung's Copilot+ AI for PCs: An Expert First Glance | Tech Innovator</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-exclusive-perks-with-dells-luxury-3000-laptop-an-innovative-leap-in-gaming-machines-insights-from-zdnet/"><u>Experience Exclusive Perks with Dell's Luxury $3,000 Laptop - An Innovative Leap in Gaming Machines | Insights From ZDNET</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-itel-a05s-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Itel A05s? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-note-12-pro-5g-bootloader-easily-by-drfone-android/"><u>How to Unlock Xiaomi Redmi Note 12 Pro 5G Bootloader Easily</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-honor-magic-6-pro-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Honor Magic 6 Pro to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/lut-mastery-for-enhanced-visual-effects-in-premiere-projects-for-2024/"><u>LUT Mastery for Enhanced Visual Effects in Premiere Projects for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/office-warriors-guide-to-exceptional-2-in-1-laptops-beyond-dell-and-lenovo-options-tech-insights/"><u>Office Warrior's Guide to Exceptional 2-in-1 Laptops Beyond Dell and Lenovo Options | Tech Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/score-unbeatable-savings-with-our-recommended-magsafe-station-for-apple-gadgets-save-60-now-techradar/"><u>Score Unbeatable Savings with Our Recommended MagSafe Station for Apple Gadgets - Save $60 Now | TechRadar</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-picks-for-gaming-laptop-powerhouses-comparing-razer-acer-and-msi/"><u>Top Picks for Gaming Laptop Powerhouses - Comparing Razer, Acer & MSI</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/under-1000-expert-picks-for-ultimate-laptop-value-and-performance-of-2024-pcmag/"><u>Under $1,000: Expert Picks for Ultimate Laptop Value and Performance of 2024 | PCMag</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-overlooked-gems-asuss-top-underrated-feature-revealed-by-zdnet-experts/"><u>Unveiling the Overlooked Gems: Asus's Top Underrated Feature Revealed by ZDNet Experts</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Experiencing Emotions with the New M2 MacBook Air - A Tearful Review on ZDNet
-date: 2025-01-27T18:37:45.770Z
-updated: 2025-02-01T17:59:32.095Z
+date: 2025-01-31T03:06:20.500Z
+updated: 2025-02-03T09:53:30.630Z
 tags:
   - laptops
 categories:
@@ -27,7 +27,7 @@ Cliff Joseph/ZDNET
 [![Best tech products of 2022](https://www.zdnet.com/a/img/resize/3f88838e500b465de59bf97859df4b8cc8a9cd8a/2022/12/21/5246df34-aab3-4419-a17e-d162c8160806/zdgg-2022-overall.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) ZDNET editors loved these tech products and gadgets in 2022 Trying to find the absolute best tech products of 2022? From the iPhone 14 Pro Max to the Kindle Scribe to the Oura Ring Gen 3 Horizon, here are ZDNET's top gadgets of the year.  Read now](https://www.zdnet.com/article/best-tech-2022/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 How often can a gadget make you confront your own weaknesses, especially the lies you tell yourself?
@@ -41,7 +41,7 @@ Until I'm sure I don't just want it, but need it.
 Oh, all right, I may occasionally have a flexible definition of _need_.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The weakness. I just can't bear the weakness
@@ -74,12 +74,16 @@ And then there was the remarkable fact that an Apple store actually had the [mid
 
 Resistance was futile. Actually, it was non-existent, even if I still wondered whether this laptop could possibly be worth it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The lies I'd told myself
 
 With almost every gadget, it's one thing to play with it in a store. It's quite another to bring it into your daily life -- and I use a laptop at least 12 hours a day.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Featured reviews
@@ -106,7 +110,7 @@ Some (like ZDNET's [review of the M2 MacBook Air](https://www.zdnet.com/article/
 I've also noticed that MagSafe isn't quite what it used to be. Previously, it had flown out of its socket with minimal force. Now, you have to give it a perceptible tug before it detaches. I can't decide whether this is good or bad. I do like the sturdier feel of the cable, however. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## It's all ending in tears
@@ -118,10 +122,6 @@ But no tale this positive has a happy ending.
 So, as I write this, I'm staring into space, blaring at myself for being so impulsive.
 
 You see, but weeks after I bought my M2 Air, [the price began to descend](https://www.zdnet.com/article/apple-macbook-air-laptop-2022-m2-chip-cyber-monday-deals-2022-lowest-prices-ever/). Then it descended even more. Perhaps this is something to do with [the market prospects for laptops in 2023](https://www.zdnet.com/article/theres-a-long-cold-winter-ahead-for-pc-makers-that-could-be-good-news-for-pc-buyers/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -169,21 +169,21 @@ Unless, that is, you're selling [a perfectly functional robot dog](https://www.z
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-mastering-instagrams-podcast-post-and-story-distribution/"><u>[New] 2024 Approved Mastering Instagram's Podcast Post & Story Distribution</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-maximizing-your-search-for-stellar-pexels-artwork/"><u>[New] 2024 Approved Maximizing Your Search for Stellar Pexels Artwork</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-diving-deep-essential-pro-tips-for-underwater-gopro-footage/"><u>[New] Diving Deep Essential Pro Tips for Underwater GoPro Footage</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-elevate-your-content-game-perfectly-tailored-youtube-shorts-thumbnails/"><u>[New] In 2024, Elevate Your Content Game Perfectly Tailored YouTube Shorts Thumbnails</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-explore-9-simple-and-economical-editing-solutions-for-your-projects/"><u>[Updated] 2024 Approved Explore 9 Simple & Economical Editing Solutions for Your Projects</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-journey-through-hdr-with-asuss-top-4k-professional-monitor/"><u>[Updated] 2024 Approved Journey Through HDR with ASUS's Top 4K Professional Monitor</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-boosting-photo-editing-skills-essential-pixlr-techniques/"><u>[Updated] Boosting Photo Editing Skills Essential Pixlr Techniques</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1-apple-alerts-iphones-protect-yourself-from-rising-threats-of-privacy-invading-mercenary-hacking-software-is-it-time-for-concern-tech-insights/"><u>1. Apple Alerts iPhones: Protect Yourself From Rising Threats of Privacy-Invading Mercenary Hacking Software – Is It Time for Concern? | Tech Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-update-the-netgear-a6210-drivers-for-windows-87-free-software/"><u>Download and Update the Netgear A6210 Drivers for Windows 8/7 - Free Software</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-logitech-g29-steering-wheel-software-for-pc-windows-10-11-and-7/"><u>Download the Logitech G29 Steering Wheel Software for PC (Windows 10, 11 & 7)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-best-out-of-your-pcs-visual-capabilities-updating-graphics-drivers-on-windows-11/"><u>Get the Best Out of Your PC's Visual Capabilities - Updating Graphics Drivers on Windows 11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hassle-free-installation-for-the-microsoft-v4000-ergokeyboard-software/"><u>Hassle-Free Installation for the Microsoft V4000 ErgoKeyboard Software</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hassle-free-process-obtaining-and-implementing-the-epson-et-4550-driver-for-optimal-windows-performance/"><u>Hassle-Free Process: Obtaining and Implementing the Epson ET-4550 Driver for Optimal Windows Performance</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-redirecting-noise-free-tweets-back-to-audio/"><u>In 2024, Redirecting Noise-Free Tweets Back to Audio</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-your-hp-laserjet-p1006-driver-today/"><u>Install Your HP LaserJet P1006 Driver Today</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/troubleshooting-guide-lg-monitor-drivers-on-windows-10781-devices/"><u>Troubleshooting Guide: LG Monitor Drivers on Windows 10/7/8.1 Devices</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/wift-ways-to-reorder-youtube-watchlist-alphabetically/"><u>[New] Swift Ways to Reorder YouTube Watchlist Alphabetically</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-xiaomi-redmi-note-13-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Xiaomi Redmi Note 13 5G to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/boost-your-productivity-with-the-latest-hp-copilotplus-a-game-changer-for-remote-professionals-testimonial-by-zdnet/"><u>Boost Your Productivity with the Latest HP Copilot+: A Game-Changer for Remote Professionals - Testimonial by ZDNet</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/breaking-down-facebooks-latest-developments/"><u>Breaking Down Facebook's Latest Developments</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/construire-un-nuevo-disco-duro-funcional-desde-una-memoria-usb-inicializable-independiente-del-entorno-de-windows/"><u>Construire Un Nuevo Disco Duro Funcional Desde Una Memoria USB Inicializable, Independiente Del Entorno De Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/gaming-enthusiasts-await-with-bated-breath-as-msi-releases-new-product-lineup-insights/"><u>Gaming Enthusiasts Await with Bated Breath as MSI Releases New Product Lineup – Insights</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-honor-80-pro-straight-screen-edition-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Honor 80 Pro Straight Screen Edition FRP</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-from-apple-iphone-xs-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID From Apple iPhone XS Making It Possible</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/savings-alert-secure-a-stellar-deal-on-the-8tb-samsung-t5-ssd-post-prime-day-up-to-36-off-see-it-now-on-amazon-tech-insights-from-zdnet/"><u>Savings Alert: Secure a Stellar Deal on the 8TB Samsung T5 SSD Post-Prime Day - Up to 36% Off! See It Now on Amazon | Tech Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/score-big-savings-grab-a-discounted-nvidia-geforce-rtx-3070-at-220-less-today-only-techradar/"><u>Score Big Savings: Grab a Discounted NVIDIA GeForce RTX 3070 at $220 Less - Today Only! | TechRadar</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/slash-your-budget-without-compromising-quality-exclusive-150-off-deal-for-ultimate-gaming-speakers-on-amazon-reviews/"><u>Slash Your Budget Without Compromising Quality: Exclusive $150 Off Deal for Ultimate Gaming Speakers on Amazon Reviews</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-beginners-tutorial-adding-mods-to-your-pc-skyrim-game/"><u>Step-by-Step Beginner's Tutorial: Adding Mods to Your PC Skyrim Game</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-purchasing-high-quality-digital-notepads-thoroughly-tested-by-professionals-insights/"><u>Ultimate Guide to Purchasing High-Quality Digital Notepads: Thoroughly Tested by Professionals | Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-the-lenovo-thinkpad-x13s-unveiling-its-arm-architecture-cutting-edge-5g-support-and-exceptional-battery-durability-gadgetzone-insights/"><u>Ultimate Guide to the Lenovo ThinkPad X13s: Unveiling Its Arm Architecture, Cutting-Edge 5G Support, and Exceptional Battery Durability | GadgetZone Insights</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/what-is-openais-shap-e-and-what-can-it-do/"><u>What Is OpenAI's Shap-E, and What Can It Do?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-display-glitch-resolved/"><u>Win11 Display Glitch Resolved</u></a></li>
 </ul></div>
 

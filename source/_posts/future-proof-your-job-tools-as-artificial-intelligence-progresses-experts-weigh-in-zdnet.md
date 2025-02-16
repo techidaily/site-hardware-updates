@@ -1,7 +1,7 @@
 ---
 title: "Future-Proof Your Job Tools as Artificial Intelligence Progresses: Experts Weigh In (ZDNet)"
-date: 2025-01-20T16:53:17.826Z
-updated: 2025-01-24T22:52:53.704Z
+date: 2025-01-27T21:16:31.685Z
+updated: 2025-02-02T22:34:21.321Z
 tags:
   - laptops
 categories:
@@ -31,7 +31,7 @@ Because AI tasks that run locally on a PC are typically executed by the CPU (cen
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### User requirements remain focused on hybrid work
@@ -69,7 +69,7 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -81,7 +81,7 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -134,21 +134,17 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-firefoxs-multitasking-toolkit-the-pip-mode/"><u>[New] Firefox's Multitasking Toolkit The PIP Mode</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-top-tech-stream-cam-gear-reviewed-for-youtube-and-facebook-use/"><u>[New] Top Tech Stream Cam Gear Reviewed for YouTube & Facebook Use</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-whatsapp-video-integration-for-twitter-content-for-2024/"><u>[New] WhatsApp Video Integration for Twitter Content for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-alternative-tools-that-outperform-sharex/"><u>[Updated] 2024 Approved Alternative Tools That Outperform ShareX</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722977602649-download-the-new-magicard-rio-pro-driver-compatible-with-windows-10817-get-it-now/"><u>Download the New Magicard Rio Pro Driver: Compatible with Windows 10/8.1/7 - Get It Now!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/drive-your-site-traffic-with-the-efficient-automation-of-cookiebot/"><u>Drive Your Site Traffic with the Efficient Automation of Cookiebot</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-hardware-analysis-from-toms-technology-portal/"><u>Expert Hardware Analysis From Tom's Technology Portal</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722968856195-free-download-canon-imageclass-mf4800-printer-drivers-and-software/"><u>Free Download: Canon ImageCLASS MF4800 Printer Drivers and Software</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-set-up-fast-free-pioneer-dj-ddj-sx2-controller-driver-downloads/"><u>Get Set Up Fast! Free Pioneer DJ DDJ-SX2 Controller Driver Downloads</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/guide-to-overcoming-bluetooth-driver-issues-in-windows-10-expert-advice-for-smooth-connection/"><u>Guide to Overcoming Bluetooth Driver Issues in Windows 10 - Expert Advice for Smooth Connection</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-mastering-virtual-realities-unleash-power-in-kinemaster-and-its-leading-rivals/"><u>In 2024, Mastering Virtual Realities Unleash Power in KineMaster & Its Leading Rivals</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-recollection-runway-your-easy-path-to-story-archives/"><u>In 2024, Recollection Runway Your Easy Path to Story Archives</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/maximizing-your-sightline-in-roblox-playground/"><u>Maximizing Your Sightline in Roblox Playground</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/qualcomm-atheros-ar3011-get-the-latest-free-download-for-bluetooth-30-support/"><u>Qualcomm Atheros AR3011: Get the Latest [Free Download] for Bluetooth 3.0 Support</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-and-simple-way-to-download-and-install-epson-xp-410-printer-drivers-for-windows/"><u>Quick and Simple Way to Download and Install Epson XP-410 Printer Drivers for Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/together-at-last-the-story-of-it-takes-twos-marked-launch-event/"><u>Together at Last: The Story of 'It Takes Two's' Marked Launch Event</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-discovering-the-worlds-most-popular-shorter-videos-free-for-2024/"><u>[Updated] Discovering the World's Most Popular Shorter Videos (FREE) for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-stream-your-spotify-hits-on-youtube-with-these-select-tools-for-2024/"><u>[Updated] Stream Your Spotify Hits on YouTube with These Select Tools for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/led-guide-to-dollar-counts-a-stepwise-strategy-to-track-youtube-earnings/"><u>Detailed Guide to Dollar Counts A Stepwise Strategy to Track YouTube Earnings</u></a></li>
+<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-on-apple-iphone-13-pro-max-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email On Apple iPhone 13 Pro Max? Heres the Best Fixes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-hands-on-the-cutting-edge-apples-macbook-air-m2-chip-at-record-cyber-monday-prices-of-2022-techbargains-now/"><u>Get Your Hands on the Cutting-Edge: Apple's MacBook Air M2 Chip at Record Cyber Monday Prices of 2022 | TechBargains Now!</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/how-does-windows-defender-shield-against-different-cybersecurity-risks-insights-from-yl-computing/"><u>How Does Windows Defender Shield Against Different Cybersecurity Risks - Insights From YL Computing</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-why-does-itools-virtual-location-not-work-for-apple-iphone-xsipad-solved-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Does iTools Virtual Location Not Work For Apple iPhone XS/iPad? Solved | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/marathon-battery-and-stunning-look-discover-the-top-rated-13-inch-laptop-from-our-latest-tests-zdnet-review/"><u>Marathon Battery & Stunning Look: Discover the Top Rated 13-Inch Laptop From Our Latest Tests | ZDNet Review</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maximizing-lifespan-expert-tips-on-enhancing-your-laptops-battery-performance-insights/"><u>Maximizing Lifespan: Expert Tips on Enhancing Your Laptop's Battery Performance - Insights</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/uncovering-expert-video-making-talents/"><u>Uncovering Expert Video Making Talents</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-finest-selection-premium-17-inch-laptop-reviews-tech-insights/"><u>Unveiling the Finest Selection: Premium 17-Inch Laptop Reviews | Tech Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/whats-new-in-ipados-release-unpack-the-announcement-with-date-and-pricing-info/"><u>What's New in iPadOS Release? Unpack the Announcement with Date and Pricing Info</u></a></li>
 </ul></div>
 

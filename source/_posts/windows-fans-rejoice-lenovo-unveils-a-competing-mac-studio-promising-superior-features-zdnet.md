@@ -1,7 +1,7 @@
 ---
 title: Windows Fans Rejoice! Lenovo Unveils a Competing Mac Studio, Promising Superior Features | ZDNET
-date: 2025-01-29T20:44:40.496Z
-updated: 2025-02-01T22:36:22.986Z
+date: 2025-01-28T07:40:52.052Z
+updated: 2025-02-03T07:43:15.132Z
 tags:
   - laptops
 categories:
@@ -22,7 +22,7 @@ At [CES 2024](https://www.zdnet.com/topic/ces-2024/), Lenovo plans to show off a
 Without question, the new PC resembles a [Mac Studio](https://www.zdnet.com/article/apple-mac-studio-m2-ultra-review/), coming with a main desktop unit in the shape of a small box alongside a monitor. It houses all of the major components like a neural processing unit, or NPU for short. This utilizes [AI](https://www.zdnet.com/article/what-is-ai-heres-everything-you-need-to-know-about-artificial-intelligence/) to provide a third resource for the computer, improving its overall performance. It can even be upgraded, letting you modulate the device's performance however you want.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Special Feature
@@ -85,19 +85,20 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-peering-into-mr-beasts-economic-landscape/"><u>[New] 2024 Approved Peering Into Mr. Beast's Economic Landscape</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-lens-tricks-editing-secrets-to-photo-wonders/"><u>[Updated] In 2024, Lens Tricks Editing Secrets to Photo Wonders</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-ultimate-vr-selection-top-8-must-have-titles/"><u>[Updated] Ultimate VR Selection Top 8 Must-Have Titles</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-unveiling-the-most-effective-methods-for-your-hp-laptop-recordings-for-2024/"><u>[Updated] Unveiling the Most Effective Methods for Your HP Laptop Recordings for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-vivo-y17s-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Vivo Y17s | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-samsung-printer-drivers-compatible-with-windows/"><u>Get the Latest Samsung Printer Drivers - Compatible with Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-hp-network-device-drivers-here-supports-windows-1078-systems/"><u>Get Your HP Network Device Drivers Here - Supports Windows 10/7/8 Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-perform-an-amd-graphics-card-update-on-windows-11-8-and-7/"><u>How to Perform an AMD Graphics Card Update on Windows 11, 8 & 7</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-tactics-for-avoiding-a-youtube-sanction/"><u>In 2024, Tactics for Avoiding a YouTube Sanction</u></a></li>
-<li><a href="https://win11.techidaily.com/preventing-freeze-in-epic-games-launcher-on-pcs/"><u>Preventing Freeze in Epic Games Launcher on PCs</u></a></li>
-<li><a href="https://techtrends.techidaily.com/snappy-driver-installer-v113-review/"><u>Snappy Driver Installer v1.13 Review</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-easy-installation-of-logitech-webcam-c525-drivers-on-windows-1087-systems/"><u>Step-by-Step: Easy Installation of Logitech Webcam C525 Drivers on Windows 10/8/7 Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-downloading-and-updating-hp-laserjet-p35-printer-drivers-on-windows-step-by-step/"><u>Ultimate Guide to Downloading and Updating HP LaserJet P3지오5 Printer Drivers on Windows - Step by Step</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722974494381-whats-new-in-your-logitech-extreme-3d-check-our-latest-update/"><u>What’s New in Your Logitech Extreme 3D? Check Our Latest Update</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-cutting-the-cord-of-creation-how-to-setup-a-youtube-channel-from-phone-to-platform/"><u>[New] In 2024, Cutting the Cord of Creation How to Setup a YouTube Channel From Phone to Platform</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-embark-on-elevating-voice-startup-steps-for-an-engaging-product-vlog-channel/"><u>[Updated] Embark on Elevating Voice Startup Steps for an Engaging Product Vlog Channel</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-enhance-your-tv-experience-mastering-fb-live-and-roku/"><u>[Updated] Enhance Your TV Experience Mastering FB Live and Roku</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-harmonizing-photo-and-video-in-one-iphone-session/"><u>2024 Approved Harmonizing Photo & Video in One iPhone Session</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/bypassing-windows-10-lock-screen-seamlessly-a-comprehensive-how-to/"><u>Bypassing Windows 10 Lock Screen Seamlessly – A Comprehensive How-To</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-picks-for-the-ultimate-laptop-raising-solutions-zdnets-guide-to-2024-models/"><u>Expert Picks for the Ultimate Laptop Raising Solutions - ZDNet's Guide to 2024 Models</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-the-latest-iosipados-beta-version-on-iphone-13-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS/iPadOS Beta Version on iPhone 13 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-time-travel-photos-on-snapchat-step-by-step-guide/"><u>In 2024, Time-Travel Photos on Snapchat Step by Step Guide</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-look-why-the-google-pixelbook-go-stands-out-in-the-premium-chromebook-market/"><u>In-Depth Look: Why the Google Pixelbook Go Stands Out in the Premium Chromebook Market</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-october-sale-metas-exclusive-499-512gb-quest-2-offer-a-must-have-vr-bargain-this-prime-day-technews/"><u>Top October Sale: Meta's Exclusive $499 512GB Quest 2 Offer - A Must-Have VR Bargain This Prime Day | TechNews</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-non-microsoft-non-lenovo-tablet-unleashes-productivity-on-business-trips-explored-and-reviewed-at-zdnet/"><u>Top-Rated Non-Microsoft, Non-Lenovo Tablet Unleashes Productivity on Business Trips | Explored and Reviewed at ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-webcams-for-live-broadcasts-comprehensive-reviews-by-tech-pros/"><u>Top-Rated Webcams for Live Broadcasts : Comprehensive Reviews by Tech Pros</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-october-prime-day-offer-metas-512gb-quest-2-pro-at-great-value-still-awaiting-bidders/"><u>Unbeatable October Prime Day Offer: Meta’s 512GB Quest 2 Pro at Great Value – Still Awaiting Bidders</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-latest-upgrade-samsung-enhances-its-copilotplus-pc-featuring-advanced-ai-capabilities-insights-from-zdnet/"><u>Unveiling the Latest Upgrade: Samsung Enhances Its Copilot+ PC Featuring Advanced AI Capabilities - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/zdnets-ultimate-guide-to-premium-laptops-of-2024-in-depth-assessments-and-comparisons/"><u>ZDNet's Ultimate Guide to Premium Laptops of 2024: In-Depth Assessments & Comparisons</u></a></li>
 </ul></div>
 

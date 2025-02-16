@@ -1,7 +1,7 @@
 ---
 title: "Apple's Latest Battle: Comparing the M3 Vs. M2 MacBook Air on ZDNet"
-date: 2025-01-29T23:33:07.991Z
-updated: 2025-02-01T19:56:53.561Z
+date: 2025-01-27T21:38:29.327Z
+updated: 2025-02-03T10:02:45.778Z
 tags:
   - laptops
 categories:
@@ -25,7 +25,7 @@ Recently, I did a thing: I switched my heavyweight Windows PC for a docked [16-i
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### See also
@@ -44,11 +44,11 @@ So what if I told you you can remap the Apple keyboard so that the Globe key, wh
 
 (Even if you've always been a Mac user, and everything I just wrote meant nothing to you, you'll still want to read this. There's a good chance that the following remapping feature will benefit you just as much, too.)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to remap the Globe key into the Command key
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Open up Keyboard settings
 
@@ -57,7 +57,7 @@ Let's start by running a Spotlight Search (clicking the magnifying glass on the 
 You can also access this menu by clicking the Apple icon on the top left of the status bar > System Preferences > and then Keyboard.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Open Modifier Keys
@@ -67,7 +67,7 @@ On the bottom right of the Keyboard settings should be a button labeled "Modifie
 Screenshot by June Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Remap the Globe key to Command
@@ -79,7 +79,7 @@ Note: There is a "Control key" on the Mac keyboard but it doesn't function the s
 Screenshot by June Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How this helps
@@ -116,15 +116,20 @@ From a Windows user perspective, being able to still access my usual keyboard sh
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-elevate-your-channels-popularity-with-12-key-growth-techniques/"><u>[New] In 2024, Elevate Your Channel's Popularity with 12 Key Growth Techniques</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-installation-guide-for-epson-xp-420-printer-drivers/"><u>Download and Installation Guide for Epson XP-420 Printer Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exclusive-look-microsofts-revolutionary-ai-chip-takes-on-apple-macbook-zdnet/"><u>Exclusive Look: Microsoft's Revolutionary AI Chip Takes on Apple MacBook | ZDNet</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-motorola-edge-40-neo-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Motorola Edge 40 Neo? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-5-innovative-vr-headsets-perfect-for-aerial-sports/"><u>In 2024, 5 Innovative VR Headsets Perfect for Aerial Sports</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-screencapture-evaluation-interface/"><u>In 2024, ScreenCapture Evaluation Interface</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigate-the-digital-world-with-toms-hardware-advice/"><u>Navigate the Digital World with Tom's Hardware Advice</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-through-xp-pen-driver-updates-a-user-friendly-walkthrough/"><u>Navigating Through XP-PEN Driver Updates: A User-Friendly Walkthrough</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/optimize-your-system-comprehensive-driver-pack-for-the-msi-z370-a-pro-ready-for-instant-download/"><u>Optimize Your System: Comprehensive Driver Pack for the MSI Z370-A PRO Ready for Instant Download</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>Why does the pokemon go battle league not available On Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-cutting-edge-simple-win-11-recorders/"><u>[New] Cutting-Edge Simple Win 11 Recorders</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-harnessing-success-with-freefire-hashtag-tips-for-2024/"><u>[New] Harnessing Success with FreeFire Hashtag Tips for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/choosing-between-ipad-pro-and-macbook-air-an-in-depth-comparison-tech-insights/"><u>Choosing Between iPad Pro and MacBook Air: An In-Depth Comparison | Tech Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/difficulties-in-measuring-and-predicting-the-outcomes-of-microbial-activity-in-response-to-crop-rotation-changes/"><u>Difficulties in Measuring and Predicting the Outcomes of Microbial Activity in Response to Crop Rotation Changes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effective-solution-found-for-igfx-graphics-module-failure/"><u>Effective Solution Found for iGFX Graphics Module Failure</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exceptional-endurance-discovering-the-ultimate-13-laptop-with-extended-battery-and-striking-aesthetics-as-reviewed-by-zdnet/"><u>Exceptional Endurance: Discovering the Ultimate 13 Laptop with Extended Battery & Striking Aesthetics, as Reviewed by ZDNet!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-xs-online-here-are-6-easy-ways-by-drfone-ios/"><u>How to Unlock Apple iPhone XS Online? Here are 6 Easy Ways</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-11-pro-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone 11 Pro Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-guide-restoring-visibility-of-bluetooth-on-pcs-device-manager/"><u>Solution Guide: Restoring Visibility of Bluetooth on PC's Device Manager</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-49-unbeatable-holiday-promotions-on-newegg-find-your-savings-today/"><u>Top 49 Unbeatable Holiday Promotions on Newegg – Find Your Savings Today!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-notch-display-and-great-deal-get-your-hands-on-this-ultraportable-laptop-today-sale-techradar/"><u>Top-Notch Display & Great Deal: Get Your Hands on This Ultraportable Laptop Today! [Sale] | TechRadar</u></a></li>
+<li><a href="https://fox-within.techidaily.com/unlocking-your-files-expert-guide-to-retrieving-data-from-bitlocker-encrypted-drives/"><u>Unlocking Your Files: Expert Guide to Retrieving Data From BitLocker-Encrypted Drives</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-new-lenovo-innovation-a-dual-os-laptoptablet-for-enhanced-flexibility-and-power/"><u>Unveiling the New Lenovo Innovation: A Dual-OS Laptop/Tablet for Enhanced Flexibility and Power</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upcoming-apple-m-series-chip-enhanced-ai-capabilities-set-to-transform-the-full-range-of-macbooks-and-desktops-release-timeline-revealed/"><u>Upcoming Apple M-Series Chip: Enhanced AI Capabilities Set to Transform the Full Range of MacBooks & Desktops – Release Timeline Revealed</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/youtubes-visual-impact-crafting-effective-thumbnails-for-2024/"><u>YouTube's Visual Impact Crafting Effective Thumbnails for 2024</u></a></li>
 </ul></div>
 

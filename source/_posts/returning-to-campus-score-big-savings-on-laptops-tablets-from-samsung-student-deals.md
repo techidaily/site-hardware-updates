@@ -1,7 +1,7 @@
 ---
 title: Returning to Campus? Score Big Savings on Laptops, Tablets From Samsung | Student Deals
-date: 2025-01-27T18:32:40.523Z
-updated: 2025-02-01T21:53:03.474Z
+date: 2025-01-31T02:41:43.398Z
+updated: 2025-02-02T20:16:45.406Z
 tags:
   - laptops
 categories:
@@ -51,7 +51,7 @@ If you want to shop around, Samsung isn't the only brand offering student discou
 * [Razer Education Purchase Program](https://razer.a9yw.net/c/159047/642901/10229?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.razer.com%2Feducation%3F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -90,22 +90,20 @@ However, stock may expire at any time. ZDNET remains committed to finding, shari
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-navigate-through-windows-11s-best-practices-for-imports/"><u>[New] 2024 Approved Navigate Through Windows 11'S Best Practices for Imports</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-blades-visual-journey-from-standard-to-stunning-4k/"><u>[Updated] In 2024, Blade's Visual Journey From Standard to Stunning 4K</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-samurai-spirit-explored-in-top-10-gaming-worlds/"><u>[Updated] Samurai Spirit, Explored in Top 10 Gaming Worlds</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722976143555-adjustment-of-corticosteroid-therapy-with-careful-assessment-to-reduce-their-use-balancing-anti-inflammatory-needs-and-minimizing-immunosuppression/"><u>Adjustment of Corticosteroid Therapy with Careful Assessment to Reduce Their Use, Balancing Anti-Inflammatory Needs and Minimizing Immunosuppression</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/augmented-world-wonders-iphoneandroids-finest-games-for-2024/"><u>Augmented World Wonders IPhone/Android's Finest Games for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-nova-y71-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Nova Y71</u></a></li>
-<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-v27-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo V27 Pro Location Settings | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723262267890-elevate-your-amd-ryzen-9-the-ultimate-overclock-guide-skyrocket-performance-by-plus250mhz-and-dominate-with-27-better-scores-on-geekbench/"><u>Elevate Your AMD Ryzen 9 - The Ultimate Overclock Guide: Skyrocket Performance by +250MHz & Dominate with 27% Better Scores on Geekbench!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-newest-video-graphics-adapter-updates-at-no-cost/"><u>Get the Newest Video Graphics Adapter Updates at No Cost!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721472139694-how-to-resolve-your-iphone-when-it-gets-stuck-at-startup-apple-icon-6-strategies-you-can-try-today/"><u>How to Resolve Your iPhone When It Gets Stuck at Startup (Apple Icon) - 6 Strategies You Can Try Today</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/insights-from-benchmark-leader-limited-field-for-qualcomm-copilotplus-windows-on-arm-gadgets-tested-naturally-merely-56-units-in-past-month/"><u>Insights From Benchmark Leader: Limited Field for Qualcomm Copilot+ Windows-on-ARM Gadgets Tested Naturally - Merely 56 Units in Past Month</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/newly-released-usb-to-hdmi-driver-downloads-for-optimal-performance/"><u>Newly Released USB to HDMI Driver Downloads for Optimal Performance</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/optimal-obs-studio-setup-top-configurations-guaranteed-to-enhance-your-recordings/"><u>Optimal Obs Studio Setup: Top Configurations Guaranteed to Enhance Your Recordings</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/overcoming-hurdles-in-downloading-and-configuring-your-dell-mouses-drivers/"><u>Overcoming Hurdles in Downloading and Configuring Your Dell Mouse's Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-fixing-compatibility-problems-with-lg-usb-devices-on-windows-systems/"><u>Step-by-Step Guide: Fixing Compatibility Problems with LG USB Devices on Windows Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-guide-for-updating-intel-centrino-advanced-n-wireless-network-adapter-62306237u-drivers/"><u>The Ultimate Guide for Updating Intel Centrino Advanced-N Wireless Network Adapter (6230/6237U) Drivers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-walkthrough-for-setting-up-your-fire-stick-through-cellular-hotspots/"><u>The Ultimate Walkthrough for Setting Up Your Fire Stick Through Cellular Hotspots</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-maximizing-marketing-the-best-highlight-techniques-for-brands/"><u>[New] 2024 Approved Maximizing Marketing The Best Highlight Techniques for Brands</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-viral-vibrancy-trending-audio-amplifying-your-yt-shorts/"><u>[New] In 2024, Viral Vibrancy Trending Audio Amplifying Your YT Shorts</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-is-your-facebook-video-more-engaging-in-a-vertical-format/"><u>[New] Is Your Facebook Video More Engaging in a Vertical Format?</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-photography-refinement-removing-backgrounds-and-blurring-effectively/"><u>[New] Photography Refinement Removing Backgrounds & Blurring Effectively</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-elevate-your-brand-with-these-biz-channel-standouts/"><u>[Updated] In 2024, Elevate Your Brand with These Biz Channel Standouts</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-unleash-your-potential-with-snapchats-commerce-tools-for-2024/"><u>[Updated] Unleash Your Potential with Snapchat's Commerce Tools for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/google-meet-recording-made-easy-for-smartphone-users-for-2024/"><u>Google Meet Recording Made Easy for Smartphone Users for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-the-new-lg-gram-pro-outperforms-apples-macbook-air-in-key-aspects-insights-by-zdnet/"><u>How the New LG Gram Pro Outperforms Apple's MacBook Air in Key Aspects | Insights by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/office-ready-laptops-beyond-dell-and-lenovo-expert-picks-on-the-markets-hidden-gems-tech-advisor/"><u>Office-Ready Laptops Beyond Dell and Lenovo: Expert Picks on the Market's Hidden Gems | Tech Advisor</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723004713026-pc-gaming-problem-solved-unfreeze-your-fall-guys-experience-today/"><u>PC Gaming Problem Solved: Unfreeze Your Fall Guys Experience Today!</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/smartphone-image-editing-ios-and-androids-top-picks-2e-edition-for-2024/"><u>Smartphone Image Editing IOS & Android's Top Picks (2E Edition) for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/surpassing-expectations-in-ruggedness-and-customizability-a-deep-dive-into-the-laptop-that-stands-out-from-getacs/"><u>Surpassing Expectations in Ruggedness & Customizability: A Deep Dive Into the Laptop That Stands Out From Getacs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-affordable-laptops-in-2eighty-four-comprehensive-reviews-and-ratings-below-1k-tech-insights/"><u>Top-Rated Affordable Laptops in 2Eighty-Four: Comprehensive Reviews & Ratings Below $1K - Tech Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-deals-score-apples-m2-macbook-air-at-just-749-during-october-prime-day-amazon-zdnet/"><u>Unbeatable Deals: Score Apple's M2 MacBook Air at Just $749 During October Prime Day - Amazon | ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/uncover-hidden-gems-top-notch-laptops-under-700-featured-by-zdnet/"><u>Uncover Hidden Gems: Top-Notch Laptops Under $700 Featured by ZDNet</u></a></li>
 </ul></div>
 

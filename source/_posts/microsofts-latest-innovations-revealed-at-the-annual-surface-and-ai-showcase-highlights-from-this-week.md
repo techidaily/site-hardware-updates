@@ -1,7 +1,7 @@
 ---
 title: "Microsoft's Latest Innovations Revealed at the Annual Surface and AI Showcase: Highlights From This Week"
-date: 2025-01-19T03:33:02.507Z
-updated: 2025-01-25T01:56:27.026Z
+date: 2025-02-02T08:51:34.814Z
+updated: 2025-02-03T04:14:18.356Z
 tags:
   - laptops
 categories:
@@ -25,7 +25,7 @@ After months of [speculation](https://www.zdnet.com/article/microsofts-october-1
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Featured
@@ -40,6 +40,10 @@ On the surface, Microsoft has kept its fall lineup of products nearly indistingu
 Here's everything that the company announced during its October event.
 
 **Also: [How did Microsoft manage to get it right with Surface?](https://www.zdnet.com/article/how-did-microsoft-manage-to-get-it-right-with-surface/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Surface Laptop 5 gets a splash of color
 
@@ -58,7 +62,7 @@ What's different about the new Surface Laptop starts with the 12th-generation In
 The Surface Laptop 5 will be available in select markets beginning on Oct. 25 with a [starting price of $999](https://www.microsoft.com/en-us/store/configure/Surface-Laptop-5/8XN49V61S1BN?) for the i5, 8GB of RAM, and 256GB model. The laptop will be available in classic Platinum, Black, and Sandstone colorways, as well as a new leafy "Sage" option. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Goodbye Surface Pro X, hello Surface Pro 9
@@ -80,7 +84,7 @@ Not-so-big news: The rest is a standard Surface Pro affair; 2-in-1 design with a
 As far as pricing goes, the Intel-based Surface Pro 9 starts at [$999](https://www.microsoft.com/en-us/store/configure/Surface-Pro-9/93VKD8NP4FVK?) (i5, 8GB RAM, 128GB), and the ARM-based model starts at [$1,299](https://www.microsoft.com/en-us/store/configure/Surface-Pro-9/93VKD8NP4FVK?) (SQ3, 8GB RAM, 128GB). The former comes in Platinum, Graphite, Forest, and Sapphire, while the latter only comes in Platinum. Preorders start today. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The aptly-named Surface Studio 2+
@@ -98,7 +102,7 @@ For all the performance gains that you're getting, Microsoft is making you pay t
 [Buy the Surface Studio 2+ View now at Microsoft](https://www.microsoft.com/en-us/store/configure/Surface-Studio-2/8VLFQC3597K4?)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Microsoft Presenter+ and Audio Dock
@@ -112,10 +116,6 @@ Releasing alongside the new Surface products are the Microsoft Presenter+ and Mi
 **More: [Microsoft's new accessories are geared toward the hybrid era of work](https://www.zdnet.com/article/microsofts-new-accessories-are-geared-toward-the-hybrid-era-of-work/)**
 
 The Microsoft Audio Dock is both a docking station with four ports (HDMI, 2x USB-C, and USB-A) and a speaker for audio input and output. For $249, which is not cheap for either of its two functions, Microsoft promises "premium sound" and noise-reducing microphones that will help you "be heard clearly in your next online meeting."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Microsoft Designer takes on Canva
 
@@ -163,20 +163,24 @@ Microsoft officials say that Designer is targeted at consumers more than anyone 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-crafting-compelling-vo-for-visual-storytelling-success-for-2024/"><u>[New] Crafting Compelling VO for Visual Storytelling Success for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-crafting-the-perfect-binge-worthy-mukbang-experience/"><u>[New] In 2024, Crafting the Perfect Binge-Worthy Mukbang Experience</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-picart-tips-effortless-face-blurring-trick/"><u>[Updated] 2024 Approved PicArt Tips Effortless Face Blurring Trick</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/corsair-unveils-upgraded-2022-series-experience-the-next-gen-hxi-1000w-and-1500w-psus/"><u>Corsair Unveils Upgraded 2022 Series - Experience the Next-Gen HXi 1000W and 1500W PSUs</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-apple-iphone-14-plus-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on Apple iPhone 14 Plus</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-lava-blaze-2-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Lava Blaze 2 5G phone? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/in-depth-analysis-of-toms-computing-innovations/"><u>In-Depth Analysis of Tom's Computing Innovations</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/in-depth-evaluation-of-the-seasonic-prime-tx-1600-power-unit-performance/"><u>In-Depth Evaluation of the Seasonic Prime TX-1600 Power Unit Performance</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/lowest-price-on-lian-li-lancool-215-vibrant-and-sleek-design-for-just-89/"><u>Lowest Price on Lian Li Lancool 215 - Vibrant and Sleek Design for Just $89!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-the-latest-gadgets-with-tom-your-ultimate-hardware-guide/"><u>Navigating the Latest Gadgets with Tom: Your Ultimate Hardware Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/pci-express-50-ready-msi-1300w-high-performance-psu/"><u>PCI Express 5.0 Ready MSI 1300W High-Performance PSU</u></a></li>
-<li><a href="https://review-topics.techidaily.com/realme-tutorial-bypass-lock-screensecurity-password-pinfingerprintpattern-by-drfone-android-unlock-android-unlock/"><u>Realme Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/review-and-analysis-of-toms-technology-products-your-trusted-resource/"><u>Review & Analysis of Tom's Technology Products: Your Trusted Resource</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/secure-your-apple-watch-series-10-now-save-big-with-a-limited-time-offer-at-best-buy-learn-more-inside/"><u>Secure Your Apple Watch Series 10 Now: Save Big with a Limited-Time Offer at Best Buy – Learn More Inside!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/transforma-archivos-de-video-a-avi-en-linea-gratuita-una-guia-sencilla-para-convertir-y-compartir-formatos-multimedia-con-eficiencia-mediante-movavi/"><u>Transforma Archivos De Vídeo a AVI en Línea Gratuita: Una Guía Sencilla Para Convertir Y Compartir Formatos Multimedia Con Eficiencia Mediante Movavi</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-top-ranked-independent-offline-mobile-gaming-android/"><u>[New] 2024 Approved Top-Ranked Independent Offline Mobile Gaming (Android)</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-non-sharex-heroes-for-secure-file-sharing/"><u>[Updated] 2024 Approved Non-ShareX Heroes for Secure File Sharing</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-mastering-instagrams-hashtag-language-for-enhanced-engagement/"><u>[Updated] In 2024, Mastering Instagram's Hashtag Language for Enhanced Engagement</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/affordable-luxury-m3-macbook-pro-for-less-than-10k-premium-features-that-challenge-expectations-techspot/"><u>Affordable Luxury: M3 MacBook Pro for Less than $10K - Premium Features that Challenge Expectations | TechSpot</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/avchd-mts-converter-for-huawei-by-aiseesoft-video-converter-play-mts-on-android/"><u>AVCHD MTS Converter for Huawei </u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/beat-the-hype-exclusive-550-discount-on-best-buys-samsung-odyssey-neo-g8-for-prime-shoppers-review/"><u>Beat the Hype: Exclusive $550 Discount on Best Buy's Samsung Odyssey Neo G8 for Prime Shoppers Review</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-ideal-laptop-for-your-creative-workflow-professional-ratings-and-in-depth-analysis-zdnet-exclusive/"><u>Discover the Ideal Laptop for Your Creative Workflow: Professional Ratings & In-Depth Analysis | ZDNet Exclusive</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-marvels-of-my-top-pick-an-innovative-origami-designed-laptop-sleeve-for-adventurous-travelers-insights/"><u>Discover the Marvels of My Top Pick: An Innovative Origami-Designed Laptop Sleeve for Adventurous Travelers - Insights</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-get-started-with-wax-a-free-video-editing-software-tutorial/"><u>New Get Started with Wax A Free Video Editing Software Tutorial</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-the-non-responder-service-error-on-windows/"><u>Remedying the Non-Responder Service Error on Windows</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ride-the-waves-with-top-tier-surf-cameras/"><u>Ride the Waves with Top-Tier Surf Cameras</u></a></li>
+<li><a href="https://techtrends.techidaily.com/set-up-the-clock-on-your-kindle-paperwhite-easy-instructions-for-perfect-timing/"><u>Set Up the Clock on Your Kindle Paperwhite: Easy Instructions for Perfect Timing</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/snag-the-last-apple-m2-macbook-air-at-unbeatable-price-of-749-during-octobers-huge-amazon-prime-day-sale-dont-miss-out/"><u>Snag the Last Apple M2 MacBook Air at Unbeatable Price of $749 During October's Huge Amazon Prime Day Sale – Don't Miss Out!</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/swiftswirl-momentmirror-recording/"><u>SwiftSwirl MomentMirror Recording</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-underrated-champion-of-laptops-exploring-dells-latest-model-brimming-with-smart-features-at-an-attractive-cost-gadgetguru/"><u>The Underrated Champion of Laptops: Exploring Dell’s Latest Model Brimming With Smart Features at an Attractive Cost | GadgetGuru</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-prime-day-electronics-offers-exclusive-laptops-bargains-await-this-oct04/"><u>Top Prime Day Electronics Offers: Exclusive Laptops Bargains Await This Oct'04!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-october-savings-metas-just-released-512gb-quest-3-offers-top-pick-for-vr-enthusiasts-during-prime-day-sales-insights/"><u>Unbeatable October Savings: Meta's Just-Released 512GB Quest 3 Offers Top Pick for VR Enthusiasts During Prime Day Sales - Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlocking-a-hassle-free-windows-free-experience-with-discounted-hp-chromebook-insights-and-tips/"><u>Unlocking a Hassle-Free Windows-Free Experience with Discounted HP Chromebook: Insights & Tips</u></a></li>
 </ul></div>
 

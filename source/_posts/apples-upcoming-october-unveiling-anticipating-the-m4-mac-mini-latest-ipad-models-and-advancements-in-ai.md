@@ -1,7 +1,7 @@
 ---
 title: "Apple's Upcoming October Unveiling: Anticipating the M4 Mac Mini, Latest iPad Models & Advancements in AI"
-date: 2025-01-25T21:23:30.940Z
-updated: 2025-02-01T21:28:04.274Z
+date: 2025-01-30T21:27:15.312Z
+updated: 2025-02-02T19:29:45.775Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,16 +118,24 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/-step-by-step-expedition-to-youtubes-unseen-layers-for-2024/"><u>[New] A Step-by-Step Expedition to YouTube's Unseen Layers for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-transform-your-videos-swiftly-with-these-top-8-iphone-apps/"><u>[Updated] 2024 Approved Transform Your Videos Swiftly with These Top 8 iPhone Apps</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-5-ways-to-record-streaming-audio-online-for-2024/"><u>[Updated] 5 Ways to Record Streaming Audio Online for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-walkthrough-acquiring-and-setting-up-epson-xp-430-drivers-on-windows-systems/"><u>Comprehensive Walkthrough: Acquiring & Setting Up Epson XP-430 Drivers on Windows Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/dell-support-update-refined-communication-protocols-for-advanced-smbus-controllers/"><u>Dell Support Update: Refined Communication Protocols for Advanced SMBus Controllers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-latest-ch340g-serial-adapter-drivers-for-windows-10/"><u>Download & Install Latest CH340G Serial Adapter Drivers for Windows 10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-update-the-hp-officejet-pro-6970-printer-drivers-for-windows/"><u>Download and Update the HP Officejet Pro 6970 Printer Drivers for Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/essential-software-tools-and-driver-downloads-for-optimizing-your-samsung-850-evo-performance/"><u>Essential Software Tools and Driver Downloads for Optimizing Your Samsung 850 EVO Performance</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-lock-on-iphone-12-pro-by-drfone-ios/"><u>How to Bypass iCloud Lock on iPhone 12 Pro</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/keep-your-windows-devices-updated-a-comprehensive-tutorial-by-yl-software/"><u>Keep Your Windows Devices Updated: A Comprehensive Tutorial by YL Software</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unwrapping-the-4k-delight-sony-xperia-xz-premium-examined/"><u>Unwrapping the 4K Delight Sony Xperia XZ Premium Examined</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-the-art-of-testimonials-techniques-for-persuasive-video-credibility/"><u>[Updated] 2024 Approved The Art of Testimonials Techniques for Persuasive Video Credibility</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-effortless-content-migration-from-android-to-apple-devices/"><u>2024 Approved Effortless Content Migration From Android to Apple Devices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-from-novice-to-pro-transforming-zoom-into-a-youtube-live-staple/"><u>2024 Approved From Novice to Pro Transforming Zoom Into a YouTube Live Staple</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/acer-chromebook-cb5-516-gex-reviewed-excellence-in-streaming-play-on-chrome-os-zdnet/"><u>Acer Chromebook CB5-516-GEX Reviewed: Excellence in Streaming Play on Chrome OS | ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-amazon-offers-before-prime-day-2024-exclusive-tips-and-tricks/"><u>Best Amazon Offers Before Prime Day 2024: Exclusive Tips & Tricks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/can-the-msi-steam-deck-dominate-portable-gaming-and-challenge-competitors-insights/"><u>Can the MSI Steam Deck Dominate Portable Gaming and Challenge Competitors? - Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/elite-touchscreen-laptops-unveiled-comprehensive-tests-and-expert-insights-zdnet/"><u>Elite Touchscreen Laptops Unveiled: Comprehensive Tests & Expert Insights | ZDNET</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-12-pro-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 12 Pro without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-mastery-of-digital-recording-step-by-step-insight/"><u>In 2024, Mastery of Digital Recording - Step-by-Step Insight</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-honor-play-7t-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Honor Play 7T</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/intelligent-computing-redefined-how-lenovos-innovative-ai-thinkpads-are-setting-new-standards-for-business-laptops-exclusive-analysis-by-zdnet/"><u>Intelligent Computing Redefined: How Lenovo's Innovative AI ThinkPads Are Setting New Standards for Business Laptops – Exclusive Analysis by ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-excel-complexities-with-chatgpt-support/"><u>Navigating Excel Complexities with ChatGPT Support</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/snag-the-deal-before-its-gone-8tb-samsung-t5-ssd-available-for-less-than-half-price-at-amazon-zdnet-report/"><u>Snag the Deal Before It's Gone: 8TB Samsung T5 SSD Available for Less Than Half Price at Amazon | ZDNet Report</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210324985-9781507217573-the-modern-witchcraft-guide-to-runes/"><u>The Modern Witchcraft Guide to Runes | Free Book</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-65-holiday-laptop-bargains-for-gamers-exclusive-offers-featured-by-zdnet/"><u>Top 65 Holiday Laptop Bargains for Gamers - Exclusive Offers Featured by ZDNet</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/transforming-youtube-footage-the-essentials-of-wm-maker-use-for-2024/"><u>Transforming YouTube Footage The Essentials of WM Maker Use for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlock-200-savings-on-apples-new-m3-macbook-pro-exclusive-amazon-spring-sale-offer-tech-insights/"><u>Unlock $200 Savings on Apple’s New M3 MacBook Pro - Exclusive Amazon Spring Sale Offer | Tech Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-advanced-features-with-meta-ai-on-instagram-a-comprehensive-guide/"><u>Unlocking Advanced Features with Meta AI on Instagram: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-affordable-excellence-a-deep-dive-into-dells-lesser-known-laptop-with-impressive-capabilities-insights-from-zdnet/"><u>Unveiling Affordable Excellence: A Deep-Dive Into Dell's Lesser-Known Laptop with Impressive Capabilities - Insights From ZDNET</u></a></li>
 </ul></div>
 

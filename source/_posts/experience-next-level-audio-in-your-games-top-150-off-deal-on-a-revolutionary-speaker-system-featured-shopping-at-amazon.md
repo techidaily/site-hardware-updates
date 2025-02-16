@@ -1,7 +1,7 @@
 ---
 title: "Experience Next-Level Audio in Your Games: Top $150 Off Deal on a Revolutionary Speaker System Featured | Shopping at Amazon"
-date: 2025-01-25T19:37:13.529Z
-updated: 2025-02-01T22:51:09.527Z
+date: 2025-01-29T09:54:05.262Z
+updated: 2025-02-02T22:41:38.224Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Taylor Clemons/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET takeaways
@@ -75,7 +75,7 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -87,7 +87,7 @@ And if you're simply looking for a reliable set of PC speakers, the [Arena 3](ht
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does this deal expire?
@@ -124,18 +124,24 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-halt-facebook-ads-in-vids-your-guide/"><u>[New] 2024 Approved Halt Facebook Ads in Vids Your Guide</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-transcription-triumphs-quick-methods-for-fb-call-records/"><u>[Updated] 2024 Approved Transcription Triumphs Quick Methods for FB Call Records</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-become-a-close-up-connoisseur-advanced-roleplay-tips/"><u>[Updated] Become a Close-Up Connoisseur Advanced Roleplay Tips</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-the-official-hp-thunderbolt-dock-g2-driver-package-120w23er/"><u>Download & Install the Official HP Thunderbolt Dock G2 Driver Package (120W/23er)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-newest-amd-radeon-r5-drivers-compatible-with-windows-111087/"><u>Download the Newest AMD Radeon R5 Drivers: Compatible with Windows 11/10/8/7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-installation-of-logitech-wireless-keyboards-for-windows-11-users/"><u>Easy Installation of Logitech Wireless Keyboards for Windows 11 Users</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/enhance-audio-integrity-for-online-gatherings/"><u>Enhance Audio Integrity for Online Gatherings</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-download-ultimate-guide-to-installing-usb-c-drivers-on-windows-10/"><u>Free Download: Ultimate Guide to Installing USB-C Drivers on Windows 10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-dell-wireless-adapter-drivers-for-windows-7-free-and-fast/"><u>Get Dell Wireless Adapter Drivers for Windows 7 - Free and Fast!</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-samsung-galaxy-xcover-6-pro-tactical-edition-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Samsung Galaxy XCover 6 Pro Tactical Edition Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96476501-9780880504355-life-is-a-soap-bubble/"><u>Life Is a Soap Bubble | Free Book</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/start-crafting-movies-xp-edition-install-guide-for-2024/"><u>Start Crafting Movies Xp Edition Install Guide for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/troubleshooting-tips-how-to-refresh-the-drivers-for-usb-serial-adapter-devices/"><u>Troubleshooting Tips: How To Refresh the Drivers for USB Serial Adapter Devices</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-document-the-drive-on-your-galaxy-screen-for-2024/"><u>[New] Document the Drive on Your Galaxy Screen for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amazon-prime-day-bonanza-score-high-performance-nvidia-gpu-laptops-at-unbeatable-prices-in-202n-tech-news-from-zdnet/"><u>Amazon Prime Day Bonanza: Score High-Performance Nvidia GPU Laptops at Unbeatable Prices in 202N - Tech News From ZDNet</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-ace-2-pro-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Ace 2 Pro</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/cyber-monday-blowout-top-picks-for-laptop-coolers-at-unbeatable-prices-find-the-best/"><u>Cyber Monday Blowout: Top Picks for Laptop Coolers at Unbeatable Prices - Find the Best !</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/day-one-highlights-from-ces-202n-top-tech-reveals-and-breakthroughs-zdnet/"><u>Day One Highlights From CES 202N: Top Tech Reveals and Breakthroughs - ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-massive-savings-the-high-capacity-4tb-samsung-t5-drive-at-a-steep-discount-shop-now-at-amazon-featured-by-zdnet/"><u>Discover Massive Savings: The High-Capacity 4TB Samsung T5 Drive at a Steep Discount - Shop Now at Amazon | Featured by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-hidden-gem-in-this-modest-asus-laptop-a-game-changing-feature-for-designers-revealed/"><u>Discover the Hidden Gem in This Modest Asus Laptop: A Game-Changing Feature for Designers Revealed</u></a></li>
+<li><a href="https://blog-min.techidaily.com/dvd-digiarty34/"><u>DVDコピー情報が満載! Digiartyソフトウェアの34ページ目解説。</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-savings-on-tech-insights-from-using-microsofts-budget-friendly-surface-pro-11-a-windows-gurus-perspective/"><u>Exploring Savings on Tech: Insights From Using Microsoft's Budget-Friendly Surface Pro 11 - A Windows Guru's Perspective</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/exploring-the-boundaries-64128gb-for-vids-for-2024/"><u>Exploring the Boundaries 64/128GB for Vids for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-tecno-phantom-v-flip-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on Tecno Phantom V Flip</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-transforming-augmented-reality-with-downloaded-free-luts-for-development/"><u>In 2024, Transforming Augmented Reality with Downloaded, Free LUTs for Development</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/monetizing-makeup-tutorial-content-for-2024/"><u>Monetizing Makeup Tutorial Content for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-pixel-watch-3-flaws-a-leap-forward-in-addressing-user-concerns-for-google-smartwatches/"><u>Resolving Pixel Watch 3 Flaws - A Leap Forward in Addressing User Concerns for Google Smartwatches</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/step-by-step-tutorial-on-ripping-dvds-into-crystal-clear-hd-format/"><u>Step-by-Step Tutorial on Ripping DVDs Into Crystal Clear HD Format</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-october-prime-day-202e-gaming-bargains-final-opportunity-to-cut-prices-by-1k-or-more-discover-tips-on-zdnet/"><u>Top October Prime Day 202E Gaming Bargains - Final Opportunity to Cut Prices by $1K or More! Discover Tips on ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-prime-day-offer-save-210-on-a-high-capacity-wd-elements-external-drive-limited-time-blowout-sale/"><u>Unbeatable Prime Day Offer: Save $210 on a High-Capacity WD Elements External Drive, Limited-Time Blowout Sale!</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-easiest-video-editor-for-mac-make-impressive-videos-with-ease/"><u>Updated In 2024, Easiest Video Editor for Mac Make Impressive Videos with Ease</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/why-the-asus-laptop-outperforms-apples-macbook-in-key-areas-a-detailed-review-by-zdnet/"><u>Why the ASUS Laptop Outperforms Apple's MacBook in Key Areas – A Detailed Review by ZDNet</u></a></li>
 </ul></div>
 

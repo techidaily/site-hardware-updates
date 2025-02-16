@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Black Friday Bargain: Snag Lenovo's Flex 지난에 $99 Deal Before Cyber Monday Chaos | ZDNET"
-date: 2025-01-27T22:03:46.349Z
-updated: 2025-02-01T22:00:38.109Z
+date: 2025-02-01T07:55:42.870Z
+updated: 2025-02-03T06:42:07.141Z
 tags:
   - laptops
 categories:
@@ -16,7 +16,7 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
 Cyber Monday is one of the best times of the year to purchase your next laptop or tablet. Considerable discounts plus major brands equal unparalleled savings. Say you're working within a limited budget, though -- under $100 or under $500\. I compared the best laptops by their standout features, including processing power, RAM, and operating system, to arrive at the best laptop under $500 and under $100 this Cyber Monday.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -24,7 +24,7 @@ Cyber Monday is one of the best times of the year to purchase your next laptop o
 [![04-bf-cm.png](https://www.zdnet.com/a/img/resize/954e855aae296b0590d40ff6eba4167fd27f3d67/2022/11/29/2911e8eb-1a11-4aa3-8ff7-015c7e854046/04-bf-cm.png?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best Black Friday and Cyber Monday tech deals still available If you missed out on this year's mega sale events, no problem. ZDNET is rounding up the best tech deals still available, right here.  Read now](https://www.zdnet.com/collection/cyber-monday/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 In the under $500 category, you get the highest savings on the [HP Pavilion 15t-eg200 laptop](https://www.tkqlhce.com/click-9041660-15850793?url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fhp-pavilion-laptop-15t-eg200-laptop-4u8e0av-1&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). The 15.6-inch laptop is on sale through HP for $450 -- a markdown of $450 from its original $900 price. It comes with a Windows 11 Home operating system, an Intel® Core™ i5 processor, an Intel® Iris® Xe Graphics card, 8 GB memory, and 256 GB storage. It has a fingerprint reader, a long lasting battery that supports fast charging of about 50% in 45 minutes, and an HD wide vision 720p HD camera that's perfect for Zoom calls with noise reduction and integrated microphones. 
@@ -73,24 +73,17 @@ If your budget is in the under $100 category, and you want the best value for yo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-violation-woes-abrupt-creative-cut-off/"><u>[New] In 2024, Violation Woes Abrupt Creative Cut-Off</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-unlock-your-fcp-potential-with-these-10-plugs/"><u>[New] Unlock Your FCP Potential with These 10 Plugs</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-enhance-visibility-top-methods-for-instagram-hits/"><u>[Updated] In 2024, Enhance Visibility Top Methods for Instagram Hits</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-mastering-macs-preview-a-comprehensive-tutorial/"><u>2024 Approved Mastering Mac's Preview A Comprehensive Tutorial</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-asus-vg248qe-monitor-driver-on-windows-quick-guide/"><u>Download & Install Asus VG248QE Monitor Driver on Windows - Quick Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-methods-to-download-and-improve-your-intel-hd-graphics-5500-software/"><u>Easy Methods to Download & Improve Your Intel HD Graphics 5500 Software</u></a></li>
-<li><a href="https://video-capture.techidaily.com/easy-routines-keeping-a-transcript-of-google-voice-calls-for-2024/"><u>Easy Routines Keeping a Transcript of Google Voice Calls for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-ricoh-mp-c3003-driver-installers-here/"><u>Get Your Ricoh MP C3003 Driver Installers Here</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-apply-the-recent-mono-laser-printer-driver-updates-on-dell-2330d2330dn-units/"><u>How to Apply the Recent Mono Laser Printer Driver Updates on Dell 2330D/2330DN Units</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-infinix-hot-30i-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Infinix Hot 30i to New Phone | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Tecno Spark 20? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/materials-used-in-scaffolding-should-be-chosen-based-on-their-strength-properties-to-withstand-various-forces/"><u>Materials Used in Scaffolding Should Be Chosen Based on Their Strength Properties to Withstand Various Forces.</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/meme-masterpieces-iphones-here/"><u>Meme Masterpieces, iPhones Here</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-high-end-gadgets-and-equipment-with-toms-wisdom/"><u>Navigating High-End Gadgets & Equipment with Tom's Wisdom</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/professional-audio-interface-upgrade-focusrite-scarlett-solo-driver-download-and-install-on-windows/"><u>Professional Audio Interface Upgrade: Focusrite Scarlett Solo Driver [Download & Install] on Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/resolving-driver-problems-with-arduino-uno-on-windows-pc/"><u>Resolving Driver Problems with Arduino Uno on Windows PC</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/revolutionizing-tech-with-microsofts-new-approach-to-cloud-services-and-devices-a-deep-dive-by-zdnet/"><u>Revolutionizing Tech with Microsoft's New Approach to Cloud Services & Devices – A Deep Dive by ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/streamlined-driver-installation-for-hp-envy-5055-download-now-effortlessly/"><u>Streamlined Driver Installation for HP Envy 5055: Download Now Effortlessly</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-fast-track-to-faster-download-speeds-on-steams-origin-platform-2024-insights/"><u>The Fast Track to Faster Download Speeds on Steam's Origin Platform - 2024 Insights</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-calculating-the-storage-space-of-24-hour-videos-for-2024/"><u>[New] Calculating the Storage Space of 24-Hour Videos for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-integrate-video-content-for-playlist-building/"><u>[New] In 2024, Integrate Video Content for Playlist Building</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-translating-views-into-dollars-on-youtube-via-cpm/"><u>[Updated] 2024 Approved Translating Views Into Dollars on YouTube via CPM</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-watch-chat-guide-seamless-ways-to-reach-out-to-loved-ones-according-to-zdnet/"><u>Apple Watch Chat Guide: Seamless Ways to Reach Out to Loved Ones, According to ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-bang-for-your-buck-laptop-with-stunning-screen-quality-revealed-by-zdnet/"><u>Best Bang for Your Buck Laptop with Stunning Screen Quality Revealed by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/beware-of-untrusted-hands-how-pc-technicians-may-compromise-your-personal-files-reveals-latest-study-zdnet/"><u>Beware of Untrusted Hands: How PC Technicians May Compromise Your Personal Files, Reveals Latest Study | ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/high-quality-screen-at-unbelievable-prices-a-comprehensive-review-of-an-impressively-lightweight-computer/"><u>High-Quality Screen at Unbelievable Prices: A Comprehensive Review of an Impressively Lightweight Computer</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Vivo S17? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/making-the-most-out-of-both-worlds-after-win-11s-release/"><u>Making the Most Out of Both Worlds After Win 11'S Release</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-prime-day-cyber-monday-bargains-on-computers-find-the-best-october-offers/"><u>Top Prime Day Cyber Monday Bargains on Computers - Find the Best October Offers!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-ranking-student-laptops-comprehensive-reviews-and-expert-evaluations/"><u>Top-Ranking Student Laptops: Comprehensive Reviews & Expert Evaluations</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-finding-the-ideal-game-voice-modifier-a-comprehensive-guide/"><u>Updated In 2024, Finding the Ideal Game Voice Modifier A Comprehensive Guide</u></a></li>
 </ul></div>
 

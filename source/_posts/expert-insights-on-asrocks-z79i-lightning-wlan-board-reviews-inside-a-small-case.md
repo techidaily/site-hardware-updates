@@ -1,7 +1,7 @@
 ---
 title: Expert Insights on ASRock's Z79#i Lightning WLAN Board – Reviews Inside a Small Case
-date: 2024-08-19T04:22:19.370Z
-updated: 2024-08-20T04:22:19.370Z
+date: 2025-01-31T22:45:34.479Z
+updated: 2025-02-03T04:44:14.757Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +62,22 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-fresh-set-of-interview-points-for-captivated-ears/"><u>[New] Fresh Set of Interview Points for Captivated Ears</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-magic-behind-melodies-an-analysis-of-magix-music-maker/"><u>[Updated] Magic Behind Melodies An Analysis of Magix Music Maker</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-ultimate-best-buy-bargains-for-octobers-prime-day-2024-live-savings-spotlight/"><u>Discover the Ultimate Best Buy Bargains for October's Prime Day, 2024 - Live Savings Spotlight</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Vivo T2 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/explore-how-lenovos-latest-laptops-revolutionize-iphone-file-transferring-with-their-smart-solution-zdnet/"><u>Explore How Lenovo's Latest Laptops Revolutionize iPhone File Transferring with Their Smart Solution | ZDNET</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleash-your-podcast-potential-the-ultimate-guide-to-seo-excellence/"><u>In 2024, Unleash Your Podcast Potential The Ultimate Guide to SEO Excellence</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/recording-made-simple-your-phone-cookbook-for-snapping-stories-for-2024/"><u>Recording Made Simple Your Phone' Cookbook for Snapping Stories for 2024</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/schritt-fur-schritt-anleitung-sicherung-ihrer-gerate-daten-auf-einer-externen-speicherkarte/"><u>Schritt-Für-Schritt-Anleitung: Sicherung Ihrer Geräte-Daten Auf Einer Externen Speicherkarte</u></a></li>
+<li><a href="https://win-latest.techidaily.com/schritt-fur-schritt-guide-zum-klonen-ihrer-festplatte-unter-windows-versionen-11-10-8-und-7/"><u>Schritt-Für-Schritt-Guide Zum Klonen Ihrer Festplatte Unter Windows (Versionen 11, 10, 8 Und 7)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/snag-your-perfect-cyber-deal-expert-picks-for-under-500-laptops-plus-bonus-just-99-offer/"><u>Snag Your Perfect Cyber Deal! Expert Picks for Under $500 Laptops + Bonus Just $99 Offer</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-bargain-acers-chromebook-plus-strikes-gold-under-400-outshines-competitors/"><u>The Ultimate Bargain: Acer's Chromebook Plus Strikes Gold Under $400, Outshines Competitors</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-110-unbeatable-holiday-offers-on-apple-gadgets-televisions-computers-and-extras-insights-from-zdnet/"><u>Top 110 Unbeatable Holiday Offers on Apple Gadgets, Televisions, Computers & Extras - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-touchscreen-notebooks-in-depth-reviews-by-tech-experts-features/"><u>Top-Rated Touchscreen Notebooks: In-Depth Reviews by Tech Experts - Features</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-fixes-for-pc-players-stop-slime-rancher/"><u>Ultimate Fixes for PC Players: Stop Slime Rancher</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/why-lenovos-newly-unveiled-thinkbook-for-just-749-could-dominate-the-best-value-laptop-rankings-of-2024/"><u>Why Lenovo's Newly Unveiled ThinkBook for Just $749 Could Dominate the Best-Value Laptop Rankings of 2024!</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->

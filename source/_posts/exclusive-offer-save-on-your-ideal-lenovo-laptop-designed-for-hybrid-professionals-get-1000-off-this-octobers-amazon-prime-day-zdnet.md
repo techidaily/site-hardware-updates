@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Offer: Save on Your Ideal Lenovo Laptop Designed for Hybrid Professionals - Get $1,000 Off This October's Amazon Prime Day! | ZDNet"
-date: 2025-01-30T17:31:19.144Z
-updated: 2025-02-01T20:01:08.269Z
+date: 2025-01-28T01:59:38.842Z
+updated: 2025-02-03T06:47:56.254Z
 tags:
   - laptops
 categories:
@@ -42,7 +42,7 @@ This laptop isn't solely for business professionals, though. It's well-rounded e
 Right now is the best time to buy the [Lenovo Gen 12 ThinkPad X1 Carbon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D1D5J1J1%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3714981f-3a77-4004-9f5f-505a32073051%7Cdtp&dtb=1) since it's currently on sale at Amazon for $1,520 -- nearly $1,000 off the original price. I should also mention that there is a variant of the laptop with a 2.8K OLED display, which is the model [I tested back in February](https://www.zdnet.com/article/the-thinkpad-i-recommend-for-hybrid-workers-is-not-lenovos-newest-model/). The [OLED version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D5SNKGZ4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3714981f-3a77-4004-9f5f-505a32073051%7Cdtp&dtb=1) is much more expensive, but I recommend it as an alternative if you can afford it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -79,24 +79,16 @@ At the time of this writing, it is the second day of Amazon's October Prime Day 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-professional-film-techniques-for-drones/"><u>2024 Approved Professional Film Techniques for Drones</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amd-blockchain-drivers-download-and-install-for-windows/"><u>AMD Blockchain Drivers Download and Install for Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723262303052-amds-cutting-edge-ryzen-7-7800x3d-zen-5-architecture-leaves-zen-4-gaming-flagship-behind-with-a-staggering-23-performance-boost/"><u>AMD's Cutting-Edge Ryzen 7 7800X3D: Zen 5 Architecture Leaves Zen 4 Gaming Flagship Behind with a Staggering 23% Performance Boost</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-advanced-hardware-solutions-through-toms-expertise/"><u>Discover Advanced Hardware Solutions Through Tom's Expertise</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-steps-get-your-webcam-up-and-running-on-windows-7/"><u>Easy Steps: Get Your WebCam Up and Running on Windows 7</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enhancing-creative-workflow-with-microsoft-copilots-new-video-generation-features/"><u>Enhancing Creative Workflow with Microsoft Copilot's New Video Generation Features</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-download-compatible-samsung-printer-drivers-for-windows-operating-systems/"><u>Free Download: Compatible Samsung Printer Drivers for Windows Operating Systems</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-passcode-from-apple-iphone-se-2020-complete-guide-drfone-by-drfone-ios/"><u>How To Remove Passcode From Apple iPhone SE (2020)? Complete Guide | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/improve-your-display-performance-with-new-vga-driver-downloads/"><u>Improve Your Display Performance with New VGA Driver Downloads</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-your-disabled-apple-iphone-se-2022-without-itunes-in-5-ways-by-drfone-ios/"><u>In 2024, Unlock Your Disabled Apple iPhone SE (2022) Without iTunes in 5 Ways</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-official-nvidia-drivers-for-geforce-rtx-3070-ti-on-your-win-11-8-or-7-pc/"><u>Install Official NVIDIA Drivers for GeForce RTX 3070 Ti on Your Win 11, 8 or 7 PC</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/lenovo-thinkpad-t450-driver-update-fast-and-simple-installation-guide/"><u>Lenovo ThinkPad T450 Driver Update: Fast and Simple Installation Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-the-change-from-pin-based-logon-to-password-logon-in-windows-11/"><u>Navigating the Change From PIN-Based Logon to Password Logon in Windows 11</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-roblox-stuck-loading-screens-expert-tips-and-tricks/"><u>Overcoming Roblox Stuck Loading Screens: Expert Tips & Tricks</u></a></li>
-<li><a href="https://win-premium.techidaily.com/quick-and-painless-samsung-laptop-ssd-upgrade-process-the-ultimate-diy-kit/"><u>Quick & Painless Samsung Laptop SSD Upgrade Process - The Ultimate DIY Kit</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-gaming-must-haves-the-best-playstation-5-accessories/"><u>Top Gaming Must-Haves: The Best PlayStation 5 Accessories</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/form-your-youtube-presence-effortlessly-for-2024/"><u>Transform Your YouTube Presence Effortlessly for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlocking-high-performance-computing-in-europe-with-the-newly-priced-amd-ryzen-9-649/"><u>Unlocking High-Performance Computing in Europe with the Newly Priced AMD Ryzen 9 (€649)</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/windows-8-avi-file-editor-simple-and-efficient-video-editing-solution-for-2024/"><u>Windows 8 AVI File Editor Simple and Efficient Video Editing Solution for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-secrets-unveiled-perfect-your-360-youtube-live-experience/"><u>[New] Secrets Unveiled Perfect Your 360° YouTube Live Experience</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-uncovering-niche-experts-on-instagram-a-guide-to-impactful-collaborators-for-2024/"><u>[New] Uncovering Niche Experts on Instagram A Guide to Impactful Collaborators for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-elite-virtual-classrooms-finding-value-outside-udemys-ecosystem/"><u>[Updated] 2024 Approved Elite Virtual Classrooms Finding Value Outside Udemy's Ecosystem</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-masterclass-in-visualization-perfectly-cropped-instagram-videos/"><u>[Updated] In 2024, Masterclass in Visualization Perfectly Cropped Instagram Videos</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-one-source-livestream-perfection-a-streamers-blueprint/"><u>[Updated] One-Source Livestream Perfection A Streamer's Blueprint</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/conquering-quick-pause-in-windows-11-comprehensive-strategies-unveiled/"><u>Conquering Quick Pause in Windows 11: Comprehensive Strategies Unveiled</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-unmatched-gaming-performance-with-discounts-on-alienwares-beastly-m18-laptop-after-labor-day-tech-analysis/"><u>Experience Unmatched Gaming Performance with Discounts on Alienware's Beastly M18 Laptop After Labor Day | Tech Analysis</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-the-laptop-that-beats-apples-macbook-air-cost-vs-power-comparison-insights-from-zdnet/"><u>Exploring the Laptop That Beats Apple's MacBook Air: Cost vs Power Comparison | Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/immersed-in-lenovos-revolutionary-auto-swivel-laptop-unveiled-at-ifa-2024-an-exclusive-insight-zdn/"><u>Immersed in Lenovo’s Revolutionary Auto-Swivel Laptop Unveiled at IFA 2024: An Exclusive Insight | ZDN</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/inside-look-i-experienced-every-new-ai-update-on-copilot-pcs-and-heres-why-it-might-just-live-up-to-its-hype-zdnet-insider-report/"><u>Inside Look: I Experienced Every New AI Update on Copilot PCs & Here's Why It Might Just Live Up to Its Hype | ZDNET Insider Report</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-must-have-accessories-for-mac-and-pc-users-enhance-your-visual-experience-on-ultra-hd-8k-monitors-wired-gadgets/"><u>Top Must-Have Accessories for Mac and PC Users: Enhance Your Visual Experience on Ultra HD 8K Monitors | Wired Gadgets</u></a></li>
 </ul></div>
 

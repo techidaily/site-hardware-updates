@@ -1,7 +1,7 @@
 ---
 title: "Explore the Year's Finest Tech Marvels: Leading Gizmos and Tools of 2E23 Spotlighted by ZDNet"
-date: 2025-01-23T19:16:53.428Z
-updated: 2025-01-24T20:18:11.524Z
+date: 2025-01-30T10:17:12.162Z
+updated: 2025-02-03T09:07:38.354Z
 tags:
   - laptops
 categories:
@@ -31,7 +31,7 @@ Because AI tasks that run locally on a PC are typically executed by the CPU (cen
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### User requirements remain focused on hybrid work
@@ -69,7 +69,7 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -81,7 +81,7 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -134,21 +134,17 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-platform-selection-guide-determining-the-best-for-individual-creators/"><u>[New] In 2024, Platform Selection Guide Determining the Best for Individual Creators</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-essential-guide-to-affordable-online-recording-software/"><u>[Updated] In 2024, Essential Guide to Affordable Online Recording Software</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-vocal-clarity-macs-acoustic-secrets/"><u>[Updated] Vocal Clarity Mac's Acoustic Secrets</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-peeling-back-layers-of-xstudio-workshop-a-thorough-overview/"><u>2024 Approved Peeling Back Layers of XStudio Workshop - A Thorough Overview</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/acer-acoustic-enhancements-unleashed-quick-easy-driver-update-guide-available-now/"><u>Acer Acoustic Enhancements Unleashed – Quick, Easy Driver Update Guide Available Now!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dispelling-ai-crypto-analyst-fallacies/"><u>Dispelling AI Crypto Analyst Fallacies</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-steps-to-install-your-ricoh-printer-driver-in-windows-environment/"><u>Easy Steps to Install Your Ricoh Printer Driver in Windows Environment</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effective-ways-to-prevent-android-screens-from-lighting-up-with-notifications/"><u>Effective Ways to Prevent Android Screens From Lighting Up with Notifications</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/elevating-visual-quality-with-video-enhancer-v22/"><u>Elevating Visual Quality with Video Enhancer V2.2</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-thunderbolt-driver-downloads-compatible-with-windows/"><u>Free Thunderbolt Driver Downloads: Compatible with Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-gigabyte-speakers-up-and-running-free-drivers-now/"><u>Get Your Gigabyte Speakers Up and Running - Free Drivers Now!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-install-hp-officejet-3830-printer-drivers-on-windows-pcs/"><u>How to Install HP OfficeJet 3830 Printer Drivers on Windows PCs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-audio-drivers-available-optimize-logitech-speakers-with-windows-1178-support/"><u>Latest Audio Drivers Available: Optimize Logitech Speakers with Windows 11/7/8 Support</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/maximize-sharing-tiktok-video-broadcasts-on-facebook/"><u>Maximize Sharing TikTok Video Broadcasts on Facebook</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-instructions-to-download-the-latest-windows-driver-for-canon-mx490-printer/"><u>Step-by-Step Instructions to Download the Latest Windows Driver for Canon MX490 Printer</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unleash-your-creative-genius-with-iphone-x-camera/"><u>Unleash Your Creative Genius with iPhone X Camera</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-key-frames-per-second-in-superior-slow-motion-imaging/"><u>[Updated] Key Frames per Second in Superior Slow Motion Imaging</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1-comprehensive-guide-to-evaluating-vpn-services-insights-from-zdnet/"><u>1. Comprehensive Guide to Evaluating VPN Services: Insights From ZDNet</u></a></li>
+<li><a href="https://fox-info.techidaily.com/advanced-tips-perfecting-photos-with-onscreen-cropping-for-2024/"><u>Advanced Tips Perfecting Photos with Onscreen Cropping for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/challenging-windows-copilot-how-the-enhanced-ai-capabilities-of-googles-latest-chromebook-may-dominate/"><u>Challenging Windows Copilot: How the Enhanced AI Capabilities of Google’s Latest Chromebook May Dominate</u></a></li>
+<li><a href="https://facebook.techidaily.com/deciphering-metaai-vs-conventional-chatbot-competitors/"><u>Deciphering MetaAI vs Conventional Chatbot Competitors</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/full-day-battery-endurance-for-your-macbook-expert-strategies-and-techniques/"><u>Full-Day Battery Endurance for Your MacBook: Expert Strategies and Techniques</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-androids-premier-3d-visualization-app/"><u>In 2024, Android's Premier 3D Visualization App</u></a></li>
+<li><a href="https://windows11.techidaily.com/instant-fix-resetting-windows-11-search-preferences/"><u>Instant Fix: Resetting Windows 11 Search Preferences</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/prime-day-savings-alert-unveiling-an-exceptional-lenovo-and-dell-alternative-the-ultimate-guide-to-choosing-a-budget-friendly-2-in-1-laptop-by-zdnet-experts13/"><u>Prime Day Savings Alert! Unveiling an Exceptional, Lenovo & Dell Alternative: The Ultimate Guide to Choosing a Budget-Friendly 2-in-1 Laptop by ZDNET Experts</u></a></li>
+<li><a href="https://common-error.techidaily.com/pubg-lag-woes-discover-the-ultimate-fixes-for-a-seamless-play/"><u>PUBG Lag Woes? Discover the Ultimate Fixes for a Seamless Play</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/solving-rcs-issues-a-guide-to-troubleshooting-google-chat-on-android-devices/"><u>Solving RCS Issues: A Guide to Troubleshooting Google Chat on Android Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiled-top-performing-computers-from-the-2024-consumer-electronics-show-insights/"><u>Unveiled: Top-Performing Computers From the 2024 Consumer Electronics Show – Insights</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Electronic Commerce on the Rise: More than 39 Million Motherboards Forecasted to Hit Global Shelves Amid Pandemic Recovery"
-date: 2024-08-19T04:22:56.783Z
-updated: 2024-08-20T04:22:56.783Z
+date: 2025-01-30T16:45:21.877Z
+updated: 2025-02-03T09:10:40.987Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +62,18 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-unlock-the-power-of-your-camera-with-snapchats-tools/"><u>[New] Unlock the Power of Your Camera with Snapchat's Tools</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-color-keying-101-the-easy-guide-to-digital-backdrops-and-filming-for-2024/"><u>[Updated] Color Keying 101 The Easy Guide to Digital Backdrops and Filming for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-oppo-find-x7-ultra-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Oppo Find X7 Ultra by Name | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/dimming-windows-11-brightness-simple-fixes-unveiled/"><u>Dimming Windows 11 Brightness - Simple Fixes Unveiled!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/edit-like-a-pro-with-50-off-top-tier-samsung-monitors-for-photovideo-work-at-best-buy-exclusive-zdnet-deal-inside/"><u>Edit Like a Pro with 50% Off Top-Tier Samsung Monitors for Photo/Video Work at Best Buy | Exclusive ZDNet Deal Inside</u></a></li>
+<li><a href="https://win-able.techidaily.com/end-your-battle-with-the-unstable-lunar-client-a-complete-solution-for-windows/"><u>End Your Battle with the Unstable Lunar Client: A Complete Solution for Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-victus-15-gaming-laptop-for-just-515-unbeatable-prime-day-blowout-at-best-buy-exposed-by-zdnet/"><u>HP Victus 15 Gaming Laptop for Just $515: Unbeatable Prime Day Blowout At Best Buy Exposed by ZDNet!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-apple-iphone-8-look-no-further-drfone-by-drfone-virtual-ios/"><u>In 2024, Looking For A Location Changer On Apple iPhone 8? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-gaming-bargains-exclusive-october-2024-pre-black-friday-offers-spotted-by-techexperts/"><u>Top Gaming Bargains: Exclusive October 2024 Pre-Black Friday Offers Spotted by TechExperts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlock-exclusive-savings-on-games-during-the-early-prime-day-event-of-oct-24-tips-and-deals-from-zdnet/"><u>Unlock Exclusive Savings on Games During the Early Prime Day Event of Oct '24 – Tips and Deals From ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/your-ultimate-holiday-sale-guide-score-steals-on-gadgets-and-entertainment-systems-authorized-tips/"><u>Your Ultimate Holiday Sale Guide: Score Steals on Gadgets and Entertainment Systems | Authorized Tips</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Review: Comprehensive Guide on the Latest Hardware"
-date: 2024-08-19T04:20:48.722Z
-updated: 2024-08-20T04:20:48.722Z
+date: 2025-01-29T18:50:22.146Z
+updated: 2025-02-03T09:32:27.476Z
 tags:
   - motherboards
 categories:
@@ -19,6 +19,10 @@ The days of sticks of RAM may be coming to an end. A new standard, CAMM2 (Compre
 
  CAMM[originated with Dell](https://tools.techidaily.com) as a project to replace bulkier SO-DIMM memory slots. But the company[worked with JEDEC](https://tools.techidaily.com) , a semiconductor standards body, which tweaked it and made CAMM2 available to a number of different PC companies.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What are CAMM2 and LPCAMM2? What are their benefits?
 
  There are two major types of CAMM2 memory. DDR5 CAMM2 is the full power version, and the one you're most likely to see in desktop PCs. There's also the low-power LPDDR5 CAMM2, designed for thin laptops. Some vendors are shortening this to LPCAMM2, which is slightly less of a mouthful.  
@@ -32,6 +36,10 @@ The days of sticks of RAM may be coming to an end. A new standard, CAMM2 (Compre
  Image 1 of 2
 
 ![CAMM2](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -48,15 +56,17 @@ The days of sticks of RAM may be coming to an end. A new standard, CAMM2 (Compre
  The modules might help enable new form factors, too. At Computex,[Adata showed off its Nia handheld](https://tools.techidaily.com) , which uses LPCAMM2 using LPDDR5X.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How much memory fits on a CAMM2 module?
 
 Between 8GB and 128GB of memory fits on a single module.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Is LPCAMM2 faster than existing SO-DIMMs and DIMMs?
 
  Yes. As of this writing,[Crucial is listing](https://www.crucial.com/memory/ddr5/ct64g75c2lp5xg) 32GB and 64GB LPDDR5X-7200 LPCAMM2 modules. At Computex, TeamGroup said its 16GB, 32GB, and 64GB memory will go up to 9600 MT/s. Samsung's[page on LPCAMM2](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fgo.redirectingat.com%2F%3Fid%3D92X1584492%26xcust%3Dtomshardware%255Fus%255F4400621493195954499%26xs%3D1%26url%3Dhttps%253A%252F%252Fsemiconductor.samsung.com%252Femea%252Fdram%252Fmodule%252Flpcamm2%252F%26sref%3Dhttps%253A%252F%252Fwww.tomshardware.com%252Fpc-components%252Fmotherboards%252Fwhat-is-camm2) lists an "extraordinary data transfer rate of 8,533Mbps," the same number memory company[Geil showed at Computex](https://www.techpowerup.com/323173/geil-presents-a-wide-range-of-memories-at-computex-camm2-lpcamm2-alongside-many-ddr5s) .
@@ -66,8 +76,9 @@ Between 8GB and 128GB of memory fits on a single module.
  We haven't seen any DDR5 CAMM2 products on the market just yet, so we don't know if those speeds will go even higher.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What are alternatives to CAMM2?
 
  In theory, there's nothing stopping vendors from using standard DIMMs or SO-DIMMs, or continuing to solder memory to the motherboard. Staying with the status quo is an alternative, at least for now.
@@ -82,8 +93,6 @@ Between 8GB and 128GB of memory fits on a single module.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -91,4 +100,20 @@ Between 8GB and 128GB of memory fits on a single module.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-elevate-your-online-identity-with-tailored-fb-slideshow-content-for-2024/"><u>[New] Elevate Your Online Identity with Tailored FB Slideshow Content for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-ultimate-guide-to-channel-description-perfection/"><u>[Updated] The Ultimate Guide to Channel Description Perfection</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-latest-in-computing-with-toms-hardware-guides/"><u>Exploring the Latest in Computing with Tom's Hardware Guides</u></a></li>
+<li><a href="https://win-able.techidaily.com/hassle-free-solutions-for-resolving-discord-setup-issues/"><u>Hassle-Free Solutions for Resolving Discord Setup Issues</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-mkv-file-integration-with-adobe-premiere-pro-troubleshooting-tips-and-techniques/"><u>Mastering MKV File Integration with Adobe Premiere Pro: Troubleshooting Tips and Techniques</u></a></li>
+<li><a href="https://windows11.techidaily.com/migrate-onedrive-to-a-desired-folder-on-win-11/"><u>Migrate OneDrive to a Desired Folder on Win 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/revolutionize-your-home-cinema-experience-boost-tv-picture-quality-in-5-simple-steps-expert-guide-from-zdnet/"><u>Revolutionize Your Home Cinema Experience! Boost TV Picture Quality in 5 Simple Steps | Expert Guide From ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/samsungs-qn90b-qled-ultimate-performance-in-bright-rooms-expert-reviews-and-comparison/"><u>Samsung's QN90B QLED - Ultimate Performance in Bright Rooms, Expert Reviews & Comparison</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/savvy-shoppers-guide-to-buying-premium-tvs-under-a-thousand-dollars-testing-and-reviews-zdnet/"><u>Savvy Shopper's Guide to Buying Premium TVs Under a Thousand Dollars | Testing and Reviews | ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/sony-bravia-the-most-value-packed-television-deal-you-can-find-right-now-exclusive-sale-alert/"><u>Sony Bravia: The Most Value-Packed Television Deal You Can Find Right Now – Exclusive Sale Alert!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/super-bowl-2024-viewing-guide-comprehensive-list-of-live-streams-and-broadcast-options-techradar/"><u>Super Bowl 2024 Viewing Guide: Comprehensive List of Live Streams & Broadcast Options - TechRadar</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-the-art-of-digital-cropping-on-websites-for-2024/"><u>Unveiling the Art of Digital Cropping on Websites for 2024</u></a></li>
+</ul></div>
 

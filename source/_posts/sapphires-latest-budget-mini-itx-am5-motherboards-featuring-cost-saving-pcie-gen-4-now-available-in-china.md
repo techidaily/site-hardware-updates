@@ -1,7 +1,7 @@
 ---
 title: Sapphire's Latest Budget Mini ITX AM5 Motherboards Featuring Cost-Saving PCIe Gen 4 - Now Available in China
-date: 2024-08-19T04:21:35.836Z
-updated: 2024-08-20T04:21:35.836Z
+date: 2025-01-27T22:28:22.324Z
+updated: 2025-02-02T22:11:28.881Z
 tags:
   - motherboards
 categories:
@@ -47,6 +47,10 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
 
  The fact is, Loongson has developed its own CPU just a few generations behind Intel and AMD. Considering the Chinese firm has to work around U.S. sanctions and claims to insist on doing everything based on its own IP, the performance could actually be considered impressive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -63,8 +67,6 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -72,8 +74,19 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-fb-video-experience-the-top-10-listed-tools-for-2024/"><u>[New] FB Video Experience The Top 10 Listed Tools for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-essential-tips-for-recording-ps4-games-with-obs/"><u>[New] In 2024, Essential Tips for Recording PS4 Games with OBS</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-unlocking-the-purpose-and-function-of-facebooks-status-emoji-for-2024/"><u>[New] Unlocking the Purpose and Function of Facebook's Status Emoji for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-flipping-the-script-on-memes-with-kinemaster/"><u>[Updated] In 2024, Flipping the Script on Memes with KineMaster</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-samsung-galaxy-a54-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Samsung Galaxy A54 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/mastering-the-art-of-capturing-desktop-footage-tips-and-tricks-with-movavi-software/"><u>Mastering the Art of Capturing Desktop Footage - Tips & Tricks with Movavi Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/say-goodbye-to-macbook-air-meet-its-stellar-windows-rival-with-impressive-portability-and-performance-spotlighted/"><u>Say Goodbye to MacBook Air? Meet Its Stellar Windows Rival with Impressive Portability and Performance - Spotlighted</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/still-using-pattern-locks-with-realme-12plus-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Realme 12+ 5G? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-travel-tech-essentials-in-2-discover-the-ultimate-list/"><u>Top Rated Travel Tech Essentials in 2# - Discover the Ultimate List</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-vpn-providers-comprehensive-analysis-and-recommendations-by-experts-techadvisor/"><u>Top-Rated VPN Providers : Comprehensive Analysis & Recommendations by Experts | TechAdvisor</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlocking-creative-potential-with-asuss-latest-understated-powerhouse-insider-info/"><u>Unlocking Creative Potential with ASUS's Latest Understated Powerhouse - Insider Info</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-at-apples-october-showcase-new-m4-mac-mini-updated-ipad-lineup-and-ai-advancements-on-the-horizon-insights-from-zdnet/"><u>Unveiling at Apple’s October Showcase: New M4 Mac Mini, Updated iPad Lineup & AI Advancements on the Horizon - Insights From ZDNet</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->

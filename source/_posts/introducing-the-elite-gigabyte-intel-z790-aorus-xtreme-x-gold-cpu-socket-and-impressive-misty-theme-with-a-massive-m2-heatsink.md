@@ -1,7 +1,7 @@
 ---
 title: "Introducing the Elite Gigabyte Intel Z790 Aorus XTreme X: Gold CPU Socket & Impressive Misty Theme with a Massive M.2 Heatsink"
-date: 2024-08-19T04:22:27.019Z
-updated: 2024-08-20T04:22:27.019Z
+date: 2025-01-29T07:38:07.464Z
+updated: 2025-02-02T21:12:47.925Z
 tags:
   - motherboards
 categories:
@@ -47,6 +47,10 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
 
  The fact is, Loongson has developed its own CPU just a few generations behind Intel and AMD. Considering the Chinese firm has to work around U.S. sanctions and claims to insist on doing everything based on its own IP, the performance could actually be considered impressive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -63,8 +67,6 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -72,8 +74,21 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-best-of-breed-exceptional-webcam-supports-for-2024/"><u>[New] Best Of Breed Exceptional Webcam Supports for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-splitting-vision-assessing-splitcams-camera-excellence-for-2024/"><u>[New] Splitting Vision Assessing SplitCam's Camera Excellence for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-offline-android-delights-the-ultimate-free-game-list/"><u>[Updated] Offline Android Delights The Ultimate Free Game List</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-redefining-visual-storytelling-adding-and-altering-twitter-video-thumbnails/"><u>[Updated] Redefining Visual Storytelling Adding and Altering Twitter Video Thumbnails</u></a></li>
+<li><a href="https://windows11.techidaily.com/activating-restoration-features-your-pathway-through-windows-11/"><u>Activating Restoration Features: Your Pathway Through Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/budget-friendly-xr-glasses-offer-comparable-features-to-apples-vision-pro-beats-fomo-exclusive-coverage/"><u>Budget-Friendly XR Glasses Offer Comparable Features to Apple's Vision Pro, Beats FOMO - Exclusive Coverage</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/elite-touchscreen-laptop-picks-thoroughly-tested-and-critiqued-by-professionals/"><u>Elite Touchscreen Laptop Picks: Thoroughly Tested & Critiqued by Professionals</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/miniaturize-display-on-win-10-pc/"><u>Miniaturize Display on WIN 10 PC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/protecting-patient-privacy-using-ai-like-chatgpt-responsibly-in-counseling/"><u>Protecting Patient Privacy: Using AI Like ChatGPT Responsibly in Counseling</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-unthinkable-challenge-to-apple-exclusive-look-at-hps-revolutionary-laptop-approach-on-zdnet/"><u>The Unthinkable Challenge to Apple: Exclusive Look at HP's Revolutionary Laptop Approach on ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-october-prime-day-bargain-metas-limited-time-offer-on-512gb-quest-2-exclusive-insight-from-zdnet/"><u>Top October Prime Day Bargain: Meta's Limited-Time Offer on 512GB Quest 2 - Exclusive Insight From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-pick-the-ultimate-multi-purpose-laptop-delights-users-and-excels-in-performance-insights-review/"><u>Top Pick: The Ultimate Multi-Purpose Laptop Delights Users and Excels in Performance - Insights Review</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/transforming-my-workspace-a-week-with-an-ergonomic-split-keyboard-and-its-impact-on-productivity/"><u>Transforming My Workspace: A Week with an Ergonomic Split Keyboard & Its Impact on Productivity</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/zdnets-guide-to-the-most-resilient-computers-for-harsh-conditions-in-2n24/"><u>ZDNet's Guide to the Most Resilient Computers for Harsh Conditions in 2N24</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

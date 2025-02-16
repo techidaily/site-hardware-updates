@@ -1,7 +1,7 @@
 ---
 title: Complete PCI Express (PCIe) Gen 7 Proposal Ready - Eyes Set On Official Release
-date: 2024-08-19T04:22:15.744Z
-updated: 2024-08-20T04:22:15.744Z
+date: 2025-01-31T20:45:47.789Z
+updated: 2025-02-03T00:50:56.926Z
 tags:
   - motherboards
 categories:
@@ -29,6 +29,10 @@ MaxSun, one the lesser-known motherboard manufacturers (at least in the U.S.), p
   
  Again, take this information with a grain of salt. For all we know, some of MaxSun's motherboard names might never be used for a shipping product, and that goes for the new chipset model names, too. We'll have to wait for an official Intel announcement to confirm its full 800-series chipset lineup, and likewise for AMD and its overlapping 800-series chipsets.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -43,8 +47,6 @@ MaxSun, one the lesser-known motherboard manufacturers (at least in the U.S.), p
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -52,8 +54,21 @@ MaxSun, one the lesser-known motherboard manufacturers (at least in the U.S.), p
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-unlocking-the-potential-of-your-laptops-recording-features/"><u>[New] 2024 Approved Unlocking the Potential of Your Laptop's Recording Features</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-cultivate-calmness-and-flexibility-with-top-10-yoga-streams/"><u>[New] In 2024, Cultivate Calmness & Flexibility with Top 10 Yoga Streams</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-behind-the-scenes-access-to-user-vids-on-facebook/"><u>[Updated] In 2024, Behind-the-Scenes Access to User Vids on Facebook</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/adapting-office-tech-the-future-of-work-gadgets-in-an-age-dominated-by-artificial-intelligence-insights-from-zdnet/"><u>Adapting Office Tech: The Future of Work Gadgets in an Age Dominated by Artificial Intelligence - Insights From ZDNet</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-honor-x7b-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Honor X7b</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/converting-dvd-files-to-mp4-without-cost-a-guide-for-windows-11-users/"><u>Converting DVD Files to MP4 Without Cost: A Guide for Windows 11 Users</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-motorola-edge-2023-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Motorola Edge 2023 in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-reorganize-your-android-apps-a-comprehensive-tutorial-using-organizing-tools/"><u>How to Reorganize Your Android Apps: A Comprehensive Tutorial Using Organizing Tools</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/in-depth-analysis-ranking-the-latest-lenovo-laptops-from-mwc-and-discovering-the-ultimate-winners/"><u>In-Depth Analysis: Ranking the Latest Lenovo Laptops From MWC and Discovering the Ultimate Winners</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maximizing-value-with-an-affordable-surface-pro-11-lessons-learned-from-windows-authorities-at-zdnet/"><u>Maximizing Value with an Affordable Surface Pro 11: Lessons Learned From Windows Authorities at ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-uk-vpn-services-of-2022-expert-review-by-zdnet/"><u>Top-Rated UK VPN Services of 2022 - Expert Review by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-future-of-productivity-microsoft-enhances-office-suite-with-copilot-integration-for-surface-devices-the-latest-update-explained/"><u>Unveiling the Future of Productivity: Microsoft Enhances Office Suite with Copilot Integration for Surface Devices – The Latest Update Explained</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-near-perfect-gaming-laptop-at-just-3600-your-ultimate-tech-review-zdnet/"><u>Unveiling the Near-Perfect Gaming Laptop at Just $3,600 - Your Ultimate Tech Review | ZDNet</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->

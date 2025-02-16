@@ -1,7 +1,7 @@
 ---
 title: "Crackdown on Defective Components: How MSI Is Addressing Heatsink Problems in New-Gen Z790 Chipsets"
-date: 2024-08-19T04:19:37.153Z
-updated: 2024-08-20T04:19:37.153Z
+date: 2025-01-31T02:38:14.145Z
+updated: 2025-02-03T05:56:37.523Z
 tags:
   - motherboards
 categories:
@@ -47,6 +47,10 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
 
  The fact is, Loongson has developed its own CPU just a few generations behind Intel and AMD. Considering the Chinese firm has to work around U.S. sanctions and claims to insist on doing everything based on its own IP, the performance could actually be considered impressive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -63,8 +67,6 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -72,17 +74,22 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-10-immersive-metaverse-adventures-for-group-play/"><u>[New] 10 Immersive Metaverse Adventures for Group Play</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-shorts-to-mp4-a-step-by-step-tutorial/"><u>[Updated] In 2024, From Shorts to MP4 A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/canon-pixma-mg2522-fresh-driver-download-and-update-guide/"><u>Canon Pixma MG2522: Fresh Driver Download and Update Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-setup-guide-for-nexiq-usb-link-2-drivers-quick-and-easy/"><u>Complete Setup Guide for Nexiq USB Link 2 Drivers - Quick and Easy!</u></a></li>
+<li><a href="https://facebook.techidaily.com/customizing-social-media-identity-on-facebook/"><u>Customizing Social Media Identity on Facebook</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-updated-intel-lan-driver-pack-for-windows-11107-systems-now/"><u>Download Updated Intel LAN Driver Pack for Windows 11/10/7 Systems Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-downloading-process-for-the-latest-canon-mg362e-printer-drivers/"><u>Easy Downloading Process for the Latest Canon MG362e Printer Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-steps-to-obtain-acers-bluetooth-driver-free-downloads-available/"><u>Easy Steps to Obtain Acer's Bluetooth Driver - Free Downloads Available</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-compatibility-with-windows-download-logitech-hd-c525-webcam-drivers-and-updates/"><u>Ensure Compatibility with Windows - Download Logitech HD C525 Webcam Drivers & Updates</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-lava-blaze-2-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Lava Blaze 2 5G Quickly | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/gadget-reviews-by-tom-unlocking-performance-secrets/"><u>Gadget Reviews by Tom: Unlocking Performance Secrets</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-samsung-960-evo-drive-firmware-for-windows-systems-here/"><u>Get the Latest Samsung 960 EVO Drive Firmware for Windows Systems Here!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Samsung Galaxy S23 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/maximizing-conversion-rates-via-the-cutting-edge-technology-of-cookiebot/"><u>Maximizing Conversion Rates via the Cutting-Edge Technology of Cookiebot</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/smart-selections-essential-mac-programs-for-videograbbing/"><u>Smart Selections Essential Mac Programs for Videograbbing</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

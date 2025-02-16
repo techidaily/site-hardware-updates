@@ -1,7 +1,7 @@
 ---
 title: "ASRock X600TM-ITX: Ultra-Compact AM5 Mini-ITX Board for Stylish HTPC Builds"
-date: 2024-08-19T04:22:53.637Z
-updated: 2024-08-20T04:22:53.637Z
+date: 2025-01-27T00:22:50.388Z
+updated: 2025-02-03T01:03:38.877Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +62,26 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-high-speed-film-gatherer-for-timelapse-top5/"><u>[New] 2024 Approved High-Speed Film Gatherer for Timelapse #Top5</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-navigating-the-world-of-digital-gifs/"><u>[New] In 2024, Navigating the World of Digital GIFs</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-crafting-shareable-tiktoks-with-50plus-influential-phrases/"><u>[Updated] In 2024, Crafting Shareable TikToks with 50+ Influential Phrases</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/compact-docking-station-revolutionizes-portable-computer-setups-techradar/"><u>Compact Docking Station Revolutionizes Portable Computer Setups | TechRadar</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-best-laptops-of-my-life-lg-gram-pro-17-and-beyond-now-at-irresistible-prices-for-prime-day-zdnet-insights/"><u>Discover the Best Laptops of My Life: LG Gram Pro 17 and Beyond, Now at Irresistible Prices for Prime Day | ZDNet Insights</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/excel-file-recovery-recover-corrupt-excel-2013-files-easily-stellar-by-stellar-guide/"><u>Excel File Recovery – Recover Corrupt Excel 2013 Files Easily | Stellar</u></a></li>
+<li><a href="https://fox-where.techidaily.com/expand-your-playlist-with-new-tracks-discover-the-latest-additions-to-our-premium-karaoke-selection-for-march-2nd-2017/"><u>Expand Your Playlist with New Tracks: Discover the Latest Additions to Our Premium Karaoke Selection for March 2Nd, 2017!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-premium-vr-with-metas-latest-steal-the-512gb-quest-3-deal-that-dominates-todays-market-insider-tips-from-zdnet/"><u>Experience Premium VR with Meta's Latest Steal: The 512GB Quest 3 Deal That Dominates Today’s Market | Insider Tips From ZDNET</u></a></li>
+<li><a href="https://extra-information.techidaily.com/from-today-to-tomorrow-the-drone-evolution-story/"><u>From Today to Tomorrow The Drone Evolution Story</u></a></li>
+<li><a href="https://win-blog.techidaily.com/improve-gaming-experience-with-solutions-to-lower-frame-rates-in-forza-horizon-5/"><u>Improve Gaming Experience with Solutions to Lower Frame Rates in Forza Horizon 5</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-achieve-unmatched-visuals-the-ultimate-guide-to-video-enhancer-22/"><u>In 2024, Achieve Unmatched Visuals The Ultimate Guide to Video Enhancer 2.2</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/m1-vs-m3-a-comprehensive-review-of-apples-latest-laptop-generation-for-tech-enthusiasts/"><u>M1 vs M3: A Comprehensive Review of Apple's Latest Laptop Generation for Tech Enthusiasts</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/snap-into-hilarity-meme-creation-made-simple-for-2024/"><u>Snap Into Hilarity Meme Creation Made Simple for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/taking-control-with-microsoft-how-experiencing-surface-pro-and-laptop-made-me-say-goodbye-to-my-apple-devices/"><u>Taking Control with Microsoft: How Experiencing Surface Pro and Laptop Made Me Say Goodbye to My Apple Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlocking-creative-potential-with-asuss-latest-understated-powerhouse-insider-info-from-zdnet/"><u>Unlocking Creative Potential with ASUS's Latest Understated Powerhouse - Insider Info From ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unmissable-gaming-discounts-in-octobers-prime-week-save-up-to-1k-before-time-runs-outzdnet-guide/"><u>Unmissable Gaming Discounts in October's Prime Week - Save Up To $1K Before Time Runs Out![ZDNet Guide]</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-lenovos-upgraded-thinkpad-x1-in-depth-analysis-and-news-coverage/"><u>Unveiling Lenovo's Upgraded ThinkPad X1: In-Depth Analysis and News Coverage</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-secrets-behind-my-budget-friendly-surface-pro-ebyte-valuable-lessons-from-a-windows-specialist-zdnet/"><u>Unveiling the Secrets Behind My Budget-Friendly Surface Pro Ebyte: Valuable Lessons From a Windows Specialist | ZDNET</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/visionsplit-assessment-overview-for-2024/"><u>VisionSplit Assessment Overview for 2024</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: Access the Entire Blueprint for Next-Gen PCIe Version 7 – Progressing Towards Full Launch
-date: 2024-08-19T04:20:19.271Z
-updated: 2024-08-20T04:20:19.271Z
+date: 2025-01-27T05:10:44.341Z
+updated: 2025-02-02T16:15:03.289Z
 tags:
   - motherboards
 categories:
@@ -47,6 +47,10 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
 
  The fact is, Loongson has developed its own CPU just a few generations behind Intel and AMD. Considering the Chinese firm has to work around U.S. sanctions and claims to insist on doing everything based on its own IP, the performance could actually be considered impressive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -63,8 +67,6 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -72,8 +74,18 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-intellectual-property-guidelines-for-instahits/"><u>[New] Intellectual Property Guidelines for InstaHits</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-unveiling-the-10-most-reliable-youtube-to-webm-transformers/"><u>[Updated] 2024 Approved Unveiling the 10 Most Reliable YouTube-to-WebM Transformers</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-top-2-directors-cut-downloads/"><u>[Updated] Top 2 Director's Cut Downloads</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/choosing-your-ideal-screen-neo-qled-or-oled-a-comprehensive-guide-by-zdnet/"><u>Choosing Your Ideal Screen: Neo QLED or OLED - A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/conference-committees-resolve-differences-between-house-and-senate-versions-of-a-bill/"><u>Conference Committees Resolve Differences Between House and Senate Versions of a Bill.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhance-your-gpt-experience-with-a-well-chosen-vpn/"><u>Enhance Your GPT Experience with a Well-Chosen VPN?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-offer-alert-save-big-on-premium-85-inch-tvs-for-only-900-limited-time-available-this-labor-day-holiday-act-fast/"><u>Exclusive Offer Alert: Save Big on Premium 85-Inch TVs for Only $900, Limited Time Available This Labor Day Holiday - Act Fast!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-most-bang-for-your-buck-with-sony-bravia-the-best-budget-friendly-television-we-recommend-now-on-sale-cnet/"><u>Get the Most Bang for Your Buck with Sony Bravia, The Best Budget-Friendly Television We Recommend - Now On Sale! | CNET</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-apple-iphone-6s-plus-by-name-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Apple iPhone 6s Plus by Name | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/probing-instagrams-max-video-length-rule/"><u>Probing Instagram's Max Video Length Rule</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-6-heavyweights-massive-language-architectures/"><u>Top 6 Heavyweights: Massive Language Architectures</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

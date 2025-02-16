@@ -1,7 +1,7 @@
 ---
 title: "Asus' Discreet Marvel: A Design That Hides Stellar Creative Capabilities Revealed by ZDNet"
-date: 2025-01-26T21:03:35.014Z
-updated: 2025-02-01T17:19:21.186Z
+date: 2025-01-28T02:07:46.076Z
+updated: 2025-02-02T18:55:34.169Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -73,7 +73,7 @@ Asus' Vivobook Pro 15 does a good job playing media. Hi-res videos look stunning
 In line with my initial impression, the device is a little on the bulky side, but the extra heft is not a big deal because it's lightweight and the extra room allows for a wide array of ports. You get two USB-Cs, a pair of USB-A inputs that support transfer speeds of up to 5GBPS, HDMI, an ethernet port, and an SD card slot.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -112,15 +112,18 @@ If you want something more powerful, I suggest checking out the MSI Creator Z16 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-highest-quality-radio-dramatic-works/"><u>[New] 2024 Approved Highest Quality Radio Dramatic Works</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-tech-savvy-tips-to-ensure-perfect-call-recording-on-facetime/"><u>[Updated] Tech-Savvy Tips to Ensure Perfect Call Recording on FaceTime</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-harness-the-power-of-instagram-best-free-video-converter-apps-for-windowsmacos/"><u>2024 Approved Harness the Power of Instagram Best Free Video Converter Apps for Windows/macOS</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/advanced-tech-insights-delving-into-toms-expertise/"><u>Advanced Tech Insights: Delving Into Tom's Expertise</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-update-sapphire-graphics-drivers-for-windows-a-complete-guide/"><u>Download & Update Sapphire Graphics Drivers for Windows: A Complete Guide</u></a></li>
-<li><a href="https://article-helps.techidaily.com/foundations-in-digital-visual-narratives-for-2024/"><u>Foundations in Digital Visual Narratives for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-secrets-of-selecting-a-powerful-streaming-device/"><u>The Secrets of Selecting a Powerful Streaming Device</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-quality-gigabyte-speaker-system-drivers-available-for-free-download/"><u>Top-Quality Gigabyte Speaker System Drivers Available for Free Download</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-to-newest-logitech-c270-webcam-drivers-for-enhanced-performance-on-windows-1011/"><u>Update to Newest Logitech C270 Webcam Drivers for Enhanced Performance on Windows 10/11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/wacom-artpad-hd-driver-update-enhance-your-digital-creations-today/"><u>Wacom ArtPad HD Driver Update: Enhance Your Digital Creations Today</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unveiling-the-top-6-favorite-short-form-video-download-tools/"><u>[New] Unveiling the Top 6 Favorite Short-Form Video Download Tools</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/build-your-dream-gaming-rig-top-tips-and-hardware-choices-from-zdnet/"><u>Build Your Dream Gaming Rig: Top Tips & Hardware Choices From ZDNet</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/expressing-gratitude-efficiently-the-best-16-ways-in-deutsch/"><u>Expressing Gratitude Efficiently: The Best 16 Ways In Deutsch</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-pixels-to-prints-master-snapseed-fundamentals/"><u>In 2024, From Pixels to Prints Master Snapseed Fundamentals</u></a></li>
+<li><a href="https://techtrends.techidaily.com/latest-ipad-genre-unveiled-discover-the-most-recent-advancements/"><u>Latest iPad Genre Unveiled: Discover the Most Recent Advancements</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-high-contrast-settings-for-mouse-cursors-in-windows-11/"><u>Navigating Through High-Contrast Settings for Mouse Cursors in Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/productivity-powerhouses-chatgpts-top-10-pdf-plugins/"><u>Productivity Powerhouses: ChatGPT's Top 10 PDF Plugins</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/revolutionize-your-video-content-with-free-intro-designers/"><u>Revolutionize Your Video Content with Free Intro Designers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-installing-more-memory-in-your-notebook-tips-from-zdnet/"><u>Step-by-Step Guide: Installing More Memory in Your Notebook - Tips From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-june-2024-discounts-at-best-buy-exclusive-offers-unveiled-by-zdnet/"><u>Top June 2024 Discounts at Best Buy: Exclusive Offers Unveiled by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-online-notepad-applications-in-depth-comparison-and-reviews-by-tech-experts/"><u>Top-Rated Online Notepad Applications: In-Depth Comparison & Reviews - By Tech Experts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unfolding-brilliance-how-an-origami-inspired-laptop-sleeve-has-became-my-travel-must-have-accessory/"><u>Unfolding Brilliance: How an Origami-Inspired Laptop Sleeve Has Became My Travel Must-Have Accessory</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/wi-fi-adapter-no-more-windows-80211n-resolved-by-broadcom/"><u>Wi-Fi Adapter No More: Windows 802.11N Resolved by Broadcom</u></a></li>
 </ul></div>
 

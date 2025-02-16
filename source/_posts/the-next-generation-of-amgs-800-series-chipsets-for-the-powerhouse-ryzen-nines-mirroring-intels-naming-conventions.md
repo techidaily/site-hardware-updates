@@ -1,7 +1,7 @@
 ---
 title: The Next Generation of AMG's 800 Series Chipsets for the Powerhouse Ryzen Nines, Mirroring Intel's Naming Conventions
-date: 2024-08-19T04:22:35.417Z
-updated: 2024-08-20T04:22:35.417Z
+date: 2025-02-01T01:56:58.343Z
+updated: 2025-02-02T19:12:19.552Z
 tags:
   - motherboards
 categories:
@@ -47,6 +47,10 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
 
  The fact is, Loongson has developed its own CPU just a few generations behind Intel and AMD. Considering the Chinese firm has to work around U.S. sanctions and claims to insist on doing everything based on its own IP, the performance could actually be considered impressive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -63,8 +67,6 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -72,8 +74,22 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-free-photo-enhancer-online-and-app-for-mobile-phone-for-2024/"><u>[New] Free Photo Enhancer Online and App for Mobile Phone for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-creating-hilarious-reactions-mastering-youtube-tricks-3-methods/"><u>[New] In 2024, Creating Hilarious Reactions Mastering YouTube Tricks (3 Methods)</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-on-the-move-high-performance-free-online-tempo-tracking-tools/"><u>[Updated] In 2024, On-the-Move High-Performance, Free Online Tempo Tracking Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-steps-to-tame-the-gpu-hungry-desktop-window-manager/"><u>7 Steps to Tame the GPU-Hungry Desktop Window Manager</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-forcing-your-windows-machine-into-safe-mode-from-scratch/"><u>Comprehensive Guide: Forcing Your Windows Machine Into Safe Mode From Scratch</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-review-the-top-performing-lenovo-laptops-unveiled-at-mobile-world-congress-expert-analysis-by-techsavvy/"><u>Comprehensive Review: The Top-Performing Lenovo Laptops Unveiled at Mobile World Congress – Expert Analysis by TechSavvy</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-techs-finest-offerings-ultimate-ranking-guide-insights-from-zdnet/"><u>Discover Tech's Finest Offerings | Ultimate Ranking Guide - Insights From ZDNet</u></a></li>
+<li><a href="https://article-tips.techidaily.com/h1-an-easy-guide-for-how-to-add-photos-on-instagram/"><u>H1 An Easy Guide for How to Add Photos on Instagram</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-realme-c53-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-full-guide-to-unlock-iphone-8-with-itunes-by-drfone-ios/"><u>In 2024, Full Guide to Unlock iPhone 8 with iTunes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/introducing-dells-new-lightweight-gaming-powerhouse-the-perfect-blend-of-portability-and-performance-for-the-office/"><u>Introducing Dell's New Lightweight Gaming Powerhouse - The Perfect Blend of Portability & Performance for the Office</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/score-big-savings-for-gamers-check-out-our-picks-for-the-best-on-sale-speaker-systems-at-amazon-znet-insights/"><u>Score Big Savings for Gamers! Check Out Our Picks for the Best On-Sale Speaker Systems at Amazon | Znet Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/swap-your-macbook-air-for-a-powerful-portable-windows-pc-with-advanced-features-discover-the-perfect-match/"><u>Swap Your MacBook Air for a Powerful, Portable Windows PC with Advanced Features - Discover the Perfect Match!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-october-bargain-metas-latest-512gb-quest-procurement-at-a-steal-during-virtual-reality-prime-event/"><u>Unbeatable October Bargain - Meta's Latest 512GB Quest Procurement at a Steal During Virtual Reality Prime Event</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/zdnet-showcases-compact-car-charger-to-fuel-all-your-devices-laptop-tablet-and-phone-included/"><u>ZDNet Showcases Compact Car Charger to Fuel All Your Devices – Laptop, Tablet and Phone Included!</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->

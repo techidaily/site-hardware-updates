@@ -1,7 +1,7 @@
 ---
 title: "Budget Overclocking Solution: Asus's New Z790-AYW WIFI Motherboard with DDR5 Support"
-date: 2024-08-19T04:21:11.179Z
-updated: 2024-08-20T04:21:11.179Z
+date: 2025-02-02T05:36:00.673Z
+updated: 2025-02-03T07:06:29.149Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +62,17 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-expert-advice-on-leveraging-youtubes-video-editor/"><u>[New] 2024 Approved Expert Advice on Leveraging YouTube's Video Editor</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-joke-junction-ultimate-free-comic-templates/"><u>[New] Joke Junction Ultimate Free Comic Templates</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-artful-animation-of-adventures-exploring-the-top-8-narrative-universities-top-8-for-2024/"><u>[Updated] Artful Animation of Adventures Exploring the Top 8 Narrative Universities (Top 8) for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-launch-live-fb-broadcast-from-any-device-with-obs-guide/"><u>2024 Approved Launch Live FB Broadcast From Any Device with OBS Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-vlog-edit-mastery-harnessing-the-power-of-jump-cuts/"><u>2024 Approved Vlog Edit Mastery Harnessing the Power of Jump Cuts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/beyond-aesthetics-how-this-modest-looking-asus-laptop-surprises-with-exceptional-creator-features-insights-from-zdnet/"><u>Beyond Aesthetics: How This Modest-Looking Asus Laptop Surprises with Exceptional Creator Features | Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exceptionally-adaptable-laptop-with-stunning-display-a-comprehensive-review-on-zdnet/"><u>Exceptionally Adaptable Laptop with Stunning Display: A Comprehensive Review on ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-promo-alert-cut-costs-by-30-on-ankers-high-capacity-737-portable-charger-shop-smart-with-zdnet/"><u>Exclusive Promo Alert: Cut Costs by $30 on Anker's High-Capacity 737 Portable Charger - Shop Smart with ZDNet!</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/free-frame-flip-converting-tweets-into-tweenish-movies-for-2024/"><u>Free Frame Flip Converting Tweets Into Tweenish Movies for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/power-users-delight-unveiling-the-two-must-have-traits-of-this-incredible-lenovo-laptop-insights-from-zdnet/"><u>Power User's Delight: Unveiling the Two Must-Have Traits of This Incredible Lenovo Laptop - Insights From ZDNet</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

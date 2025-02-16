@@ -1,7 +1,7 @@
 ---
 title: Discover Gigabyte's Upcoming Marvel - The Gold Encased Intel Xtreme Aorus Z790 Motherboard with Giant Cooling Features
-date: 2024-08-19T04:19:38.212Z
-updated: 2024-08-20T04:19:38.212Z
+date: 2025-01-30T03:43:43.428Z
+updated: 2025-02-03T00:16:31.671Z
 tags:
   - motherboards
 categories:
@@ -37,6 +37,10 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
 
  We have not been able to get information pertaining to pricing or availability. However, with Maxsun being a Chinese-specific board maker, there's not much chance this board will be sold outside of the Asian market. That said, apparently, there is a lot of demand for this board inside of China. Maxsun's product page lists the iCraft B760M Cross as "sold out."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,8 +55,6 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +62,21 @@ Chinese motherboard maker Maxsun has a new B760 Micro-ATX motherboard featuring 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-bitevideo-innovator/"><u>[New] 2024 Approved BiteVideo Innovator</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-after-effects-with-top-rated-text-tools/"><u>[Updated] Mastering After Effects with Top-Rated Text Tools</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-maximizing-vimeo-presence-with-movies-from-wmm/"><u>[Updated] Maximizing Vimeo Presence with Movies From WMM</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210087630-9781722526030-6-steps-to-total-self-healing/"><u>6 Steps to Total Self-Healing | Free Book</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Nokia C210? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-setup-instructions-hp-officejet-4650-windows-compatible-printer-drivers/"><u>Download & Setup Instructions: HP Officejet 4650 Windows Compatible Printer Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722973226821-effortless-installation-arduino-mega-2560-software-drivers-available-here/"><u>Effortless Installation: Arduino Mega 2560 Software Drivers Available Here</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-deskjet-3755-inkjet-all-in-one-printer-drivers-compatible-with-windows-11-free-download/"><u>HP DeskJet 3755 Inkjet All-in-One Printer Drivers Compatible with Windows 11 - Free Download</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-premium-setup-the-top-quality-4k-dslr-mounts-guide/"><u>In 2024, Premium Setup The Top-Quality 4K DSLR Mounts Guide</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-strategies-for-video-discovery-boosting-viewership-cost-free/"><u>In 2024, Strategies for Video Discovery Boosting Viewership Cost-Free</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/solution-redundancy-ensures-that-if-one-element-fails-others-can-take-over-the-loads-preventing-progressive-collapse-and-allowing-for-damage-to-be-distribut177/"><u>Solution: Redundancy Ensures that if One Element Fails, Others Can Take over the Loads, Preventing Progressive Collapse and Allowing for Damage to Be Distributed More Evenly Throughout the Structure During an Earthquake.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-effortless-driver-updates-on-windows-systems/"><u>Step-by-Step Tutorial: Effortless Driver Updates on Windows Systems</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ultimate-ranking-of-leading-applications-to-move-files-between-iphones-and-pcs-on-windows-11-or-macos/"><u>Ultimate Ranking of Leading Applications to Move Files Between iPhones and PCs on Windows 11 or macOS</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->

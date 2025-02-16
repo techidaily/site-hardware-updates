@@ -1,7 +1,7 @@
 ---
 title: Your Trusted Source for In-Depth Tech Analysis - Tom's Hardware
-date: 2024-08-19T04:21:02.104Z
-updated: 2024-08-20T04:21:02.104Z
+date: 2025-01-28T22:43:44.173Z
+updated: 2025-02-03T08:08:23.482Z
 tags:
   - motherboards
 categories:
@@ -101,9 +101,6 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
 
  Inside the retail packaging, below the motherboard, ASRock includes a few accessories to get you started. You get two SATA cables, a Wi-Fi antenna, screws for M.2 sockets, and a thermistor cable. There isn’t much here, which isn’t surprising at this price point, but it’s enough to cover the basics.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Design of the Lightning Wi-Fi
 
  Image 1 of 3
@@ -111,23 +108,21 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
 ![ASRock Z790I Lightning Wi-Fi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: ASRock)
 
 ![ASRock Z790I Lightning Wi-Fi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: ASRock)
 
 ![ASRock Z790I Lightning Wi-Fi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: ASRock)
 
  This little motherboard sits on a server-grade 8-layer matte black PCB. The sole design element comes from the actively cooled, heatpipe-connected VRM heatsinks and M.2 heatsinks. The heatsinks have lines that meander their way around the metal bits. On the left, you see the Phantom Gaming branding as well. If you’re interested in RGB lighting in your chassis, you’ll have to add your own to the onboard headers, as the board does not include any natively. The all-black appearance looks good and, in my opinion, better than the more expensive PG-ITX/TB4.
@@ -135,9 +130,9 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
 ![ASRock Z790I Lightning Wi-Fi](https://cdn.mos.cms.futurecdn.net/97M3RfrDnnVcKkV4n7VkU8-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: ASRock)
 
  Starting in the left corner, we spy a single 8-pin EPS connector just above the heatpipe connecting the heatsinks. The VRMs have plenty of mass and surface area to keep the powerful VRMs below running cool. There’s also a small fan attached to the heatsink tucked in between the rear IO plate and the VRM for additional cooling. The default fan curve sounds improved from the PG-ITX/TB4\. While it was still audible, we could hear it only during stress testing. Of course, you can adjust it if needed. Also by the EPS connector is the 2-pin temperature sensor header to use with the included thermistor.
@@ -151,6 +146,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Next are three vertically mounted SATA3 ports and the front panel header. Below is the second 3-pin ARGB header, the 2-pin reset CMOS header, and the final front panel USB header - in this case, a USB 3.2 Gen 2 (10 Gbps) Type-C. With only five USB Type-A ports on the rear IO, you may need all of these onboard headers.
 
 ![ASRock Z790I Lightning Wi-Fi](https://cdn.mos.cms.futurecdn.net/Yoyr47AhNxUyUnTePWM7kF-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -167,8 +166,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![ASRock Z790I Lightning Wi-Fi](https://cdn.mos.cms.futurecdn.net/Ax7PUWX76BhvWC7HhxEAn8-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: ASRock)
 
  The rear IO plate on the Z790I Lightning comes preinstalled on the motherboard. It has a black and gray background, the Phantom Gaming branding in the corner, and plenty of venting for the hidden VRM fan. In total, there are five USB Type-A ports (four are USB 3.2 Gen 1) while the other below the Realtek 2.5 GbE port is faster at USB 3.2 Gen 2 (10 Gbps) speeds. Additionally, you get a USB Type-C port with USB 3.2 Gen 2 (10 Gbps) speeds. There are DisplayPort and HDMI ports for video, while the Wi-Fi 6E antenna connections sit just above that. Last but not least, on the far right, is the audio stack with two 3.5mm jacks (mic in and line out) and the SPDIF output.
@@ -187,8 +187,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -196,4 +194,24 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-demystifying-the-purpose-and-use-of-a-blue-status-symbol-on-facebook/"><u>[Updated] 2024 Approved Demystifying the Purpose and Use of a Blue Status Symbol on Facebook</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-ultimate-4k-gaming-setup-top-10-laptop-guide-for-2024/"><u>[Updated] Ultimate 4K Gaming Setup - Top 10 Laptop Guide for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-unlock-your-online-potential-with-these-top-tips-on-free-youtube-transcripts/"><u>[Updated] Unlock Your Online Potential with These Top Tips on FREE YouTube Transcripts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amazing-deal-alert-grab-a-15-inch-asus-laptop-with-essential-ports-at-walmart-for-only-250-spotted/"><u>Amazing Deal Alert: Grab a 15-Inch ASUS Laptop with Essential Ports at Walmart for Only $250 - Spotted</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-wacatacbml-barriers-a-guide-for-safe-windows-navigation/"><u>Bypassing Wacatac.B!ml Barriers - A Guide for Safe Windows Navigation</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-elite-list-of-2024s-top-notch-15-inch-computers-comprehensive-analysis-and-rankings-from-professionals-zdnet/"><u>Discover the Elite List of 2024'S Top Notch 15-Inch Computers - Comprehensive Analysis and Rankings From Professionals | ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ergonomic-revolution-how-a-week-of-using-a-split-keyboard-transformed-my-tech-habits-zdnet-insights/"><u>Ergonomic Revolution: How a Week of Using a Split Keyboard Transformed My Tech Habits | ZDNET Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-cyber-monday-alert-score-a-steal-with-microsofts-surface-pro-8-now-just-600-less-black-friday-blowout-reviewed/"><u>Exclusive Cyber Monday Alert: Score a Steal with Microsoft's Surface Pro 8 Now Just $600 Less – Black Friday Blowout Reviewed</u></a></li>
+<li><a href="https://fox-access.techidaily.com/filmmaking-essentials-windows-11s-leading-edits/"><u>Filmmaking Essentials Windows 11'S Leading Edits</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-tutorial-to-bypass-your-vivo-y17s-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Vivo Y17s Face Lock?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-depth-breakdown-stream-yourself-successfully-via-zoom-and-youtube/"><u>In-Depth Breakdown Stream Yourself Successfully via Zoom and YouTube</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/innovative-portability-meets-artistry-the-ultimate-guide-to-stylish-foldable-laptop-protectors/"><u>Innovative Portability Meets Artistry: The Ultimate Guide to Stylish, Foldable Laptop Protectors</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-steps-for-integrating-soundtracks-into-mkv-format-mkv-v202-release/"><u>New In 2024, Steps for Integrating Soundtracks Into MKV Format (MKV v2.0.2 Release)</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/irst-timers-blueprint-for-youtube-income/"><u>The First-Timer's Blueprint for YouTube Income</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-picks-for-ultimate-gaming-performance-an-in-depth-comparison-of-razor-acer-and-msi-laptops/"><u>Top Picks for Ultimate Gaming Performance : An In-Depth Comparison of Razor, Acer & MSI Laptops</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-ultraportable-notebooks-in-depth-analysis-by-tech-experts/"><u>Top-Rated Ultraportable Notebooks : In-Depth Analysis by Tech Experts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/why-this-asus-notebook-surpasses-the-macbook-in-key-areas-a-detailed-review-by-zdnet/"><u>Why This Asus Notebook Surpasses the MacBook in Key Areas: A Detailed Review by ZDNet</u></a></li>
+</ul></div>
 

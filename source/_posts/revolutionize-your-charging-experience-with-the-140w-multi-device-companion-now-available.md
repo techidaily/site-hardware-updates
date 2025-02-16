@@ -1,7 +1,7 @@
 ---
 title: Revolutionize Your Charging Experience with the 140W Multi-Device Companion - Now Available!
-date: 2025-01-29T20:51:04.412Z
-updated: 2025-02-01T23:27:53.726Z
+date: 2025-01-30T18:16:29.833Z
+updated: 2025-02-03T00:33:03.108Z
 tags:
   - laptops
 categories:
@@ -41,7 +41,7 @@ Here are some of the most interesting features I saw during my hands-on briefing
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Smart Share
@@ -61,7 +61,7 @@ Kyle Kucharski/ZDNET
 Besides the Smart Share features, there are four different "modes" that activate various features. You can toggle each feature on or off individually, to avoid being bombarded with different prompts. Here are the most impactful ones I saw during my time trying the new laptops.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Shield Mode
@@ -70,7 +70,7 @@ Besides the Smart Share features, there are four different "modes" that activate
 * The VPN auto-launch feature will start your preferred VPN automatically upon connecting to any public Wi-Fi network, a handy function if you spend a lot of time working in coffee shops.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Attention Mode
@@ -80,7 +80,7 @@ Besides the Smart Share features, there are four different "modes" that activate
 Kyle Kucharski/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Collaboration Mode
@@ -88,7 +88,7 @@ Kyle Kucharski/ZDNET
 * Designed mostly for virtual meetings, activating this mode enables your preset camera features, such as background blur, low light enhancer, or touch ups.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Wellness Mode
@@ -133,16 +133,24 @@ We'll definitely be doing some additional testing of the smart modes when we get
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-discover-the-top-10-vector-image-hubs/"><u>[Updated] 2024 Approved Discover the Top 10 Vector Image Hubs</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-deciphering-filmora-a-quest-for-visual-storytelling-clarity/"><u>[Updated] In 2024, Deciphering Filmora A Quest for Visual Storytelling Clarity</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-quantum-hdrs-role-in-modern-photography-trends/"><u>[Updated] Quantum HDR's Role in Modern Photography Trends</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/becoming-an-seo-success-story-the-ultimate-guide-to-facebook-optimization-for-2024/"><u>Becoming an SEO Success Story The Ultimate Guide to Facebook Optimization for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-updated-intel-iris-xe-graphics-driver-enhance-your-windows-11-experience/"><u>Download Updated Intel Iris Xe Graphics Driver - Enhance Your Windows 11 Experience</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-methods-to-refresh-system-drivers-on-the-dell-xps-15-a-windows-users-guide/"><u>Easy Methods to Refresh System Drivers on the Dell XPS 15: A Windows User's Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-download-comprehensive-guide-to-the-official-amd-gpio-device-driver/"><u>Free Download: Comprehensive Guide to the Official AMD GPIO Device Driver</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-m-audio-fast-track-ultradriver-now-at-no-cost-free-download-offer/"><u>Get Your M-Audio Fast Track UltraDriver Now at No Cost – Free Download Offer</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-optimal-distance-approach-to-professional-podcasts/"><u>In 2024, Optimal Distance Approach to Professional Podcasts</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-professionals-choice-in-drones-unpacking-the-superiority-of-the-dji-mavic-2-pro/"><u>The Professional's Choice in Drones: Unpacking the Superiority of the DJI Mavic 2 Pro</u></a></li>
-<li><a href="https://win-answers.techidaily.com/this-title-implies-expertise-expert-tips-and-reassures-users-they-can-get-the-game-running-again-which-is-a-primary-concern-when-facing-launch-issues/"><u>This Title Implies Expertise (Expert Tips) and Reassures Users They Can Get the Game Running Again, Which Is a Primary Concern when Facing Launch Issues</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-identifying-ideal-pace-for-premium-slow-motion-cinematography/"><u>[New] In 2024, Identifying Ideal Pace for Premium Slow Motion Cinematography</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-saving-social-media-stories-chromes-top-5-tools/"><u>[New] In 2024, Saving Social Media Stories Chromes' Top 5 Tools</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-stock-strategy-streams-the-most-valuable-online-sources/"><u>[Updated] In 2024, Stock Strategy Streams The Most Valuable Online Sources</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/a-backward-glance-proven-strategies-for-pinpointing-picture-sources-on-instagram-for-2024/"><u>A Backward Glance Proven Strategies for Pinpointing Picture Sources on Instagram for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/acer-swift-x-laptop-review-unveiling-three-unexpected-performances-that-impressed-us/"><u>Acer Swift X Laptop Review - Unveiling Three Unexpected Performances That Impressed Us!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/back-to-school-essentials-unbeatable-offers-on-laptops-and-tablets-from-samsung-spotted/"><u>Back-to-School Essentials! Unbeatable Offers on Laptops & Tablets From Samsung, Spotted</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-laptop-viewing-with-external-2x4k-monitors-using-innovative-device-zdnet/"><u>Enhance Laptop Viewing with External 2X4K Monitors Using Innovative Device (ZDNet)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fostering-fast-visual-storytelling-with-google-imagery-for-2024/"><u>Fostering Fast Visual Storytelling with Google Imagery for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-infinix-gt-10-pro-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Infinix GT 10 Pro Phone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-sony-xperia-10-v-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Sony Xperia 10 V Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-jest-in-imagery-create-with-kapwing/"><u>In 2024, Jest in Imagery Create with Kapwing</u></a></li>
+<li><a href="https://techtrends.techidaily.com/preparing-for-the-arrival-of-oneplus-10-price-forecasts-launch-date-projections-feature-teasers-and-hushed-conversations-revealed/"><u>Preparing for the Arrival of OnePlus 10: Price Forecasts, Launch Date Projections, Feature Teasers, and Hushed Conversations Revealed</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/resolving-system-restore-errors-in-windows-a-comprehensive-guide-for-a-successful-recovery/"><u>Resolving System Restore Errors in Windows: A Comprehensive Guide for a Successful Recovery</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/savings-alert-snag-a-36-discount-on-the-rugged-8tb-samsung-portable-ssd-available-now-on-amazon-zdnet-review/"><u>Savings Alert: Snag a 36% Discount on the Rugged 8TB Samsung Portable SSD - Available Now on Amazon (ZDNet Review)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/snag-the-hp-victus-15-at-an-unbeatable-price-just-515-during-black-friday-events-get-your-game-on-with-a-top-deal-from-best-buy-detailed-guide/"><u>Snag the HP Victus 15 at an Unbeatable Price: Just $515 During Black Friday Events! Get Your Game On With a Top Deal From Best Buy - Detailed Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-curious-case-of-macbook-display-malfunctions-driving-sales-a-zdnet-analysis/"><u>The Curious Case of MacBook Display Malfunctions Driving Sales - A ZDNet Analysis</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-12-unique-presents-perfect-for-tech-enthusiasts-ideas/"><u>Top 12 Unique Presents Perfect for Tech Enthusiasts: Ideas</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-solution-found-the-affordable-30-usb-hub-that-saved-my-macbook-from-constant-connection-issues-zdnet/"><u>Ultimate Solution Found: The Affordable $30 USB Hub That Saved My MacBook From Constant Connection Issues - ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-black-friday-savings-snag-the-high-performance-dell-inspiron-16-laptop-at-a-whopping-250-discount-zdnet-insider-tips/"><u>Unbeatable Black Friday Savings: Snag the High-Performance Dell Inspiron 16 Laptop at a Whopping $250 Discount | ZDNET Insider Tips</u></a></li>
 </ul></div>
 

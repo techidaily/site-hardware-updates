@@ -1,7 +1,7 @@
 ---
 title: "Cracked Chipset: MSI Admits Fault and Launches Replacement Program for Z790 Models"
-date: 2024-08-19T04:21:12.097Z
-updated: 2024-08-20T04:21:12.097Z
+date: 2025-02-02T05:42:50.689Z
+updated: 2025-02-03T09:59:07.524Z
 tags:
   - motherboards
 categories:
@@ -29,6 +29,10 @@ MaxSun, one the lesser-known motherboard manufacturers (at least in the U.S.), p
   
  Again, take this information with a grain of salt. For all we know, some of MaxSun's motherboard names might never be used for a shipping product, and that goes for the new chipset model names, too. We'll have to wait for an official Intel announcement to confirm its full 800-series chipset lineup, and likewise for AMD and its overlapping 800-series chipsets.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -43,8 +47,6 @@ MaxSun, one the lesser-known motherboard manufacturers (at least in the U.S.), p
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -52,8 +54,23 @@ MaxSun, one the lesser-known motherboard manufacturers (at least in the U.S.), p
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-harnessing-the-power-of-quality-photography-without-a-price-tag-for-2024/"><u>[New] Harnessing the Power of Quality Photography Without a Price Tag for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-explore-top-7-live-streaming-iosandroid-apps-perfect-for-youtube-channel-creators/"><u>[Updated] 2024 Approved Explore Top 7 Live Streaming iOS/Android Apps Perfect for YouTube Channel Creators</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-top-5-best-capture-cards-for-nintendo-switch/"><u>[Updated] In 2024, Top 5 Best Capture Cards for Nintendo Switch</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/2023s-ultimate-tech-wishlist-fulfilled-with-top-picks-from-best-buy-featured-on-zdnet/"><u>2023'S Ultimate Tech Wishlist Fulfilled with Top Picks From Best Buy | Featured on ZDNET</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-selection-of-high-quality-tiktok-backdrops/"><u>A Selection of High-Quality TikTok Backdrops</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/beyond-apple-and-lenovo-discovering-superior-travel-tablets-for-professionals-expert-choice/"><u>Beyond Apple and Lenovo: Discovering Superior Travel Tablets for Professionals Expert Choice</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comparative-guide-level-1-level-2-and-level-amoeba-charging-systems-unveiled/"><u>Comparative Guide: Level 1, Level 2 and Level Amoeba Charging Systems Unveiled</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-latest-chromeos-upgrade-seamless-windows-11-integration-now-on-chromebooks-the-zdnet-tech-report/"><u>Discover the Latest ChromeOS Upgrade: Seamless Windows 11 Integration Now on Chromebooks - The ZDNET Tech Report</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-the-high-end-luxury-of-dells-new-3k-gaming-laptop-a-game-changer-in-tech-zdnet/"><u>Exploring the High-End Luxury of Dell's New $3K Gaming Laptop - A Game Changer in Tech | ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-new-asus-vivobook-pro-today-for-30-less-limited-time-offer-exclusively-featured-at-amazon/"><u>Get Your New Asus VivoBook Pro Today for 30% Less! Limited-Time Offer Exclusively Featured at Amazon</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/guide-to-adjusting-jvm-properties-through-the-settings-panel/"><u>Guide to Adjusting JVM Properties Through the Settings Panel</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-best-webcam-tripods-flex-neck-and-stands/"><u>In 2024, Best Webcam Tripods, Flex-Neck and Stands</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Nubia Z50 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/lock-in-the-win-snag-your-dream-machine-with-the-hp-victus-n15-gaming-laptop-for-a-steal-at-515-your-next-big-save-with-this-best-buy-deal/"><u>Lock in the Win: Snag Your Dream Machine with the HP Victus N15 Gaming Laptop for a Steal at $515 - Your Next Big Save With This Best Buy Deal.</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/sailing-across-assassins-creed-valhalla-a-riveting-review-of-the-grand-nordic-adventure/"><u>Sailing Across 'Assassin's Creed: Valhalla': A Riveting Review of the Grand Nordic Adventure</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/stunning-display-and-exceptional-durability-a-top-reviewed-long-lasting-laptop/"><u>Stunning Display and Exceptional Durability - A Top Reviewed Long-Lasting Laptop</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->

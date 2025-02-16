@@ -1,7 +1,7 @@
 ---
 title: Microsoft Slashes Prices on Surface Go and Drops All-Time Low Price for Xbox Series S
-date: 2025-01-28T16:25:16.625Z
-updated: 2025-02-01T21:16:05.033Z
+date: 2025-01-27T20:07:14.582Z
+updated: 2025-02-03T01:11:29.574Z
 tags:
   - laptops
 categories:
@@ -27,7 +27,7 @@ Microsoft is known for its innovative products in gaming, computers, and more. A
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Save hundreds on Surface tablets and laptops**
@@ -43,7 +43,7 @@ Under the tablet's hood, you'll find a blazing-fast processor (12th Gen Intel Co
 Meanwhile, if you're preference is for laptops, then Microsoft has other deals for you. You can save $200 on the Surface Laptop 5, up to $646 on the Surface Laptop 4, and $150 on the Surface Laptop Go 2\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Get the Xbox Series S at its lowest price ever**
@@ -59,7 +59,7 @@ This is a digital console, meaning you'll have ample room to download games on i
 Overall, the Xbox Series S is an excellent gaming system for those looking for jaw-dropping graphics, access to a diverse gaming library, and fast performance. In addition, Microsoft lowered its price to $239.99, making it the best time to buy one. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Want to save even more on Microsoft devices?**
@@ -110,21 +110,19 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-illuminating-the-path-from-auto-to-4th-gen-hdr-shooting/"><u>[Updated] Illuminating the Path From Auto to 4Th Gen HDR Shooting</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-setting-up-zoom-like-a-pro-for-2024/"><u>[Updated] Setting Up Zoom Like a Pro for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amd-driver-update-essential-guide-for-blockchain-enthusiasts-using-windows/"><u>AMD Driver Update: Essential Guide for Blockchain Enthusiasts Using Windows</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/diy-guide-mastering-the-art-of-deleting-your-iphone-data/"><u>DIY Guide: Mastering the Art of Deleting Your iPhone Data</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722974721418-download-logitech-audio-driver-software-compatible-with-windows-11-7-and-8/"><u>Download Logitech Audio Driver Software Compatible with Windows 11, 7 & 8</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/easy-methods-to-save-and-listen-to-your-favorite-podcasts-on-windows-ios-devices-and-android-phones-with-movavi-solutions/"><u>Easy Methods to Save and Listen to Your Favorite Podcasts on Windows, iOS Devices & Android Phones with Movavi Solutions</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-lava-blaze-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Lava Blaze 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-windows-compatible-amd-radeon-graphics-drivers-here/"><u>Get the Latest Windows-Compatible AMD Radeon Graphics Drivers Here!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-newest-logitech-wireless-mouse-software-for-your-pc/"><u>Get the Newest Logitech Wireless Mouse Software for Your PC</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/how-much-cash-can-you-score-for-watching-a-million-videos-for-2024/"><u>How Much Cash Can You Score for Watching A Million Videos for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-easily-upgrade-windows-pc-speakers-install-microsofts-official-drivers-free-download/"><u>How to Easily Upgrade Windows PC Speakers: Install Microsoft's Official Drivers (Free Download)</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-exploring-roleplayings-boundaries-rogues-and-roguities/"><u>In 2024, Exploring Roleplaying's Boundaries Rogues & Roguities</u></a></li>
-<li><a href="https://article-posts.techidaily.com/smaller-is-better-top-drone-brands-reviewed-for-2024/"><u>Smaller Is Better Top Drone Brands Reviewed for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-immersive-technologies-ar-vr-mr-and-xr-key-differences-explained/"><u>Understanding Immersive Technologies: AR, VR, MR & XR - Key Differences Explained</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-cutting-edge-gadgets-with-toms-hardware-review/"><u>Unveiling Cutting-Edge Gadgets with Tom's Hardware Review!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-your-pc-download-amd-rx-6800-drivers-for-windows-7-10-and-11/"><u>Update Your PC: Download AMD RX 6800 Drivers for Windows 7, 10 & 11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-budget-friendly-backdrops-a-journey-through-tiktoks-visual-wonderland/"><u>[New] Budget-Friendly Backdrops A Journey Through TikTok's Visual Wonderland</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-dual-display-audio-preservation/"><u>[New] In 2024, Dual-Display Audio Preservation</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-discovering-chromium-phone-sonics-online-for-2024/"><u>[Updated] Discovering Chromium Phone Sonics Online for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ace-your-academics-with-ease-best-multi-tasking-2-in-1-laptops-reviewed/"><u>Ace Your Academics with Ease: Best Multi-Tasking 2-in-1 Laptops Reviewed</u></a></li>
+<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-lava-blaze-2-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Lava Blaze 2</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/anticipating-innovations-at-apples-event-this-month-unveiling-the-m4-mac-mini-enhanced-ipads-and-breakthroughs-in-machine-learning-technology/"><u>Anticipating Innovations at Apple's Event This Month - Unveiling the M4 Mac Mini, Enhanced iPads, and Breakthroughs in Machine Learning Technology</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-recover-deleted-text-messages-on-any-phone/"><u>How to Recover Deleted Text Messages on Any Phone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-victus-steals-at-515-unbeatable-gametech-during-best-buy-prime-days-exclusive-offer/"><u>HP Victus ✨ Steals at $515 - Unbeatable GameTech During Best Buy Prime Days! [Exclusive Offer]</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-k70-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi K70 Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-vivo-x90s-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Vivo X90S IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-apple-gadgets-launched-this-week-including-the-iphone-15-pro-advanced-series-n-apple-watch-and-revolutionary-airpods-zdnet/"><u>Latest Apple Gadgets Launched This Week Including the iPhone 15 Pro, Advanced Series N Apple Watch, and Revolutionary AirPods | ZDNET</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/superior-approaches-turning-visual-content-into-music-files-for-2024/"><u>Superior Approaches Turning Visual Content Into Music Files for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-resolving-easy-anti-cheat-issues-in-new-world-game/"><u>Troubleshooting Tips for Resolving 'Easy Anti-Cheat' Issues in New World Game</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/windows-fans-upgrade-to-lenovos-new-mac-studio-rivaling-apples-own-exclusive-analysis-zdnet/"><u>Windows Fans Upgrade to Lenovo's New Mac Studio Rivaling Apple’s Own – Exclusive Analysis | ZDNet</u></a></li>
 </ul></div>
 

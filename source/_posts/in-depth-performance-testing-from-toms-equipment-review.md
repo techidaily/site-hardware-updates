@@ -1,7 +1,7 @@
 ---
 title: In-Depth Performance Testing From Tom's Equipment Review
-date: 2024-08-19T04:20:30.596Z
-updated: 2024-08-20T04:20:30.596Z
+date: 2025-02-01T09:53:59.088Z
+updated: 2025-02-03T07:08:11.905Z
 tags:
   - motherboards
 categories:
@@ -119,6 +119,10 @@ Show More Deals
 
  We check over 250 million products every day for the best prices
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Inside the Box of the Gigabyte B650 Aorus Elite AX Ice
 
  In the retail box are some accessories designed to help get you started. This includes two SATA cables, the Wi-Fi 6E antenna, the Q-Connector, and the installation guide. There’s not much to it, but that’s expected at this price point.
@@ -141,6 +145,10 @@ Show More Deals
 
 ![Gigabyte B650 Aorus Elite AX Ice](https://cdn.mos.cms.futurecdn.net/ng9mFf9Apw7yDxEnxqenA8-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Gigabyte)
 
  Starting our tour in the top left corner, between the large VRM heatsinks along the top edge are 8-pin and 4-pin EPS connectors that power the processor. The VRM heatsinks connect through a heatpipe to share the thermal load. They’re large enough and have enough surface area to do the job, and they showed as much in our stress testing.
@@ -155,11 +163,19 @@ Show More Deals
 
 ![Gigabyte B650 Aorus Elite AX Ice](https://cdn.mos.cms.futurecdn.net/wnqT4WhDE4ESpvfAkK3Zb8-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  The VRMs on the B650 Aorus Elite AX Ice are 16 total phases, with 12 dedicated to Vcore in a parallel design. Power feeds from the EPS connector(s) to the Richtek 10-channel, then travels out to the 12x On Semiconductor NCP302155 55A MOSFETs. By number, the 660A is paltry. However, it worked fine with our[Ryzen 9 7950X](https://tools.techidaily.com) during testing.
 
 ![Gigabyte B650 Aorus Elite AX Ice](https://cdn.mos.cms.futurecdn.net/NZvNGDFqE76o8XABgJoCj8-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Gigabyte)
 
@@ -184,6 +200,10 @@ Show More Deals
 * System panel header
 
 ![Gigabyte B650 Aorus Elite AX Ice](https://cdn.mos.cms.futurecdn.net/RhBiDaRXA8MwR4TVivdhp8-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Gigabyte)
 
@@ -269,8 +289,6 @@ powered by
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -278,8 +296,23 @@ powered by
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-elite-green-tech-in-the-world-of-screen-capture/"><u>[New] 2024 Approved Elite Green Tech in the World of Screen Capture</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-crafting-unified-visuals-on-your-computer/"><u>[Updated] Crafting Unified Visuals on Your Computer</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-saving-gifs-from-twitter-ios-and-android-guide/"><u>2024 Approved Saving GIFs From Twitter IOS & Android Guide</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-screen-scrapers-companion-easy-steps-to-save-tweets-visuals/"><u>2024 Approved Screen Scrapers' Companion Easy Steps to Save Tweets' Visuals</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-gaming-sets-for-kids-navigating-through-console-options-and-extra-must-haves/"><u>Best Gaming Sets for Kids: Navigating Through Console Options & Extra Must-Haves</u></a></li>
+<li><a href="https://win11.techidaily.com/expressive-ideas-on-a-canvas-direct-drawing-in-windows-11/"><u>Expressive Ideas on a Canvas: Direct Drawing in Windows 11</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/step-by-step-on-vlc-screen-recording/"><u>Step-by-Step on VLC Screen Recording</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-walmart-bargains-in-july-2024-find-the-hottest-savings-on-zdnet/"><u>Top Walmart Bargains in July 2024: Find the Hottest Savings on ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-television-sets-below-1000-comprehensive-review-by-tech-experts-zdnet/"><u>Top-Rated Television Sets Below $1,000 - Comprehensive Review by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-tv-antenna-picks-your-guide-to-the-ultimate-signal/"><u>Top-Rated TV Antenna Picks: Your Guide to the Ultimate Signal</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-picking-your-next-television-comparing-lg-and-samsung-insights-from-zdnet/"><u>Ultimate Guide to Picking Your Next Television: Comparing LG and Samsung - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-selection-of-2024s-best-sony-playstation-5-compatible-televisions-comprehensive-testing-and-evaluation-zdnet/"><u>Ultimate Selection of 2024'S Best Sony PlayStation 5 Compatible Televisions: Comprehensive Testing & Evaluation | ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/under-2000-how-the-sony-a80l-oled-smashes-expectations-with-stunning-ai-enhanced-upscaling-a-game-changer-reviewed/"><u>Under $2,000: How the Sony A80L OLED Smashes Expectations with Stunning AI-Enhanced Upscaling - A Game Changer Reviewed!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlock-superior-sound-elevate-your-apple-tvs-dialogue-with-the-new-tvos-eighteen-features-zdnet-insights/"><u>Unlock Superior Sound: Elevate Your Apple TV's Dialogue with the New tvOS Eighteen Features | ZDNET Insights</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713966086006-updated-would-you-like-to-know-how-to-change-the-ratio-of-the-video-or-which-is-the-correct-aspect-ratio-for-uploading-to-the-online-platform-then-go-throug/"><u>Updated Would You Like to Know How to Change the Ratio of the Video or Which Is the Correct Aspect Ratio for Uploading to the Online Platform? Then, Go Through the Article to Get Complete Details About the Video Aspect Ratio for 2024</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->

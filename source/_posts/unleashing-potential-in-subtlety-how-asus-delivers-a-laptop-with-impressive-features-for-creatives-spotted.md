@@ -1,7 +1,7 @@
 ---
 title: Unleashing Potential in Subtlety - How Asus Delivers a Laptop with Impressive Features for Creatives, Spotted
-date: 2025-01-31T18:23:48.594Z
-updated: 2025-02-01T17:11:22.974Z
+date: 2025-01-27T18:44:38.380Z
+updated: 2025-02-02T17:27:17.364Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -73,7 +73,7 @@ Asus' Vivobook Pro 15 does a good job playing media. Hi-res videos look stunning
 In line with my initial impression, the device is a little on the bulky side, but the extra heft is not a big deal because it's lightweight and the extra room allows for a wide array of ports. You get two USB-Cs, a pair of USB-A inputs that support transfer speeds of up to 5GBPS, HDMI, an ethernet port, and an SD card slot.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -112,22 +112,19 @@ If you want something more powerful, I suggest checking out the MSI Creator Z16 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-mighty-thor-returns-odins-vow/"><u>[New] 2024 Approved Mighty Thor Returns Odin’s Vow</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-optimizing-youtube-content-for-instagram-platforms/"><u>[New] Optimizing YouTube Content for Instagram Platforms</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/pectacular-gaming-capture-options/"><u>[New] Spectacular Gaming Capture Options</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/nderstanding-earnings-potential-per-video-consumption-for-2024/"><u>[New] Understanding Earnings Potential per Video Consumption for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-capture-your-social-face-video/"><u>[Updated] Capture Your Social Face Video</u></a></li>
-<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-samsung-galaxy-f34-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Samsung Galaxy F34 5G to iPhone | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/compatible-sm-bus-controller-software-downloads-for-windows-operating-systems-win11-to-win7/"><u>Compatible SM Bus Controller Software Downloads for Windows Operating Systems: Win11 to Win7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-the-power-of-ai-in-computing-with-amds-brand-new-ryzen-processors-featuring-strix-halo-and-kraken-point-upgrades/"><u>Discover the Power of AI in Computing with AMD's Brand-New Ryzen Processors Featuring Strix Halo & Kraken Point Upgrades</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-sades-headset-drivers-now-secure-and-compatible-with-windows-pcs/"><u>Download Sades Headset Drivers Now: Secure & Compatible with Windows PCs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-techkey-bluetooth-driver-compatible-with-windows-1078/"><u>Download Techkey Bluetooth Driver Compatible with Windows 10/7/8</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-vivo-s17e-devices-by-drfone-android/"><u>How to Reset Gmail Password on Vivo S17e Devices</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-set-up-your-epson-wf-3540-printer-with-windows-drivers-quick-and-easy-steps/"><u>How to Set Up Your Epson WF-3540 Printer with Windows Drivers: Quick and Easy Steps</u></a></li>
-<li><a href="https://win-best.techidaily.com/how-to-successfully-view-and-fix-jpg-file-issues-on-your-windows-10-pc/"><u>How to Successfully View and Fix JPG File Issues on Your Windows 10 PC</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-the-top-10-apple-iphone-12-mini-emualtors-for-windows-mac-and-android-drfone-by-drfone-ios/"><u>In 2024, The Top 10 Apple iPhone 12 mini Emualtors for Windows, Mac and Android | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/risc-v-cpu-vulnerability-unveiled-the-ghostwrite-bug-enables-hackers-to-gain-elevated-privileges/"><u>RISC-V CPU Vulnerability Unveiled: The GhostWrite Bug Enables Hackers to Gain Elevated Privileges</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-installing-realtek-alc-network-adapter-drivers-in-windows-10/"><u>Step-by-Step Tutorial: Installing Realtek ALC Network Adapter Drivers in Windows 10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-downloading-and-updating-thunderbolt-drivers-for-windows-computers/"><u>Ultimate Guide to Downloading and Updating Thunderbolt Drivers for Windows Computers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-quick-steps-to-elevate-low-quality-webcam-vids/"><u>[Updated] 2024 Approved Quick Steps to Elevate Low-Quality WebCam Vids</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-picking-the-right-software-bandicam-versus-camtasia-for-2024/"><u>[Updated] Picking the Right Software Bandicam Versus Camtasia for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-elevate-art-to-blockchain-assets-with-top-7-tools/"><u>2024 Approved Elevate Art to Blockchain Assets with Top 7 Tools</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-streamline-youtube-sounds-to-mp3-using-mac/"><u>2024 Approved Streamline YouTube Sounds to MP3 Using Mac</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-analysis-of-the-lenovo-thinkpad-x1-groovy-arm-powered-5g-connectivity-and-lasting-portability-perfect-for-mobile-users-pcmag/"><u>Comprehensive Analysis of the Lenovo ThinkPad X1 Groovy: Arm-Powered, 5G Connectivity, and Lasting Portability Perfect for Mobile Users | PCMag</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-top-notch-performance-and-unbeatable-deals-on-a-15-macbook-air-save-250-today-detailed-review-and-tips-on-zdnet/"><u>Experience Top-Notch Performance and Unbeatable Deals on a 15 MacBook Air - Save $250 Today | Detailed Review & Tips on ZDNet.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/explore-metas-exceptional-offer-the-512gb-quest-3-presents-unbeatable-value-in-todays-virtual-reality-market-insights/"><u>Explore Meta's Exceptional Offer: The 512GB Quest 3 Presents Unbeatable Value in Today's Virtual Reality Market - Insights</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-easy-methods-for-archiving-digital-meeting-recordings/"><u>In 2024, Easy Methods for Archiving Digital Meeting Recordings</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-tecno-spark-20-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Tecno Spark 20 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-top-tech-reviews-with-a-focus-on-alternatives/"><u>In 2024, Top Tech Reviews with a Focus on Alternatives</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maximize-your-vr-experience-with-metas-limited-offer-on-the-512gb-oculus-quest-3-the-superior-choice-for-immersive-gaming-zdnet/"><u>Maximize Your VR Experience with Meta's Limited Offer on the 512GB Oculus Quest 3 – The Superior Choice for Immersive Gaming | ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/meet-the-ultraportable-powerhouse-dell-unveils-a-work-friendly-gaming-laptop-that-gamers-will-love-digital-trends/"><u>Meet the Ultraportable Powerhouse: Dell Unveils a Work-Friendly Gaming Laptop That Gamers Will Love | Digital Trends</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/subtitle-making-from-compressed-file-extraction-for-2024/"><u>Subtitle Making From Compressed File Extraction for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-18-unbeatable-prime-day-offers-on-hp-apple-razer-and-other-brands-exclusive-deals-from-zdnet/"><u>Top 18 Unbeatable Prime Day Offers on HP, Apple, Razer & Other Brands - Exclusive Deals From ZDNet!</u></a></li>
 </ul></div>
 

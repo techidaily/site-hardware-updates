@@ -1,7 +1,7 @@
 ---
 title: "Logo FAULT Correction: AMD Motherboard Allies Launch New BIOS Updates"
-date: 2024-08-19T04:23:04.816Z
-updated: 2024-08-20T04:23:04.816Z
+date: 2025-01-29T17:39:26.075Z
+updated: 2025-02-03T02:41:12.640Z
 tags:
   - motherboards
 categories:
@@ -19,6 +19,10 @@ The days of sticks of RAM may be coming to an end. A new standard, CAMM2 (Compre
 
  CAMM[originated with Dell](https://tools.techidaily.com) as a project to replace bulkier SO-DIMM memory slots. But the company[worked with JEDEC](https://tools.techidaily.com) , a semiconductor standards body, which tweaked it and made CAMM2 available to a number of different PC companies.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What are CAMM2 and LPCAMM2? What are their benefits?
 
  There are two major types of CAMM2 memory. DDR5 CAMM2 is the full power version, and the one you're most likely to see in desktop PCs. There's also the low-power LPDDR5 CAMM2, designed for thin laptops. Some vendors are shortening this to LPCAMM2, which is slightly less of a mouthful.  
@@ -33,9 +37,17 @@ The days of sticks of RAM may be coming to an end. A new standard, CAMM2 (Compre
 
 ![CAMM2](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ![CAMM2](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -48,15 +60,17 @@ The days of sticks of RAM may be coming to an end. A new standard, CAMM2 (Compre
  The modules might help enable new form factors, too. At Computex,[Adata showed off its Nia handheld](https://tools.techidaily.com) , which uses LPCAMM2 using LPDDR5X.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How much memory fits on a CAMM2 module?
 
 Between 8GB and 128GB of memory fits on a single module.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Is LPCAMM2 faster than existing SO-DIMMs and DIMMs?
 
  Yes. As of this writing,[Crucial is listing](https://www.crucial.com/memory/ddr5/ct64g75c2lp5xg) 32GB and 64GB LPDDR5X-7200 LPCAMM2 modules. At Computex, TeamGroup said its 16GB, 32GB, and 64GB memory will go up to 9600 MT/s. Samsung's[page on LPCAMM2](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fgo.redirectingat.com%2F%3Fid%3D92X1584492%26xcust%3Dtomshardware%255Fus%255F4400621493195954499%26xs%3D1%26url%3Dhttps%253A%252F%252Fsemiconductor.samsung.com%252Femea%252Fdram%252Fmodule%252Flpcamm2%252F%26sref%3Dhttps%253A%252F%252Fwww.tomshardware.com%252Fpc-components%252Fmotherboards%252Fwhat-is-camm2) lists an "extraordinary data transfer rate of 8,533Mbps," the same number memory company[Geil showed at Computex](https://www.techpowerup.com/323173/geil-presents-a-wide-range-of-memories-at-computex-camm2-lpcamm2-alongside-many-ddr5s) .
@@ -65,10 +79,6 @@ Between 8GB and 128GB of memory fits on a single module.
 
  We haven't seen any DDR5 CAMM2 products on the market just yet, so we don't know if those speeds will go even higher.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## What are alternatives to CAMM2?
 
  In theory, there's nothing stopping vendors from using standard DIMMs or SO-DIMMs, or continuing to solder memory to the motherboard. Staying with the status quo is an alternative, at least for now.
@@ -83,8 +93,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -92,4 +100,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-decoding-uavs-the-science-behind-airborne-machines-for-2024/"><u>[New] Decoding UAVs The Science Behind Airborne Machines for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-streamline-your-playtime-5-techniques-for-gamers/"><u>[Updated] In 2024, Streamline Your Playtime 5 Techniques for Gamers</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-secret-to-understanding-your-youtube-fans/"><u>[Updated] The Secret to Understanding Your YouTube Fans</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/breaking-apple-unveils-budget-friendly-m2-macbook-air-at-an-impressive-799-before-the-big-october-sale-exclusive-on-zdnet/"><u>Breaking: Apple Unveils Budget-Friendly M2 MacBook Air at an Impressive $799 Before the Big October Sale - Exclusive on ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/essential-laptop-upgrade-the-key-gadget-every-tech-enthusiast-requires-for-optimal-cooling-performance-insights-from-zdnet/"><u>Essential Laptop Upgrade: The Key Gadget Every Tech Enthusiast Requires for Optimal Cooling Performance - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experiencing-lenovos-clear-computing-revolution-a-firsthand-look-at-the-transparent-laptop-at-mwc-insights-from-zdnet/"><u>Experiencing Lenovo's Clear Computing Revolution: A Firsthand Look at the Transparent Laptop at MWC - Insights From ZDNet</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/explore-italy-fluently-essential-phrases-and-vocabulary-guide/"><u>Explore Italy Fluently: Essential Phrases and Vocabulary Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fatta-dig-med-movavis-forsta-din-frakt-och-aterbaringspolitik-i-en-ogonblick/"><u>Fatta Dig Med Movavis - Förstå Din Frakt- Och Återbäringspolitik I en Ögonblick</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/huge-savings-snag-the-ultimate-gamer-and-vlogger-pc-at-a-breathtakingly-discounted-price/"><u>Huge Savings: Snag the Ultimate Gamer & Vlogger PC at a Breathtakingly Discounted Price !</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-realme-12plus-5g-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Realme 12+ 5G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-vr-beyond-boundaries-top-tech-and-accessories-unveiled/"><u>In 2024, VR Beyond Boundaries Top Tech and Accessories Unveiled</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/power-up-with-intels-latest-innovation-transforming-the-future-of-laptops-and-their-amazing-features/"><u>Power Up with Intel's Latest Innovation: Transforming the Future of Laptops and Their Amazing Features</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/precision-in-choosing-a-top-tier-gaming-device/"><u>Precision in Choosing a Top-Tier Gaming Device</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/score-a-steal-save-36-on-the-ultra-capacity-8tb-samsung-t5-ssd-from-amazon-post-prime-day-insider-info/"><u>Score a Steal: Save 36% on the Ultra-Capacity 8TB Samsung T5 SSD From Amazon Post-Prime Day - Insider Info</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlocking-a-new-era-of-convenience-how-lenovos-recent-laptop-releases-revolutionize-iphone-data-transfer-see-it-now-zdnet/"><u>Unlocking a New Era of Convenience: How Lenovo's Recent Laptop Releases Revolutionize iPhone Data Transfer – See It Now! [ZDNet]</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/zdnets-favorite-lightweight-laptops-of-the-year-featuring-long-lasting-batteries-explored/"><u>ZDNet's Favorite Lightweight Laptops of the Year Featuring Long-Lasting Batteries Explored!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Ideal Companion for Digital Nomads: Our Picks for the Lightest & Best Laptops | ZDNet Reviews"
-date: 2025-01-31T18:30:04.896Z
-updated: 2025-02-01T16:38:52.623Z
+date: 2025-01-30T05:59:08.809Z
+updated: 2025-02-02T17:36:36.439Z
 tags:
   - laptops
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/00d8a989d7a324ab139f90cea816e72b6f2451ab8
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -93,7 +93,7 @@ Compared to a MacBook, one could argue that the Yoga Slim 7x is at least better 
 The MacBook is better suited for the iOS ecosystem, however Lenovo has been making strides in developing a data transfer feature between its laptop and iPhones. So if you're not sure which one to get, the Yoga Slim 7x might be the better long-term investment.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -134,18 +134,24 @@ Creators might also appreciate the fact that Lenovo is also giving [two free mon
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-graphical-forecast-the-dominant-23-social-themes/"><u>[Updated] Graphical Forecast The Dominant '23 Social Themes</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-voice-over-text-made-easy-choosing-the-best-mac-translation-software/"><u>2024 Approved Voice Over Text Made Easy Choosing the Best Mac Translation Software</u></a></li>
-<li><a href="https://games-able.techidaily.com/align-technology-the-ultimate-guide-to-controller-links/"><u>Align Technology: The Ultimate Guide to Controller Links</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-sm-bus-controller-driver-suite-supports-multiple-windows-versions-including-11-10-8-and-7/"><u>Download Sm Bus Controller Driver Suite - Supports Multiple Windows Versions Including 11, 10, 8 & 7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-mediatek-vcom-driver-downloads-and-steps-for-quick-installation/"><u>Effortless MediaTek VCOM Driver Downloads and Steps for Quick Installation</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-update-of-your-sata-drivers-on-a-windows-system-a-comprehensive-walkthrough/"><u>Effortless Update of Your SATA Drivers on a Windows System: A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-overcome-keyboard-problems-in-pathfinder-wrath-of-the-righteous-adventure-game/"><u>How to Overcome Keyboard Problems in Pathfinder: Wrath of the Righteous Adventure Game</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hp-printer-driver-downloads-get-them-now/"><u>HP Printer Driver Downloads - Get Them Now!</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Reasons why Pokémon GPS does not Work On Apple iPhone XS Max? | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-unlocking-the-potential-of-your-youtube-channel-subscribers/"><u>In 2024, Unlocking the Potential of Your YouTube Channel (Subscribers)</u></a></li>
-<li><a href="https://os-tips.techidaily.com/successfully-streaming-from-your-ipad-to-the-big-screen-tv-compatibility-tips/"><u>Successfully Streaming From Your iPad to the Big Screen - TV Compatibility Tips</u></a></li>
-<li><a href="https://techtrends.techidaily.com/techniques-efficaces-de-production-de-videos-interactives-un-cours-detaille-avec-movavi/"><u>Techniques Efficaces De Production De Vidéos Interactives : Un Cours Détaillé Avec Movavi</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-driver-for-your-usb-compliant-tracking-device-today/"><u>Update Driver for Your USB Compliant Tracking Device Today</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-bring-back-windows-photo-viewer-steps-in-win-11-edition/"><u>[New] Bring Back Windows Photo Viewer Steps in Win 11 Edition</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-collaborative-filmmaking-teamwork-in-producing-instagram-content/"><u>[New] Collaborative Filmmaking Teamwork in Producing Instagram Content</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-textual-enhancement-techniques-for-instagram-live-and-igtv/"><u>[New] In 2024, Textual Enhancement Techniques for Instagram Live and IGTV</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-advanced-users-techniques-for-effective-macscreencasting/"><u>[Updated] 2024 Approved Advanced Users Techniques for Effective MacScreencasting</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-televisions-as-a-window-to-facebook-world-vids/"><u>[Updated] In 2024, Televisions as a Window to Facebook World Vids</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-perfect-pair-merging-your-youtube-video-library/"><u>[Updated] Perfect Pair Merging Your YouTube Video Library</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-best-bargain-on-high-performance-computing-secure-your-new-gigabyte-aero-16-at-half-price-endorsed-by-zdnet-for-gamers-and-professionals-alike.66/"><u>Discover the Best Bargain on High-Performance Computing: Secure Your New Gigabyte Aero 16 at Half Price, Endorsed by ZDNet for Gamers and Professionals Alike!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-leading-productivity-laptop-thats-not-from-lenovo-or-apple-exclusive-review/"><u>Discover the Leading Productivity Laptop That's Not From Lenovo or Apple: Exclusive Review</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-ignite-social-media-fanfare-master-these-9-instagram-commandments/"><u>In 2024, Ignite Social Media Fanfare Master These 9 Instagram Commandments</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/leverage-free-luts-to-upgrade-your-obs-video-production-quality/"><u>Leverage Free LUTs to Upgrade Your OBS Video Production Quality</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-tech-with-tom-a-comprehensive-guide-to-new-and-improved-systems/"><u>Navigating Tech with Tom: A Comprehensive Guide to New and Improved Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/picking-perfect-portability-or-power-macbook-air-versus-macbook-pro-find-your-ideal-apple-device-zdnet/"><u>Picking Perfect Portability or Power: MacBook Air Versus MacBook Pro – Find Your Ideal Apple Device | ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/prime-day-countdown-unbeatable-deals-and-tips-to-score-on-amazons-shopping-fiesta-zdnet-analysis/"><u>Prime Day Countdown: Unbeatable Deals & Tips to Score on Amazon's Shopping Fiesta | ZDNET Analysis</u></a></li>
+<li><a href="https://win11.techidaily.com/resolve-missing-external-devices-in-microsoft-system/"><u>Resolve Missing External Devices in Microsoft System</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/snag-the-deal-samsung-8tb-portable-ssd-t5-holds-a-steady-36-discount-on-amazon-insights-from-zdnet/"><u>Snag the Deal: Samsung 8TB Portable SSD T5 Holds a Steady 36% Discount on Amazon, Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-all-rounder-how-this-powerhouse-laptop-won-hearts-and-delivers-quality-performance/"><u>The Ultimate All-Rounder: How This Powerhouse Laptop Won Hearts and Delivers Quality Performance</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-gaming-discounts-on-prime-day-sale-october-2024-edition-zdnet/"><u>Top Gaming Discounts on Prime Day Sale - October 2024 Edition | ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-picks-for-gaming-laptop-powerhouses-comparing-razer-acer-and-msi-on-zdnet/"><u>Top Picks for Gaming Laptop Powerhouses - Comparing Razer, Acer & MSI on ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-streaming-webcams-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top Rated Streaming Webcams : Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
 </ul></div>
 

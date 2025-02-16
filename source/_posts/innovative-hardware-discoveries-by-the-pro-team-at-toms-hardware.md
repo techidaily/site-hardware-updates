@@ -1,7 +1,7 @@
 ---
 title: Innovative Hardware Discoveries by the Pro Team at Tom's Hardware
-date: 2024-08-19T04:21:23.633Z
-updated: 2024-08-20T04:21:23.633Z
+date: 2025-01-31T04:00:44.665Z
+updated: 2025-02-02T20:41:17.755Z
 tags:
   - motherboards
 categories:
@@ -47,6 +47,10 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
 
  The fact is, Loongson has developed its own CPU just a few generations behind Intel and AMD. Considering the Chinese firm has to work around U.S. sanctions and claims to insist on doing everything based on its own IP, the performance could actually be considered impressive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -63,8 +67,6 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -72,8 +74,17 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-essential-guide-11-easy-to-use-waterproof-cams-for-young-filmmakers/"><u>[New] In 2024, Essential Guide 11 Easy-to-Use Waterproof Cams For Young Filmmakers</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-snicker-surgeons-top-7-sketches-for-youtube-laughter-aficionados/"><u>2024 Approved Snicker Surgeons Top 7 Sketches for YouTube Laughter Aficionados</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhanced-nutrient-cycling-leading-to-reduced-need-for-synthetic-fertilizers/"><u>Enhanced Nutrient Cycling Leading to Reduced Need for Synthetic Fertilizers</u></a></li>
+<li><a href="https://win-forum.techidaily.com/master-your-system-settings-a-step-by-step-tutorial-on-editing-registry-entries-via-revo-uninstaller/"><u>Master Your System Settings: A Step-by-Step Tutorial on Editing Registry Entries via Revo Uninstaller</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/microsoft-shakes-up-tech-world-with-user-friendly-repairable-laptops-outshines-competitors-apple-on-notice/"><u>Microsoft Shakes Up Tech World with User-Friendly Repairable Laptops - Outshines Competitors; Apple on Notice!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/molecular-research-may-uncover-biomarkers-for-predicting-treatment-response-and-identifying-patients-at-risk-for-severe-complications-from-cancer-induced-bo146/"><u>Molecular Research May Uncover Biomarkers for Predicting Treatment Response and Identifying Patients at Risk for Severe Complications From Cancer-Induced Bone Disease</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-10-resources-for-in-depth-apple-tech-reviews-podcasts-and-youtube-channels-pcmag/"><u>Top 10 Resources for In-Depth Apple Tech Reviews: Podcasts & YouTube Channels | PCMag</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-gaming-graphics-cards-the-definitive-list-zdnet/"><u>Top Rated Gaming Graphics Cards : The Definitive List - ZDNet</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-video-compression-tools-slash-file-sizes-without-quality-loss/"><u>Top Video Compression Tools: Slash File Sizes Without Quality Loss</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

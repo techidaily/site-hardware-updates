@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Gadget Analyses by Tom's Hardware Experts
-date: 2024-08-19T04:19:11.183Z
-updated: 2024-08-20T04:19:11.183Z
+date: 2025-01-29T02:13:39.510Z
+updated: 2025-02-02T22:42:27.008Z
 tags:
   - ssd
 categories:
@@ -46,36 +46,36 @@ AGI is a memory technology brand we’ve heard of but never tested... until toda
 
 * [AGI AI818 2TB SSD at Newegg for $114.99](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Flink%3Fid%3DkXQk6%252AivFEQ%26offerid%3D1531483.445838636436816353697968%26type%3D15%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fagi-2tb-ai818-43%252Fp%252F0D9-010F-00011%253Fitem%253D9SIBM90K3J6368%26u1%3Dtomshardware-us-1398768948128134202)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Software and Accessories
 
  AGI does not appear to offer any direct software downloads on its site, but there are free alternatives. We recommend CrystalDiskInfo for basic drive information including SMART health status. For imaging and cloning,[Clonezilla](https://tools.techidaily.com) should do the trick.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## AGI AI818 — A Closer Look
 
  Image 1 of 3
 
 ![AGI AI818 2TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![AGI AI818 2TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![AGI AGI818 2TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  It's not the worst label we’ve ever seen. The drive is at least single-sided, which means it could work with a wider range of[laptops](https://tools.techidaily.com) . It should also be fine in the PS5\. However, we suspect a heatsink might be desirable, which makes it less palatable for a laptop. The label is supposedly graphene-based, which may help keep it from overheating in airy desktops at least.
@@ -85,15 +85,17 @@ AGI is a memory technology brand we’ve heard of but never tested... until toda
 ![AGI AI818 2TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
 ![AGI AI818 2TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  We weren’t too sure what flash to expect on this drive as it launched with YMTC’s 128-Layer TLC (X2-9060), at least at some capacities. There are two 1TB SKUs and one of them uses QLC instead. The drive launched with the Maxio MAP1602 controller, down-bussed to 1,600 MT/s to match that particular TLC flash. It’s possible this drive will have other variations in hardware but we’re looking at what is being delivered today, which certainly is an interesting combination.  
@@ -164,8 +166,6 @@ powered by
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -173,4 +173,20 @@ powered by
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-determining-a-bespoke-keyword-for-your-tiktok-feed-for-2024/"><u>[New] Determining a Bespoke Keyword for Your TikTok Feed for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-navigating-new-horizinas-in-the-world-of-srt/"><u>[New] Navigating New Horizinas in the World of SRT</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-crafting-the-perfect-close-youtubes-free-end-screen-tools/"><u>2024 Approved Crafting the Perfect Close YouTube's Free End Screen Tools</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-interview-amd-leader-mike-clark-discusses-the-swift-arrival-of-zen-5-and-next-gen-compact-cpus/"><u>Exclusive Interview: AMD Leader Mike Clark Discusses the Swift Arrival of Zen-5 and Next-Gen Compact CPUs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/expertly-testing-the-ultimate-list-of-2024s-best-notetaking-tablets-detailed-analysis/"><u>Expertly Testing the Ultimate List of 2024'S Best Notetaking Tablets: Detailed Analysis</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722966789530-get-your-latest-nvidia-game-ready-drivers-for-pc-download-now/"><u>Get Your Latest NVIDIA Game-Ready Drivers for PC: Download Now</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-windows-11s-svchostexe-eating-up-your-processor-speedily/"><u>How to Fix Windows 11’S svchost.exe Eating Up Your Processor Speedily</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/how-to-record-multiple-monitors-for-2024/"><u>How to Record Multiple Monitors for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-the-newest-drivers-for-epson-wf-3620-on-windows-1187-step-by-step-download-tutorial/"><u>Install the Newest Drivers for Epson WF-3620 on Windows 11/8/7 – Step by Step Download Tutorial</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-hdmi-usb-bridge-software-download-get-the-newest-driver/"><u>Latest HDMI-USB Bridge Software Download – Get the Newest Driver</u></a></li>
+<li><a href="https://win-blog.techidaily.com/navigating-through-hazardous-programming-errors-in-modern-warfare-and-blackout/"><u>Navigating Through Hazardous Programming Errors in Modern Warfare and Blackout</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/zeer-beslist-videobewijs-herunterladen-van-wegenetjes-efficiense-tools-en-tips/"><u>Zeer Beslist Videobewijs Herunterladen Van Wegenetjes: Efficiënse Tools En Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/zenith-of-precision-an-in-depth-look-at-the-highly-rated-gmmk-pro-the-ultimate-mechanical-keyboard-bundle/"><u>Zenith of Precision: An In-Depth Look at the Highly Rated GMMK Pro - The Ultimate Mechanical Keyboard Bundle</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Pushing the Limits of Overclocking: Splave and ASRock's Z790I Motherboard Set Unprecedented World Records Together"
-date: 2024-08-19T04:23:14.305Z
-updated: 2024-08-20T04:23:14.305Z
+date: 2025-01-29T20:01:37.642Z
+updated: 2025-02-03T02:58:05.616Z
 tags:
   - motherboards
 categories:
@@ -47,6 +47,10 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
 
  The fact is, Loongson has developed its own CPU just a few generations behind Intel and AMD. Considering the Chinese firm has to work around U.S. sanctions and claims to insist on doing everything based on its own IP, the performance could actually be considered impressive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -63,8 +67,6 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -72,8 +74,22 @@ Two new motherboards for the[Chinese-made Loongson 3A6000 CPU](https://tools.tec
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-androids-elite-selection-of-collage-apps/"><u>[New] Android's Elite Selection of Collage Apps</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-prime-safe-video-meeting-software-rankings-for-smes/"><u>[New] Prime Safe Video Meeting Software Rankings for SMEs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apples-new-vision-pro-initial-release-comes-packed-with-native-support-for-microsoft-office-tools/"><u>Apple's New Vision Pro Initial Release Comes Packed with Native Support for Microsoft Office Tools</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-unmatched-versattile-performance-of-dells-latest-gaming-laptop-ideal-for-office-use-too-exclusive-review-by-zdnet/"><u>Discover the Unmatched Versattile Performance of Dell's Latest Gaming Laptop - Ideal For Office Use Too! Exclusive Review by ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-picks-for-ultimate-portable-monitors-of-2024-in-depth-analysis-and-ratings-zdnet/"><u>Expert Picks for Ultimate Portable Monitors of 2024: In-Depth Analysis and Ratings | ZDNet</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-screen-mirroring-apple-iphone-xs-to-tv-or-pc-drfone-by-drfone-ios/"><u>How Screen Mirroring Apple iPhone XS to TV or PC? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-facebook-cover-video-introduction-size-format-and-time/"><u>In 2024, Facebook Cover Video Introduction, Size, Format & Time</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/laugh-line-by-line-building-a-meme-friendly-video-portfolio/"><u>Laugh Line by Line Building a Meme-Friendly Video Portfolio</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/powerdirectors-complete-blueprint-for-success-for-2024/"><u>PowerDirector's Complete Blueprint for Success for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/revolutionizing-productivity-lenovo-enhances-key-functionality-in-latest-2-in-1-thinkpad-for-professionals-insights-by-zdnet/"><u>Revolutionizing Productivity: Lenovo Enhances Key Functionality in Latest 2-in-1 ThinkPad for Professionals - Insights by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-ranked-non-microsoft-non-lenovo-tablet-triumphs-as-ideal-companion-for-business-travelers-insights-from-a-comprehensive-review/"><u>Top-Ranked Non-Microsoft, Non-Lenovo Tablet Triumphs as Ideal Companion for Business Travelers – Insights From a Comprehensive Review</u></a></li>
+<li><a href="https://common-error.techidaily.com/total-war-enthusiasts-rejoice-uncrash-your-rome-remastered-experience-here/"><u>Total War Enthusiasts Rejoice: Uncrash Your Rome Remastered Experience Here</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-value-how-this-compact-laptop-delivers-top-notch-visual-performance-at-an-unbelievably-low-price-digital-gadgets-review/"><u>Unbeatable Value: How This Compact Laptop Delivers Top-Notch Visual Performance at an Unbelievably Low Price | Digital Gadgets Review</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unleash-ultimate-gaming-audio-bliss-top-rated-sound-systems-now-discounted-at-best-buy/"><u>Unleash Ultimate Gaming Audio Bliss: Top-Rated Sound Systems Now Discounted at Best Buy!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlock-unmatched-value-with-the-newly-discounted-apple-m2-macbook-air-for-799-pre-prime-day-beating-octobers-big-sales-event-insider-info/"><u>Unlock Unmatched Value with the Newly Discounted Apple M2 MacBook Air for $799 Pre-Prime Day, Beating October's Big Sales Event Insider Info!</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
