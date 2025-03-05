@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Prime Day Deal: The Top Non-ThinkPad/MacBook Laptop Boosting Productivity at Half Price - Exclusive Insights"
-date: 2025-02-14T20:55:29.158Z
-updated: 2025-02-15T21:01:51.456Z
+date: 2025-03-01T21:13:18.853Z
+updated: 2025-03-05T04:16:36.884Z
 tags:
   - laptops
 categories:
@@ -24,10 +24,6 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 **Also: [The best budget gaming laptops: Expert tested](https://www.zdnet.com/article/best-budget-gaming-laptop/)** 
 
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -63,17 +59,19 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-top-8-best-screen-recorders-with-no-lag/"><u>[New] 2024 Approved Top 8 Best Screen Recorders with No Lag</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/mov20245/"><u>完全寄付制:ベストなフリーMOVエディター選びのヒント202#4【無料推奨ソフト5つ紹介】</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/crown-jewels-of-online-watching-youtubes-treasures-for-2024/"><u>Crown Jewels of Online Watching YouTube's Treasures for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-newest-dolby-sound-drivers-for-windows-11-10-and-81-now-available/"><u>Download the Newest Dolby Sound Drivers for Windows 11, 10, and 8.1 - Now Available</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016424304-getting-your-modern-warfare-voice-chat-up-and-running-again-solutions-inside/"><u>Getting Your Modern Warfare Voice Chat Up and Running Again – Solutions Inside</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-navigating-android-video-calls-effortlessly/"><u>In 2024, Navigating Android Video Calls Effortlessly</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-software-for-your-logitech-g430-headset-get-the-latest-drivers/"><u>Install Software for Your Logitech G430 Headset: Get the Latest Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/logitech-racing-wheels-driver-installation-guide-windows-users/"><u>Logitech Racing Wheels Driver Installation Guide – Windows Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-guide-to-downloading-and-setting-up-your-brother-l2absolutely-here-are-five-new-seo-friendly-titles-similar-to-brother-mfc-l2700dw-driver-download-and300/"><u>Quick Guide To Downloading And Setting Up Your Brother L2absolutely! Here Are Five New SEO-Friendly Titles Similar to Brother MFC-L2700DW Driver Download & Install for Windows:</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/rise-to-stardom-secrets-to-viral-video-success/"><u>Rise to Stardom Secrets to Viral Video Success</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-longevity-of-nintendo-switch/"><u>The Ultimate Guide to Longevity of Nintendo Switch</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-or-reinstall-logitech-hd-webcam-c270-driver-for-optimal-performance-on-windows-11/"><u>Update or Reinstall Logitech HD Webcam C270 Driver for Optimal Performance on Windows 11</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-from-editing-to-sharing-youtube-mastery-with-adobe-premiere/"><u>[New] From Editing to Sharing YouTube Mastery with Adobe Premiere</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-prime-apps-for-refining-dji-aerial-footage/"><u>[New] Prime Apps for Refining DJi Aerial Footage</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-excellent-choice-for-capturing-professional-quality-on-youtube/"><u>[Updated] Excellent Choice for Capturing Professional Quality on YouTube</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-in-depth-look-at-using-key-combos-for-efficient-screen-recording-in-os-x/"><u>[Updated] In 2024, In-Depth Look at Using Key Combos for Efficient Screen Recording in OS X</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-storing-24-hour-movies-estimating-gb-usage/"><u>[Updated] Storing 24-Hour Movies Estimating GB Usage</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-your-ultimate-solution-killer-wireless-driver-pack/"><u>Download Your Ultimate Solution: Killer Wireless Driver Pack</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-installation-obtain-and-set-up-the-brother-dcp-l2540dw-driver-for-seamless-windows-compatibility-and-printing-solutions/"><u>Effortless Installation: Obtain and Set Up the Brother DCP-L2540DW Driver for Seamless Windows Compatibility & Printing Solutions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/epson-workforce-dx56m20-compatible-driver-software-free-download-win-1087-supported/"><u>Epson WorkForce DX56M20 Compatible Driver Software Free Download | Win 10/8/7 Supported</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/how-to-change-the-netflix-video-playback-speed-on-computer-and-mobile/"><u>How to Change the Netflix Video Playback Speed on Computer and Mobile?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-find-and-install-the-latest-hp-printer-drivers-for-your-windows-pc-10-or-11/"><u>How to Find and Install the Latest HP Printer Drivers for Your Windows PC (10 or 11)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-repair-tiktok-when-its-not-responding-correctly/"><u>How To Repair TikTok When It's Not Responding Correctly</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-harmony-and-law-instagrams-music-codex/"><u>In 2024, Harmony & Law Instagram's Music Codex</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/up-to-date-hp-printer-drivers-for-optimal-performance-on-windows-1011/"><u>Up-to-Date HP Printer Drivers for Optimal Performance on Windows 10/11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/windows-10-v2004-installation-tutorial-including-essential-conexant-drivers/"><u>Windows 10 v2004 - Installation Tutorial Including Essential Conexant Drivers</u></a></li>
 </ul></div>
 

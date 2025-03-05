@@ -1,7 +1,7 @@
 ---
 title: "Breaking Down the Latest Tech with Copilot+: Live Blog of Snapdragon Laptops Test Run"
-date: 2024-08-19T04:35:04.080Z
-updated: 2024-08-20T04:35:04.080Z
+date: 2025-03-01T06:39:28.833Z
+updated: 2025-03-05T04:40:42.931Z
 tags:
   - laptop
 categories:
@@ -47,9 +47,6 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Dell XPS 13
 
 ![Dell XPS 13](https://cdn.mos.cms.futurecdn.net/QAyqoqgfXVyMCzhuYHvvaS-320-80.jpg)
@@ -84,35 +81,22 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
 
 ![HP OmniBook X 14](https://cdn.mos.cms.futurecdn.net/gu94E6KZHnHWC6swaVeuab-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 (Image credit: HP)
 
  This laptop is the budget Copilot+ PC from HP, but it doesn’t mean that you’re losing out on features. The OmniBook X 14 still uses the same chip as the EliteBook Ultra 14 with 16GB of RAM. It also has a 512GB SSD, which you can upgrade to 1TB for $100 extra. It also has a 14-inch 2.2K display, but this one is multi-touch enabled.
 
  Although this laptop is thicker than the EliteBook Ultra 14, it’s also substantially more affordable at $1,149.99\. You can purchase and customize this laptop now on[the HP website](https://www.anrdoezrs.net/click-8900246-15852945?sid=tomshardware-us-1154629704587710143&url=https://www.hp.com/us-en/shop/ConfigureView?langId=-1&storeId=10151&catalogId=10051&catEntryId=3074457345621303820&urlLangId=&quantity=1) , but shipments will begin on July 9.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ## Lenovo Yoga Slim 7x
 
 ![Lenovo Yoga Slim 7x](https://cdn.mos.cms.futurecdn.net/J3XYYNCds6rXWkSQVXZc49-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
  (Image credit: Lenovo)
 
  Lenovo offers the Yoga Slim 7x for consumers who want the Copilot+ PC. This laptop uses a Snapdragon X Elite X1E-78-100 processor, and you can choose between 16GB or 32GB of RAM baked into the SoC. It also comes with a 512GB SSD, but you can upgrade it to 1TB for an additional $45.
 
  The Yoga Slim 7x uses a 14.5-inch 3K OLED display with a 90 Hz refresh rate. It’s also VESA-certified DisplayHDR True Black 600, giving you a great viewing experience. The laptop starts at $1,199.00 and is available for Pre-Order on[the Lenovo site](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Flenovo.7eer.net%2Fc%2F5597632%2F218864%2F3808%3FsubId1%3Dtechidaily-us-8727768493894058412%26sharedId%3Dtechidaily-us%26u%3Dhttps%253A%252F%252Fwww.lenovo.com%252Fus%252Fen%252Fp%252Flaptops%252Fyoga%252Fyoga-slim-series%252Fyoga-slim-7x-gen-9-%252814-inch-snapdragon%2529%252Flen101y0049) at the time of writing.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ## Lenovo ThinkPad T14s Gen 6
 
 ![Lenovo ThinkPad T14s Gen 6](https://cdn.mos.cms.futurecdn.net/By8PYnaLQtTDyDkoyxvmNd-320-80.jpg)
@@ -123,32 +107,20 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
 
  This laptop has a 14-inch IPS display and two USB4 ports, two USB-A ports, an HDMI 2.1 port, and a 3.5mm headphone jack. You also have the option to add a Nano Sim slot. The ThinkPad T14s Gen 6 starts at $1,889.30 and is available for Pre-Order direct[from Lenovo](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Flenovo.7eer.net%2Fc%2F5597632%2F218864%2F3808%3FsubId1%3Dtechidaily-us-1250424839333332531%26sharedId%3Dtechidaily-us%26u%3Dhttps%253A%252F%252Fwww.lenovo.com%252Fus%252Fen%252Fp%252Flaptops%252Fthinkpad%252Fthinkpadt%252Flenovo-thinkpad-t14s-gen-6-%252814-inch-snapdragon%2529%252Flen101t0099) at the time of writing.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Microsoft Surface Laptop
 
 ![Microsoft Surface Laptop](https://cdn.mos.cms.futurecdn.net/C6DJ6XaHjf2BKnT2gskUhk-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Microsoft)
 
  Of course,[Microsoft](https://tools.techidaily.com) will not lag behind the competition when it comes to Copilot+ PCs. It is offering the most affordable Snapdragon X option, with the Surface Laptop, which starts at $999.99\. This model has a Snapdragon X Plus processor and a 13.8-inch display. It also comes with 16GB of RAM and a 512GB SSD.
 
  The more powerful Snapdragon X Elite chip-powered Surface Laptops start at $1,399.99 for the 13.8-inch version with 16GB of RAM and a 512GB SSD. Interestingly, the 15-inch model (which can only be had with a Snapdragon X Elite chip) starts at $1,299.99, but this one only has a 256GB SSD, which seems awfully small for today’s requirements. If you want to get this Copilot+ PC, the Surface Laptop is now available on[the Microsoft website](https://www.microsoft.com/en-us/store/configure/surface-laptop-7th-edition/8tq2hq5xxkj9) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ## Microsoft Surface Pro
 
 ![Microsoft Surface Pro](https://cdn.mos.cms.futurecdn.net/FDVeU5mue9SMrJ7zU7yjHB-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Microsoft)
 
  If you prefer the tablet form factor, you can still get a Copilot+ PC with the Microsoft Surface Pro. This 2-in-1 starts at $999.99 for the Snapdragon X Plus version with a 13-inch LCD display, 16GB of RAM, and a 256GB SSD for the Platinum colorway. The three other colors — Sapphire, Dune, and Black — start at $1,199.99 with a larger 512GB SSD.
@@ -173,8 +145,6 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -182,4 +152,16 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/approved-ideal-screen-recorder-picks-for-digital-educators/"><u>2024 Approved Ideal Screen Recorder Picks for Digital Educators</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862820450-elevate-your-entertainment-with-a-spectacular-lg-ultragear-monitor-now-at-a-steal-at-499/"><u>Elevate Your Entertainment with a Spectacular LG UltraGear Monitor - Now at a Steal at $499!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862833676-get-your-hands-on-a-high-quality-156-ips-monitor-at-an-all-time-low-only-6599-save-big-today/"><u>Get Your Hands on a High-Quality 15.6 IPS Monitor at an All-Time Low: Only $65.99, Save Big Today</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-exploring-best-applications-tiktok-vs-youtubes-micro-video-realm/"><u>In 2024, Exploring Best Applications TikTok vs YouTube's Micro-Video Realm</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-best-avi-video-splitters-top-16-tools-to-cut-and-edit-your-videos-multi-platform-support/"><u>New In 2024, Best AVI Video Splitters Top 16 Tools to Cut and Edit Your Videos Multi-Platform Support</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862793243-next-level-gaming-setup-with-the-newest-gen-of-samsungs-55-4k-odyssey-monitor-at-a-historic-low-cost/"><u>Next-Level Gaming Setup with the Newest Gen of Samsung's 55 4K Odyssey Monitor at a Historic Low Cost</u></a></li>
+<li><a href="https://win-popular.techidaily.com/schutz-von-daten-mit-passwortern-lernen-sie-wie-man-dateien-in-windows-1011-sichert-einfuhrende-strategien-zum-verschlusseln/"><u>Schutz Von Daten Mit Passwörtern: Lernen Sie, Wie Man Dateien in Windows 10/11 Sichert - Einführende Strategien Zum Verschlüsseln.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862820586-score-a-winning-deal-on-samsungs-2nd-gen-oled-monitor-unmatched-quality-meets-historic-price-drop/"><u>Score a Winning Deal on Samsung's 2Nd Gen OLED Monitor: Unmatched Quality Meets Historic Price Drop</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ways-to-keep-your-macbook-powered-on-despite-its-lid-being-shut/"><u>Ways to Keep Your MacBook Powered On Despite Its Lid Being Shut</u></a></li>
+</ul></div>
 

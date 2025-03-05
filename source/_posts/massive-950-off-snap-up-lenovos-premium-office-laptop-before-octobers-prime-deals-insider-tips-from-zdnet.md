@@ -1,7 +1,7 @@
 ---
 title: "Massive $950 Off: Snap Up Lenovo's Premium Office Laptop Before October's Prime Deals - Insider Tips From ZDNet"
-date: 2025-02-10T21:43:53.147Z
-updated: 2025-02-16T06:34:38.518Z
+date: 2025-03-04T05:33:51.339Z
+updated: 2025-03-05T00:47:17.324Z
 tags:
   - laptops
 categories:
@@ -37,10 +37,6 @@ This laptop isn't solely for business professionals. Everybody can enjoy the dev
 
 Right now is the best time to buy this device. The [Lenovo Gen 12 ThinkPad X1 Carbon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D1D5J1J1%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cddc033e3-08fa-42b2-b4fe-eb896d4675a3%7Cdtp&dtb=1) is currently on sale at Amazon for $1,500\. That is almost $1,000 off the original price. I should also mention that there is a variant of the laptop with a 2.8K OLED display, which is the model [I tested back in February](https://www.zdnet.com/article/the-thinkpad-i-recommend-for-hybrid-workers-is-not-lenovos-newest-model/). The [OLED version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D5SNKGZ4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cddc033e3-08fa-42b2-b4fe-eb896d4675a3%7Cdtp&dtb=1) is much more expensive, but I recommend it as an alternative if you can afford it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## When will this deal expire?
 
 Deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on this deal, but don't fret -- we're constantly finding new chances to score savings and sharing them with you at ZDNET.com. 
@@ -75,20 +71,19 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-from-novice-to-nifty-mastering-snapchats-digital-artistry-for-2024/"><u>[New] From Novice to Nifty Mastering Snapchat’s Digital Artistry for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-master-windows-10s-native-features-to-cut-videos-instantly/"><u>[New] Master Windows 10'S Native Features to Cut Videos Instantly</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-top-techniques-live-streaming-games-via-obs-for-2024/"><u>[New] Top Techniques Live-Streaming Games via OBS for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-quick-witness-youtube-techniques-for-rapid-rendering-for-2024/"><u>[Updated] Quick-Witness YouTube Techniques for Rapid Rendering for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-upgrade-netgear-wireless-network-adapter-drivers-easy-guide/"><u>Download and Upgrade NETGEAR Wireless Network Adapter Drivers - Easy Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-downloading-and-installing-epson-wf-2630-drivers-on-windows-systems-71081/"><u>Easy Guide to Downloading and Installing Epson WF-2630 Drivers on Windows Systems (7/10/8.1)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ensure-top-performance-the-ultimate-guide-to-epson-xp-640-driver-update-on-windows/"><u>Ensure Top Performance: The Ultimate Guide to Epson XP-640 Driver Update on Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-gigaware-serial-converter-software-and-installers-compatible-with-microsoft-windows-os/"><u>Free Gigaware Serial Converter Software and Installers Compatible with Microsoft Windows OS</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-future-together-top-vr-gear/"><u>In 2024, Exploring the Future Together Top VR Gear</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Motorola Edge+ (2023) | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-syncing-songs-safely-with-insta-rules/"><u>In 2024, Syncing Songs Safely with Insta Rules</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-top-tier-pdf-visual-improvements/"><u>In 2024, Top-Tier PDF Visual Improvements</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-window-flicker-issues-on-windows-11-a-comprehensive-guide/"><u>Resolving Window Flicker Issues on Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ricoh-print-management-downloading-and-setting-up-windows-drivers/"><u>Ricoh Print Management: Downloading & Setting Up Windows Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/troubleshooting-audio-technica-the-ultimate-guide-for-updating-drivers/"><u>Troubleshooting Audio Technica: The Ultimate Guide for Updating Drivers</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-cultivating-the-culture-of-creativity-within-youtube-shorts/"><u>[New] 2024 Approved Cultivating the Culture of Creativity Within YouTube Shorts</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-how-to-create-stunning-igtv-video-footage-using-smartphones-and-dslr/"><u>[New] In 2024, How to Create Stunning IGTV Video Footage Using Smartphones and DSLR</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-the-essential-guide-to-enhancing-ar-with-lut-knowledge/"><u>2024 Approved The Essential Guide to Enhancing AR with LUT Knowledge</u></a></li>
+<li><a href="https://win-forum.techidaily.com/an-in-depth-look-at-bios-functions-through-revo-uninstaller-software/"><u>An In-Depth Look at BIOS Functions Through Revo Uninstaller Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/dell-latitude-e6430-drivers-download-and-update-for-windows-solved/"><u>Dell Latitude E6430 Drivers Download & Update for Windows [SOLVED]</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722978322419-get-your-m-audio-fast-track-driver-for-windows-11-7-8-and-81-today/"><u>Get Your M-Audio Fast Track Driver for Windows 11, 7, 8 and 8.1 Today</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-address-driver-conflicts-with-intel-hd-graphics-630-in-your-windows-setup-issues-solved/"><u>How to Address Driver Conflicts with Intel HD Graphics 630 in Your Windows Setup (ISSUES SOLVED)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/innovations-and-reviews-at-toms-hardware-hub/"><u>Innovations and Reviews at Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-pci-security-drivers-fix-and-enhance-device-performance-today/"><u>Mastering PCI Security Drivers - Fix and Enhance Device Performance Today!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-through-grok-ai-by-elon-musk-what-it-is-how-it-works-and-estimated-price-range/"><u>Navigating Through Grok AI by Elon Musk – What It Is, How It Works, and Estimated Price Range</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/potential-thermal-challenge-ahead-intels-upcoming-cpus-may-push-past-current-max-temperature-limits/"><u>Potential Thermal Challenge Ahead: Intel's Upcoming CPUs May Push Past Current Max Temperature Limits</u></a></li>
+<li><a href="https://techtrends.techidaily.com/scarica-e-converte-i-file-wma-in-formato-wav-per-free-con-il-convertitore-online-di-movavi/"><u>Scarica E Converte I File WMA in Formato WAV per FREE Con Il Convertitore OnLine Di Movavi</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-fix-for-compatibility-issues-with-the-realtek-ax88179-wireless-pci-e-card-on-your-computer/"><u>Step by Step Fix for Compatibility Issues with the Realtek AX88179 Wireless PCI-E Card on Your Computer</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-performing-hardware-assisted-nvenc-encoders-boost-your-video-processing-speeds/"><u>Top-Performing Hardware-Assisted NVENC Encoders: Boost Your Video Processing Speeds</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Future of Office Tech: Adapting Workplace Gadgets for Success in an Age of Artificial Intelligence - Insights"
-date: 2025-02-14T03:33:22.577Z
-updated: 2025-02-16T04:45:35.058Z
+date: 2025-02-26T20:03:05.216Z
+updated: 2025-03-04T19:53:50.898Z
 tags:
   - laptops
 categories:
@@ -29,10 +29,6 @@ Because AI tasks that run locally on a PC are typically executed by the CPU (cen
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### User requirements remain focused on hybrid work
 
@@ -68,10 +64,6 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Optimizing hardware and software for AI
 
 Asked what requirements are toughest to balance as demand for AI PCs grows, Butler pointed to the usual tradeoffs between the desire for thinner and lighter devices, alongside longer battery life and better performance. 
@@ -79,10 +71,6 @@ Asked what requirements are toughest to balance as demand for AI PCs grows, Butl
 Boosting performance will inevitably impact battery longevity and vice versa, he said. "With NPUs \[now available\], though, it allows us to offload some of the workloads that traditionally will tax either the GPU or CPU," he noted. Noise-cancelling capabilities, for instance, can be moved to the NPU. Butler noted that software vendors are looking to see how they can optimize their code to take advantage of NPUs. 
 
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
 
@@ -134,24 +122,20 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-prime-acoustic-collectors-at-schools/"><u>[New] 2024 Approved Prime Acoustic Collectors at Schools</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-strategies-for-effective-screen-sharing-via-skype-at-home/"><u>[New] 2024 Approved Strategies for Effective Screen Sharing via Skype at Home</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-crafting-engaging-visuals-after-effects-best-10-text-plans/"><u>[New] Crafting Engaging Visuals After Effect's Best 10 Text Plans</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-fun-frenzy-youtube-writers-of-joyful-entertainment/"><u>[Updated] Fun Frenzy YouTube’ Writers of Joyful Entertainment</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-snagging-youtube-vanished-videos-your-2-path-guide-for-2024/"><u>[Updated] Snagging YouTube Vanished Videos Your 2-Path Guide for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/complete-tutorial-on-installing-and-refreshing-intel-hd-graphics-driver-v5500/"><u>Complete Tutorial on Installing & Refreshing Intel HD Graphics Driver V5500</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-magicard-rio-pro-driver-compatible-with-windows-10817-get-it-now/"><u>Download the Magicard Rio Pro Driver - Compatible with Windows 10/8.1/7: Get It Now!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-guide-installing-hps-840-g3-graphics-and-audio-drivers/"><u>Easy Guide: Installing HP's 840 G3 Graphics & Audio Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-steps-to-refresh-lenovo-battery-and-charging-software/"><u>Effortless Steps to Refresh Lenovo Battery & Charging Software</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/elevate-digital-strategies-through-expert-tracking-features-by-cookiebot/"><u>Elevate Digital Strategies Through Expert Tracking Features by Cookiebot</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/essential-realtek-device-drivers-now-available-enhance-your-windows-11-experience/"><u>Essential Realtek Device Drivers Now Available: Enhance Your Windows 11 Experience</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-most-recent-updates-epson-wf-3620-drivers-compatible-with-windows-1187/"><u>Get the Most Recent Updates: Epson WF-3620 Drivers Compatible with Windows 11/8/7</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/in-2024-webm-to-mp3-conversion-made-easy-best-software-options/"><u>In 2024, WebM to MP3 Conversion Made Easy Best Software Options</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-firmware-and-software-updates-for-canon-mg3022/"><u>Latest Firmware & Software Updates for Canon MG3022</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-nvidia-geforce-210-graphics-driver-updates-compatible-with-windows-11/"><u>Latest NVIDIA GeForce 210 Graphics Driver Updates Compatible with Windows 11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/optimize-system-storage-download-updated-intel-rapid-storage-technology-drivers-now/"><u>Optimize System Storage - Download Updated Intel Rapid Storage Technology Drivers Now!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solving-win11-blackout-post-fall-creators-fix/"><u>Solving Win11 Blackout Post Fall Creator's Fix</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/superior-select-ringtone-makers-guidebook/"><u>Superior Select Ringtone Makers' Guidebook</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/understanding-registry-keys-vs-values-a-guide-by-yl-computing/"><u>Understanding Registry Keys Vs. Values: A Guide by YL Computing</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-exploring-the-depths-of-time-lapse-photography-with-gopro/"><u>[Updated] 2024 Approved Exploring the Depths of Time-Lapse Photography with GoPro</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-ispring-screencap-tech-explored-in-detail/"><u>[Updated] In 2024, ISpring Screencap Tech Explored in Detail</u></a></li>
+<li><a href="https://games-able.techidaily.com/affordable-4k-graphics-at-the-consumer-level/"><u>Affordable 4K Graphics at the Consumer Level</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-unveils-zen-5-over-83-billion-transistors-on-each-compute-die-with-28-more-efficiency/"><u>AMD Unveils Zen 5: Over 8.3 Billion Transistors on Each Compute Die with 28% More Efficiency</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-windows-11-ignore-or-prevent-expiry-errors/"><u>Fixing Windows 11: Ignore or Prevent 'Expiry' Errors?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-latest-windows-11-compatible-intel-usb-30-drivers-here/"><u>Get Your Latest Windows 11 Compatible Intel USB 3.0 Drivers Here</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-fix-asus-pce-ac56-network-card-driver-problems-on-various-windows-versions/"><u>How to Fix ASUS PCE-AC56 Network Card Driver Problems on Various Windows Versions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-and-update-epson-ds-510-printer-on-your-pc-a-comprehensive-guide/"><u>How to Install and Update Epson DS-510 Printer on Your PC: A Comprehensive Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-mov-files-on-redmi-note-13-proplus-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to play MOV files on Redmi Note 13 Pro+ 5G ?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-on-your-apple-iphone-12-mini-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID on Your Apple iPhone 12 mini?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-razer-man-owar-headset-microphone-problems-effectively/"><u>Resolving Razer Man O'War Headset Microphone Problems Effectively</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-streaming-disneyplus-on-your-tv-using-chromecast/"><u>Step-by-Step Guide: Streaming Disney+ on Your TV Using Chromecast</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-instructions-downloading-and-updating-your-canon-mg3000-drivers/"><u>Step-by-Step Instructions: Downloading & Updating Your Canon MG3000 Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-solution-to-fixing-hp-officejet-pro-n-6978-driver-issues/"><u>Step-by-Step Solution to Fixing HP Officejet Pro N 6978 Driver Issues</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-guide-to-obtaining-and-enhancing-your-zebra-zp450-printer-software-a-stepwise-approach-for-a-smooth-setup/"><u>The Ultimate Guide to Obtaining & Enhancing Your Zebra ZP450 Printer Software: A Stepwise Approach for a Smooth Setup</u></a></li>
 </ul></div>
 

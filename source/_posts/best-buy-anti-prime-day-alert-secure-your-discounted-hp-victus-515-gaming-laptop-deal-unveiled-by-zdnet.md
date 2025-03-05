@@ -1,7 +1,7 @@
 ---
 title: Best Buy Anti-Prime Day Alert! Secure Your Discounted HP Victus 지킷랄로피 ($515) - Gaming Laptop Deal Unveiled by ZDNet
-date: 2025-02-14T06:34:44.224Z
-updated: 2025-02-15T17:52:07.906Z
+date: 2025-03-03T18:33:44.773Z
+updated: 2025-03-05T02:19:50.138Z
 tags:
   - laptops
 categories:
@@ -24,10 +24,6 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 **Also: [The best budget gaming laptops: Expert tested](https://www.zdnet.com/article/best-budget-gaming-laptop/)** 
 
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -63,21 +59,18 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-opening-and-managing-srt-files-seamlessly/"><u>[Updated] In 2024, Opening and Managing SRT Files Seamlessly</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-search-for-auditory-perfection-try-these-top-rated-discord-bots/"><u>[Updated] In Search for Auditory Perfection? Try These Top-Rated Discord Bots</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-exploring-the-depths-of-screen-recording-software/"><u>2024 Approved Exploring the Depths of Screen Recording Software</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/2024-approved-how-to-reply-message-on-discord/"><u>2024 Approved How to Reply Message on Discord</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/chrome-users-rejoice-eliminate-all-pop-up-ads-with-these-4-effective-strategies/"><u>Chrome Users Rejoice: Eliminate All Pop-Up Ads with These 4 Effective Strategies</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-the-hidden-charge-protection-on-this-versatile-12-port-thunderbolt-hub-a-must-have-for-windows-pcs-according-to-zdnet/"><u>Discover the Hidden Charge Protection on This Versatile 12-Port Thunderbolt Hub: A Must-Have for Windows PCs, According to ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-tips-for-overcoming-realtek-rtl8723be-wireless-drivers-malfunction/"><u>Expert Tips for Overcoming Realtek RTL8723BE Wireless Drivers Malfunction</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-download-of-logitech-high-definition-c525-webcam-drivers-for-microsoft-windows-devices/"><u>Free Download of Logitech High Definition C525 Webcam Drivers for Microsoft Windows Devices</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-download-and-update-your-insignia-bluetooth-cards-drivers-on-pc/"><u>How to Download and Update Your Insignia Bluetooth Card's Drivers on PC</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/improve-your-pc-graphics-nvidia-geforce-rtx-3080-drivers-for-windows-download-today/"><u>Improve Your PC Graphics: NVIDIA GeForce RTX 3080 Drivers for Windows - Download Today</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/resolve-corsair-h115i-drivers-conflicts-on-windows-81011-systems/"><u>Resolve Corsair H115i Drivers Conflicts on Windows 8/10/11 Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-right-approach-to-install-latest-webcam-drivers-on-dell-devices/"><u>The Right Approach to Install Latest Webcam Drivers on Dell Devices</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ltimate-guide-to-choosing-stunning-thumbnail-fonts/"><u>The Ultimate Guide to Choosing Stunning Thumbnail Fonts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-5-toughest-and-most-resilient-laptops-expert-reviews-and-buying-guide-techradar/"><u>Top 5 Toughest and Most Resilient Laptops - Expert Reviews & Buying Guide | TechRadar</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unraveling-the-mystery-the-absence-of-facebook-marketplace-on-your-account/"><u>Unraveling the Mystery: The Absence of Facebook Marketplace on Your Account</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722960731876-update-your-nvidia-quadro-rtx-4000-with-the-newest-drivers-here/"><u>Update Your Nvidia Quadro RTX #4000 with the Newest Drivers Here!</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-estimating-byte-consumption-of-full-film-daily/"><u>[New] Estimating Byte Consumption of Full Film Daily</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-the-pathway-to-perfection-a-pro-guide-to-instagram-photos-for-2024/"><u>[New] The Pathway to Perfection A Pro Guide to Instagram Photos for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-the-real-world-usability-of-photoshops-motion-reduction/"><u>[Updated] In 2024, The Real-World Usability of Photoshop’s Motion Reduction</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-newest-nvidia-geforce-rtx-2070-drivers-compatible-with-windows-1187/"><u>Download the Newest NVIDIA GeForce RTX 2070 Drivers Compatible with Windows 11/8/7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-upgrade-for-your-intel-ac-9560-wireless-card-software/"><u>Get the Latest Upgrade for Your Intel AC 9560 Wireless Card Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-right-hp-deskjet-2600-drivers-for-your-pc-supports-windows-781/"><u>Get the Right HP Deskjet 2600 Drivers for Your PC - Supports Windows 7/8/1)!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-hp-printer-software-for-officejet-pro-8740-on-windows-11108-systems/"><u>Get Your HP Printer Software for OfficeJet Pro 8740 on Windows 11/10/8 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-fetch-and-install-updated-software-for-your-canon-mg3022-printer-free-resource/"><u>How to Fetch and Install Updated Software for Your Canon MG3022 Printer - Free Resource</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-honor-x50-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Honor X50</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-nokia-g310-frp-bypass-by-drfone-android/"><u>In 2024, About Nokia G310 FRP Bypass</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-realme-12plus-5g-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Realme 12+ 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/killer-wireless-procard-driver-update-get-your-new-v1535-here/"><u>Killer Wireless ProCard Driver Update - Get Your New v1535 Here</u></a></li>
+<li><a href="https://windows11.techidaily.com/procedures-for-upholding-true-windows-time-values/"><u>Procedures for Upholding True Windows Time Values</u></a></li>
 </ul></div>
 

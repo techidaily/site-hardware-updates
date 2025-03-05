@@ -1,7 +1,7 @@
 ---
 title: "Experience Extended 'Multi-Day Battery Life' On the Latest Laptops From Acer, Dell, HP & Lenovo: New $1, 099 Snapdragon X and Windows Copilot+ PCs Available Now!"
-date: 2024-08-19T04:33:24.120Z
-updated: 2024-08-20T04:33:24.120Z
+date: 2025-03-01T03:06:31.145Z
+updated: 2025-03-05T00:33:02.955Z
 tags:
   - laptop
 categories:
@@ -100,9 +100,6 @@ Lenovo Yoga Slim 7x 14 Gen 9  (Image credit: Qualcomm)
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/QXLgUBPHQLuoQKnKFXBYAN-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Lenovo ThinkPad T14s Gen 6  (Image credit: Qualcomm)
 
  Lenovo provides three display options with the ThinkPad T14s Gen 6: the first two are 14-inch 400-nit IPS panels with a 1920 x 1200 resolution, but one supports touch, and the other doesn't. The third option is a 2.8K OLED panel with 100% coverage of DCI-P3 and VESA HDR True Black 500 compliance.
@@ -113,9 +110,6 @@ Lenovo ThinkPad T14s Gen 6  (Image credit: Qualcomm)
 
  According to Lenovo, the Yoga Slim 7x and ThinkPad T14s Gen 6 will debut next month, priced from $1,199 and $1,699, respectively.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Dell XPS 13, Inspiron 14 Plus, and Latitude 7455
 
  Dell’s lineup of Snapdragon X laptops[leaked early last week](https://tools.techidaily.com) , so things here should look somewhat familiar. The XPS 13 has a striking design, with a keyboard that goes nearly to the left and right edge of the CNC-machined aluminum chassis (available in Platinum or Graphite). You'll also find the controversial capacitive touch function row above the keyboard, which we discussed in our[reviews of the XPS 14 and XPS 16](https://tools.techidaily.com) . The haptic touchpad is also seamlessly integrated into the keyboard deck, which is covered in Gorilla Glass 3.
@@ -143,9 +137,6 @@ Dell XPS 13  (Image credit: Qualcomm)
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/5STqZSSuR2Yb9mkF7rrCLN-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Dell Inspiron 14 Plus  (Image credit: Qualcomm)
 
  The Inspiron 14 Plus comes exclusively with the Snapdragon X Plus, 16GB LPDDR5x memory, and 512GB/1TB SSD options. You get just one display option: a 14-inch 2560 x 1600 IPS panel with touch and an anti-glare coating. You also get two USB-C ports, one USB-A port, a microSD card reader, a headphone jack, quad speakers, a 1080p IR webcam with privacy shutter, Wi-Fi 7, Bluetooth 5.4, a power button with integrated fingerprint reader, and a 54 WHr battery.
@@ -154,9 +145,6 @@ The 3.17-pound Inspiron 14 Plus measures 12.36 x 8.80 x 0.66 inches.
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/ejCrV57dyrk8JZeZLG66eN-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 Dell Latitude 7455  (Image credit: Qualcomm)
 
  Rounding out Dell's Snapdragon X assault is the Latitude 7455, aimed at business users (Snapdragon X Elite or Snapdragon X Plus with up to 32GB of LPDDR5x). This 14-inch laptop is only available with a 2560 x 1600 IPS display and anti-glare coating.
@@ -165,18 +153,12 @@ Dell Latitude 7455  (Image credit: Qualcomm)
 
  The XPS 13 and Inspiron 14 Plus are scheduled to launch "later this year," priced from $1,299 and $1,099, respectively. Pricing and availability aren't yet known for the Latitude 7455.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ## Hewlett-Packard OmniBook X and EliteBook Ultra
 
  The[HP](https://tools.techidaily.com) OmniBook X and HP EliteBook Ultra share the same aluminum chassis design, weighing 2.97 pounds, and they measure 12.32 x 8.8 x 0.57 inches. The primary difference is that the latter features a blue finish with a Physical Vapor Deposition (PVD) coating to help resist fingerprints.
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/kkJgrFcMsp5e7XQRtHVKxM-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 HP OmniBook X and EliteBook Ultra  (Image credit: Qualcomm)
 
  The two laptops each have a Snapdragon X Elite chip, a 14-inch 2240 x 1400 IPS display, support for Wi-Fi 6E/Bluetooth 5.3 or Wi-Fi 7/Bluetooth 5.4, a 1080p webcam with IR, a 59 WHr battery, two USB-C ports, and one USB-A port. The OmniBook X is available with 16GB or 32GB of LPDDR5x and 512GB, 1TB, or 2TB SSD options. The EliteBook Ultra is only available with 16GB of LPDDR5x and a 512GB or 1TB SSD.
@@ -200,8 +182,6 @@ HP OmniBook X and EliteBook Ultra  (Image credit: Qualcomm)
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -209,4 +189,24 @@ HP OmniBook X and EliteBook Ultra  (Image credit: Qualcomm)
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-pros-choice-high-quality-4k-dslr-mounting-systems/"><u>[New] Pro's Choice High-Quality 4K DSLR Mounting Systems</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-maximize-impact-strategies-for-successful-instagram/"><u>[Updated] 2024 Approved Maximize Impact Strategies for Successful Instagram</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-epic-battle-royale-thumbnails-done-fast/"><u>[Updated] Epic Battle Royale Thumbnails, Done Fast</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-pixelperfect-image-transformations/"><u>[Updated] PixelPerfect Image Transformations</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-dictionary-at-a-glance-29-core-terms-unpacked/"><u>AI Dictionary at a Glance: 29 Core Terms Unpacked</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-insights-from-toms-computing-world/"><u>Expert Insights From Tom's Computing World</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-insights-on-gadgets-and-pc-hardware-from-toms-hq/"><u>Expert Insights on Gadgets and PC Hardware From Tom's HQ</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/explore-advanced-gadgetry-through-toms-comprehensive-guides/"><u>Explore Advanced Gadgetry Through Tom's Comprehensive Guides</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-advanced-hardware-with-toms-computer-guides/"><u>Exploring Advanced Hardware with Tom's Computer Guides</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-technology-with-toms-hardware-mastery/"><u>Exploring Technology with Tom's Hardware Mastery</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/framework-os-exposes-pc-industrys-misguided-emphasis-on-ai/"><u>Framework OS Exposes PC Industry's Misguided Emphasis on 'AI'</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-ahead-with-technology-shop-the-best-snapdragon-elite-x-notebooks-enhanced-by-microsoft-copilot-availability/"><u>Get Ahead with Technology: Shop the Best Snapdragon Elite X Notebooks Enhanced by Microsoft Copilot Availability</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/handheld-pc-pioneer-gpd-unveils-teaser-for-groundbreaking-dual-screen-oled-notebook-a-formidable-challenge-to-the-asus-zenbook-duo/"><u>Handheld PC Pioneer GPD Unveils Teaser for Groundbreaking Dual-Screen OLED Notebook - A Formidable Challenge to the Asus ZenBook Duo</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-oneplus-11-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On OnePlus 11 5G? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-beginner-friendly-cartoon-makers-top-10-picks/"><u>New In 2024, Beginner-Friendly Cartoon Makers Top 10 Picks</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/retrieve-accidentally-removed-photos-from-pcs-and-mobile-gadgets-including-iphones-and-androids/"><u>Retrieve Accidentally Removed Photos From PCs and Mobile Gadgets Including iPhones and Androids</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/syma-x5c-exploration-top-choice-for-novice-aerial-enthusiasts-for-2024/"><u>Syma X5C Exploration Top Choice for Novice Aerial Enthusiasts for 2024</u></a></li>
+</ul></div>
 

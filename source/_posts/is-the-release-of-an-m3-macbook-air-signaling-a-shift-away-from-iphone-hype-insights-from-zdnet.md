@@ -1,7 +1,7 @@
 ---
 title: Is the Release of an M3 MacBook Air Signaling a Shift Away From iPhone Hype? Insights From ZDNet
-date: 2025-02-10T01:15:58.446Z
-updated: 2025-02-16T06:11:54.670Z
+date: 2025-02-25T19:00:25.026Z
+updated: 2025-03-05T01:33:50.883Z
 tags:
   - laptops
 categories:
@@ -58,10 +58,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Chromebooks are user-proof
 
 No other laptop operating system on the planet can claim to be as user-proof as [ChromeOS](https://www.zdnet.com/article/5-chromeos-tips-for-faster-navigation-and-a-more-efficient-experience/). Some would argue that's because there's so little you can do with a Chromebook, but that's patently false, especially considering that your Chromebook can run both [Android](https://www.zdnet.com/home-and-office/work-life/how-to-add-android-apps-to-your-chromebook/) and Linux apps. 
@@ -74,10 +70,6 @@ I've known users -- hello, family, are you listening? -- who've suffered to no e
 
 I've watched users continually break Windows and MacOS laptops (and come to me for help). The number of times I've had a Chromebook user do the same thing is… nil. Sure, a couple of times someone asked me, "How do I get this thing connected to a printer?" That's about it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Chromebooks are fast
 
 Take two laptops with basically the same hardware configuration, load one with Windows 11 and one with ChromeOS, and see which performs better. In every instance, you'll find ChromeOS to be exponentially faster. 
@@ -88,10 +80,6 @@ It's not just about how quickly apps open (Android _and_ Linux apps, see above),
 
 If you want a fast laptop at a reasonable price, get a Chromebook.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Chromebooks are reliable
 
 In the 10 years since I've been using Chromebooks, I've only had one device with problems, and that was the original Pixelbook (which suffered from Bluetooth and networking issues). Beyond that, I've never had a problem with a Chromebook. It just doesn't happen. Yes, that's partly because ChromeOS is "mostly" a web browser masquerading as an OS, but even with Linux and Android app support enabled, I've never suffered from a problem. 
@@ -100,10 +88,6 @@ In the 10 years since I've been using Chromebooks, I've only had one device with
 
 Even when using the [non-stable ChromeOS channel](https://www.zdnet.com/article/how-to-switch-release-channels-on-your-chromebook/), I've found the operating system to be exponentially more reliable than Windows. Anyone who argues this point hasn't used ChromeOS enough.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Chromebooks are secure
 
 Reliability isn't just about stability -- it's also about security, and -- thanks to the Linux kernel -- [ChromeOS is a very secure option](https://www.zdnet.com/article/5-chromeos-settings-you-should-change-for-a-more-secure-chromebook-heres-how/). On top of that, Chromebooks are secured with verification at boot, a read-only OS that blocks executables, data encryption, sandboxing, and more. 
@@ -111,10 +95,6 @@ Reliability isn't just about stability -- it's also about security, and -- thank
 Thanks to ChromeOS's built-in security, even older, out-of-support Chromebooks are safer than a newer macOS or Windows laptop. Skeptical? In Chromebook's 10-year history, [only 45 ChromeOS security exploits](https://www.cvedetails.com/vulnerability-list/vendor%5Fid-1224/product%5Fid-20320/Google-Chrome-Os.html) have been documented
 
 You won't need antivirus or anti-malware. Just make sure to apply any/all updates when they become available, avoid suspicious websites, and only install extensions from the official Google Chrome Store, and you're good to go. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Chromebooks can be easily restored
 
@@ -158,22 +138,24 @@ Chromebooks may not be the ideal solution for everyone. (Attempt any serious vid
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-optimal-techniques-to-record-your-snapchat-stories/"><u>[Updated] Optimal Techniques to Record Your Snapchat Stories</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-vivo-y100-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Vivo Y100 Without Power Button | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-zte-nubia-z60-ultra-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from ZTE Nubia Z60 Ultra to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-asus-atk0110-acpi-control-software-for-free/"><u>Download ASUS ATK0110 ACPI Control Software for Free</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-canon-mf8200c-printer-drivers-fully-updated-for-windows-users/"><u>Download Canon MF8200C Printer Drivers - Fully Updated for Windows Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-latest-asus-atk0110-acpi-control-and-bios-files-at-no-cost/"><u>Download the Latest ASUS ATK0110 ACPI Control and BIOS Files at No Cost</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722958641944-easy-download-of-hp-deskjet-3520-software-ensure-compatible-operation-with-any-pc/"><u>Easy Download of HP DeskJet 3520 Software - Ensure Compatible Operation with Any PC</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebooks-shortcomings-highlighting-5-times-users-were-let-down/"><u>Facebook's Shortcomings: Highlighting 5 Times Users Were Let Down</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-download-compatible-acer-touch-to-screen-pad-drivers-for-windows-11/"><u>Free Download: Compatible Acer Touch-to-Screen Pad Drivers for Windows 11</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-samsung-galaxy-s24-ultra-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Samsung Galaxy S24 Ultra FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-streaming-supremacy-the-peak-of-youtuber-popularity/"><u>In 2024, Streaming Supremacy The Peak of YouTuber Popularity</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-remote-server-connection-failures-effective-troubleshooting-techniques/"><u>Overcoming Remote Server Connection Failures: Effective Troubleshooting Techniques</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/resolved-microsoft-battery-driver-problems-ensuring-acpi-compliance/"><u>Resolved Microsoft Battery Driver Problems - Ensuring ACPI Compliance</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/solving-the-common-driver-problems-for-synaptics-touchpadpointing-device-in-windows-10/"><u>Solving the Common Driver Problems for Synaptics Touchpad/Pointing Device in Windows 10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/swift-and-simple-installation-of-intel-dual-band-wireless-ac-n2000ac-7265ac-1200-network-adapter-driver-v813436900plus/"><u>Swift and Simple Installation of Intel Dual Band Wireless-AC N2000/AC 7265/AC 1200 Network Adapter Driver V.8.13.43.6900+]</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-for-obs-not-screen-record-problems/"><u>Troubleshooting Tips for 'OBS Not Screen Record' Problems</u></a></li>
-<li><a href="https://solve-help.techidaily.com/troubleshooting-unresponsive-pc-fixes-for-non-functional-mouse-and-keyboard-in-windows-tips-from-yl-computing/"><u>Troubleshooting Unresponsive PC: Fixes for Non-Functional Mouse & Keyboard in Windows - Tips From YL Computing</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-navigating-algorithm-advantages-maximizing-view-count-effortlessly/"><u>[New] In 2024, Navigating Algorithm Advantages Maximizing View Count Effortlessly</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-the-seamless-path-integrating-your-social-photos-into-device-storage/"><u>[New] The Seamless Path Integrating Your Social Photos Into Device Storage</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-from-idea-to-impact-advanced-editing-techniques-for-youtube-creators/"><u>[Updated] 2024 Approved From Idea to Impact Advanced Editing Techniques for YouTube Creators</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-dominance-index-top-ten-royale-survival-games/"><u>2024 Approved Dominance Index Top Ten Royale Survival Games</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-perfectly-preserved-your-ultimate-guide-to-saving-tweet-animations/"><u>2024 Approved Perfectly Preserved Your Ultimate Guide to Saving Tweet Animations</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-drivers-geforce-gtx-1660-super-graphics-card/"><u>Download & Update Drivers: GeForce GTX 1660 Super Graphics Card</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/effective-ways-to-troubleshoot-non-working-laptop-cameras-on-windows-11-os/"><u>Effective Ways to Troubleshoot Non-Working Laptop Cameras on Windows 11 OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-setup-accessing-official-canon-mg3620-driver-download-links/"><u>Effortless Setup: Accessing Official Canon MG3620 Driver Download Links</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-your-printing-experience-latest-hp-scanjet-driver-update-for-windows-download/"><u>Enhance Your Printing Experience: Latest HP Scanjet Driver Update for Windows [Download]</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-advice-for-upgrading-your-rig-tips-from-toms-hardware-experts/"><u>Expert Advice for Upgrading Your Rig - Tips From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-asus-dvd-playerwriter-drivers-fast-and-easy-download/"><u>Free ASUS DVD Player/Writer Drivers: Fast and Easy Download</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-13-pro-max-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 13 Pro Max without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-msi-bluetooth-drivers-download-to-upgrade-and-secure-your-windows-111n-systems-now/"><u>Latest MSI Bluetooth Drivers - Download to Upgrade and Secure Your Windows 11/1N Systems Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/lenovos-thunderbolt-3-dock-latest-driver-installation-instructions/"><u>Lenovo's Thunderbolt 3 Dock - Latest Driver Installation Instructions</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/navigate-the-art-of-film-with-xps-easy-tools/"><u>Navigate the Art of Film with XP's Easy Tools</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-the-digital-world-through-toms-hardware-knowledge/"><u>Navigating the Digital World Through Tom's Hardware Knowledge</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-installing-logitech-webcam-c920ehd-drivers-on-a-windows-machine/"><u>Step-by-Step Tutorial: Installing Logitech Webcam C920EHD Drivers on a Windows Machine</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-nokia-130-music-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-fixes-for-firefox-freezing-issues-your-complete-2024-guide/"><u>Ultimate Fixes for Firefox Freezing Issues: Your Complete 2024 Guide</u></a></li>
 </ul></div>
 

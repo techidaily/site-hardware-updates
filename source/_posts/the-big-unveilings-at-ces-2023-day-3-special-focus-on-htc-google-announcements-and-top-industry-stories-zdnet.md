@@ -1,7 +1,7 @@
 ---
 title: "The Big Unveilings at CES 2023 Day 3: Special Focus on HTC, Google Announcements, and Top Industry Stories | ZDNET"
-date: 2025-02-13T04:09:19.875Z
-updated: 2025-02-15T23:22:17.572Z
+date: 2025-02-28T01:12:31.551Z
+updated: 2025-03-05T07:19:21.295Z
 tags:
   - laptops
 categories:
@@ -39,15 +39,7 @@ Cons
 * Poor battery
 * Limited charging
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Razer Blade 17
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best gaming laptop overall
 
@@ -126,15 +118,7 @@ Cons
 * Display could be better
 * Plastic construction
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## HP Victus 15
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best HP gaming laptop
 
@@ -160,10 +144,6 @@ Pros
 Cons 
 * Expensive
 * Very heavy
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## MSI GT77 Titan
 
@@ -192,10 +172,6 @@ To see how it compares, this is a look at the best gaming laptops.
 | ASUS ROG Zephyrus 14 | $1,899 | AMD Ryzen 9 8945HS    | 14 inches   |
 | HP Victus 15         | $720   | Intel Core i5-12500H  | 15.6 inches |
 | MSI GT77 Titan       | $3,839 | Intel Core i9-13980HX | 17.3 inches |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Which is the best gaming laptop for you?
 
@@ -280,22 +256,15 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/updated-crafting-memes-with-ease-on-9gag-platform/"><u>[Updated] Crafting Memes with Ease on 9GAG Platform</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-comparing-livestream-tools-is-streamlabs-the-answer-to-your-broadcast-needs/"><u>[Updated] In 2024, Comparing Livestream Tools Is Streamlabs the Answer to Your Broadcast Needs?</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-precision-screen-recorders-for-xbox-gamers-explained/"><u>[Updated] In 2024, Precision Screen Recorders for Xbox Gamers Explained</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amd-ryzen-5-2500u-fast-and-easy-driver-update-instructions/"><u>AMD Ryzen ^5 2500U - Fast and Easy Driver Update Instructions</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/asmr-viewers-essentials-explained/"><u>ASMR Viewers' Essentials Explained</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/best-source-to-download-and-install-logitech-rx250-driver-on-your-windows-computer-windows-7810/"><u>Best Source to Download and Install Logitech RX250 Driver on Your Windows Computer (Windows 7/8/10)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-canon-mx410-printer-drivers-for-windows-latest-version/"><u>Download Canon MX410 Printer Drivers for Windows - Latest Version</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-essential-lenovo-t430-drivers-for-seamless-performance-in-windows-10-8-and-7/"><u>Download Essential Lenovo T430 Drivers for Seamless Performance in Windows 10, 8 & 7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-and-speedy-download-for-pioneer-dj-ddjsx2-interface-software/"><u>Easy and Speedy Download for Pioneer DJ DDJSX2 Interface Software</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-decision-making-with-top-5-artificial-intelligence-tools/"><u>Enhancing Decision-Making with Top 5 Artificial Intelligence Tools</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-poco-x5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Poco X5 Pro? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-samsung-galaxy-f14-5g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Samsung Galaxy F14 5G Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/instant-improvement-for-your-pc-secure-official-amd-ryzen-n-5-2600-graphics-and-cpu-drivers-here/"><u>Instant Improvement for Your PC! Secure Official AMD Ryzen N 5 2600 Graphics & CPU Drivers Here</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/live-streaming-mastery-explore-manycam-features-and-virtual-camera-solutions/"><u>Live Streaming Mastery: Explore ManyCam Features and Virtual Camera Solutions</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/e-viewers-count-counter-for-2024/"><u>Online Viewers Count Counter for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722978852766-quick-setup-get-your-bcm207n02a0-drivers-installed-on-windows-today/"><u>Quick Setup: Get Your BCM207n02A0 Drivers Installed on Windows Today!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-guide-to-downloading-sound-blaster-z-drivers-on-windows-11/"><u>The Ultimate Guide to Downloading Sound Blaster Z Drivers on Windows 11</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-step-by-step-guide-to-seamless-editing-of-full-spherical-video-content/"><u>[New] Step-by-Step Guide to Seamless Editing of Full Spherical Video Content</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-optimal-display-technologies-srgb-over-rgb/"><u>[Updated] 2024 Approved Optimal Display Technologies Srgb over Rgb</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-mastering-teams-personalized-call-banners/"><u>[Updated] In 2024, Mastering Teams' Personalized Call Banners</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722970667080-download-nvidia-graphics-drivers-compatible-with-windows-10-7-and-8/"><u>Download Nvidia Graphics Drivers: Compatible with Windows 10, 7 & 8</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-firmware-and-drivers-for-your-hp-officejet-pro-8720-a-comprehensive-guide-to-downloading-on-windows-systems/"><u>Latest Firmware and Drivers for Your HP OfficeJet Pro ˈ8720: A Comprehensive Guide to Downloading on Windows Systems</u></a></li>
+<li><a href="https://change-location.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Samsung Galaxy M34 | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/e-income-analysis-for-youtube-stars/"><u>Online Income Analysis for YouTube Stars</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/optimizing-ps3-swapping-for-bigger-hdd/"><u>Optimizing PS3: Swapping for Bigger HDD</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-high-tech-secrets-the-toms-hardware-experience/"><u>Unveiling High-Tech Secrets: The Tom's Hardware Experience</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upgrading-driver-software-for-optimal-performance-in-dell-xps-eby15-laptops-running-windows-os/"><u>Upgrading Driver Software for Optimal Performance in Dell XPS Eby15 Laptops Running Windows OS</u></a></li>
 </ul></div>
 

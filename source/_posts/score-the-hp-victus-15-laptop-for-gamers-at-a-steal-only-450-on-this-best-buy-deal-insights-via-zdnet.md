@@ -1,7 +1,7 @@
 ---
 title: Score The HP Victus #15 Laptop for Gamers at a Steal – Only $450 on This Best Buy Deal | Insights via ZDNET
-date: 2025-02-12T20:54:55.831Z
-updated: 2025-02-16T05:30:06.945Z
+date: 2025-02-27T23:30:24.887Z
+updated: 2025-03-04T20:30:17.723Z
 tags:
   - laptops
 categories:
@@ -24,10 +24,6 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 **Also: [The best budget gaming laptops: Expert tested](https://www.zdnet.com/article/best-budget-gaming-laptop/)** 
 
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -63,14 +59,22 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-from-passive-to-active-income-profitable-facebook-tactics-for-2024/"><u>[New] From Passive to Active Income Profitable Facebook Tactics for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-best-20-free-public-license-pubg-gallery-mixes/"><u>[Updated] Best 20 Free Public License PUBG Gallery Mixes</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-captivating-audience-leading-5-tiktok-font-generators-of-2023-for-2024/"><u>[Updated] Captivating Audience Leading 5 TikTok Font Generators of 2023 for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-expert-strategies-for-high-quality-macbook-webcam-recordings/"><u>[Updated] Expert Strategies for High-Quality MacBook Webcam Recordings</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amd-radeon-rx-6800-xt-comprehensive-guide-to-download-and-update-drivers-on-various-windows-platforms/"><u>AMD Radeon RX 6800 XT: Comprehensive Guide to Download & Update Drivers on Various Windows Platforms</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-update-canon-drivers-with-simplicity-on-windows-systems/"><u>Download & Update Canon Drivers with Simplicity on Windows Systems!</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-vivo-x100-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Vivo X100 to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-amd-gpu-driver-support-for-windows-operating-systems-windows-10117/"><u>Latest AMD GPU Driver Support for Windows Operating Systems (Windows 10/11/7)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-encryption-device-issues-on-pci-interface-now-stable/"><u>Mastering Encryption Device Issues on PCI Interface [Now Stable]</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-discovering-the-most-shared-twitvideos-of-the-year/"><u>[New] 2024 Approved Discovering the Most Shared TwitVideos of the Year</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-erasing-the-spotlight-hide-visuals-in-shared-media-for-2024/"><u>[New] Erasing the Spotlight Hide Visuals in Shared Media for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-earning-equations-decoding-the-mathematics-behind-youtube-income-monitoring/"><u>[Updated] 2024 Approved Earning Equations Decoding the Mathematics Behind YouTube Income Monitoring</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-of-both-worlds-racing-simulation-with-logitechs-momo-wheel-free-software-trial-and-download-on-pc/"><u>Best of Both Worlds: Racing Simulation with Logitech's MOMO Wheel – Free Software Trial and Download on PC</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boosting-your-download-velocity-proven-solutions/"><u>Boosting Your Download Velocity: Proven Solutions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-corsair-keyboard-drivers-for-windows-fast-free-and-secure/"><u>Download Corsair Keyboard Drivers for Windows - Fast, Free & Secure</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-crucial-msi-b350-motherboard-drivers-optimized-compatibility-with-windows-10-8-and-7/"><u>Download Crucial MSI B350 Motherboard Drivers: Optimized Compatibility with Windows 10, 8 & 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-steps-to-update-your-pcs-sound-card-windows-n-11-support/"><u>Effortless Steps to Update Your PC's Sound Card - Windows N 11 Support</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-amd-rx-6800-xt-drivers-for-your-windows-system-compatible-with-win11win10win8win7/"><u>Get the Latest AMD RX 6800 XT Drivers for Your Windows System – Compatible with Win11/Win10/Win8/Win7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-quadro-graphics-drivers-from-nvidia-for-windows-10-systems/"><u>Get the Newest Quadro Graphics Drivers From Nvidia for Windows 10 Systems</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-successfully-connect-your-western-digital-ses-drive-using-updated-usb-software-on-windows-computers-2011-onwards/"><u>How to Successfully Connect Your Western Digital SES Drive Using Updated USB Software on Windows Computers (2011 Onwards)</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-depth-analysis-yakuza-like-a-dragon-review-why-its-a-game-changer-in-rpg-genre/"><u>In Depth Analysis: Yakuza: Like a Dragon Review - Why It's a Game Changer in RPG Genre</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-hp-officejet-5255-driver-installation-guide/"><u>Latest HP OfficeJet #5255 Driver Installation Guide</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/no-download-zone-10-top-free-online-video-compressors-for-2024/"><u>No-Download Zone 10 Top Free Online Video Compressors for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-up-your-game-obtain-latest-windows-graphics-driver-support-from-nvidia/"><u>Step Up Your Game: Obtain Latest Windows Graphics Driver Support From NVIDIA</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211248403-9780719831614-the-inner-mysteries/"><u>The Inner Mysteries | Free Book</u></a></li>
 </ul></div>
 

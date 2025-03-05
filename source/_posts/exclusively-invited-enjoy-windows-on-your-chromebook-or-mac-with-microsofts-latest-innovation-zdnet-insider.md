@@ -1,7 +1,7 @@
 ---
 title: "Exclusively Invited: Enjoy Windows on Your Chromebook or Mac with Microsoft's Latest Innovation | ZDNet Insider"
-date: 2025-02-15T02:44:56.661Z
-updated: 2025-02-16T05:28:42.056Z
+date: 2025-02-27T21:50:19.435Z
+updated: 2025-03-04T16:10:31.391Z
 tags:
   - laptops
 categories:
@@ -28,10 +28,6 @@ That's right. Apple said the "A" word, and it's not being shy about it, as my af
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Apple is _officially_ in the AI PC race
 
 Kerry Wan/ZDNET
@@ -54,10 +50,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 Apple also wants you to know that it's _been_ in the [AI PC race](https://www.zdnet.com/article/what-is-an-ai-pc-and-should-you-buy-one/) since the very beginning, with just about every Mac model now carrying neural engines for machine learning. The new MacBook Air is "the best consumer laptop for AI," the company touts in its Monday press release, but we'll have to see for ourselves when we put the 13- and 15-inch models through the wringer soon.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. I can finally recommend the Midnight color
 
 Kerry Wan/ZDNET
@@ -65,10 +57,6 @@ Kerry Wan/ZDNET
 AI aside, there is one subtle design change to the new MacBooks that I really dig, and, no, they're not any lighter than they already are, nor do they _finally_ have more ports. The Midnight color for the M3 MacBooks now features a "breakthrough anodization seal" that reduces fingerprints -- in theory, at least. 
 
 Considering how easy it was to get smudges and marks on the original Midnight color of the MacBook Air -- which made lighter hue options look like rockstars -- this is a welcome change. Having fumbled with the MacBooks for a quick 10-minute photo-op, the fingerprints were noticeable, though not as bad as I remembered on the M2 Air. For me, this makes the Midnight variant recommendable again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Dual-monitor support is a bigger deal than it seems
 
@@ -110,19 +98,15 @@ All in all, the changes to the newest line of MacBook Air feel subtle on paper b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-video-venues-verdict-find-your-fit-fast/"><u>[Updated] 2024 Approved Video Venues Verdict Find Your Fit Fast</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-pro-level-video-editing-with-vivacut-full-review-and-guidebook/"><u>2024 Approved Pro-Level Video Editing with VivaCut Full Review & Guidebook</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/compatible-driver-packs-for-brother-mfc-l2740dw-on-windows-operating-systems/"><u>Compatible Driver Packs for Brother MFC-L2740DW on Windows Operating Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-tutorial-to-get-and-update-your-epson-printers-drivers-for-windows-11-systems/"><u>Comprehensive Tutorial to Get & Update Your Epson Printer's Drivers for Windows 11 Systems</u></a></li>
-<li><a href="https://fox-links.techidaily.com/essential-guide-to-creating-stunning-timelapses-using-gopro-software/"><u>Essential Guide to Creating Stunning Timelapses Using GoPro Software</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-newest-razer-graphics-card-drivers-for-windows-operating-systems-download-now-for-111087xpvista/"><u>Get the Newest Razer Graphics Card Drivers for Windows Operating Systems - Download Now for 11/10/8/7/XP/Vista</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-best-free-premiere-pro-templates/"><u>In 2024, Best Free Premiere Pro Templates</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-any-realme-gt-neo-5-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Realme GT Neo 5 Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-say-goodbye-to-vertical-and-horizontal-bars-in-youtube-movies/"><u>In 2024, Say Goodbye to Vertical and Horizontal Bars in YouTube Movies</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-samsung-galaxy-a05-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Samsung Galaxy A05 Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/instant-access-how-to-quickly-obtain-rs232-drivers-for-usb-devices/"><u>Instant Access: How to Quickly Obtain RS232 Drivers for USB Devices</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/intel-wi-fi-6e-ax200-drivers-download-and-update-compatible-with-windows-1110-systems/"><u>Intel Wi-Fi 6E AX200 Drivers Download & Update: Compatible with Windows 11/10 Systems</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-issues-when-your-final-usb-peripheral-fails-and-windows-ignores/"><u>Resolving Issues When Your Final USB Peripheral Fails & Windows Ignores</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/upgrade-your-lenovo-webcam-firmware-on-windows-7-new-version-available/"><u>Upgrade Your Lenovo Webcam Firmware on Windows 7 - New Version Available</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-unbiased-take-on-recordcast-efficacy/"><u>[New] 2024 Approved Unbiased Take on RecordCast Efficacy</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/rom-idea-to-impact-top-8-online-courses-for-new-creators/"><u>[New] From Idea to Impact Top 8 Online Courses for New Creators</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-cutting-edge-strategies-for-youtube-split-screen-videos/"><u>[Updated] 2024 Approved Cutting-Edge Strategies for YouTube Split-Screen Videos</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-the-secrets-of-writing-impressive-podcast-summaries/"><u>[Updated] In 2024, The Secrets of Writing Impressive Podcast Summaries</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722888524824-anticipating-the-next-google-pixel-explore-projections-for-its-price-tag-availability-date-and-technical-details/"><u>Anticipating the Next Google Pixel – Explore Projections for Its Price Tag, Availability Date & Technical Details!</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-behind-the-scenes-a-detailed-guide-to-setting-up-and-recording-with-garageband/"><u>New 2024 Approved Behind the Scenes A Detailed Guide to Setting Up and Recording with GarageBand</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/personalize-android-quick-access-menu-with-these-easy-adjustment-techniques/"><u>Personalize Android Quick Access Menu with These Easy Adjustment Techniques</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/personalizing-your-timepiece-tailoring-the-lock-screen-clock-on-android/"><u>Personalizing Your Timepiece: Tailoring the Lock Screen Clock on Android</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/qualcomms-latest-innovation-snapdragon-4-gen-2-transforms-the-budget-phone-market/"><u>Qualcomm's Latest Innovation: Snapdragon 4 Gen 2 Transforms the Budget Phone Market</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/reading-reworked-embracing-ebooks-over-kindle-in-the-smartphone-era/"><u>Reading Reworked: Embracing eBooks Over Kindle in the Smartphone Era</u></a></li>
 </ul></div>
 

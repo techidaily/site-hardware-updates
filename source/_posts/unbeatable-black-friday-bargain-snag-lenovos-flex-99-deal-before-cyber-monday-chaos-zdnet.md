@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Black Friday Bargain: Snag Lenovo's Flex 지난에 $99 Deal Before Cyber Monday Chaos | ZDNET"
-date: 2025-02-13T03:17:39.666Z
-updated: 2025-02-16T06:40:13.922Z
+date: 2025-03-02T23:52:07.314Z
+updated: 2025-03-05T01:55:42.149Z
 tags:
   - laptops
 categories:
@@ -15,17 +15,9 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
 
 Cyber Monday is one of the best times of the year to purchase your next laptop or tablet. Considerable discounts plus major brands equal unparalleled savings. Say you're working within a limited budget, though -- under $100 or under $500\. I compared the best laptops by their standout features, including processing power, RAM, and operating system, to arrive at the best laptop under $500 and under $100 this Cyber Monday.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [![04-bf-cm.png](https://www.zdnet.com/a/img/resize/954e855aae296b0590d40ff6eba4167fd27f3d67/2022/11/29/2911e8eb-1a11-4aa3-8ff7-015c7e854046/04-bf-cm.png?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best Black Friday and Cyber Monday tech deals still available If you missed out on this year's mega sale events, no problem. ZDNET is rounding up the best tech deals still available, right here.  Read now](https://www.zdnet.com/collection/cyber-monday/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 In the under $500 category, you get the highest savings on the [HP Pavilion 15t-eg200 laptop](https://www.tkqlhce.com/click-9041660-15850793?url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fhp-pavilion-laptop-15t-eg200-laptop-4u8e0av-1&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). The 15.6-inch laptop is on sale through HP for $450 -- a markdown of $450 from its original $900 price. It comes with a Windows 11 Home operating system, an Intel® Core™ i5 processor, an Intel® Iris® Xe Graphics card, 8 GB memory, and 256 GB storage. It has a fingerprint reader, a long lasting battery that supports fast charging of about 50% in 45 minutes, and an HD wide vision 720p HD camera that's perfect for Zoom calls with noise reduction and integrated microphones. 
 
@@ -73,24 +65,19 @@ If your budget is in the under $100 category, and you want the best value for yo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-easy-steps-to-record-your-dell-laptops-display-for-2024/"><u>[New] Easy Steps to Record Your Dell Laptop's Display for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-essential-tips-for-screen-recording-on-lenovo-devices/"><u>[New] Essential Tips for Screen Recording on Lenovo Devices</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-scalable-techniques-for-vimeo-broadcasting/"><u>[Updated] Scalable Techniques for Vimeo Broadcasting</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/acer-pad-keyboard-drivers-compatible-with-windows-11-full-guide-and-download/"><u>Acer Pad-Keyboard Drivers Compatible with Windows 11 - Full Guide & Download</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-oppo-find-x7-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on Oppo Find X7.</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/dciman32dll-couldnt-be-located-heres-how-to-fix-it/"><u>dciman32.dll Couldn't Be Located? Here's How to Fix It!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-updated-nvidia-rtx-2060-drivers-compatible-with-windows-111087/"><u>Download Updated NVIDIA RTX 2060 Drivers Compatible with Windows 11/10/8/7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/fresh-razer-drivers-available-now-downloading-and-setup-tips-for-multiple-windows-os/"><u>Fresh Razer Drivers Available Now: Downloading and Setup Tips for Multiple Windows OS</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hassle-free-hp-stream-drivers-downloads-for-speedy-setup/"><u>Hassle-Free HP Stream Drivers Downloads for Speedy Setup</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-find-and-install-canon-mg5220-driver-on-your-pc-windows-10-8-and-7/"><u>How to Find and Install Canon MG5220 Driver on Your PC (Windows 10, 8 & 7)</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-oppo-a18s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Oppo A18s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-official-amd-rx-6800-xt-graphics-driver-on-windows-11-10-8-and-7-download/"><u>Install Official AMD RX 6800 XT Graphics Driver on Windows 11, 10, 8 & 7 - [Download]</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722977279858-install-your-roccat-mouse-with-these-free-drivers/"><u>Install Your Roccat Mouse with These Free Drivers!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-ch3ebutrex-how-to-get-and-install-updates-for-windows-11-users/"><u>Latest CH3ebutrex: How To Get And Install Updates For Windows 11 Users</u></a></li>
-<li><a href="https://discover-able.techidaily.com/os-melhores-enderecos-para-descarga-de-gifs-e-imagens-em-modo-gratuito-online/"><u>Os Melhores Endereços Para Descarga De GIFs E Imagens Em Modo Gratuito Online</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-access-downloading-your-asus-monitors-latest-drivers/"><u>Quick Access: Downloading Your ASUS Monitor's Latest Drivers</u></a></li>
-<li><a href="https://win-blog.techidaily.com/step-by-step-guide-restoring-your-connection-in-escape-from-tarkov/"><u>Step-by-Step Guide: Restoring Your Connection in Escape From Tarkov</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-gpt-4s-potential-with-a-copilot-buddy/"><u>Unlocking GPT-4's Potential with a Copilot Buddy</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/windows-1110-compatible-update-your-geforce-rtx-3070-drivers-here/"><u>Windows 11/10 Compatible: Update Your GeForce RTX 3070 Drivers Here</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-top-win11-videographers-choices-roundup/"><u>[New] Top Win11 Videographers' Choices Roundup</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-expert-advice-for-embedding-youtube-playlists-with-ease/"><u>[Updated] In 2024, Expert Advice for Embedding YouTube Playlists with Ease</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mp43swf/"><u>最適なMP4への変換!無料で人気がある3つのSWFファイルコンバーター</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/access-the-newest-epson-xp-440-printer-driver-version-instantly-with-our-guide/"><u>Access the Newest Epson XP-440 Printer Driver Version Instantly with Our Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-sades-headset-software-fully-secure-version-compatible-with-windows/"><u>Download Sades Headset Software - Fully Secure Version Compatible with Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-latest-msi-windows-sound-and-audio-driver-download-fast-and-easy/"><u>Get Your Latest MSI Windows Sound & Audio Driver Download - Fast and Easy!</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-archive-your-antics-a-practical-guide-to-capturing-and-storing-gif-images-from-twitter/"><u>In 2024, Archive Your Antics A Practical Guide to Capturing and Storing GIF Images From Twitter</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-silent-whispers-of-comfort-leading-asmr-voices/"><u>In 2024, Silent Whispers of Comfort Leading ASMR Voices</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/laughing-liberally-with-our-meme-toolbox/"><u>Laughing Liberally with Our Meme Toolbox</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-electronics-the-complete-guide-from-toms-hardware-experts/"><u>Mastering Electronics: The Complete Guide From Tom's Hardware Experts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/movavi-online-free-tool-transformar-nsv-en-wmv-sin-costo-alguno/"><u>Movavi Online Free Tool: Transformar NSV en WMV Sin Costo Alguno</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/new-geforce-rtx-3080-ti-graphics-card-drivers-for-windows-systems-download/"><u>New GeForce RTX 3080 Ti Graphics Card Drivers for Windows Systems Download</u></a></li>
+<li><a href="https://facebook.techidaily.com/understanding-social-etiquette-in-digital-interactions/"><u>Understanding Social Etiquette in Digital Interactions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-snapchats-my-ai-is-more-than-a-gadget-amusement/"><u>Why Snapchat’s My AI Is More Than a Gadget Amusement</u></a></li>
 </ul></div>
 

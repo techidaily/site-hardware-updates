@@ -1,7 +1,7 @@
 ---
 title: "[Query]: What Are some Fascinating Examples of Animal Intelligence?"
-date: 2025-02-14T18:58:44.677Z
-updated: 2025-02-15T21:49:10.360Z
+date: 2025-03-04T06:27:21.356Z
+updated: 2025-03-05T03:22:44.925Z
 tags:
   - laptops
 categories:
@@ -18,10 +18,6 @@ Image: Microsoft
 This week, Microsoft held its fall Microsoft Surface launch event where the company added three new Surface models to its popular Surface lineup: the new [Surface Laptop 5](https://click.linksynergy.com/deeplink?id=IokOf8qagZo&mid=24542&u1=zd-49aecb2efd374fc3b4d7a813ec545b2d-dtp&murl=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fstore%2Fconfigure%2FSurface-Laptop-5%2F8XN49V61S1BN%3F&fobs=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), [Surface Pro 9](https://click.linksynergy.com/deeplink?id=IokOf8qagZo&mid=24542&u1=zd-d263c7f53c034a8ca424d8145a40cd15-dtp&murl=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fstore%2Fconfigure%2FSurface-Pro-9%2F93VKD8NP4FVK&fobs=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), [Surface Studio 2+](https://click.linksynergy.com/deeplink?id=IokOf8qagZo&mid=24542&u1=zd-9ca94624eddf41b7a19a389eb900b249-dtp&murl=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fstore%2Fconfigure%2FSurface-Studio-2%2F8VLFQC3597K4%3F&fobs=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). The Surface family is extensive and includes a wide range of devices, such as smartphones, laptops and, of course, its 2-in-1 tablet PCs.
 
 Surface remains one of Microsoft's most popular products, with revenue increasing 3% year-over-year by $226 million in the fourth quarter of its [2022 financial year](https://www.microsoft.com/en-us/Investor/earnings/FY-2022-Q3/more-personal-computing-performance#:~:text=Surface%20revenue%20increased%20%24195%20million,increased%20%24305%20million%20or%207%25.&text=Gross%20margin%20increased%20%24755%20million,and%20Search%20and%20news%20advertising.). But that wasn't always the case, and Surface represents a big shift in Microsoft's business over the last decade. Here is how the Surface earned its spot as one of Microsoft's best sellers. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Windows
 
@@ -119,18 +115,19 @@ Microsoft has to make sure that it continues to upgrade its Surface lineup to st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-expertly-selected-360-cameras-for-youtube-and-facebook/"><u>[New] Expertly Selected 360° Cameras for YouTube & Facebook</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-walkthrough-to-downloading-and-updating-intel-hd-graphics-5500s-software/"><u>Comprehensive Walkthrough to Downloading & Updating Intel HD Graphics 5500'S Software</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-how-to-identify-if-someones-using-an-airtag-for-surveillance-expert-tips-from-zdnet/"><u>Discover How to Identify If Someone's Using an AirTag for Surveillance – Expert Tips From ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-advice-eliminating-the-persistent-0x80004005-error/"><u>Expert Advice: Eliminating the Persistent 0X80004005 Error</u></a></li>
-<li><a href="https://win11.techidaily.com/exploring-the-impact-and-purpose-of-runtime-brokers-on-pcs/"><u>Exploring the Impact and Purpose of Runtime Brokers on PCs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-logitech-g29-steering-wheel-setup-software-compatible-with-windows-11-10-and-7/"><u>Free Logitech G29 Steering Wheel Setup Software Compatible with Windows 11, 10 & 7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-up-and-running-with-the-ergokeyboard-40eboard-by-microsoft-fast-drivers-download-available/"><u>Get Up and Running with the ErgoKeyboard 40Eboard by Microsoft - Fast Drivers Download Available!</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-mp4mpeg-audio-extraction-tool/"><u>In 2024, MP4/MPEG Audio Extraction Tool</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-download-hp-stream-driver-software/"><u>Quick Download: HP Stream Driver Software</u></a></li>
-<li><a href="https://extra-support.techidaily.com/snowflakes-splendor-beijings-winter-wonder-for-2024/"><u>Snowflakes Splendor Beijing's Winter Wonder for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-instructions-to-fix-and-install-rndis-drivers-on-your-pc-with-windows-os/"><u>Step-by-Step Instructions to Fix and Install RNDIS Drivers on Your PC with Windows OS</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-resource-for-canon-mx560-driver-download-and-quick-updates/"><u>The Ultimate Resource for Canon MX560 Driver Download and Quick Updates</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-tecno-pova-5-pro-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Tecno Pova 5 Pro FRP Bypass</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-a-complete-guide-on-how-to-capture-and-store-fbs-graphic-delights-effortlessly/"><u>[Updated] A Complete Guide on How to Capture and Store FB's Graphic Delights Effortlessly</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-leading-green-screen-systems-expert-utilization-tips/"><u>[Updated] In 2024, Leading Green Screen Systems Expert Utilization Tips</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722964112753-asus-monitors-download-and-instal-drivers-effortlessly-and-save-time/"><u>ASUS Monitors: Download & Instal Drivers Effortlessly and Save Time</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/cutting-edge-screens-the-7-top-choices-pixel-artists/"><u>Cutting-Edge Screens The 7 Top Choices Pixel Artists</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-guide-updating-your-epson-printer-software-on-windows-10/"><u>Easy Guide: Updating Your Epson Printer Software on Windows 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-driver-updates-and-downloads-for-your-microsoft-surface-book/"><u>Effortless Driver Updates & Downloads for Your Microsoft Surface Book</u></a></li>
+<li><a href="https://video-capture.techidaily.com/how-to-combat-sync-issues-between-cameras-and-obs-for-2024/"><u>How to Combat Sync Issues Between Cameras and OBS for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-and-install-updated-msi-b350-tomahawk-drivers-for-optimal-performance-in-windows-operating-systems/"><u>How to Get and Install Updated MSI B350 Tomahawk Drivers for Optimal Performance in Windows Operating Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-constant-freezing-and-crashes-in-ghostwire-tokyo-for-windows-users/"><u>How to Resolve Constant Freezing and Crashes in Ghostwire: Tokyo for Windows Users</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-motorola-edgeplus-2023-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Motorola Edge+ (2023) is off? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-cartooncraft-master-guide-24-report/"><u>In 2024, CartoonCraft Master Guide '24 Report</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210439544-9781722526801-it-works/"><u>It Works | Free Book</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/realtek-asio-driver-update-for-windows-10-quick-easy-download-steps/"><u>RealTek Asio Driver Update for Windows 10 – Quick, Easy Download Steps!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-troubleshooting-downloading-and-fixing-the-dell-mouse-driver-issue/"><u>Ultimate Troubleshooting: Downloading and Fixing the Dell Mouse Driver Issue</u></a></li>
 </ul></div>
 

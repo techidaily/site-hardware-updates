@@ -1,7 +1,7 @@
 ---
 title: Expert Insights on Owning the Budget-Friendly Surface Pro 11 - Top Tips From a Tech Guru | ZDNet
-date: 2025-02-11T23:37:17.206Z
-updated: 2025-02-15T18:47:19.773Z
+date: 2025-03-01T17:56:52.828Z
+updated: 2025-03-05T01:03:06.918Z
 tags:
   - laptops
 categories:
@@ -44,10 +44,6 @@ My original plan was to use the new Surface Pro as a secondary mobile device, wh
 
 How did this happen? Let's dive in.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The experience is familiar
 
 This laptop is a radical shift in the Windows ecosystem, but it doesn't feel all that different from its predecessors. In fact, it's almost indistinguishable from the Intel-powered Surface Pro 9 that's sitting on my desk alongside it. The slim bezels around the displays of the two devices are nearly the same dimensions. The new device, at 1.9 pounds, is the same weight as the Surface Pro 9 and is a few ounces heavier than the Surface Pro X, although that's not something you really notice until you have to lug it through an airport as you rush to make a connection. The Type Cover from the older Surface Pro clicked into place on the Surface Pro 11, exactly as expected.
@@ -59,10 +55,6 @@ And as for the software, well … It's Windows 11, which looks and acts the same
 The big difference is that this next-gen device is extremely cool and quiet. After a three-hour Zoom call the other day, the chassis was barely warm; on an Intel-based machine, it would have been uncomfortably hot. There's a fan inside the Surface Pro 11, but I have yet to hear it run, even under the most demanding conditions. It's also extremely responsive, with none of the hesitation I occasionally noticed on the Surface Pro X. If you've used an M2-equipped MacBook Air, the feeling will be familiar.
 
 Of course, this new device also embodies everything you like and/or dislike about the Surface Pro design. If you're expecting a radical shift that will suddenly make the kickstand comfortable in your lap, I'm sorry to report you will be disappointed. If, however, you're comfortable with that design, you'll find this iteration completely familiar.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Battery life is a huge win
 
@@ -79,10 +71,6 @@ In real-world usage, the Surface Pro 11 battery lasts twice as long as an equiva
 Screenshot by Ed Bott/ZDNET
 
 At an average of more than 10 hours of actual, observed battery life, this Surface Pro is able to run for well over twice as long as my Intel-based Surface Pro 9\. That's also at least as long as the [M2 MacBook Air](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/) in my office.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Compatibility is good but not perfect
 
@@ -120,10 +108,6 @@ I had no hardware problems to speak of. My 10-year-old Logitech C930 webcam just
 
 Your mileage may vary, of course, especially if you have exotic hardware like video capture cards and ancient multifunction printers that require custom driver packs and won't work with the in-box Windows drivers. Thankfully, I have none of those.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The AI story is incomplete
 
 Every PC in the Copilot+ line includes a powerful neural processing unit designed to accelerate AI-based activities. Because I didn't spring for Microsoft's pricey new [Flex Keyboard](https://www.microsoft.com/en-us/d/surface-pro-flex-keyboard-with-slim-pen/93fzrmtgj6jw) and stuck with my old Type Cover, I didn't get a dedicated Copilot key. Instead, I had to run the [Copilot app](https://www.zdnet.com/article/microsoft-is-turning-windows-copilot-into-a-regular-app-and-heres-why-youll-like-it/), which works exactly like it does on any other Windows 11 PC. If it was chatting faster, I didn't notice.
@@ -143,10 +127,6 @@ The Paint and Photos apps are also loaded with AI-based features for creating an
 The real question is whether those features are powerful enough to make you switch from your current image-processing tool to one of Microsoft's built-in options. History says that's a pretty big ask.
 
 Even if you avoid the AI features completely, though, there's more than enough power in this [budget PC](https://www.zdnet.com/article/best-laptops-under-500/). Plus, as long as your apps and hardware requirements aren't exotic, you'll appreciate its cool, quiet operation.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How we test laptops
 
@@ -192,21 +172,16 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-understanding-instagrams-reels-vs-stories-format/"><u>[New] 2024 Approved Understanding Instagram’s Reels vs Stories Format</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-cutting-edge-icons-and-logos-from-6-innovative-websites/"><u>[New] In 2024, Cutting-Edge Icons and Logos From 6 Innovative Websites</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/nfographic-social-strategies-for-budget-brands/"><u>[New] Infographic Social Strategies for Budget Brands</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-secure-and-simple-grab-your-desired-youtube-cover-at-no-charge/"><u>2024 Approved Secure & Simple Grab Your Desired YouTube Cover at No Charge</u></a></li>
-<li><a href="https://win11.techidaily.com/accelerate-your-pcs-wake-up-time-enabling-quick-start/"><u>Accelerate Your PC's Wake-Up Time: Enabling Quick Start</u></a></li>
-<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-oppo-find-x7-ultra-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Oppo Find X7 Ultra? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/fixing-hp-beats-audio-issues-on-windows-10-8-and-7-a-comprehensive-guide/"><u>Fixing HP Beats Audio Issues on Windows 10, 8 & 7: A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-download-of-official-hp-laserjet-pro-m127fn-printer-drivers-compatible-with-all-os/"><u>Free Download of Official HP Laserjet Pro M127FN Printer Drivers - Compatible with All OS</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-right-brother-mfc-7360n-drivers-instantly-compatible-with-windows-11-8-and-7-download-and-update-today/"><u>Get the Right Brother MFC-7360N Drivers Instantly: Compatible with Windows 11, 8 and 7 - Download & Update Today</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/resolve-graphic-card-driver-warning-quickly-a-comprehensive-guide/"><u>Resolve 'Graphic Card Driver Warning' Quickly – A Comprehensive Guide</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solution-guide-starting-up-vanguard-successfully-on-valorant-common-fixes-and-tips/"><u>Solution Guide: Starting Up Vanguard Successfully on Valorant - Common Fixes & Tips</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-enhancing-your-arduino-device-through-usb-drivers-for-windows-users/"><u>Step-by-Step Guide: Enhancing Your Arduino Device Through USB Drivers for Windows Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/successfully-overcoming-device-driver-hurdles-on-windows-7-8-and-tenth-with-startech/"><u>Successfully Overcoming Device Driver Hurdles on Windows 7, 8 & Tenth with StarTech</u></a></li>
-<li><a href="https://win-able.techidaily.com/top-techniques-for-a-smooth-hogwarts-legacy-experience-preventing-initial-crashes/"><u>Top Techniques for a Smooth Hogwarts Legacy Experience: Preventing Initial Crashes</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-swift-and-simple-setup-of-scansnap-s1100-scanner-drivers/"><u>Update: Swift and Simple Setup of ScanSnap S1100 Scanner Drivers</u></a></li>
-<li><a href="https://techidaily.com/whats-new-in-windows-11-creators-update-insider-preview-build-1503/"><u>What's New in Windows 11 Creators Update: Insider Preview Build 1503</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-melodic-medium-finding-the-right-film-score/"><u>[New] In 2024, Melodic Medium Finding the Right Film Score</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-guide-to-downloading-and-installing-new-epson-printer-drivers-on-windows-10-systems/"><u>Comprehensive Guide to Downloading and Installing New Epson Printer Drivers on Windows 10 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-find-and-update-toshiba-laptop-drivers-on-your-windows-system/"><u>How to Find and Update Toshiba Laptop Drivers on Your Windows System</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-realme-v30-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Realme V30? | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-breaking-into-the-digital-realm-the-wirecast-approach-for-youtube-streamers/"><u>In 2024, Breaking Into the Digital Realm The WireCast Approach for YouTube Streamers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-full-picture-a-comprehensive-review-of-android-lightroom/"><u>In 2024, The Full Picture A Comprehensive Review of Android Lightroom</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/intel-core-i7-14700k-arrow-lake-processor-edge-a-steady-7-advantage-over-core-ultras-265kf-in-solo-core-performance-testing/"><u>Intel Core I7-14700K Arrow Lake Processor Edge: A Steady 7% Advantage Over Core Ultra's 265KF in Solo-Core Performance Testing</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/secure-your-pioneer-dj-ddj-sx2-driver-in-just-minutes-download-today/"><u>Secure Your Pioneer DJ DDJ-SX2 Driver in Just Minutes – Download Today!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/streamlined-setup-expert-tips-for-quickly-downloading-and-installing-your-hp-driver-needs/"><u>Streamlined Setup: Expert Tips for Quickly Downloading & Installing Your HP Driver Needs!</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-enduring-appeal-of-the-samsung-galaxy-tab-s3-our-latest-assessment/"><u>The Enduring Appeal of the Samsung Galaxy Tab S3: Our Latest Assessment</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-gamers-2024-handbook-solving-persistent-lag-issues-on-pc/"><u>The Gamer's 2024 Handbook: Solving Persistent Lag Issues on PC</u></a></li>
 </ul></div>
 

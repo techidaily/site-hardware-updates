@@ -1,7 +1,7 @@
 ---
 title: Microsoft Slashes Prices on Surface Go and Drops All-Time Low Price for Xbox Series S
-date: 2025-02-14T05:12:41.077Z
-updated: 2025-02-16T01:15:54.675Z
+date: 2025-02-27T21:39:48.925Z
+updated: 2025-03-04T23:25:55.346Z
 tags:
   - laptops
 categories:
@@ -26,10 +26,6 @@ Microsoft is known for its innovative products in gaming, computers, and more. A
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Save hundreds on Surface tablets and laptops**
 
 The Surface Pro 9 demonstrates all the newest capabilities of Microsoft's 2-in-1 line. Taking digital notes has never been easier with the Surface Slim Pen. Video calls have also never been more in focus, thanks to Automatic Framing. 
@@ -42,10 +38,6 @@ Under the tablet's hood, you'll find a blazing-fast processor (12th Gen Intel Co
 
 Meanwhile, if you're preference is for laptops, then Microsoft has other deals for you. You can save $200 on the Surface Laptop 5, up to $646 on the Surface Laptop 4, and $150 on the Surface Laptop Go 2\. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Get the Xbox Series S at its lowest price ever**
 
 The Xbox Series is proof fun things can come in compact sizes. It's fast, promoting 120 FPS per second. So, as long as you have a fast internet connection, you'll experience next-gen gaming the way it's supposed to be.
@@ -57,10 +49,6 @@ This is a digital console, meaning you'll have ample room to download games on i
 **Also: [The best gaming consoles](https://www.zdnet.com/home-and-office/home-entertainment/best-game-console/)** 
 
 Overall, the Xbox Series S is an excellent gaming system for those looking for jaw-dropping graphics, access to a diverse gaming library, and fast performance. In addition, Microsoft lowered its price to $239.99, making it the best time to buy one. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Want to save even more on Microsoft devices?**
 
@@ -110,19 +98,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-cutting-edge-techniques-mastering-youtube-subtitlecc-additions-for-2024/"><u>[New] Cutting-Edge Techniques Mastering YouTube Subtitle/CC Additions for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-creating-custom-subscribe-urls-for-online-content/"><u>[Updated] 2024 Approved Creating Custom Subscribe URLs for Online Content</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-streamlining-call-logs-the-4-step-guide-for-fb-calls/"><u>[Updated] In 2024, Streamlining Call Logs The 4-Step Guide for FB Calls</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-smoothie-your-phone-converting-iphones-jpegpng-to-pdf/"><u>2024 Approved Smoothie Your Phone Converting iPhone's JPEG/PNG to PDF</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discovering-2022s-ultimate-shopping-event-dates-and-top-bargains-of-black-friday-insights-from-zdnet/"><u>Discovering 2022'S Ultimate Shopping Event: Dates & Top Bargains of Black Friday – Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-latest-easycap-drivers-now-for-optimal-performance-and-support/"><u>Download the Latest EasyCAP Drivers Now for Optimal Performance & Support</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-netgear-wifi-card-software-for-smooth-connectivity/"><u>Get the Latest NETGEAR Wifi Card Software for Smooth Connectivity</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-right-lenovo-t430-drivers-for-your-windows-1087-system-fast-and-effortless/"><u>Get the Right Lenovo T430 Drivers for Your Windows 10/8/7 System – Fast & Effortless!</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-rise-and-fall-of-vegas-pro-a-critical-look/"><u>In 2024, The Rise and Fall of Vegas Pro A Critical Look</u></a></li>
-<li><a href="https://win-forum.techidaily.com/new-beginnings-in-windows-11-heres-your-guide-to-a-full-system-restore/"><u>New Beginnings in Windows 11? Here's Your Guide to a Full System Restore</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722976785304-streamline-gaming-setup-secure-official-corsair-icue-app-downloads-for-windows-1110-systems/"><u>Streamline Gaming Setup: Secure Official Corsair iCUE App Downloads for WIndows 11/10 Systems</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/trouble-with-apple-iphone-15-pro-max-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>Trouble with Apple iPhone 15 Pro Max Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/troubleshooting-guide-resolving-beats-audio-driver-problems-on-windows-pcs/"><u>Troubleshooting Guide: Resolving Beats Audio Driver Problems on Windows PCs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/troubleshooting-realtek-alc887-driver-trouble-with-windows-systems/"><u>Troubleshooting Realtek ALC887 Driver Trouble with Windows Systems</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-humor-hacks-simplifying-the-process-of-meme-creation/"><u>[Updated] Humor Hacks Simplifying the Process of Meme Creation</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-tricks-for-speedy-vimeo-streams-for-2024/"><u>[Updated] Tricks for Speedy Vimeo Streams for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-apple-macbook-air-vs-macbook-pro-which-m1-laptop-is-better/"><u>2024 Approved Apple MacBook Air Vs. MacBook Pro Which M1 Laptop Is Better?</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/capturing-the-skies-dji-drone-content-for-facebook-live/"><u>Capturing the Skies DJI Drone Content for Facebook Live</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-functionality-of-llama2-platforms-a-complete-guide/"><u>Discover the Functionality of LLAMA2 Platforms – A Complete Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722962070756-download-your-matching-intel-wireless-controller-driver-for-win11-10-or-7-today/"><u>Download Your Matching Intel Wireless Controller Driver for Win11, 10 or 7 Today!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-steps-to-downloading-and-updating-hp-officejet-pro-6970-drivers-on-pc/"><u>Easy Steps to Downloading and Updating HP OfficeJet Pro 6970 Drivers on PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-enhanced-audio-with-a-free-m-audio-ultratrack-pro-get-yours-now/"><u>Experience Enhanced Audio with a Free M-Audio UltraTrack Pro - Get Yours Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-broadcom-bluetooth-drivers-for-windows-11-8-and-7-free-download/"><u>Get Broadcom Bluetooth Drivers for Windows 11, 8 and 7 - Free Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-xerox-printing-essentials-free-window-compatible-printer-drivers-here/"><u>Get Your Xerox Printing Essentials: Free Window-Compatible Printer Drivers Here!</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-itel-a05s-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Itel A05s FRP</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-the-newest-geforce-210-graphics-card-drivers-optimized-for-windows-11-operating-system/"><u>Install the Newest GeForce 210 Graphics Card Drivers Optimized for Windows 11 Operating System</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/professionals-choice-select-the-best-15-tripodsmounts-for-gopro-for-2024/"><u>Professional's Choice Select the Best 15 Tripods/Mounts for GoPro for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/transformative-srt-editing-techniques-for-apple-devices/"><u>Transformative SRT Editing Techniques for Apple Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshoot-and-fix-hp-audio-driver-errors-for-windows-operating-systems/"><u>Troubleshoot and Fix HP Audio Driver Errors for Windows Operating Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-and-resolving-intel-csr8510a10-driver-errors-in-windows-os/"><u>Troubleshooting and Resolving Intel CSR8510/A10 Driver Errors in Windows OS</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-the-best-of-zoom-and-tiktok-video-sync-for-2024/"><u>Unveiling the Best of ZOOM & TikTok Video Sync for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-brother-mfc-j480dw-windows-drivers-now/"><u>Update Your Brother MFC-J480DW Windows Drivers Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722960993806-utilize-a-minimalistic-set-design-where-objects-onstage-symbolize-key-components-of-the-hydrogen-fuel-cell-technology/"><u>Utilize a Minimalistic Set Design Where Objects Onstage Symbolize Key Components of the Hydrogen Fuel Cell Technology.</u></a></li>
 </ul></div>
 

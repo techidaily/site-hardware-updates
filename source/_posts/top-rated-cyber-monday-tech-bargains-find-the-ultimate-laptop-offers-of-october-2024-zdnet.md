@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated Cyber Monday Tech Bargains: Find the Ultimate Laptop Offers of October 2024 | ZDNet"
-date: 2025-02-14T00:06:41.407Z
-updated: 2025-02-15T21:11:43.859Z
+date: 2025-02-26T18:09:43.387Z
+updated: 2025-03-05T05:29:58.204Z
 tags:
   - laptops
 categories:
@@ -23,10 +23,6 @@ From Apple's [MacBook Pro M3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FUR
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Our favorite Amazon October Prime Day laptop deals
 
@@ -80,10 +76,6 @@ Microsoft's 2024 Surface Laptop is a fast, lightweight laptop with a fantastic b
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Windows-Touchscreen-Snapdragon%2Fdp%2FB0CXKQYNPD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8bcae6f1-74dc-4589-954a-2b5acd825983%7Cdtp&dtb=1) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best laptops for students
 
 Dell/ZDNET
@@ -108,10 +100,6 @@ Asus/ZDNET
 * [Asus Zenbook Duo Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Zenbook-Certified-Graphics-UX8406MA-PS99T%2Fdp%2FB0CRD6PJDF%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8bcae6f1-74dc-4589-954a-2b5acd825983%7Cdtp&dtb=1) for $1,503 ($196 off): Asus' Duo is a game-changing machine with its dual 14-inch OLED displays and powerful hardware, allowing for a wide range of configurations that creatives will love.
 * [Microsoft Surface Laptop Snapdragon X Elite](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Windows-Touchscreen-Snapdragon%2Fdp%2FB0CXL68236%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8bcae6f1-74dc-4589-954a-2b5acd825983%7Cdtp&dtb=1) for $1,560 ($139 off): The higher-end Copilot+ certified laptop with the 12-core Snapdragon X Elite chip and 1TB of storage is also still on sale following October Prime Day.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## More October Prime Day 2024 laptop deals
 
 Kyle Kucharski/ZDNET
@@ -121,10 +109,6 @@ Kyle Kucharski/ZDNET
 * [Acer Nitro 16](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHexa-Core-GeForce-Display-Backlit-AN16-41-R148%2Fdp%2FB0D3VJXSWK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8bcae6f1-74dc-4589-954a-2b5acd825983%7Cdtp&dtb=1) for $799 (save $200): This mid-range gaming laptop has a 16-inch display with a 165Hz refresh rate and is built with an Nvidia GeForce RTX 4050 graphics card.
 * [Acer Swift Go 14](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Facer-Display-Experiences-Processor-SFG14-72T-718K%2Fdp%2FB0CNDTGC77%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8bcae6f1-74dc-4589-954a-2b5acd825983%7Cdtp&dtb=1) for $699 (save $300): This lightweight laptop features an Intel Core Ultra 7 155H CPU, Intel Arc graphics, 16GB of RAM, and a 512GB SSD.
 * [HP 17-inch Touch Laptop](https://qvc.uikc.net/c/159047/565130/9368?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.qvc.com%2Fhp-17-touch-laptop-intel-n200-4gb-ram-128gb-ssd-w-hp-mouse-%2526-ms365.product.E324465.html&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for $479 (Save $80): For a large-screen laptop with touch capabilities, HP's 17-inch Touch comes in a variety of bold colorways, and is bundled with a mouse in this QVC deal. This is a solid choice for users who want a large screen to play media, but only need a basic hardware configuration.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best Buy laptop deals
 
@@ -137,10 +121,6 @@ Kyle Kucharski/ZDNET
 * [HP Envy 2-in-1](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fhp-envy-2-in-1-14-2k-touch-screen-laptop-amd-ryzen-7-16gb-memory-1tb-ssd-glacier-silver%2F6571077.p%3FskuId%3D6571077&publisher_slug=itechdaily19598&exclusive=1) for $650 (save $400): A budget-friendly 2-in-1 laptop with a 14-inch 2K display, AMD Ryzen 7 CPU, and 1TB SSD.
 * [Apple MacBook Pro 16 M3 Max](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-macbook-pro-16-laptop-m3-max-chip-built-for-apple-intelligence-36gb-memory-30-core-gpu-1tb-ssd-space-black%2F6534635.p%3FskuId%3D6534635&publisher_slug=itechdaily19598&exclusive=1) for $2,999 (save $500): Apple's flagship content creation and workstation laptop has 36GB of RAM, a 1TB SSD, and M3 Max chip with integrated graphics processors.
 * [Acer Chromebook Spin 714](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Facer-chromebook-spin-714-intel-evo-laptop-14-1610-wuxga-1920-x-1200-touch-intel-core-i5-1335u-8gb-ram-256gb-ssd-steel-gray%2F6541841.p%3FskuId%3D6541841&publisher_slug=itechdaily19598&exclusive=1) for $499 (save $200): A budget-friendly 2-in-1 laptop that's perfect for students with a 14-inch touchscreen display, 8GB of RAM, and 256GB SSD.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## FAQs
 
@@ -230,15 +210,24 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-narrative-artistry-accolades-1-8-distinguished-academies/"><u>[New] Narrative Artistry Accolades #1-#8 Distinguished Academies</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-essential-tips-for-effective-hashtag-utilization-in-instagram-marketing/"><u>[Updated] 2024 Approved Essential Tips for Effective Hashtag Utilization in Instagram Marketing</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-quick-thumbnail-tips-for-youtube-success/"><u>[Updated] Quick Thumbnail Tips for YouTube Success</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/1722900902022-ensure-your-titles-are-specific-and-descriptive-avoid-vague-or-generic-phrases-that-dont-communicate-clear-value-to-potential-readers/"><u>Ensure Your Titles Are Specific and Descriptive; Avoid Vague or Generic Phrases that Don't Communicate Clear Value to Potential Readers.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/epson-scanner-setup-made-simple-how-to-acquire-and-install-necessary-drivers/"><u>Epson Scanner Setup Made Simple: How to Acquire and Install Necessary Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/invictus/"><u>Invictus</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-epson-v700-printer-drivers-supported-by-windows-operating-systems-from-7-to-10-and-81/"><u>Latest Epson V700 Printer Drivers: Supported by Windows Operating Systems From 7 to 10 and 8.1</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-setup-for-mediateks-usb-vcom-drivers-download-now/"><u>Quick Setup for MediaTek's USB VCOM Drivers – Download Now!</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/ultimate-review-of-the-lenovo-thinkpad-x1-titanium-yoga-ideal-2-in-1-laptop-for-loyal-thinkpad-enthusiasts/"><u>Ultimate Review of the Lenovo ThinkPad X1 Titanium Yoga - Ideal 2-in-1 Laptop for Loyal ThinkPad Enthusiasts</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-convert-and-share-with-ease-selecting-the-top-flv-to-youtube-applications/"><u>[New] 2024 Approved Convert & Share with Ease Selecting the Top FLV-to-YouTube Applications</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-practices-in-converting-images-to-videos/"><u>2024 Approved Best Practices in Converting Images to Videos</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-oppo-reno-10-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Oppo Reno 10 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/bringing-pc-content-to-large-screens-with-chromecast-a-windows-users-handbook/"><u>Bringing PC Content to Large Screens with Chromecast - A Windows User's Handbook</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ch340g-driver-update-and-install-guide-for-windows-10-users-free-downloads-available/"><u>CH340G Driver Update & Install Guide for Windows 10 Users: Free Downloads Available</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-amd-radeon-driver-compatible-with-windows-7/"><u>Download AMD Radeon Driver: Compatible with Windows 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-tutorial-how-to-install-latest-ati-driver-for-windows-users/"><u>Easy Tutorial: How to Install Latest ATI Driver for Windows Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-connection-mastering-the-scansnap-s1100-drivers-update-process/"><u>Effortless Connection: Mastering the Scansnap S1100 Drivers Update Process</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-amd-radeon-graphics-cards-up-to-date-on-windows-groovy-8-without-spending-a-penny/"><u>Get Your AMD Radeon Graphics Cards Up to Date on Windows Groovy 8 Without Spending a Penny</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-hand-on-free-qualcomm-atheros-ar938x-drivers-quick-and-simple-download-guide/"><u>Get Your Hand on Free Qualcomm Atheros AR938X Drivers - Quick & Simple Download Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-ensure-optimal-performance-updating-razer-blackwidows-controller-drivers/"><u>How to Ensure Optimal Performance: Updating Razer BlackWidow's Controller Drivers</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/incorporating-real-time-photos-into-team-conversations-for-2024/"><u>Incorporating Real-Time Photos Into Team Conversations for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/pro-tools-review-rising-above-sharex-for-2024/"><u>Pro Tools Review - Rising Above ShareX for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-9-key-considerations-before-investing-in-a-dashboard-recorder/"><u>The Ultimate Guide: 9 Key Considerations Before Investing in a Dashboard Recorder</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-iphone-applications-of-2023-as-recommended-by-apple-a-comprehensive-guide-zdnet/"><u>Top Rated iPhone Applications of 2023 as Recommended by Apple: A Comprehensive Guide - ZDNet</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/top-techniques-to-preserve-and-store-mov-files-on-windows-pcs-for-2024/"><u>Top Techniques to Preserve and Store Mov Files on Windows PCs for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-convenience-how-to-get-and-install-a-samsung-usb-driver-on-your-windows-10-pc/"><u>Ultimate Convenience: How to Get and Install a Samsung USB Driver on Your Windows 10 PC</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unboxing-the-ultimate-bargain-in-depth-look-at-the-tcl-50s425s-features-performance-and-quality-roku-2019-review/"><u>Unboxing the Ultimate Bargain: In-Depth Look at the TCL 50S425's Features, Performance & Quality (Roku 2019) Review</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/wacom-intuos-3-drivers-download-in-windows-work-100/"><u>Wacom Intuos 3 Drivers Download in Windows – [Work 100%]</u></a></li>
 </ul></div>
 

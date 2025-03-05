@@ -1,7 +1,7 @@
 ---
 title: Tech Enthusiasts Intrigued by Newly Teased GPD Laptop with Dual OLED Displays vs ASUS ZenBook Duo
-date: 2024-08-19T04:34:31.343Z
-updated: 2024-08-20T04:34:31.343Z
+date: 2025-03-02T04:02:55.100Z
+updated: 2025-03-04T22:46:47.871Z
 tags:
   - laptop
 categories:
@@ -82,9 +82,6 @@ It's rare that my lasting impression about a laptop is all about style, but here
 | **Weight**                | 3.31 pounds (1.5 kg)                                                                         |
 | **Price (as configured)** | $1,699.99                                                                                    |
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Productivity Performance on the Asus Zenbook S16
 
  This review happens to be our first look at AMD's new Ryzen AI 9 HX 370, one of the company's very lengthily-named processors in its "Strix Point" lineup. This chip has four Zen 5 cores and eight Zen 5c cores (for a total of 12 cores). It has a base clock of 2 GHz and a max boost of up to 5.1 GHz. As chip companies attempt to one-up each other on AI, AMD is packing 50 TOPS in its NPU, surpassing the 45 TOPS in the Qualcomm Snapdragon X Elite and X Plus (the chip as a whole goes up to 80 TOPS).
@@ -99,9 +96,6 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -144,18 +138,12 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
 ![Asus Zenbook S16](https://cdn.mos.cms.futurecdn.net/FjNRA9Vy2XgumK64KwiTCT-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Asus's 16-inch panel covers 79.7% of the color gamut (113%[sRGB](https://tools.techidaily.com) ), in range of both the MacBook Air and the HP OmniBook X. The 16-inch MacBook Air's mini-LED display and HP Spectre x360's OLED screen were both more vivid.
 
  At 357 nits, I found the Zenbook 16 to be usable, but competitors do better. The 16-inch MacBook Pro was the brightest at 563 nits, and both the MacBook Air (476.4 nits) and HP Spectre x360 366.2 nits were also brighter.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Keyboard and Touchpad on the Asus Zenbook S16
 
  Despite just 1.1 mm travel, the Zenbook S16’s keyboard is snappy. Don't get me wrong, it's still a membrane keyboard, but it's relatively comfortable and even has a bit of bounce. On monkeytype, I hit 112 words per minute with a 2% error rate, which isn't my best, but is pretty close.
@@ -172,14 +160,6 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
  Asus also includes its Asus Pen 2.0 — a stylus with 4,096 degrees of pressure sensitivity — in the box with the laptop. It's a nice add-on, I suppose. But it’s an odd fit for this clamshell laptop, particularly considering the display doesn't fold flat.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## Audio on the Asus Zenbook S16
 
  The Zenbook S16 trades volume for detail. Don't get me wrong, it's loud enough, especially if you're sitting right in front of it, but it didn't quite fill an entire meeting room with sound. But when I was listening to Charli XCX's "Von dutch," I was surprised to hear a bit of bass. The speakers, tuned with Dolby Atmos, sounded great when I switched from "balanced" to "detailed," with clear vocals, pounding drums and whirring synths.
@@ -192,9 +172,6 @@ There isn't much to upgrade or repair on the Zenbook S16.
 
 ![Asus Zenbook S16](https://cdn.mos.cms.futurecdn.net/ecmzqwkBMqHc5j2cTa5SPS-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Once you're in, there are two parts you could replace. The first is the battery, which takes up most of the room inside the system. The other is the SSD. Despite the size of the laptop, there isn't a secondary M.2 slot, so you'll have to replace the drive if you want more storage space. The wireless module and RAM are soldered to the motherboard.
@@ -205,27 +182,18 @@ There isn't much to upgrade or repair on the Zenbook S16.
 
 ![Asus Zenbook S16](https://cdn.mos.cms.futurecdn.net/qUjejmtkRBhxMYbsPzPwHT-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  The AMD-based Zenbook ran for 11 hours and 35 minutes on our battery test, which involves web browsing, OpenGL tests, and video streaming over Wi-Fi with the screen set to 150 nits. Only the Spectre x360, with Intel Core Ultra, did worse at 11:01 (and that's not far behind, especially considering that laptop has a smaller battery than the Zenbook).
 
  But the MacBook Air M3 (15:03), HP OmniBook X on a Snapdragon X Elite (16:18), and the 16-inch MacBook Pro lasted an incredible 17:11.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Heat on the Asus Zenbook S16
 
  During our ten runs of Cinebench 2024, we took skin temperature measurements to see how the Zenbook performs under an intense workload.
 
  The keyboard hit a warm (but not uncomfortable) 99.5 degrees Fahrenheit, while the touchpad stayed cool at 87.4 F. The hottest point on the top on the grille at 110 F, but that's not usually a place you put your hands. On the bottom, the hottest touchpoint, near the ventilation, was at 116.2 F.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Webcam on the Asus Zenbook S16
 
  There's a 1080p webcam on the Zenbook S16's top bezel. While it's color-accurate, catching the exact shade of green in my shirt and the blue in my mesh office chair, some details, like my hair, came across a bit fuzzy.
@@ -250,9 +218,6 @@ There isn't much to upgrade or repair on the Zenbook S16.
 
  A cheaper version[sold at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fshop-links.co%2Flink%3Fpublisher%255Fslug%3Dfuture%26exclusive%3D1%26u1%3Dtomshardware-us-4910217774050973812%26url%3Dhttps%253A%252F%252Fwww.bestbuy.com%252Fsite%252Fasus-zenbook-s-16-16-3k-oled-touch-screen-laptop-amd-ryzen-ai-9-365-24gb-memory-1tb-ssd-scandinavian-white%252F6584435.p%26article%255Fname%3DAsus%2520Zenbook%2520S16%2520review%253A%2520AMD%2520Ryzen%2520AI%25209%2520HX%2520370%2520tested%2520%257C%2520Tom%27s%2520Hardware%26article%255Furl%3Dhttps%253A%252F%252Fwww.tomshardware.com%252Flaptops%252Fgaming-laptops%252Fasus-zenbook-s16-amd-ryzen-ai-9-hx-370-review) is $1,399.99 with a Ryzen AI 9 HX 365 and 24GB of memory, as well as a white chassis.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Bottom Line
 
  The Asus Zenbook S16 is a solid showcase for AMD's new AI-focused processors, even if AI applications themselves aren't quite ready to excite most people.
@@ -279,8 +244,6 @@ There isn't much to upgrade or repair on the Zenbook S16.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -288,4 +251,17 @@ There isn't much to upgrade or repair on the Zenbook S16.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-the-ultimate-compilation-top-6-downloader-apps-for-facebooks-lite-version/"><u>[Updated] In 2024, The Ultimate Compilation Top 6 Downloader Apps for Facebook's Lite Version</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-htc-u23-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-revamping-video-meeting-banners-for-teammates/"><u>In 2024, Revamping Video Meeting Banners for Teammates</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/in-depth-look-at-the-average-performing-viewsonic-va1655-portable-monitor/"><u>In-Depth Look at the Average Performing ViewSonic VA1655 Portable Monitor</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/raphic-hottest-social-media-trends-that-will-take-over-2023-for-2024/"><u>Infographic - Hottest Social Media Trends That Will Take Over 2023 for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-gadgets-and-gizmos-at-toms-hardware-hub/"><u>Mastering Gadgets and Gizmos at Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-gadgets-the-ultimate-resource-from-toms-hardware/"><u>Mastering Gadgets: The Ultimate Resource From Tom's Hardware</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/movaviasf/"><u>Movaviで簡単なASF形式の無料オンライン変換 - スムーズな音楽と動画編集</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-high-performance-systems-at-toms-equipment-forum/"><u>Navigating High-Performance Systems at Tom's Equipment Forum</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175702238-stay-cool-with-style-grab-your-essential-top-tier-arctic-aio-cooler-now-and-save-big-with-just-a-74-payment/"><u>Stay Cool with Style: Grab Your Essential, Top-Tier Arctic AIO Cooler Now and Save Big with Just a $74 Payment</u></a></li>
+</ul></div>
 

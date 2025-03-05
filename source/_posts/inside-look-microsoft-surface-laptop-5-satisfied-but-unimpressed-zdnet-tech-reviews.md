@@ -1,7 +1,7 @@
 ---
 title: "Inside Look: Microsoft Surface Laptop 5 - Satisfied but Unimpressed | ZDNet Tech Reviews"
-date: 2025-02-14T04:34:33.408Z
-updated: 2025-02-16T06:20:43.341Z
+date: 2025-02-27T17:09:31.805Z
+updated: 2025-03-05T05:50:18.619Z
 tags:
   - laptops
 categories:
@@ -40,10 +40,6 @@ All of the precision-machined cases and blazing-fast performance here couldn't m
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Specifications
 
 | Processor       | 12th-Gen Intel Core i5 or Core i7                                                          |
@@ -56,10 +52,6 @@ All of the precision-machined cases and blazing-fast performance here couldn't m
 | Connectivity    | Wi-Fi 6, Bluetooth 5.1                                                                     |
 | Ports           | 1 x USB-C 4.0/Thunderbolt 4, 1 x USB-A 3.1, 3.5mm headphone jack, 1 x Surface Connect Port |
 | Size and weight | 12.1 L x 8.8 W x .57 H inches, 2.8 lbs                                                     |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How's the build quality?
 
@@ -139,10 +131,6 @@ This might be forgivable in a budget model. But even the base config [Surface La
 
 **More: [The 10 best webcams: Join your next Zoom call in HD](https://www.zdnet.com/article/best-webcam/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Performance and battery life
 
 Unlike on many other laptops I've tested recently, the keyboard deck remained entirely cool, no matter how hard I pushed the laptop.
@@ -165,19 +153,11 @@ Overall, I'd have no qualms about leaving my charger at home and expecting to ge
 
 [Microsoft Surface Laptop 5 $1,117 at Walmart](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F1738938556&subId1=zd-__COM_CLICK_ID__-dtp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Bottom line
 
 I may seem like I had high standards for this review, and I did. This is a flagship laptop from the company that makes Windows, after all. While those resources and ability to optimize for its own OS did show in aspects like the [Surface Laptop 5](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Lightweight-Processor-Multi-Tasking%2Fdp%2FB0B8Q8GFMM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc6fbb856-6656-4200-96bf-59e251b1e7c2%7Cdtp&dtb=1)'s consistently excellent build quality and performance, it faltered when it came to basic modern necessities like a decent webcam and a contemporary display layout. 
 
 If you never videoconference or if wasted space around your display doesn't bother you, you're looking at the best Windows laptop you could buy right now. Even if those things do irk a bit, I'd recommend balancing them against the exceptional performance, build, and aesthetics. The Surface Laptop 5 is frustratingly close to being that universal leader among Windows portables that Microsoft wants it to be. But, if Microsoft wants that crown, I hope it updates the components that held this generation back when it comes time to design the Surface Laptop 6.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -227,24 +207,22 @@ Dell's latest entry in the XPS 13 lineup looks like it comes from further down t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-android-and-iphone-select-top-tier-mobile-multimedia-tools/"><u>[New] Android & iPhone Select Top-Tier Mobile Multimedia Tools</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-instagram-and-soundtracks-demystifying-legalities/"><u>[New] Instagram & Soundtracks Demystifying Legalities</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-checklist-for-professional-macro-videographers/"><u>[Updated] The Ultimate Checklist for Professional Macro Videographers</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-video-show-revamp-complete-analysis-and-guide/"><u>2024 Video Show Revamp - Complete Analysis & Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/acer-monitor-drivers-find-download-and-install-correctly-today/"><u>Acer Monitor Drivers - Find, Download & Install Correctly Today</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/brother-hl-l2340dw-printer-drivers-direct-download-links-for-windows-users-looking-to-improve-their-print-experience/"><u>Brother HL-L2340DW Printer Drivers: Direct Download Links for Windows Users Looking to Improve Their Print Experience</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ct-cost-effective-seminars-using-youtube-for-2024/"><u>Conduct Cost-Effective Seminars Using YouTube for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/corsair-h80i-v2-latest-driver-installation-guide-and-download-links/"><u>Corsair H80i v2: Latest Driver Installation Guide and Download Links</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-acers-latest-wifi-drivers-for-free-fast-and-simple-setup/"><u>Download Acer's Latest WiFi Drivers for Free - Fast and Simple Setup</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/explore-our-top-picks-the-15-best-free-bootable-anti-virus-solutions-available-online/"><u>Explore Our Top Picks: The 15 Best Free Bootable Anti-Virus Solutions Available Online</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/find-and-install-the-newest-printer-driver-for-your-epson-wf-2760-on-windows-81011/"><u>Find and Install the Newest Printer Driver for Your Epson WF-2760 on Windows 8/10/11</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-xiaomi-redmi-k70e-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Xiaomi Redmi K70E IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-unveiling-the-art-of-youtube-split-screens/"><u>In 2024, Unveiling the Art of YouTube Split-Screens</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-up-to-date-drivers-for-your-hp-elitebook-x360-model-1030-g2/"><u>Install Up-to-Date Drivers for Your HP EliteBook X360 Model 1030 G2</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/installing-official-dell-bluetooth-software-and-driver-packs-for-windows-systems/"><u>Installing Official Dell Bluetooth Software & Driver Packs for Windows Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/techkey-bluetooth-adapter-software-downloads-supported-by-windows-10-7-and-8-systems/"><u>Techkey Bluetooth Adapter Software Downloads – Supported by Windows 10, 7, and 8 Systems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unbeatable-labor-day-blowout-grab-your-discounted-2astoffer-at-zdnet-for-up-to-700-off-the-latest-ipad-pro/"><u>Unbeatable Labor Day Blowout: Grab Your Discounted 2Astoffer at ZDNet for Up to $700 Off the Latest iPad Pro</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlock-full-potential-of-your-pc-get-the-newest-asus-z170-a-driver-software-supporting-windows-10-8-and-7/"><u>Unlock Full Potential of Your PC: Get the Newest ASUS Z170-A Driver Software Supporting Windows 10, 8 & 7</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/why-youll-love-the-curves-of-samsung-ru7300-our-expert-take-on-this-stunning-55-smart-led-tv/"><u>Why You'll Love the Curves of Samsung RU7300 - Our Expert Take on This Stunning 55 Smart LED TV</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-twitter-for-tiktok-content-sharing-strategies-for-2024/"><u>[New] Twitter for TikTok Content Sharing Strategies for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-expert-iphone-macro-photography-tips-and-tricks/"><u>[Updated] 2024 Approved Expert iPhone Macro Photography Tips and Tricks</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-celebrity-quick-shot-analysis/"><u>[Updated] Celebrity Quick Shot Analysis</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-picsart-masterclass-full-analysis-tutorial-and-review-for-the-year-2024/"><u>[Updated] PicsArt Masterclass Full Analysis, Tutorial & Review for the Year 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/cutting-edge-8-cameras-for-professional-broadcasts/"><u>Cutting-Edge 8 Cameras for Professional Broadcasts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-steps-to-upgrade-epson-wf-7720-driver-on-your-windows-device/"><u>Easy Steps to Upgrade Epson WF-7720 Driver on Your Windows Device</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-fix-windows-11-usb-detection-issues-a-complete-guide/"><u>How to Fix Windows 11 USB Detection Issues: A Complete Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-latest-logitech-g602-mouse-software-on-your-windows-computer/"><u>How to Get the Latest Logitech G602 Mouse Software on Your Windows Computer</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-realme-narzo-60-5g-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Realme Narzo 60 5G is off? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtubes-music-magic-best-free-tools-for-wav-conversion/"><u>In 2024, YouTube's Music Magic Best Free Tools for WAV Conversion</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-current-graphics-drivers-for-your-nvidia-card-gtx-1-series-on-windows-1011-easy-tutorial-and-downloads/"><u>Install Current Graphics Drivers for Your NVIDIA® Card (GTX 1 Series) on Windows 10/11: Easy Tutorial and Downloads</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/ios-guide-your-step-by-step-vr-video-experience-for-2024/"><u>IOS Guide Your Step-by-Step VR Video Experience for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/qualcomm-atheros-ar956x-wireless-adapter-driver-download/"><u>Qualcomm Atheros AR956x Wireless Adapter Driver Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-download-hid-keyboard-driver-support-update-with-ease-today/"><u>Quick-Download HID Keyboard Driver Support - Update with Ease Today!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-fix-hid-keyboard-installation-and-driver-updates-made-simple/"><u>Quick-Fix HID Keyboard Installation & Driver Updates Made Simple</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722976117358-successful-guide-installing-the-epson-xp-830-printer-driver-no-more-hassles/"><u>Successful Guide: Installing the Epson XP-830 Printer Driver - No More Hassles</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-realme-c33-2023-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Realme C33 2023 Phones</u></a></li>
 </ul></div>
 

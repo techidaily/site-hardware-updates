@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide to the Best 15-Inch Portable PCs : Rigorous Analysis and Ratings"
-date: 2025-02-15T02:55:02.997Z
-updated: 2025-02-15T22:14:31.590Z
+date: 2025-03-03T23:32:23.876Z
+updated: 2025-03-04T21:52:11.069Z
 tags:
   - laptops
 categories:
@@ -44,10 +44,6 @@ Cons
 * Incompatible with discrete GPUs
 
 ## Lenovo ThinkPad Z13
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best Linux laptop overall
 
@@ -103,10 +99,6 @@ Cons
 * May feel fragile to some users
 * Somewhat short battery life
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Acer Swift Edge
 
 ### Best AMD-based Linux laptop
@@ -135,10 +127,6 @@ Cons
 * Expensive
 * No AMD option
 * No 4K or touchscreen display options
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## MSI Stealth Studio AI
 
@@ -169,10 +157,6 @@ Cons
 * Somewhat thick and heavy design
 
 ## Microsoft Surface Laptop Studio 2
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best battery life in a Linux laptop
 
@@ -225,10 +209,6 @@ What makes a machine worthy of belonging to the best Linux laptop list? Obviousl
 * **Cost:** Since Linux can run on just about any laptop as long as the hardware is supported, you can choose an older model (or even a used one) to load the operating system onto. This means you can save money on upgrades, especially if you're just starting out learning Linux.
 * **Open-source support:** Linux is an open-source operating system. You can find tons of online communities dedicated to learning Linux, tweaking source code, and reporting issues.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How did we choose these Linux laptops?
 
 While we were researching and testing each Linux-compatible laptop on this list, we kept these criteria in mind:
@@ -253,29 +233,17 @@ The biggest hurdles you'll have to face when using Linux over Windows or MacOS a
 
 **Also:** [**Windows, Mac, or Linux? We compare the pros and cons of these computing platforms**](https://www.zdnet.com/article/windows-mac-or-linux-we-compare-the-pros-and-cons-of-these-computing-platforms/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What does "open-source" mean?
 
 When talking about programming and coding, you may come across the term "open-source." This just means that the original code for a program (like Linux or VLC Media Player) is freely available to the public for downloading, distribution, and modifying. 
 
 Linux is popular with programmers since it is open-source, which means that it's easy to try and make your own modifications or command lists. Or you can work together with the Linux community to resolve common bug issues or create new support programs for hardware like Apple's M3 Silicon Chips. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What's the oldest computer you can run with Linux?
 
 The great thing about Linux is that it is an open source operating system. Which means there are a lot of different versions out there on forums and also the Internet Archive. And since there are so many different release versions, newcomers looking to save money on their first dedicated or dual-boot Linux machine can pick up a vintage computer at a thrift store, estate sale, or other secondhand store and likely find an operating system version that will run with it.
 
 A thread on the [Linux Mint Forums](https://forums.linuxmint.com/viewtopic.php?t=228393) is full of users who were able to use various versions of Linux Mint as well as Puppy (a version of Linux designed to be run from a flash drive, making it great for hobbyists who restore vintage tech) and Ubuntu on Windows Vista and Windows 98 computers (which intrepid tech hunters may be able to find for a bargain at a thrift store or secondhand online). And Tech Tangents on YouTube, a channel dedicated to restoring and archiving retro computer hardware and software, was able to revive a [TeleVideo 950 terminal](https://www.youtube.com/watch?v=ob7cEzXLxXU) that was originally released in 1980 and use a version of Linux on it. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## More Linux laptops we tested
 
@@ -323,22 +291,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-ultra-fast-instagram-video-views-for-smartphone-users/"><u>[New] 2024 Approved Ultra-Fast Instagram Video Views for Smartphone Users</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-charting-a-course-through-websites-of-youtube-affiliates/"><u>[Updated] In 2024, Charting a Course Through Websites of YouTube Affiliates</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-stunning-appraisal-and-alternative-suggestions/"><u>[Updated] Stunning Appraisal & Alternative Suggestions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/best-free-download-of-focusrite-scarlett-solo-for-windows-users/"><u>Best Free Download of Focusrite Scarlett Solo for Windows Users!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/correct-procedure-for-installing-new-drivers-on-dell-webcams/"><u>Correct Procedure for Installing New Drivers on Dell Webcams</u></a></li>
-<li><a href="https://games-able.techidaily.com/does-am08-pro-boost-validity-of-acemagic-gameplay/"><u>Does AM08 Pro Boost Validity of AceMagic Gameplay?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-update-of-nvidia-1080-graphics-driver-on-windows-11-systems/"><u>Effortless Update of NVIDIA 1080 Graphics Driver on Windows 11 Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-download-complete-drivers-and-software-for-logitech-k400-plus-keyboard/"><u>Free Download: Complete Drivers & Software for Logitech K400 Plus Keyboard</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-connect-psvr-to-a-pc/"><u>How to Connect PSVR to a PC</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-latest-razer-software-updates-on-your-pc-windows-10-8-7-xp-or-vista/"><u>How to Get the Latest Razer Software Updates on Your PC: Windows 10, 8, 7, XP, or Vista</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-oneplus-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on OnePlus?</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-master-recommendations-best-audio-crafting-pros/"><u>In 2024, Master Recommendations Best Audio Crafting Pros</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/keep-up-to-date-secure-download-of-updated-epson-wf-3520-drivers-for-seamless-windows-printing-experience/"><u>Keep Up to Date: Secure Download of Updated Epson WF-3520 Drivers for Seamless Windows Printing Experience</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-toshiba-silvertown-graphics-card-drivers-for-windows-users/"><u>Latest Toshiba SILVERTOWN Graphics Card Drivers for Windows Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-on-downloading-windows-7-compatible-keyboard-drivers/"><u>Step-by-Step Tutorial on Downloading Windows 7 Compatible Keyboard Drivers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/the-ultimate-tutorial-transferring-youtube-videos-to-dailymotion-for-2024/"><u>The Ultimate Tutorial Transferring YouTube Videos to Dailymotion for 2024</u></a></li>
-<li><a href="https://win-latest.techidaily.com/top-7-superior-video-conferencing-tools-for-efficient-telecommuting/"><u>Top 7 Superior Video Conferencing Tools for Efficient Telecommuting</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-from-youtube-to-avi-perfect-conversion-tools-revealed/"><u>[Updated] From YouTube to AVI Perfect Conversion Tools Revealed</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-empowering-your-brand-top-20-strategies-for-high-impact-fb-video-campaigns/"><u>[Updated] In 2024, Empowering Your Brand Top 20 Strategies for High-Impact FB Video Campaigns</u></a></li>
+<li><a href="https://win-help.techidaily.com/comment-sauvegarder-windows-11-et-ses-fichiers-sur-google-drive/"><u>Comment Sauvegarder Windows 11 Et Ses Fichiers Sur Google Drive</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-best-no-cost-internet-telephony-apps-for-202/"><u>Discover the Best No-Cost Internet Telephony Apps for 202</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-your-system-performance-targus-displaylink-driver-updates-for-win-1187-download/"><u>Enhance Your System Performance: Targus DisplayLink Driver Updates for Win 11/8/7 - Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-advice-easily-update-your-ati-graphic-cards-drivers-for-windows-computers/"><u>Expert Advice: Easily Update Your ATI Graphic Cards' Drivers for Windows Computers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-new-insignia-ethernet-usb-cable-driver-for-seamless-connection/"><u>Get the New Insignia Ethernet-USB Cable Driver for Seamless Connection</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/logitech-speaker-system-drivers-installation-guide-for-windows-10windows-8windows-(span)7(span)/"><u>Logitech Speaker System Drivers Installation Guide for Windows 10/Windows 8/Windows <Span>7</Span></u></a></li>
+<li><a href="https://win-help.techidaily.com/mastering-image-transformation-in-flipbuilder-tips-for-efficacious-image-rotation/"><u>Mastering Image Transformation in FlipBuilder - Tips for Efficacious Image Rotation</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-microsoft-flight-simulator-2es-recurring-pc-shutdowns-and-crashes/"><u>Troubleshooting Guide: Microsoft Flight Simulator 2E's Recurring PC Shutdowns & Crashes</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unbiased-review-how-to-use-filmora-for-free-without-risks/"><u>Unbiased Review How to Use Filmora for Free Without Risks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlock-high-quality-audio-on-pc-free-focusrite-scarlett-solo-windows-software/"><u>Unlock High-Quality Audio on PC: Free Focusrite Scarlett Solo Windows Software</u></a></li>
 </ul></div>
 

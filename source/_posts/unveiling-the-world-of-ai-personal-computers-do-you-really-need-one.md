@@ -1,7 +1,7 @@
 ---
 title: Unveiling the World of AI Personal Computers – Do You Really Need One?
-date: 2024-08-19T04:33:55.494Z
-updated: 2024-08-20T04:33:55.494Z
+date: 2025-03-02T23:47:26.636Z
+updated: 2025-03-04T21:36:15.027Z
 tags:
   - laptop
 categories:
@@ -82,9 +82,6 @@ It's rare that my lasting impression about a laptop is all about style, but here
 | **Weight**                | 3.31 pounds (1.5 kg)                                                                         |
 | **Price (as configured)** | $1,699.99                                                                                    |
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Productivity Performance on the Asus Zenbook S16
 
  This review happens to be our first look at AMD's new Ryzen AI 9 HX 370, one of the company's very lengthily-named processors in its "Strix Point" lineup. This chip has four Zen 5 cores and eight Zen 5c cores (for a total of 12 cores). It has a base clock of 2 GHz and a max boost of up to 5.1 GHz. As chip companies attempt to one-up each other on AI, AMD is packing 50 TOPS in its NPU, surpassing the 45 TOPS in the Qualcomm Snapdragon X Elite and X Plus (the chip as a whole goes up to 80 TOPS).
@@ -95,23 +92,14 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -132,9 +120,6 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
 ![Asus Zenbook S16](https://cdn.mos.cms.futurecdn.net/kyTb4Yk4LUiQN83wEJXLtQ-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  In a reviewer's guide sent to the press, AMD suggested a number of applications to try that make use of local AI. Chief among them was a beta of Amuse 2.0, which includes image generation with Stable Diffusion, as well as paint-to-image features that are very similar to image creator in Paint on Copilot Plus PCs (though that uses DALL-E). In a way, this app, made to work well with AMD's hardware, can fill in the blanks until[Microsoft](https://tools.techidaily.com) adds Copilot Plus features to Ryzen AI laptops.
@@ -179,9 +164,6 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
  The Zenbook S16 trades volume for detail. Don't get me wrong, it's loud enough, especially if you're sitting right in front of it, but it didn't quite fill an entire meeting room with sound. But when I was listening to Charli XCX's "Von dutch," I was surprised to hear a bit of bass. The speakers, tuned with Dolby Atmos, sounded great when I switched from "balanced" to "detailed," with clear vocals, pounding drums and whirring synths.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ## Upgradeability of the Asus Zenbook S16
 
 There isn't much to upgrade or repair on the Zenbook S16.
@@ -194,9 +176,6 @@ There isn't much to upgrade or repair on the Zenbook S16.
 
  Once you're in, there are two parts you could replace. The first is the battery, which takes up most of the room inside the system. The other is the SSD. Despite the size of the laptop, there isn't a secondary M.2 slot, so you'll have to replace the drive if you want more storage space. The wireless module and RAM are soldered to the motherboard.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Battery Life on the Asus Zenbook S16
 
  While the Zenbook S16 will likely last you an entire workday, the new Asus device didn't last as long on a charge as competitors based on Arm platforms.
@@ -209,9 +188,6 @@ There isn't much to upgrade or repair on the Zenbook S16.
 
  But the MacBook Air M3 (15:03), HP OmniBook X on a Snapdragon X Elite (16:18), and the 16-inch MacBook Pro lasted an incredible 17:11.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Heat on the Asus Zenbook S16
 
  During our ten runs of Cinebench 2024, we took skin temperature measurements to see how the Zenbook performs under an intense workload.
@@ -236,18 +212,12 @@ There isn't much to upgrade or repair on the Zenbook S16.
 
  Asus sells the Zenbook S16 with a one-year warranty. A card included in the box offers one free year of accidental damage protection in exchange for registering the laptop.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Asus Zenbook S16 Configurations
 
  We tested the Asus Zenbook S16 with an AMD Ryzen AI 9 HX 370, 32GB of RAM, and a 1TB SSD, which goes for $1,699.99.
 
  A cheaper version[sold at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fshop-links.co%2Flink%3Fpublisher%255Fslug%3Dfuture%26exclusive%3D1%26u1%3Dtomshardware-us-4910217774050973812%26url%3Dhttps%253A%252F%252Fwww.bestbuy.com%252Fsite%252Fasus-zenbook-s-16-16-3k-oled-touch-screen-laptop-amd-ryzen-ai-9-365-24gb-memory-1tb-ssd-scandinavian-white%252F6584435.p%26article%255Fname%3DAsus%2520Zenbook%2520S16%2520review%253A%2520AMD%2520Ryzen%2520AI%25209%2520HX%2520370%2520tested%2520%257C%2520Tom%27s%2520Hardware%26article%255Furl%3Dhttps%253A%252F%252Fwww.tomshardware.com%252Flaptops%252Fgaming-laptops%252Fasus-zenbook-s16-amd-ryzen-ai-9-hx-370-review) is $1,399.99 with a Ryzen AI 9 HX 365 and 24GB of memory, as well as a white chassis.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Bottom Line
 
  The Asus Zenbook S16 is a solid showcase for AMD's new AI-focused processors, even if AI applications themselves aren't quite ready to excite most people.
@@ -274,8 +244,6 @@ There isn't much to upgrade or repair on the Zenbook S16.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -283,4 +251,21 @@ There isn't much to upgrade or repair on the Zenbook S16.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-cutting-edge-techniques-for-channel-management-on-yt-hub/"><u>[New] 2024 Approved Cutting-Edge Techniques for Channel Management on YT Hub</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-basic-story-blueprint/"><u>[New] Basic Story Blueprint</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-enhance-your-viewing-pleasure-with-top-windows-vids/"><u>[New] In 2024, Enhance Your Viewing Pleasure with Top Windows Vids</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-mastering-webinar-capture-straightforward-steps-for-os-xwindows/"><u>[Updated] In 2024, Mastering Webinar Capture Straightforward Steps for OS X/Windows</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-top-10-smartphones-with-ois-for-shooting-smooth-videos/"><u>[Updated] Top 10 Smartphones with OIS for Shooting Smooth Videos</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/efficient-and-trustworthy-in-depth-analysis-of-the-audew-mini-compressor-unit/"><u>Efficient and Trustworthy: In-Depth Analysis of the Audew Mini Compressor Unit</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/elite-snapdragon-powered-laptops-surpassing-expectations-with-over-15h-battery-life-how-they-stack-up-against-intel-competitors/"><u>Elite Snapdragon-Powered Laptops Surpassing Expectations with Over 15H Battery Life: How They Stack Up Against Intel Competitors</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-deal-m3-macbook-air-with-16gb-ram-and-13-display-now-at-just-1149/"><u>Exclusive Deal: M3 MacBook Air with 16GB RAM and 13 Display Now at Just $1,149</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-next-gen-portability-and-potent-performance-how-lenovos-thoughtpad-p1-gen-achieves-the-impossible-with-cutting-edge-lpcamm2-memory/"><u>Experience Next-Gen Portability & Potent Performance - How Lenovo's ThoughtPad P1 Gen ^ Achieves the Impossible With Cutting-Edge LPCAMM2 Memory</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-next-level-gaming-the-lenovo-legion-slim-5-boosted-by-the-powerful-rtx-4060-gpu-all-for-only-899/"><u>Experience Next-Level Gaming: The Lenovo Legion Slim 5, Boosted by the Powerful RTX 4060 GPU - All For Only $899!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-the-next-gen-ryzen-ai-300-laptops-available-july-28-at-best-buy-pre-order-now/"><u>Experience the Next-Gen Ryzen AI 300 Laptops: Available July 28 at Best Buy - Pre-Order Now</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-techniques-efficiently-collecting-photo-and-video-banners-for-2024/"><u>Expert Techniques Efficiently Collecting Photo and Video Banners for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-benefits-of-amazon-business-a-comprehensive-guide-by-zdnet/"><u>Exploring the Benefits of Amazon Business: A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Vivo X Fold 2 | Dr.fone</u></a></li>
+</ul></div>
 

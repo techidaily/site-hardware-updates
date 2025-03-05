@@ -1,7 +1,7 @@
 ---
 title: "Beyond ThinkPads and MacBooks: Discovering Exceptional Productivity Laptops for Power Users"
-date: 2025-02-13T00:08:23.725Z
-updated: 2025-02-15T18:17:07.670Z
+date: 2025-02-27T16:08:40.351Z
+updated: 2025-03-04T20:28:26.767Z
 tags:
   - laptops
 categories:
@@ -19,10 +19,6 @@ Kyle Kucharski/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -94,10 +90,6 @@ Instead, I see the Vivobook S 15 as a primary driver for remote workers or digit
 
 It also has a "full" keyboard (the number pad on the right side has slightly smaller keys, as typical for sub-16-inch machines), which is satisfying and responsive to typing on. The keyboard has colorful LED backlighting that can be configured in many different lights and effects, but again, this is not something that I would consider high on the priority list when optimizing battery life. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 The [Asus Vivobook S 15](https://www.awin1.com/awclick.php?mid=31828&id=423585&clickref=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&ued=https%3A%2F%2Fwww.asus.com%2Fus%2Flaptops%2Ffor-home%2Fvivobook%2Fasus-vivobook-s-15-s5507%2F) is a sleek and lightweight laptop with a gorgeous OLED display and solid battery life -- as long as you're mindful about your power usage. I'd recommend it to forward-thinking digital nomads who want a performant, AI-ready laptop with the blazing-fast Snapdragon X Elite processor. It's a solid investment for people who regularly swap between creative work, productivity software, and media. 
@@ -134,16 +126,22 @@ All things considered, the starting price of $1,299 is quite competitive for thi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-pro-tips-for-capturing-stunning-igtv-content-on-mobile-and-dslr/"><u>[New] 2024 Approved Pro Tips for Capturing Stunning IGTV Content on Mobile & DSLR</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-scoping-out-the-12-most-popular-flip-screen-video-cameras/"><u>[Updated] 2024 Approved Scoping Out the 12 Most Popular Flip-Screen Video Cameras</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-top-15-asmr-channels-to-follow/"><u>[Updated] Top 15 ASMR Channels to Follow</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-window-compatible-drivers-for-brother-hl-l2380dw-printer/"><u>Get the Latest Window Compatible Drivers for Brother HL-L2380DW Printer</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Nokia 105 Classic | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/insider-tips-what-you-need-to-know-before-trading-in-your-faulty-cellphones/"><u>Insider Tips: What You Need To Know Before Trading In Your Faulty Cellphones</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-your-brother-hl-228er-driver-on-windows-1110-easy-download-guide/"><u>Install Your Brother HL-228er Driver on Windows 11/10: Easy Download Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-hp-pagewide-477dw-printer-driver-software-for-modern-operating-systems/"><u>Latest HP PageWide 477DW Printer Driver Software for Modern Operating Systems</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/razer-blade-stealth-13-laptop-evaluation-revolutionizing-portable-power/"><u>Razer Blade Stealth 13 Laptop Evaluation: Revolutionizing Portable Power</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-guide-to-upgrading-your-samsung-phones-usb-connectivity-software/"><u>The Ultimate Guide to Upgrading Your Samsung Phone's USB Connectivity Software</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/upgrade-or-freshly-install-epson-tm-c88v-drivers-for-optimal-performance-windows-edition/"><u>Upgrade or Freshly Install EPSON TM-C88V Drivers for Optimal Performance - Windows Edition</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-mastering-youtube-channel-descriptions/"><u>2024 Approved Mastering YouTube Channel Descriptions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-xiaomi-redmi-note-13-pro-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Xiaomi Redmi Note 13 Pro 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bring-your-logitech-g430-microphone-back-to-life-essential-fixes-for-non-functional-issues/"><u>Bring Your Logitech G430 Microphone Back to Life: Essential Fixes for Non-Functional Issues</u></a></li>
+<li><a href="https://techtrends.techidaily.com/elevating-your-websites-visibility-through-advanced-cookiebot-tools/"><u>Elevating Your Website's Visibility Through Advanced Cookiebot Tools</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-roccat-mouse-driver-now-free-software-downloads-available/"><u>Get Your Roccat Mouse Driver Now – Free Software Downloads Available!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-find-and-update-toshiba-satellite-device-drivers-in-windows-1087/"><u>How to Find and Update Toshiba Satellite Device Drivers in Windows 10/8/7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-printer-enthusiasts-update-your-p1007-with-the-latest-drivers-here/"><u>HP Printer Enthusiasts, Update Your P1007 with the Latest Drivers Here</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-explore-20-most-shared-rap-tracks-on-social-media/"><u>In 2024, Explore 20 Most Shared Rap Tracks on Social Media</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-a-found-apple-iphone-14-plus-drfone-by-drfone-ios/"><u>In 2024, How To Unlock A Found Apple iPhone 14 Plus? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-nvidias-geforce-gtx-460-drivers-on-your-windows-pc-the-quick-and-easy-way/"><u>Installing NVIDIA's GeForce GTX 460 Drivers on Your Windows PC: The Quick and Easy Way</u></a></li>
+<li><a href="https://win-docs.techidaily.com/leading-seo-experts-based-in-jeddah-discover-top-rankings-with-seo-powersuites-assistance/"><u>Leading SEO Experts Based in Jeddah - Discover Top Rankings with SEO PowerSuite's Assistance</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-tech-choices-trustworthy-tips-from-toms-hardware-hub/"><u>Mastering Tech Choices: Trustworthy Tips From Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/revamp-your-windows-experience-integrating-updated-conexant-graphics-card-drivers-into-version-2004-of-windows-11/"><u>Revamp Your Windows Experience: Integrating Updated Conexant Graphics Card Drivers Into Version 2004 of Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-updating-the-driver-for-intels-centrino-advance-n-6235-chip/"><u>Step-by-Step Guide: Updating the Driver for Intel's Centrino Advance-N 6235 Chip</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-5-in-1-deal-get-iphone-ipad-apple-watch-airpods-plus-mac-for-less-than-one-vision-pro/"><u>Top 5-in-1 Deal: Get iPhone, iPad, Apple Watch, AirPods + Mac for Less Than One Vision Pro</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-asus-dvd-player-drivers-secure-your-system-now/"><u>Update Your ASUS DVD Player Drivers – Secure Your System Now</u></a></li>
 </ul></div>
 

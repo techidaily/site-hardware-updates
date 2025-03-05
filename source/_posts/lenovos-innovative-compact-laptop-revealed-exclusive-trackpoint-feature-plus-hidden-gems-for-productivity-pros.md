@@ -1,7 +1,7 @@
 ---
 title: "Lenovo’s Innovative Compact Laptop Revealed: Exclusive TrackPoint Feature + Hidden Gems for Productivity Pros!"
-date: 2025-02-15T00:49:36.714Z
-updated: 2025-02-16T03:07:22.353Z
+date: 2025-03-01T06:26:23.617Z
+updated: 2025-03-05T00:45:52.352Z
 tags:
   - laptops
 categories:
@@ -19,10 +19,6 @@ Kyle Kucharski/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -94,10 +90,6 @@ Instead, I see the Vivobook S 15 as a primary driver for remote workers or digit
 
 It also has a "full" keyboard (the number pad on the right side has slightly smaller keys, as typical for sub-16-inch machines), which is satisfying and responsive to typing on. The keyboard has colorful LED backlighting that can be configured in many different lights and effects, but again, this is not something that I would consider high on the priority list when optimizing battery life. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 The [Asus Vivobook S 15](https://www.awin1.com/awclick.php?mid=31828&id=423585&clickref=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&ued=https%3A%2F%2Fwww.asus.com%2Fus%2Flaptops%2Ffor-home%2Fvivobook%2Fasus-vivobook-s-15-s5507%2F) is a sleek and lightweight laptop with a gorgeous OLED display and solid battery life -- as long as you're mindful about your power usage. I'd recommend it to forward-thinking digital nomads who want a performant, AI-ready laptop with the blazing-fast Snapdragon X Elite processor. It's a solid investment for people who regularly swap between creative work, productivity software, and media. 
@@ -134,18 +126,19 @@ All things considered, the starting price of $1,299 is quite competitive for thi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-google-meet-entry-on-computersmobile-phones/"><u>[New] Google Meet Entry On Computers/Mobile Phones</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/bring-your-photos-to-life-a-detailed-ken-burns-effect-guide/"><u>Bring Your Photos to Life A Detailed Ken Burns Effect Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-apple-iphone-13-pro-max-is-off-drfone-by-drfone-virtual-ios/"><u>Can Life360 Track You When Your Apple iPhone 13 Pro Max is off? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-update-mpow-bluetooth-driver-supports-windows-11-8-and-7-systems/"><u>Download & Update MPOW Bluetooth Driver - Supports Windows 11, 8, & 7 Systems</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-tips-and-tricks-for-keeping-your-ati-radeon-drivers-current-in-windows-os/"><u>Easy Tips & Tricks for Keeping Your ATI Radeon Drivers Current in Windows OS</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-newest-razer-naga-software-updates-for-your-computer-running-windows/"><u>Get the Newest Razer Naga Software Updates for Your Computer Running Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-download-and-install-acer-paddriver-pro-the-ultimate-guide-for-windows-11-users/"><u>How to Download and Install Acer PadDriver Pro: The Ultimate Guide for Windows 11 Users</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-motorola-moto-g23-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Motorola Moto G23 Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/imovie-on-a-budget-the-best-free-online-video-editing-alternatives/"><u>IMovie on a Budget The Best Free Online Video Editing Alternatives</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/new-release-universal-bluetooth-adapter-software-update-for-pcs/"><u>New Release: Universal Bluetooth Adapter Software Update for PCs</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/secrets-to-watching-the-new-samsung-releases-live-from-anywhere-in-the-world/"><u>Secrets to Watching the New Samsung Releases Live From Anywhere in the World</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/secure-and-fast-corsair-keyboard-support-downloads-for-windows-no-cost-involved/"><u>Secure and Fast CORSAIR Keyboard Support Downloads for Windows - No Cost Involved</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-to-solving-beats-audio-driver-problems-in-hp-devices-on-windows-1187/"><u>Step-by-Step Guide to Solving Beats Audio Driver Problems in HP Devices on Windows 11/8/7</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-how-to-record-webcam-chat/"><u>[New] How to Record Webcam Chat</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-ultimate-timeline-tools-at-no-cost/"><u>[New] Ultimate Timeline Tools at No Cost</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unmatched-closure-in-cyberspace-quest/"><u>[New] Unmatched Closure in Cyberspace Quest</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-caramel-cam-chronicles-in-depth-analysis-and-instructions-for-ice-cream-recording-for-2024/"><u>[Updated] Caramel Cam Chronicles In-Depth Analysis & Instructions for Ice Cream Recording for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/arduino-uno-and-windows-compatibility-correcting-driver-errors-effectively/"><u>Arduino Uno and Windows Compatibility: Correcting Driver Errors Effectively</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-best-free-tunes-8-great-music-apps-for-ios/"><u>Discover the Best Free Tunes: 8 Great Music Apps for iOS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/essential-guide-finding-and-installing-hp-officejet-pro-8720-driver-version-for-window-users/"><u>Essential Guide: Finding & Installing HP OfficeJet Pro 8720 Driver Version for Window Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/getting-your-touchpad-back-to-life-winning-the-battle-against-broken-synaptic-drivers-in-windows-10/"><u>Getting Your Touchpad Back to Life: Winning the Battle Against Broken Synaptic Drivers in Windows 10</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-gionee-f3-pro-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Gionee F3 Pro to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-samsung-galaxy-xcover-6-pro-tactical-edition-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Samsung Galaxy XCover 6 Pro Tactical Edition with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-top-10-trends-in-effective-podcast-naming/"><u>In 2024, Top 10 Trends in Effective Podcast Naming</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/irreparable-harm-how-intel-fails-on-non-k-core-series-beyond-64w-due-to-persistent-cpu-malfunctions/"><u>Irreparable Harm: How Intel Fails on Non-K Core Series Beyond 64W Due to Persistent CPU Malfunctions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-logitech-g29-steering-wheel-driver-version-installation-guide-for-pcs/"><u>Latest Logitech G29 Steering Wheel Driver Version: Installation Guide for PCs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigate-the-new-nvidia-driver-landscape-downloading-and-installing-on-windows-11-systems/"><u>Navigate the New NVIDIA Driver Landscape: Downloading and Installing on Windows 11 Systems</u></a></li>
 </ul></div>
 

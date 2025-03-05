@@ -1,7 +1,7 @@
 ---
 title: Get the Ultimate Creator's Setup at Half Price! Dramatic $1,100 Discount on High-Performance Computers for Gamers and Producers – Spotted First on ZDNet.
-date: 2025-02-09T20:13:13.841Z
-updated: 2025-02-16T00:38:35.596Z
+date: 2025-03-04T02:09:38.519Z
+updated: 2025-03-04T18:24:04.594Z
 tags:
   - laptops
 categories:
@@ -19,10 +19,6 @@ Taylor Clemons/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ZDNET takeaways
 
@@ -78,10 +74,6 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 There is a lot that comes with the [SteelSeries Arena 9](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsteelseries-arena-9-5-1-bluetooth-gaming-speakers-with-rgb-lighting-6-piece-black%2F6515591.p%3FskuId%3D6515591&publisher_slug=itechdaily19598&exclusive=1), between the speakers and subwoofer, controller, and cables. It's easily one of the best-sounding systems I've tested, and the ability to tweak specific audio settings is game-changing. That said, if you mainly use a single platform like the PC or a console for gaming, you may want to opt for the smaller but still capable [Arena 7](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSteelSeries-Arena-Computer-Gaming-Speakers%2Fdp%2FB09KNYJL4R%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C22c5fe7d-cbeb-4b3f-a3b4-304bd4a85e4e%7Cdtp&dtb=1) instead, since it comes with a single pair of speakers and a subwoofer. It doesn't include a control dial like the Arena 9, but you can quickly adjust basic volume and bass boost levels with the on-device knobs for watching shows and movies. 
@@ -89,10 +81,6 @@ There is a lot that comes with the [SteelSeries Arena 9](https://shop-links.co/l
 And if you're simply looking for a reliable set of PC speakers, the [Arena 3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSteelSeries-Arena-Computer-Gaming-Speakers%2Fdp%2FB09KNYBT4Q%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C22c5fe7d-cbeb-4b3f-a3b4-304bd4a85e4e%7Cdtp&dtb=1) is an excellent choice; they don't have the RGB lighting features like the Arena 7 and 9, making them a better choice for shared work spaces or home offices that double as gaming rooms. If you've been waiting for a decent deal to come along before you pick up the Arena 9, [Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsteelseries-arena-9-5-1-bluetooth-gaming-speakers-with-rgb-lighting-6-piece-black%2F6515591.p%3FskuId%3D6515591&publisher_slug=itechdaily19598&exclusive=1) is running a sale where the speaker system is $100 off its original price; this brings it down to $450, and while that's still on the pricey side, the multimedia support, ability to connect to multiple devices simultaneously, and incredible sound quality make it a worthy investment for your gaming space or home theater. 
 
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When does this deal expire?
 
@@ -128,24 +116,21 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-analyzing-splitcams-place-among-best-recorders/"><u>[New] In 2024, Analyzing SplitCam's Place Among Best Recorders</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-diy-iphone-ringtones-a-comprehensive-tutorial-for-2024/"><u>[Updated] DIY iPhone Ringtones A Comprehensive Tutorial for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-fashion-filming-simplified-for-macos-users/"><u>[Updated] In 2024, Fashion Filming Simplified for MacOS Users</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-uncovering-all-shared-visuals-in-a-message-thread/"><u>[Updated] In 2024, Uncovering All Shared Visuals in a Message Thread</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-windows-update-failure-error-0x8e00c/"><u>Correcting Windows Update Failure (Error 0X8e00c)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/downloadable-driving-game-compatible-with-xbox-360-controllers/"><u>Downloadable Driving Game Compatible with Xbox 360 Controllers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortlessly-update-or-download-samsung-laptop-drivers-optimized-for-windows-operating-systems/"><u>Effortlessly Update or Download Samsung Laptop Drivers - Optimized for Windows Operating Systems.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/find-and-download-the-latest-toshiba-copier-driver-pack-for-windows-systems/"><u>Find & Download the Latest Toshiba Copier Driver Pack for Windows Systems</u></a></li>
-<li><a href="https://games-able.techidaily.com/from-sign-up-to-subscription-optimizing-every-gaming-moment-in-ea-play-ps5/"><u>From Sign-Up to Subscription: Optimizing Every Gaming Moment in EA Play PS5</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/guide-to-successfully-connecting-peripherals-in-windows-11-environments/"><u>Guide to Successfully Connecting Peripherals in Windows 11 Environments</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722972709038-hid-compliant-mouse-drivers-freshly-updated-for-optimal-performance/"><u>HID-Compliant Mouse Drivers - Freshly Updated for Optimal Performance</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-get-new-canon-mx490-printing-software-for-your-windows-pc/"><u>How to Get New Canon MX490 Printing Software for Your Windows PC</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-xiaomi-redmi-note-12r-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Xiaomi Redmi Note 12R Phone that is Locked?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-update-and-repair-xbox-input-device-drivers-for-windows-users-of-various-versions-10-8-7/"><u>How to Update & Repair Xbox Input Device Drivers for Windows Users of Various Versions (10, 8, 7)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-the-most-recent-drivers-for-amd-radeon-hd-graphics-on-windows-os/"><u>Install the Most Recent Drivers for AMD Radeon HD Graphics on Windows OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/lut-2024-7/"><u>LUT 색상 수정 기술: 2024년 가장 효과적인 7가지 프로그램 선보기</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/rapid-deployment-tips-secure-and-fast-download-of-usb-rs232-serial-communication-driver/"><u>Rapid Deployment Tips: Secure and Fast Download of USB-RS232 Serial Communication Driver</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-no-sound-dilemma-on-computers-effortlessly-and-fast/"><u>Resolving No-Sound Dilemma on Computers Effortlessly & Fast</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transform-your-workflow-explore-8-effective-ways-to-utilize-auto-gpt/"><u>Transform Your Workflow: Explore 8 Effective Ways to Utilize Auto-GPT</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-superior-earners-on-social-media-platform/"><u>[New] In 2024, Superior Earners on Social Media Platform</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-ultimate-ios-guide-to-premier-psp-emulators/"><u>[New] Ultimate iOS Guide to Premier PSP Emulators</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-superior-methods-for-soundless-footage/"><u>[Updated] 2024 Approved Superior Methods for Soundless Footage</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-accumulating-prime-visuals-for-content-creation-for-2024/"><u>[Updated] Accumulating Prime Visuals for Content Creation for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-professional-screencapture-for-windows-11/"><u>[Updated] In 2024, Professional ScreenCapture for Windows 11</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-solve-video-issues-in-facebook-chat-on-iosandroid-devices-for-2024/"><u>[Updated] Solve Video Issues in Facebook Chat on iOS/Android Devices for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/configure-win11s-registry-editor-with-ease/"><u>Configure Win11's Registry Editor with Ease</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-install-free-realtek-audio-driver-download-for-windows-11/"><u>Effortless Install: Free Realtek Audio Driver Download for Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-optimal-performance-with-fresh-nvidia-geforce-mx150-driver-downloads-for-windows-systems/"><u>Ensure Optimal Performance with Fresh Nvidia GeForce MX150 Driver Downloads for Windows Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-the-world-of-electronics-with-toms-gadget-insights/"><u>Exploring the World of Electronics with Tom's Gadget Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722973214798-fire-suppression-systems-are-designed-based-on-a-thorough-risk-assessment-of-the-protected-space/"><u>Fire Suppression Systems Are Designed Based on a Thorough Risk Assessment of the Protected Space</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-techkey-bluetooth-device-driver-for-windows-10-7-or-8-free-of-charge/"><u>Get the Latest Techkey Bluetooth Device Driver for Windows 10, 7 or 8 Free of Charge</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hitch-free-dymo-labelwriter-450-driver-software/"><u>Hitch-Free DYMO LabelWriter 450 Driver Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-officejet-pro-6970-driver-update-and-installation-guide-for-windows-users/"><u>HP OfficeJet Pro 6970 Driver Update and Installation Guide for Windows Users</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Samsung Galaxy M34 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-understanding-huawei-p10-its-advantages-in-mobile-connectivity/"><u>In 2024, Understanding Huawei P10 Its Advantages in Mobile Connectivity</u></a></li>
 </ul></div>
 

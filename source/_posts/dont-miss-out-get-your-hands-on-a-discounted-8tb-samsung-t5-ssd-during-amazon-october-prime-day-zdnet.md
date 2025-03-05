@@ -1,7 +1,7 @@
 ---
 title: Don't Miss Out! Get Your Hands on a Discounted 8TB Samsung T5 SSD During Amazon October Prime Day | ZDNET
-date: 2025-02-14T19:39:43.113Z
-updated: 2025-02-15T16:41:44.281Z
+date: 2025-03-01T19:03:10.553Z
+updated: 2025-03-04T22:41:57.617Z
 tags:
   - laptops
 categories:
@@ -26,10 +26,6 @@ With a truly impressive amount of storage space, you'll get read and write speed
 **Read more:** **[SSD vs. HDD: What's the difference, and which should you buy?](https://www.zdnet.com/article/ssd-vs-hdd-whats-the-difference-and-which-should-you-buy/)** 
 
 Along with great read and write speeds and more reliable data transfers, the [Samsung T5 Evo](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Portable-External-MU-PH8T0S-AM%2Fdp%2FB0CMDGGJTZ%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce74f4426-3b28-4d32-87bd-c6b12107cdc1%7Cdtp&dtb=1) also features 256-bit AES encryption to keep your personal data and sensitive information safe from unauthorized access. Its outer casing is drop- and shock-resistant and can withstand falls up to six feet, making it perfect for on-location photographers and other mobile professionals who need a tough storage drive for offloading raw photos from camera storage or transferring important projects and documents between their home office and mobile work location. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -65,18 +61,17 @@ While the Amazon listing for the Samsung T5 Evo portable SSD does not have a cou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-broadcasting-tweeted-videos-to-facebook-friends-for-2024/"><u>[New] Broadcasting Tweeted Videos to Facebook Friends for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-merge-visual-media-with-music-tracks-in-premiere-pro/"><u>2024 Approved Merge Visual Media With Music Tracks in Premiere Pro</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-instructions-to-downloading-the-latest-ftdi-drivers-for-your-windows-pc/"><u>Easy Instructions to Downloading the Latest FTDI Drivers for Your Windows PC</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/efficient-methods-for-swift-and-simple-gtx-1660-graphics-driver-update/"><u>Efficient Methods for Swift and Simple GTX 1660 Graphics Driver Update</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/elevate-your-content-with-advanced-vsco-techniques/"><u>Elevate Your Content with Advanced VSCO Techniques</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-critical-gobi-error-in-ubisofts-co-op-shooter-back-4-blood-with-unreal-engine-4/"><u>Fixing the Critical Gobi Error in Ubisoft's Co-Op Shooter: Back 4 Blood with Unreal Engine 4</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-install-the-latest-drivers-for-your-lenovo-ideapad-100-compatible-with-windows-10/"><u>How to Install the Latest Drivers for Your Lenovo IdeaPad 100: Compatible with Windows 10</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/language-learning-lab-mistral-versus-chatgpt/"><u>Language Learning Lab: Mistral Versus ChatGPT</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-fixes-for-your-troubled-realtek-rtl8723be-network-adapter-drivers/"><u>Quick Fixes for Your Troubled Realtek RTL8723BE Network Adapter Drivers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/section-2c-increasingly-complex-questions/"><u>Section 2C: Increasingly Complex Questions</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unleashing-new-markets-how-digital-twins-and-process-simulations-pave-the-way-for-enterprise-growth/"><u>Unleashing New Markets: How Digital Twins & Process Simulations Pave the Way for Enterprise Growth</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-secrets-of-instagram-an-in-depth-exploration/"><u>Unveiling the Secrets of Instagram: An In-Depth Exploration</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-comedy-in-catchy-notes-best-parody-songs-list/"><u>[New] In 2024, Comedy in Catchy Notes Best Parody Songs List</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-exploring-2023s-standout-professional-360cameras-for-2024/"><u>[Updated] Exploring 2023'S Standout Professional 360°Cameras for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-mobile-and-web-photo-booster-at-no-cost/"><u>[Updated] Ultimate Mobile & Web Photo Booster at No Cost</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-sony-xperia-1-v-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Sony Xperia 1 V? Try These Fixes</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-unveiling-how-to-activate-windows-11-written-for-high-dynamic-range-auto-hdr/"><u>In 2024, Unveiling How to Activate Windows 11' Written for High Dynamic Range (Auto HDR)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/onyx-boox-poke-5-assessment-a-reliable-note-taking-companion/"><u>Onyx Boox Poke 5 Assessment: A Reliable Note-Taking Companion</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/predicting-the-future-of-your-androids-software-updates-how-long-can-you-expect/"><u>Predicting the Future of Your Android's Software Updates - How Long Can You Expect?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resizing-fonts-and-icons-on-your-android-device-a-comprehensive-guide/"><u>Resizing Fonts & Icons on Your Android Device: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/save-big-phones-under-1000-dont-compromise-on-quality/"><u>Save Big: Phones Under $1,000 Don’t Compromise on Quality</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-ultimate-tutorial-for-private-photo-sharing-on-fb/"><u>The Ultimate Tutorial for Private Photo Sharing on FB</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-honor-magic-vs-2-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Honor Magic Vs 2 Bricked Devices | Dr.fone</u></a></li>
 </ul></div>
 

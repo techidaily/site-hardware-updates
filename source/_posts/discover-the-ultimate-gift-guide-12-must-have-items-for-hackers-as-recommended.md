@@ -1,7 +1,7 @@
 ---
 title: "Discover the Ultimate Gift Guide: 12 Must-Have Items for Hackers, as Recommended"
-date: 2025-02-09T00:52:10.767Z
-updated: 2025-02-15T18:21:29.623Z
+date: 2025-03-04T05:16:40.510Z
+updated: 2025-03-05T07:11:53.442Z
 tags:
   - laptops
 categories:
@@ -19,10 +19,6 @@ Taylor Clemons/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ZDNET takeaways
 
@@ -74,10 +70,6 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 There is a lot that comes with the [SteelSeries Arena 9](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsteelseries-arena-9-5-1-bluetooth-gaming-speakers-with-rgb-lighting-6-piece-black%2F6515591.p%3FskuId%3D6515591&publisher_slug=itechdaily19598&exclusive=1), between the speakers and subwoofer, controller, and cables. It's easily one of the best-sounding systems I've tested, and the ability to tweak specific audio settings is game-changing. That said, if you mainly use a single platform like the PC or a console for gaming, you may want to opt for the smaller but still capable [Arena 7](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSteelSeries-Arena-Computer-Gaming-Speakers%2Fdp%2FB09KNYJL4R%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0dd95890-d131-49b7-b964-2a3e19803063%7Cdtp&dtb=1) instead, since it comes with a single pair of speakers and a subwoofer. It doesn't include a control dial like the Arena 9, but you can quickly adjust basic volume and bass boost levels with the on-device knobs for watching shows and movies. 
@@ -85,10 +77,6 @@ There is a lot that comes with the [SteelSeries Arena 9](https://shop-links.co/l
 And if you're simply looking for a reliable set of PC speakers, the [Arena 3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSteelSeries-Arena-Computer-Gaming-Speakers%2Fdp%2FB09KNYBT4Q%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0dd95890-d131-49b7-b964-2a3e19803063%7Cdtp&dtb=1) is an excellent choice; they don't have the RGB lighting features like the Arena 7 and 9, making them a better choice for shared work spaces or home offices that double as gaming rooms. If you've been waiting for a decent deal to come along before you pick up the Arena 9, [Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsteelseries-arena-9-5-1-bluetooth-gaming-speakers-with-rgb-lighting-6-piece-black%2F6515591.p%3FskuId%3D6515591&publisher_slug=itechdaily19598&exclusive=1) is running a sale where the speaker system is $100 off its original price; this brings it down to $450, and while that's still on the pricey side, the multimedia support, ability to connect to multiple devices simultaneously, and incredible sound quality make it a worthy investment for your gaming space or home theater. 
 
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When does this deal expire?
 
@@ -124,20 +112,22 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-combining-rotating-and-fine-tuning-videos-with-android-tools/"><u>[New] Combining, Rotating & Fine-Tuning Videos with Android Tools</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-pros-picks-top-10-shaky-free-cameras-for-action/"><u>2024 Approved Pro's Picks Top 10 Shaky-Free Cameras for Action</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/boost-your-pc-experience-download-the-microsoft-wireless-mouse-5000-drivers-today/"><u>Boost Your PC Experience - Download the Microsoft Wireless Mouse 5000 Drivers Today!</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/discover-the-value-in-large-screens-caixuns-75-4k-smart-tv-a-cost-efficient-choice/"><u>Discover the Value in Large Screens: Caixun's 75'' 4K Smart TV - A Cost-Efficient Choice</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-updated-intel-network-driver-supporting-windows-11107-systems/"><u>Download Updated Intel Network Driver Supporting Windows 11/10/7 Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ending-google-chrome-alerts-step-by-step-windows/"><u>Ending Google Chrome Alerts (Step-by-Step, Windows)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-m-audio-fast-track-ultradriver-software-a-comprehensive-guide/"><u>Free M-Audio Fast Track UltraDriver Software: A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-newest-epson-wf-372n0-printer-driver-installation-files-here/"><u>Get the Newest Epson WF 372N0 Printer Driver Installation Files Here!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722972596273-get-your-hp-laserjet-p1006-drivers-here-free-download-now/"><u>Get Your HP LaserJet P1006 Drivers Here – Free Download Now!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-drivers-available-to-install-logitech-speakers-on-various-windows-systems/"><u>Latest Drivers Available to Install Logitech Speakers on Various Windows Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/seamless-setup-overcoming-startech-driver-challenges-for-windows-1187-users/"><u>Seamless Setup: Overcoming StarTech Driver Challenges for Windows 11/8/7 Users</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/switching-to-claude-3-heres-why-it-beats-gpt-3/"><u>Switching to Claude 3? Here's Why It Beats GPT-3</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/the-seamless-storyteller-leveraging-inshot-for-elegant-transitions-for-2024/"><u>The Seamless Storyteller Leveraging Inshot for Elegant Transitions for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-ultimate-walkthrough-to-upgrade-microsoft-mouse-drivers-in-windows-environment/"><u>The Ultimate Walkthrough to Upgrade Microsoft Mouse Drivers in Windows Environment</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-realme-narzo-60-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Realme Narzo 60 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-the-boundless-gallery-of-forgotten-artists/"><u>[New] 2024 Approved The Boundless Gallery of Forgotten Artists</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-capture-attention-with-influential-tags-on-social-medias-tiktok-for-2024/"><u>[New] Capture Attention with Influential Tags on Social Media's TikTok for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-snap-into-action-efficient-office-photography-tips/"><u>[Updated] 2024 Approved Snap Into Action Efficient Office Photography Tips</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-dodging-account-penaltinas-on-youtube/"><u>[Updated] In 2024, Dodging Account Penaltinas on Youtube</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-quieting-beats-step-by-step/"><u>2024 Approved Quieting Beats Step-by-Step</u></a></li>
+<li><a href="https://extra-information.techidaily.com/convenient-mobile-watch-enabledisable-picture-in-picture-in-youtube-for-2024/"><u>Convenient Mobile Watch Enable/Disable Picture-In-Picture in YouTube for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/dell-g15-drivers-download-and-install-for-windows/"><u>Dell G15 Drivers Download & Install for Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-dell-wd19-driver-step-by-step-guide/"><u>Download & Install Dell WD19 Driver: Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-steps-to-upgrade-your-synaptics-ps2-mousepad-driver-in-no-time/"><u>Effortless Steps to Upgrade Your Synaptics PS/2 Mousepad Driver in No Time</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-your-game-update-dell-inspiron-n3070-graphics-driver/"><u>Enhance Your Game: Update Dell Inspiron N3070 Graphics Driver</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhancing-chrome-os-through-your-input-the-importance-and-how-to-of-sending-constructive-criticism-to-developers/"><u>Enhancing Chrome OS Through Your Input: The Importance and How-To of Sending Constructive Criticism to Developers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-epson-gt-s50-drivers-compatible-with-windows-7810/"><u>Get the Latest Epson GT S50 Drivers Compatible with Windows 7/8/10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-amd-rx-6800-graphics-card-driver-for-all-windows-versions-including-windows-111087/"><u>Get the Newest AMD RX 6800 Graphics Card Driver for All Windows Versions Including Windows 11/10/8/7</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-your-tech-choices-expert-opinions-by-toms-hardware/"><u>Mastering Your Tech Choices: Expert Opinions by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/samsung-m2070-drivers-update-effortless-setup-in-minutes/"><u>Samsung M2070 Drivers Update: Effortless Setup in Minutes!</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209762183-9781632658081-witchs-master-grimoire/"><u>Witch's Master Grimoire | Free Book</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Apple October Event Preview: Exciting Releases on the Horizon with M4 Mac Mini and Enhanced iPads - What You Need to Know | Featured by ZDNET"
-date: 2025-02-11T04:00:46.001Z
-updated: 2025-02-16T03:30:50.902Z
+date: 2025-03-01T06:07:56.701Z
+updated: 2025-03-04T18:15:10.975Z
 tags:
   - laptops
 categories:
@@ -45,10 +45,6 @@ Image: Charles McLellan / ZDNET
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Design
 
 Lenovo's ThinkPads rarely stray far from the familiar black livery with red and silver accents, and the ThinkPad X13s is no exception. The chassis, which is made of magnesium-aluminium (top) and [GFRP](https://en.wikipedia.org/wiki/Fibre-reinforced%5Fplastic) (bottom), is Thunder Black in colour, with branding on the lid and wrist rest, the iconic red TrackPoint embedded in the keyboard, and three buttons above the trackpad. Lenovo says that 90% of the magnesium used in the chassis is recycled, as is 97% of the plastic in the speaker enclosure, while 90% of the packaging is recycled and/or sustainable. 
@@ -69,10 +65,6 @@ For connections, you're limited to two USB-C (3.2 Gen 2) ports on the left side,
 
 You can access the innards of the ThinkPad X13s by removing six screws and prising off the bottom cover, although upgrade options are limited. We did poke around inside our first review unit, which arrived with no functioning Wi-Fi and no access to the webcam, to no avail. Our second review unit worked just fine. For all its thin-and-lightness, the ThinkPad X13s is [MIL-STD-810H](https://en.wikipedia.org/wiki/MIL-STD-810)\-tested and should cope with the rigours of a mobile professional's routine. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Features
 
 As noted earlier, the ThinkPad X13s is powered by Qualcomm's latest [Snapdragon 8cx Gen 3](https://www.qualcomm.com/products/application/mobile-computing/snapdragon-8-series-mobile-compute-platforms/snapdragon-8cx-gen-3-compute-platform), a 5nnm SoC with 8 Kyro CPU cores (4 performance, 4 efficiency) and an Adreno 690 GPU. RAM is soldered onto the motherboard and, therefore, not user-upgradeable, and comes in 8GB, 16GB or 32GB capacities. Our review unit had 16GB, along with 256GB of M.2 2442 PCIe SSD storage (512GB and 1TB capacities are also available). 
@@ -82,10 +74,6 @@ The Snapdragon 8cx Gen 3 also handles wireless connectivity, supporting Wi-Fi 6E
 There are three screen options, all IPS panels with WUXGA (1920 x 1200) resolution: non-touch at 300 nits or 400 nits with lower power consumption and EyeSafe certification; and multi-touch at 300 nits with a 1000:1 contrast ratio rather than 1500:1 and 72% NTSC colour gamut support rather than 100% sRGB. Viewing angles are 170° across the board. Our review unit had the 300 nits non-touch screen, which although not suited for outdoor use is fine indoors. 
 
 As well as the biometric authentication methods noted earlier, the ThinkPad X13s includes internal security features such as a discrete TPM 2.0 chip, Microsoft's [Pluton TPM architecture](https://learn.microsoft.com/en-us/windows/security/information-protection/pluton/pluton-as-tpm) running on the Snapdragon 8cx Gen 3's SPU (Secure Processing Unit) and a self-healing BIOS. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Performance & battery life
 
@@ -114,10 +102,6 @@ Like the M2 MacBook Air, the ThinkPad X13s runs on a sufficiently low-power proc
 Thermal camera images of the ThinkPad X13s under load.
 
 Images: Charles McLellan / ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Conclusions
 
@@ -169,10 +153,6 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Alternatives to consider
 
 [Dell XPS 13 View now at Dell](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Flinks%2F9041660%2Ftype%2Fdlg%2Fsid%2Fzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%2Fhttps%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-laptops%2Fxps-13-laptop%2Fspd%2Fxps-13-9315-laptop)
@@ -218,20 +198,18 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-photoshop-for-beginners-top-editing-hacks-revealed/"><u>[New] 2024 Approved Photoshop For Beginners Top Editing Hacks Revealed</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-whats-encrypted-exploring-the-role-of-facebooks-blue-icon/"><u>[New] 2024 Approved What's Encrypted Exploring the Role of Facebook's Blue Icon?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-sharpen-focus-expert-tips-on-the-psx-eraser-tool/"><u>[New] Sharpen Focus Expert Tips on the PSX Eraser Tool</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-top-picks-affordable-apps-for-youtube-sbs-grabbing/"><u>[New] Top Picks Affordable Apps for YouTube SBS Grabbing</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-ingenious-approaches-to-facebook-video-ad-crafting/"><u>2024 Approved Ingenious Approaches to Facebook Video Ad Crafting</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpts-role-in-crafting-and-maintaining-daily-meditation-rituals/"><u>ChatGPT's Role in Crafting and Maintaining Daily Meditation Rituals</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/direct-download-enhance-your-audio-setup-with-behringer-usb-interface-drivers/"><u>Direct Download: Enhance Your Audio Setup with Behringer USB Interface Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-hp-zbook-ebrookers15g3-drivers-step-by-step-guide-for-windows/"><u>Download & Install HP ZBook Ebrookers15G3 Drivers: Step-by-Step Guide for Windows</u></a></li>
-<li><a href="https://program-issues.techidaily.com/embrace-the-odyssey-dive-into-the-god-of-war-action-as-an-fps-now-available-for-pc-gamers/"><u>Embrace the Odyssey: Dive Into the God of War Action as an FPS, Now Available for PC Gamers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ensuring-compatibility-how-to-find-and-download-epson-ds-530-printer-drivers-for-windows-11-x64/"><u>Ensuring Compatibility: How to Find and Download Epson DS-530 Printer Drivers for Windows 11 (X64)</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-poco-x6-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Poco X6? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-version-of-amd-radeon-pro-w5700-drivers-for-optimal-performance-on-windows-platforms-11-10-7/"><u>Latest Version of AMD Radeon Pro W5700 Drivers for Optimal Performance on Windows Platforms (11, 10, 7)</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-if-you-are-looking-for-great-1080p-video-editing-softwareyoure-in-the-right-place/"><u>New In 2024, If You Are Looking for Great 1080P Video Editing Software,youre in the Right Place</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/seamless-connectivity-microsofts-bluetooth-driver-downloads-and-updates-for-windows-win-101187/"><u>Seamless Connectivity: Microsoft's Bluetooth Driver Downloads & Updates for Windows (Win 10/11/8/7)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/updating-your-toshiba-laptops-software-essential-driver-downloads-for-windows-users/"><u>Updating Your Toshiba Laptop's Software: Essential Driver Downloads for Windows Users</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-visualrecorder-your-yearly-guide-to-screen-captures/"><u>[New] 2024 Approved VisualRecorder Your Yearly Guide to Screen Captures</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-tilling-through-time-top-farmer-games-evolutions/"><u>[New] Tilling Through Time Top Farmer Games Evolutions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fix-and-enhance-your-network-connection-in-windows-ebox-with-the-new-broadcom-netlink-gigabit-ethernet-driver/"><u>Fix and Enhance Your Network Connection in Windows Ebox with the New Broadcom NETLink Gigabit Ethernet Driver</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-windows-8-amd-radeon-graphics-cards-freshest-updates-for-free/"><u>Get Your Windows 8 AMD Radeon Graphics Cards Freshest Updates for Free</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/human-insight-the-value-lost-in-automated-summary-texts/"><u>Human Insight: The Value Lost in Automated Summary Texts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-canon-mf4500-drivers-for-smooth-printing-experience-download-now/"><u>Latest Canon MF4500 Drivers for Smooth Printing Experience - Download Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/nvidia-geforce-rtx-e90-driver-install-for-windows-users-win1187/"><u>NVIDIA GeForce RTX E90 Driver Install for Windows Users (Win11/8/7)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-fix-how-to-securely-download-and-set-up-a-dell-mouse-driver/"><u>Quick Fix: How to Securely Download and Set Up a Dell Mouse Driver</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-xiaomi-redmi-13c-5g-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Xiaomi Redmi 13C 5G Phone Hassle-Free</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-fight-for-freedom-trumps-legal-challenge-to-tech-firms/"><u>The Fight for Freedom: Trump's Legal Challenge to Tech Firms</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-key-to-attracting-views-youtube-image-marketing/"><u>The Key to Attracting Views YouTube Image Marketing</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Nokia G42 5G? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-resolving-windows-11-microphone-issues-easily/"><u>Troubleshooting Tips: Resolving Windows 11 Microphone Issues Easily</u></a></li>
 </ul></div>
 

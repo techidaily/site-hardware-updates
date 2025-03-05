@@ -1,7 +1,7 @@
 ---
 title: "StarFive's Revolutionary JH7110 SoC Board: Powered by RISC-V Architecture and Collaboration with DeepComputing"
-date: 2024-08-19T04:32:50.544Z
-updated: 2024-08-20T04:32:50.544Z
+date: 2025-03-02T03:42:47.133Z
+updated: 2025-03-05T07:12:36.182Z
 tags:
   - laptop
 categories:
@@ -100,9 +100,6 @@ Lenovo Yoga Slim 7x 14 Gen 9  (Image credit: Qualcomm)
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/QXLgUBPHQLuoQKnKFXBYAN-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Lenovo ThinkPad T14s Gen 6  (Image credit: Qualcomm)
 
  Lenovo provides three display options with the ThinkPad T14s Gen 6: the first two are 14-inch 400-nit IPS panels with a 1920 x 1200 resolution, but one supports touch, and the other doesn't. The third option is a 2.8K OLED panel with 100% coverage of DCI-P3 and VESA HDR True Black 500 compliance.
@@ -113,18 +110,12 @@ Lenovo ThinkPad T14s Gen 6  (Image credit: Qualcomm)
 
  According to Lenovo, the Yoga Slim 7x and ThinkPad T14s Gen 6 will debut next month, priced from $1,199 and $1,699, respectively.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Dell XPS 13, Inspiron 14 Plus, and Latitude 7455
 
  Dell’s lineup of Snapdragon X laptops[leaked early last week](https://tools.techidaily.com) , so things here should look somewhat familiar. The XPS 13 has a striking design, with a keyboard that goes nearly to the left and right edge of the CNC-machined aluminum chassis (available in Platinum or Graphite). You'll also find the controversial capacitive touch function row above the keyboard, which we discussed in our[reviews of the XPS 14 and XPS 16](https://tools.techidaily.com) . The haptic touchpad is also seamlessly integrated into the keyboard deck, which is covered in Gorilla Glass 3.
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/cXqoxKsRoc29VARWi2JunN-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Dell XPS 13  (Image credit: Qualcomm)
 
  Dell makes the Snapdragon X Elite or the Snapdragon X Plus available, although the latter is only coming to the Chinese market (at least for now). Customers can choose from 16GB, 32GB, or 64GB of dual-channel LPDDR5x memory and 512GB, 1TB, 2TB, or 4TB (later availability) SSDs.
@@ -146,9 +137,6 @@ Dell XPS 13  (Image credit: Qualcomm)
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/5STqZSSuR2Yb9mkF7rrCLN-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 Dell Inspiron 14 Plus  (Image credit: Qualcomm)
 
  The Inspiron 14 Plus comes exclusively with the Snapdragon X Plus, 16GB LPDDR5x memory, and 512GB/1TB SSD options. You get just one display option: a 14-inch 2560 x 1600 IPS panel with touch and an anti-glare coating. You also get two USB-C ports, one USB-A port, a microSD card reader, a headphone jack, quad speakers, a 1080p IR webcam with privacy shutter, Wi-Fi 7, Bluetooth 5.4, a power button with integrated fingerprint reader, and a 54 WHr battery.
@@ -157,9 +145,6 @@ The 3.17-pound Inspiron 14 Plus measures 12.36 x 8.80 x 0.66 inches.
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/ejCrV57dyrk8JZeZLG66eN-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 Dell Latitude 7455  (Image credit: Qualcomm)
 
  Rounding out Dell's Snapdragon X assault is the Latitude 7455, aimed at business users (Snapdragon X Elite or Snapdragon X Plus with up to 32GB of LPDDR5x). This 14-inch laptop is only available with a 2560 x 1600 IPS display and anti-glare coating.
@@ -174,9 +159,6 @@ Dell Latitude 7455  (Image credit: Qualcomm)
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/kkJgrFcMsp5e7XQRtHVKxM-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 HP OmniBook X and EliteBook Ultra  (Image credit: Qualcomm)
 
  The two laptops each have a Snapdragon X Elite chip, a 14-inch 2240 x 1400 IPS display, support for Wi-Fi 6E/Bluetooth 5.3 or Wi-Fi 7/Bluetooth 5.4, a 1080p webcam with IR, a 59 WHr battery, two USB-C ports, and one USB-A port. The OmniBook X is available with 16GB or 32GB of LPDDR5x and 512GB, 1TB, or 2TB SSD options. The EliteBook Ultra is only available with 16GB of LPDDR5x and a 512GB or 1TB SSD.
@@ -200,8 +182,6 @@ HP OmniBook X and EliteBook Ultra  (Image credit: Qualcomm)
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -209,4 +189,24 @@ HP OmniBook X and EliteBook Ultra  (Image credit: Qualcomm)
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-breakdown-of-youtubes-monetization-update/"><u>[New] 2024 Approved Breakdown of YouTube's Monetization Update</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-the-peak-of-data-preservation-cloud-service-guide/"><u>[New] The Peak of Data Preservation Cloud Service Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/urn-video-to-sound-youtube-to-mp3-with-appleos/"><u>[New] Turn Video to Sound YouTube to MP3 with AppleOS</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-15-best-ideas-to-post-on-snapchat/"><u>[Updated] 2024 Approved 15 Best Ideas To Post On Snapchat</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-inside-look-whatsapps-voice-message-technology/"><u>2024 Approved Inside Look WhatsApp's Voice Message Technology</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discovering-innovations-with-toms-hardware-guides/"><u>Discovering Innovations with Tom's Hardware Guides</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/dive-into-digital-devices-with-toms-comprehensive-hardware-reviews/"><u>Dive Into Digital Devices with Tom's Comprehensive Hardware Reviews</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/dramatically-discounted-asus-rog-zephyrus-g1-6-with-ace-performance-features-250-off-the-list-price/"><u>Dramatically Discounted: Asus ROG Zephyrus G1 6 with Ace Performance Features, $250 Off the List Price</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-leaked-info-on-samsung-cuisinegalaxy-book4-edge-powered-by-snapdragon-set-to-impress-just-before-microsoft-takes-the-stage/"><u>Exclusive Leaked Info on Samsung' Cuisine_Galaxy Book4 Edge Powered by Snapdragon - Set to Impress Just Before Microsoft Takes the Stage</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-hardware-analysis-with-tom-choose-the-right-gear/"><u>Expert Hardware Analysis with Tom: Choose the Right Gear</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-pc-tech-with-toms-hardware-experts/"><u>Exploring PC Tech with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/gpd-reveals-sneak-peek-of-revolutionary-dual-display-oled-laptop-a-new-contender-against-asus-zenbook-duo/"><u>GPD Reveals Sneak Peek of Revolutionary Dual-Display OLED Laptop, a New Contender Against Asus ZenBook Duo</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/grab-an-insane-deal-on-asuss-powerhouse-rog-zephyrus-g16-with-intel-core-i9-10900hk-cpu-enhanced-graphics-and-a-dazzling-240hz-screen-save-250-now/"><u>Grab an Insane Deal on Asus's Powerhouse: ROG Zephyrus G16 with Intel Core I9-10900HK CPU, Enhanced Graphics and a Dazzling 240Hz Screen - Save $250 Now</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/how-to-fix-a-non-responsive-scanner-expert-tips-from-yl-computings-scanning-solutions/"><u>How to Fix a Non-Responsive Scanner: Expert Tips From YL Computing's Scanning Solutions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-samsung-galaxy-f54-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Samsung Galaxy F54 5G</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixes-why-isnt-your-corsair-keyboard-lighting/"><u>Troubleshooting and Fixes: Why Isn't Your Corsair Keyboard Lighting?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-the-nvidia-geforce-gtx-950-code-43-issue-on-windows-11-a-complete-walkthrough/"><u>Troubleshooting the NVIDIA GeForce GTX 950 Code 43 Issue on Windows 11: A Complete Walkthrough</u></a></li>
+</ul></div>
 

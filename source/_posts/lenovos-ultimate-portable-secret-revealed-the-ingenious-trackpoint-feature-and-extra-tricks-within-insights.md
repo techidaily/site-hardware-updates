@@ -1,7 +1,7 @@
 ---
 title: Lenovo's Ultimate Portable Secret Revealed! The Ingenious TrackPoint Feature & Extra Tricks Within | Insights
-date: 2025-02-11T03:40:17.431Z
-updated: 2025-02-15T23:22:40.316Z
+date: 2025-02-25T18:08:21.003Z
+updated: 2025-03-04T22:49:55.498Z
 tags:
   - laptops
 categories:
@@ -19,10 +19,6 @@ Cesar Cadenas/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -76,10 +72,6 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 I do recommend the [Lenovo ThinkPad Z13 Gen 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-21D2001RUS-Notebook-Board%2Fdp%2FB0B7YQC7CC%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4d1787ea-034d-45bc-8d5a-0a81e6af3001%7Cdtp&dtb=1) if you're looking for a lightweight laptop for work, school, or as an entertainment machine while traveling. It's currently on sale on Lenovo's website in Artic Grey, with prices starting at $1,241\. 
@@ -116,20 +108,17 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-unlocking-youtube-simplified-methods-for-cc-and-subtitle-integration/"><u>[New] Unlocking YouTube Simplified Methods for CC and Subtitle Integration</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-optimal-series-professional-webcam-stabilizers-for-2024/"><u>[Updated] Optimal Series Professional Webcam Stabilizers for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/2024mp4/"><u>2024年版ムービー製作で直面するMP4保存問題とその回避手段 - プロの方法教えます</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/can-you-unlock-iphone-xs-max-after-forgetting-the-passcode-by-drfone-ios/"><u>Can You Unlock iPhone XS Max After Forgetting the Passcode?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-latest-validity-fingerprint-sensor-driver-fast-and-simple-installation/"><u>Download the Latest Validity Fingerprint Sensor Driver: Fast and Simple Installation</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-and-immediate-downloading-of-acer-wireless-network-driver-no-cost/"><u>Effortless & Immediate Downloading of Acer Wireless Network Driver | No Cost!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hp-officejet-5255-fresh-driver-download-and-update-for-optimal-performance/"><u>HP OfficeJet 5255: Fresh Driver Download & Update for Optimal Performance</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-or-update-nvidias-mx150-graphics-drivers-for-windows-systems/"><u>Install or Update NVIDIA's MX150 Graphics Drivers for Windows Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722971335816-logitech-c615-drivers-easy-trouble-shoot-and-solutions-provided/"><u>Logitech C615 Drivers – Easy Trouble-Shoot & Solutions Provided</u></a></li>
-<li><a href="https://article-files.techidaily.com/navigating-the-maze-of-cloud-data-tariffs-for-2024/"><u>Navigating the Maze of Cloud Data Tariffs for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/resolve-your-lenovo-usb-driver-problems-with-simple-techniques/"><u>Resolve Your Lenovo USB Driver Problems with Simple Techniques</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/successful-installation-downloading-and-updating-d-link-drivers-on-windows/"><u>Successful Installation: Downloading and Updating D-Link Drivers on Windows</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/tinyframe-videotaker-assessment-with-alternatives-for-2024/"><u>TinyFrame Videotaker Assessment with Alternatives for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlock-gionee-f3-pro-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Gionee F3 Pro Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-seamless-video-editing-on-arm-devices-filmora-x-makes-it-happen/"><u>Updated 2024 Approved Seamless Video Editing on ARM Devices Filmora X Makes It Happen</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-expert-opinions-best-browser-recording-apps-uncovered/"><u>[New] In 2024, Expert Opinions Best Browser Recording Apps Uncovered</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-invisistorytelling-the-complete-guide-for-stealthy-sharing-for-2024/"><u>[New] InvisiStorytelling The Complete Guide for Stealthy Sharing for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-vivid-visual-storytelling-the-fade-technique/"><u>[Updated] 2024 Approved Vivid Visual Storytelling The Fade Technique</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-elite-slide-to-digital-recorders/"><u>[Updated] Elite Slide-to-Digital Recorders</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/debunking-rumors-amd-assures-timely-launch-of-the-upcoming-ryzen-5000xt-processors/"><u>Debunking Rumors, AMD Assures Timely Launch of the Upcoming Ryzen 5000XT Processors</u></a></li>
+<li><a href="https://win-community.techidaily.com/diagnosing-a-defective-gpu-expert-tips-from-yl-computing/"><u>Diagnosing a Defective GPU: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-latest-hp-laserjet-p1006-printer-software/"><u>Download the Latest HP LaserJet P1006 Printer Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/eveo-wireless-adapter-driver-update-secure-it-now-for-free/"><u>EVEO Wireless Adapter Driver Update - Secure It Now for Free!</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210064444-9781989838495-guided-meditations-for-deep-sleep-overcoming-anxiety-mindfulness/"><u>Guided Meditations For Deep Sleep, Overcoming Anxiety& Mindfulness | Free Book</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722973933673-hp-envy-7640-driver-problems-heres-how-to-fix-them-fast/"><u>HP ENVY 7640 Driver Problems? Here's How to Fix Them Fast!</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782772-9781594776984-sex-and-the-intelligence-of-the-heart/"><u>Sex and the Intelligence of the Heart | Free Book</u></a></li>
 </ul></div>
 

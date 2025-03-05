@@ -1,7 +1,7 @@
 ---
 title: "Limited Time Offer: Grab the $8 Cyber Monday Special on an iPhone Webcam Mount - In Stock!"
-date: 2025-02-13T21:16:40.530Z
-updated: 2025-02-16T02:24:02.837Z
+date: 2025-03-02T01:35:38.360Z
+updated: 2025-03-05T00:57:02.824Z
 tags:
   - laptops
 categories:
@@ -24,10 +24,6 @@ I've seen the likes of Belkin put out [quality iPhone mounts for this purpose](h
 [Elephant Card iPhone Mount for $8 (save $2) $8 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB0B93QFCP8%3Ft%3D%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cdae35b0a-cc54-45e0-aeab-4bc53a667f69%7Cdtp&dtb=1)
 
 All that's needed to make Continuity Camera happen is a Mac computer running MacOS Ventura, an iPhone running on iOS 16, and a mount to keep the handset afloat. That's where the Elephant Card comes in.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -81,18 +77,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ecruitment-powerhouses-top-ten-shorts/"><u>[New] Recruitment Powerhouses - Top Ten Shorts</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-from-darkness-to-daylight-funniest-incarcerated-facebook-friends-quotes-for-2024/"><u>[Updated] From Darkness to Daylight Funniest Incarcerated Facebook Friends Quotes for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-quick-guide-best-free-instagram-to-mp4-tools-windowsmac/"><u>[Updated] Quick Guide Best Free Instagram-to-MP4 Tools (Windows/Mac)</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-sound-on-call-sensor-iphone-24-tech/"><u>2024 Approved Sound-on-Call Sensor IPhone '24 Tech</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-updating-or-downloading-sound-card-drivers-on-windows/"><u>Easy Guide to Updating or Downloading Sound Card Drivers on Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-installation-of-latest-dell-d3100-printing-software-get-it-now/"><u>Effortless Installation of Latest DELL D3100 Printing Software - Get It Now</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722963949144-get-started-huion-h610-pro-digital-art-pad-drivers-downloaded/"><u>Get Started: Huion H610 Pro Digital Art Pad Drivers Downloaded!</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/harmonic-hurdle-jumpstarts-best-tunes-to-initiate-audio-starts/"><u>Harmonic Hurdle Jumpstarts Best Tunes to Initiate Audio Starts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-release-install-intel-iris-xe-graphics-software-on-windows-11/"><u>Latest Release: Install Intel Iris Xe Graphics Software on Windows 11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/meet-the-game-changing-hp-laptop-defying-norms-with-a-style-that-outshines-apples-ambitions/"><u>Meet the Game-Changing HP Laptop: Defying Norms with a Style That Outshines Apple's Ambitions!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/newest-hp-deskjet-ink-advantage-3755-multifunctional-printer-software-setup-windows-compatible-1087/"><u>Newest HP DeskJet Ink Advantage 3755 Multifunctional Printer Software Setup - Windows Compatible (10/8/7)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-your-problems-the-ultimate-guide-to-resolve-steam-updates-failure/"><u>Solving Your Problems: The Ultimate Guide to Resolve Steam Updates Failure</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/updated-drivers-for-hp-laserjet-pro-multifunction-printer-m42/"><u>Updated Drivers for HP LaserJet Pro Multifunction Printer (M42</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-insignia-drivers-for-windows-quick-and-easy/"><u>[DOWNLOAD] Insignia Drivers for Windows | Quick & Easy</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-dynamic-animated-and-personalized-filmora-subscribe-button-for-youtube/"><u>[New] 2024 Approved Dynamic, Animated, and Personalized Filmora Subscribe Button for YouTube</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-veiled-glance-at-digital-diary-fb/"><u>[New] 2024 Approved Veiled Glance at Digital Diary (FB)</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-capturing-seconds-at-a-time-the-art-of-phantom-slow-motion/"><u>[New] In 2024, Capturing Seconds at a Time The Art of Phantom Slow Motion</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-seamless-facebook-broadcast-integrating-obs-with-devices-for-2024/"><u>[New] Seamless Facebook Broadcast Integrating OBS with Devices for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-crafting-content-for-specific-youtube-subsets-for-2024/"><u>[Updated] Crafting Content for Specific Youtube Subsets for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-proven-techniques-and-choices-for-trimming-premium-tamil-melodies-for-2024/"><u>[Updated] Proven Techniques and Choices for Trimming Premium Tamil Melodies for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-setting-up-success-crafting-your-first-youtube-channel-for-2024/"><u>[Updated] Setting Up Success Crafting Your First YouTube Channel for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-amd-ryzen-n3-2200g-gpu-drivers-for-enhanced-gaming-experience/"><u>Get the Newest AMD Ryzen N3 2200G GPU Drivers for Enhanced Gaming Experience</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-poco-x6-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Poco X6 in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-newest-brother-mfc-j480dw-printer-drivers-on-your-windows-machine/"><u>How to Get the Newest Brother MFC-J480DW Printer Drivers on Your Windows Machine</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mass-production-commences-for-cixins-latest-12-core-arm-based-ai-processor-achieving-45-tops-benchmark-in-china/"><u>Mass Production Commences for Cixin's Latest 12-Core Arm-Based AI Processor: Achieving 45 TOPS Benchmark in China</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/nvidia-quadro-rtx-eight-thousand-latest-driver-version-now-available-for-win11win8win7/"><u>Nvidia Quadro RTX Eight Thousand - Latest Driver Version Now Available for Win11/Win8/Win7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolving-driver-issues-download-and-update-windows-compatible-hp-elitebook-8460p-drivers-solved/"><u>Resolving Driver Issues: Download & Update Windows-Compatible HP EliteBook 8460P Drivers [SOLVED]</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-for-downloading-and-updating-your-epson-xp-440-drivers/"><u>Step-by-Step Tutorial for Downloading and Updating Your Epson XP-440 Drivers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-financial-race-between-dailymovement-and-youtube-channels-for-2024/"><u>The Financial Race Between DailyMovement and YouTube Channels for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-unveiling-the-latest-in-computer-hardware/"><u>Tom's Tech Insights: Unveiling the Latest in Computer Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722969724051-usb-cam-connection-made-easy-get-the-right-drivers-today/"><u>USB Cam Connection Made Easy: Get the Right Drivers Today!</u></a></li>
 </ul></div>
 

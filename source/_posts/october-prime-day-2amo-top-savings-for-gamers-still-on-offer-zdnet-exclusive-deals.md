@@ -1,7 +1,7 @@
 ---
 title: "October Prime Day 2Amo: Top Savings for Gamers Still On Offer | ZDNET Exclusive Deals"
-date: 2025-02-10T17:18:14.948Z
-updated: 2025-02-15T23:55:58.357Z
+date: 2025-03-03T01:12:45.184Z
+updated: 2025-03-04T16:02:27.115Z
 tags:
   - laptops
 categories:
@@ -23,10 +23,6 @@ From Apple's [MacBook Pro M3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FUR
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Our favorite Amazon October Prime Day laptop deals
 
@@ -89,10 +85,6 @@ Dell/ZDNET
 * [Acer Chromebook 314](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FChromebook-CB314-4HT-32X6-i3-N305-Processor-Display%2Fdp%2FB0CMRRFGVN%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cee75ad10-9c6a-4835-8646-b6e1cd59aff7%7Cdtp&dtb=1) for $339 ($110 off) - For a Chromebook with a little bit more storage and a full HD display, this 14-inch Acer machine is a solid campus companion.
 * [Lenovo V15 Essential Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-Essential-Quad-core-Processor-Ethernet%2Fdp%2FB0D8524KVL%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cee75ad10-9c6a-4835-8646-b6e1cd59aff7%7Cdtp&dtb=1) for $399 ($100 off) - Lenovo's V15 laptop is a well-rounded machine with a full 1TB of storage, which is enough for multiple years' worth of documents and files.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best gaming laptops under $1,000
 
 Asus/ZDNET
@@ -101,10 +93,6 @@ Asus/ZDNET
 * [Asus ROG Strix G17](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B2HV382D%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cee75ad10-9c6a-4835-8646-b6e1cd59aff7%7Cdtp&dtb=1) (2022) for $949 ($250 off) - The ROG Strix G17 from Asus' 2022 lineup is marked down significantly to make room for the 2024 models, but that doesn't mean this machine can't handle high-end gaming. It's got 16GB of RAM and an Nvidia GeForce RTX 3050 GPU and bold design, all for under $1,000\.
 * [MSI Thin 15](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMSI-Thin-144Hz-Gaming-Laptop%2Fdp%2FB0BT3CD75G%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cee75ad10-9c6a-4835-8646-b6e1cd59aff7%7Cdtp&dtb=1) (2023) for $920 ($79 off) - As its name implies, the Thin 15 is an ultraportable gaming machine with an Intel Core i7 processor and Nvidia RTX 4050 graphics card along with a 15.6-inch, 144Hz display. Last year's version is a solid gaming option under that $1,000 price point.
 * [Asus TUF Gaming A15 (2024)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Display-NVIDIA%C2%AE-GeForce-FA506NF-ES51%2Fdp%2FB0CRDF25TQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cee75ad10-9c6a-4835-8646-b6e1cd59aff7%7Cdtp&dtb=1) for $599 ($100 off) - The TUF line of laptops features solid gaming hardware along with military-grade durability. The A15 is a solid gaming laptop that fits this description to a T, marked way down to a competitive price for 8GB of RAM, 512GB of storage, and an Nvidia GeForce RTX 2050 graphics card.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best laptops for photo editing
 
@@ -136,10 +124,6 @@ Kyle Kucharski/ZDNET
 
 ## FAQs
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### When is Amazon's October Prime Day 2024?
 
 Amazon Prime Day event lasts from Tuesday, Oct. 8 through Wednesday, Oct. 9, but there are noteworthy deals before and after those days as well. 
@@ -147,10 +131,6 @@ Amazon Prime Day event lasts from Tuesday, Oct. 8 through Wednesday, Oct. 9, but
 ### Are laptops really cheaper on Prime Day?
 
 Amazon hasn't historically been the premiere destination for laptop deals, but the ones it lists for Prime Day have been too good to ignore. The MacBook deals, for example, were pretty major when they first dropped, since Apple is notorious for being restrictive about sales. The deals on Prime Day have gotten better each year, with more and more manufacturers participating with a broader range of devices. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How did we choose these October Prime Day deals?
 
@@ -230,24 +210,17 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-essential-youtube-beauty-influencers-10-creators-to-watch/"><u>[New] 2024 Approved Essential YouTube Beauty Influencers 10 Creators to Watch</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-crafting-life-into-photos-motion-blur-on-face-images/"><u>[New] Crafting Life Into Photos Motion Blur on Face Images</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-essential-tips-for-digitizing-internet-radio-programming/"><u>[Updated] 2024 Approved Essential Tips for Digitizing Internet Radio Programming</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/bypassing-issues-installing-asus-pce-ac56-drivers-on-windows-7811-successfully-resolved/"><u>Bypassing Issues: Installing Asus PCE-AC56 Drivers on Windows 7/8/11 Successfully Resolved</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-to-overcoming-quicktimes-avi-compatibility-issues-across-mac-and-pc-platforms/"><u>Comprehensive Guide to Overcoming QuickTime's AVI Compatibility Issues Across Mac and PC Platforms</u></a></li>
-<li><a href="https://media-tips.techidaily.com/discover-the-power-of-windows-11-key-capabilities-seamless-update-process-and-expert-tips/"><u>Discover the Power of Windows 11: Key Capabilities, Seamless Update Process & Expert Tips</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722970912244-download-qualcomm-atheros-ar938x-drivers-for-free-simple-steps/"><u>Download Qualcomm Atheros AR938X Drivers for Free – Simple Steps!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-installation-and-regular-updates-of-the-epson-et-3760-driver-on-microsoft-windows-platforms/"><u>Easy Installation & Regular Updates of the Epson ET-3760 Driver on Microsoft Windows Platforms</u></a></li>
-<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-htc-u23-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your HTC U23 | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/far-cry-6-no-more-blank-screens-ultimate-fix-guide/"><u>Far Cry 6 No More Blank Screens: Ultimate Fix Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-logitech-driving-force-gt-software-download-compatible-with-windows-7-10-and-11/"><u>Free Logitech Driving Force GT Software Download Compatible with Windows 7, 10 & 11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722975913329-get-your-behringer-usb-interface-now-secure-and-direct-links-here/"><u>Get Your Behringer USB Interface Now – Secure and Direct Links Here!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-fetch-and-setup-the-most-recent-nvidia-driver-updates-for-optimal-performance/"><u>How to Fetch and Setup the Most Recent Nvidia Driver Updates for Optimal Performance</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-share-mac-to-apple-iphone-6-plus-drfone-by-drfone-ios/"><u>How to Screen Share Mac to Apple iPhone 6 Plus? | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-the-complete-guide-to-mastering-polarrs-image-precision/"><u>In 2024, The Complete Guide to Mastering Polarr's Image Precision</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-guide-obtain-and-install-updated-nvidia-gpu-drivers-for-enhanced-gaminggraphics-experience/"><u>Quick Guide: Obtain & Install Updated NVIDIA GPU Drivers for Enhanced Gaming/Graphics Experience</u></a></li>
-<li><a href="https://fox-that.techidaily.com/reawaken-your-apple-device-troubleshooting-disabled-iphones-and-ipads/"><u>Reawaken Your Apple Device: Troubleshooting Disabled iPhones and iPads</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/streamlined-process-to-obtain-new-drivers-for-your-lenovo-t450-laptop/"><u>Streamlined Process to Obtain New Drivers for Your Lenovo T450 Laptop</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-walkthrough-ensuring-your-amd-radeon-hd-7850-is-running-on-updated-graphics-drivers-in-windows-11/"><u>The Ultimate Walkthrough: Ensuring Your AMD Radeon HD 7850 Is Running on Updated Graphics Drivers in Windows 11</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-decoding-the-visual-language-of-live-videos-on-youtube/"><u>[New] In 2024, Decoding the Visual Language of Live Videos on YouTube</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-uncomplicatedscreensave-free-recording-software/"><u>[New] In 2024, UncomplicatedScreenSave Free Recording Software</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-selective-sights-best-macos-sierra-video-editors/"><u>[New] Selective Sights Best macOS Sierra Video Editors</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-goovision-9000-ultimate-os-snapshotter-for-2024/"><u>[Updated] GooVision 9000 Ultimate OS Snapshotter for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-nook-glowlight-4-tablet-e-reader-analysis/"><u>Comprehensive Nook GlowLight 4 Tablet E-Reader Analysis</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-hp-zbook-bk-15-g-drivers-on-windows-a-comprehensive-guide/"><u>Download & Install HP ZBook ˈbʊk 15 G³ Drivers on Windows: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-sas-software-on-windows-11-8-or-7/"><u>Download and Update SAS Software on Windows 11, 8, or 7</u></a></li>
+<li><a href="https://facebook.techidaily.com/dual-platform-game-on-fbtwitter-and-wnb-season-2023/"><u>Dual Platform Game On: FB/Twitter and WNB Season 2023</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722962468821-find-and-install-amd-rx-ultimate-downloading-guide-for-windows-11-10-8-and-7/"><u>Find and Install AMD RX 지원 드라이버: Ultimate Downloading Guide for Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-honor-play-7t-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Honor Play 7T</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-color-laserjet-pro-mfp-series-m477-printer-drivers-free-download/"><u>HP Color Laserjet Pro MFP Series M477 Printer Drivers - Free Download</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-unboxing-adventure-boosting-customer-delight-for-2024/"><u>The Ultimate Unboxing Adventure Boosting Customer Delight for 2024</u></a></li>
 </ul></div>
 

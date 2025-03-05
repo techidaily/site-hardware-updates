@@ -1,7 +1,7 @@
 ---
 title: "Stylish & Powerful: Asus Combines Next-Gen Intel/AMD CPUs in the Zenbook S & TUF A14"
-date: 2024-08-19T04:32:51.608Z
-updated: 2024-08-20T04:32:51.608Z
+date: 2025-03-01T23:19:15.076Z
+updated: 2025-03-05T07:29:44.879Z
 tags:
   - laptop
 categories:
@@ -96,9 +96,6 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -107,9 +104,6 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  On Geekbench 6, the Zenbook S16 achieved a single-core score of 2,765 and a multi-core score of 13,282\. This was enough to beat the M3 in Apple's MacBook Air, the 16-core Intel Core Ultra 7 155H in the[HP](https://tools.techidaily.com) Spectre x360 14, and the Qualcomm Snapdragon X Elite X1E-78-100 in the HP OmniBook X. The newest Ryzen fell only to the Apple M3 Max, with scores of 3,200 and 21,711 in the 16-inch MacBook Pro (and, to be fair, a review unit stocked with 128GB of RAM, making the MacBook Air a more apt comparison from a price perspective. While it's unclear that Apple has ever released an official number, various sites have tested the M3 Max to be using significantly more power than the Ryzen AI CPU here, which is rated at 28W and configured to 17W TDP out of the box).
@@ -144,9 +138,6 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
 ![Asus Zenbook S16](https://cdn.mos.cms.futurecdn.net/FjNRA9Vy2XgumK64KwiTCT-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Asus's 16-inch panel covers 79.7% of the color gamut (113%[sRGB](https://tools.techidaily.com) ), in range of both the MacBook Air and the HP OmniBook X. The 16-inch MacBook Air's mini-LED display and HP Spectre x360's OLED screen were both more vivid.
@@ -159,9 +150,6 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
 ![Asus Zenbook S16](https://cdn.mos.cms.futurecdn.net/aW7bBZzL8RWWNJL5FgJbTR-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  The keyboard is set back slightly further than I'd like because the touchpad is so tall. I got used to it but some of my coworkers found it a bit uncomfortable.
@@ -172,16 +160,10 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
  Asus also includes its Asus Pen 2.0 — a stylus with 4,096 degrees of pressure sensitivity — in the box with the laptop. It's a nice add-on, I suppose. But it’s an odd fit for this clamshell laptop, particularly considering the display doesn't fold flat.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Audio on the Asus Zenbook S16
 
  The Zenbook S16 trades volume for detail. Don't get me wrong, it's loud enough, especially if you're sitting right in front of it, but it didn't quite fill an entire meeting room with sound. But when I was listening to Charli XCX's "Von dutch," I was surprised to hear a bit of bass. The speakers, tuned with Dolby Atmos, sounded great when I switched from "balanced" to "detailed," with clear vocals, pounding drums and whirring synths.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Upgradeability of the Asus Zenbook S16
 
 There isn't much to upgrade or repair on the Zenbook S16.
@@ -218,9 +200,6 @@ There isn't much to upgrade or repair on the Zenbook S16.
 
  The camera supports infrared to log in with Windows Hello for facial recognition. It's the sole biometric option on the device.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Software and Warranty on the Asus Zenbook S16
 
  Asus includes four pieces of software on the Zenbook S16\. The first is MyAsus, which allows you to manage your warranty, and also shows system settings and lets you check for updates. This app now prompts you for an account, which it didn't use to do (and in my opinion, shouldn't need to). Despite its appearance, you can skip this prompt.  
@@ -233,18 +212,12 @@ There isn't much to upgrade or repair on the Zenbook S16.
 
  Asus sells the Zenbook S16 with a one-year warranty. A card included in the box offers one free year of accidental damage protection in exchange for registering the laptop.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Asus Zenbook S16 Configurations
 
  We tested the Asus Zenbook S16 with an AMD Ryzen AI 9 HX 370, 32GB of RAM, and a 1TB SSD, which goes for $1,699.99.
 
  A cheaper version[sold at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fshop-links.co%2Flink%3Fpublisher%255Fslug%3Dfuture%26exclusive%3D1%26u1%3Dtomshardware-us-4910217774050973812%26url%3Dhttps%253A%252F%252Fwww.bestbuy.com%252Fsite%252Fasus-zenbook-s-16-16-3k-oled-touch-screen-laptop-amd-ryzen-ai-9-365-24gb-memory-1tb-ssd-scandinavian-white%252F6584435.p%26article%255Fname%3DAsus%2520Zenbook%2520S16%2520review%253A%2520AMD%2520Ryzen%2520AI%25209%2520HX%2520370%2520tested%2520%257C%2520Tom%27s%2520Hardware%26article%255Furl%3Dhttps%253A%252F%252Fwww.tomshardware.com%252Flaptops%252Fgaming-laptops%252Fasus-zenbook-s16-amd-ryzen-ai-9-hx-370-review) is $1,399.99 with a Ryzen AI 9 HX 365 and 24GB of memory, as well as a white chassis.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Bottom Line
 
  The Asus Zenbook S16 is a solid showcase for AMD's new AI-focused processors, even if AI applications themselves aren't quite ready to excite most people.
@@ -253,9 +226,6 @@ There isn't much to upgrade or repair on the Zenbook S16.
 
 ![Asus Zenbook S16](https://cdn.mos.cms.futurecdn.net/6o6YfV44dwdxPyvuRks6XS-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  It's hard to say that 11 and a half hours of battery life is a downside, but it does show that x86 laptops are lagging a bit in that department behind the likes of Apple and Qualcomm, both using Arm-based designs. Over 11 hours is great; over 15 hours is better. Additionally, while the OLED display is extremely colorful, it's not as bright as some competitors.
@@ -274,8 +244,6 @@ There isn't much to upgrade or repair on the Zenbook S16.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -283,4 +251,21 @@ There isn't much to upgrade or repair on the Zenbook S16.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-navigating-youtube-studio-for-effective-video-alterations/"><u>[New] 2024 Approved Navigating YouTube Studio for Effective Video Alterations</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-all-about-whatsapp-voice-messages-for-2024/"><u>[Updated] All About Whatsapp Voice Messages for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-increase-igtv-views-strategic-use-of-hashtags-for-2024/"><u>[Updated] Increase IGTV Views Strategic Use of Hashtags for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-instagram-photo-addition-a-simple-guide-for-2024/"><u>[Updated] Instagram Photo Addition A Simple Guide for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-picture-perfectionism-top-tools-and-sites-for-adding-frame-elements/"><u>[Updated] Picture Perfectionism Top Tools & Sites for Adding Frame Elements</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-ultrabook-prodigy-equipped-with-latest-amd-ryzen-ai-300-processors-and-fast-thunderbolt/"><u>HP Ultrabook Prodigy: Equipped with Latest AMD Ryzen AI 300 Processors and Fast Thunderbolt</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hps-bad-bios-dilemma-automatic-firmware-updates-causing-display-malfunctions-in-probook-laptops/"><u>HP's Bad BIOS Dilemma: Automatic Firmware Updates Causing Display Malfunctions in ProBook Laptops</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/inside-toms-computer-and-technology-showcase-the-ultimate-guide/"><u>Inside Tom's Computer & Technology Showcase - The Ultimate Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/master-morse-code-typing-on-your-laptop-with-this-unique-hood-slamming-technique-caution-potential-for-damages-and-mayhem/"><u>Master Morse Code Typing on Your Laptop with This Unique Hood-Slamming Technique - Caution: Potential for Damages and Mayhem</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/master-your-craft-with-msis-newly-released-aiplus-laptops-engineered-for-gamers-and-artists-boosted-capabilities-of-100-542-tops/"><u>Master Your Craft with MSI's Newly Released AI+ Laptops, Engineered for Gamers & Artists: Boosted Capabilities of 100-542 TOPS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/master-your-setup-with-expert-choices-from-toms-hardware-domain/"><u>Master Your Setup with Expert Choices From Tom's Hardware Domain</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-power-quartet-of-social-networking-facebook-twitter-instagram-and-youtube/"><u>The Power Quartet of Social Networking: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/tips-and-tricks-for-repairing-the-non-functional-zoom-microphone-in-windows-11-or-10/"><u>Tips and Tricks for Repairing the Non-Functional Zoom Microphone in Windows 11 or 10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-and-repairing-ethernet-network-ip-configuration-issues/"><u>Troubleshooting and Repairing Ethernet Network IP Configuration Issues</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Leaked Computex 2024 Lineup Spotlight on ASUS ROG Ally and Snapdragon Processor Systems — Lack of New Graphics Card Releases Highlighted
-date: 2024-08-19T04:34:15.825Z
-updated: 2024-08-20T04:34:15.825Z
+date: 2025-02-28T22:19:14.631Z
+updated: 2025-03-05T02:34:17.279Z
 tags:
   - laptop
 categories:
@@ -47,17 +47,10 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ## Dell XPS 13
 
 ![Dell XPS 13](https://cdn.mos.cms.futurecdn.net/QAyqoqgfXVyMCzhuYHvvaS-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 (Image credit: Dell)
 
  The XPS 13 is one of the most popular Windows laptops around, and it’s one of the first[Dell](https://tools.techidaily.com) machines to get the Copilot+ PC brand. The XPS 13 is only available with Snapdragon X Elite X1E-80-100 chip, but you can spec it with 16GB, 32GB, or 64GB of LPDDR5X RAM. You can even get it with a 512GB, 1TB, or 2TB M.2 PCIe NVMe SSD.
@@ -68,9 +61,6 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
 
 ![Dell Inspiron 14 Plus Laptop](https://cdn.mos.cms.futurecdn.net/RxhbpuMwEyZwzgdfQ5xe7T-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 (Image credit: Dell)
 
  If you don’t have the budget for a premium laptop, but still trust Dell’s quality, you can pick the Inspiron 14 Plus to get on the Copilot+ PC bandwagon. This laptop uses the less potent (but still powerful) Snapdragon X Plus X1P-64-100 chip with 16GB of RAM and a 512GB SSD.
@@ -81,9 +71,6 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
 
 ![HP EliteBook Ultra 14](https://cdn.mos.cms.futurecdn.net/ss4CedHQoAQaDKDSg4AVsh-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 (Image credit: HP)
 
  The EliteBook Ultra 14 is[HP](https://tools.techidaily.com) ’s premium Copilot+ PC offering, with a 12-core Snapdragon X Elite X1E-78-100 chip, 16GB of RAM, and a 512GB SSD. It also has a 14-inch 2.2K display and has the following ports: two USB-C ports, a USB-A port, and a 3.5mm combo jack.
@@ -94,18 +81,12 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
 
 ![HP OmniBook X 14](https://cdn.mos.cms.futurecdn.net/gu94E6KZHnHWC6swaVeuab-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 (Image credit: HP)
 
  This laptop is the budget Copilot+ PC from HP, but it doesn’t mean that you’re losing out on features. The OmniBook X 14 still uses the same chip as the EliteBook Ultra 14 with 16GB of RAM. It also has a 512GB SSD, which you can upgrade to 1TB for $100 extra. It also has a 14-inch 2.2K display, but this one is multi-touch enabled.
 
  Although this laptop is thicker than the EliteBook Ultra 14, it’s also substantially more affordable at $1,149.99\. You can purchase and customize this laptop now on[the HP website](https://www.anrdoezrs.net/click-8900246-15852945?sid=tomshardware-us-1154629704587710143&url=https://www.hp.com/us-en/shop/ConfigureView?langId=-1&storeId=10151&catalogId=10051&catEntryId=3074457345621303820&urlLangId=&quantity=1) , but shipments will begin on July 9.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## Lenovo Yoga Slim 7x
 
 ![Lenovo Yoga Slim 7x](https://cdn.mos.cms.futurecdn.net/J3XYYNCds6rXWkSQVXZc49-320-80.jpg)
@@ -126,9 +107,6 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
 
  This laptop has a 14-inch IPS display and two USB4 ports, two USB-A ports, an HDMI 2.1 port, and a 3.5mm headphone jack. You also have the option to add a Nano Sim slot. The ThinkPad T14s Gen 6 starts at $1,889.30 and is available for Pre-Order direct[from Lenovo](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Flenovo.7eer.net%2Fc%2F5597632%2F218864%2F3808%3FsubId1%3Dtechidaily-us-1250424839333332531%26sharedId%3Dtechidaily-us%26u%3Dhttps%253A%252F%252Fwww.lenovo.com%252Fus%252Fen%252Fp%252Flaptops%252Fthinkpad%252Fthinkpadt%252Flenovo-thinkpad-t14s-gen-6-%252814-inch-snapdragon%2529%252Flen101t0099) at the time of writing.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Microsoft Surface Laptop
 
 ![Microsoft Surface Laptop](https://cdn.mos.cms.futurecdn.net/C6DJ6XaHjf2BKnT2gskUhk-320-80.jpg)
@@ -143,18 +121,12 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
 
 ![Microsoft Surface Pro](https://cdn.mos.cms.futurecdn.net/FDVeU5mue9SMrJ7zU7yjHB-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Microsoft)
 
  If you prefer the tablet form factor, you can still get a Copilot+ PC with the Microsoft Surface Pro. This 2-in-1 starts at $999.99 for the Snapdragon X Plus version with a 13-inch LCD display, 16GB of RAM, and a 256GB SSD for the Platinum colorway. The three other colors — Sapphire, Dune, and Black — start at $1,199.99 with a larger 512GB SSD.
 
  The Snapdragon X Elite model gets a 13-inch OLED screen and 16GB of RAM, but you now also have a choice between a 512GB or a 1TB SSD. The Snapdragon X Elite Surface Pro starts at $1,499.99 but jumps to $1,699.99 for the larger storage version. You can also spec this chip with 32GB of RAM and 1TB SSD, but you’ll have to shell out $2,099.99 for this model. You can get it now from[Microsoft](https://www.microsoft.com/en-us/store/configure/surface-pro-11th-edition/8n9t09p96cmj) if you want a new Windows 11 tablet.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Samsung Galaxy Book4 Edge
 
 ![Samsung Galaxy Book4 Edge](https://cdn.mos.cms.futurecdn.net/92Lc3j6TS3cq5HjHkBqebH-320-80.jpg)
@@ -173,8 +145,6 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -182,4 +152,26 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-adv-screen-recorder-full-review/"><u>[New] ADV Screen Recorder Full Review</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-unleash-the-potential-of-video-marketing-on-facebook-for-2024/"><u>[New] Unleash the Potential of Video Marketing on Facebook for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unveiling-10-inspirational-workout-plans-for-video-creators/"><u>[New] Unveiling 10 Inspirational Workout Plans for Video Creators</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-best-in-class-top-10-streamers-with-a-comparative-edge/"><u>[Updated] Best in Class Top 10 Streamers with a Comparative Edge</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-chromebook-zoom-excellence-must-know-strategies/"><u>[Updated] Chromebook Zoom Excellence Must-Know Strategies</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-xiaomi-redmi-k70-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Xiaomi Redmi K70 PC | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/a-glimpse-into-the-past-ancient-crt-hit-remarkable-700hz-lowers-clarity-for-ultra-fast-refresh-rates/"><u>A Glimpse Into the Past: Ancient CRT Hit Remarkable 700Hz, Lowers Clarity for Ultra-Fast Refresh Rates</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/advanced-gadget-evaluations-by-toms-hardware-experts/"><u>Advanced Gadget Evaluations by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862826938-amazing-deal-gigabyte-aorus-oled-gaming-monitor-now-at-all-time-low-just-969/"><u>Amazing Deal: Gigabyte Aorus OLED Gaming Monitor Now at All-Time Low - Just $969</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/asus-rog-strix-xg27acs-gaming-monitor-a-comprehensive-qhd-180hz-revew/"><u>Asus Rog Strix XG27ACS Gaming Monitor - A Comprehensive QHD 180Hz Revew</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/budget-friendly-gamers-dream-best-2024-round-and-flat-screens-with-advanced-refresh-rate-tech/"><u>Budget-Friendly Gamer's Dream: Best 2024 Round and Flat Screens with Advanced Refresh Rate Tech</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-analysis-of-viewsonic-va1655-a-standard-all-rounder-display-device/"><u>Comprehensive Analysis of ViewSonic VA1655 - a Standard All-Rounder Display Device</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-cutting-edge-visuals-on-aocs-agon-pro-ag456uczd-a-45-uhd-oled-monitor-with-lightning-fast-response-time-and-ultimate-gaming-comfort/"><u>Discover Cutting-Edge Visuals on AOC's Agon Pro AG456UCZD, a 45 UHD OLED Monitor with Lightning-Fast Response Time and Ultimate Gaming Comfort</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-ultimate-deal-39-lg-ultragear-wqhd-curved-gaming-display-for-just-999-on-amazon/"><u>Discover the Ultimate Deal: 39 LG Ultragear WQHD Curved Gaming Display for Just $999 on Amazon</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-features-of-the-flashy-high-performance-netgear-nighthawk-rax8-a-wi-fi-6-experience/"><u>Exploring the Features of the Flashy, High-Performance Netgear Nighthawk RAX8#: A Wi-Fi 6 Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211399277-master-the-fix-successful-steps-to-resolve-error-code-1-new-best-seo-titles-for-google-search-fatal-installer-glitch-error-1603-solved/"><u>Master the Fix: Successful Steps to Resolve Error Code 1 # New Best SEO Titles for Google Search - Fatal Installer Glitch (Error 1603) Solved!</u></a></li>
+<li><a href="https://article-files.techidaily.com/pushing-boundaries-with-hps-next-gen-4k-display-envy-27/"><u>Pushing Boundaries with HP's Next Gen 4K Display, Envy 27</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/redragon-microphone-fix-resolving-pc-connectivity-issues/"><u>Redragon Microphone Fix: Resolving PC Connectivity Issues</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862836096-unleash-your-gaming-potential-with-a-massive-39-inch-lg-ultragear-monitor-only-999-at-amazon-today/"><u>Unleash Your Gaming Potential with a Massive 39-Inch LG Ultragear Monitor – Only $999 at Amazon Today</u></a></li>
+</ul></div>
 

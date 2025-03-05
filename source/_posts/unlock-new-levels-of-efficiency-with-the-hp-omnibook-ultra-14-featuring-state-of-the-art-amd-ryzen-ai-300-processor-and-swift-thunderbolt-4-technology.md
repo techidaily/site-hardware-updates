@@ -1,7 +1,7 @@
 ---
 title: Unlock New Levels of Efficiency with the HP OmniBook Ultra 14 - Featuring State-of-the-Art AMD Ryzen AI 300 Processor and Swift Thunderbolt 4 Technology
-date: 2024-08-19T04:38:22.264Z
-updated: 2024-08-20T04:38:22.264Z
+date: 2025-02-28T01:18:15.326Z
+updated: 2025-03-04T23:19:36.419Z
 tags:
   - laptop
 categories:
@@ -100,16 +100,10 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  On Geekbench 6, the Zenbook S16 achieved a single-core score of 2,765 and a multi-core score of 13,282\. This was enough to beat the M3 in Apple's MacBook Air, the 16-core Intel Core Ultra 7 155H in the[HP](https://tools.techidaily.com) Spectre x360 14, and the Qualcomm Snapdragon X Elite X1E-78-100 in the HP OmniBook X. The newest Ryzen fell only to the Apple M3 Max, with scores of 3,200 and 21,711 in the 16-inch MacBook Pro (and, to be fair, a review unit stocked with 128GB of RAM, making the MacBook Air a more apt comparison from a price perspective. While it's unclear that Apple has ever released an official number, various sites have tested the M3 Max to be using significantly more power than the Ryzen AI CPU here, which is rated at 28W and configured to 17W TDP out of the box).
@@ -136,9 +130,6 @@ It's rare that my lasting impression about a laptop is all about style, but here
   
  I also tried a preview of Camo Studio, which uses the NPU to blur backgrounds, though you can already do that with Windows Studio Effects. There are other uses, like AI upscaling in Gigapixel AI, but these are mostly tools for creators. The average person, at the moment, doesn't seem to have a lot of reasons to use local AI features, and should probably focus more on productivity performance and battery life.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Display on the Asus Zenbook S16
 
  The screen on the Zenbook 16 makes a colorful first impression. The 16-inch, 2880 x 1800 OLED touch panel was vivid to my eye, but not as bright as some others. It also goes up to 120 Hz refresh rate.
@@ -147,19 +138,12 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
 ![Asus Zenbook S16](https://cdn.mos.cms.futurecdn.net/FjNRA9Vy2XgumK64KwiTCT-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Asus's 16-inch panel covers 79.7% of the color gamut (113%[sRGB](https://tools.techidaily.com) ), in range of both the MacBook Air and the HP OmniBook X. The 16-inch MacBook Air's mini-LED display and HP Spectre x360's OLED screen were both more vivid.
 
  At 357 nits, I found the Zenbook 16 to be usable, but competitors do better. The 16-inch MacBook Pro was the brightest at 563 nits, and both the MacBook Air (476.4 nits) and HP Spectre x360 366.2 nits were also brighter.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Keyboard and Touchpad on the Asus Zenbook S16
 
  Despite just 1.1 mm travel, the Zenbook S16’s keyboard is snappy. Don't get me wrong, it's still a membrane keyboard, but it's relatively comfortable and even has a bit of bounce. On monkeytype, I hit 112 words per minute with a 2% error rate, which isn't my best, but is pretty close.
@@ -180,9 +164,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  The Zenbook S16 trades volume for detail. Don't get me wrong, it's loud enough, especially if you're sitting right in front of it, but it didn't quite fill an entire meeting room with sound. But when I was listening to Charli XCX's "Von dutch," I was surprised to hear a bit of bass. The speakers, tuned with Dolby Atmos, sounded great when I switched from "balanced" to "detailed," with clear vocals, pounding drums and whirring synths.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Upgradeability of the Asus Zenbook S16
 
 There isn't much to upgrade or repair on the Zenbook S16.
@@ -201,19 +182,12 @@ There isn't much to upgrade or repair on the Zenbook S16.
 
 ![Asus Zenbook S16](https://cdn.mos.cms.futurecdn.net/qUjejmtkRBhxMYbsPzPwHT-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  The AMD-based Zenbook ran for 11 hours and 35 minutes on our battery test, which involves web browsing, OpenGL tests, and video streaming over Wi-Fi with the screen set to 150 nits. Only the Spectre x360, with Intel Core Ultra, did worse at 11:01 (and that's not far behind, especially considering that laptop has a smaller battery than the Zenbook).
 
  But the MacBook Air M3 (15:03), HP OmniBook X on a Snapdragon X Elite (16:18), and the 16-inch MacBook Pro lasted an incredible 17:11.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ## Heat on the Asus Zenbook S16
 
  During our ten runs of Cinebench 2024, we took skin temperature measurements to see how the Zenbook performs under an intense workload.
@@ -238,19 +212,12 @@ There isn't much to upgrade or repair on the Zenbook S16.
 
  Asus sells the Zenbook S16 with a one-year warranty. A card included in the box offers one free year of accidental damage protection in exchange for registering the laptop.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Asus Zenbook S16 Configurations
 
  We tested the Asus Zenbook S16 with an AMD Ryzen AI 9 HX 370, 32GB of RAM, and a 1TB SSD, which goes for $1,699.99.
 
  A cheaper version[sold at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fshop-links.co%2Flink%3Fpublisher%255Fslug%3Dfuture%26exclusive%3D1%26u1%3Dtomshardware-us-4910217774050973812%26url%3Dhttps%253A%252F%252Fwww.bestbuy.com%252Fsite%252Fasus-zenbook-s-16-16-3k-oled-touch-screen-laptop-amd-ryzen-ai-9-365-24gb-memory-1tb-ssd-scandinavian-white%252F6584435.p%26article%255Fname%3DAsus%2520Zenbook%2520S16%2520review%253A%2520AMD%2520Ryzen%2520AI%25209%2520HX%2520370%2520tested%2520%257C%2520Tom%27s%2520Hardware%26article%255Furl%3Dhttps%253A%252F%252Fwww.tomshardware.com%252Flaptops%252Fgaming-laptops%252Fasus-zenbook-s16-amd-ryzen-ai-9-hx-370-review) is $1,399.99 with a Ryzen AI 9 HX 365 and 24GB of memory, as well as a white chassis.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## Bottom Line
 
  The Asus Zenbook S16 is a solid showcase for AMD's new AI-focused processors, even if AI applications themselves aren't quite ready to excite most people.
@@ -277,8 +244,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -286,4 +251,26 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-enhance-visual-engagement-mastering-instagram-image-posts/"><u>[New] 2024 Approved Enhance Visual Engagement Mastering Instagram Image Posts</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-ajay-the-creative-content-creators-profitable-venture-on-youtube/"><u>[Updated] AJay The Creative Content Creator's Profitable Venture on YouTube</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-efficiently-balancing-professional-commitments-and-creativity/"><u>[Updated] Efficiently Balancing Professional Commitments & Creativity</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-explore-advanced-video-control-in-youtubes-playback-features/"><u>[Updated] Explore Advanced Video Control in YouTube’s Playback Features</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-mycams-journey-from-concept-to-reality-explored/"><u>[Updated] In 2024, MyCam's Journey From Concept to Reality Explored</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/additional-tips-about-sinnoh-stone-for-poco-c51-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/best-free-movie-streaming-applications-your-guide-to-endless-entertainment/"><u>Best Free Movie Streaming Applications – Your Guide to Endless Entertainment</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/choose-your-product-geforce-rtx-series-from-the-drop-down-menu/"><u>Choose Your Product (GeForce RTX Series) From the Drop-Down Menu.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/compact-asus-proart-ff04-case-by-xiwi-superior-cooling-for-powerful-cpus-and-gpus-within-a-9l-footprint/"><u>Compact Asus ProArt FF04 Case by Xiwi: Superior Cooling for Powerful CPUs & GPUs Within a 9L Footprint</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-guide-to-downloading-and-updating-broadcom-ethernet-drivers-on-windows-11-problems-solved/"><u>Comprehensive Guide to Downloading & Updating Broadcom Ethernet Drivers on Windows 11 - Problems Solved</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-latest-epson-wf-2760-driver-for-windows-11108-step-by-step-tutorial/"><u>Download the Latest Epson WF 2760 Driver for Windows 11/10/8 - Step by Step Tutorial</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fixing-alienware-drivers-problems-on-windows-a-comprehensive-guide/"><u>Fixing Alienware Drivers Problems on Windows: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-update-for-your-hp-deskjet-ink-advantage-3050a-driver-on-windows-download-now/"><u>Free Update for Your HP Deskjet Ink Advantage 3050A Driver on Windows: Download Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-most-recent-nvidia-quadro-rtx-4000-driver-version-from-official-sources/"><u>Get the Most Recent NVIDIA Quadro RTX #4000 Driver Version From Official Sources</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-the-black-screen-problem-with-the-epic-games-launcher-solution/"><u>How to Overcome the Black Screen Problem with the Epic Games Launcher (Solution)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-gadgets-and-systems-with-toms-hardware-insights/"><u>Mastering Gadgets and Systems with Tom's Hardware Insights</u></a></li>
+<li><a href="https://win-web.techidaily.com/methode-zur-wiederherstellung-alteren-powerpoint-formats-erfolgreich-befolgen/"><u>Methode Zur Wiederherstellung Alteren PowerPoint-Formats Erfolgreich Befolgen</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/speedy-and-simple-razer-mamba-driver-installation-start-here-today/"><u>Speedy and Simple Razer Mamba Driver Installation – Start Here Today</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/thunderbolt-interface-compatibility-upgrading-drivers-on-your-pc-win-10-8-7/"><u>Thunderbolt Interface Compatibility: Upgrading Drivers on Your PC (Win 10, 8, 7)</u></a></li>
+</ul></div>
 

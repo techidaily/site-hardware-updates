@@ -1,7 +1,7 @@
 ---
 title: "Computex Showcase Leak: Discover Asus ROG Ally, Snapdragon X - Gaming GPUs Not Included Launch List"
-date: 2024-08-19T04:33:17.196Z
-updated: 2024-08-20T04:33:17.196Z
+date: 2025-03-01T04:44:59.746Z
+updated: 2025-03-05T00:34:52.491Z
 tags:
   - laptop
 categories:
@@ -71,18 +71,12 @@ Acer Swift 14 AI  (Image credit: Qualcomm)
 
  Acer intends to launch the Swift 14 AI in the United States this June, with prices starting at $1,099.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Lenovo Yoga Slim 7x 14 Gen 9 and ThinkPad 14s Gen 6
 
  Next, we have the Yoga Slim 7x 14 Gen 9 from the Lenovo camp. Manufacturers often talk about "all-day" battery life with their thin and light[notebooks](https://tools.techidaily.com) , but Lenovo claims that the Yoga Slim 7x extends that to "multi-day battery life." The efficient Snapdragon X Elite processor is paired with up to 32GB of LPDDR5x and includes a 70 WHr battery to enable this long endurance.
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/6ajDJXDRMCTNS5JfXuENyN-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 Lenovo Yoga Slim 7x 14 Gen 9  (Image credit: Qualcomm)
 
  Your "window" into the computing world is through a 14.5-inch PureSight OLED panel with a 90Hz refresh rate and a 2944 x 1840 resolution. Lenovo says you'll get 100% coverage of sRGB and the P3 color gamuts. Other features include a 1080p webcam with IR support for Windows Hello and a four-speaker[audio](https://tools.techidaily.com) system.
@@ -116,18 +110,12 @@ Lenovo ThinkPad T14s Gen 6  (Image credit: Qualcomm)
 
  According to Lenovo, the Yoga Slim 7x and ThinkPad T14s Gen 6 will debut next month, priced from $1,199 and $1,699, respectively.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ## Dell XPS 13, Inspiron 14 Plus, and Latitude 7455
 
  Dell’s lineup of Snapdragon X laptops[leaked early last week](https://tools.techidaily.com) , so things here should look somewhat familiar. The XPS 13 has a striking design, with a keyboard that goes nearly to the left and right edge of the CNC-machined aluminum chassis (available in Platinum or Graphite). You'll also find the controversial capacitive touch function row above the keyboard, which we discussed in our[reviews of the XPS 14 and XPS 16](https://tools.techidaily.com) . The haptic touchpad is also seamlessly integrated into the keyboard deck, which is covered in Gorilla Glass 3.
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/cXqoxKsRoc29VARWi2JunN-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 Dell XPS 13  (Image credit: Qualcomm)
 
  Dell makes the Snapdragon X Elite or the Snapdragon X Plus available, although the latter is only coming to the Chinese market (at least for now). Customers can choose from 16GB, 32GB, or 64GB of dual-channel LPDDR5x memory and 512GB, 1TB, 2TB, or 4TB (later availability) SSDs.
@@ -149,9 +137,6 @@ Dell XPS 13  (Image credit: Qualcomm)
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/5STqZSSuR2Yb9mkF7rrCLN-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 Dell Inspiron 14 Plus  (Image credit: Qualcomm)
 
  The Inspiron 14 Plus comes exclusively with the Snapdragon X Plus, 16GB LPDDR5x memory, and 512GB/1TB SSD options. You get just one display option: a 14-inch 2560 x 1600 IPS panel with touch and an anti-glare coating. You also get two USB-C ports, one USB-A port, a microSD card reader, a headphone jack, quad speakers, a 1080p IR webcam with privacy shutter, Wi-Fi 7, Bluetooth 5.4, a power button with integrated fingerprint reader, and a 54 WHr battery.
@@ -168,15 +153,6 @@ Dell Latitude 7455  (Image credit: Qualcomm)
 
  The XPS 13 and Inspiron 14 Plus are scheduled to launch "later this year," priced from $1,299 and $1,099, respectively. Pricing and availability aren't yet known for the Latitude 7455.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ## Hewlett-Packard OmniBook X and EliteBook Ultra
 
  The[HP](https://tools.techidaily.com) OmniBook X and HP EliteBook Ultra share the same aluminum chassis design, weighing 2.97 pounds, and they measure 12.32 x 8.8 x 0.57 inches. The primary difference is that the latter features a blue finish with a Physical Vapor Deposition (PVD) coating to help resist fingerprints.
@@ -206,8 +182,6 @@ HP OmniBook X and EliteBook Ultra  (Image credit: Qualcomm)
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -215,4 +189,24 @@ HP OmniBook X and EliteBook Ultra  (Image credit: Qualcomm)
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-intuitive-methods-documenting-your-google-voice-chats/"><u>[New] 2024 Approved Intuitive Methods Documenting Your Google Voice Chats</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/igital-dominion-1-to-10-most-watched-youtube-videos-in-a-day/"><u>[New] Digital Dominion #1 to #10 Most Watched YouTube Videos in a Day</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-mastering-ez-grabber-a-comprehensive-guide/"><u>[Updated] In 2024, Mastering EZ Grabber A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ing-clicks-top-tags-for-gamers-content-for-2024/"><u>Crafting Clicks Top Tags for Gamers' Content for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/expert-tips-on-finding-and-recovering-accidentally-deleted-iphone-photographs/"><u>Expert Tips on Finding and Recovering Accidentally Deleted iPhone Photographs</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-vivo-s17e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Vivo S17e? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-dual-display-capture/"><u>In 2024, Dual Display Capture</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-making-a-mark-on-youtube-proven-techniques-from-creator-studio-experts/"><u>In 2024, Making a Mark on YouTube Proven Techniques From Creator Studio Experts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-pc-gear-with-insights-from-toms-hardware/"><u>Mastering PC Gear with Insights From Tom’s Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-your-pc-build-insights-from-toms-hardware-reviews/"><u>Mastering Your PC Build - Insights From Tom's Hardware Reviews</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maximize-your-gameplay-snag-a-discounted-lenovo-legion-laptop-packing-rtx-cu-and-rapid-refresh-at-240-hz/"><u>Maximize Your Gameplay: Snag a Discounted Lenovo Legion Laptop Packing RTX Cu and Rapid Refresh at 240 Hz</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigate-the-world-of-hardware-with-toms-guidance/"><u>Navigate the World of Hardware with Tom's Guidance</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-hardware-innovations-with-tom-expert-reviews-and-guides/"><u>Navigating Hardware Innovations with Tom - Expert Reviews & Guides</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-technology-with-tom-a-guide-to-premium-hardware/"><u>Navigating Technology with Tom: A Guide to Premium Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-the-complexities-of-computer-components-at-toms-tech-forum/"><u>Navigating the Complexities of Computer Components at Tom’s Tech Forum</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/qualcomms-revolutionary-chips-in-laptops-how-the-snapdragon-x-series-powers-dell-xps-13-plus-with-extended-battery-life-at-half-price-of-intel-models/"><u>Qualcomm's Revolutionary Chips in Laptops: How the Snapdragon X Series Powers Dell XPS 13 Plus with Extended Battery Life at Half Price of Intel Models</u></a></li>
+<li><a href="https://driver-download.techidaily.com/recently-launched-free-realtek-audiobluetooth-driver-update-for-windows-users/"><u>Recently Launched: Free Realtek Audio/Bluetooth Driver Update for Windows Users</u></a></li>
+</ul></div>
 

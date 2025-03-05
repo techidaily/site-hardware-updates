@@ -1,7 +1,7 @@
 ---
 title: "Slim, Powerful Gaming: Experience Acer's Predator Helios Neo 14 - Where Performance Meets Portability"
-date: 2024-08-19T04:35:33.172Z
-updated: 2024-08-20T04:35:33.172Z
+date: 2025-03-04T02:56:16.721Z
+updated: 2025-03-05T04:07:37.246Z
 tags:
   - laptop
 categories:
@@ -82,9 +82,6 @@ It's rare that my lasting impression about a laptop is all about style, but here
 | **Weight**                | 3.31 pounds (1.5 kg)                                                                         |
 | **Price (as configured)** | $1,699.99                                                                                    |
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Productivity Performance on the Asus Zenbook S16
 
  This review happens to be our first look at AMD's new Ryzen AI 9 HX 370, one of the company's very lengthily-named processors in its "Strix Point" lineup. This chip has four Zen 5 cores and eight Zen 5c cores (for a total of 12 cores). It has a base clock of 2 GHz and a max boost of up to 5.1 GHz. As chip companies attempt to one-up each other on AI, AMD is packing 50 TOPS in its NPU, surpassing the 45 TOPS in the Qualcomm Snapdragon X Elite and X Plus (the chip as a whole goes up to 80 TOPS).
@@ -103,16 +100,10 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  On Geekbench 6, the Zenbook S16 achieved a single-core score of 2,765 and a multi-core score of 13,282\. This was enough to beat the M3 in Apple's MacBook Air, the 16-core Intel Core Ultra 7 155H in the[HP](https://tools.techidaily.com) Spectre x360 14, and the Qualcomm Snapdragon X Elite X1E-78-100 in the HP OmniBook X. The newest Ryzen fell only to the Apple M3 Max, with scores of 3,200 and 21,711 in the 16-inch MacBook Pro (and, to be fair, a review unit stocked with 128GB of RAM, making the MacBook Air a more apt comparison from a price perspective. While it's unclear that Apple has ever released an official number, various sites have tested the M3 Max to be using significantly more power than the Ryzen AI CPU here, which is rated at 28W and configured to 17W TDP out of the box).
@@ -123,9 +114,6 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
  To stress the processor, we run Cinebench 2024 for 10 runs. During the test, the system started at 821.18 points and dipped into the high 700's, and then peaked up to 844.42 points before dipping again into the mid-to-high 700's. The Zen 5 cores ran at an average of 2.67 GHz, while the Zen 5C cores reached 1.9 GHz. The CPU ran at an average of 73.44 Celsius.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## AI on the AMD Ryzen AI 9 HX 370
 
  Despite all of the hubbub around artificial intelligence, it's still only useful in so many consumer products. On Windows laptops, applications are still slowly adopting the technologies. While NPUs are often being used for background blur in video conferencing apps, generative AI is often using GPUs (at least, when it isn't looking to the cloud instead).
@@ -150,9 +138,6 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
 ![Asus Zenbook S16](https://cdn.mos.cms.futurecdn.net/FjNRA9Vy2XgumK64KwiTCT-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Asus's 16-inch panel covers 79.7% of the color gamut (113%[sRGB](https://tools.techidaily.com) ), in range of both the MacBook Air and the HP OmniBook X. The 16-inch MacBook Air's mini-LED display and HP Spectre x360's OLED screen were both more vivid.
@@ -191,10 +176,6 @@ There isn't much to upgrade or repair on the Zenbook S16.
 
  Once you're in, there are two parts you could replace. The first is the battery, which takes up most of the room inside the system. The other is the SSD. Despite the size of the laptop, there isn't a secondary M.2 slot, so you'll have to replace the drive if you want more storage space. The wireless module and RAM are soldered to the motherboard.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## Battery Life on the Asus Zenbook S16
 
  While the Zenbook S16 will likely last you an entire workday, the new Asus device didn't last as long on a charge as competitors based on Arm platforms.
@@ -207,18 +188,12 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  But the MacBook Air M3 (15:03), HP OmniBook X on a Snapdragon X Elite (16:18), and the 16-inch MacBook Pro lasted an incredible 17:11.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Heat on the Asus Zenbook S16
 
  During our ten runs of Cinebench 2024, we took skin temperature measurements to see how the Zenbook performs under an intense workload.
 
  The keyboard hit a warm (but not uncomfortable) 99.5 degrees Fahrenheit, while the touchpad stayed cool at 87.4 F. The hottest point on the top on the grille at 110 F, but that's not usually a place you put your hands. On the bottom, the hottest touchpoint, near the ventilation, was at 116.2 F.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Webcam on the Asus Zenbook S16
 
  There's a 1080p webcam on the Zenbook S16's top bezel. While it's color-accurate, catching the exact shade of green in my shirt and the blue in my mesh office chair, some details, like my hair, came across a bit fuzzy.
@@ -237,9 +212,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  Asus sells the Zenbook S16 with a one-year warranty. A card included in the box offers one free year of accidental damage protection in exchange for registering the laptop.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ## Asus Zenbook S16 Configurations
 
  We tested the Asus Zenbook S16 with an AMD Ryzen AI 9 HX 370, 32GB of RAM, and a 1TB SSD, which goes for $1,699.99.
@@ -254,9 +226,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![Asus Zenbook S16](https://cdn.mos.cms.futurecdn.net/6o6YfV44dwdxPyvuRks6XS-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  It's hard to say that 11 and a half hours of battery life is a downside, but it does show that x86 laptops are lagging a bit in that department behind the likes of Apple and Qualcomm, both using Arm-based designs. Over 11 hours is great; over 15 hours is better. Additionally, while the OLED display is extremely colorful, it's not as bright as some competitors.
@@ -275,8 +244,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -284,4 +251,18 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-meta-and-omni-universe-showcase-analysis-for-2024/"><u>[New] Meta & Omni Universe Showcase Analysis for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-comprehensive-guide-to-rl-streaming-setup/"><u>[Updated] 2024 Approved Comprehensive Guide to RL Streaming Setup</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-cinemagraphy-central-filmo-faqs/"><u>[Updated] Cinemagraphy Central Filmo FAQs</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-step-by-step-guide-to-saving-your-youtube-playlists/"><u>[Updated] In 2024, Step-by-Step Guide to Saving Your YouTube Playlists</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/access-the-entire-blueprint-for-next-gen-pcie-version-7-progressing-towards-full-launch/"><u>Access the Entire Blueprint for Next-Gen PCIe Version 7 – Progressing Towards Full Launch</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/asus-rog-maximus-z790-formula-in-depth-analysis-of-superior-hybrid-cooling-and-premium-build/"><u>Asus ROG Maximus Z790 Formula - In-Depth Analysis of Superior Hybrid Cooling & Premium Build</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862866140-camm2-explained-the-revolutionary-new-memory-tech-thats-speedier-smaller-and-upgradeable/"><u>CAMM2 Explained: The Revolutionary New Memory Tech That's Speedier, Smaller and Upgradeable!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862871446-elevate-your-gaming-experience-with-longsheng-cpus-us-shipping-begins-now-entry-level-motherboards-and-systems-from-just-373/"><u>Elevate Your Gaming Experience with Longsheng CPUs - US Shipping Begins Now! Entry-Level Motherboards and Systems From Just $373</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-realme-v30-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Realme V30 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-professionally-speaking-the-top-5-drone-recommendations/"><u>In 2024, Professionally Speaking The Top 5 Drone Recommendations</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862873248-msi-unveils-top-tier-z890-and-b8n60-boards-for-intel-arc-s-certified-before-the-excitement-of-computex-2024-begins/"><u>MSI Unveils Top-Tier Z890 and B8n60 Boards for Intel Arc S, Certified Before the Excitement of Computex 2024 Begins</u></a></li>
+</ul></div>
 

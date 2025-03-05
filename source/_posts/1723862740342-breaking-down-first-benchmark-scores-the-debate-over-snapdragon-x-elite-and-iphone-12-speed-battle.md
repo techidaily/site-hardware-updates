@@ -1,7 +1,7 @@
 ---
 title: "Breaking Down First Benchmark Scores: The Debate Over Snapdragon X Elite and iPhone 12 Speed Battle."
-date: 2024-08-19T04:33:08.614Z
-updated: 2024-08-20T04:33:08.614Z
+date: 2025-03-02T04:34:03.266Z
+updated: 2025-03-04T17:37:11.110Z
 tags:
   - laptop
 categories:
@@ -77,9 +77,6 @@ Acer Swift 14 AI  (Image credit: Qualcomm)
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/6ajDJXDRMCTNS5JfXuENyN-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 Lenovo Yoga Slim 7x 14 Gen 9  (Image credit: Qualcomm)
 
  Your "window" into the computing world is through a 14.5-inch PureSight OLED panel with a 90Hz refresh rate and a 2944 x 1840 resolution. Lenovo says you'll get 100% coverage of sRGB and the P3 color gamuts. Other features include a 1080p webcam with IR support for Windows Hello and a four-speaker[audio](https://tools.techidaily.com) system.
@@ -103,9 +100,6 @@ Lenovo Yoga Slim 7x 14 Gen 9  (Image credit: Qualcomm)
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/QXLgUBPHQLuoQKnKFXBYAN-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Lenovo ThinkPad T14s Gen 6  (Image credit: Qualcomm)
 
  Lenovo provides three display options with the ThinkPad T14s Gen 6: the first two are 14-inch 400-nit IPS panels with a 1920 x 1200 resolution, but one supports touch, and the other doesn't. The third option is a 2.8K OLED panel with 100% coverage of DCI-P3 and VESA HDR True Black 500 compliance.
@@ -116,9 +110,6 @@ Lenovo ThinkPad T14s Gen 6  (Image credit: Qualcomm)
 
  According to Lenovo, the Yoga Slim 7x and ThinkPad T14s Gen 6 will debut next month, priced from $1,199 and $1,699, respectively.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Dell XPS 13, Inspiron 14 Plus, and Latitude 7455
 
  Dell’s lineup of Snapdragon X laptops[leaked early last week](https://tools.techidaily.com) , so things here should look somewhat familiar. The XPS 13 has a striking design, with a keyboard that goes nearly to the left and right edge of the CNC-machined aluminum chassis (available in Platinum or Graphite). You'll also find the controversial capacitive touch function row above the keyboard, which we discussed in our[reviews of the XPS 14 and XPS 16](https://tools.techidaily.com) . The haptic touchpad is also seamlessly integrated into the keyboard deck, which is covered in Gorilla Glass 3.
@@ -154,9 +145,6 @@ The 3.17-pound Inspiron 14 Plus measures 12.36 x 8.80 x 0.66 inches.
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/ejCrV57dyrk8JZeZLG66eN-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Dell Latitude 7455  (Image credit: Qualcomm)
 
  Rounding out Dell's Snapdragon X assault is the Latitude 7455, aimed at business users (Snapdragon X Elite or Snapdragon X Plus with up to 32GB of LPDDR5x). This 14-inch laptop is only available with a 2560 x 1600 IPS display and anti-glare coating.
@@ -165,18 +153,12 @@ Dell Latitude 7455  (Image credit: Qualcomm)
 
  The XPS 13 and Inspiron 14 Plus are scheduled to launch "later this year," priced from $1,299 and $1,099, respectively. Pricing and availability aren't yet known for the Latitude 7455.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Hewlett-Packard OmniBook X and EliteBook Ultra
 
  The[HP](https://tools.techidaily.com) OmniBook X and HP EliteBook Ultra share the same aluminum chassis design, weighing 2.97 pounds, and they measure 12.32 x 8.8 x 0.57 inches. The primary difference is that the latter features a blue finish with a Physical Vapor Deposition (PVD) coating to help resist fingerprints.
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/kkJgrFcMsp5e7XQRtHVKxM-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 HP OmniBook X and EliteBook Ultra  (Image credit: Qualcomm)
 
  The two laptops each have a Snapdragon X Elite chip, a 14-inch 2240 x 1400 IPS display, support for Wi-Fi 6E/Bluetooth 5.3 or Wi-Fi 7/Bluetooth 5.4, a 1080p webcam with IR, a 59 WHr battery, two USB-C ports, and one USB-A port. The OmniBook X is available with 16GB or 32GB of LPDDR5x and 512GB, 1TB, or 2TB SSD options. The EliteBook Ultra is only available with 16GB of LPDDR5x and a 512GB or 1TB SSD.
@@ -200,8 +182,6 @@ HP OmniBook X and EliteBook Ultra  (Image credit: Qualcomm)
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -209,4 +189,22 @@ HP OmniBook X and EliteBook Ultra  (Image credit: Qualcomm)
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-getting-the-most-out-of-google-meet-for-free/"><u>[New] 2024 Approved Getting the Most Out of Google Meet (For Free)</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-becoming-a-youtube-star-utilizing-the-power-of-featured-channels/"><u>[Updated] 2024 Approved Becoming a Youtube Star Utilizing the Power of Featured Channels</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-step-by-step-changing-file-types-for-mac-snapshots/"><u>[Updated] Step-by-Step Changing File Types for Mac Snapshots</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beyond-apple-discover-the-best-rechargeable-airtag-compatible-with-iphones-featured-review/"><u>Beyond Apple: Discover the Best Rechargeable AirTag Compatible With iPhones | Featured Review</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-halting-active-background-processes-for-android-applications/"><u>Guide: Halting Active Background Processes for Android Applications</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-forge-mode-obstacles-and-find-your-way-into-fortnite-battles/"><u>How to Overcome Forge Mode Obstacles & Find Your Way Into Fortnite Battles</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-oppo-find-x7-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/master-the-art-of-linux-gameplay-on-the-all-amd-tuxedo-sirius-gen2-stunning-visuals-and-lightning-fast-response-time-with-an-incredible-165hz-display-from-j2/"><u>Master the Art of Linux Gameplay on the All-AMD Tuxedo Sirius Gen2 - Stunning Visuals & Lightning Fast Response Time with an Incredible 165Hz Display From Just 1,699€</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-pc-gear-selection-through-toms-hardware-guidance/"><u>Mastering PC Gear Selection Through Tom's Hardware Guidance</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-your-digital-world-with-toms-hardware-experts/"><u>Mastering Your Digital World with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-high-performance-pc-builds-the-toms-hardware-perspective/"><u>Navigating High-Performance PC Builds - The Tom's Hardware Perspective</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-new-tech-thorough-assessments-on-toms-gadgetry-hub/"><u>Navigating New Tech: Thorough Assessments on Tom's Gadgetry Hub</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-the-tech-world-toms-detailed-hardware-breakdown/"><u>Navigating the Tech World: Tom's Detailed Hardware Breakdown</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-the-world-of-pc-components-with-toms-hardware-wisdom/"><u>Navigating the World of PC Components with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revive-deleted-reminders-on-your-iphone-with-these-simple-steps/"><u>Revive Deleted Reminders on Your iPhone with These Simple Steps</u></a></li>
+</ul></div>
 

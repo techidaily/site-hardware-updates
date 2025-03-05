@@ -1,7 +1,7 @@
 ---
 title: "Microsoft's Latest Innovations Revealed at the Annual Surface and AI Showcase: Highlights From This Week"
-date: 2025-02-11T19:21:04.746Z
-updated: 2025-02-16T01:44:32.950Z
+date: 2025-02-26T05:40:59.805Z
+updated: 2025-03-04T16:50:21.755Z
 tags:
   - laptops
 categories:
@@ -24,10 +24,6 @@ After months of [speculation](https://www.zdnet.com/article/microsofts-october-1
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Featured
 
 * [How to use Android's emergency satellite texting if you lose cell signal](https://www.zdnet.com/article/how-to-use-androids-emergency-satellite-texting-if-you-lose-cell-signal/)
@@ -40,10 +36,6 @@ On the surface, Microsoft has kept its fall lineup of products nearly indistingu
 Here's everything that the company announced during its October event.
 
 **Also: [How did Microsoft manage to get it right with Surface?](https://www.zdnet.com/article/how-did-microsoft-manage-to-get-it-right-with-surface/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Surface Laptop 5 gets a splash of color
 
@@ -60,10 +52,6 @@ What's different about the new Surface Laptop starts with the 12th-generation In
 [Buy the Surface Laptop 5 View now at Microsoft](https://www.microsoft.com/en-us/store/configure/Surface-Laptop-5/8XN49V61S1BN?)
 
 The Surface Laptop 5 will be available in select markets beginning on Oct. 25 with a [starting price of $999](https://www.microsoft.com/en-us/store/configure/Surface-Laptop-5/8XN49V61S1BN?) for the i5, 8GB of RAM, and 256GB model. The laptop will be available in classic Platinum, Black, and Sandstone colorways, as well as a new leafy "Sage" option. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Goodbye Surface Pro X, hello Surface Pro 9
 
@@ -97,10 +85,6 @@ For all the performance gains that you're getting, Microsoft is making you pay t
 
 [Buy the Surface Studio 2+ View now at Microsoft](https://www.microsoft.com/en-us/store/configure/Surface-Studio-2/8VLFQC3597K4?)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Microsoft Presenter+ and Audio Dock
 
 The Microsoft Presenter+.
@@ -112,10 +96,6 @@ Releasing alongside the new Surface products are the Microsoft Presenter+ and Mi
 **More: [Microsoft's new accessories are geared toward the hybrid era of work](https://www.zdnet.com/article/microsofts-new-accessories-are-geared-toward-the-hybrid-era-of-work/)**
 
 The Microsoft Audio Dock is both a docking station with four ports (HDMI, 2x USB-C, and USB-A) and a speaker for audio input and output. For $249, which is not cheap for either of its two functions, Microsoft promises "premium sound" and noise-reducing microphones that will help you "be heard clearly in your next online meeting."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Microsoft Designer takes on Canva
 
@@ -163,19 +143,21 @@ Microsoft officials say that Designer is targeted at consumers more than anyone 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-10-best-youtube-music-reaction-video-and-how-to-make-one/"><u>[New] 2024 Approved 10 Best YouTube Music Reaction Video & How to Make One</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-ultimate-8-choice-of-cameras-for-excellent-video-feeds/"><u>[Updated] 2024 Approved Ultimate 8 Choice of Cameras for Excellent Video Feeds</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/asrock-ab350-pro4-windows-driver-downloads-at-no-cost-simplified-guide/"><u>ASRock AB350 Pro4 Windows Driver Downloads at No Cost – Simplified Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-update-lenovo-drivers-for-windows-11/"><u>Download Update Lenovo Drivers for Windows 11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-downloading-and-installing-epson-v500-driver-software/"><u>Easy Guide to Downloading and Installing Epson V500 Driver Software</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/editors-choice-17-software-pick-to-perfect-picture-backgrounds/"><u>Editor's Choice 17 Software Pick to Perfect Picture Backgrounds</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>How To Simulate GPS Movement With Location Spoofer On Apple iPhone 6s? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-edge-40-neo-phone-without-google-account-by-drfone-android/"><u>How to Unlock Motorola Edge 40 Neo Phone without Google Account?</u></a></li>
-<li><a href="https://win-able.techidaily.com/instant-remedy-stop-repeatedly-crashing-during-your-outriders-gaming-sessions/"><u>Instant Remedy: Stop Repeatedly Crashing During Your Outriders Gaming Sessions</u></a></li>
-<li><a href="https://fox-info.techidaily.com/masterpiece-episodes-for-airwaves/"><u>Masterpiece Episodes for Airwaves</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/cting-privacy-during-youtube-to-mp4-conversion/"><u>Protecting Privacy During YouTube-to-MP4 Conversion</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/quick-tips-for-burning-a-dvd-to-an-internal-hdd-with-winxdvd-on-windows-11-and-windows-7/"><u>Quick Tips for Burning a DVD to an Internal HDD with WinXDVD on Windows 11 and Windows 7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/resolving-playstation-metro-exodus-game-crashes-winning-strategies/"><u>Resolving PlayStation Metro Exodus Game Crashes - Winning Strategies!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/resolving-your-computers-zoom-audio-problem-for-clear-calls/"><u>Resolving Your Computer's Zoom Audio Problem for Clear Calls</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-proven-strategies-for-smooth-recording-in-google-meethangouts-platforms/"><u>[Updated] 2024 Approved Proven Strategies for Smooth Recording in Google Meet/Hangouts Platforms</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-digital-video-conquerors-ultimate-toolkit-list/"><u>[Updated] In 2024, Digital Video Conquerors' Ultimate Toolkit List</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-leading-sites-boosting-youtube-viewership/"><u>[Updated] Leading Sites Boosting YouTube Viewership</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-honor-play-7t-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Honor Play 7T Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/immediate-application-of-gpt-4-advantages-on-chatgpt/"><u>Immediate Application of GPT-4 Advantages on ChatGPT</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-getting-started-in-vlogging-gear-and-software-guide/"><u>In 2024, Getting Started in Vlogging Gear and Software Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/pre-order-your-asus-zenfone-9-the-latest-smartphone-from-asus-on-amazon/"><u>Pre-Order Your ASUS Zenfone 9: The Latest Smartphone From ASUS on Amazon</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/protecting-your-personal-numbers-from-fraudsters-effective-strategies/"><u>Protecting Your Personal Numbers From Fraudsters: Effective Strategies</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-guide-setting-up-live-game-score-widgets-on-your-android-devices-lockscreen/"><u>Quick Guide: Setting Up Live Game Score Widgets on Your Android Device's Lockscreen</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-tips-for-discovering-your-android-phones-serial-identifier/"><u>Quick Tips for Discovering Your Android Phone's Serial Identifier</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/samsung-galaxy-z-flip-5d-teardown-analysis-a-leap-forward-in-design-excellence/"><u>Samsung Galaxy Z Flip 5D Teardown Analysis: A Leap Forward in Design Excellence</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamless-android-device-data-transfer-guide-to-connecting-with-an-external-hard-drive/"><u>Seamless Android Device Data Transfer: Guide to Connecting with an External Hard Drive</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/securing-privacy-expert-tips-for-hiding-picsvids-on-samsung-devices/"><u>Securing Privacy: Expert Tips for Hiding Pics/Vids on Samsung Devices</u></a></li>
+<li><a href="https://fox-info.techidaily.com/tiktok-bio-enhancement-with-direct-url-integration-for-2024/"><u>TikTok Bio Enhancement with Direct URL Integration for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/top-budget-friendly-android-video-callers-for-2024/"><u>Top Budget-Friendly Android Video Callers for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/youtubewindows-11/"><u>YouTubeを完璧にキャプチャ:Windows 11でのガイドラインと手順</u></a></li>
 </ul></div>
 

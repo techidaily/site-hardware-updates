@@ -1,7 +1,7 @@
 ---
 title: "PC Manufacturers Brace for Tough Season: Potential Silver Lining for Consumers? | TechInsight"
-date: 2025-02-13T01:01:15.254Z
-updated: 2025-02-15T22:46:10.264Z
+date: 2025-03-03T23:27:25.910Z
+updated: 2025-03-04T19:00:44.189Z
 tags:
   - laptops
 categories:
@@ -18,10 +18,6 @@ Image: MoMo Productions/Getty Images
 PC shipments fell by 22% year on year to 12.8 million in Western Europe in the third quarter (Q3) 2022, according to tech analyst Canalys. 
 
 The decline was across notebooks, desktops, and workstations, but notebooks saw the biggest decline of 25% year on year to 10.4 million units as business investment waned, following a cooling on spending from consumers and the education sector after the pandemic. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Featured
 
@@ -88,22 +84,22 @@ Apple's iPad dominated tablet sales at 2.8 million for the quarter, leaving it w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-master-methods-chronicling-your-ps3-gameplay-for-2024/"><u>[New] Master Methods Chronicling Your PS3 Gameplay for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-maximize-visual-impact-smart-zooming-tricks-in-snapchat/"><u>[Updated] Maximize Visual Impact Smart Zooming Tricks in Snapchat</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-redesigned-look-at-s3700-sony-entertainment-for-2024/"><u>[Updated] Redesigned Look at S3700 Sony Entertainment for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-unveiling-untapped-potential-to-augment-your-youtube-audience/"><u>2024 Approved Unveiling Untapped Potential to Augment Your Youtube Audience</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amd-radeon-rx-5700-xt-drivers-free-download-and-installation-guide-for-windows-11-10-8-and-7/"><u>AMD Radeon RX 5700 XT Drivers: Free Download & Installation Guide for Windows 11, 10, 8 & 7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/epson-workforce-ds-30-driver-download-for-windows-1187/"><u>Epson WorkForce DS 30 Driver Download for Windows 11/8/7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/find-and-download-hp-officejet-pro-8715-printer-software-for-windows-11-10-or-8-systems-free/"><u>Find & Download HP OfficeJet Pro 8715 Printer Software for Windows 11, 10 or 8 Systems [Free]</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-gigabyte-gc-wb867d-motherboard-utility-software-and-drivers/"><u>Free Gigabyte GC-WB867D Motherboard Utility Software & Drivers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/from-unprintable-to-perfect-hp-printers-recovery-story/"><u>From Unprintable to Perfect: HP Printer's Recovery Story</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722976710209-get-your-hp-officejet-n5740-up-and-running-with-instant-driver-downloads/"><u>Get Your HP OfficeJet N5740 Up and Running with Instant Driver Downloads</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-msi-sound-card-drivers-installed-on-windows-pcs-now/"><u>Get Your MSI Sound Card Drivers Installed on Windows PCs - Now</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209853655-9780692938942-gotta-kidney/"><u>Gotta Kidney?! | Free Book</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hp-ethernet-driver-downloads-optimized-for-windows-1178-systems/"><u>HP Ethernet Driver Downloads: Optimized for Windows 11/7/8 Systems</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/maximize-your-user-engagement-with-instagram-live-shopping-expert-tips-for-2024/"><u>Maximize Your User Engagement With Instagram Live Shopping Expert Tips for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quiet-your-clicks-effective-solutions-for-silencing-crackling-sounds-on-arctis-pro-elite-v7-with-windows/"><u>Quiet Your Clicks: Effective Solutions for Silencing Crackling Sounds on Arctis Pro Elite v7 with Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-fixes-for-startech-device-issues-on-microsoft-windows-11-8-and-7/"><u>Ultimate Fixes for StarTech Device Issues on Microsoft Windows 11, 8 & 7</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/wizards-whisper-are-voice-changer-apps-actual-magic-unveil-other-choices/"><u>Wizard's Whisper Are Voice Changer Apps Actual Magic? Unveil Other Choices</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-mastering-identity-verification-a-deep-dive-into-ig-selfies/"><u>[New] In 2024, Mastering Identity Verification A Deep Dive Into IG Selfies</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-virtual-captures-unlocked/"><u>[New] In 2024, Virtual Captures Unlocked</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-instagram-harmony-music-edition/"><u>[New] Instagram Harmony Music Edition</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/creen-safari-adventure-through-one-million-games-for-2024/"><u>[New] Screen Safari Adventure Through One Million Games for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-behind-the-screencast-scenes-industry-secrets-revealed/"><u>[Updated] In 2024, Behind the Screencast Scenes Industry Secrets Revealed</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-revving-into-excellence-winning-10-srt-converter-titles/"><u>[Updated] Revving Into Excellence Winning 10 SRT Converter Titles</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-setup-for-high-performance-validity-touch-id-sensor-driver-toolkit-free-downloads-available/"><u>Easy Setup for High-Performance Validity Touch ID Sensor Driver Toolkit - Free Downloads Available</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-steps-finding-and-applying-new-synaptics-drivers-on-windows-systems/"><u>Effortless Steps: Finding and Applying New Synaptics Drivers on Windows Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-hp-officejet-pro-8600-windows-compatible-printing-software/"><u>Get the Latest HP Officejet Pro 8600 Windows-Compatible Printing Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-most-out-of-your-graphics-card-amd-radeon-hd-ab-soluteby-downloading-and-updating-drivers-on-windows-10/"><u>Get the Most Out of Your Graphics Card: AMD Radeon HD Ab-Soluteby Downloading and Updating Drivers on Windows 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-easily-update-your-pc-with-the-intel-wireless-ac-9560-driver-download/"><u>How to Easily Update Your PC with the Intel Wireless AC 9560 Driver Download</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-which-is-superior-in-media-management-vlc-or-mx/"><u>In 2024, Which Is Superior in Media Management VLC or MX?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamless-upgrade-how-to-get-the-newest-nvidia-drivers-for-your-geforce-rtx-1080-on-windows-10/"><u>Seamless Upgrade: How to Get the Newest NVIDIA Drivers for Your GeForce RTX 1080 on Windows 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-installing-windows-drivers-without-an-active-connection/"><u>Step-by-Step Guide: Installing Windows Drivers Without an Active Connection</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upgrade-your-computers-performance-download-intel-raid-driver-software-supported-by-windows-versions-11108win7/"><u>Upgrade Your Computer's Performance: Download Intel RAID Driver Software - Supported by Windows (Versions 11/10/8/^[Win7])</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Lava Blaze 2 5G? | Dr.fone</u></a></li>
 </ul></div>
 

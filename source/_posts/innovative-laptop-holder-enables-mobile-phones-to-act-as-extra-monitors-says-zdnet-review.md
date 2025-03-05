@@ -1,7 +1,7 @@
 ---
 title: Innovative Laptop Holder Enables Mobile Phones to Act as Extra Monitors, Says ZDNet Review
-date: 2025-02-12T17:50:58.486Z
-updated: 2025-02-15T17:30:29.034Z
+date: 2025-03-01T21:49:50.196Z
+updated: 2025-03-05T00:32:45.492Z
 tags:
   - laptops
 categories:
@@ -40,10 +40,6 @@ Here are some of the most interesting features I saw during my hands-on briefing
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Smart Share
 
 One of the more immediately useful features I saw is the new Smart Share function. Simply giving your laptop a good whack with your phone activates a window that brings up a handful of your most recent photos that you can simply drag and drop onto your computer.
@@ -60,18 +56,10 @@ Kyle Kucharski/ZDNET
 
 Besides the Smart Share features, there are four different "modes" that activate various features. You can toggle each feature on or off individually, to avoid being bombarded with different prompts. Here are the most impactful ones I saw during my time trying the new laptops.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Shield Mode
 
 * The Privacy Alert setting uses the camera to notify you if someone is looking at your laptop screen over your shoulder. Additionally, you can have it automatically blur the screen or turn it off altogether in case someone is detected snooping.
 * The VPN auto-launch feature will start your preferred VPN automatically upon connecting to any public Wi-Fi network, a handy function if you spend a lot of time working in coffee shops.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Attention Mode
 
@@ -79,17 +67,9 @@ Besides the Smart Share features, there are four different "modes" that activate
 
 Kyle Kucharski/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Collaboration Mode
 
 * Designed mostly for virtual meetings, activating this mode enables your preset camera features, such as background blur, low light enhancer, or touch ups.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Wellness Mode
 
@@ -133,20 +113,24 @@ We'll definitely be doing some additional testing of the smart modes when we get
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-updates.techidaily.com/immediate-access-secure-qualcomm-atheros-ar938x-networking-drivers-for-optimal-performance-complimentary/"><u>[Immediate Access] Secure Qualcomm Atheros AR938X Networking Drivers for Optimal Performance - Complimentary</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-tighten-up-your-timeline-youtube-video-trimming-techniques/"><u>2024 Approved Tighten Up Your Timeline YouTube Video Trimming Techniques</u></a></li>
-<li><a href="https://techtrends.techidaily.com/decoding-virtual-versus-augmented-versus-mixed-realities-an-in-depth-guide-to-types-of-digital-environments/"><u>Decoding Virtual Versus Augmented Versus Mixed Realities: An In-Depth Guide to Types of Digital Environments</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-installation-of-linksys-ea3000-drivers-start-now/"><u>Effortless Installation of Linksys EA3000 Drivers - Start Now</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-memory-efficiency-with-edge-webview2-fixes/"><u>Enhancing Memory Efficiency with Edge WebView2 Fixes</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/find-and-install-updated-drivers-for-your-toshiba-dynabook-on-windows-computers/"><u>Find and Install Updated Drivers for Your Toshiba Dynabook on Windows Computers</u></a></li>
-<li><a href="https://windows11.techidaily.com/guidelines-to-correct-err-87-on-windows-loadlib/"><u>Guidelines to Correct Err 87 on Windows LoadLib</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-oppo-k11-5g-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Oppo K11 5G FRP Without Computer</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/intel-hd-graphics-630-driver-issues-in-windows-solved/"><u>Intel HD Graphics 630 Driver Issues In Windows [SOLVED]</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/keep-your-printer-running-smoothly-with-the-new-epson-wf-3620-windows-driver-update/"><u>Keep Your Printer Running Smoothly with the New Epson WF-3620 Windows Driver Update!</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/metaverse-expedition-leading-vr-accessories-reviewed/"><u>Metaverse Expedition Leading VR Accessories Reviewed</u></a></li>
-<li><a href="https://win-net.techidaily.com/navigate-your-deskless-files-with-windows-ai-powered-recall-feature-exclusive-guide/"><u>Navigate Your Deskless Files with Windows' AI-Powered Recall Feature – Exclusive Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/rapid-download-compatible-geforce-rtx-2060-super-graphics-card-drivers-with-windows-10-11/"><u>Rapid Download: Compatible GeForce RTX 2060 Super Graphics Card Drivers with Windows 10, 11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722963283780-speedy-windows-guide-to-downloading-and-setting-up-bcm207n02a0-drivers/"><u>Speedy Window's Guide to Downloading & Setting Up BCM207n02A0 Drivers</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-the-future-of-video-editing-fast-reliable-and-64-bit-compatible/"><u>Updated 2024 Approved The Future of Video Editing Fast, Reliable, and 64-Bit Compatible</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-earn-big-on-youtube-shorts-tips-for-profitable-content-creation/"><u>[New] 2024 Approved Earn Big on YouTube Shorts Tips for Profitable Content Creation</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-window-wisdom-taking-precise-screen-captures/"><u>[New] 2024 Approved Window Wisdom Taking Precise Screen Captures</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-20-quick-video-concepts-for-aspiring-vloggers/"><u>[New] In 2024, 20 Quick Video Concepts for Aspiring Vloggers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-revealed-the-best-thumbnail-dimensions-for-maximum-viewership-growth/"><u>[Updated] Revealed! The Best Thumbnail Dimensions for Maximum Viewership Growth</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-maximizing-iphone-camera-quality-with-hdr/"><u>2024 Approved Maximizing iPhone Camera Quality with HDR</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/brother-mfc-9130cw-driver-software-easy-download-and-installation/"><u>Brother MFC-9130CW Driver Software - Easy Download and Installation</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-updated-nvidia-quadro-rtx-8000-drivers-supporting-windows-11-8-and-7-platforms/"><u>Download Updated NVIDIA Quadro RTX 8000 Drivers - Supporting Windows 11, 8 & 7 Platforms</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-hardware-with-tom-a-deep-dive-into-tech-specifications/"><u>Exploring Hardware with Tom: A Deep Dive Into Tech Specifications</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-and-download-the-perfect-behringer-usb-sound-card-drivers-now/"><u>Find and Download the Perfect Behringer USB Sound Card Drivers Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-nvidia-quadro-rtx-8000-graphics-card-drivers-compatible-with-win-10-8-and-7/"><u>Get the Latest Nvidia Quadro RTX 8000 Graphics Card Drivers Compatible with Win 10, 8 & 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-most-recent-epson-et-2750-software-update-for-windows-users/"><u>Get the Most Recent Epson ET-2750 Software Update for Windows Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-brother-hl-2280dw-driver-on-windows-11-10-8-and-7-step-by-step-guide-and-free-download-links/"><u>How to Install Brother HL-2280DW Driver on Windows 11, 10, 8 & 7 - Step by Step Guide and Free Download Links</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-realme-11-proplus-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Realme 11 Pro+ to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-tips-to-quicken-instagram-content-engagement/"><u>In 2024, Tips to Quicken Instagram Content Engagement</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Oppo Find X7? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-ch340g-usb-to-serial-adapter-drivers-for-windows-11-free-download/"><u>Latest CH340g USB-to-Serial Adapter Drivers for Windows 11 - Free Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/new-release-secure-your-wacom-desktop-digitizer-graphics-pen-with-updated-drivers/"><u>New Release: Secure Your Wacom Desktop Digitizer Graphics Pen with Updated Drivers</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/perfecting-your-video-content-for-instagram-feed-for-2024/"><u>Perfecting Your Video Content for Instagram Feed for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-11-techniques-for-spectacular-color-enhancement/"><u>Top 11 Techniques for Spectacular Color Enhancement</u></a></li>
 </ul></div>
 

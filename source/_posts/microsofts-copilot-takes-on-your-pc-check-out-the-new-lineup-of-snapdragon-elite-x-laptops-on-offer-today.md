@@ -1,7 +1,7 @@
 ---
 title: Microsoft's Copilot Takes On Your PC - Check Out the New Lineup of Snapdragon Elite X Laptops on Offer Today
-date: 2024-08-19T04:34:26.028Z
-updated: 2024-08-20T04:34:26.028Z
+date: 2025-03-02T18:00:37.639Z
+updated: 2025-03-05T07:33:45.062Z
 tags:
   - laptop
 categories:
@@ -39,9 +39,6 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
 
  The Vivobook S15 (S5507) features two USB 4 ports, two USB 3.2 Type-A ports, a microSD card reader, an HDMI 2.1 port, and a 3.5mm headphone jack. It starts at $1,299.99 on the [Asus website](https://clk.tradedoubler.com/click?p=332082&a=2384895&epi=tomshardware-us-1448347873480858520&url=https%3A%2F%2Fshop.asus.com%2Fus%2F90nb14q2-m000w0-asus-vivobook-s-15-s5507.html) , but is out of stock at the time of writing.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -54,9 +51,6 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
 
 ![Dell XPS 13](https://cdn.mos.cms.futurecdn.net/QAyqoqgfXVyMCzhuYHvvaS-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 (Image credit: Dell)
 
  The XPS 13 is one of the most popular Windows laptops around, and it’s one of the first[Dell](https://tools.techidaily.com) machines to get the Copilot+ PC brand. The XPS 13 is only available with Snapdragon X Elite X1E-80-100 chip, but you can spec it with 16GB, 32GB, or 64GB of LPDDR5X RAM. You can even get it with a 512GB, 1TB, or 2TB M.2 PCIe NVMe SSD.
@@ -67,44 +61,26 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
 
 ![Dell Inspiron 14 Plus Laptop](https://cdn.mos.cms.futurecdn.net/RxhbpuMwEyZwzgdfQ5xe7T-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 (Image credit: Dell)
 
  If you don’t have the budget for a premium laptop, but still trust Dell’s quality, you can pick the Inspiron 14 Plus to get on the Copilot+ PC bandwagon. This laptop uses the less potent (but still powerful) Snapdragon X Plus X1P-64-100 chip with 16GB of RAM and a 512GB SSD.
 
  It also has a 14-inch QHD+ screen with 100% sRGB coverage. This laptop is priced at $1,099.99, and is also available today on[Dell](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-8900246-12578053%3Fsid%3Dtomshardware-us-1252255113311921269%26url%3Dhttps%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-laptops%2Fnew-inspiron-14-plus-laptop%2Fspd%2Finspiron-14-7441-laptop%2Fuseichbts7441hcjp%3Fref%3Dvariantstack) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## HP EliteBook Ultra 14
 
 ![HP EliteBook Ultra 14](https://cdn.mos.cms.futurecdn.net/ss4CedHQoAQaDKDSg4AVsh-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 (Image credit: HP)
 
  The EliteBook Ultra 14 is[HP](https://tools.techidaily.com) ’s premium Copilot+ PC offering, with a 12-core Snapdragon X Elite X1E-78-100 chip, 16GB of RAM, and a 512GB SSD. It also has a 14-inch 2.2K display and has the following ports: two USB-C ports, a USB-A port, and a 3.5mm combo jack.
 
  The laptop is priced at $1,699.00, making it one of the more expensive 14-inch options, and is available for[Pre-Order on the HP page](https://www.anrdoezrs.net/click-8900246-15852945?sid=tomshardware-us-1282290516643013755&url=https://www.hp.com/us-en/shop/pdp/hp-elitebook-ultra-14-inch-g1q-notebook-ai-pc) at the time of writing.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ## HP OmniBook X 14
 
 ![HP OmniBook X 14](https://cdn.mos.cms.futurecdn.net/gu94E6KZHnHWC6swaVeuab-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 (Image credit: HP)
 
  This laptop is the budget Copilot+ PC from HP, but it doesn’t mean that you’re losing out on features. The OmniBook X 14 still uses the same chip as the EliteBook Ultra 14 with 16GB of RAM. It also has a 512GB SSD, which you can upgrade to 1TB for $100 extra. It also has a 14-inch 2.2K display, but this one is multi-touch enabled.
@@ -135,18 +111,12 @@ The powerful video editing program for your Windows PC</a>
 
 ![Microsoft Surface Laptop](https://cdn.mos.cms.futurecdn.net/C6DJ6XaHjf2BKnT2gskUhk-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Microsoft)
 
  Of course,[Microsoft](https://tools.techidaily.com) will not lag behind the competition when it comes to Copilot+ PCs. It is offering the most affordable Snapdragon X option, with the Surface Laptop, which starts at $999.99\. This model has a Snapdragon X Plus processor and a 13.8-inch display. It also comes with 16GB of RAM and a 512GB SSD.
 
  The more powerful Snapdragon X Elite chip-powered Surface Laptops start at $1,399.99 for the 13.8-inch version with 16GB of RAM and a 512GB SSD. Interestingly, the 15-inch model (which can only be had with a Snapdragon X Elite chip) starts at $1,299.99, but this one only has a 256GB SSD, which seems awfully small for today’s requirements. If you want to get this Copilot+ PC, the Surface Laptop is now available on[the Microsoft website](https://www.microsoft.com/en-us/store/configure/surface-laptop-7th-edition/8tq2hq5xxkj9) .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Microsoft Surface Pro
 
 ![Microsoft Surface Pro](https://cdn.mos.cms.futurecdn.net/FDVeU5mue9SMrJ7zU7yjHB-320-80.jpg)
@@ -175,8 +145,6 @@ The powerful video editing program for your Windows PC</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -184,4 +152,26 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/treamlined-conversion-at-your-fingertips-top-6-free-apps-for-youtube-and-mp3/"><u>[New] Streamlined Conversion at Your Fingertips Top 6 Free Apps for YouTube & MP3</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-recognizing-unseen-snaps-on-social-network/"><u>[Updated] 2024 Approved Recognizing Unseen Snaps on Social Network</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-compreenas-guide-to-the-best-6-helmet-attachments-for-gopros/"><u>[Updated] A Compreenas Guide to The Best 6 Helmet Attachments for GOPROs</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-unveiling-the-best-practices-for-timing-and-organizing-google-collaborations/"><u>[Updated] In 2024, Unveiling the Best Practices for Timing and Organizing Google Collaborations</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-screen-grab-specialists-top-apps-for-windows-10-users/"><u>[Updated] Screen Grab Specialists Top Apps for Windows 10 Users</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-ultimate-hd-upgrade-tool-windows-mac-and-online-conversion-for-2024/"><u>[Updated] Ultimate HD Upgrade Tool Windows, Mac & Online Conversion for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-samsung-galaxy-s23-fe-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Samsung Galaxy S23 FE Fingerprint Lock</u></a></li>
+<li><a href="https://some-tips.techidaily.com/get-the-most-secure-smart-camera-at-a-great-price-the-blink-mini-2-with-25-off-this-labor-day-zdnet-insider-deals/"><u>Get the Most Secure Smart Camera at a Great Price: The Blink Mini 2 with 25% Off This Labor Day | ZDNET Insider Deals</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/huge-discount-experience-ultimate-gaming-with-the-sceptre-24-inch-curved-monitor-for-only-79/"><u>Huge Discount: Experience Ultimate Gaming with The Sceptre 24 Inch Curved Monitor for Only $79</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/immerse-in-unparalleled-viewing-with-asrocks-new-32-480hz-oled-monitor-the-ultimate-feast-for-vision-and-connectivity/"><u>Immerse in Unparalleled Viewing with ASROCK’s New 32 480Hz OLED Monitor – The Ultimate Feast for Vision and Connectivity</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-get-1000-subscribers-for-your-youtube-channel/"><u>In 2024, Get 1000 Subscribers for Your YouTube Channel</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/in-depth-analysis-and-tips-from-toms-hardware-store/"><u>In-Depth Analysis and Tips From Tom's Hardware Store</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/inside-toms-pc-world-expert-insights-on-hardware-innovations/"><u>Inside Tom's PC World: Expert Insights on Hardware Innovations</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/leading-curved-gaming-screens-to-elevate-your-play-experience-2024/"><u>Leading Curved Gaming Screens to Elevate Your Play Experience, 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/lgs-best-34-ultragear-monitor-qhd-resolution-and-g-sync-tech-now-only-549-on-amazon/"><u>LG's Best: 34 Ultragear Monitor, QHD Resolution & G-Sync Tech - Now Only $549 on Amazon!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-gadgets-and-pcs-with-tom-a-detailed-hardware-journey/"><u>Mastering Gadgets and PCs with Tom: A Detailed Hardware Journey</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-hardware-knowledge-with-toms-electronic-guides/"><u>Mastering Hardware Knowledge with Tom’s Electronic Guides</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-your-pc-needs-dive-into-toms-comprehensive-hardware-guides/"><u>Mastering Your PC Needs? Dive Into Tom's Comprehensive Hardware Guides</u></a></li>
+</ul></div>
 

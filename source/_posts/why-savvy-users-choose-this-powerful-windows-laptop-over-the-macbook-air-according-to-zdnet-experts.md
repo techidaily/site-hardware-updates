@@ -1,7 +1,7 @@
 ---
 title: Why Savvy Users Choose This Powerful Windows Laptop Over the MacBook Air, According to ZDNet Experts
-date: 2025-02-10T19:18:36.481Z
-updated: 2025-02-15T18:48:19.617Z
+date: 2025-03-03T20:49:49.869Z
+updated: 2025-03-05T01:01:58.373Z
 tags:
   - laptops
 categories:
@@ -19,10 +19,6 @@ Kyle Kucharski/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -84,10 +80,6 @@ So, let's talk about the battery life of this laptop. I used the device intermit
 
 However, this laptop will not last more than a day of demanding, sustained use. If you take the Acer Aspire Go 15 to the office and forget your charger, you'll get about seven to eight hours of life. But all things considered, the battery power on this machine rounds out the package nicely. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 For the price, the [Acer Aspire Go 15](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAspire-i3-N305-Graphics-Windows-AG15-31P-3947%2Fdp%2FB0CV5ZSR17%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8d6f5603-2fc7-4d64-9376-c668cd229781%7Cdtp&dtb=1) is a solid pick for users without demanding performance requirements or for people who need a secondary laptop for traveling. It's also a great pick for students seeking a budget laptop to bring on campus for note-taking and completing assignments, and the device is included in our [best laptops for college list](https://www.zdnet.com/article/best-college-laptop/). 
@@ -124,22 +116,20 @@ The practical list of features, selection of ports, and decent battery life give
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-the-art-of-attraction-steering-your-instagram-creativity-towards-sponsorship-success/"><u>[New] 2024 Approved The Art of Attraction Steering Your Instagram Creativity Towards Sponsorship Success</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-consolidating-zoom-schedules-on-android-ios-and-desktop-platforms-for-2024/"><u>[New] Consolidating Zoom Schedules on Android, iOS & Desktop Platforms for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-digital-storytelling-unlocked-creating-memorable-slideshows-on-fb/"><u>[New] In 2024, Digital Storytelling Unlocked Creating Memorable Slideshows on FB</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-srts-potential-in-subtitle-format-sub/"><u>2024 Approved Unveiling SRT's Potential in Subtitle Format (SUB)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/complete-driver-setup-for-hp-thunderbolt-dock-g2-with-120w-and-230w-power-options/"><u>Complete Driver Setup for HP Thunderbolt Dock G2 with 120W and 230W Power Options</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-latest-hp-spectre-x360-software-and-drivers-for-windows-systems/"><u>Download the Latest HP Spectre X360 Software and Drivers for Windows Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-installation-guide-brother-mfc-7360n-printer-drivers-for-windows-11-8-and-7/"><u>Easy Installation Guide: Brother MFC-7360N Printer Drivers for Windows 11, 8, and 7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-download-latest-ricoh-printer-drivers-for-windows-pcs/"><u>Free Download: Latest Ricoh Printer Drivers for Windows PCs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-download-techkey-universal-bluetooth-dongle-software-compatible-with-windows-1078/"><u>Free Download: Techkey Universal Bluetooth Dongle Software Compatible with Windows 10/7/8</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722970372754-get-your-hp-deskjet-3520-software-and-drivers-free-download-now/"><u>Get Your HP Deskjet 3520 Software & Drivers – Free Download Now!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-update-ati-drivers-for-windows/"><u>How To Update ATI Drivers For Windows</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-top-3-tactics-converting-pins-to-audio-clips/"><u>In 2024, Top 3 Tactics Converting Pins to Audio Clips</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Nubia Z50 Ultra | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/is-your-iphone-13-case-compatible-with-iphone-14-discover-answers-and-tips/"><u>Is Your iPhone 13 Case Compatible with iPhone 14? Discover Answers & Tips</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-fixes-for-your-lenovo-usb-connectivity-challenges/"><u>Quick Fixes for Your Lenovo USB Connectivity Challenges</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-free-flv-video-editing/"><u>The Ultimate Guide to Free FLV Video Editing</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unlock-full-potential-of-streaming-with-dual-display-on-netflix-for-2024/"><u>Unlock Full Potential of Streaming with Dual Display on Netflix for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-boosting-social-reach-share-tiktoks-with-a-twist-of-twitter/"><u>[New] 2024 Approved Boosting Social Reach Share TikToks with a Twist of Twitter</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-the-ultimate-framework-for-fullscreen-proficiency-in-premiere/"><u>[New] 2024 Approved The Ultimate Framework for Fullscreen Proficiency in Premiere</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-complete-insight-gopro-silver-hero4-detailed-assessment/"><u>[New] Complete Insight GoPro Silver Hero4 Detailed Assessment</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-easy-steps-to-screen-record-on-macbook-air/"><u>[New] Easy Steps to Screen Record on Macbook Air</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-the-art-of-video-transmission-within-discords-realm-for-2024/"><u>[New] The Art of Video Transmission Within Discord's Realm for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-the-essential-manual-to-acquiring-final-cut-pro-gratis/"><u>[New] The Essential Manual to Acquiring Final Cut Pro Gratis</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/1-top-5-free-tools-to-transform-your-m4a-files-into-high-quality-wav-format/"><u>1. Top 5 FREE Tools to Transform Your M4A Files Into High-Quality WAV Format</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-accelerate-your-editing-process-with-these-5-tips-for-obs/"><u>2024 Approved Accelerate Your Editing Process with These 5 Tips for OBS</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-system-restore-in-windows-a-comprehensible-tutorial/"><u>Navigating System Restore in Windows: A Comprehensible Tutorial</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/samsung-galaxy-z-fold3-analysis-stunning-performance-meets-classic-style/"><u>Samsung Galaxy Z Fold3 Analysis: Stunning Performance Meets Classic Style</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/solving-the-dilemma-steps-to-take-when-an-android-device-refuses-to-boot/"><u>Solving the Dilemma: Steps to Take When an Android Device Refuses to Boot</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-debate-on-surface-duo-2-unpacking-the-varied-reactions-towards-microsofts-innovative-dual-display-device/"><u>The Debate on Surface Duo 2: Unpacking the Varied Reactions Towards Microsoft's Innovative Dual-Display Device</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-premier-guide-to-selecting-the-finest-android-weather-widget-apps/"><u>The Premier Guide to Selecting the Finest Android Weather Widget Apps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-guide-why-choosing-an-affordable-smartphone-prop-is-key-for-every-tech-enthusiast/"><u>The Ultimate Guide: Why Choosing an Affordable Smartphone Prop Is Key for Every Tech Enthusiast</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-reasons-to-switch-to-firefox-browser-app-on-android-smartphones-and-tablets/"><u>Top Reasons to Switch to Firefox Browser App on Android Smartphones and Tablets</u></a></li>
 </ul></div>
 

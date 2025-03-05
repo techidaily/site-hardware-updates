@@ -1,7 +1,7 @@
 ---
 title: "Intel and AMD at Their Best in the Stunning New Asus Lineup: Zenbook S & TUF A14 Showcase Elite Technology Meets Elegance"
-date: 2024-08-19T04:37:53.641Z
-updated: 2024-08-20T04:37:53.641Z
+date: 2025-03-01T17:36:26.874Z
+updated: 2025-03-04T21:49:53.292Z
 tags:
   - laptop
 categories:
@@ -82,9 +82,6 @@ It's rare that my lasting impression about a laptop is all about style, but here
 | **Weight**                | 3.31 pounds (1.5 kg)                                                                         |
 | **Price (as configured)** | $1,699.99                                                                                    |
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Productivity Performance on the Asus Zenbook S16
 
  This review happens to be our first look at AMD's new Ryzen AI 9 HX 370, one of the company's very lengthily-named processors in its "Strix Point" lineup. This chip has four Zen 5 cores and eight Zen 5c cores (for a total of 12 cores). It has a base clock of 2 GHz and a max boost of up to 5.1 GHz. As chip companies attempt to one-up each other on AI, AMD is packing 50 TOPS in its NPU, surpassing the 45 TOPS in the Qualcomm Snapdragon X Elite and X Plus (the chip as a whole goes up to 80 TOPS).
@@ -103,16 +100,10 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  On Geekbench 6, the Zenbook S16 achieved a single-core score of 2,765 and a multi-core score of 13,282\. This was enough to beat the M3 in Apple's MacBook Air, the 16-core Intel Core Ultra 7 155H in the[HP](https://tools.techidaily.com) Spectre x360 14, and the Qualcomm Snapdragon X Elite X1E-78-100 in the HP OmniBook X. The newest Ryzen fell only to the Apple M3 Max, with scores of 3,200 and 21,711 in the 16-inch MacBook Pro (and, to be fair, a review unit stocked with 128GB of RAM, making the MacBook Air a more apt comparison from a price perspective. While it's unclear that Apple has ever released an official number, various sites have tested the M3 Max to be using significantly more power than the Ryzen AI CPU here, which is rated at 28W and configured to 17W TDP out of the box).
@@ -129,9 +120,6 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
 ![Asus Zenbook S16](https://cdn.mos.cms.futurecdn.net/kyTb4Yk4LUiQN83wEJXLtQ-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  In a reviewer's guide sent to the press, AMD suggested a number of applications to try that make use of local AI. Chief among them was a beta of Amuse 2.0, which includes image generation with Stable Diffusion, as well as paint-to-image features that are very similar to image creator in Paint on Copilot Plus PCs (though that uses DALL-E). In a way, this app, made to work well with AMD's hardware, can fill in the blanks until[Microsoft](https://tools.techidaily.com) adds Copilot Plus features to Ryzen AI laptops.
@@ -142,10 +130,6 @@ It's rare that my lasting impression about a laptop is all about style, but here
   
  I also tried a preview of Camo Studio, which uses the NPU to blur backgrounds, though you can already do that with Windows Studio Effects. There are other uses, like AI upscaling in Gigapixel AI, but these are mostly tools for creators. The average person, at the moment, doesn't seem to have a lot of reasons to use local AI features, and should probably focus more on productivity performance and battery life.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ## Display on the Asus Zenbook S16
 
  The screen on the Zenbook 16 makes a colorful first impression. The 16-inch, 2880 x 1800 OLED touch panel was vivid to my eye, but not as bright as some others. It also goes up to 120 Hz refresh rate.
@@ -176,16 +160,10 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
  Asus also includes its Asus Pen 2.0 — a stylus with 4,096 degrees of pressure sensitivity — in the box with the laptop. It's a nice add-on, I suppose. But it’s an odd fit for this clamshell laptop, particularly considering the display doesn't fold flat.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Audio on the Asus Zenbook S16
 
  The Zenbook S16 trades volume for detail. Don't get me wrong, it's loud enough, especially if you're sitting right in front of it, but it didn't quite fill an entire meeting room with sound. But when I was listening to Charli XCX's "Von dutch," I was surprised to hear a bit of bass. The speakers, tuned with Dolby Atmos, sounded great when I switched from "balanced" to "detailed," with clear vocals, pounding drums and whirring synths.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ## Upgradeability of the Asus Zenbook S16
 
 There isn't much to upgrade or repair on the Zenbook S16.
@@ -194,9 +172,6 @@ There isn't much to upgrade or repair on the Zenbook S16.
 
 ![Asus Zenbook S16](https://cdn.mos.cms.futurecdn.net/ecmzqwkBMqHc5j2cTa5SPS-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Once you're in, there are two parts you could replace. The first is the battery, which takes up most of the room inside the system. The other is the SSD. Despite the size of the laptop, there isn't a secondary M.2 slot, so you'll have to replace the drive if you want more storage space. The wireless module and RAM are soldered to the motherboard.
@@ -207,9 +182,6 @@ There isn't much to upgrade or repair on the Zenbook S16.
 
 ![Asus Zenbook S16](https://cdn.mos.cms.futurecdn.net/qUjejmtkRBhxMYbsPzPwHT-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  The AMD-based Zenbook ran for 11 hours and 35 minutes on our battery test, which involves web browsing, OpenGL tests, and video streaming over Wi-Fi with the screen set to 150 nits. Only the Spectre x360, with Intel Core Ultra, did worse at 11:01 (and that's not far behind, especially considering that laptop has a smaller battery than the Zenbook).
@@ -246,9 +218,6 @@ There isn't much to upgrade or repair on the Zenbook S16.
 
  A cheaper version[sold at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fshop-links.co%2Flink%3Fpublisher%255Fslug%3Dfuture%26exclusive%3D1%26u1%3Dtomshardware-us-4910217774050973812%26url%3Dhttps%253A%252F%252Fwww.bestbuy.com%252Fsite%252Fasus-zenbook-s-16-16-3k-oled-touch-screen-laptop-amd-ryzen-ai-9-365-24gb-memory-1tb-ssd-scandinavian-white%252F6584435.p%26article%255Fname%3DAsus%2520Zenbook%2520S16%2520review%253A%2520AMD%2520Ryzen%2520AI%25209%2520HX%2520370%2520tested%2520%257C%2520Tom%27s%2520Hardware%26article%255Furl%3Dhttps%253A%252F%252Fwww.tomshardware.com%252Flaptops%252Fgaming-laptops%252Fasus-zenbook-s16-amd-ryzen-ai-9-hx-370-review) is $1,399.99 with a Ryzen AI 9 HX 365 and 24GB of memory, as well as a white chassis.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Bottom Line
 
  The Asus Zenbook S16 is a solid showcase for AMD's new AI-focused processors, even if AI applications themselves aren't quite ready to excite most people.
@@ -275,8 +244,6 @@ There isn't much to upgrade or repair on the Zenbook S16.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -284,4 +251,24 @@ There isn't much to upgrade or repair on the Zenbook S16.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-digital-game-chronicles-snappy-screenshots-for-every-moment-for-2024/"><u>[New] Digital Game Chronicles Snappy Screenshots for Every Moment for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-best-of-the-best-a-ranked-list-of-top-10-video-call-apps/"><u>[Updated] Best of the Best A Ranked List of Top 10 Video Call Apps</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-easyvidwin11-the-simplest-way-to-record-your-pc-screen/"><u>[Updated] In 2024, EasyVidWin11 The Simplest Way to Record Your PC Screen</u></a></li>
+<li><a href="https://some-tips.techidaily.com/your-name-takes-on-the-ultimate-test-of-resilience-apples-top-tier-durable-iphone-case-and-its-exclusive-security-aspect/"><u>[Your Name] Takes on the Ultimate Test of Resilience: Apple's Top-Tier Durable iPhone Case and Its Exclusive Security Aspect</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-whatsapp-video-transfers-from-tweeted-content/"><u>2024 Approved WhatsApp Video Transfers From Tweeted Content</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722977602649-download-the-new-magicard-rio-pro-driver-compatible-with-windows-10817-get-it-now/"><u>Download the New Magicard Rio Pro Driver: Compatible with Windows 10/8.1/7 - Get It Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-hardware-analysis-from-toms-technology-portal/"><u>Expert Hardware Analysis From Tom's Technology Portal</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722968856195-free-download-canon-imageclass-mf4800-printer-drivers-and-software/"><u>Free Download: Canon ImageCLASS MF4800 Printer Drivers and Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-set-up-fast-free-pioneer-dj-ddj-sx2-controller-driver-downloads/"><u>Get Set Up Fast! Free Pioneer DJ DDJ-SX2 Controller Driver Downloads</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/guide-to-overcoming-bluetooth-driver-issues-in-windows-10-expert-advice-for-smooth-connection/"><u>Guide to Overcoming Bluetooth Driver Issues in Windows 10 - Expert Advice for Smooth Connection</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-to-download-your-entire-facebook-history/"><u>How to Download Your Entire Facebook History</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-asus-rog-phone-7-ultimate-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Asus ROG Phone 7 Ultimate? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/qualcomm-atheros-ar3011-get-the-latest-free-download-for-bluetooth-30-support/"><u>Qualcomm Atheros AR3011: Get the Latest [Free Download] for Bluetooth 3.0 Support</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-and-simple-way-to-download-and-install-epson-xp-410-printer-drivers-for-windows/"><u>Quick and Simple Way to Download and Install Epson XP-410 Printer Drivers for Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-guide-microsoft-drivers-downloads-and-updates-for-windows-10-8-and-7/"><u>Quick Guide: Microsoft Drivers Downloads and Updates for Windows 10, 8, and 7</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-ultimate-guide-to-youtube-copyright-for-2024/"><u>The Ultimate Guide to YouTube Copyright for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-10-user-manual-how-to-turn-off-built-in-audio-upgrades/"><u>Windows 10 User Manual: How to Turn Off Built-In Audio Upgrades</u></a></li>
+</ul></div>
 

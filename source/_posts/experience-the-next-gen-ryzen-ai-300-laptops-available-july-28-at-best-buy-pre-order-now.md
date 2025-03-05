@@ -1,7 +1,7 @@
 ---
 title: "Experience the Next-Gen Ryzen AI 300 Laptops: Available July 28 at Best Buy - Pre-Order Now"
-date: 2024-08-19T04:31:38.113Z
-updated: 2024-08-20T04:31:38.113Z
+date: 2025-02-28T18:33:06.667Z
+updated: 2025-03-04T18:32:31.606Z
 tags:
   - laptop
 categories:
@@ -59,9 +59,6 @@ Acer Swift 14 AI  (Image credit: Qualcomm)
 
  On the connectivity front, there are two USB-C, two USB-A ports, and HDMI 1.4\. For your wireless needs, you'll find Wi-Fi 7 and Bluetooth 5.4\. Power comes from a 73 WHr battery, rated for up to 12 hours.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -74,9 +71,6 @@ Acer Swift 14 AI  (Image credit: Qualcomm)
 
  Acer intends to launch the Swift 14 AI in the United States this June, with prices starting at $1,099.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Lenovo Yoga Slim 7x 14 Gen 9 and ThinkPad 14s Gen 6
 
  Next, we have the Yoga Slim 7x 14 Gen 9 from the Lenovo camp. Manufacturers often talk about "all-day" battery life with their thin and light[notebooks](https://tools.techidaily.com) , but Lenovo claims that the Yoga Slim 7x extends that to "multi-day battery life." The efficient Snapdragon X Elite processor is paired with up to 32GB of LPDDR5x and includes a 70 WHr battery to enable this long endurance.
@@ -106,10 +100,6 @@ Lenovo Yoga Slim 7x 14 Gen 9  (Image credit: Qualcomm)
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/QXLgUBPHQLuoQKnKFXBYAN-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 Lenovo ThinkPad T14s Gen 6  (Image credit: Qualcomm)
 
  Lenovo provides three display options with the ThinkPad T14s Gen 6: the first two are 14-inch 400-nit IPS panels with a 1920 x 1200 resolution, but one supports touch, and the other doesn't. The third option is a 2.8K OLED panel with 100% coverage of DCI-P3 and VESA HDR True Black 500 compliance.
@@ -126,9 +116,6 @@ Lenovo ThinkPad T14s Gen 6  (Image credit: Qualcomm)
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/cXqoxKsRoc29VARWi2JunN-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Dell XPS 13  (Image credit: Qualcomm)
 
  Dell makes the Snapdragon X Elite or the Snapdragon X Plus available, although the latter is only coming to the Chinese market (at least for now). Customers can choose from 16GB, 32GB, or 64GB of dual-channel LPDDR5x memory and 512GB, 1TB, 2TB, or 4TB (later availability) SSDs.
@@ -150,9 +137,6 @@ Dell XPS 13  (Image credit: Qualcomm)
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/5STqZSSuR2Yb9mkF7rrCLN-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 Dell Inspiron 14 Plus  (Image credit: Qualcomm)
 
  The Inspiron 14 Plus comes exclusively with the Snapdragon X Plus, 16GB LPDDR5x memory, and 512GB/1TB SSD options. You get just one display option: a 14-inch 2560 x 1600 IPS panel with touch and an anti-glare coating. You also get two USB-C ports, one USB-A port, a microSD card reader, a headphone jack, quad speakers, a 1080p IR webcam with privacy shutter, Wi-Fi 7, Bluetooth 5.4, a power button with integrated fingerprint reader, and a 54 WHr battery.
@@ -169,9 +153,6 @@ Dell Latitude 7455  (Image credit: Qualcomm)
 
  The XPS 13 and Inspiron 14 Plus are scheduled to launch "later this year," priced from $1,299 and $1,099, respectively. Pricing and availability aren't yet known for the Latitude 7455.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Hewlett-Packard OmniBook X and EliteBook Ultra
 
  The[HP](https://tools.techidaily.com) OmniBook X and HP EliteBook Ultra share the same aluminum chassis design, weighing 2.97 pounds, and they measure 12.32 x 8.8 x 0.57 inches. The primary difference is that the latter features a blue finish with a Physical Vapor Deposition (PVD) coating to help resist fingerprints.
@@ -201,8 +182,6 @@ HP OmniBook X and EliteBook Ultra  (Image credit: Qualcomm)
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -210,4 +189,26 @@ HP OmniBook X and EliteBook Ultra  (Image credit: Qualcomm)
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-rethinking-color-dynamics-in-videography-with-hdrs-introduction/"><u>[New] In 2024, Rethinking Color Dynamics in Videography with HDR's Introduction</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-selecting-the-top-5-youtube-grabber-software-for-2024/"><u>[New] Selecting the Top 5 YouTube Grabber Software for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-complete-analysis-gopro-hero4-silver-edition/"><u>2024 Approved Complete Analysis GoPro HERO4 Silver Edition</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-how-to-seamlessly-reorganize-video-playlists-on-yt/"><u>2024 Approved How to Seamlessly Reorganize Video Playlists on YT</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-text-overlays-on-digital-pictures/"><u>2024 Approved Mastering Text Overlays on Digital Pictures</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/access-asus-realtek-speakersheadphones-drivers-for-free-today/"><u>Access ASUS Realtek Speakers/Headphones Drivers for Free Today!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/canon-mx340-driver-download-for-windows-1087/"><u>Canon MX340 Driver Download for Windows 10/8/7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-driver-update-solutions-for-lenovo-aio-100s-laptop/"><u>Easy Driver Update Solutions for Lenovo AIO 100S Laptop</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-instructions-to-download-and-install-your-epson-xp-410-printers-windows-drivers/"><u>Easy Instructions to Download and Install Your Epson XP-410 Printer's Windows Drivers</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206802457-error-code-31-on-your-pc-heres-how-you-can-solve-it/"><u>Error Code 31 on Your PC? Here's How You Can Solve It</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-computing-solutions-with-toms-hardware-hub/"><u>Exploring Computing Solutions with Tom's Hardware Hub</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/flawless-image-reader-with-quick-access-for-2024/"><u>Flawless Image Reader with Quick Access for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/improve-your-network-speed-with-newly-released-wlan-drivers-compatible-with-win11-10-8-and-n7/"><u>Improve Your Network Speed with Newly Released WLAN Drivers – Compatible with Win11, 10, 8 & N7</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-complex-world-of-ai-as-a-mental-health-aide/"><u>Navigating the Complex World of AI as a Mental Health Aide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722969087953-quick-fixes-to-your-logitech-c615s-driver-woes-troubleshoot-with-ease/"><u>Quick Fixes to Your Logitech C615's Driver Woes – Troubleshoot with Ease</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/successfully-set-up-your-hp-laserjet-5200-on-windows-11-10-or-8-free-driver-downloads-inside/"><u>Successfully Set Up Your HP LaserJet 5200 on Windows (11, 10 or 8) - Free Driver Downloads Inside!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tailoring-your-auto-insurance-coverage-to-fit-your-needs-vehicle-value-and-risk-factors/"><u>Tailoring Your Auto Insurance Coverage to Fit Your Needs, Vehicle Value & Risk Factors</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-and-resolving-problems-with-acer-drivers-on-pcs/"><u>Troubleshooting and Resolving Problems with Acer Drivers on PCs</u></a></li>
+</ul></div>
 

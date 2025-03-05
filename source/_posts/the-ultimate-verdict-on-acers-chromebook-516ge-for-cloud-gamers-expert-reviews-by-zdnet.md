@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Verdict on Acer's Chromebook ^516GE for Cloud Gamers | Expert Reviews by ZDNET
-date: 2025-02-09T01:02:10.993Z
-updated: 2025-02-15T23:00:49.139Z
+date: 2025-02-27T07:02:40.711Z
+updated: 2025-03-05T01:06:42.557Z
 tags:
   - laptops
 categories:
@@ -34,10 +34,6 @@ thumbnail: https://www.zdnet.com/a/img/resize/9c5c604a660fb3917fa9d4e87d43e90659
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 The redesigned (13-inch) M2 MacBook Air was so impressive from a design and performance standpoint that ZDNET named it our [Product of the Year for 2022](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/). The [M3 MacBook Air](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F13-inch-m3&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is a worthy successor, now offered in two sizes, 13-inch and 15-inch. ZDNET has tested both over the past week and has been [impressed enough with their three big upgrades](https://www.zdnet.com/article/apple-m3-macbook-air-hands-on-these-3-new-features-stood-out-to-me-most/) that it makes these new machines an easy buy recommendation for pros and enthusiasts who need more AI power and multiple external monitors. But, there are also some important buying considerations. 
@@ -47,10 +43,6 @@ First, the best thing about the arrival of the M3 MacBook Air models might be th
 One more thing to keep in mind if you're considering buying the 15-inch M3 MacBook Air: if you configure it with 16GB of RAM and 512GB of storage, then you'll be at $1,699 and quickly getting into 14-inch M3 MacBook Pro territory in terms of cost. If you're going to go there, I'd recommend opting for the 14-inch M3 MacBook Pro instead, because of its much better display and sound, and the fact that you can hook it up to two external monitors and still use the laptop's monitor as a third display.
 
 **Also:** [**MacBook Pro (M3 Max) review: A desktop-class laptop for an AI-powered age**](https://www.zdnet.com/article/macbook-pro-m3-max-review/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Specifications
 
@@ -75,19 +67,11 @@ The ability to run two external monitors with the lid closed is one of the M3 Ma
 
 Jason Hiner/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How I tested the M3 MacBook Air
 
 In terms of qualitative testing, I wrote this article on the M3 MacBook Air and used my daily work applications -- Slack, Microsoft Outlook, Google Drive, and ZDNET's CMS. I also used Adobe Lightroom for processing photos, including AI features. I fired up YouTube in Safari to play the song Eclipse from the Dune 2 soundtrack as a way to test the audio quality of the built-in speakers. I also played the 2021 Dune movie in 4K from my library in the Apple TV Plus app to test the display quality of the M3 MacBook Air. I expect there will be a lot more AI testing to do after WWDC 2024 in June when Apple is likely to unveil its generative AI tools.
 
 For quantitive testing, I followed the same routine I used in my [review of the MacBook Pro with M3 Max](https://www.zdnet.com/article/macbook-pro-m3-max-review/). I used Cinebench to benchmark the M3 MacBook Air against other popular Macs I've tested over the past couple years. I also used Adobe Lightroom's AI-powered "Denoise" feature as a real-world test because it's a feature I use constantly when processing product photos and so any time savings there can result in tangible productivity gains. As you can see in the charts below, the M3 MacBook Air performed very well in the Cinebench benchmarks, compared to it M2 predecessor. But, it only scored marginally better than the M2 model in my real-world Lightroom test. I'd like to do more tests with other AI workflows and update this review over time, especially after WWDC 2024.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### AI test: Adobe Lightroom Denoise (lower is better)
 
@@ -175,10 +159,6 @@ Jason Hiner/ZDNET
 
 **Better built-in sound:** One of the main things you give up by going with the M3 MacBook Air versus the MacBook Pro models is that you get a much inferior set of built-in speakers. The strong base and excellent sound clarity of the MacBook Pro models are made possible by the speakers on either side of the keyboard, while sound comes from the hinge area on the M3 MacBook Air. The result is that you have much lower fidelity sound that is a bit mushy and thin. You can overcome this, of course, by simply listening through a pair of quality headphones like the [AirPods Pro 2nd-gen](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHWRXH8B%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6a4cd20f-90e2-4305-8adc-535aae82592c%7Cdtp&dtb=1) or the [Sony WF-1000XM5 earbuds](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C33XXS56%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6a4cd20f-90e2-4305-8adc-535aae82592c%7Cdtp&dtb=1). But there are always going to be times when you want and need to use the built-in speakers.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Final thought
 
 At first glance, it may seem odd that Apple is releasing the upgraded [M3 MacBook Air](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F13-inch-m3&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) lineup just nine months after the 15-inch M2 version was [first unveiled at Apple WWDC in June 2023](https://www.zdnet.com/video/apple-wwdc-2023-every-product-revealed-vision-pro-15-inch-macbook-air-more/). But, this is a good thing. For the 13-inch and 15-inch MacBook Air models, this is an incremental upgrade that brings them up to date with [the new M3 processors that Apple announced last fall](https://www.zdnet.com/article/everything-apple-announced-at-its-october-scary-fast-event-m3-macbook-pro-24-inch-imac-more/) and continues them on their trajectory to be more capable and more of the light professional-grade laptops that many people can use to handle all of their work. 
@@ -235,17 +215,15 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-unending-screen-documentation-sites/"><u>[New] Unending Screen Documentation Sites</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-how-to-speed-up-video-on-instagram-mobileonlinedesktop-solutions/"><u>[Updated] In 2024, How to Speed Up Video on Instagram [Mobile/Online/Desktop Solutions]</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-review-unveiling-the-potential-of-vidma-capture-tech-for-2024/"><u>[Updated] Review Unveiling the Potential of Vidma Capture Tech for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-free-top-10-subtitles-tools-srt-file-transformers/"><u>2024 Approved Free Top 10 Subtitles Tools SRT File Transformers</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/capturing-your-screen-on-pc-free-ways-to-do-it-for-2024/"><u>Capturing Your Screen on PC Free Ways to Do It for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/cost-effective-high-performance-asmr-microphones-guide-for-2024/"><u>Cost-Effective, High-Performance ASMR Microphones Guide for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-techniques-for-downloading-and-installing-lenovo-thinkpad-drivers-without-any-worries/"><u>Expert Techniques for Downloading and Installing Lenovo ThinkPad Drivers Without Any Worries!</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/mastering-the-new-era-of-editing-with-powerdirector-24-edition-for-2024/"><u>Mastering the New Era of Editing with PowerDirector '24 Edition for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/secure-and-swift-driver-acquisition-for-your-acer-predator-xb271-hi-fi-display/"><u>Secure and Swift Driver Acquisition for Your Acer Predator XB271 Hi-Fi Display</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/startech-usb-video-capture-card-driver-get-your-free-version-now/"><u>StarTech USB Video Capture Card Driver - Get Your Free Version Now!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-announced-basic-peripheral-driver-availability-restored-on-windows/"><u>Update Announced: Basic Peripheral Driver Availability Restored on Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-the-leading-2024-wi-fi-routers-a-comprehensive-guide-by-zdnet/"><u>Exploring the Leading 2024 Wi-Fi Routers: A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-itel-p55-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-canon-pixma-ts3322-printer-drivers-free-download-and-installation-guide/"><u>Latest Canon PIXMA TS3322 Printer Drivers - Free Download & Installation Guide</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210934860-9781782499206-mindfulness-for-children/"><u>Mindfulness for Children | Free Book</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-technology-trends-with-toms-hardware-experts/"><u>Navigating Technology Trends with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-fixes-for-elgato-hd6-groovers-driver-troubles-an-experts-methods-uncovered/"><u>Quick Fixes for Elgato HD6 Groovers Driver Troubles – An Expert's Methods Uncovered</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/rethinking-windows-photo-viewer-usage-on-modern-os/"><u>Rethinking Windows Photo Viewer Usage on Modern OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-instructions-obtaining-the-logitech-mx-master-drivers-for-optimal-performance/"><u>Step-by-Step Instructions: Obtaining the Logitech MX Master Drivers for Optimal Performance</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-verdict-on-vllo-performance/"><u>The Verdict on VLLO Performance</u></a></li>
+<li><a href="https://win-blog.techidaily.com/why-does-hearthstone-keep-crashing-expert-tips-for-stable-play-on-pc/"><u>Why Does Hearthstone Keep Crashing? Expert Tips for Stable Play on PC</u></a></li>
 </ul></div>
 

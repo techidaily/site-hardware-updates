@@ -1,7 +1,7 @@
 ---
 title: Snag the HP Victus 15 Gaming Notebook at an Unbeatable Price of Just $515 During Best Buy's Prime Day Event - Exclusive Offer From ZDNet!
-date: 2025-02-13T20:42:41.314Z
-updated: 2025-02-16T05:48:54.685Z
+date: 2025-03-03T17:33:53.095Z
+updated: 2025-03-05T06:19:44.267Z
 tags:
   - laptops
 categories:
@@ -24,10 +24,6 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 **Also: [The best budget gaming laptops: Expert tested](https://www.zdnet.com/article/best-budget-gaming-laptop/)** 
 
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -63,22 +59,24 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-essential-free-online-music-libraries-15-picks/"><u>[Updated] Essential Free Online Music Libraries 15 Picks</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-pinnacle-top-tools-6-sleek-signature-backdrop-removers-online/"><u>[Updated] In 2024, Pinnacle Top Tools – 6 Sleek Signature Backdrop Removers Online</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-smooth-operations-screen-recording-basics-for-lenovo-users/"><u>2024 Approved Smooth Operations Screen Recording Basics for Lenovo Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-hp-laserjet-pro-p1006-printer-software/"><u>Download HP LaserJet Pro P1006 Printer Software</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-download-and-install-zexmte-universal-bluetooth-adapter-drivers-on-your-pc/"><u>How to Download and Install ZexMTE Universal Bluetooth Adapter Drivers on Your PC</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-fake-snapchat-location-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Xiaomi 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-install-the-insignia-usb-video-adapter-for-monitor-connection/"><u>How to Install the Insignia USB Video Adapter for Monitor Connection</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-update-your-system-with-new-nvidia-940mx-gpu-drivers-free-download/"><u>How to Update Your System with New NVIDIA 940MX GPU Drivers - Free Download</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/installing-latest-graphic-card-drivers-on-your-hp-840g3-notebook-system/"><u>Installing Latest Graphic Card Drivers on Your HP 840/G3 Notebook System</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-firmware-enhancement-for-dell-2330d2330dn-color-laser-printers/"><u>Latest Firmware Enhancement for Dell 2330D/2330DN Color Laser Printers</u></a></li>
-<li><a href="https://fox-http.techidaily.com/next-gen-media-masters-5-top-mac-videography-apps-for-2024/"><u>Next-Gen Media Masters 5 Top Mac Videography Apps for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/qualcomm-atheros-ar938x-free-driver-download-now/"><u>Qualcomm Atheros AR938X - FREE Driver Download Now</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-walkthrough-for-refreshing-device-drivers-in-windows-on-the-dell-xps-15/"><u>The Ultimate Walkthrough for Refreshing Device Drivers in Windows on the Dell XPS 15</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-the-hamachi-service-interrupted-issue/"><u>Troubleshooting Guide: Fixing the 'Hamachi Service Interrupted' Issue</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/unmasked-instagram-stories-pcandroidios-exploration-tips-for-2024/"><u>Unmasked Instagram Stories PC/Android/iOS Exploration Tips for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Vivo Y27s? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/44kz44o844oh44od44kv5lin6laz44gr44ki44kl5yuv55s75yan55sf6zqc5a6z44ks5zue6yg44gz44kl5pa55rov/"><u>コーデック不足による動画再生障害を回避する方法</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-ensuring-compliance-a-guide-to-pre-upload-on-tiktok/"><u>[New] Ensuring Compliance A Guide to Pre-Upload on TikTok</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-tech-tutorial-record-on-hangouts-for-2024/"><u>[New] Tech Tutorial Record on Hangouts for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-cameras-collide-in-motorsport-showdown-gopro-vs-drift-ghost-s/"><u>[Updated] 2024 Approved Cameras Collide in Motorsport Showdown! GoPro Vs. Drift Ghost-S</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harnessing-the-power-of-azure-transcript-services/"><u>[Updated] Harnessing the Power of Azure Transcript Services</u></a></li>
+<li><a href="https://win-popular.techidaily.com/1728472092796-usbdvd/"><u>「コンピュータ修復用USBまたはDVDを簡単に作る方法 -ステップバイステップ」</u></a></li>
+<li><a href="https://techidaily.com/abbyy-healthcare-document-management-software-digitize-your-medical-records-efficiently/"><u>ABBYY Healthcare Document Management Software: Digitize Your Medical Records Efficiently</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-reasons-behind-my-preference-for-microsoft-edge-on-my-android-device/"><u>Discover the Reasons Behind My Preference for Microsoft Edge on My Android Device</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-steps-updating-your-android-device-successfully/"><u>Easy Steps: Updating Your Android Device Successfully</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-to-use-android-uis-strategies-for-adapting-mobile-interfaces-for-seniors/"><u>Easy-to-Use Android UIs: Strategies for Adapting Mobile Interfaces for Seniors</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/elevating-android-borrowing-key-iphone-elements-for-an-improved-interface/"><u>Elevating Android: Borrowing Key iPhone Elements for an Improved Interface</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-mobile-security-the-case-against-relying-on-pattern-locks-for-your-android-device/"><u>Enhance Mobile Security: The Case Against Relying on Pattern Locks for Your Android Device</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-the-reasons-behind-the-pixel-6s-sluggish-biometric-authentication/"><u>Exploring the Reasons Behind the Pixel 6'S Sluggish Biometric Authentication</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/galaxy-z-fold-5-and-z-flip-n5-unveiled-shop-now-for-latest-foldable-phones/"><u>Galaxy Z Fold 5 & Z Flip N5 Unveiled: Shop Now for Latest Foldable Phones</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/guide-connecting-and-using-a-usb-flash-drive-on-android-devices/"><u>Guide: Connecting and Using a USB Flash Drive on Android Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-recover-access-when-you-cant-remember-your-android-devices-security-measures/"><u>How to Recover Access When You Can't Remember Your Android Device's Security Measures</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-sierra-icloud-drive-integrations-and-usage/"><u>In 2024, Unlocking Sierra iCloud Drive Integrations & Usage</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-text-manipulation-microsoft-excels-new-feature-supports-regular-expressions/"><u>Mastering Text Manipulation: Microsoft Excel's New Feature Supports Regular Expressions</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/optimizing-gameplay-at-30fps-across-gaming-consoles-and-personal-computers/"><u>Optimizing Gameplay at 30FPS Across Gaming Consoles and Personal Computers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016967623-troubleshooting-tips-for-solving-logitech-g533-headset-mic-issues-all-cases-covered/"><u>Troubleshooting Tips for Solving Logitech G533 Headset Mic Issues - All Cases Covered!</u></a></li>
 </ul></div>
 

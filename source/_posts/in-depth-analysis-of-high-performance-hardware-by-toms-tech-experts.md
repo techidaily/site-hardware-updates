@@ -1,7 +1,7 @@
 ---
 title: In-Depth Analysis of High-Performance Hardware by Tom's Tech Experts
-date: 2024-08-19T04:31:46.810Z
-updated: 2024-08-20T04:31:46.810Z
+date: 2025-02-25T18:38:39.904Z
+updated: 2025-03-04T18:25:01.064Z
 tags:
   - laptop
 categories:
@@ -82,9 +82,6 @@ It's rare that my lasting impression about a laptop is all about style, but here
 | **Weight**                | 3.31 pounds (1.5 kg)                                                                         |
 | **Price (as configured)** | $1,699.99                                                                                    |
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## Productivity Performance on the Asus Zenbook S16
 
  This review happens to be our first look at AMD's new Ryzen AI 9 HX 370, one of the company's very lengthily-named processors in its "Strix Point" lineup. This chip has four Zen 5 cores and eight Zen 5c cores (for a total of 12 cores). It has a base clock of 2 GHz and a max boost of up to 5.1 GHz. As chip companies attempt to one-up each other on AI, AMD is packing 50 TOPS in its NPU, surpassing the 45 TOPS in the Qualcomm Snapdragon X Elite and X Plus (the chip as a whole goes up to 80 TOPS).
@@ -95,9 +92,6 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -106,9 +100,6 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -159,9 +150,6 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
 ![Asus Zenbook S16](https://cdn.mos.cms.futurecdn.net/aW7bBZzL8RWWNJL5FgJbTR-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  The keyboard is set back slightly further than I'd like because the touchpad is so tall. I got used to it but some of my coworkers found it a bit uncomfortable.
@@ -172,16 +160,10 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
  Asus also includes its Asus Pen 2.0 — a stylus with 4,096 degrees of pressure sensitivity — in the box with the laptop. It's a nice add-on, I suppose. But it’s an odd fit for this clamshell laptop, particularly considering the display doesn't fold flat.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Audio on the Asus Zenbook S16
 
  The Zenbook S16 trades volume for detail. Don't get me wrong, it's loud enough, especially if you're sitting right in front of it, but it didn't quite fill an entire meeting room with sound. But when I was listening to Charli XCX's "Von dutch," I was surprised to hear a bit of bass. The speakers, tuned with Dolby Atmos, sounded great when I switched from "balanced" to "detailed," with clear vocals, pounding drums and whirring synths.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ## Upgradeability of the Asus Zenbook S16
 
 There isn't much to upgrade or repair on the Zenbook S16.
@@ -194,27 +176,18 @@ There isn't much to upgrade or repair on the Zenbook S16.
 
  Once you're in, there are two parts you could replace. The first is the battery, which takes up most of the room inside the system. The other is the SSD. Despite the size of the laptop, there isn't a secondary M.2 slot, so you'll have to replace the drive if you want more storage space. The wireless module and RAM are soldered to the motherboard.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Battery Life on the Asus Zenbook S16
 
  While the Zenbook S16 will likely last you an entire workday, the new Asus device didn't last as long on a charge as competitors based on Arm platforms.
 
 ![Asus Zenbook S16](https://cdn.mos.cms.futurecdn.net/qUjejmtkRBhxMYbsPzPwHT-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  The AMD-based Zenbook ran for 11 hours and 35 minutes on our battery test, which involves web browsing, OpenGL tests, and video streaming over Wi-Fi with the screen set to 150 nits. Only the Spectre x360, with Intel Core Ultra, did worse at 11:01 (and that's not far behind, especially considering that laptop has a smaller battery than the Zenbook).
 
  But the MacBook Air M3 (15:03), HP OmniBook X on a Snapdragon X Elite (16:18), and the 16-inch MacBook Pro lasted an incredible 17:11.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Heat on the Asus Zenbook S16
 
  During our ten runs of Cinebench 2024, we took skin temperature measurements to see how the Zenbook performs under an intense workload.
@@ -245,9 +218,6 @@ There isn't much to upgrade or repair on the Zenbook S16.
 
  A cheaper version[sold at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fshop-links.co%2Flink%3Fpublisher%255Fslug%3Dfuture%26exclusive%3D1%26u1%3Dtomshardware-us-4910217774050973812%26url%3Dhttps%253A%252F%252Fwww.bestbuy.com%252Fsite%252Fasus-zenbook-s-16-16-3k-oled-touch-screen-laptop-amd-ryzen-ai-9-365-24gb-memory-1tb-ssd-scandinavian-white%252F6584435.p%26article%255Fname%3DAsus%2520Zenbook%2520S16%2520review%253A%2520AMD%2520Ryzen%2520AI%25209%2520HX%2520370%2520tested%2520%257C%2520Tom%27s%2520Hardware%26article%255Furl%3Dhttps%253A%252F%252Fwww.tomshardware.com%252Flaptops%252Fgaming-laptops%252Fasus-zenbook-s16-amd-ryzen-ai-9-hx-370-review) is $1,399.99 with a Ryzen AI 9 HX 365 and 24GB of memory, as well as a white chassis.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ## Bottom Line
 
  The Asus Zenbook S16 is a solid showcase for AMD's new AI-focused processors, even if AI applications themselves aren't quite ready to excite most people.
@@ -274,8 +244,6 @@ There isn't much to upgrade or repair on the Zenbook S16.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -283,4 +251,24 @@ There isn't much to upgrade or repair on the Zenbook S16.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-files.techidaily.com/new-a-personalized-approach-developing-an-individualistic-tiktok-keyword-for-2024/"><u>[New] A Personalized Approach Developing an Individualistic TikTok Keyword for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/est-student-focused-historical-yt-series-for-2024/"><u>[New] Best Student-Focused Historical YT Series for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/aesthetic-ambiance-cool-pc-walls-to-download-for-2024/"><u>Aesthetic Ambiance Cool PC Walls to Download for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-smooth-running-sm-bus-controllers-on-any-window-os-versions-111087/"><u>Download and Install Smooth-Running SM Bus Controllers on Any Window OS (Versions 11/10/8/7)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-toshiba-bluetooth-driver/"><u>Download Toshiba Bluetooth Driver</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-steelseries-driver-software-downloads-and-easy-setup-guide-for-pcs/"><u>Free SteelSeries Driver Software Downloads & Easy Setup Guide for PCs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-most-out-of-your-epson-xp-330-the-ultimate-driver-download-guide/"><u>Get the Most Out of Your Epson XP-330: The Ultimate Driver Download Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-ensure-smooth-play-resolving-fallout-3s-crashing-on-windows-11-systems/"><u>How to Ensure Smooth Play: Resolving Fallout 3'S Crashing on Windows 11 Systems</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-motorola-moto-g-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Motorola Moto G 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-your-new-amd-rx-6800-xt-driver-downloads-for-windows-111087-users/"><u>Installing Your New AMD RX 6800 XT - Driver Downloads for Windows 11/10/8/7 Users</u></a></li>
+<li><a href="https://article-posts.techidaily.com/methods-for-rolling-macos-sierra-back-to-el-capitan-for-2024/"><u>Methods for Rolling MacOS Sierra Back to El Capitan for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-directx-hardware-configuration-errors-for-seamless-graphic-devices/"><u>Overcoming DirectX Hardware Configuration Errors for Seamless Graphic Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-to-obtaining-your-bcm2-growers-driver-for-pc-user-friendly-download-process/"><u>Step-by-Step Guide to Obtaining Your BCM2 Grower's Driver for PC | User-Friendly Download Process</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-updating-your-samsung-phones-usb-drivers/"><u>Step-by-Step Guide: Updating Your Samsung Phone's USB Drivers</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/the-ultimate-resource-for-computer-components-toms-selection/"><u>The Ultimate Resource for Computer Components - Tom’s Selection</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/thinkpad-thunderbolt-3-connector-driver-recent-upgrade-info/"><u>ThinkPad Thunderbolt 3 Connector Driver - Recent Upgrade Info</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tutoriel-facile-pour-utiliser-le-kitkat-amazon-et-explorer-les-titres-librigoogle-au-format-ebook/"><u>Tutoriel Facile Pour Utiliser Le KitKat Amazon Et Explorer Les Titres LibriGoogle Au Format Ebook</u></a></li>
+</ul></div>
 

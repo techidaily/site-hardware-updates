@@ -1,7 +1,7 @@
 ---
 title: "Outperforming Apple: How LG Gram Pro Surpasses the MacBook Air Across Three Key Areas - Insights From a Comprehensive Review | ZDNet"
-date: 2025-02-10T23:21:45.893Z
-updated: 2025-02-16T02:10:59.379Z
+date: 2025-02-26T03:11:34.071Z
+updated: 2025-03-04T23:33:45.939Z
 tags:
   - laptops
 categories:
@@ -44,10 +44,6 @@ My original plan was to use the new Surface Pro as a secondary mobile device, wh
 
 How did this happen? Let's dive in.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The experience is familiar
 
 This laptop is a radical shift in the Windows ecosystem, but it doesn't feel all that different from its predecessors. In fact, it's almost indistinguishable from the Intel-powered Surface Pro 9 that's sitting on my desk alongside it. The slim bezels around the displays of the two devices are nearly the same dimensions. The new device, at 1.9 pounds, is the same weight as the Surface Pro 9 and is a few ounces heavier than the Surface Pro X, although that's not something you really notice until you have to lug it through an airport as you rush to make a connection. The Type Cover from the older Surface Pro clicked into place on the Surface Pro 11, exactly as expected.
@@ -59,10 +55,6 @@ And as for the software, well … It's Windows 11, which looks and acts the same
 The big difference is that this next-gen device is extremely cool and quiet. After a three-hour Zoom call the other day, the chassis was barely warm; on an Intel-based machine, it would have been uncomfortably hot. There's a fan inside the Surface Pro 11, but I have yet to hear it run, even under the most demanding conditions. It's also extremely responsive, with none of the hesitation I occasionally noticed on the Surface Pro X. If you've used an M2-equipped MacBook Air, the feeling will be familiar.
 
 Of course, this new device also embodies everything you like and/or dislike about the Surface Pro design. If you're expecting a radical shift that will suddenly make the kickstand comfortable in your lap, I'm sorry to report you will be disappointed. If, however, you're comfortable with that design, you'll find this iteration completely familiar.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Battery life is a huge win
 
@@ -79,10 +71,6 @@ In real-world usage, the Surface Pro 11 battery lasts twice as long as an equiva
 Screenshot by Ed Bott/ZDNET
 
 At an average of more than 10 hours of actual, observed battery life, this Surface Pro is able to run for well over twice as long as my Intel-based Surface Pro 9\. That's also at least as long as the [M2 MacBook Air](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/) in my office.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Compatibility is good but not perfect
 
@@ -120,10 +108,6 @@ I had no hardware problems to speak of. My 10-year-old Logitech C930 webcam just
 
 Your mileage may vary, of course, especially if you have exotic hardware like video capture cards and ancient multifunction printers that require custom driver packs and won't work with the in-box Windows drivers. Thankfully, I have none of those.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The AI story is incomplete
 
 Every PC in the Copilot+ line includes a powerful neural processing unit designed to accelerate AI-based activities. Because I didn't spring for Microsoft's pricey new [Flex Keyboard](https://www.microsoft.com/en-us/d/surface-pro-flex-keyboard-with-slim-pen/93fzrmtgj6jw) and stuck with my old Type Cover, I didn't get a dedicated Copilot key. Instead, I had to run the [Copilot app](https://www.zdnet.com/article/microsoft-is-turning-windows-copilot-into-a-regular-app-and-heres-why-youll-like-it/), which works exactly like it does on any other Windows 11 PC. If it was chatting faster, I didn't notice.
@@ -143,10 +127,6 @@ The Paint and Photos apps are also loaded with AI-based features for creating an
 The real question is whether those features are powerful enough to make you switch from your current image-processing tool to one of Microsoft's built-in options. History says that's a pretty big ask.
 
 Even if you avoid the AI features completely, though, there's more than enough power in this [budget PC](https://www.zdnet.com/article/best-laptops-under-500/). Plus, as long as your apps and hardware requirements aren't exotic, you'll appreciate its cool, quiet operation.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How we test laptops
 
@@ -192,18 +172,14 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-cutting-edge-fullscreen-capture-programs-for-2024/"><u>[New] Cutting-Edge Fullscreen Capture Programs for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-unveiling-paid-content-in-product-analysis/"><u>[New] In 2024, Unveiling Paid Content in Product Analysis</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-archiving-your-favorites-the-complete-list-of-9-podcast-recording-steps/"><u>[Updated] Archiving Your Favorites The Complete List of 9 Podcast Recording Steps</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-plot-to-post-a-detailed-guide-to-writing-youtube-videos/"><u>[Updated] In 2024, From Plot to Post A Detailed Guide to Writing YouTube Videos</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/complete-guide-to-installing-logitech-g29-drives-and-software-for-windows-users/"><u>Complete Guide to Installing Logitech G29 Drives and Software for Windows Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-latest-drivers-for-hp-elitebook-8460p-on-windows-complete-guide/"><u>Download and Install Latest Drivers for HP EliteBook 8460P on Windows: Complete Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-successfully-update-intel-hd-5500-graphics-driver-a-users-manual/"><u>How to Successfully Update Intel HD 5500 Graphics Driver - A User's Manual</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-realme-11-proplus-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Realme 11 Pro+ Phone?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/maintain-optimal-print-quality-with-the-latest-epson-wf-nano-1936-a-comprehensive-guide-to-updating-drivers-on-windows/"><u>Maintain Optimal Print Quality with the Latest Epson WF-Nano 1936 - A Comprehensive Guide to Updating Drivers on Windows</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/preserve-your-virtual-discussions-with-gpt/"><u>Preserve Your Virtual Discussions with GPT</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/seamless-integration-steps-for-downloading-and-setting-up-logitech-mx-master-applications/"><u>Seamless Integration: Steps for Downloading and Setting Up Logitech MX Master Applications</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-techniques-for-refreshing-your-motherboard-software-on-a-windows-machine/"><u>Ultimate Techniques for Refreshing Your Motherboard Software on a Windows Machine</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-oppo-a1-5g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Oppo A1 5G Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-absence-of-hypervisor-on-windows-sandbox/"><u>Addressing Absence of Hypervisor on Windows Sandbox</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-instructions-for-downloading-and-setting-up-the-hp-laserjet-pro-m402n-driver-in-windows/"><u>Complete Instructions for Downloading and Setting Up the HP LaserJet Pro M402n Driver in Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/freshly-released-upgrade-to-the-latest-intel-wireless-drivers-for-win11-and-win10-devices/"><u>Freshly Released: Upgrade to the Latest Intel Wireless Drivers for Win11 and Win10 Devices</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-selecting-the-best-5-monitors-for-ps5-games/"><u>In 2024, Selecting the Best 5 Monitors for PS5 Games</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/in-depth-gear-evaluations-by-tom-the-tech-enthusiasts-resource/"><u>In-Depth Gear Evaluations by Tom: The Tech Enthusiast's Resource</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-new-drivers-for-corsair-keyboards-on-windows-pcs-secure-and-free-of-charge/"><u>Install New Drivers for Corsair Keyboards on Windows PCs – Secure and Free of Charge</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/mastering-multitasking-sync-many-yt-videos-simultaneously-for-2024/"><u>Mastering Multitasking Sync Many YT Videos Simultaneously for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/navigating-the-changing-landscape-of-instagram-stories-for-2024/"><u>Navigating the Changing Landscape of Instagram Stories for 2024</u></a></li>
+<li><a href="https://fox-within.techidaily.com/rising-star-djs-establishing-effective-fb-and-tw-accounts-lessons-from-pcdj-series-1/"><u>Rising Star DJs: Establishing Effective FB and TW Accounts, Lessons From PCDJ Series #1</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Apple's Latest Battle: Comparing the M3 Vs. M2 MacBook Air on ZDNet"
-date: 2025-02-10T16:50:44.751Z
-updated: 2025-02-16T01:16:00.051Z
+date: 2025-02-27T20:03:56.517Z
+updated: 2025-03-05T05:31:20.181Z
 tags:
   - laptops
 categories:
@@ -24,10 +24,6 @@ Recently, I did a thing: I switched my heavyweight Windows PC for a docked [16-i
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### See also
 
 * [Still have a Windows 10 PC? You have 5 options before support ends next year](https://www.zdnet.com/article/have-a-windows-10-pc-that-cant-be-upgraded-you-have-5-options-before-support-ends-next-year/)
@@ -44,15 +40,7 @@ So what if I told you you can remap the Apple keyboard so that the Globe key, wh
 
 (Even if you've always been a Mac user, and everything I just wrote meant nothing to you, you'll still want to read this. There's a good chance that the following remapping feature will benefit you just as much, too.)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to remap the Globe key into the Command key
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Open up Keyboard settings
 
@@ -60,19 +48,11 @@ Let's start by running a Spotlight Search (clicking the magnifying glass on the 
 
 You can also access this menu by clicking the Apple icon on the top left of the status bar > System Preferences > and then Keyboard.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Open Modifier Keys
 
 On the bottom right of the Keyboard settings should be a button labeled "Modifier Keys...". It is here where you can remap and modify what each key to the left of the spacebar can do, like changing the Globe key to trigger the Command action instead.
 
 Screenshot by June Wan/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Remap the Globe key to Command
 
@@ -116,21 +96,22 @@ From a Windows user perspective, being able to still access my usual keyboard sh
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-transform-with-the-10-most-exceptional-yoga-video-platforms/"><u>[New] 2024 Approved Transform with the 10 Most Exceptional Yoga Video Platforms</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-make-a-boomerang-on-snapchat-a-comprehensive-guide/"><u>[New] In 2024, Make a Boomerang on Snapchat – A Comprehensive Guide</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-lenovos-secrets-to-effortless-screenshots-for-2024/"><u>[New] Lenovo's Secrets to Effortless Screenshots for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722978309819-download-and-install-epson-wf-2750-drivers-complete-guide/"><u>Download & Install Epson WF-2750 Drivers - Complete Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-official-dell-g15-graphics-driver-for-your-windows-pc/"><u>Download and Install Official Dell G15 Graphics Driver for Your Windows PC</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-setup-access-official-canon-mf4500-printer-drivers-and-support-files/"><u>Easy Setup: Access Official Canon MF4500 Printer Drivers & Support Files</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-steps-update-or-install-synaptic-touchpad-driver-with-ease/"><u>Easy Steps: Update or Install Synaptic Touchpad Driver with Ease</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/enhanced-avi-player-ultimate-performance-pcmobile/"><u>Enhanced Avi Player Ultimate Performance PC/Mobile</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-download-focusrite-scarlett-solo-desktop-audio-interface-for-pc/"><u>Free Download: Focusrite Scarlett Solo Desktop Audio Interface for PC</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-a-million-token-dataset-in-gemini-15-sets-new-standards-for-language-models/"><u>How a Million-Token Dataset in Gemini 1.5 Sets New Standards for Language Models</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-fixes-to-solve-iphone-xs-max-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve iPhone XS Max Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-optimize-visibility-choosing-the-right-hashtags-today/"><u>In 2024, Optimize Visibility Choosing the Right Hashtags Today</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-top-6-youtube-outro-makers-lots-of-free-options/"><u>In 2024, Top 6 YouTube Outro Makers - Lots of FREE Options</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/k400-plus-keyboard-drivers-free-download-and-installation-guide/"><u>K400 Plus Keyboard Drivers - Free Download & Installation Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-audio-interface-device-drivers-for-your-windows-computer/"><u>Latest Audio Interface Device Drivers for Your Windows Computer</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/no-quality-loss-techniques-for-rotating-mp4-files-by-90180270-degrees-a-step-by-step-tutorial/"><u>No-Quality-Loss Techniques for Rotating MP4 Files by 90/180/270 Degrees: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-yt-titling-excellence-with-smart-technology/"><u>[New] YT Titling Excellence with Smart Technology</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-bridging-gaps-online-effective-techniques-for-screenshare-on-fb/"><u>[Updated] Bridging Gaps Online Effective Techniques for Screenshare on FB</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-quickvid-simplified-w11-screen-capture-software-for-2024/"><u>[Updated] QuickVid Simplified W11 Screen Capture Software for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-youtube-feedback-a-user-guide/"><u>2024 Approved Navigating YouTube Feedback A User Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-solution-for-troubleshooting-your-dell-mouse-driver-download/"><u>Comprehensive Solution for Troubleshooting Your Dell Mouse Driver Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-essential-software-packages-and-drivers-for-hp-elitebook-x360-1030-g2/"><u>Download the Essential Software Packages & Drivers for HP EliteBook X360 1030 G2</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-constant-crashes-in-call-of-duty-modern-warfare-gameplay/"><u>Fixing Constant Crashes in Call of Duty: Modern Warfare Gameplay</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-intel-rapid-storage-technology-driver-downloads-and-updates-for-windows-111087/"><u>Free Intel Rapid Storage Technology Driver Downloads & Updates for Windows 11/10/8/7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-easily-refresh-cpu-drivers-for-better-performance-on-windows-computers/"><u>How to Easily Refresh CPU Drivers for Better Performance on Windows Computers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-essential-companion-for-advanced-win10-users/"><u>In 2024, The Essential Companion for Advanced Win10 Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/maximize-functionality-invest-in-independent-appliances-a-standard-fridge-and-an-ipad-not-just-a-smart-fridge/"><u>Maximize Functionality: Invest in Independent Appliances - A Standard Fridge & an iPad, Not Just a Smart Fridge</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/navigating-data-protection-simplified-through-cookiebot-technology/"><u>Navigating Data Protection - Simplified Through Cookiebot Technology</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/optimized-hearing-latest-nahimic-audio-drivers-deliver-superior-sound-clarity/"><u>Optimized Hearing: Latest Nahimic Audio Drivers Deliver Superior Sound Clarity</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-persistent-blender-application-failures-on-pc-platforms/"><u>Resolving Persistent Blender Application Failures on PC Platforms</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722966480690-successfully-overcoming-asus-pce-ac56-driver-woes-across-windows-10-8-and-7/"><u>Successfully Overcoming ASUS PCE-AC56 Driver Woes Across Windows 10, 8 & 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlock-special-deals-on-the-latest-amd-gaming-bundle-ryzen-7000-cpus-plus-radeon-rx-7000-gpus-plus-bonus-games-excludes-coming-soon-ryzen-9000/"><u>Unlock Special Deals on the Latest AMD Gaming Bundle: Ryzen 7000 CPUs + Radeon RX 7000 GPUs - Plus Bonus Games! Excludes Coming Soon Ryzen 9000</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-to-the-current-hp-laserjet-pro-m404n-drivers-direct-download-links-available/"><u>Update to the Current HP LaserJet Pro M404N Drivers – Direct Download Links Available!</u></a></li>
 </ul></div>
 

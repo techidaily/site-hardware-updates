@@ -1,7 +1,7 @@
 ---
 title: "Top Tablet Deals on Cyber Monday: Get $600 Off Microsoft Surface Pro 8 Post-Black Friday Sale Insider"
-date: 2025-02-13T17:28:25.844Z
-updated: 2025-02-16T03:26:13.680Z
+date: 2025-03-03T04:50:30.660Z
+updated: 2025-03-04T20:41:20.687Z
 tags:
   - laptops
 categories:
@@ -30,10 +30,6 @@ The [Microsoft Surface Pro 8](https://www.microsoft.com/en-us/store/configure/Su
 The lowest price point available is $799 for a platinum model with an Intel Evo Core i5 processor, 8GB RAM, and 128GB SSD storage. However, if you want more power in your device, you can still save on a Surface Pro 8 equipped with an Intel Evo Core i7 processor, 16GB RAM, and 1TB SSD storage -- normally priced at [$2,199, but now available for $1,899](https://www.microsoft.com/en-us/store/configure/Surface-Pro-8/8qwcrtq8v8xg?crosssellid=&selectedColor=86888a&ranMID=24542&ranEAID=IokOf8qagZo&ranSiteID=IokOf8qagZo-B8WOUfFT3AkbKuRP5V7sZg&epi=IokOf8qagZo-B8WOUfFT3AkbKuRP5V7sZg&irgwc=1&OCID=AID2200057%5Faff%5F7593%5F1243925&tduid=%28ir%5F%5Frnj6nxuqhgkfbk2ptnk2gyq6jn2xcxb9cey3r6on00%29%287593%29%281243925%29%28IokOf8qagZo-B8WOUfFT3AkbKuRP5V7sZg%29%28%29&irclickid=%5Frnj6nxuqhgkfbk2ptnk2gyq6jn2xcxb9cey3r6on00).
 
 **Read on:** [Microsoft Surface Pro 8 for Business review: Still in love](https://www.zdnet.com/article/microsoft-surface-pro-8-for-business-review/) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -77,22 +73,18 @@ ZDNET is also keeping an eye out for other tablet deals on the market in the run
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-best-methods-for-documenting-live-youtube-broadcasts/"><u>[New] 2024 Approved Best Methods for Documenting Live YouTube Broadcasts</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-mastering-video-capture-a-deep-dive-into-showmores-tech/"><u>[New] 2024 Approved Mastering Video Capture A Deep Dive Into ShowMore's Tech</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-cutting-edge-title-generator-for-online-sessions/"><u>[New] Cutting-Edge Title Generator for Online Sessions</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-secrets-to-high-quality-sims-4-gameplay-recordings/"><u>[Updated] 2024 Approved Secrets to High-Quality Sims 4 Gameplay Recordings</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/2024-approved-3-strategies-for-tiktok-livestreaming-from-desktop/"><u>2024 Approved 3 Strategies for TikTok Livestreaming From Desktop</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/dvd-androidpc/"><u>新世代のDVDプレイヤー: Androidスマホ上で簡単再生！PCなし、いつでもどこでも楽しむ方法</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/p-by-step-approach-to-professional-video-sharing/"><u>A Step-by-Step Approach to Professional Video Sharing</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/achieve-ultimate-compatibility-update-your-system-with-the-newest-connexent-drivers-on-windows-11-version-2004/"><u>Achieve Ultimate Compatibility - Update Your System With the Newest Connexent Drivers on Windows 11 (Version 2004)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722975733527-download-m-audio-ultradj-fast-track-input-transformer-for-free/"><u>Download M-Audio UltraDJ Fast Track Input Transformer for Free</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-latest-drivers-for-your-msi-gs65-on-windows-download-now/"><u>Get Latest Drivers for Your MSI GS65 on Windows - Download Now!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hp-deskjet-2700-inkjet-printer-driver-software-latest-version-free-download/"><u>HP DeskJet 2700 Inkjet Printer Driver Software - Latest Version Free Download</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722963667057-intel-nvme-driver-setup-download-now-for-swift-hassle-free-experience/"><u>Intel NVME Driver Setup - Download Now for Swift, Hassle-Free Experience</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-logitech-brio-webcam-drivers-available-for-windows-1187-users/"><u>Latest Logitech Brio Webcam Drivers Available for Windows 11/8/7 Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/lenovo-x220-driver-software-quick-easy-and-safe-to-download-now/"><u>Lenovo X220 Driver Software - Quick, Easy, and Safe to Download Now</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-the-potential-threats-of-chatgpt/"><u>Navigating the Potential Threats of ChatGPT</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-resolving-the-usb-drivers-problem-for-lg-computers-running-windows-10-8-or-n7/"><u>Step-by-Step Guide: Resolving the USB Drivers Problem for LG Computers Running Windows 10, 8 or N7</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-artisans-approach-to-crafting-channel-identities-for-2024/"><u>The Artisan's Approach to Crafting Channel Identities for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-keep-your-music-memories-intact-top-three-storage-methods/"><u>[New] 2024 Approved Keep Your Music Memories Intact Top Three Storage Methods</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-metro-exodus-pc-enhanced-edition-keeps-crashing/"><u>[SOLVED] Metro Exodus PC Enhanced Edition Keeps Crashing</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-mastering-live-action-best-practices-in-gaming-recording/"><u>[Updated] 2024 Approved Mastering Live Action Best Practices in Gaming Recording</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-streamlining-social-sharing-coordinating-vids-on-tweets-plus-tumbles/"><u>[Updated] Streamlining Social Sharing Coordinating Vids on Tweets + Tumbles</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-ryzen-3-2200g-graphics-card-freshest-driver-update-available-here/"><u>AMD Ryzen 3 2200G Graphics Card – Freshest Driver Update Available Here</u></a></li>
+<li><a href="https://win-forum.techidaily.com/bypass-the-restrictions-install-windows-11-on-unsupported-processor-models/"><u>Bypass the Restrictions: Install Windows 11 on Unsupported Processor Models</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/canon-mg3022-drivers-downloading-and-updating-finding-the-latest-version-for-smooth-printing-experience/"><u>Canon MG3022 Drivers Downloading & Updating: Finding the Latest Version for Smooth Printing Experience</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/connect-your-computers-zoom-meetings-with-your-flat-screen-for-easy-presentations/"><u>Connect Your Computer's Zoom Meetings With Your Flat Screen For Easy Presentations</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-most-recent-hp-printer-drivers-optimized-for-windows-10-11/"><u>Download the Most Recent HP Printer Drivers - Optimized for Windows 10, 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hassle-free-downloads-acquire-pioneer-dj-ddj-sx2-driver-with-ease-and-speed/"><u>Hassle-Free Downloads: Acquire Pioneer DJ DDJ-SX2 Driver with Ease and Speed</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-tecno-spark-go-2023-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Tecno Spark Go (2023) in Minutes | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-steelseries-gaming-mouse-drivers-instantly-online/"><u>Install SteelSeries Gaming Mouse Drivers Instantly Online</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolved-power-management-driver-problems-with-microsofts-battery-acpi-compliance/"><u>Resolved: Power Management Driver Problems with Microsoft's Battery ACPI Compliance</u></a></li>
 </ul></div>
 

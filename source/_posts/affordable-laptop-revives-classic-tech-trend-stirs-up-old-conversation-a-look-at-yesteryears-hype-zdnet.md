@@ -1,7 +1,7 @@
 ---
 title: "Affordable Laptop Revives Classic Tech Trend, Stirs Up Old Conversation: A Look at Yesteryear's Hype! - ZDNet"
-date: 2025-02-11T21:22:53.561Z
-updated: 2025-02-15T18:07:45.011Z
+date: 2025-03-01T03:45:56.279Z
+updated: 2025-03-04T18:58:17.501Z
 tags:
   - laptops
 categories:
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/4718cfe78df90fc96fd0823cd6a47f148478c5d53
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -84,19 +80,11 @@ I have been integrating Copilot into my workflow as I learn more about how to us
 
 The Surface's battery life has been fantastic, too. I get over 15 hours of use from a single charge, and it has yet to fully deplete to zero by the time I call a benchmarking test. The combination of smart design with meaningful trade-offs is what gives this laptop its marathon battery life, and opens it up for a variety of use cases from a creator or productivity perspective. Basically, this is a laptop you can work remotely with for the whole day without a charger.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 I mentioned this before, but the direction that Microsoft took with this laptop is, well, rather uncharacteristic. The [Microsoft Surface Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Touchscreen-Snapdragon-Sapphire%2Fdp%2FB0CXKYTQS2%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cdc5821f7-a446-4f73-ac57-be4e2b3e5285%7Cdtp&dtb=1) is light, airy, and brings some fun to the Copilot+ line. I would have loved to see this laptop with an OLED display, but the one we get instead is still quite nice, especially with this fantastic battery life. 
 
 The Surface Laptop is a flagship mid-range device that's well-rounded enough to take on a variety of roles. Despite a few trade-offs, it's everything it should be for the price. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -132,16 +120,22 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-how-to-master-switch-pro-controller-gaming-in-steam/"><u>[New] In 2024, How to Master Switch Pro Controller Gaming in Steam</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-pioneering-video-structuring-methods-on-youtube/"><u>[New] In 2024, Pioneering Video Structuring Methods on YouTube</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-pinnacle-promotion-reels/"><u>[Updated] Pinnacle Promotion Reels</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/6-methods-for-switching-from-apple-iphone-11-pro-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>6 Methods for Switching from Apple iPhone 11 Pro to Samsung | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722978232951-download-official-nvidia-geforce-rtx-3070-ti-drivers-compatible-with-windows-1187/"><u>Download Official NVIDIA GeForce RTX 3070 Ti Drivers Compatible with Windows 11/8/7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/enhance-gaming-and-graphics-with-the-latest-nvidia-rtx-2070-super-drivers-on-windows-11/"><u>Enhance Gaming & Graphics with the Latest Nvidia RTX 2070 Super Drivers on Windows 11</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Vivo T2 5G? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/keep-your-computer-running-smoothly-intel-rst-driver-software-downloads-for-quick-boot-and-data-safety/"><u>Keep Your Computer Running Smoothly - Intel RST Driver Software Downloads for Quick Boot & Data Safety</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-the-potential-of-claude-everything-you-need-to-know-about-its-applications/"><u>Mastering the Potential of Claude: Everything You Need to Know About Its Applications</u></a></li>
-<li><a href="https://extra-support.techidaily.com/podcast-logo-basics-key-principles-for-striking-art-for-2024/"><u>Podcast Logo Basics Key Principles for Striking Art for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-updating-and-downloading-drivers-on-the-microsoft-surface-book-2/"><u>Step-by-Step Tutorial: Updating and Downloading Drivers on the Microsoft Surface Book 2</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-flash-frame-filmmakers-plan/"><u>[New] Flash Frame Filmmaker's Plan</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-quick-play-music-10-best-apps-phones-for-2024/"><u>[New] Quick Play Music 10 Best Apps, Phones for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-the-virtual-voyage-navigating-through-immersive-entertainment/"><u>[Updated] The Virtual Voyage Navigating Through Immersive Entertainment</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/p-zero-charge-web-tools-to-craft-videos-for-2024/"><u>10 Top Zero-Charge Web Tools to Craft Videos for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-expert-subtitle-transformation-made-simple-top-10-lists/"><u>2024 Approved Expert Subtitle Transformation Made Simple - Top 10 Lists</u></a></li>
+<li><a href="https://games-able.techidaily.com/advanced-power-boards-for-next-gen-ps5-accessories/"><u>Advanced Power Boards for Next Gen PS5 Accessories</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-peak-performance-pc-components-selecting-the-optimal-cpu-for-gaming-enthusiasts/"><u>Discover Peak Performance PC Components: Selecting the Optimal CPU for Gaming Enthusiasts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-latest-nvidia-geforce-rtx-2060-drivers-compatible-with-windows-11-10-8-and-e/"><u>Download Latest NVIDIA GeForce RTX 2060 Drivers: Compatible with Windows 11, 10, 8 & E</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/effective-and-simple-detailed-analysis-of-cyberpower-cp6review-the-essential-basic-ups/"><u>Effective and Simple: Detailed Analysis of Cyberpower CP6#Review – The Essential Basic UPS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-and-secure-corsair-keyboard-installation-software-for-windows/"><u>Free and Secure Corsair Keyboard Installation Software for Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-downloads-install-drivers-and-software-for-brother-hl-l2n40dw-printer-on-windows/"><u>Free Downloads: Install Drivers & Software for Brother HL-L2n40DW Printer on Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-msi-gs65-up-to-date-with-the-latest-windows-drivers-here/"><u>Get Your MSi GS65 Up-to-Date with the Latest Windows Drivers Here</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-infinix-hot-30i-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Infinix Hot 30i Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-the-latest-epson-v700-driver-for-your-windows-system-windows-71081-guide/"><u>Install the Latest Epson V700 Driver for Your Windows System: Windows 7/10/8.1 Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-and-easy-synaptic-driver-installation-on-windows/"><u>Quick and Easy Synaptic Driver Installation on Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-and-hardware-reviews/"><u>Tom's Tech Insights & Hardware Reviews</u></a></li>
 </ul></div>
 

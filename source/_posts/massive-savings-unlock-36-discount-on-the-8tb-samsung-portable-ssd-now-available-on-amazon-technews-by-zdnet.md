@@ -1,7 +1,7 @@
 ---
 title: "Massive Savings: Unlock 36%% Discount on the 8TB Samsung Portable SSD - Now Available on Amazon | TechNews by ZDNet"
-date: 2025-02-08T19:25:16.290Z
-updated: 2025-02-16T03:42:35.886Z
+date: 2025-03-01T04:14:22.110Z
+updated: 2025-03-05T03:10:49.319Z
 tags:
   - laptops
 categories:
@@ -26,10 +26,6 @@ With a truly impressive amount of storage space, you'll get read and write speed
 **Read more:** **[SSD vs. HDD: What's the difference, and which should you buy?](https://www.zdnet.com/article/ssd-vs-hdd-whats-the-difference-and-which-should-you-buy/)** 
 
 Along with great read and write speeds and more reliable data transfers, the [Samsung T5 Evo](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Portable-External-MU-PH8T0S-AM%2Fdp%2FB0CMDGGJTZ%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C2362e90f-b768-47d7-98bd-3041538b2c7e%7Cdtp&dtb=1) also features 256-bit AES encryption to keep your personal data and sensitive information safe from unauthorized access. Its outer casing is drop- and shock-resistant and can withstand falls up to six feet, making it perfect for on-location photographers and other mobile professionals who need a tough storage drive for offloading raw photos from camera storage or transferring important projects and documents between their home office and mobile work location. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -65,22 +61,14 @@ While the Amazon listing for the Samsung T5 Evo portable SSD does not have a cou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/-beginners-guide-to-making-attractive-video-thumbnails-for-social-media-platforms/"><u>[New] A Beginner's Guide to Making Attractive Video Thumbnails for Social Media Platforms</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/uilding-confidence-against-youtube-critiques-for-2024/"><u>[New] Building Confidence Against YouTube Critiques for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-audible-savings-the-essential-guide-to-using-these-24-no-cost-splitters-on-youtube/"><u>[New] In 2024, Audible Savings The Essential Guide to Using These 24 No-Cost Splitters on YouTube</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-how-to-convert-twitter-videos-to-gifs/"><u>[New] In 2024, How To Convert Twitter Videos To GIFS?</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-expert-advice-downloading-editing-and-personalizing-whatsapp-tones-for-both-platforms/"><u>[Updated] Expert Advice Downloading, Editing & Personalizing WhatsApp Tones for Both Platforms</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effective-techniques-to-repair-realteks-rtl8811au-network-interface-drivers/"><u>Effective Techniques to Repair Realtek's RTL8811AU Network Interface Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/elevate-your-audio-experience-with-newly-released-sound-blaster-audigy-fx-drivers-download/"><u>Elevate Your Audio Experience with Newly Released Sound Blaster Audigy Fx Drivers Download</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-tips-for-acer-nitro-5-driver-maintenance-and-update-processes/"><u>Expert Tips for Acer Nitro 5 Driver Maintenance and Update Processes</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-updated-nvidia-quadro-rtx-8000-graphics-card-drivers-for-windows-xp-vista-10-and-8/"><u>Get Updated Nvidia Quadro RTX #8000 Graphics Card Drivers for Windows XP, Vista, 10, and 8</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/guide-to-correcting-issues-with-realtek-hd-graphics-drivers-successfully/"><u>Guide to Correcting Issues with Realtek HD Graphics Drivers Successfully</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-realme-11-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Realme 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-meme-matrix-perfect-pratfalls-for-parties/"><u>In 2024, Meme Matrix Perfect Pratfalls for Parties</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341676801-is-the-asus-rog-keris-ii-ace-a-worthy-successor-to-the-legendary-ragedeathadder-v3-pro-full-review-inside/"><u>Is the Asus ROG Keris II Ace a Worthy Successor to the Legendary RageDeathAdder V3 Pro? Full Review Inside!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-and-easy-access-to-elgato-driver-downloads/"><u>Quick and Easy Access to Elgato Driver Downloads</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-solution-for-paradox-launcher-malfunctions-and-errors/"><u>Step-by-Step Solution for Paradox Launcher Malfunctions and Errors</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722958523993-unlock-full-potential-with-corsairs-icue-software-compatible-with-windows-11-and-10-download-now/"><u>Unlock Full Potential with Corsair's iCUE Software – Compatible with Windows 11 & 10, Download Now!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/updated-amd-rx-5700-xt-graphics-driver-download-for-seamless-performance-on-windows-operating-systems/"><u>Updated AMD RX 5700 XT Graphics Driver Download for Seamless Performance on Windows Operating Systems</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-are-there-legal-restrictions-to-recording-youtube-videos/"><u>[New] 2024 Approved Are There Legal Restrictions to Recording YouTube Videos?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-elite-slow-motion-choosing-the-best-video-cameras/"><u>[New] 2024 Approved Elite Slow Motion Choosing the Best Video Cameras</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-pubg-voice-transformation-hacks-for-2024/"><u>[Updated] PUBG Voice Transformation Hacks for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easily-install-xbox-wireless-gadget-software-step-by-step-guide/"><u>Easily Install Xbox Wireless Gadget Software - Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortlessly-install-lenovo-x220-driver-updates-get-them-here/"><u>Effortlessly Install Lenovo X220 Driver Updates – Get Them Here!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exclusive-details-on-the-amazfit-helio-ring-release-schedule-and-detailed-specs-revealed/"><u>Exclusive Details on the Amazfit Helio Ring: Release Schedule & Detailed Specs Revealed</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-asus-atk0110-acpi-controller-drivers-for-free/"><u>Get Your ASUS ATK0110 ACPI Controller Drivers for Free!</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-sound-design-excellence-applying-audio-ducking-methods-in-powerdirector-for-non-intrusive-volume-reduction-for-2024/"><u>New Sound Design Excellence Applying Audio Ducking Methods in PowerDirector for Non-Intrusive Volume Reduction for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamless-graphic-driver-update-procedure-for-windows-11-users/"><u>Seamless Graphic Driver Update Procedure for Windows 11 Users</u></a></li>
 </ul></div>
 

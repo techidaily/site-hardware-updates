@@ -1,7 +1,7 @@
 ---
 title: Huge Discount on Apple's New M3 MacBook Air - Save $250 at the Amazon Prime Day Event in Oct | ZDNet
-date: 2025-02-12T05:17:33.012Z
-updated: 2025-02-15T20:33:32.913Z
+date: 2025-03-01T21:33:59.552Z
+updated: 2025-03-04T22:29:03.191Z
 tags:
   - laptops
 categories:
@@ -20,19 +20,11 @@ Jason Hiner/ZDNET
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### What's the deal?
 
 The Apple [M3 MacBook Pro 14"](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CM5JLWJK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb12ee2ea-4d7b-4e84-84d3-0702024ae9c4%7Cdtp&dtb=1) and [M3 MacBook Pro 16"](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CM5BL45N%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb12ee2ea-4d7b-4e84-84d3-0702024ae9c4%7Cdtp&dtb=1) laptops are both currently $200 off during Amazon's[Big Spring Sale](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fevents%2Fbigspringsale%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb12ee2ea-4d7b-4e84-84d3-0702024ae9c4%7Cdtp&dtb=1) event, on sale for $1,399 and $2,299, respectively. 
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
 
@@ -57,10 +49,6 @@ The M3 MacBook Pro also comes stacked with ports, including an HDMI, SDXC card s
 In addition, with up to 22 hours of battery life, the M3 improves on previous versions of the line with power-efficient design that isn't going to stay battery-starved. 
 
 The [M3 MacBook Pros](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CM5JLWJK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb12ee2ea-4d7b-4e84-84d3-0702024ae9c4%7Cdtp&dtb=1) come in three iconic colors of silver, space gray, and space black, with the all-aluminum body designed to resist scratches and dents, adding to the line's durable reputation. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -98,18 +86,17 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-top-youtube-name-makers-plus-creative-idea-sparking-techniques/"><u>[New] Top YouTube Name Makers + Creative Idea Sparking Techniques</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-bandicam-your-compreayer-for-high-quality-screen-recording/"><u>[Updated] 2024 Approved Bandicam Your Compreayer for High-Quality Screen Recording</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-buzzing-on-both-platforms-top-10-tiktok-tweets-explored-for-2024/"><u>[Updated] Buzzing on Both Platforms Top 10 TikTok Tweets Explored for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-effective-methods-for-downloading-audio-tracks-from-pinterest-videos-for-2024/"><u>[Updated] Effective Methods for Downloading Audio Tracks From Pinterest Videos for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-futures-how-gpt-4-will-reshape-diy/"><u>Crafting Futures: How GPT-4 Will Reshape DIY</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-newest-hp-deskjet-3755-all-in-one-printer-software-compatible-with-windows-1187/"><u>Download the Newest HP DeskJet 3755 All-In-One Printer Software Compatible with Windows 11/8/7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-system-upgraded-nvidias-latest-gaming-drivers-for-windows-11-and-10/"><u>Get Your System Upgraded: Nvidia's Latest Gaming Drivers for Windows 11 & 10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-logitech-k350-software-for-smooth-setup-begin-your-download-today/"><u>Latest Logitech K350 Software for Smooth Setup: Begin Your Download Today</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastering-slug-lines-for-effective-storytelling/"><u>Mastering Slug Lines for Effective Storytelling</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/professional-procrastination-buster-top-windows-productivity-hacks/"><u>Professional Procrastination Buster: Top Windows Productivity Hacks</u></a></li>
-<li><a href="https://techidaily.com/remove-xiaomi-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Xiaomi unlock screen</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210336911-9781789047059-the-i-ching-oracle-a-guide-through-the-human-maze/"><u>The I Ching Oracle: A Guide Through The Human Maze | Free Book</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-fix-guide-for-windows-11s-troublesome-bluetooth-pairings-now-working/"><u>Ultimate Fix Guide for Windows 11'S Troublesome Bluetooth Pairings - Now Working!</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-crafting-a-compelling-storyline-for-linkedin-articles-for-2024/"><u>[Updated] Crafting a Compelling Storyline for LinkedIn Articles for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-dramatic-discourse-penning-powerful-narrative-dialogues-for-2024/"><u>[Updated] Dramatic Discourse Penning Powerful Narrative Dialogues for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-in-depth-look-10-must-have-terraria-mods/"><u>[Updated] In 2024, In-Depth Look 10 Must-Have Terraria Mods</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/amazon-fire-hd-10-kids-model-assessed-a-leading-choice-for-family-friendly-device-management/"><u>Amazon Fire HD 10 Kids' Model Assessed: A Leading Choice for Family-Friendly Device Management</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-your-workstation-how-to-install-updated-drivers-for-nvidia-quadro-rtx-4000/"><u>Enhance Your Workstation: How to Install Updated Drivers for NVIDIA Quadro RTX 4000</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-successfully-update-your-windows-screen-driver-step-by-step/"><u>How to Successfully Update Your Windows Screen Driver - Step by Step</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Oppo A59 5G? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-vivo-y100t-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Vivo Y100t FRP Bypass</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/staying-competitive-the-continued-performance-of-dual-core-intel-processors-on-benchmarks/"><u>Staying Competitive: The Continued Performance of Dual-Core Intel Processors on Benchmarks</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-evaluation-of-apples-latest-ipad-mini-the-compact-tech-marvel/"><u>Ultimate Evaluation of Apple's Latest iPad Mini - The Compact Tech Marvel</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upgrade-your-connectivity-free-downloads-of-intel-wireless-network-adapter-drivers-for-windows-computers/"><u>Upgrade Your Connectivity: Free Downloads of Intel Wireless Network Adapter Drivers for Windows Computers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722971100220-usb-to-serial-diver-download-for-windows-easily-and-quickly/"><u>USB to Serial Diver Download for Windows — Easily & Quickly</u></a></li>
 </ul></div>
 

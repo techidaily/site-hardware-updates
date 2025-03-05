@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Our Laptop Benchmarking Process: A Behind-the-Scenes Look at ZDNet"
-date: 2025-02-09T05:43:12.166Z
-updated: 2025-02-15T19:43:04.168Z
+date: 2025-02-28T16:12:21.296Z
+updated: 2025-03-05T00:10:10.527Z
 tags:
   - laptops
 categories:
@@ -24,10 +24,6 @@ The term laptop is often used interchangeably with Chromebook, but there are som
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is a Chromebook?
 
 A Chromebook is a portable computer [running ChromeOS](https://www.zdnet.com/article/google-chromeos-flex-stable-release-breathes-new-life-to-enterprise-laptops/), a specialized operating system designed by Google to rely more heavily on connected and cloud-based services than traditional operating systems like Windows or MacOS do. Chromebooks look nearly identical to most laptops or notebook PCs, but generally include less powerful hardware due to their reliance on those cloud-based services, instead of locally installed software that requires more horsepower.
@@ -44,10 +40,6 @@ In this comparison, "laptop" refers to portable computers running traditional op
 
 For example, a person editing a photo on a standard laptop could use locally installed programs like Microsoft Paint, Adobe Photoshop, or GIMP, or photo-editing web apps like [Pixlr](https://pixlr.com/), [Imgur](https://imgur.com/edit?deletehash=TBFOmNPuPRoKQfh), or [Photoshop on the web (beta)](https://photoshop.adobe.com/). A user wanting to complete the same task on a Chromebook would need to rely on web apps, as locally installed options like Paint and Photoshop are not compatible with ChromeOS.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Can a Chromebook do everything a laptop can?
 
 Almost. Put simply, a Chromebook can do everything most people use a laptop for. This includes browsing the web, social media, email, messaging, watching or listening to streaming media, productivity tasks like word processing or spreadsheets, video chat and remote learning, and even basic photo and video editing. 
@@ -59,10 +51,6 @@ Laptops, however, for some tasks, are better for some niche and professional use
 This makes Chromebooks excellent for students, office workers, and anyone who works or plays entirely on the web, but not so great for people who need the often more advanced capabilities of locally installed software.
 
 Getty
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Can Chromebooks be used for gaming?
 
@@ -78,10 +66,6 @@ That said, you can get close to the ideal experience by sticking with lighter-we
 
 Michael Gariffo/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Do Chromebooks need to be connected to the Internet?
 
 Ideally, yes, but some tasks can be completed offline. Because Chromebooks rely heavily on connected services like cloud-based storage and web apps, a lack of connectivity might leave you without access to important files or the software you need. 
@@ -93,10 +77,6 @@ However, some basic functions remain even when a Chromebook isn't connected to t
 To be clear, you shouldn't purchase a Chromebook if you don't intend to have it connected to the internet the vast majority of the time. While it can be used offline, its full functionality is dependent on access to an active internet connection.
 
 Google
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Are Chromebooks expensive?
 
@@ -178,14 +158,20 @@ I wouldn't call the Dell Chromebook 3100 disposable at $100, but it's as close a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-diy-video-mastery-10-straightforward-concepts-everyone-should-try/"><u>[New] 2024 Approved DIY Video Mastery 10 Straightforward Concepts Everyone Should Try</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-enhance-your-synaptic-touchpad-drivers-step-by-step/"><u>Download & Enhance Your Synaptic Touchpad Drivers - Step by Step</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-find-and-upgrade-your-surface-book-2-drivers-with-minimal-hassle/"><u>How to Find and Upgrade Your Surface Book 2 Drivers with Minimal Hassle</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/mastering-video-recording-and-editing-with-adobe-connect/"><u>Mastering Video Recording & Editing with Adobe Connect</u></a></li>
-<li><a href="https://fox-info.techidaily.com/pro-action-recorder-guide-top-15-camcorder-list/"><u>Pro Action Recorder Guide Top 15 Camcorder List</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722975022655-samsung-m2070fw-driver-downloads-at-lightning-speed-get-them-here/"><u>Samsung M2070FW Driver Downloads at Lightning Speed – Get Them Here</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-to-download-canon-mg3620-printing-drivers-securely/"><u>Step-by-Step Tutorial to Download Canon MG3620 Printing Drivers Securely</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ultimate-guide-to-the-best-stylus-enabled-tablets-of-2024-in-depth-analysis-and-ratings/"><u>Ultimate Guide to the Best Stylus Enabled Tablets of 2024: In-Depth Analysis and Ratings</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-your-netgear-a61-wireless-adapter-with-the-latest-windows-drivers-how-to/"><u>Update Your Netgear A61^ Wireless Adapter with the Latest Windows Drivers: How To</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-exploring-the-depths-of-video-talks-on-youtube/"><u>[New] In 2024, Exploring the Depths of Video Talks on YouTube</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-tailor-videos-to-instagrams-preferred-format-for-2024/"><u>[New] Tailor Videos to Instagram's Preferred Format for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/solved-logitech-c615-driver-issues-quickly-and-easily/"><u>[SOLVED] Logitech C615 Driver Issues| Quickly & Easily</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-techniques-for-text-overlays-in-video-platforms-vimeo/"><u>[Updated] In 2024, Techniques for Text Overlays in Video Platforms (Vimeo)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/affordable-top-pick-best-non-lenovo-non-dell-2-in-1-laptop-before-prime-day-deals-expert-recommendations/"><u>Affordable Top Pick: Best Non-Lenovo, Non-Dell 2-in-1 Laptop Before Prime Day Deals - Expert Recommendations</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/convert-your-sbt-to-cutting-edge-srt-with-our-top-8-software-for-desktop-users-for-2024/"><u>Convert Your SBT to Cutting-Edge SRT with Our Top 8 Software for Desktop Users for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/diy-approach-how-to-easily-mend-lenovos-persistent-usb-driver-woes/"><u>DIY Approach: How to Easily Mend Lenovo's Persistent USB Driver Woes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-download-ultimate-driver-packs-for-msi-sound-cards-on-windows/"><u>Free Download: Ultimate Driver Packs for MSI Sound Cards on Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/get-ready-for-the-big-leap-top-3-revolutionary-features-of-the-new-iphone-16-showcase/"><u>Get Ready for the Big Leap: Top 3 Revolutionary Features of the New iPhone 16 Showcase</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722968748719-get-your-canon-mg3620-up-and-running-safe-driver-downloads-here/"><u>Get Your Canon MG3620 Up and Running - Safe Driver Downloads Here</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/how-to-fix-not-enough-space-error-when-restoring-your-iphone-backup-on-windows-or-mac/"><u>How to Fix 'Not Enough Space' Error When Restoring Your iPhone Backup on Windows or Mac</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/mastering-dex3-dj-a-comprehensive-guide-on-adjusting-and-editing-font-sizes-in-pioneer-cdj/"><u>Mastering DEX3 DJ: A Comprehensive Guide on Adjusting & Editing Font Sizes in Pioneer CDJ</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/new-intel-core-i9-13860hk-desktop-cpu-debuting-with-the-advanced-lunar-lake-architecture-this-september/"><u>New Intel Core I9-13860HK Desktop CPU: Debuting with the Advanced Lunar Lake Architecture This September</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/swift-installation-guide-microsoft-ergo-keyboard-4000-drivers/"><u>Swift Installation Guide: Microsoft Ergo Keyboard 4000 Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-seasonal-timing-that-should-coincide-with-local-climatic-patterns-including-monsoon-and-dry-seasons/"><u>The Seasonal Timing that Should Coincide with Local Climatic Patterns, Including Monsoon and Dry Seasons.</u></a></li>
 </ul></div>
 

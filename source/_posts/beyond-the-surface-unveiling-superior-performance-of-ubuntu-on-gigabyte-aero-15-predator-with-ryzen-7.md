@@ -1,7 +1,7 @@
 ---
 title: "Beyond the Surface: Unveiling Superior Performance of Ubuntu on Gigabyte Aero 15 Predator with Ryzen 7"
-date: 2024-08-19T04:35:03.009Z
-updated: 2024-08-20T04:35:03.009Z
+date: 2025-02-27T06:01:56.407Z
+updated: 2025-03-05T01:31:44.972Z
 tags:
   - laptop
 categories:
@@ -92,30 +92,18 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  On Geekbench 6, the Zenbook S16 achieved a single-core score of 2,765 and a multi-core score of 13,282\. This was enough to beat the M3 in Apple's MacBook Air, the 16-core Intel Core Ultra 7 155H in the[HP](https://tools.techidaily.com) Spectre x360 14, and the Qualcomm Snapdragon X Elite X1E-78-100 in the HP OmniBook X. The newest Ryzen fell only to the Apple M3 Max, with scores of 3,200 and 21,711 in the 16-inch MacBook Pro (and, to be fair, a review unit stocked with 128GB of RAM, making the MacBook Air a more apt comparison from a price perspective. While it's unclear that Apple has ever released an official number, various sites have tested the M3 Max to be using significantly more power than the Ryzen AI CPU here, which is rated at 28W and configured to 17W TDP out of the box).
@@ -126,18 +114,12 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
  To stress the processor, we run Cinebench 2024 for 10 runs. During the test, the system started at 821.18 points and dipped into the high 700's, and then peaked up to 844.42 points before dipping again into the mid-to-high 700's. The Zen 5 cores ran at an average of 2.67 GHz, while the Zen 5C cores reached 1.9 GHz. The CPU ran at an average of 73.44 Celsius.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## AI on the AMD Ryzen AI 9 HX 370
 
  Despite all of the hubbub around artificial intelligence, it's still only useful in so many consumer products. On Windows laptops, applications are still slowly adopting the technologies. While NPUs are often being used for background blur in video conferencing apps, generative AI is often using GPUs (at least, when it isn't looking to the cloud instead).
 
 ![Asus Zenbook S16](https://cdn.mos.cms.futurecdn.net/kyTb4Yk4LUiQN83wEJXLtQ-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  In a reviewer's guide sent to the press, AMD suggested a number of applications to try that make use of local AI. Chief among them was a beta of Amuse 2.0, which includes image generation with Stable Diffusion, as well as paint-to-image features that are very similar to image creator in Paint on Copilot Plus PCs (though that uses DALL-E). In a way, this app, made to work well with AMD's hardware, can fill in the blanks until[Microsoft](https://tools.techidaily.com) adds Copilot Plus features to Ryzen AI laptops.
@@ -162,9 +144,6 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
  At 357 nits, I found the Zenbook 16 to be usable, but competitors do better. The 16-inch MacBook Pro was the brightest at 563 nits, and both the MacBook Air (476.4 nits) and HP Spectre x360 366.2 nits were also brighter.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ## Keyboard and Touchpad on the Asus Zenbook S16
 
  Despite just 1.1 mm travel, the Zenbook S16’s keyboard is snappy. Don't get me wrong, it's still a membrane keyboard, but it's relatively comfortable and even has a bit of bounce. On monkeytype, I hit 112 words per minute with a 2% error rate, which isn't my best, but is pretty close.
@@ -209,9 +188,6 @@ There isn't much to upgrade or repair on the Zenbook S16.
 
  But the MacBook Air M3 (15:03), HP OmniBook X on a Snapdragon X Elite (16:18), and the 16-inch MacBook Pro lasted an incredible 17:11.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Heat on the Asus Zenbook S16
 
  During our ten runs of Cinebench 2024, we took skin temperature measurements to see how the Zenbook performs under an intense workload.
@@ -236,18 +212,12 @@ There isn't much to upgrade or repair on the Zenbook S16.
 
  Asus sells the Zenbook S16 with a one-year warranty. A card included in the box offers one free year of accidental damage protection in exchange for registering the laptop.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Asus Zenbook S16 Configurations
 
  We tested the Asus Zenbook S16 with an AMD Ryzen AI 9 HX 370, 32GB of RAM, and a 1TB SSD, which goes for $1,699.99.
 
  A cheaper version[sold at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fshop-links.co%2Flink%3Fpublisher%255Fslug%3Dfuture%26exclusive%3D1%26u1%3Dtomshardware-us-4910217774050973812%26url%3Dhttps%253A%252F%252Fwww.bestbuy.com%252Fsite%252Fasus-zenbook-s-16-16-3k-oled-touch-screen-laptop-amd-ryzen-ai-9-365-24gb-memory-1tb-ssd-scandinavian-white%252F6584435.p%26article%255Fname%3DAsus%2520Zenbook%2520S16%2520review%253A%2520AMD%2520Ryzen%2520AI%25209%2520HX%2520370%2520tested%2520%257C%2520Tom%27s%2520Hardware%26article%255Furl%3Dhttps%253A%252F%252Fwww.tomshardware.com%252Flaptops%252Fgaming-laptops%252Fasus-zenbook-s16-amd-ryzen-ai-9-hx-370-review) is $1,399.99 with a Ryzen AI 9 HX 365 and 24GB of memory, as well as a white chassis.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ## Bottom Line
 
  The Asus Zenbook S16 is a solid showcase for AMD's new AI-focused processors, even if AI applications themselves aren't quite ready to excite most people.
@@ -274,8 +244,6 @@ There isn't much to upgrade or repair on the Zenbook S16.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -283,4 +251,17 @@ There isn't much to upgrade or repair on the Zenbook S16.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-htc-vive-review-the-epitome-of-ultimate-virtual-reality-playtime/"><u>[New] HTC Vive Review The Epitome of Ultimate Virtual Reality Playtime</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/appreciating-w15as-features-critiquing-its-quirks/"><u>Appreciating W15A's Features; Critiquing Its Quirks</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726027442595-linkedin/"><u>LinkedInでのビデオ抽出手順</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/peak-visionary-workspace-appraisal/"><u>Peak Visionary Workspace Appraisal</u></a></li>
+<li><a href="https://windows11.techidaily.com/pure-functionality-cleaning-and-organizing-your-w11-workspace/"><u>Pure Functionality: Cleaning and Organizing Your W11 Workspace</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/seeking-excellence-prime-free-srt-online-translators-guide-for-2024/"><u>Seeking Excellence Prime Free SRT Online Translators Guide for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862791893-snag-the-epic-deal-this-amazing-sceptre-24-curved-gamers-monitor-for-only-79/"><u>Snag the Epic Deal: This Amazing Sceptre 24 Curved Gamer's Monitor for Only $79!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unmissable-discounts-score-the-best-monitors-with-4k-and-gaming-capabilities/"><u>Unmissable Discounts: Score the Best Monitors with 4K & Gaming Capabilities</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862765964-upgrade-your-game-with-the-ultra-sharp-qhd-dell-gaming-monitor-now-under-200/"><u>Upgrade Your Game with the Ultra-Sharp QHD Dell Gaming Monitor - Now Under $200</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/your-guide-to-high-performance-gear-authoritative-reviews-at-toms-hardware/"><u>Your Guide to High-Performance Gear | Authoritative Reviews at Tom's Hardware</u></a></li>
+</ul></div>
 

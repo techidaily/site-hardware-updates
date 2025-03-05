@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Review: In-Depth Analysis and Expert Insights"
-date: 2024-08-19T04:38:20.155Z
-updated: 2024-08-20T04:38:20.155Z
+date: 2025-03-02T04:18:27.571Z
+updated: 2025-03-04T23:24:27.002Z
 tags:
   - laptop
 categories:
@@ -82,9 +82,6 @@ It's rare that my lasting impression about a laptop is all about style, but here
 | **Weight**                | 3.31 pounds (1.5 kg)                                                                         |
 | **Price (as configured)** | $1,699.99                                                                                    |
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ## Productivity Performance on the Asus Zenbook S16
 
  This review happens to be our first look at AMD's new Ryzen AI 9 HX 370, one of the company's very lengthily-named processors in its "Strix Point" lineup. This chip has four Zen 5 cores and eight Zen 5c cores (for a total of 12 cores). It has a base clock of 2 GHz and a max boost of up to 5.1 GHz. As chip companies attempt to one-up each other on AI, AMD is packing 50 TOPS in its NPU, surpassing the 45 TOPS in the Qualcomm Snapdragon X Elite and X Plus (the chip as a whole goes up to 80 TOPS).
@@ -99,9 +96,6 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -150,9 +144,6 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
  At 357 nits, I found the Zenbook 16 to be usable, but competitors do better. The 16-inch MacBook Pro was the brightest at 563 nits, and both the MacBook Air (476.4 nits) and HP Spectre x360 366.2 nits were also brighter.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Keyboard and Touchpad on the Asus Zenbook S16
 
  Despite just 1.1 mm travel, the Zenbook S16’s keyboard is snappy. Don't get me wrong, it's still a membrane keyboard, but it's relatively comfortable and even has a bit of bounce. On monkeytype, I hit 112 words per minute with a 2% error rate, which isn't my best, but is pretty close.
@@ -181,9 +172,6 @@ There isn't much to upgrade or repair on the Zenbook S16.
 
 ![Asus Zenbook S16](https://cdn.mos.cms.futurecdn.net/ecmzqwkBMqHc5j2cTa5SPS-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Once you're in, there are two parts you could replace. The first is the battery, which takes up most of the room inside the system. The other is the SSD. Despite the size of the laptop, there isn't a secondary M.2 slot, so you'll have to replace the drive if you want more storage space. The wireless module and RAM are soldered to the motherboard.
@@ -194,9 +182,6 @@ There isn't much to upgrade or repair on the Zenbook S16.
 
 ![Asus Zenbook S16](https://cdn.mos.cms.futurecdn.net/qUjejmtkRBhxMYbsPzPwHT-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  The AMD-based Zenbook ran for 11 hours and 35 minutes on our battery test, which involves web browsing, OpenGL tests, and video streaming over Wi-Fi with the screen set to 150 nits. Only the Spectre x360, with Intel Core Ultra, did worse at 11:01 (and that's not far behind, especially considering that laptop has a smaller battery than the Zenbook).
@@ -209,18 +194,12 @@ There isn't much to upgrade or repair on the Zenbook S16.
 
  The keyboard hit a warm (but not uncomfortable) 99.5 degrees Fahrenheit, while the touchpad stayed cool at 87.4 F. The hottest point on the top on the grille at 110 F, but that's not usually a place you put your hands. On the bottom, the hottest touchpoint, near the ventilation, was at 116.2 F.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Webcam on the Asus Zenbook S16
 
  There's a 1080p webcam on the Zenbook S16's top bezel. While it's color-accurate, catching the exact shade of green in my shirt and the blue in my mesh office chair, some details, like my hair, came across a bit fuzzy.
 
  The camera supports infrared to log in with Windows Hello for facial recognition. It's the sole biometric option on the device.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Software and Warranty on the Asus Zenbook S16
 
  Asus includes four pieces of software on the Zenbook S16\. The first is MyAsus, which allows you to manage your warranty, and also shows system settings and lets you check for updates. This app now prompts you for an account, which it didn't use to do (and in my opinion, shouldn't need to). Despite its appearance, you can skip this prompt.  
@@ -233,18 +212,12 @@ There isn't much to upgrade or repair on the Zenbook S16.
 
  Asus sells the Zenbook S16 with a one-year warranty. A card included in the box offers one free year of accidental damage protection in exchange for registering the laptop.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## Asus Zenbook S16 Configurations
 
  We tested the Asus Zenbook S16 with an AMD Ryzen AI 9 HX 370, 32GB of RAM, and a 1TB SSD, which goes for $1,699.99.
 
  A cheaper version[sold at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fshop-links.co%2Flink%3Fpublisher%255Fslug%3Dfuture%26exclusive%3D1%26u1%3Dtomshardware-us-4910217774050973812%26url%3Dhttps%253A%252F%252Fwww.bestbuy.com%252Fsite%252Fasus-zenbook-s-16-16-3k-oled-touch-screen-laptop-amd-ryzen-ai-9-365-24gb-memory-1tb-ssd-scandinavian-white%252F6584435.p%26article%255Fname%3DAsus%2520Zenbook%2520S16%2520review%253A%2520AMD%2520Ryzen%2520AI%25209%2520HX%2520370%2520tested%2520%257C%2520Tom%27s%2520Hardware%26article%255Furl%3Dhttps%253A%252F%252Fwww.tomshardware.com%252Flaptops%252Fgaming-laptops%252Fasus-zenbook-s16-amd-ryzen-ai-9-hx-370-review) is $1,399.99 with a Ryzen AI 9 HX 365 and 24GB of memory, as well as a white chassis.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Bottom Line
 
  The Asus Zenbook S16 is a solid showcase for AMD's new AI-focused processors, even if AI applications themselves aren't quite ready to excite most people.
@@ -253,9 +226,6 @@ There isn't much to upgrade or repair on the Zenbook S16.
 
 ![Asus Zenbook S16](https://cdn.mos.cms.futurecdn.net/6o6YfV44dwdxPyvuRks6XS-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  It's hard to say that 11 and a half hours of battery life is a downside, but it does show that x86 laptops are lagging a bit in that department behind the likes of Apple and Qualcomm, both using Arm-based designs. Over 11 hours is great; over 15 hours is better. Additionally, while the OLED display is extremely colorful, it's not as bright as some competitors.
@@ -274,8 +244,6 @@ There isn't much to upgrade or repair on the Zenbook S16.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -283,4 +251,26 @@ There isn't much to upgrade or repair on the Zenbook S16.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-in-2024-analyzing-major-editions-and-phases-of-windows-movie-maker/"><u>[New] In 2024, Analyzing Major Editions and Phases of Windows Movie Maker</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-best-offline-audio-conversion-software/"><u>[New] In 2024, Best Offline Audio Conversion Software</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-easy-techniques-for-snagging-youtube-songs-and-commentary/"><u>[Updated] 2024 Approved Easy Techniques for Snagging YouTube Songs and Commentary</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-visioncutting-software/"><u>[Updated] VisionCutting Software</u></a></li>
+<li><a href="https://change-location.techidaily.com/additional-tips-about-sinnoh-stone-for-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-radeon-rx-6800-xt-graphics-card-drivers-latest-version-and-download-for-windows-11-10-8-and-7/"><u>AMD Radeon RX 6800 XT Graphics Card Drivers: Latest Version & Download for Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/begin-every-question-with-either-have-you-considered-what-if-you-tried-or-could-it-be-beneficial-to/"><u>Begin Every Question with Either Have You Considered, What if You Tried, or Could It Be Beneficial To</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comparing-amds-latest-titans-ryzen-9900x-vs-970ex-vs-9600x-in-cinebench-unveiling-performance-scores/"><u>Comparing AMD's Latest Titans: Ryzen 9900X vs 970eX vs 9600X in Cinebench - Unveiling Performance Scores</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-installation-of-hp-laserjet-pro-m402n-on-your-pc-with-windows-os/"><u>Easy Installation of HP LaserJet Pro M402n on Your PC with Windows OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-compatibility-download-new-drivers-for-your-brother-hl-l2370dw-printer-today/"><u>Ensure Compatibility: Download New Drivers for Your Brother HL-L2370DW Printer Today</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-logitech-g35-headset-drivers-updated-version-supporting-windows-7810/"><u>Free Logitech G35 Headset Drivers - Updated Version Supporting Windows 7/8/10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722975567134-get-your-windows-pc-optimized-with-new-nvidia-geforce-drivers-free/"><u>Get Your Windows PC Optimized with New NVIDIA GeForce Drivers - Free</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-seamlessly-download-and-update-microsoft-drivers-in-windows-11-8-and-7-step-by-step-instructions/"><u>How to Seamlessly Download and Update Microsoft Drivers in Windows 11, 8 & 7 - Step by Step Instructions</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-vivo-s17e-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/movavi-contents-collection-comprehensive-media-compilation/"><u>Movavi Contents Collection – Comprehensive Media Compilation</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-disk-needs-initializing-error-on-windows/"><u>Overcoming Disk Needs Initializing Error on Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-and-enable-your-eveo-bluetooth-device-with-official-drivers/"><u>Update & Enable Your Eveo Bluetooth Device with Official Drivers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722974219128-windows-compatible-driver-update-for-nvidia-geforce-mx150-graphics-cards-download-now/"><u>Windows-Compatible Driver Update for NVIDIA GeForce MX150 Graphics Cards – Download Now</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Analysis of the Razer Blade 14: Miniature Elegance with Maximum Capability and Costs"
-date: 2024-08-19T04:34:13.714Z
-updated: 2024-08-20T04:34:13.714Z
+date: 2025-02-27T16:57:42.302Z
+updated: 2025-03-04T23:37:56.951Z
 tags:
   - laptop
 categories:
@@ -82,9 +82,6 @@ It's rare that my lasting impression about a laptop is all about style, but here
 | **Weight**                | 3.31 pounds (1.5 kg)                                                                         |
 | **Price (as configured)** | $1,699.99                                                                                    |
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Productivity Performance on the Asus Zenbook S16
 
  This review happens to be our first look at AMD's new Ryzen AI 9 HX 370, one of the company's very lengthily-named processors in its "Strix Point" lineup. This chip has four Zen 5 cores and eight Zen 5c cores (for a total of 12 cores). It has a base clock of 2 GHz and a max boost of up to 5.1 GHz. As chip companies attempt to one-up each other on AI, AMD is packing 50 TOPS in its NPU, surpassing the 45 TOPS in the Qualcomm Snapdragon X Elite and X Plus (the chip as a whole goes up to 80 TOPS).
@@ -95,9 +92,6 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -120,9 +114,6 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
  To stress the processor, we run Cinebench 2024 for 10 runs. During the test, the system started at 821.18 points and dipped into the high 700's, and then peaked up to 844.42 points before dipping again into the mid-to-high 700's. The Zen 5 cores ran at an average of 2.67 GHz, while the Zen 5C cores reached 1.9 GHz. The CPU ran at an average of 73.44 Celsius.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## AI on the AMD Ryzen AI 9 HX 370
 
  Despite all of the hubbub around artificial intelligence, it's still only useful in so many consumer products. On Windows laptops, applications are still slowly adopting the technologies. While NPUs are often being used for background blur in video conferencing apps, generative AI is often using GPUs (at least, when it isn't looking to the cloud instead).
@@ -159,9 +150,6 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
 ![Asus Zenbook S16](https://cdn.mos.cms.futurecdn.net/aW7bBZzL8RWWNJL5FgJbTR-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  The keyboard is set back slightly further than I'd like because the touchpad is so tall. I got used to it but some of my coworkers found it a bit uncomfortable.
@@ -184,9 +172,6 @@ There isn't much to upgrade or repair on the Zenbook S16.
 
 ![Asus Zenbook S16](https://cdn.mos.cms.futurecdn.net/ecmzqwkBMqHc5j2cTa5SPS-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Once you're in, there are two parts you could replace. The first is the battery, which takes up most of the room inside the system. The other is the SSD. Despite the size of the laptop, there isn't a secondary M.2 slot, so you'll have to replace the drive if you want more storage space. The wireless module and RAM are soldered to the motherboard.
@@ -197,27 +182,18 @@ There isn't much to upgrade or repair on the Zenbook S16.
 
 ![Asus Zenbook S16](https://cdn.mos.cms.futurecdn.net/qUjejmtkRBhxMYbsPzPwHT-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  The AMD-based Zenbook ran for 11 hours and 35 minutes on our battery test, which involves web browsing, OpenGL tests, and video streaming over Wi-Fi with the screen set to 150 nits. Only the Spectre x360, with Intel Core Ultra, did worse at 11:01 (and that's not far behind, especially considering that laptop has a smaller battery than the Zenbook).
 
  But the MacBook Air M3 (15:03), HP OmniBook X on a Snapdragon X Elite (16:18), and the 16-inch MacBook Pro lasted an incredible 17:11.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Heat on the Asus Zenbook S16
 
  During our ten runs of Cinebench 2024, we took skin temperature measurements to see how the Zenbook performs under an intense workload.
 
  The keyboard hit a warm (but not uncomfortable) 99.5 degrees Fahrenheit, while the touchpad stayed cool at 87.4 F. The hottest point on the top on the grille at 110 F, but that's not usually a place you put your hands. On the bottom, the hottest touchpoint, near the ventilation, was at 116.2 F.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Webcam on the Asus Zenbook S16
 
  There's a 1080p webcam on the Zenbook S16's top bezel. While it's color-accurate, catching the exact shade of green in my shirt and the blue in my mesh office chair, some details, like my hair, came across a bit fuzzy.
@@ -236,9 +212,6 @@ There isn't much to upgrade or repair on the Zenbook S16.
 
  Asus sells the Zenbook S16 with a one-year warranty. A card included in the box offers one free year of accidental damage protection in exchange for registering the laptop.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Asus Zenbook S16 Configurations
 
  We tested the Asus Zenbook S16 with an AMD Ryzen AI 9 HX 370, 32GB of RAM, and a 1TB SSD, which goes for $1,699.99.
@@ -253,9 +226,6 @@ There isn't much to upgrade or repair on the Zenbook S16.
 
 ![Asus Zenbook S16](https://cdn.mos.cms.futurecdn.net/6o6YfV44dwdxPyvuRks6XS-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  It's hard to say that 11 and a half hours of battery life is a downside, but it does show that x86 laptops are lagging a bit in that department behind the likes of Apple and Qualcomm, both using Arm-based designs. Over 11 hours is great; over 15 hours is better. Additionally, while the OLED display is extremely colorful, it's not as bright as some competitors.
@@ -274,8 +244,6 @@ There isn't much to upgrade or repair on the Zenbook S16.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -283,4 +251,26 @@ There isn't much to upgrade or repair on the Zenbook S16.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-proven-techniques-to-elevate-your-igtv-videos-on-mobile-and-professional-cameras/"><u>[New] In 2024, Proven Techniques to Elevate Your IGTV Videos on Mobile & Professional Cameras</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ords-in-motion-a-guide-to-lively-animation-methods/"><u>[New] Words in Motion A Guide to Lively Animation Methods</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/create-at-least-three-distinct-characters-with-intertitles-displaying-their-names-commissioner-v-commissioner-v-operator-o-operator-o-and-greens-voice-green78/"><u>Create at Least Three Distinct Characters, with Intertitles Displaying Their Names: Commissioner V (Commissioner V), Operator O (Operator O), and Greens' Voice (Greens' Voice).</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/demystifying-hdcp-errors-insightful-explanation-and-step-by-step-fixes/"><u>Demystifying HDCP Errors: Insightful Explanation and Step-by-Step Fixes</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-vivo-s18-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Vivo S18 Pro without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-vivo-s17-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Vivo S17 Phones? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862767750-lgs-best-34-ultragear-monitor-qhd-resolution-and-g-sync-tech-now-only-549-on-amazon/"><u>LG's Best: 34 Ultragear Monitor, QHD Resolution & G-Sync Tech - Now Only $549 on Amazon</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-10-best-free-websites-to-watch-cartoons-online/"><u>New 10 Best Free Websites to Watch Cartoons Online</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-how-to-free-up-disk-space-for-final-cut-pro-x/"><u>New 2024 Approved How to Free Up Disk Space for Final Cut Pro X?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/simple-methods-convert-your-dvd-to-digital-format-on-windows-or-mac-quick-guide/"><u>Simple Methods: Convert Your DVD to Digital Format on Windows or Mac, Quick Guide!</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-rog-phone-7-ultimate-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on ROG Phone 7 Ultimate without backup.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlocking-performance-potential-a-journey-through-toms-hardware-selection/"><u>Unlocking Performance Potential - A Journey Through Tom's Hardware Selection</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-gadgets-and-components-at-toms-hardware-hub/"><u>Unveiling Gadgets and Components at Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-innovative-pc-and-laptop-technologies-insights-from-toms-hardware/"><u>Unveiling Innovative PC and Laptop Technologies - Insights From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-tech-secrets-with-tom-the-ultimate-resource-for-hardware-enthusiasts/"><u>Unveiling Tech Secrets with Tom - The Ultimate Resource for Hardware Enthusiasts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-best-in-electronics-inspired-by-toms-insights/"><u>Unveiling the Best in Electronics - Inspired by Tom’s Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-secrets-of-high-performance-computers-with-toms-hardware/"><u>Unveiling the Secrets of High-Performance Computers with Tom's Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-toms-gear-specs-and-performance-insights/"><u>Unveiling Tom's Gear Specs & Performance Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/xiaomi-g34wqi-34-inch-180hz-monitor-unveiled-fantastic-graphics-contrast-and-budget-friendly-for-gaming-enthusiasts/"><u>Xiaomi G34WQi 34-Inch 180Hz Monitor Unveiled! Fantastic Graphics, Contrast & Budget-Friendly for Gaming Enthusiasts.</u></a></li>
+</ul></div>
 

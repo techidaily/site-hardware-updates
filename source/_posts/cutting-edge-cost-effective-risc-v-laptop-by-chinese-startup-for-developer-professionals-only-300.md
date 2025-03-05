@@ -1,7 +1,7 @@
 ---
 title: Cutting-Edge, Cost-Effective RISC-V Laptop by Chinese Startup for Developer Professionals – Only $300
-date: 2024-08-19T04:33:18.780Z
-updated: 2024-08-20T04:33:18.780Z
+date: 2025-03-02T16:40:08.330Z
+updated: 2025-03-05T06:17:28.544Z
 tags:
   - laptop
 categories:
@@ -39,8 +39,6 @@ AMD’s latest[Ryzen AI 300](https://tools.techidaily.com) (Strix Point) chips a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -48,8 +46,21 @@ AMD’s latest[Ryzen AI 300](https://tools.techidaily.com) (Strix Point) chips a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-hype-generating-headline-author/"><u>[Updated] In 2024, Hype-Generating Headline Author</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-wave-weaver-toolkit/"><u>2024 Approved Wave Weaver Toolkit</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722968416950-download-and-setup-brother-hl-3170cdw-driver-software-in-minutes/"><u>Download & Setup: Brother HL-^3170cdw Driver Software in Minutes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/get-insights-quickly-discover-solutions-by-turning-pg-4/"><u>Get Insights Quickly! Discover Solutions by Turning Pg. 4</u></a></li>
+<li><a href="https://common-error.techidaily.com/important-notice-to-enable-this-software-ensure-you-have-d3d11-graphic-capabilities/"><u>Important Notice: To Enable This Software, Ensure You Have D3D11 Graphic Capabilities</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/leading-top-5-agile-and-lightweight-cameras-list/"><u>Leading Top 5 Agile and Lightweight Cameras List</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725285047041-mp3/"><u>MP3への完全ノンロス変換：ビデオ動画を最高音質で転写するテクニック</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/scented-computing-redefined-by-asus-with-the-introduction-of-their-sweet-smelling-adol-book-laptop/"><u>Scented Computing Redefined by Asus with the Introduction of Their Sweet-Smelling Adol Book Laptop</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/score-a-bargain-16-inch-macbook-pro-w-m3-chip-at-discounted-prices-pre-prime-day/"><u>Score a Bargain: 16-Inch MacBook Pro W/ M3 Chip at Discounted Prices Pre-Prime Day</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-reviews-in-depth-analysis-of-the-latest-hardware/"><u>Tom's Tech Reviews: In-Depth Analysis of the Latest Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-reviews-the-ultimate-guide-to-computer-components/"><u>Tom's Tech Reviews: The Ultimate Guide to Computer Components</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-comprehensive-hardware-reviews-and-advice/"><u>Tom's Tech: Comprehensive Hardware Reviews and Advice</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-picks-for-your-tech-needs-curated-by-toms-wisdom/"><u>Top Picks for Your Tech Needs Curated by Tom's Wisdom</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-your-astro-a10-audio-problems-quick-repair-tips/"><u>Troubleshoot Your Astro A10 Audio Problems - Quick Repair Tips</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

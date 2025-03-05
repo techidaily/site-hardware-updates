@@ -1,7 +1,7 @@
 ---
 title: Unveiling Samsung's Game-Changing Copilot+ Laptop - Exclusive Review & Top Deal on Windows Devices!
-date: 2025-02-13T02:34:56.003Z
-updated: 2025-02-16T02:54:24.490Z
+date: 2025-03-02T05:18:51.846Z
+updated: 2025-03-05T04:54:19.051Z
 tags:
   - laptops
 categories:
@@ -19,10 +19,6 @@ Kerry Wan/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -78,10 +74,6 @@ There's a lot that the dual-screen design of the Yoga Book 9i enables, and the v
 
 Switching back to my single-screen MacBook Pro was, to put it lightly, tough. I missed having all the extra screen real estate and the ability to have two full documents open side-by-side while writing. I felt limited in a way that I wasn't expecting, which says a lot about how effective Lenovo's dual-screen design is.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How does it perform?
 
 The twin 13.3-inch OLED displays look exceptional with deep black levels, vibrant colors, and 400 nits of brightness (a.k.a. enough for most lighting situations). They each sport 2.8K resolutions, so everything looks crisp, and Lenovo even includes 16:10 aspect ratios so you get a bit extra vertical room. They're also Dolby Vision certified. I have zero complaints about these screens, besides the fact they only have 60Hz refresh rates.
@@ -101,10 +93,6 @@ The verdict? It's a speedy machine. The Core Ultra processor feels snappier than
 To power the Yoga Book 9i, Lenovo includes an 80W battery that's rated for about seven to eight hours of usage on a full charge. [In my testing](https://www.zdnet.com/article/how-we-test-laptops/), I was able to get to about seven hours of usage before it conked out, which is perfectly fine since 1.) this laptop has two screens and 2.) some pricier laptops like the [Surface Laptop Studio 2](https://www.zdnet.com/article/microsoft-surface-laptop-studio-2-review/) can't get anywhere near that.
 
 Charging the laptop is as straightforward as it comes. There's a Rapid Charge adapter in the box that gives you about two hours of runtime with just 15 minutes of charging. I found this mostly to be true, although you have to shut the lid if you want charging speeds to really pick up.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Evaluating Lenovo's dual-screen software
 
@@ -126,10 +114,6 @@ It's weird; I've had apps like Chrome and Spotify show up on the lower display w
 
 I'll give Lenovo credit, the new Yoga Book 9i feels smoother than the old one did. I don't notice as much scruff or weird glitches with the software, and the bundled Bluetooth keyboard doesn't produce nearly as many double-key entries as before. Still, it's not a perfect experience, which is something to keep in mind if you're going to spend $2,000 on a laptop.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## One thing to keep in mind
 
 Having a laptop with two screens means you'll have to lug around a separate keyboard, mouse, and kickstand, all three of which (plus a stylus) come in the box. It's a lot of separate things you have to remember to bring, and I'm going to be honest with you, it can be inconvenient.
@@ -139,10 +123,6 @@ Max Buondonno/ZDNET
 When I'm working on my MacBook or -- quite frankly -- any other laptop in my arsenal, all I have to do is close the lid and load it into my backpack when I'm finished. With the Yoga Book 9i, I have to close the laptop > collapse the kickstand > place the keyboard inside the collapsed kickstand > stack the keyboard/kickstand combo, mouse, and stylus on top of the laptop > shove it all in my bag and pray I can find it later when it's time to go back to work.
 
 Of course, you'll eventually get used to it, but it'll never be as convenient as shutting your laptop lid and moving on with your day.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## ZDNET's buying advice
 
@@ -182,14 +162,19 @@ If none of that matters to you and you're cool with living with the Yoga Book 9i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-ideal-portals-to-rewind-at-your-computer-ps3-edition/"><u>[New] 2024 Approved Ideal Portals to Rewind at Your Computer (PS3 Edition)</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-pros-in-the-field-pick-their-favorite-asmr-mics/"><u>[New] 2024 Approved Pros in the Field Pick Their Favorite ASMR Mics</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-supercharge-your-chat-essential-whatsapp-tactics-revealed/"><u>[Updated] 2024 Approved Supercharge Your Chat Essential WhatsApp Tactics Revealed</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/anthem-on-windows-10-silent-problem-expert-fixes-and-solutions/"><u>Anthem on Windows 10 Silent Problem – Expert Fixes & Solutions!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722978499661-easy-and-speedy-arduino-mega-25n0-driver-downloads-start-your-project-now/"><u>Easy and Speedy Arduino Mega 25N0 Driver Downloads - Start Your Project Now</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-update-installing-the-scansnap-s1100-scanner-driver-with-speed-and-simplicity/"><u>Get the Latest Update: Installing the ScanSnap S1100 Scanner Driver with Speed and Simplicity</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-from-your-iphone-13-pro-max-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID From your iPhone 13 Pro Max without Security Questions?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-nvidia-geforce-rtx-1080-driver-downloads-compatible-with-windows-10-quick-guide/"><u>Latest Nvidia GeForce RTX 1080 Driver Downloads Compatible with Windows 10 - Quick Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/troubleshooting-tip-acquiring-basic-input-devices-drivers-missing-from-windows-10-operating-system/"><u>Troubleshooting Tip: Acquiring Basic Input Devices Drivers Missing From Windows 10 Operating System</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-the-leading-10-apps-for-sketching-and-drawing-on-chrome-for-2024/"><u>[New] The Leading 10 Apps for Sketching and Drawing on Chrome for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-craft-your-best-youtubing-exit-tips-from-industry-leaders/"><u>[Updated] 2024 Approved Craft Your Best YouTubing Exit - Tips From Industry Leaders</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-compelling-mp4-player-selections-reviewed/"><u>2024 Approved Compelling MP4 Player Selections Reviewed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/connect-your-xbox-one-to-xbox-live-successfully-a-step-by-step-fix-guide/"><u>Connect Your Xbox One to Xbox Live Successfully: A Step-by-Step Fix Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-free-m-audio-fast-track-ultra-driver-enhanced-audio-interface/"><u>Download Free M-Audio Fast Track Ultra Driver - Enhanced Audio Interface</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-installation-of-epson-xp-245-driver-on-windows-7810-step-by-step-guide/"><u>Easy Installation of Epson XP 245 Driver on Windows 7/8/10 - Step by Step Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/efficient-setup-of-samsung-m2070-instant-driver-download-guide/"><u>Efficient Setup of Samsung M2070 - Instant Driver Download Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-your-graphics-with-the-new-amd-radeon-pro-w5700-drivers-for-win-11-10-and-7-systems/"><u>Enhance Your Graphics with the New AMD Radeon Pro W5700 Drivers for Win 11, 10 & 7 Systems</u></a></li>
+<li><a href="https://os-tips.techidaily.com/get-ready-upcoming-iphone-tap-to-pay-functionality-through-external-app-developers/"><u>Get Ready! Upcoming iPhone Tap-to-Pay Functionality Through External App Developers</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-essential-android-and-ios-tech-record-google-meet/"><u>In 2024, Essential Android & iOS Tech Record Google Meet</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-nokia-g310frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Nokia G310FRP Lock</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-and-easy-installation-of-the-wacom-intuos-pro-driver-for-users-with-windows-10/"><u>Quick and Easy Installation of the Wacom Intuos Pro Driver for Users with Windows 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-driver-issues-downloading-and-updating-dell-latitude-e6430-on-windows-systems-fixed/"><u>Troubleshooting Driver Issues: Downloading & Updating Dell Latitude E6430 on Windows Systems [FIXED]</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721452834006-unlock-better-battery-efficiency-on-your-iphone-with-these-six-steps/"><u>Unlock Better Battery Efficiency on Your iPhone with These Six Steps</u></a></li>
 </ul></div>
 

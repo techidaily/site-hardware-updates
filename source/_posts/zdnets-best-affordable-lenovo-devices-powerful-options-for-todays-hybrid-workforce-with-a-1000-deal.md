@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Best Affordable Lenovo Devices: Powerful Options for Today's Hybrid Workforce with a $1,000 Deal!"
-date: 2025-02-12T05:01:38.378Z
-updated: 2025-02-15T18:57:36.388Z
+date: 2025-02-25T20:49:38.673Z
+updated: 2025-03-04T20:14:35.400Z
 tags:
   - laptops
 categories:
@@ -41,10 +41,6 @@ This laptop isn't solely for business professionals, though. It's well-rounded e
 
 Right now is the best time to buy the [Lenovo Gen 12 ThinkPad X1 Carbon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D1D5J1J1%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7de9d47f-95cf-42d0-9213-b57cc5420698%7Cdtp&dtb=1) since it's currently on sale at Amazon for $1,500 -- $1,000 off the original price. I should also mention that there is a variant of the laptop with a 2.8K OLED display, which is the model [I tested back in February](https://www.zdnet.com/article/the-thinkpad-i-recommend-for-hybrid-workers-is-not-lenovos-newest-model/). The [OLED version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D5SNKGZ4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7de9d47f-95cf-42d0-9213-b57cc5420698%7Cdtp&dtb=1) is much more expensive, but I recommend it as an alternative if you can afford it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## When will this deal expire?
 
 Deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on this deal, but don't fret -- we're constantly finding new chances to score savings and sharing them with you at ZDNET.com. 
@@ -79,17 +75,19 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-speed-filled-guide-to-double-exposure-methods/"><u>[Updated] 2024 Approved Speed-Filled Guide to Double Exposure Methods</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-insightful-steps-to-identify-your-viewers/"><u>[Updated] Insightful Steps to Identify Your Viewers</u></a></li>
-<li><a href="https://windows11.techidaily.com/bypassing-xbox-game-pass-error-on-latest-windows-pcs/"><u>Bypassing Xbox Game Pass Error on Latest Windows PCs</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/1722762176603-discover-why-the-2018-apple-ipad-pro-11-inch-dominates-the-market-a-comprehensive-review/"><u>Discover Why the 2018 Apple iPad Pro 11-Inch Dominates the Market: A Comprehensive Review!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-canon-printer-driver-software-for-windows-10-8-and-7-get-latest-support/"><u>Download Canon Printer Driver Software for Windows 10, 8 & 7 - Get Latest Support</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-latest-epson-stylus-color-wf-2630-printer-driver-for-windows-7-81-and-10/"><u>Download the Latest Epson Stylus Color WF-2630 Printer Driver for Windows 7, 8.1 & 10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-driver-update-guide-for-synaptic-ps2-touchpads-get-started-now/"><u>Effortless Driver Update Guide for Synaptic PS/2 Touchpads - Get Started Now</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/getting-the-newest-driver-update-for-your-epson-xp-640-in-windows-1087/"><u>Getting the Newest Driver Update for Your Epson XP-640 in Windows 10/8/7</u></a></li>
-<li><a href="https://some-tips.techidaily.com/india-and-singapore-partner-on-seamless-interbank-fund-transfer-solutions-a-leap-forward-in-international-finance/"><u>India & Singapore Partner on Seamless Interbank Fund Transfer Solutions: A Leap Forward in International Finance</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/keep-your-graphics-up-to-date-with-official-nvidia-geforce-rtx-3070-ti-driver-support-on-windows/"><u>Keep Your Graphics Up-to-Date with Official NVIDIA GeForce RTX 3070 Ti Driver Support on Windows</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/outuber-essentials-studio-choice-over-beta-alternative/"><u>Pro YouTuber Essentials Studio Choice Over Beta Alternative</u></a></li>
-<li><a href="https://games-able.techidaily.com/pros-choice-navigating-the-best-40-inch-tv-landscape-of-2024-zdnet-insights/"><u>Pro's Choice: Navigating the Best 40-Inch TV Landscape of 2024 | ZDNET Insights</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-elite-livestream-tools-and-solutions/"><u>[New] Elite Livestream Tools & Solutions</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-essential-tips-streamline-mac-screen-captures-using-keyboard-tricks/"><u>2024 Approved Essential Tips Streamline Mac Screen Captures Using Keyboard Tricks</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-nikon-j5-sets-new-standards-in-4k-video-capture/"><u>2024 Approved Nikon J5 Sets New Standards in 4K Video Capture</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-installation-latest-epson-xp-440-driver-download-and-update-tutorials-for-seamless-printing/"><u>Effortless Installation: Latest Epson XP-440 Driver Download & Update Tutorials for Seamless Printing</u></a></li>
+<li><a href="https://win-web.techidaily.com/expert-tips-for-turning-off-thumbnail-previews-in-flipbooks-with-flipbuilder-software/"><u>Expert Tips for Turning Off Thumbnail Previews in Flipbooks with FlipBuilder Software</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/explore-the-power-of-apple-m4-microchip-insight-into-its-imminent-release-and-technical-data-sheet/"><u>Explore the Power of Apple M4 Microchip - Insight Into Its Imminent Release & Technical Data Sheet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-most-recent-update-for-your-epson-wf-7720-printer-on-windows-systems/"><u>Get the Most Recent Update for Your Epson WF-7720 Printer on Windows Systems</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-a38-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on A38</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-from-iphone-6s-plus-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password From iPhone 6s Plus</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-snappy-snippets-quick-and-quirky-memes-guide/"><u>In 2024, Snappy Snippets Quick and Quirky Memes Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-dell-networking-drivers-compatible-with-windows-7/"><u>Latest Dell Networking Drivers Compatible with Windows 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-release-download-the-amd-rx-6700-xt-drivers-for-windows-operating-systems-including-win11-10-and-7/"><u>Latest Release: Download the AMD RX 6700 XT Drivers for Windows Operating Systems Including Win11, 10 & 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-on-acquiring-new-intel-cpu-drivers-instantly/"><u>Step-by-Step Tutorial on Acquiring New Intel CPU Drivers Instantly</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/why-pay-full-price-trade-in-at-newegg-and-receive-300i9-14900k-220ryzen-7-7800x3d-unlock-savings-with-their-new-program/"><u>Why Pay Full Price? Trade in at Newegg & Receive $300/I9-14900K, $220/Ryzen 7 7800X3D - Unlock Savings with Their New Program</u></a></li>
 </ul></div>
 

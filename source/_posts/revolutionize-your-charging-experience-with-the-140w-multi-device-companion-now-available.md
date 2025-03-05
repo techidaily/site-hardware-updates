@@ -1,7 +1,7 @@
 ---
 title: Revolutionize Your Charging Experience with the 140W Multi-Device Companion - Now Available!
-date: 2025-02-09T21:19:41.464Z
-updated: 2025-02-15T18:03:03.836Z
+date: 2025-03-01T22:40:42.693Z
+updated: 2025-03-04T23:59:48.467Z
 tags:
   - laptops
 categories:
@@ -40,10 +40,6 @@ Here are some of the most interesting features I saw during my hands-on briefing
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Smart Share
 
 One of the more immediately useful features I saw is the new Smart Share function. Simply giving your laptop a good whack with your phone activates a window that brings up a handful of your most recent photos that you can simply drag and drop onto your computer.
@@ -60,18 +56,10 @@ Kyle Kucharski/ZDNET
 
 Besides the Smart Share features, there are four different "modes" that activate various features. You can toggle each feature on or off individually, to avoid being bombarded with different prompts. Here are the most impactful ones I saw during my time trying the new laptops.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Shield Mode
 
 * The Privacy Alert setting uses the camera to notify you if someone is looking at your laptop screen over your shoulder. Additionally, you can have it automatically blur the screen or turn it off altogether in case someone is detected snooping.
 * The VPN auto-launch feature will start your preferred VPN automatically upon connecting to any public Wi-Fi network, a handy function if you spend a lot of time working in coffee shops.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Attention Mode
 
@@ -79,17 +67,9 @@ Besides the Smart Share features, there are four different "modes" that activate
 
 Kyle Kucharski/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Collaboration Mode
 
 * Designed mostly for virtual meetings, activating this mode enables your preset camera features, such as background blur, low light enhancer, or touch ups.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Wellness Mode
 
@@ -133,21 +113,20 @@ We'll definitely be doing some additional testing of the smart modes when we get
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-effortless-fb-video-creation-best-20-free-tools-unveiled/"><u>[Updated] 2024 Approved Effortless FB Video Creation Best 20 Free Tools Unveiled</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-easy-screencasting-techniques-systematic-guidebook/"><u>2024 Approved Easy Screencasting Techniques Systematic Guidebook</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amds-essential-gpio-driver-secure-your-free-copy-here/"><u>AMD's Essential GPIO Driver - Secure Your Free Copy Here</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-zebra-gk420d-drivers-instantly-get-setup-today/"><u>Download Zebra GK420D Drivers Instantly - Get Setup Today</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/dvd-burning-made-easy-convert-videos-to-dvd-on-windows-and-mac-for-2024/"><u>DVD Burning Made Easy Convert Videos to DVD on Windows and Mac for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-download-automatic-detection-of-the-latest-amd-graphics-driver/"><u>Effortless Download: Automatic Detection of the Latest AMD Graphics Driver</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/enhance-your-pc-performance-now-with-the-new-nvidia-geforce-rtx-2070-driver-download-windows-1187/"><u>Enhance Your PC Performance Now with the New NVIDIA Geforce RTX 2070 Driver Download (Windows 11/8/7)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ensure-optimal-performance-download-the-latest-hp-printer-drivers-now/"><u>Ensure Optimal Performance: Download the Latest HP Printer Drivers Now!</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-honor-100-pro-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Honor 100 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-phone-without-google-account-by-drfone-android/"><u>How to Unlock Motorola Phone without Google Account?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-around-chatgpts-input-constraints-strategies-for-extended-dialogue-sessions/"><u>Navigating Around ChatGPT's Input Constraints: Strategies for Extended Dialogue Sessions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-fix-learn-how-to-install-newest-lenovo-docking-station-driver/"><u>Quick Fix: Learn How to Install Newest Lenovo Docking Station Driver</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/quick-fixes-for-an-icy-macbook-air-how-to-restart-and-unfreeze/"><u>Quick Fixes for an Icy MacBook Air: How to Restart & Unfreeze</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/secure-and-fast-instagram-to-mp4-conversion-for-windowsmac-users-for-2024/"><u>Secure & Fast Instagram to MP4 Conversion for Windows/Mac Users for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-updating-the-microsoft-mouse-drivers-on-your-windows-pc/"><u>Step-by-Step Guide: Updating the Microsoft Mouse Drivers on Your Windows PC</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-revolution-of-perception-in-augmented-realms-for-2024/"><u>The Revolution of Perception in Augmented Realms for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/asy-tutorial-uploading-youtube-shorts-video-via-computer-and-phone-for-2024/"><u>[New] Easy Tutorial Uploading YouTube Shorts Video via Computer & Phone for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-top-tech-pickings-from-toms-hardware-scoops/"><u>Discover Top Tech Pickings From Tom's Hardware Scoops</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-compatibility-and-optimize-functionality-new-pl2-303-usb-to-serial-adapter-driver-for-windows-systems-download/"><u>Ensure Compatibility & Optimize Functionality: New PL2 303 USB To Serial Adapter Driver for Windows Systems Download</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fixing-your-hp-laserjet-p2n35-driver-issues-in-microsoft-windows-easily/"><u>Fixing Your HP LaserJet P2n35 Driver Issues in Microsoft Windows Easily</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-free-epson-scan-now-v39-drivers-for-windows-7-8-or-10-operating-systems/"><u>Get Your Free Epson Scan-Now V39 Drivers for Windows 7, 8 or 10 Operating Systems</u></a></li>
+<li><a href="https://apple-account.techidaily.com/guide-on-how-to-remove-apple-id-from-apple-iphone-12-pro-by-drfone-ios/"><u>Guide on How To Remove Apple ID From Apple iPhone 12 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-enjoy-high-quality-playback-fixing-vlcs-hdmi-hdr-issues-and-stream-in-ultra-hd/"><u>How to Enjoy High-Quality Playback: Fixing VLC's HDMI HDR Issues and Stream in Ultra HD</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-compatible-drivers-available-now-download-updated-hp-deskjet-ink-advantage-f381-wi-fi-all-in-one-printer/"><u>Latest Compatible Drivers Available Now: Download Updated HP DeskJet Ink Advantage F381 Wi-Fi All-in-One Printer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-overwatch-challenge-fixes-for-lost-rendering-device-problems/"><u>Overcoming the Overwatch Challenge - Fixes for Lost Rendering Device Problems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/secure-your-zexmte-bluetooth-device-download-official-windows-compatible-driver-for-windows-1078/"><u>Secure Your Zexmte Bluetooth Device - Download Official Windows-Compatible Driver for WINDOWS 10/7/8</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-ultimate-list-of-instagram-grid-making-software-for-2024/"><u>The Ultimate List of Instagram Grid Making Software for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-free-to-create-top-5-mod-video-editors-for-aspiring-filmmakers-for-2024/"><u>Updated Free to Create Top 5 MOD Video Editors for Aspiring Filmmakers for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-relying-solely-on-ai-for-writing-misses-human-expertise/"><u>Why Relying Solely on AI for Writing Misses Human Expertise</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211010443-9781088233146-zdorovaya-aktivnaya-zhizn-v-lyubom-vozraste-pyat-kursov/"><u>Здоровая Активная Жизнь в Любом Возрасте: Пять курсов | Free Book</u></a></li>
 </ul></div>
 

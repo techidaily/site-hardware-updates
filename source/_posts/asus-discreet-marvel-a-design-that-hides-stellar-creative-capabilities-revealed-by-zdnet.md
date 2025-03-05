@@ -1,7 +1,7 @@
 ---
 title: "Asus' Discreet Marvel: A Design That Hides Stellar Creative Capabilities Revealed by ZDNet"
-date: 2025-02-14T23:25:13.688Z
-updated: 2025-02-16T04:43:19.048Z
+date: 2025-03-02T16:20:25.886Z
+updated: 2025-03-05T01:34:03.635Z
 tags:
   - laptops
 categories:
@@ -19,10 +19,6 @@ Cesar Cadenas/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -72,10 +68,6 @@ Asus' Vivobook Pro 15 does a good job playing media. Hi-res videos look stunning
 
 In line with my initial impression, the device is a little on the bulky side, but the extra heft is not a big deal because it's lightweight and the extra room allows for a wide array of ports. You get two USB-Cs, a pair of USB-A inputs that support transfer speeds of up to 5GBPS, HDMI, an ethernet port, and an SD card slot.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 I recommend the [Asus Vivobook Pro 15](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-vivobook-pro-15-oled-laptop-intel-evo-edition-nvidia-rtx3050-6gb-with-16gb-memory-1tb-ssd-earl-gray%2F6568760.p&publisher_slug=itechdaily19598&exclusive=1) to content creators or graphic designers who want a well-performing, relatively inexpensive work machine. Prices for the model start at $1,299; however, at the time of this writing, it's currently going for $1,049\. There is [another model available](https://www.asus.com/us/laptops/for-home/everyday-use/asus-vivobook-pro-15-oled-q543/) with an Intel Core Ultra 9 processor, a GeForce RTX 4060 GPU, a 3K display, and an SSD with 2TB of storage. This other laptop retails for $1,699.
@@ -112,20 +104,22 @@ If you want something more powerful, I suggest checking out the MSI Creator Z16 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-pinterest-content-powered-free-high-speed-download-apps-reviewed/"><u>[New] Pinterest Content Powered Free, High-Speed Download Apps Reviewed</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-leading-no-cost-screen-recorders-for-windows-top-5-list/"><u>[Updated] 2024 Approved Leading No-Cost Screen Recorders For Windows – Top 5 List</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-seamless-tiktok-content-for-twitter-audience-for-2024/"><u>[Updated] Seamless TikTok Content for Twitter Audience for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-surveying-the-spectrum-of-windows-movie-maker-updates/"><u>[Updated] Surveying the Spectrum of Windows Movie Maker Updates</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-zipping-down-peaks-top-moments-from-olympic-snowboard-cross-event/"><u>2024 Approved Zipping Down Peaks Top Moments From Olympic Snowboard Cross Event</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/asus-mousepad-driver-download-for-windows/"><u>ASUS Mousepad Driver Download for Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-logitech-g29-steering-wheel-drivers-for-pc-windows-11-supported/"><u>Get Your Logitech G29 Steering Wheel Drivers for PC (Windows 11 Supported)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/getting-started-with-magic-mouse-downloading-and-setting-up-for-windows-systems/"><u>Getting Started with Magic Mouse: Downloading and Setting Up for Windows Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-install-new-graphics-card-drivers-for-your-amd-radeon-r9-on-a-window-os/"><u>How to Install New Graphics Card Drivers for Your AMD Radeon R9 on a Window OS</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-quickly-update-or-download-microsoft-drivers-on-your-pc-windows-1087/"><u>How To Quickly Update or Download Microsoft Drivers on Your PC (Windows 10/8/7)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722962932293-hp-sound-card-compatibility-fixes-with-windows-1187-now-solved/"><u>HP Sound Card Compatibility Fixes with Windows 11/8/7 – Now Solved!</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-jailbreak-icloud-locked-iphone-6-plus-by-drfone-ios/"><u>In 2024, How to jailbreak iCloud locked iPhone 6 Plus</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-geforce-rtx-2070-graphics-card-driver-update-now-available-for-windows-users-118-and-7/"><u>Latest Geforce RTX 2070 Graphics Card Driver Update Now Available for Windows Users (11,8 & 7)</u></a></li>
-<li><a href="https://facebook.techidaily.com/stealth-mode-for-facebook-eliminate-unexpected-glances/"><u>Stealth Mode for Facebook: Eliminate Unexpected Glances</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-leveraging-preview-capabilities-on-a-mac-for-2024/"><u>The Ultimate Guide to Leveraging Preview Capabilities on a Mac for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-optimize-gmail-for-video-calls-with-effective-zoom-use/"><u>[New] Optimize Gmail for Video Calls with Effective Zoom Use</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-unlocking-twitters-potential-with-live-videos/"><u>[Updated] 2024 Approved Unlocking Twitter's Potential with Live Videos</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-exploring-vlc-options-and-rivals-for-2024/"><u>[Updated] Exploring VLC Options and Rivals for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-chat-app-for-android-a-comparative-review-of-google-and-samsung-messages/"><u>Best Chat App for Android: A Comparative Review of Google and Samsung Messages</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/conserve-power-on-android-utilize-built-in-battery-saving-functionality/"><u>Conserve Power on Android: Utilize Built-In Battery Saving Functionality</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-curious-case-of-falling-sd-card-sales-could-it-be-due-to-misunderstood-advantages/"><u>The Curious Case of Falling SD Card Sales - Could It Be Due to Misunderstood Advantages?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-dark-side-of-conversational-bots-unveiling-the-8-critical-shortfalls/"><u>The Dark Side of Conversational Bots: Unveiling the 8 Critical Shortfalls</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-travel-companion-mokos-universal-foldable-wireless-keyboard/"><u>The Ultimate Travel Companion: MoKo's Universal Foldable Wireless Keyboard</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-tutorial-on-streaming-android-content-onto-your-tv-screen/"><u>The Ultimate Tutorial on Streaming Android Content Onto Your TV Screen</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-realme-c67-4g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Realme C67 4G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transformative-collaboration-british-petroleum-teams-up-with-tesla-for-revolutionary-charging-solutions/"><u>Transformative Collaboration: British Petroleum Teams Up with Tesla for Revolutionary Charging Solutions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/tutorial-how-to-set-location-pins-using-google-maps-feature/"><u>Tutorial: How to Set Location Pins Using Google Maps Feature</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-shutting-down-android-applications-efficiently/"><u>Ultimate Guide: Shutting Down Android Applications Efficiently</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-tech-bargains-save-on-jbl-bar-700-amazons-fire-max-tablet-smart-video-doorbells-and-additional-cutting-edge-gadgets/"><u>Unbeatable Tech Bargains: Save on JBL Bar 700, Amazon's Fire Max Tablet, Smart Video Doorbells, and Additional Cutting-Edge Gadgets</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unleash-luxury-top-10-accessories-for-the-sj4000-for-2024/"><u>Unleash Luxury Top 10 Accessories for the SJ4000 for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unraveling-the-mystery-what-causes-frequent-phone-wi-fi-drops/"><u>Unraveling the Mystery: What Causes Frequent Phone Wi-Fi Drops</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-guide-for-enhanced-scanner-functionality-scansnap-s1500/"><u>Update Guide for Enhanced Scanner Functionality (ScanSnap S1500)</u></a></li>
 </ul></div>
 

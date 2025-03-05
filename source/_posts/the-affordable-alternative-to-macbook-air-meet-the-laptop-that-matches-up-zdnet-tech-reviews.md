@@ -1,7 +1,7 @@
 ---
 title: The Affordable Alternative to MacBook Air - Meet the Laptop That Matches Up | ZDNET Tech Reviews
-date: 2025-02-13T03:55:22.813Z
-updated: 2025-02-16T02:46:41.287Z
+date: 2025-03-02T16:48:45.005Z
+updated: 2025-03-05T03:04:46.337Z
 tags:
   - laptops
 categories:
@@ -19,10 +19,6 @@ Cesar Cadenas/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -70,10 +66,6 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 The Zephyrus G14 has one other major downside, besides its heating issue. The laptop comes with a lot of bloatware. The SSD is packed with several forgettable apps. Granted, some are useful. Armoury Crate controls the RGB lights and GeForce Experience manages your library of games. The onboard assistant? Not so much. At least, I didn't find myself looking for it. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### ZDNET's buying advice
 
 [Asus' ROG Zephyrus G14](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVLJ8T8D%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca68e981b-6f68-44ea-b0e0-8080b226bcdd%7Cdtp&dtb=1) is a fantastic laptop for most people. Geeks like myself will appreciate the customizable RGB lighting and the hardware that is good enough for most gaming sessions. Professionals will appreciate the stylish design as well as the long battery life.
@@ -114,16 +106,18 @@ The Zephyrus G14 starts at $1,600\. My review unit in particular costs $1,900, w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-crafting-immersive-vr-experiences-with-adobe-premieres-360-editing-features/"><u>[New] Crafting Immersive VR Experiences with Adobe Premiere's 360° Editing Features</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-and-ai-image-generation-an-ultimate-how-to-manual/"><u>ChatGPT and AI Image Generation: An Ultimate How-To Manual</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/construct-playlist-with-film-assortments/"><u>Construct Playlist with Film Assortments</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-corsair-keyboard-software-and-drivers-for-windows-free-and-secure/"><u>Download Corsair Keyboard Software & Drivers for Windows - Free and Secure</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-guide-installing-and-updating-ralink-network-adapter-drivers-on-windows-systems/"><u>Easy Guide: Installing and Updating Ralink Network Adapter Drivers on Windows Systems</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-a-beginners-guide-to-producing-and-polishing-haul-videos/"><u>In 2024, A Beginner's Guide to Producing & Polishing Haul Videos</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/1716796019585-in-2024-how-to-block-youtube-channels-on-computer-and-mobile-phones/"><u>In 2024, How to Block Youtube Channels on Computer and Mobile Phones</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/installing-the-latest-epson-v700-driver-software-for-windows-os-versions-78110/"><u>Installing the Latest Epson V700 Driver Software for Windows OS Versions 7/8.1/10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/synaptic-touchpad-driver-update-made-easy-for-all-users/"><u>Synaptic Touchpad Driver Update Made Easy for All Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-or-install-dell-network-drivers-for-win7-operating-system/"><u>Update or Install Dell Network Drivers for Win7 Operating System</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/windows-hdri-techniques-for-videographers/"><u>Windows HDRI Techniques for Videographers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-clearsky-top-notch-photo-background-cleaner/"><u>[New] 2024 Approved ClearSky Top-Notch Photo Background Cleaner</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/levate-views-a-guide-to-best-youtube-hash-tags-for-2024/"><u>[New] Elevate Views A Guide to Best YouTube Hash Tags for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-simplifying-live-broadcasts-with-efficient-obs-tips-for-2024/"><u>[New] Simplifying Live Broadcasts with Efficient OBS Tips for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-elevate-your-content-game-with-these-powerful-youtube-shortcuts/"><u>2024 Approved Elevate Your Content Game with These Powerful YouTube Shortcuts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amds-next-leap-with-fire-range-the-continued-use-of-fl1-packaging-in-zen-5-cpus-and-potential-for-rtx-series-integration-in-new-laptop-releases/"><u>AMD's Next Leap with 'Fire Range': The Continued Use of FL1 Packaging in Zen 5 CPUs and Potential for RTX Series Integration in New Laptop Releases</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-ricoh-mp-c4503-printer-drivers-step-by-step-guide/"><u>Download the Ricoh MP C4503 Printer Drivers: Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722959107811-easy-amd-vega-graphics-card-driver-downloads-and-updates-for-enhanced-gaming-performance/"><u>Easy AMD Vega Graphics Card Driver Downloads and Updates for Enhanced Gaming Performance!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-and-update-microsoft-bluetooth-drivers-for-your-windows-pc-compatible-with-win-10-11-8-or-er/"><u>Find & Update Microsoft Bluetooth Drivers for Your Windows PC - Compatible with Win 10, 11, 8, or Er</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fresh-drivers-ready-to-go-downloading-and-updating-for-your-lenovo-thinkpad-t420s-running-windows-11/"><u>Fresh Drivers Ready to Go - Downloading & Updating for Your Lenovo ThinkPad T420s Running Windows 11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-5-solutions-for-infinix-smart-8-hd-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Infinix Smart 8 HD Unlock Without Password</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/intel-user-disputes-processing-terms-alleges-inauthenticity-in-acquired-brand-new-i9-14900k-cpu-units-from-amazon-and-micro-center/"><u>Intel User Disputes Processing Terms - Alleges Inauthenticity in Acquired Brand New I9-14900K CPU Units From Amazon & Micro Center</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/key-technological-milestampts-since-1844-an-overview/"><u>Key Technological Milestampts Since 1844: An Overview</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-apple-watch-straps-comprehensive-reviews-by-tech-pros/"><u>Top-Rated Apple Watch Straps : Comprehensive Reviews by Tech Pros</u></a></li>
 </ul></div>
 
